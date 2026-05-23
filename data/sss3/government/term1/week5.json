@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Inter-Ethnic Rivalry and Issue of State Creation",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w5_su1",
+      "title": "5.1 Nature of Ethnic Conflicts and Rivalry in Nigeria",
+      "notes": [
+        "Ethnic rivalry in Nigeria stems from historical amalgamation (1914), colonial 'divide and rule' policies, and post-independence regional competition for political power and resources.",
+        "Key manifestations: Tiv riots (1960s), Agbekoya uprising (1960s), 1966 anti-Igbo pogroms, Niger Delta militancy, farmer-herder clashes in the Middle Belt, and agitation for resource control.",
+        "Underlying causes: political marginalization, unequal revenue allocation, competition for federal appointments, land disputes, and historical grievances over state creation.",
+        "Consequences: loss of lives and property, economic disruption, national insecurity, military interventions, and erosion of public trust in federal institutions.",
+        "Understanding ethnic dynamics is crucial for designing inclusive policies, promoting national cohesion, and preventing cyclical violence in a pluralistic society."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Ethnic rivalry Nigeria causes consequences solutions site:youtube.com",
+      "quiz": [
+        {"q": "A major historical root of ethnic rivalry in Nigeria is:", "opts": ["The 1999 Constitution", "Colonial amalgamation and divide-and-rule policies", "Independence in 1960", "Establishment of INEC"], "ans": 1, "explanation": "The 1914 amalgamation forced diverse groups under one administration without addressing cultural and political differences, while colonial policies exacerbated divisions."},
+        {"q": "Which event exemplifies post-independence ethnic violence in Nigeria?", "opts": ["1979 elections", "1966 anti-Igbo pogroms", "1963 census", "2015 general elections"], "ans": 1, "explanation": "The 1966 pogroms followed military coups and resulted in mass killings and displacement, deepening ethnic tensions."},
+        {"q": "A primary driver of Niger Delta militancy is:", "opts": ["Religious differences", "Resource control and environmental degradation", "Lack of educational facilities", "Foreign intervention"], "ans": 1, "explanation": "Communities in oil-rich areas agitated for fair revenue sharing, ecological remediation, and development after decades of marginalization."},
+        {"q": "Ethnic rivalry negatively impacts national development by:", "opts": ["Strengthening federal unity", "Diverting resources to security and disrupting economic activities", "Increasing foreign investment", "Promoting cultural homogeneity"], "ans": 1, "explanation": "Conflicts divert funds from infrastructure and social services, deter investment, and destabilize productive sectors."},
+        {"q": "Farmer-herder clashes in Nigeria are primarily fueled by:", "opts": ["Political party competition", "Land use changes, climate variability, and competition for grazing/farming space", "Religious doctrines", "Foreign agricultural policies"], "ans": 1, "explanation": "Desertification, shrinking grazing routes, and expanding farmlands have intensified competition for land and water resources."},
+        {"q": "A constitutional mechanism to address ethnic marginalization is:", "opts": ["Abolishing state governments", "Federal character principle in appointments and revenue allocation", "Centralizing all power in the presidency", "Eliminating traditional institutions"], "ans": 1, "explanation": "The federal character principle ensures equitable representation of ethnic groups in governance and resource distribution."},
+        {"q": "Which factor most exacerbates ethnic rivalry in Nigeria?", "opts": ["Transparent revenue sharing", "Political manipulation of ethnic identities for electoral gain", "Free and fair elections", "Independent judiciary"], "ans": 1, "explanation": "Politicians often exploit ethnic sentiments to mobilize voters, deepening divisions and undermining national unity."},
+        {"q": "Historical ethnic crises in Nigeria led to:", "opts": ["Immediate democratic consolidation", "Military interventions and constitutional restructuring", "Elimination of political parties", "Abolition of the civil service"], "ans": 1, "explanation": "Ethnic violence and political instability frequently justified military coups and prompted state creation exercises to balance power."},
+        {"q": "Promoting national cohesion in multi-ethnic Nigeria requires:", "opts": ["Ethnic segregation", "Inclusive governance, equitable resource distribution, and civic education", "Military suppression of dissent", "Centralized cultural policies"], "ans": 1, "explanation": "Equitable policies and civic awareness build trust, reduce grievances, and foster shared national identity."},
+        {"q": "Understanding ethnic rivalry helps citizens:", "opts": ["Support separatist movements", "Advocate for inclusive policies and peaceful conflict resolution", "Reject national unity", "Ignore constitutional rights"], "ans": 1, "explanation": "Civic knowledge enables constructive participation in dialogue, policy advocacy, and democratic accountability."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w5_su2",
+      "title": "5.2 Problems of Secession & Measures to Avoid Secession",
+      "notes": [
+        "Secession refers to the formal withdrawal of a region from a sovereign state to form an independent entity, as attempted by Eastern Region in 1967 (Biafra).",
+        "Causes of secessionist agitation: perceived political marginalization, economic exploitation, security threats, ethnic domination, and failure of federal dialogue.",
+        "The Nigerian Civil War (1967–1970) resulted from the Eastern Region's declaration of independence, leading to massive casualties, economic devastation, and international diplomacy challenges.",
+        "Post-war measures to prevent secession: 'No victor, no vanquished' policy, state creation to dilute regional power, federal character principle, revenue sharing reforms, and constitutional guarantees of unity and indivisibility.",
+        "Modern agitations (e.g., IPOB, Yoruba Nation, Niger Delta groups) highlight the need for continuous dialogue, equitable development, and constitutional restructuring to address legitimate grievances peacefully."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Secession problems Nigeria civil war measures to avoid site:youtube.com",
+      "quiz": [
+        {"q": "Secession in Nigeria refers to:", "opts": ["Formation of new political parties", "Withdrawal of a region from the federation to form an independent state", "Creation of new local governments", "Abolition of the presidency"], "ans": 1, "explanation": "Secession involves a region's formal attempt to break away from the Nigerian federation, as seen in 1967."},
+        {"q": "The primary cause of the 1967 Eastern Region secession attempt was:", "opts": ["Religious differences", "Perceived political marginalization and security fears after 1966 pogroms", "Lack of educational institutions", "Foreign intervention"], "ans": 1, "explanation": "The region felt politically excluded and physically threatened after the counter-coup and anti-Igbo violence."},
+        {"q": "A major consequence of the Nigerian Civil War was:", "opts": ["Immediate economic boom", "Massive loss of lives, infrastructure damage, and national trauma", "Elimination of ethnic identities", "Strengthening of regional governments"], "ans": 1, "explanation": "The war caused widespread destruction, famine, and long-term socioeconomic and psychological impacts."},
+        {"q": "The 'No victor, no vanquished' policy aimed to:", "opts": ["Punish defeated regions", "Promote reconciliation and national healing after the civil war", "Abolish state governments", "Centralize military control"], "ans": 1, "explanation": "The policy sought to rebuild trust, reintegrate former combatants, and foster unity without retribution."},
+        {"q": "State creation in post-civil war Nigeria helped prevent secession by:", "opts": ["Eliminating all ethnic groups", "Diluting regional power blocs and giving minorities political representation", "Centralizing all resources in Abuja", "Abolishing local governments"], "ans": 1, "explanation": "Creating more states reduced the concentration of power in former regions and addressed minority marginalization."},
+        {"q": "A constitutional safeguard against secession in Nigeria is:", "opts": ["Section 2 guaranteeing sovereignty and indivisibility", "Abolishing the National Assembly", "Eliminating judicial review", "Centralizing all elections"], "ans": 0, "explanation": "Section 2 of the 1999 Constitution declares Nigeria as an indivisible federation, legally prohibiting secession."},
+        {"q": "Modern secessionist agitations in Nigeria are often driven by:", "opts": ["Excessive federal funding", "Unaddressed grievances over development, resource control, and political inclusion", "Complete ethnic homogeneity", "Elimination of state governments"], "ans": 1, "explanation": "Groups agitate due to perceived economic neglect, security challenges, and demands for greater autonomy."},
+        {"q": "Effective conflict management to prevent secession requires:", "opts": ["Military suppression only", "Inclusive dialogue, equitable development, and constitutional review", "Eliminating all political parties", "Centralizing all media"], "ans": 1, "explanation": "Sustainable peace requires addressing root causes through dialogue, fair policies, and institutional reforms."},
+        {"q": "The federal character principle helps prevent secession by:", "opts": ["Favoring only majority groups", "Ensuring all ethnic regions benefit from national resources and appointments", "Eliminating local governments", "Centralizing foreign policy"], "ans": 1, "explanation": "Equitable representation reduces feelings of marginalization and fosters national cohesion."},
+        {"q": "Citizens can contribute to national unity by:", "opts": ["Supporting violent agitation", "Participating in peaceful dialogue, voting responsibly, and promoting inter-ethnic tolerance", "Rejecting constitutional processes", "Ignoring developmental policies"], "ans": 1, "explanation": "Active, peaceful civic engagement strengthens democratic institutions and addresses grievances constructively."}
+      ]
+    }
+  ]
+}

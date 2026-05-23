@@ -1,0 +1,149 @@
+{
+  "course": "SSS1 Chemistry",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Introduction to Chemistry",
+  "subUnits": [
+    {
+      "id": "sss1_chem_t1_w1_su1",
+      "title": "1.1 Meaning of Chemistry",
+      "notes": [
+        "Chemistry is the branch of science that deals with the study of matter—its composition, structure, properties, and the changes it undergoes.",
+        "Matter is anything that has mass and occupies space (has volume).",
+        "Chemistry is divided into several branches:",
+        "• Organic Chemistry: Study of carbon-containing compounds (except carbonates and oxides)",
+        "• Inorganic Chemistry: Study of non-carbon compounds and metals",
+        "• Physical Chemistry: Study of the physical properties and behavior of matter",
+        "• Analytical Chemistry: Identification and quantification of chemical substances",
+        "• Biochemistry: Study of chemical processes in living organisms",
+        "Chemistry is called the 'central science' because it connects physics with other natural sciences like biology, geology, and environmental science."
+      ],
+      "diagramDescriptions": [
+        "Diagram showing the branches of chemistry as interconnected circles with Chemistry at the center",
+        "Illustration of matter in three states: solid (particles tightly packed), liquid (particles loosely arranged), gas (particles widely spaced)"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Introduction to chemistry meaning branches SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "Chemistry is best defined as the study of:", "opts": ["Living organisms only", "Matter and its changes", "Energy and motion", "Rocks and minerals"], "ans": 1, "explanation": "Chemistry is the branch of science that studies matter—its composition, structure, properties, and changes."},
+        {"q": "Which branch of chemistry deals with carbon-containing compounds?", "opts": ["Inorganic chemistry", "Physical chemistry", "Organic chemistry", "Analytical chemistry"], "ans": 2, "explanation": "Organic chemistry focuses on carbon-containing compounds (except carbonates and oxides)."},
+        {"q": "Matter is defined as anything that:", "opts": ["Has color", "Has mass and occupies space", "Can be seen", "Is living"], "ans": 1, "explanation": "Matter is anything that has mass and occupies space (volume)."},
+        {"q": "The branch of chemistry that studies chemical processes in living organisms is:", "opts": ["Physical chemistry", "Biochemistry", "Inorganic chemistry", "Analytical chemistry"], "ans": 1, "explanation": "Biochemistry studies chemical processes and substances in living organisms."},
+        {"q": "Chemistry is called the 'central science' because it:", "opts": ["Is the most difficult science", "Connects physics with other natural sciences", "Was discovered first", "Has the most branches"], "ans": 1, "explanation": "Chemistry connects physics with biology, geology, environmental science, and other natural sciences."},
+        {"q": "Which of the following is NOT a branch of chemistry?", "opts": ["Organic chemistry", "Astrology", "Physical chemistry", "Analytical chemistry"], "ans": 1, "explanation": "Astrology is not a branch of chemistry; it's a pseudoscience. The main branches are organic, inorganic, physical, analytical, and biochemistry."},
+        {"q": "Inorganic chemistry primarily studies:", "opts": ["Carbon compounds", "Living things", "Non-carbon compounds and metals", "Chemical reactions only"], "ans": 2, "explanation": "Inorganic chemistry focuses on non-carbon compounds, metals, and minerals."},
+        {"q": "Analytical chemistry is concerned with:", "opts": ["Making new compounds", "Identifying and quantifying substances", "Studying energy changes", "Studying living organisms"], "ans": 1, "explanation": "Analytical chemistry focuses on identifying what substances are present and how much of each is present."},
+        {"q": "Which state of matter has particles that are tightly packed?", "opts": ["Gas", "Liquid", "Solid", "Plasma"], "ans": 2, "explanation": "In solids, particles are tightly packed in fixed positions, giving solids definite shape and volume."},
+        {"q": "Understanding chemistry is important because it:", "opts": ["Is only for scientists", "Helps us understand the world and develop new materials", "Is required for all jobs", "Has no practical applications"], "ans": 1, "explanation": "Chemistry helps us understand the material world, develop medicines, create new materials, and solve environmental problems."}
+      ]
+    },
+    {
+      "id": "sss1_chem_t1_w1_su2",
+      "title": "1.2 Career Prospects in Chemistry",
+      "notes": [
+        "Chemistry opens doors to diverse career opportunities in various sectors:",
+        "1. Healthcare/Medicine:",
+        "   • Pharmacist: Develops and dispenses medications",
+        "   • Medical Laboratory Scientist: Analyzes body fluids and tissues",
+        "   • Toxicologist: Studies effects of poisons and drugs",
+        "   • Biochemist: Researches chemical processes in living organisms",
+        "2. Industry:",
+        "   • Chemical Engineer: Designs processes for chemical production",
+        "   • Quality Control Analyst: Ensures product quality",
+        "   • Petrochemical Engineer: Works with oil and gas products",
+        "   • Materials Scientist: Develops new materials",
+        "3. Education:",
+        "   • Chemistry Teacher/Lecturer: Educates students",
+        "   • Research Scientist: Conducts experiments and discoveries",
+        "4. Environment:",
+        "   • Environmental Chemist: Studies pollution and solutions",
+        "   • Water Quality Analyst: Tests water safety",
+        "5. Other Fields:",
+        "   • Forensic Scientist: Analyzes evidence for law enforcement",
+        "   • Food Chemist: Ensures food safety and quality",
+        "   • Cosmetics Chemist: Develops beauty products",
+        "   • Agricultural Chemist: Improves crop production"
+      ],
+      "diagramDescriptions": [
+        "Career pathway chart showing chemistry leading to various professions: medicine, engineering, education, environment, industry",
+        "Infographic showing salary ranges and job growth for chemistry-related careers"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Career opportunities in chemistry Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A pharmacist primarily:", "opts": ["Teaches chemistry", "Develops and dispenses medications", "Analyzes water quality", "Studies rocks"], "ans": 1, "explanation": "Pharmacists are trained to develop, prepare, and dispense medications to patients."},
+        {"q": "Which career involves analyzing evidence for law enforcement?", "opts": ["Food chemist", "Forensic scientist", "Environmental chemist", "Materials scientist"], "ans": 1, "explanation": "Forensic scientists use chemistry to analyze physical evidence in criminal investigations."},
+        {"q": "A chemical engineer is responsible for:", "opts": ["Teaching students", "Designing processes for chemical production", "Analyzing body fluids", "Testing water quality"], "ans": 1, "explanation": "Chemical engineers design and optimize processes for large-scale chemical production."},
+        {"q": "Environmental chemists focus on:", "opts": ["Making cosmetics", "Studying pollution and environmental solutions", "Teaching chemistry", "Developing medicines"], "ans": 1, "explanation": "Environmental chemists study chemical processes in the environment and develop solutions to pollution."},
+        {"q": "Which career requires knowledge of chemistry and biology?", "opts": ["Geologist", "Biochemist", "Physicist", "Mathematician"], "ans": 1, "explanation": "Biochemists study chemical processes in living organisms, requiring knowledge of both chemistry and biology."},
+        {"q": "A quality control analyst in industry:", "opts": ["Teaches chemistry", "Ensures product quality meets standards", "Develops new drugs", "Studies rocks"], "ans": 1, "explanation": "Quality control analysts test products to ensure they meet safety and quality standards."},
+        {"q": "Food chemists are responsible for:", "opts": ["Ensuring food safety and quality", "Teaching nutrition", "Cooking meals", "Selling food"], "ans": 0, "explanation": "Food chemists analyze food composition, ensure safety, and develop new food products."},
+        {"q": "Which career involves studying the effects of poisons?", "opts": ["Toxicologist", "Pharmacist", "Teacher", "Engineer"], "ans": 0, "explanation": "Toxicologists study the adverse effects of chemicals, poisons, and drugs on living organisms."},
+        {"q": "Materials scientists:", "opts": ["Only study metals", "Develop new materials with specific properties", "Only work in laboratories", "Teach chemistry only"], "ans": 1, "explanation": "Materials scientists research and develop new materials (polymers, ceramics, metals) with desired properties."},
+        {"q": "Studying chemistry is valuable because it:", "opts": ["Limits career options", "Opens diverse career opportunities in many fields", "Is only useful for doctors", "Has no job prospects"], "ans": 1, "explanation": "Chemistry provides skills applicable to healthcare, industry, education, environment, forensics, and many other fields."}
+      ]
+    },
+    {
+      "id": "sss1_chem_t1_w1_su3",
+      "title": "1.3 Applications of Chemistry",
+      "notes": [
+        "Chemistry has numerous applications in everyday life and various sectors:",
+        "1. Hospital/Healthcare:",
+        "   • Drug development and manufacturing",
+        "   • Diagnostic tests (blood tests, urine analysis)",
+        "   • Sterilization of medical equipment",
+        "   • Production of vaccines and antibiotics",
+        "   • Anesthetics and pain relievers",
+        "2. Military:",
+        "   • Development of protective gear",
+        "   • Fuel and explosives",
+        "   • Chemical detection systems",
+        "   • Camouflage materials",
+        "3. Teaching/Education:",
+        "   • Training future scientists",
+        "   • Research and development",
+        "   • Curriculum development",
+        "4. Chemical and Petrochemical Industries:",
+        "   • Production of plastics and polymers",
+        "   • Fertilizers for agriculture",
+        "   • Detergents and cleaning agents",
+        "   • Paints, dyes, and pigments",
+        "   • Petroleum refining (petrol, diesel, kerosene)",
+        "5. Space Science:",
+        "   • Rocket fuel development",
+        "   • Materials for spacecraft",
+        "   • Life support systems",
+        "   • Analysis of planetary composition",
+        "6. Agriculture:",
+        "   • Fertilizers (NPK fertilizers)",
+        "   • Pesticides and herbicides",
+        "   • Soil analysis and improvement",
+        "   • Food preservation",
+        "7. Everyday Life:",
+        "   • Cooking and food preparation",
+        "   • Cleaning products",
+        "   • Cosmetics and personal care",
+        "   • Water treatment"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing applications of chemistry in different sectors: hospital (medicines), agriculture (fertilizers), industry (plastics), space (rockets)",
+        "Flowchart of petroleum refining showing crude oil → petrol, diesel, kerosene, lubricants",
+        "Illustration of NPK fertilizer composition and how it helps plant growth"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Applications of chemistry in everyday life Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "In hospitals, chemistry is used for:", "opts": ["Only cleaning", "Drug development and diagnostic tests", "Only teaching", "Building construction"], "ans": 1, "explanation": "Chemistry is essential in hospitals for developing medicines, conducting diagnostic tests, and sterilizing equipment."},
+        {"q": "NPK fertilizers contain:", "opts": ["Nitrogen, Phosphorus, Potassium", "Sodium, Potassium, Calcium", "Nickel, Platinum, Krypton", "Neon, Phosphorus, Krypton"], "ans": 0, "explanation": "NPK fertilizers contain Nitrogen (N), Phosphorus (P), and Potassium (K) which are essential nutrients for plant growth."},
+        {"q": "In the petrochemical industry, crude oil is refined to produce:", "opts": ["Only water", "Petrol, diesel, kerosene, and lubricants", "Only plastics", "Only fertilizers"], "ans": 1, "explanation": "Petroleum refining produces various products including petrol, diesel, kerosene, lubricants, and raw materials for plastics."},
+        {"q": "Chemistry in space science is used for:", "opts": ["Only building rockets", "Developing rocket fuel and life support systems", "Only navigation", "Only communication"], "ans": 1, "explanation": "Chemistry is crucial for developing rocket fuels, spacecraft materials, and life support systems for astronauts."},
+        {"q": "Pesticides are used in agriculture to:", "opts": ["Fertilize plants", "Control pests and diseases", "Water crops", "Harvest crops"], "ans": 1, "explanation": "Pesticides are chemicals used to control or eliminate pests that damage crops."},
+        {"q": "In water treatment, chemistry is used to:", "opts": ["Only pump water", "Purify and make water safe for drinking", "Only store water", "Only transport water"], "ans": 1, "explanation": "Chemistry is used in water treatment to remove impurities, kill bacteria, and make water safe for consumption."},
+        {"q": "Detergents and soaps work based on:", "opts": ["Magnetic principles", "Chemical principles of emulsification", "Electrical principles", "Gravitational principles"], "ans": 1, "explanation": "Detergents and soaps work through chemical principles, using molecules that can bind to both water and oil to remove dirt."},
+        {"q": "In the military, chemistry is used for:", "opts": ["Only weapons", "Protective gear, fuel, and detection systems", "Only food", "Only communication"], "ans": 1, "explanation": "Chemistry in the military is used for developing protective equipment, fuels, explosives, and chemical detection systems."},
+        {"q": "Food preservation uses chemistry to:", "opts": ["Only cook food", "Extend shelf life and prevent spoilage", "Only package food", "Only transport food"], "ans": 1, "explanation": "Chemical preservatives prevent microbial growth and oxidation, extending the shelf life of food products."},
+        {"q": "Cosmetics and personal care products rely on chemistry for:", "opts": ["Only packaging", "Formulation of safe and effective products", "Only marketing", "Only distribution"], "ans": 1, "explanation": "Chemistry is essential for developing safe, effective cosmetics, skincare products, and personal care items."}
+      ]
+    }
+  ]
+}

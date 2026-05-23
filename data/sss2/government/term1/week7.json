@@ -1,0 +1,60 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Commercialization",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w7_su1",
+      "title": "7.1 Meaning and Reasons for Commercialization",
+      "notes": [
+        "Commercialization is the process of making public corporations operate on commercial/business principles while the government retains ownership.",
+        "Key features: cost-recovery pricing, profit orientation, performance-based management, competitive practices, and reduced political interference.",
+        "Reasons: improve efficiency, reduce government financial burden, enhance service quality, attract private-sector expertise, and promote self-sustainability.",
+        "Unlike privatization, ownership remains public; the shift is operational and managerial.",
+        "Examples in Nigeria: NNPC's downstream reforms, NITEL's restructuring, and power sector unbundling phases.",
+        "Legal framework: Bureau of Public Enterprises (BPE) oversees commercialization programs under the Public Enterprises (Privatization and Commercialization) Act."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Commercialization of public corporations Nigeria meaning reasons site:youtube.com",
+      "quiz": [
+        {"q": "Commercialization of public corporations means:", "opts": ["Selling them to private investors", "Operating on business principles while government retains ownership", "Abolishing government oversight", "Transferring all assets to staff"], "ans": 1, "explanation": "Commercialization focuses on operational efficiency and market discipline without changing ownership."},
+        {"q": "A primary reason for commercialization is to:", "opts": ["Increase political appointments", "Reduce government financial burden and improve efficiency", "Eliminate all public services", "Centralize economic control"], "ans": 1, "explanation": "Business-like operations cut waste, boost revenue, and reduce subsidy dependency."},
+        {"q": "Commercialization differs from privatization because:", "opts": ["Ownership is transferred to foreigners", "Government retains ownership but changes operational management", "All profits are eliminated", "Legislative control is abolished"], "ans": 1, "explanation": "Privatization transfers ownership; commercialization reforms management and pricing while keeping state control."},
+        {"q": "Cost-recovery pricing in commercialization ensures:", "opts": ["Free services for all", "Prices reflect operational costs and sustainable maintenance", "Unlimited subsidies", "Political price control"], "ans": 1, "explanation": "Market-aligned pricing covers expenses, funds upgrades, and ensures long-term viability."},
+        {"q": "Commercialization promotes:", "opts": ["Bureaucratic delays", "Performance-based management and accountability", "Complete deregulation", "Elimination of audits"], "ans": 1, "explanation": "KPIs, profit targets, and transparent reporting drive efficiency and service improvement."},
+        {"q": "A key feature of commercialized corporations is:", "opts": ["Dependence on annual government subsidies", "Internally generated revenue and competitive practices", "Fixed political pricing", "Elimination of management boards"], "ans": 1, "explanation": "Self-financing and market competition replace subsidy reliance and rigid state control."},
+        {"q": "Commercialization aims to attract private-sector expertise by:", "opts": ["Banning foreign investment", "Adopting corporate governance and professional management", "Eliminating all training programs", "Centralizing decision-making"], "ans": 1, "explanation": "Business practices, merit hiring, and modern management techniques improve operational capacity."},
+        {"q": "In Nigeria, commercialization reforms target:", "opts": ["Only agricultural sectors", "Inefficient state-owned enterprises and public utilities", "Private multinational corporations", "Traditional institutions"], "ans": 1, "explanation": "Reforms focus on power, transport, telecoms, and other public services needing operational overhaul."},
+        {"q": "A risk of poorly implemented commercialization is:", "opts": ["Immediate profitability", "Service exclusion for low-income groups due to pricing", "Increased political interference", "Elimination of all staff"], "ans": 1, "explanation": "Without social safeguards, market pricing can make essential services unaffordable for vulnerable citizens."},
+        {"q": "Successful commercialization requires:", "opts": ["Secrecy in operations", "Transparent pricing, performance contracts, and regulatory oversight", "Abolition of all audits", "Complete political control"], "ans": 1, "explanation": "Balance between market efficiency and public interest ensures sustainable, equitable service delivery."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w7_su2",
+      "title": "7.2 Merits and Demerits of Commercialization in Nigeria",
+      "notes": [
+        "Merits: improved efficiency, reduced fiscal deficit, better service quality, innovation adoption, and attraction of skilled management.",
+        "Demerits: potential job losses, higher service costs, neglect of unprofitable rural areas, and risk of elite capture without strong regulation.",
+        "Nigerian experience shows mixed results: some sectors (telecoms, banking) thrived, while others (power, water) faced implementation gaps.",
+        "Effective commercialization requires independent regulators, social safety nets, anti-monopoly laws, and citizen participation.",
+        "Policy debate centers on balancing economic viability with universal access and national development goals.",
+        "Case study: Power sector commercialization (2013) aimed to improve supply but faced challenges in tariff collection and infrastructure investment."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Merits demerits commercialization Nigeria public corporations site:youtube.com",
+      "quiz": [
+        {"q": "A major merit of commercialization is:", "opts": ["Increased government subsidies", "Improved operational efficiency and service quality", "Elimination of all private investment", "Complete political control"], "ans": 1, "explanation": "Business principles reduce waste, boost productivity, and enhance customer satisfaction."},
+        {"q": "Commercialization reduces fiscal deficit by:", "opts": ["Increasing annual grants", "Generating internal revenue and cutting subsidy dependence", "Eliminating all staff", "Abolishing regulatory agencies"], "ans": 1, "explanation": "Self-sustaining operations lower government expenditure and free funds for other priorities."},
+        {"q": "A demerit of commercialization in Nigeria is:", "opts": ["Universal free services", "Higher service costs that may exclude low-income citizens", "Immediate job creation for all", "Complete elimination of corruption"], "ans": 1, "explanation": "Market pricing can make essential services unaffordable without targeted subsidies or social programs."},
+        {"q": "Commercialization often leads to:", "opts": ["Increased bureaucratic delays", "Adoption of modern technology and skilled management", "Elimination of all audits", "Return to military rule"], "ans": 1, "explanation": "Competition and profit motives drive innovation, training, and professional leadership."},
+        {"q": "Rural service provision may suffer under commercialization because:", "opts": ["Rural areas are highly profitable", "Low population density and poor infrastructure reduce commercial viability", "All profits are distributed equally", "Government bans rural operations"], "ans": 1, "explanation": "Market-driven models prioritize high-return urban areas, neglecting remote or low-income regions."},
+        {"q": "To mitigate demerits, commercialization should include:", "opts": ["Complete deregulation", "Social safety nets and universal service obligations", "Elimination of all regulators", "Political price fixing"], "ans": 1, "explanation": "Subsidies, cross-subsidization, and regulatory mandates ensure inclusive access alongside efficiency."},
+        {"q": "Nigeria's commercialization experience shows that success depends on:", "opts": ["Military oversight", "Strong regulatory frameworks and transparent implementation", "Abolition of all staff unions", "Complete foreign ownership"], "ans": 1, "explanation": "Independent regulators, anti-monopoly laws, and accountable governance determine reform outcomes."},
+        {"q": "A positive outcome of successful commercialization is:", "opts": ["Increased political appointments", "Attraction of domestic and foreign investment", "Elimination of all competition", "Centralized pricing control"], "ans": 1, "explanation": "Transparent, profitable sectors draw capital, create jobs, and stimulate economic growth."},
+        {"q": "Critics argue commercialization can lead to:", "opts": ["Elite capture and service commodification without equity safeguards", "Immediate universal access", "Elimination of all government revenue", "Complete staff empowerment"], "ans": 0, "explanation": "Without regulation, profit motives may prioritize wealthy consumers over public welfare."},
+        {"q": "Balancing commercialization with public interest requires:", "opts": ["Abolishing all oversight", "Performance targets, affordable pricing tiers, and citizen feedback mechanisms", "Eliminating all audits", "Complete political control"], "ans": 1, "explanation": "Hybrid models ensure economic viability while protecting vulnerable populations and national goals."}
+      ]
+    }
+  ]
+}

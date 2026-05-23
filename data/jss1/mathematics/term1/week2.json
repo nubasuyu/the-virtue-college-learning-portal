@@ -1,0 +1,72 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Four Basic Operations",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w2_su1",
+      "title": "2.1 Addition & Subtraction (Up to 4 Digits)",
+      "notes": [
+        "Addition combines numbers to find the total. Subtraction finds the difference between numbers.",
+        "When adding/subtracting up to 4-digit numbers, align digits by place value: Thousands, Hundreds, Tens, Ones.",
+        "Carry over when a column sum exceeds 9. Borrow from the next column when the top digit is smaller.",
+        "Example: 2,456 + 1,789 = 4,245 | Example: 3,201 - 1,567 = 1,634",
+        "Always check your answer by reversing the operation (add to check subtraction, subtract to check addition)."
+      ],
+      "videoId": "05m2l3YqK0w",
+      "quiz": [
+        {
+          "q": "What is 3,482 + 1,567?",
+          "opts": ["4,949", "5,049", "4,849", "5,149"],
+          "ans": 1,
+          "explanation": "Align by place value and add column by column with carrying."
+        },
+        {
+          "q": "In 2,105 - 876, what do you do when subtracting 6 from 5 in the ones place?",
+          "opts": ["Write -1", "Borrow 1 from the tens place", "Skip the column", "Write 1"],
+          "ans": 1,
+          "explanation": "When the top digit is smaller, borrow 10 from the next left column."
+        },
+        {
+          "q": "What is the place value of the digit 8 in 4,821?",
+          "opts": ["Thousands", "Hundreds", "Tens", "Ones"],
+          "ans": 1,
+          "explanation": "From right to left: 1(Ones), 2(Tens), 8(Hundreds), 4(Thousands)."
+        }
+      ]
+    },
+    {
+      "id": "jss1_t1_w2_su2",
+      "title": "2.2 Multiplication & Division with Place Value",
+      "notes": [
+        "Multiplication is repeated addition. Division splits a number into equal parts.",
+        "Use place value to multiply/divide larger numbers easily. Multiply each digit by the multiplier, then add place values.",
+        "Example: 243 × 3 = (200×3) + (40×3) + (3×3) = 600 + 120 + 9 = 729",
+        "In division, divide from the largest place value first. Bring down the next digit when there's a remainder.",
+        "Practice: Use real-life examples like sharing items equally or grouping objects."
+      ],
+      "videoId": "",
+      "quiz": [
+        {
+          "q": "What is 125 × 4?",
+          "opts": ["400", "450", "500", "525"],
+          "ans": 2,
+          "explanation": "100×4=400, 20×4=80, 5×4=20 → 400+80+20=500"
+        },
+        {
+          "q": "If 840 is divided equally among 6 students, how many does each get?",
+          "opts": ["120", "130", "140", "150"],
+          "ans": 2,
+          "explanation": "840 ÷ 6 = 140. Check: 140 × 6 = 840"
+        },
+        {
+          "q": "Which place value is divided first in 365 ÷ 5?",
+          "opts": ["Ones", "Tens", "Hundreds", "Thousands"],
+          "ans": 2,
+          "explanation": "Division always starts from the largest place value (leftmost digit)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Personnel Administration in the Civil Service",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w3_su1",
+      "title": "3.1 Civil Service Commission: Structure and Functions",
+      "notes": [
+        "The Civil Service Commission (CSC) is an independent body responsible for personnel management in the civil service.",
+        "Structure: Chairman and members appointed by the President/Governor (subject to legislative confirmation), secretariat with departments for recruitment, promotions, discipline, and training.",
+        "Functions: Recruitment and appointment (ensuring merit-based hiring), Promotions and career development, Discipline (investigating misconduct, recommending sanctions), Training and capacity building, Advisory role to government on HR policies.",
+        "Independence: CSC operates free from political interference to ensure fairness, though in practice political influence can occur.",
+        "Nigeria context: Federal Civil Service Commission and State Civil Service Commissions operate at respective levels, guided by the 1999 Constitution and Civil Service Rules."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Civil Service Commission Nigeria functions site:youtube.com",
+      "quiz": [
+        {"q": "The Civil Service Commission is responsible for:", "opts": ["Making laws", "Personnel management in civil service", "Judging court cases", "Collecting taxes"], "ans": 1, "explanation": "The CSC handles recruitment, promotions, discipline, and training of civil servants."},
+        {"q": "Members of the Civil Service Commission are appointed by:", "opts": ["Civil servants themselves", "President/Governor with legislative confirmation", "Traditional rulers", "Political parties"], "ans": 1, "explanation": "In Nigeria, CSC members are appointed by the executive (President/Governor) but require confirmation by the legislature to ensure balance."},
+        {"q": "A key function of CSC is:", "opts": ["Building roads", "Ensuring merit-based recruitment", "Campaigning for politicians", "Printing money"], "ans": 1, "explanation": "The CSC ensures hiring and promotions are based on qualifications and performance, not political connections."},
+        {"q": "The independence of Civil Service Commission is important because it:", "opts": ["Allows political interference", "Ensures fair, merit-based personnel decisions", "Eliminates all oversight", "Centralizes all power"], "ans": 1, "explanation": "Independence protects recruitment and promotions from political bias, promoting competence and integrity."},
+        {"q": "Disciplinary functions of CSC include:", "opts": ["Appointing ministers", "Investigating misconduct and recommending sanctions", "Setting tax rates", "Controlling the military"], "ans": 1, "explanation": "CSC investigates complaints, conducts hearings, and recommends penalties for civil service violations."},
+        {"q": "Training functions of CSC aim to:", "opts": ["Replace civil servants", "Build capacity and update skills for effective service delivery", "Eliminate all unions", "Centralize decision-making"], "ans": 1, "explanation": "Continuous training ensures staff remain competent, adaptable, and aligned with modern governance standards."},
+        {"q": "A challenge facing CSC in Nigeria is:", "opts": ["Excessive funding", "Political interference and inadequate resources", "Overqualified staff", "Too many audits"], "ans": 1, "explanation": "Political pressure and limited budgets can undermine CSC's independence and operational effectiveness."},
+        {"q": "Legislative confirmation of CSC members ensures:", "opts": ["Political loyalty", "Balance of power and public accountability", "Elimination of opposition", "Centralized control"], "ans": 1, "explanation": "Legislative oversight prevents executive domination and promotes transparent, credible appointments."},
+        {"q": "CSC advisory role to government includes:", "opts": ["Setting foreign policy", "Recommending HR policies and civil service reforms", "Controlling the judiciary", "Managing state elections"], "ans": 1, "explanation": "CSC provides expert advice on staffing, compensation, and institutional reforms to improve public administration."},
+        {"q": "Effective CSC operation requires:", "opts": ["Secrecy in decisions", "Transparency, adequate funding, and ethical leadership", "Political interference", "Elimination of public scrutiny"], "ans": 1, "explanation": "Open processes, sufficient resources, and integrity ensure CSC fulfills its mandate credibly."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w3_su2",
+      "title": "3.2 Relationship Between Civil Service and Political Executives",
+      "notes": [
+        "Political executives (President, Governors, Ministers, Commissioners) are elected/appointed leaders who set policy direction.",
+        "Civil servants are permanent professionals who implement policies and provide expert advice.",
+        "Ideal relationship: Political leaders provide vision and political legitimacy; civil servants provide technical expertise, continuity, and neutral implementation.",
+        "Tensions can arise when: Politicians demand partisan loyalty from neutral civil servants, Civil servants resist unpopular but lawful directives, Short-term political goals conflict with long-term administrative planning.",
+        "Best practices: Clear role definitions, mutual respect, regular consultation, protected tenure for senior civil servants, and accountability mechanisms for both sides.",
+        "Nigerian experience: Military regimes often blurred these lines; democratic reforms aim to restore proper separation and professional autonomy."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Civil service political executives relationship Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Political executives primarily:", "opts": ["Implement policies", "Set policy direction and provide political leadership", "Handle daily administrative tasks", "Judge legal disputes"], "ans": 1, "explanation": "Elected/appointed political leaders set the policy agenda and provide political direction; civil servants implement."},
+        {"q": "A source of tension between politicians and civil servants is:", "opts": ["Agreeing on all policies", "Politicians demanding partisan loyalty from neutral staff", "Civil servants earning too much", "Too much training"], "ans": 1, "explanation": "Tension arises when political leaders expect civil servants to be politically loyal rather than professionally neutral."},
+        {"q": "Best practice for executive-civil service relationship includes:", "opts": ["Ignoring each other", "Clear role definitions and mutual respect", "Politicians doing all administrative work", "Civil servants making political decisions"], "ans": 1, "explanation": "Clarity on roles, respect for expertise, and regular consultation help maintain effective governance."},
+        {"q": "Civil servants provide political executives with:", "opts": ["Campaign strategies", "Technical expertise and policy implementation capacity", "Military support", "Judicial rulings"], "ans": 1, "explanation": "Professional staff translate political vision into actionable programs and ensure continuity across administrations."},
+        {"q": "Protected tenure for senior civil servants ensures:", "opts": ["Political interference", "Professional independence and institutional memory", "Elimination of accountability", "Centralized control"], "ans": 1, "explanation": "Job security allows senior staff to provide candid advice without fear of political retaliation."},
+        {"q": "A healthy executive-civil service relationship promotes:", "opts": ["Policy instability", "Effective governance and public trust", "Corruption and inefficiency", "Military intervention"], "ans": 1, "explanation": "Mutual respect and clear roles enable responsive, competent, and accountable public administration."},
+        {"q": "In Nigeria, military regimes affected civil service by:", "opts": ["Strengthening professional autonomy", "Blurring lines between politics and administration", "Eliminating all civil servants", "Increasing legislative oversight"], "ans": 1, "explanation": "Military rule often politicized appointments and undermined civil service neutrality and professionalism."},
+        {"q": "Accountability mechanisms for political executives include:", "opts": ["Secrecy in decision-making", "Legislative oversight, judicial review, and elections", "Elimination of media", "Centralized control"], "ans": 1, "explanation": "Checks and balances ensure political leaders remain answerable to citizens and institutions."},
+        {"q": "Civil servants maintain neutrality by:", "opts": ["Campaigning for politicians", "Implementing policies impartially regardless of ruling party", "Ignoring government directives", "Setting their own policies"], "ans": 1, "explanation": "Professional neutrality ensures consistent, fair service delivery across political transitions."},
+        {"q": "Sustainable executive-civil service relations require:", "opts": ["Short-term political fixes", "Institutional safeguards, ethical leadership, and civic engagement", "Military oversight", "Abolition of opposition parties"], "ans": 1, "explanation": "Long-term effectiveness depends on clear rules, ethical culture, and active citizen oversight."}
+      ]
+    }
+  ]
+}

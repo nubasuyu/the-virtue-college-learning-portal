@@ -1,0 +1,83 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Types and Characteristics of Government",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w8_su1",
+      "title": "8.1 Parliamentary System: Meaning and Features",
+      "notes": [
+        "The parliamentary (cabinet) system fuses executive and legislative branches, with the executive drawn from and accountable to the legislature.",
+        "Key features: Fusion of powers, collective ministerial responsibility, prime minister as head of government, ceremonial head of state, vote of no confidence mechanism.",
+        "Origin: United Kingdom's Westminster model; adapted in Commonwealth nations like India, Canada, Australia.",
+        "Nigeria's First Republic (1960–1966) practiced parliamentary democracy before military intervention and constitutional change.",
+        "Advantages: Responsive governance, clear accountability, flexible law-making. Disadvantages: Executive instability, weak separation of powers, majority dominance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Parliamentary system of government SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "In a parliamentary system, the executive is:", "opts": ["Directly elected by the people", "Drawn from and accountable to the legislature", "Appointed by the judiciary", "Selected by traditional rulers"], "ans": 1, "explanation": "Parliamentary executives emerge from the majority party/coalition in parliament."},
+        {"q": "The head of government in a parliamentary system is typically:", "opts": ["The President", "The Prime Minister", "The Chief Justice", "The Speaker"], "ans": 1, "explanation": "The Prime Minister leads the cabinet and executive branch."},
+        {"q": "A key feature of parliamentary systems is:", "opts": ["Strict separation of powers", "Fusion of executive and legislative branches", "Fixed executive tenure", "Direct election of ministers"], "ans": 1, "explanation": "Ministers are usually sitting legislators, blending executive and legislative roles."},
+        {"q": "Nigeria practiced parliamentary democracy during:", "opts": ["1999–present", "1979–1983", "1960–1966", "1985–1993"], "ans": 2, "explanation": "The First Republic operated under the Westminster parliamentary model."},
+        {"q": "The 'vote of no confidence' allows parliament to:", "opts": ["Elect the president", "Remove the government from office", "Dissolve the judiciary", "Amend the constitution unilaterally"], "ans": 1, "explanation": "This mechanism ensures executive accountability to the legislature."},
+        {"q": "In parliamentary systems, the head of state is often:", "opts": ["The Prime Minister", "A ceremonial monarch or president", "The Chief of Defence Staff", "The Speaker of Parliament"], "ans": 1, "explanation": "Ceremonial heads symbolize unity while the Prime Minister handles governance."},
+        {"q": "A major advantage of parliamentary systems is:", "opts": ["Rigid executive tenure", "Swift law-making and clear accountability", "Absolute separation of powers", "Elimination of political parties"], "ans": 1, "explanation": "Fused branches enable rapid policy implementation and direct legislative oversight."},
+        {"q": "A disadvantage of parliamentary systems is:", "opts": ["Executive stability", "Frequent government changes due to no-confidence votes", "Decentralized power", "Lack of party discipline"], "ans": 1, "explanation": "Coalition fragility can lead to instability and early elections."},
+        {"q": "Which country currently uses the parliamentary system?", "opts": ["United States", "Nigeria", "United Kingdom", "Brazil"], "ans": 2, "explanation": "The UK operates the classic Westminster parliamentary model."},
+        {"q": "Collective responsibility in parliament means:", "opts": ["Ministers act independently", "The cabinet publicly supports government decisions or resigns", "Parliament controls the military", "Citizens vote on all laws"], "ans": 1, "explanation": "Ministers must defend government policy collectively; dissent requires resignation."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w8_su2",
+      "title": "8.2 Presidential System: Meaning and Features",
+      "notes": [
+        "The presidential system separates executive, legislative, and judicial branches, with a directly elected President serving as both head of state and government.",
+        "Key features: Fixed tenure, checks and balances, independent executive mandate, veto power, separate elections for legislature and executive.",
+        "Origin: United States Constitution (1787); adopted by Nigeria in 1979 and 1999 to address parliamentary instability and promote national unity.",
+        "Functions: Policy formulation, national security command, foreign diplomacy, budget proposal, appointment of judges/ambassadors (with legislative consent).",
+        "Advantages: Stability, clear separation of powers, direct mandate. Disadvantages: Gridlock, rigid tenure, expensive elections, potential executive dominance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Presidential system of government Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "In a presidential system, the President is:", "opts": ["Appointed by parliament", "Directly elected by citizens", "Selected by the judiciary", "Chosen by traditional councils"], "ans": 1, "explanation": "Presidential executives derive authority directly from popular vote."},
+        {"q": "A defining feature of presidential systems is:", "opts": ["Fusion of powers", "Separation of powers among three branches", "Collective cabinet responsibility", "Parliamentary supremacy"], "ans": 1, "explanation": "Independent branches check each other to prevent power concentration."},
+        {"q": "Nigeria adopted the presidential system in 1979 primarily to:", "opts": ["Copy American culture", "Avoid parliamentary instability and promote national unity", "Reduce government size", "Strengthen military rule"], "ans": 1, "explanation": "The switch aimed to ensure stable executive leadership and broader representation."},
+        {"q": "Presidential tenure is typically:", "opts": ["Indefinite", "Fixed by constitution (e.g., 4 years)", "Subject to parliamentary vote", "Determined by traditional rulers"], "ans": 1, "explanation": "Fixed terms provide stability but limit removal mechanisms outside impeachment."},
+        {"q": "Which power is unique to presidential executives?", "opts": ["Vote of no confidence", "Veto over legislation", "Parliamentary immunity", "Collective resignation"], "ans": 1, "explanation": "Presidents can reject bills, forcing legislative reconsideration or supermajority override."},
+        {"q": "A major advantage of presidential systems is:", "opts": ["Frequent government changes", "Executive stability and clear accountability", "Weak separation of powers", "Parliamentary control of appointments"], "ans": 1, "explanation": "Fixed terms and direct mandates enable consistent policy implementation."},
+        {"q": "A disadvantage of presidential systems is:", "opts": ["Executive-legislative gridlock", "Swift law-making", "Decentralized appointments", "Flexible tenure"], "ans": 0, "explanation": "Separate branches can clash, delaying budgets, reforms, and appointments."},
+        {"q": "Checks and balances in presidential systems prevent:", "opts": ["Democratic elections", "Tyranny and power concentration", "Judicial independence", "Federalism"], "ans": 1, "explanation": "Institutional oversight ensures no single branch dominates governance."},
+        {"q": "Which country pioneered the presidential system?", "opts": ["United Kingdom", "France", "United States", "Nigeria"], "ans": 2, "explanation": "The US Constitution established the first modern presidential republic."},
+        {"q": "In Nigeria's presidential system, the National Assembly can remove the President through:", "opts": ["Vote of no confidence", "Impeachment for gross misconduct", "Traditional decree", "Military intervention"], "ans": 1, "explanation": "Impeachment requires legislative investigation and supermajority approval."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w8_su3",
+      "title": "8.3 Parliamentary vs Presidential: Comparison & Nigeria's Experience",
+      "notes": [
+        "Parliamentary systems prioritize accountability and flexibility; presidential systems emphasize stability and separation of powers.",
+        "Nigeria's shift to presidentialism addressed ethnic fragmentation and parliamentary coalition instability but introduced executive-legislative conflicts.",
+        "Key differences: Executive selection (parliament vs direct vote), tenure (flexible vs fixed), accountability (daily vs periodic), law-making speed (fast vs deliberate).",
+        "Democratic maturity requires institutional respect, rule of law, and civic oversight regardless of system choice.",
+        "Constitutional reforms, fiscal federalism, and strengthened legislatures remain critical to optimizing Nigeria's presidential framework."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Parliamentary vs presidential system comparison Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "The main difference in executive accountability between systems is:", "opts": ["Parliamentary: daily legislative oversight; Presidential: periodic electoral mandate", "Both rely on military approval", "Presidential: parliamentary vote; Parliamentary: direct vote", "Neither requires accountability"], "ans": 0, "explanation": "Parliaments monitor executives continuously; presidents answer to voters at fixed intervals."},
+        {"q": "Nigeria adopted presidentialism to solve:", "opts": ["Ethnic division and parliamentary instability", "Lack of foreign aid", "Military coups", "Judicial independence"], "ans": 0, "explanation": "Direct elections and fixed terms aimed to unify diverse groups and stabilize governance."},
+        {"q": "A strength of parliamentary systems is:", "opts": ["Rigid executive tenure", "Rapid policy implementation and clear accountability", "Weak party discipline", "Frequent constitutional amendments"], "ans": 1, "explanation": "Fused branches enable swift legislative-executive coordination."},
+        {"q": "A weakness of presidential systems is:", "opts": ["Executive-legislative gridlock", "Unstable coalitions", "Lack of direct mandate", "Absence of checks and balances"], "ans": 0, "explanation": "Separate branches with competing mandates can stall governance."},
+        {"q": "Which system allows easier removal of an unpopular executive?", "opts": ["Presidential", "Parliamentary (via no-confidence vote)", "Both require military intervention", "Neither allows removal"], "ans": 1, "explanation": "Parliaments can swiftly replace governments without waiting for elections."},
+        {"q": "Nigeria's presidential system faces challenges including:", "opts": ["Excessive stability", "Executive dominance, corruption, and legislative conflicts", "Overdecentralization", "Lack of elections"], "ans": 1, "explanation": "Institutional weaknesses and political culture strain presidential checks and balances."},
+        {"q": "Which system typically has more stable executive tenure?", "opts": ["Parliamentary", "Presidential", "Confederal", "Feudal"], "ans": 1, "explanation": "Fixed constitutional terms prevent arbitrary removal."},
+        {"q": "Democratic success depends more on:", "opts": ["System type alone", "Institutional integrity, rule of law, and civic participation", "Military strength", "Foreign intervention"], "ans": 1, "explanation": "Constitutional design requires ethical leadership and active citizenship to function."},
+        {"q": "Reforms to improve Nigeria's presidential system should focus on:", "opts": ["Abolishing elections", "Strengthening legislature, judiciary, and fiscal federalism", "Centralizing all power", "Eliminating states"], "ans": 1, "explanation": "Balanced institutions and resource sharing optimize presidential governance."},
+        {"q": "Citizens can strengthen democracy in any system by:", "opts": ["Ignoring politics", "Voting, demanding accountability, and participating in civic processes", "Supporting authoritarianism", "Avoiding elections"], "ans": 1, "explanation": "Active citizenship ensures responsive, transparent, and constitutional governance."}
+      ]
+    }
+  ]
+}

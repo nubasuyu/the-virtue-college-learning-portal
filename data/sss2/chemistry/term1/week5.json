@@ -1,0 +1,109 @@
+{
+  "course": "SSS2 Chemistry",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Chemical Reactions",
+  "subUnits": [
+    {
+      "id": "sss2_chem_t1_w5_su1",
+      "title": "5.1 Factors Affecting Rate of Chemical Reactions",
+      "notes": [
+        "Rate of Reaction: Change in concentration of reactants or products per unit time (mol dm⁻³ s⁻¹).",
+        "According to Collision Theory, reaction rate depends on frequency and effectiveness of particle collisions.",
+        "1. Nature of Reactants:",
+        "   • Ionic compounds react faster than covalent compounds",
+        "   • State of division: powders react faster than lumps (larger surface area)",
+        "   • Reactivity series: more reactive metals react faster with acids",
+        "2. Concentration/Pressure:",
+        "   • Higher concentration → more particles per unit volume → more frequent collisions → faster rate",
+        "   • For gases, increasing pressure has the same effect as increasing concentration",
+        "3. Temperature:",
+        "   • Higher temperature → particles gain kinetic energy → move faster → more collisions",
+        "   • More particles possess energy ≥ Activation Energy (Ea)",
+        "   • Rule of thumb: Rate ≈ doubles for every 10°C rise",
+        "4. Catalyst:",
+        "   • Substance that increases rate without being consumed",
+        "   • Provides alternative reaction pathway with lower Ea",
+        "   • Does not shift equilibrium or change ΔH",
+        "   • Examples: MnO₂ in H₂O₂ decomposition, Fe in Haber process, enzymes in biology",
+        "Mathematical Expression (Introductory):",
+        "Rate ∝ [Reactants]ⁿ (n = order of reaction, determined experimentally)",
+        "Practical Applications:",
+        "• Refrigeration slows food spoilage (lowers temperature)",
+        "• Catalysts in catalytic converters reduce vehicle emissions",
+        "• Pressure used in industrial ammonia production (Haber process)"
+      ],
+      "diagramDescriptions": [
+        "Energy distribution graph (Maxwell-Boltzmann) showing fraction of molecules with E ≥ Ea at T1 and T2",
+        "Diagram comparing lump vs powdered solid reacting with acid, showing gas evolution rate",
+        "Catalyzed vs uncatalyzed reaction pathway on energy profile diagram",
+        "Collision frequency illustration showing high vs low concentration particles"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Factors affecting rate of reaction chemistry WAEC JAMB site:youtube.com",
+      "quiz": [
+        {"q": "Increasing the concentration of reactants increases reaction rate because:", "opts": ["Activation energy decreases", "Frequency of effective collisions increases", "Temperature of the system rises", "Products are removed faster"], "ans": 1, "explanation": "Higher concentration means more particles per unit volume, leading to more frequent and effective collisions."},
+        {"q": "A catalyst increases reaction rate by:", "opts": ["Increasing reactant concentration", "Lowering the activation energy", "Raising the temperature", "Increasing pressure"], "ans": 1, "explanation": "Catalysts provide an alternative reaction pathway with a lower activation energy barrier."},
+        {"q": "For gaseous reactions, increasing pressure is equivalent to increasing:", "opts": ["Temperature", "Concentration", "Catalyst amount", "Activation energy"], "ans": 1, "explanation": "Higher pressure forces gas particles closer together, effectively increasing concentration and collision frequency."},
+        {"q": "Powdered calcium carbonate reacts faster with HCl than lumps because it has:", "opts": ["Higher mass", "Larger surface area", "Higher concentration", "Lower activation energy"], "ans": 1, "explanation": "Powdered solids expose more particles to the reactant, increasing the frequency of effective collisions."},
+        {"q": "Which statement about temperature and reaction rate is TRUE?", "opts": ["Rate halves for every 10°C rise", "Rate is unaffected by temperature", "Rate approximately doubles for every 10°C rise", "Rate decreases as temperature increases"], "ans": 2, "explanation": "Higher temperature increases kinetic energy and the fraction of molecules with E ≥ Ea, roughly doubling the rate per 10°C."},
+        {"q": "A catalyst does NOT affect:", "opts": ["Reaction rate", "Activation energy", "Equilibrium position", "Collision frequency"], "ans": 2, "explanation": "Catalysts speed up both forward and reverse reactions equally, so equilibrium position and yield remain unchanged."},
+        {"q": "Ionic reactions are generally faster than covalent reactions because:", "opts": ["Ions are larger", "No bonds need to be broken, only electrostatic attraction occurs", "Ions have higher activation energy", "Ionic compounds are always aqueous"], "ans": 1, "explanation": "Ionic reactions involve attraction between oppositely charged ions, while covalent reactions require bond breaking."},
+        {"q": "Refrigerating food slows down spoilage by:", "opts": ["Killing bacteria", "Lowering temperature and reducing reaction rate", "Increasing catalyst presence", "Removing oxygen"], "ans": 1, "explanation": "Lower temperatures reduce molecular kinetic energy, decreasing collision frequency and rate of decomposition/spoilage."},
+        {"q": "In the decomposition of H₂O₂, MnO₂ acts as a:", "opts": ["Reactant", "Product", "Catalyst", "Inhibitor"], "ans": 2, "explanation": "MnO₂ speeds up H₂O₂ → 2H₂O + O₂ without being consumed, fitting the definition of a catalyst."},
+        {"q": "Which factor would LEAST affect the rate of a reaction in aqueous solution?", "opts": ["Concentration", "Temperature", "Pressure", "Catalyst"], "ans": 2, "explanation": "Liquids and solids are nearly incompressible, so pressure changes have negligible effect on reaction rates in solution."}
+      ]
+    },
+    {
+      "id": "sss2_chem_t1_w5_su2",
+      "title": "5.2 Types of Chemical Reactions: Endothermic & Exothermic",
+      "notes": [
+        "Chemical reactions involve energy changes due to bond breaking (requires energy) and bond making (releases energy).",
+        "Exothermic Reactions:",
+        "• Release heat to surroundings (ΔH is NEGATIVE)",
+        "• Temperature of surroundings increases",
+        "• Energy of products < Energy of reactants",
+        "• Examples: Combustion, neutralization, respiration, condensation, freezing",
+        "• Equation: Reactants → Products + Heat (ΔH = -ve)",
+        "Endothermic Reactions:",
+        "• Absorb heat from surroundings (ΔH is POSITIVE)",
+        "• Temperature of surroundings decreases",
+        "• Energy of products > Energy of reactants",
+        "• Examples: Photosynthesis, thermal decomposition, evaporation, dissolving NH₄NO₃ in water",
+        "• Equation: Reactants + Heat → Products (ΔH = +ve)",
+        "Enthalpy Change (ΔH):",
+        "ΔH = ΣH(products) - ΣH(reactants)",
+        "• Measured in kJ/mol or J/mol",
+        "• Determined experimentally using calorimetry",
+        "Energy Profile Diagrams:",
+        "• X-axis: Reaction progress, Y-axis: Potential energy",
+        "• Exothermic: Products at lower energy level than reactants",
+        "• Endothermic: Products at higher energy level than reactants",
+        "• Activation energy (Ea) always positive for both types",
+        "Practical Significance:",
+        "• Exothermic: Used in hand warmers, self-heating cans, thermite welding",
+        "• Endothermic: Used in cold packs, baking (heat absorption for rising), photosynthesis for food production"
+      ],
+      "diagramDescriptions": [
+        "Energy profile diagram for exothermic reaction showing ΔH < 0, reactants higher than products",
+        "Energy profile diagram for endothermic reaction showing ΔH > 0, products higher than reactants",
+        "Calorimetry setup diagram: insulated cup, thermometer, stirrer, reactants",
+        "Comparison table: exothermic vs endothermic with examples, ΔH sign, and temperature change"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Endothermic exothermic reactions enthalpy chemistry WAEC JAMB site:youtube.com",
+      "quiz": [
+        {"q": "In an exothermic reaction, the enthalpy change (ΔH) is:", "opts": ["Positive", "Negative", "Zero", "Undefined"], "ans": 1, "explanation": "Exothermic reactions release heat, so products have lower energy than reactants, making ΔH negative."},
+        {"q": "Which process is endothermic?", "opts": ["Combustion of methane", "Condensation of steam", "Photosynthesis", "Neutralization of acid and base"], "ans": 2, "explanation": "Photosynthesis absorbs solar energy to convert CO₂ and H₂O into glucose, making it endothermic."},
+        {"q": "In an endothermic reaction, energy is:", "opts": ["Released to surroundings", "Absorbed from surroundings", "Neither absorbed nor released", "Converted to mass only"], "ans": 1, "explanation": "Endothermic reactions require heat input, so energy is absorbed from the surroundings."},
+        {"q": "The enthalpy change ΔH is calculated as:", "opts": ["H(reactants) - H(products)", "H(products) - H(reactants)", "H(products) + H(reactants)", "H(reactants) × H(products)"], "ans": 1, "explanation": "ΔH = ΣH(products) - ΣH(reactants). Positive ΔH = endothermic, negative ΔH = exothermic."},
+        {"q": "Which reaction typically releases the most heat?", "opts": ["Dissolving ammonium chloride", "Melting ice", "Burning magnesium ribbon", "Evaporating water"], "ans": 2, "explanation": "Combustion and metal oxidation are highly exothermic; burning Mg releases intense heat and light."},
+        {"q": "In a cold pack used for injuries, the reaction is:", "opts": ["Exothermic", "Endothermic", "Catalytic", "Reversible only"], "ans": 1, "explanation": "Cold packs use endothermic dissolution (e.g., NH₄NO₃ in water) to absorb heat and cool the area."},
+        {"q": "Activation energy is required for:", "opts": ["Only exothermic reactions", "Only endothermic reactions", "Both exothermic and endothermic reactions", "Neither type"], "ans": 2, "explanation": "All chemical reactions require activation energy to break initial bonds and reach the transition state."},
+        {"q": "Which statement about neutralization is TRUE?", "opts": ["It is endothermic", "It has ΔH > 0", "It is exothermic with ΔH ≈ -57 kJ/mol", "It absorbs heat from surroundings"], "ans": 2, "explanation": "Acid-base neutralization is consistently exothermic, releasing approximately 57 kJ per mole of H₂O formed."},
+        {"q": "In an energy profile diagram, the peak represents:", "opts": ["Reactants", "Products", "Activated complex/transition state", "Catalyst"], "ans": 2, "explanation": "The peak is the highest energy point where bonds are partially broken/formed (transition state)."},
+        {"q": "Thermal decomposition of calcium carbonate is endothermic because:", "opts": ["It releases CO₂", "It requires continuous heat to proceed", "It occurs at room temperature", "It has negative ΔH"], "ans": 1, "explanation": "CaCO₃ → CaO + CO₂ requires continuous heating to break bonds, indicating ΔH > 0 (endothermic)."}
+      ]
+    }
+  ]
+}

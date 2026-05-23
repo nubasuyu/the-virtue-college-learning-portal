@@ -1,0 +1,58 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Organs of Government (Legislature)",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w10_su1",
+      "title": "10.1 Legislative: Meaning and Types",
+      "notes": [
+        "The legislature is the law-making organ of government, constitutionally empowered to enact, amend, or repeal legislation.",
+        "Types: Unicameral (single chamber, e.g., Ghana, New Zealand) and Bicameral (two chambers, e.g., Nigeria, USA, UK).",
+        "Nigeria's National Assembly comprises the Senate (109 members: 3 per state + 1 FCT) and House of Representatives (360 members based on population).",
+        "State legislatures (Houses of Assembly) make laws on Concurrent and Residual Legislative Lists per the 1999 Constitution.",
+        "The legislature serves as the voice of the people, translating public interests into binding legal frameworks."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Legislature meaning types Nigeria SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "The primary function of the legislature is to:", "opts": ["Enforce laws", "Make, amend, and repeal laws", "Interpret laws", "Appoint judges"], "ans": 1, "explanation": "Law-making is the constitutional mandate of legislative bodies."},
+        {"q": "Nigeria's legislature is classified as:", "opts": ["Unicameral", "Bicameral", "Tricameral", "Non-legislative"], "ans": 1, "explanation": "It has two chambers: Senate and House of Representatives."},
+        {"q": "How many Senators represent each Nigerian state?", "opts": ["1", "2", "3", "4"], "ans": 2, "explanation": "The Constitution provides for 3 senators per state to ensure equal representation."},
+        {"q": "A unicameral legislature is characterized by:", "opts": ["Two houses with equal power", "A single legislative chamber", "No elected members", "Military oversight"], "ans": 1, "explanation": "Unicameral systems consolidate law-making in one house for efficiency."},
+        {"q": "Members of the House of Representatives are elected based on:", "opts": ["State equality", "Population size", "Traditional hierarchy", "Geographical area alone"], "ans": 1, "explanation": "Seat allocation reflects demographic distribution to ensure proportional representation."},
+        {"q": "The legislative arm at the state level is called:", "opts": ["National Assembly", "House of Assembly", "Senate", "Federal Parliament"], "ans": 1, "explanation": "Each state has a unicameral House of Assembly responsible for state legislation."},
+        {"q": "Which list allows state legislatures to make laws?", "opts": ["Exclusive List only", "Concurrent and Residual Lists", "Foreign Affairs List", "Military List"], "ans": 1, "explanation": "States share Concurrent powers and exclusively control Residual matters not assigned to federal government."},
+        {"q": "Legislative representation aims to:", "opts": ["Eliminate regional diversity", "Translate citizens' interests into policy", "Centralize all authority", "Replace the executive"], "ans": 1, "explanation": "Elected legislators serve as bridges between constituents and national/state governance."},
+        {"q": "Which country practices unicameralism?", "opts": ["Nigeria", "United States", "Ghana", "Brazil"], "ans": 2, "explanation": "Ghana operates a single-ch parliament for streamlined law-making."},
+        {"q": "Bicameral legislatures are often justified because they:", "opts": ["Increase government costs unnecessarily", "Provide checks within the law-making process and represent diverse interests", "Eliminate executive oversight", "Replace judicial review"], "ans": 1, "explanation": "Two chambers allow deliberation, regional representation, and legislative quality control."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w10_su2",
+      "title": "10.2 Functions and Oversight Role of Legislature",
+      "notes": [
+        "Beyond law-making, the legislature performs critical oversight: monitoring executive implementation, approving budgets, and investigating misconduct.",
+        "Budgetary control: Legislature reviews, amends, and passes the annual appropriation bill proposed by the executive.",
+        "Confirmation powers: Senate confirms presidential appointments (ministers, ambassadors, judges) to ensure competence and accountability.",
+        "Impeachment: Legislature can remove executives or judges for gross misconduct through constitutional due process.",
+        "Public accountability: Committees conduct hearings, summon officials, and publish reports to ensure transparency and citizen trust."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Legislature oversight functions Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Legislative oversight primarily ensures:", "opts": ["Executive dominance", "Accountability and transparency in governance", "Judicial interference", "Military control"], "ans": 1, "explanation": "Oversight checks executive actions to prevent abuse of power and ensure policy compliance."},
+        {"q": "Who proposes the annual national budget in Nigeria?", "opts": ["National Assembly", "The President/Executive", "Supreme Court", "Central Bank"], "ans": 1, "explanation": "The executive drafts and submits the budget; legislature reviews and approves it."},
+        {"q": "The Senate's power to confirm presidential appointments serves to:", "opts": ["Delay governance", "Ensure competence and prevent cronyism", "Replace elected officials", "Control state budgets"], "ans": 1, "explanation": "Screening prevents unqualified or compromised individuals from holding key offices."},
+        {"q": "Impeachment is a legislative tool used to:", "opts": ["Reward political allies", "Remove officials for constitutional misconduct", "Appoint new executives", "Dissolve the judiciary"], "ans": 1, "explanation": "Impeachment upholds accountability by removing leaders who violate their oath of office."},
+        {"q": "Public Account Committees (PAC) contribute to governance by:", "opts": ["Hiring civil servants", "Auditing public expenditure and reporting irregularities", "Setting tax rates", "Controlling foreign policy"], "ans": 1, "explanation": "PACs ensure public funds are used efficiently and report financial mismanagement to parliament."},
+        {"q": "Legislative committees enhance democracy by:", "opts": ["Centralizing decision-making", "Enabling detailed policy scrutiny and expert input", "Eliminating public participation", "Replacing the executive branch"], "ans": 1, "explanation": "Committees allow specialized review of bills, budgets, and administrative actions."},
+        {"q": "Citizens can engage with legislative oversight through:", "opts": ["Ignoring policy debates", "Public hearings, petitions, and civic advocacy", "Supporting corruption", "Avoiding elections"], "ans": 1, "explanation": "Civic input ensures legislation reflects public needs and holds representatives accountable."},
+        {"q": "A weakness in legislative oversight in Nigeria is:", "opts": ["Excessive independence", "Political interference and weak committee enforcement", "Overqualified staff", "Too many audits"], "ans": 1, "explanation": "Partisan loyalty and limited investigative capacity often weaken effective oversight."},
+        {"q": "The principle of 'checks and balances' in legislature-executive relations means:", "opts": ["One branch dominates the other", "Each branch limits and monitors the others to prevent tyranny", "Military controls both", "Citizens are excluded"], "ans": 1, "explanation": "Mutual oversight prevents power concentration and protects constitutional democracy."},
+        {"q": "Effective legislative oversight requires:", "opts": ["Secrecy in proceedings", "Transparency, capacity, and political will", "Abolition of opposition parties", "Executive control of committees"], "ans": 1, "explanation": "Independent, well-resourced legislatures with ethical leadership ensure robust accountability."}
+      ]
+    }
+  ]
+}

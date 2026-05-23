@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Development of Political Parties in Nigeria (Cont.)",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w9_su1",
+      "title": "9.1 Great Nigerian People's Party (GNPP) & Nigerian Advance Party (NAP)",
+      "notes": [
+        "Great Nigerian People's Party (GNPP, 1978): Founded by Waziri Ibrahim; represented Northern minority interests and progressive middle-class elites; advocated federalism, social justice, and equitable resource distribution.",
+        "Nigerian Advance Party (NAP, 1978): Founded by Dr. Tunji Braithwaite; based in Lagos/Southwest; championed radical democracy, social welfare, and anti-corruption; attracted intellectuals, trade unionists, and urban professionals.",
+        "Structural features: Both operated under 1979 constitutional requirements (national spread, INEC registration); relied on grassroots networks, intellectual manifestos, and regional strongholds.",
+        "Financing: Membership dues, public rallies, donations from professionals and small businesses; strict compliance with INEC financial reporting rules.",
+        "Performance: GNPP won Borno State governorship and significant National Assembly seats; NAP struggled nationally but influenced Lagos and Southwestern political discourse."
+      ],
+      "videoId": "",
+      "youtubeQuery": "GNPP NAP political parties Nigeria second republic site:youtube.com",
+      "quiz": [
+        {"q": "The Great Nigerian People's Party (GNPP) was founded by:", "opts": ["Obafemi Awolowo", "Waziri Ibrahim", "Aminu Kano", "Tunji Braithwaite"], "ans": 1, "explanation": "Waziri Ibrahim founded GNPP to represent Northern minority and progressive middle-class interests."},
+        {"q": "The Nigerian Advance Party (NAP) primarily drew support from:", "opts": ["Northern traditional elites", "Intellectuals, trade unionists, and urban professionals in Lagos/Southwest", "Military commanders", "Rural peasant farmers"], "ans": 1, "explanation": "NAP's radical democratic platform attracted urban intellectuals, professionals, and labor movements."},
+        {"q": "A key ideological focus of GNPP was:", "opts": ["Military centralization", "Federalism, social justice, and equitable resource distribution", "Ethnic exclusivity", "Religious theocracy"], "ans": 1, "explanation": "GNPP advocated for inclusive federalism and fair resource sharing across Nigeria's diverse regions."},
+        {"q": "Under the 1979 Constitution, both GNPP and NAP were required to:", "opts": ["Operate only regionally", "Demonstrate national spread and comply with INEC registration rules", "Abolish local government councils", "Rely solely on foreign funding"], "ans": 1, "explanation": "Constitutional mandates forced all parties to build cross-regional appeal and follow electoral regulations."},
+        {"q": "A notable electoral achievement of GNPP in 1979 was:", "opts": ["Winning the presidency", "Securing Borno State governorship and National Assembly seats", "Eliminating all opposition parties", "Centralizing all political power"], "ans": 1, "explanation": "GNPP's regional strength in Borno translated into executive and legislative representation."},
+        {"q": "NAP's financial base relied primarily on:", "opts": ["Foreign corporate investments", "Membership dues, professional donations, and public rallies", "Military grants", "State budget allocations"], "ans": 1, "explanation": "Urban professional networks and grassroots fundraising sustained NAP's campaigns and operations."},
+        {"q": "The rise of minor parties like GNPP and NAP demonstrated:", "opts": ["Complete political homogeneity", "Growing demand for inclusive representation and ideological diversity", "Elimination of regional identities", "Military control of all parties"], "ans": 1, "explanation": "Third-force parties emerged to challenge dominant blocs and advocate for marginalized groups."},
+        {"q": "A challenge faced by both GNPP and NAP was:", "opts": ["Excessive government funding", "Limited national penetration beyond regional strongholds", "Complete absence of political competition", "Military party sponsorship"], "ans": 1, "explanation": "Despite ideological appeal, minor parties struggled to expand nationally due to established party dominance."},
+        {"q": "Understanding minor parties helps citizens:", "opts": ["Reject multi-party democracy", "Appreciate ideological diversity and the importance of inclusive representation", "Support one-party rule", "Ignore electoral history"], "ans": 1, "explanation": "Third-force parties highlight the value of diverse platforms and grassroots political participation."},
+        {"q": "Citizens can strengthen minor party representation by:", "opts": ["Ignoring local elections", "Participating in grassroots campaigns, monitoring party compliance, and voting based on platforms", "Supporting military intervention", "Rejecting political diversity"], "ans": 1, "explanation": "Active civic engagement ensures minority voices shape policy and hold major parties accountable."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w9_su2",
+      "title": "9.2 People's Redemption Party (PRP) & Impact of Third-Force Politics",
+      "notes": [
+        "People's Redemption Party (PRP, 1978): Founded by Aminu Kano; radical populist ideology centered on 'talakawa' (commoner) empowerment, anti-feudalism, and socialist policies.",
+        "Structure: Strong grassroots presence in Northern urban centers; mobilized through trade unions, student groups, and Islamic social justice networks; emphasized internal democracy and mass rallies.",
+        "Electoral performance: Won Kano State governorship (1979) and several National Assembly seats; served as vocal opposition to conservative NPN and NPC-aligned parties.",
+        "Impact: Introduced radical policy alternatives (land reform, worker rights, free healthcare); pressured mainstream parties to adopt welfare programs; demonstrated power of ideological mobilization.",
+        "Decline: Leadership transitions, internal factionalism, and 1983 military coup suspended democratic operations, but PRP's legacy influenced later labor and progressive movements."
+      ],
+      "videoId": "",
+      "youtubeQuery": "PRP Aminu Kano talakawa politics Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "The People's Redemption Party (PRP) was founded by:", "opts": ["Obafemi Awolowo", "Aminu Kano", "Shehu Shagari", "Nnamdi Azikiwe"], "ans": 1, "explanation": "Aminu Kano established PRP as a radical populist alternative to conservative Northern politics."},
+        {"q": "PRP's ideology primarily focused on:", "opts": ["Elite wealth accumulation", "Talakawa (commoner) empowerment and anti-feudal reforms", "Military dictatorship", "Centralized religious rule"], "ans": 1, "explanation": "PRP championed land reform, worker rights, and social welfare for marginalized masses."},
+        {"q": "A major electoral victory for PRP in 1979 was:", "opts": ["Winning the presidency", "Securing Kano State governorship and legislative seats", "Abolishing state governments", "Eliminating opposition parties"], "ans": 1, "explanation": "Strong grassroots support in Kano translated into executive and parliamentary representation."},
+        {"q": "PRP mobilized support primarily through:", "opts": ["Foreign funding", "Trade unions, student groups, and Islamic social justice networks", "Military patronage", "Ethnic exclusion"], "ans": 1, "explanation": "Labor and intellectual networks amplified PRP's populist message across Northern urban centers."},
+        {"q": "The impact of PRP on Nigerian politics included:", "opts": ["Eliminating all opposition", "Introducing radical policy alternatives and pressuring mainstream welfare reforms", "Centralizing federal power", "Abolishing political rallies"], "ans": 1, "explanation": "PRP's platform forced larger parties to address poverty, labor rights, and social equity."},
+        {"q": "A structural strength of PRP was:", "opts": ["Military control", "Internal democracy, mass mobilization, and ideological consistency", "Complete foreign alignment", "Elimination of grassroots networks"], "ans": 1, "explanation": "Transparent internal processes and consistent messaging built loyal, engaged membership."},
+        {"q": "PRP's decline was accelerated by:", "opts": ["Excessive popularity", "Leadership transitions, internal factionalism, and 1983 military intervention", "Complete financial transparency", "Lack of political competition"], "ans": 1, "explanation": "Internal splits and military suspension disrupted PRP's organizational continuity."},
+        {"q": "PRP's legacy in modern Nigerian politics includes:", "opts": ["Military dominance", "Influence on labor movements, progressive parties, and social justice advocacy", "Abolition of democratic processes", "Elimination of minority rights"], "ans": 1, "explanation": "PRP's emphasis on commoner rights inspired later progressive and labor-aligned political formations."},
+        {"q": "Understanding third-force politics helps citizens:", "opts": ["Reject multi-party systems", "Appreciate ideological diversity and demand inclusive policy platforms", "Support one-party rule", "Ignore grassroots mobilization"], "ans": 1, "explanation": "Minor parties demonstrate how focused ideologies can drive national policy debates and accountability."},
+        {"q": "Citizens can sustain progressive political participation by:", "opts": ["Avoiding party membership", "Engaging in internal democracy, monitoring manifestos, and supporting welfare-focused candidates", "Supporting authoritarianism", "Ignoring electoral processes"], "ans": 1, "explanation": "Active involvement in party structures ensures policies reflect public interest and social equity."}
+      ]
+    }
+  ]
+}

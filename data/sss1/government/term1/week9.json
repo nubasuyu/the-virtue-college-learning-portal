@@ -1,0 +1,83 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Types of Government Continued",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w9_su1",
+      "title": "9.1 Confederal System of Government",
+      "notes": [
+        "A confederal system is a loose union of sovereign states that delegate limited powers to a central authority for specific purposes like defense, trade, or foreign policy.",
+        "Key features: Sovereignty remains with member states, weak central government, decisions require unanimity or consensus, members retain the right to secede.",
+        "The central body can only act on matters explicitly delegated by the states; it lacks direct authority over citizens.",
+        "Historical examples: Articles of Confederation (USA, 1781–1789), Swiss Confederation (1291–1848), Confederate States of America (1861–1865). Modern example: European Union (has confederal traits).",
+        "Advantages: Preserves state autonomy, accommodates regional diversity, prevents central overreach. Disadvantages: Policy paralysis, weak enforcement, vulnerability to external threats, economic fragmentation."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Confederal system of government explained SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "In a confederal system, supreme sovereignty rests with:", "opts": ["The central government", "Member states", "International courts", "Military commanders"], "ans": 1, "explanation": "Confederalism keeps ultimate authority with independent member states."},
+        {"q": "Which is a defining feature of a confederation?", "opts": ["Strong central legislature", "Right of members to secede", "Uniform national currency", "Centralized tax collection"], "ans": 1, "explanation": "Member states retain sovereignty and can legally withdraw from the union."},
+        {"q": "The central authority in a confederation can only act on:", "opts": ["All domestic issues", "Matters delegated by member states", "Military conscription", "Judicial appointments"], "ans": 1, "explanation": "The central body has no inherent powers; it only exercises authority explicitly granted by states."},
+        {"q": "Which historical document created a confederal system in the USA?", "opts": ["The Constitution (1787)", "The Articles of Confederation (1781)", "The Bill of Rights", "The Declaration of Independence"], "ans": 1, "explanation": "The Articles established a weak central congress while states retained sovereignty."},
+        {"q": "A major disadvantage of confederalism is:", "opts": ["Excessive centralization", "Policy paralysis and weak enforcement", "Overproduction of goods", "Universal suffrage"], "ans": 1, "explanation": "Unanimity requirements and lack of enforcement power often stall collective action."},
+        {"q": "The European Union exhibits confederal traits because:", "opts": ["It has a single president with absolute power", "Member states retain sovereignty but pool limited powers", "It abolishes national borders completely", "It controls all state militaries"], "ans": 1, "explanation": "The EU operates through treaties where sovereign states delegate specific economic and regulatory powers."},
+        {"q": "Which statement about confederations is FALSE?", "opts": ["They require consensus for major decisions", "They lack direct taxation power over citizens", "They have strong executive enforcement", "Member states maintain independent foreign policies"], "ans": 2, "explanation": "Confederations typically lack a strong executive or coercive enforcement mechanism."},
+        {"q": "Confederal systems are most vulnerable to:", "opts": ["Over-centralization", "Internal fragmentation and external threats", "Excessive democratic participation", "Judicial activism"], "ans": 1, "explanation": "Weak central coordination makes confederations prone to disunity and foreign pressure."},
+        {"q": "In a confederation, laws are typically enforced by:", "opts": ["The central parliament directly", "Member state governments", "International peacekeepers", "Private corporations"], "ans": 1, "explanation": "The central body relies on states to implement and enforce agreed-upon policies."},
+        {"q": "Why did the USA replace its confederal system in 1787?", "opts": ["States wanted more power", "The central government couldn't tax or regulate trade effectively", "Foreign powers demanded it", "Citizens rejected voting"], "ans": 1, "explanation": "Economic chaos and weak central authority under the Articles led to the stronger federal Constitution."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w9_su2",
+      "title": "9.2 Monarchy: Types and Modern Relevance",
+      "notes": [
+        "Monarchy is a system where a single person (king, queen, emperor) serves as head of state, often for life and through hereditary succession.",
+        "Absolute monarchy: The monarch holds unrestricted political power, controls all state branches, and rules by decree (e.g., Saudi Arabia, Vatican City).",
+        "Constitutional monarchy: The monarch's powers are limited by a constitution or laws; real executive authority rests with elected officials (e.g., UK, Japan, Spain, Norway).",
+        "Historical role: Provided stability, continuity, and cultural unity in pre-modern states; modern role is largely ceremonial, diplomatic, and symbolic.",
+        "In Nigeria, traditional rulers (Obas, Emirs, Obis) hold cultural and advisory authority but no constitutional executive power under the 1999 Constitution."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Monarchy types absolute constitutional SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Monarchy is best defined as a system where:", "opts": ["Power is shared equally among citizens", "A single hereditary ruler serves as head of state", "Leaders are elected every four years", "Military officers govern permanently"], "ans": 1, "explanation": "Monarchy features a single ruler, typically inheriting the position by birthright."},
+        {"q": "In an absolute monarchy, the monarch:", "opts": ["Shares power with parliament", "Holds unrestricted political authority", "Serves only ceremonial duties", "Is elected by popular vote"], "ans": 1, "explanation": "Absolute monarchs control executive, legislative, and judicial functions without constitutional limits."},
+        {"q": "Which country practices constitutional monarchy?", "opts": ["Saudi Arabia", "United Kingdom", "North Korea", "United States"], "ans": 1, "explanation": "The UK monarch's powers are constrained by constitution and parliament; real governance lies with elected officials."},
+        {"q": "A key feature of constitutional monarchy is:", "opts": ["Rule by royal decree", "Separation of ceremonial head of state and elected executive", "Abolition of parliament", "Hereditary prime ministers"], "ans": 1, "explanation": "Constitutional monarchs symbolize unity while elected leaders manage day-to-day governance."},
+        {"q": "Traditional rulers in Nigeria derive authority from:", "opts": ["The 1999 Constitution", "Customary law and historical lineage", "Military appointment", "International treaties"], "ans": 1, "explanation": "Nigerian traditional institutions are culturally recognized but lack constitutional executive power."},
+        {"q": "Which monarch has real executive power today?", "opts": ["King of Japan", "Emir of Saudi Arabia", "Queen of Norway", "Prince of Monaco"], "ans": 1, "explanation": "Saudi Arabia maintains an absolute monarchy where the king controls state policy and resources."},
+        {"q": "Constitutional monarchy promotes stability because:", "opts": ["The monarch controls the military", "It separates symbolic continuity from political accountability", "It eliminates elections", "It centralizes all wealth"], "ans": 1, "explanation": "Monarchs provide national continuity while elected governments face democratic accountability."},
+        {"q": "Which is a disadvantage of absolute monarchy?", "opts": ["Excessive public participation", "Lack of checks on power and potential abuse", "Frequent leadership transitions", "Decentralized taxation"], "ans": 1, "explanation": "Unlimited power without institutional oversight often leads to authoritarianism and human rights violations."},
+        {"q": "The primary modern role of constitutional monarchs is:", "opts": ["Drafting legislation", "Symbolic unity, diplomacy, and cultural preservation", "Commanding the armed forces", "Setting tax rates"], "ans": 1, "explanation": "Constitutional monarchs serve as non-partisan national symbols and diplomatic representatives."},
+        {"q": "Monarchy differs from democracy primarily in:", "opts": ["Economic policy", "Method of leadership selection (hereditary vs electoral)", "Territorial size", "Judicial structure"], "ans": 1, "explanation": "Monarchy relies on birthright succession; democracy relies on popular consent through elections."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w9_su3",
+      "title": "9.3 Federalism vs Confederalism: Key Differences",
+      "notes": [
+        "Federalism constitutionally divides sovereignty between a central government and regional/state governments; confederalism keeps sovereignty with states, delegating limited powers centrally.",
+        "In federal systems, the constitution is supreme, citizens are subject to both levels of government, and secession is constitutionally prohibited.",
+        "In confederal systems, states retain full sovereignty, the central body acts only on state consent, and members can legally withdraw.",
+        "Federalism promotes unity with diversity; confederalism prioritizes state independence at the cost of collective strength.",
+        "Nigeria operates as a federal republic, though debates on true federalism vs. unitary practices persist due to historical centralization."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Federalism vs confederalism differences SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "The fundamental difference between federalism and confederalism is:", "opts": ["Presence of elections", "Location of supreme sovereignty", "Number of political parties", "Military strength"], "ans": 1, "explanation": "Federalism shares sovereignty constitutionally; confederalism reserves it for member states."},
+        {"q": "In a federal system, the constitution is:", "opts": ["Advisory", "Supreme and binding on all levels", "Controlled by states alone", "Subject to presidential veto"], "ans": 1, "explanation": "Federal constitutions establish the framework for power-sharing and override conflicting state laws."},
+        {"q": "Which system allows member states to legally secede?", "opts": ["Federal", "Confederal", "Unitary", "Presidential"], "ans": 1, "explanation": "Confederations permit withdrawal; federal systems constitutionally prohibit secession."},
+        {"q": "Nigeria's current system is constitutionally:", "opts": ["Confederal", "Unitary", "Federal", "Theocratic"], "ans": 2, "explanation": "The 1999 Constitution establishes a federal structure with three tiers of government."},
+        {"q": "In confederalism, citizens are primarily subject to:", "opts": ["The central parliament", "Their respective state governments", "International courts", "Traditional councils only"], "ans": 1, "explanation": "Central authority lacks direct jurisdiction over citizens; states remain the primary governing unit."},
+        {"q": "Which system is better suited for highly diverse, large nations?", "opts": ["Confederal", "Federal", "Absolute monarchy", "Fascist"], "ans": 1, "explanation": "Federalism accommodates diversity through shared power while maintaining national cohesion."},
+        {"q": "A federal state can override state laws when:", "opts": ["The state governor agrees", "Federal law conflicts with state law under constitutional supremacy", "The military intervenes", "Traditional rulers approve"], "ans": 1, "explanation": "Constitutional supremacy ensures federal legislation prevails in matters of national jurisdiction."},
+        {"q": "Confederal systems struggle with:", "opts": ["Excessive central control", "Coordinated national policy and revenue collection", "Too much citizen participation", "Strong judicial review"], "ans": 1, "explanation": "Lack of central taxation and enforcement hampers unified economic and security policies."},
+        {"q": "The US shifted from confederation to federation to:", "opts": ["Increase state power", "Create a stronger central government capable of governing effectively", "Eliminate democracy", "Abolish taxation"], "ans": 1, "explanation": "Weak central authority under the Articles necessitated a federal system with balanced powers."},
+        {"q": "Understanding federalism vs confederalism helps citizens:", "opts": ["Support military coups", "Evaluate power-sharing models and demand constitutional compliance", "Ignore local governance", "Reject all state institutions"], "ans": 1, "explanation": "Civic knowledge of governance structures enables informed participation and accountability."}
+      ]
+    }
+  ]
+}

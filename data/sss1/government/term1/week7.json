@@ -1,0 +1,83 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Types and Characteristics of Government",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w7_su1",
+      "title": "7.1 Unitary System: Meaning and Characteristics",
+      "notes": [
+        "A unitary system concentrates all governmental powers in a single central/national authority.",
+        "Sub-national units (regions, states, local governments) exist but derive powers from the center, which can alter or abolish them.",
+        "Characteristics: Single constitution, centralized legislation, uniform laws/policies, strong national institutions, hierarchical administrative structure.",
+        "Examples: United Kingdom, France, Japan, China. Nigeria operates as a federal system but exhibits unitary tendencies during military rule.",
+        "Unitary systems are common in small, homogeneous nations where centralized decision-making aligns with cultural and geographic cohesion."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Unitary system of government SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "In a unitary system, where is supreme authority located?", "opts": ["State governments", "Local councils", "Central/national government", "Traditional institutions"], "ans": 2, "explanation": "Unitary systems vest all sovereign power in the central government."},
+        {"q": "Sub-national units in a unitary state derive their powers from:", "opts": ["The constitution only", "Delegation by the central government", "International treaties", "Popular referendum"], "ans": 1, "explanation": "Regions/states in unitary systems exist at the center's discretion and have no inherent sovereignty."},
+        {"q": "Which is a characteristic of unitary government?", "opts": ["Multiple constitutions", "Uniform laws nationwide", "Strong state autonomy", "Decentralized taxation"], "ans": 1, "explanation": "Unitary states apply consistent legal and policy frameworks across all territories."},
+        {"q": "Which country operates a unitary system?", "opts": ["Nigeria", "United States", "France", "Brazil"], "ans": 2, "explanation": "France is a classic unitary state with centralized administrative control."},
+        {"q": "Unitary systems are most suitable for:", "opts": ["Large, ethnically diverse countries", "Small, culturally homogeneous nations", "Federal republics", "Confederations"], "ans": 1, "explanation": "Homogeneity and compact geography reduce the need for regional autonomy."},
+        {"q": "The Nigerian government exhibited unitary features mainly during:", "opts": ["Civilian rule (1960–1966)", "Military regimes", "Colonial era only", "The Fourth Republic"], "ans": 1, "explanation": "Military governments centralized power, overriding federal principles in the 1999 Constitution."},
+        {"q": "A unitary constitution is typically:", "opts": ["Federal and rigid", "Centralized and flexible", "Divided among states", "Controlled by local governments"], "ans": 1, "explanation": "Unitary systems maintain a single constitutional framework that the center can amend without regional consent."},
+        {"q": "In a unitary state, local governments:", "opts": ["Have constitutional sovereignty", "Act as administrative extensions of the center", "Elect national presidents", "Control foreign policy"], "ans": 1, "explanation": "Local units manage delegated functions but lack independent legislative or constitutional authority."},
+        {"q": "Which feature distinguishes unitary from federal systems?", "opts": ["Division of powers by constitution", "Centralization of all powers in one authority", "Multiple legislative chambers", "Decentralized judicial review"], "ans": 1, "explanation": "Federalism constitutionally shares power; unitarism concentrates it centrally."},
+        {"q": "Administrative efficiency in unitary systems results from:", "opts": ["Competing regional policies", "Standardized procedures and centralized decision-making", "Frequent constitutional amendments", "Decentralized resource allocation"], "ans": 1, "explanation": "Uniform policies reduce duplication and enable swift national implementation."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w7_su2",
+      "title": "7.2 Advantages and Disadvantages of Unitary System",
+      "notes": [
+        "Advantages: Promotes national unity, ensures uniform standards (education, health, law), reduces administrative costs, enables rapid crisis response, prevents regional fragmentation.",
+        "Disadvantages: Ignores local needs and diversity, risks authoritarian overreach, overburdens central bureaucracy, limits citizen participation at grassroots, creates policy bottlenecks.",
+        "In practice, many unitary states adopt decentralization (devolution) to balance efficiency with local representation.",
+        "Nigeria's federal structure was adopted to manage diversity, but unitary tendencies have sparked debates on true federalism and resource control.",
+        "Critical evaluation: Unitary systems work best with strong institutions, transparency, and adaptive governance mechanisms."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Advantages disadvantages unitary government site:youtube.com",
+      "quiz": [
+        {"q": "A major advantage of unitary government is:", "opts": ["Regional fragmentation", "National unity and uniform policy implementation", "Excessive local autonomy", "Decentralized taxation"], "ans": 1, "explanation": "Centralized authority fosters cohesion and consistent service delivery nationwide."},
+        {"q": "Which is a disadvantage of unitary systems?", "opts": ["Rapid decision-making", "Neglect of local needs and diversity", "Uniform legal standards", "Reduced administrative costs"], "ans": 1, "explanation": "Centralized control often overlooks unique regional conditions and cultural differences."},
+        {"q": "Unitary systems can become authoritarian if:", "opts": ["Power is constitutionally divided", "Central authority operates without checks and balances", "Local governments are empowered", "Media remains independent"], "ans": 1, "explanation": "Concentrated power without accountability enables abuse and suppression of dissent."},
+        {"q": "To address unitary limitations, many states adopt:", "opts": ["Military rule", "Administrative decentralization/devolution", "Complete abolition of local government", "One-party systems"], "ans": 1, "explanation": "Devolution delegates certain functions to local authorities while maintaining central sovereignty."},
+        {"q": "Unitary systems are less suitable for countries with:", "opts": ["Small populations", "Deep ethnic, linguistic, or regional divisions", "Strong central institutions", "Homogeneous cultures"], "ans": 1, "explanation": "Diverse societies often require power-sharing to prevent marginalization and conflict."},
+        {"q": "A policy bottleneck in unitary systems occurs when:", "opts": ["Local governments act independently", "Central bureaucracy delays decisions due to overload", "Taxes are decentralized", "Judicial review is strengthened"], "ans": 1, "explanation": "Concentrated authority can create administrative backlogs and slow responsive governance."},
+        {"q": "National cohesion in unitary states is strengthened by:", "opts": ["Competing regional armies", "Shared identity and centralized institutions", "Decentralized education curricula", "Multiple national languages"], "ans": 1, "explanation": "Uniform symbols, laws, and services foster a collective national consciousness."},
+        {"q": "Which reform balances unitary efficiency with local representation?", "opts": ["Abolishing states", "Creating autonomous regions with limited self-rule", "Centralizing all resources", "Eliminating local councils"], "ans": 1, "explanation": "Devolved regions manage local affairs while remaining constitutionally subordinate to the center."},
+        {"q": "In Nigeria, demands for 'true federalism' arise because:", "opts": ["Unitary principles ensure equity", "Centralized control limits regional autonomy and resource control", "Decentralization causes instability", "States lack administrative capacity"], "ans": 1, "explanation": "Advocates argue that excessive centralization undermines federal principles and regional development."},
+        {"q": "Unitary systems perform best when accompanied by:", "opts": ["Censorship and repression", "Transparency, accountability, and adaptive governance", "Military oversight", "Abolition of civil service"], "ans": 1, "explanation": "Ethical leadership and responsive institutions mitigate centralization risks."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w7_su3",
+      "title": "7.3 Unitary vs Federal: Comparative Analysis & Nigerian Context",
+      "notes": [
+        "Federalism divides powers constitutionally between central and regional governments; unitarism concentrates power centrally with delegated local functions.",
+        "Nigeria's 1999 Constitution establishes federalism, but historical military rule and fiscal centralization create unitary practices.",
+        "Key debates: Revenue allocation, state police, local government autonomy, and constitutional amendments to align practice with federal principles.",
+        "Comparative advantage: Federalism accommodates diversity and checks central power; unitarism ensures uniformity and rapid national action.",
+        "Civic implication: Understanding governance structures empowers citizens to demand constitutional compliance and participatory democracy."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Unitary vs federal system Nigeria comparison site:youtube.com",
+      "quiz": [
+        {"q": "The fundamental difference between federal and unitary systems is:", "opts": ["Number of political parties", "Constitutional division vs concentration of powers", "Presence of elections", "Military involvement"], "ans": 1, "explanation": "Federalism shares power constitutionally; unitarism centralizes it."},
+        {"q": "Nigeria's constitution establishes:", "opts": ["A unitary state", "A federal republic", "A confederation", "A monarchy"], "ans": 1, "explanation": "The 1999 Constitution defines Nigeria as a federal republic with three tiers of government."},
+        {"q": "Which feature reflects unitary practice in Nigeria?", "opts": ["State police forces", "Centralized revenue collection and allocation", "Independent state judiciaries", "Decentralized education policy"], "ans": 1, "explanation": "Federal control of resources and distribution to states mirrors unitary fiscal centralization."},
+        {"q": "Federalism is preferred for diverse nations because it:", "opts": ["Eliminates regional identity", "Accommodates cultural differences and shares power", "Concentrates authority centrally", "Standardizes all local laws"], "ans": 1, "explanation": "Power-sharing reduces marginalization and allows regional autonomy within national unity."},
+        {"q": "A constitutional amendment to strengthen federalism in Nigeria would:", "opts": ["Abolish state governments", "Devolve more powers and resources to states", "Centralize all security agencies", "Eliminate local councils"], "ans": 1, "explanation": "True federalism requires constitutional empowerment of sub-national units."},
+        {"q": "Which statement about unitary systems is accurate?", "opts": ["They guarantee regional sovereignty", "They operate best with strong central institutions and accountability", "They prevent national unity", "They require multiple constitutions"], "ans": 1, "explanation": "Unitary efficiency depends on ethical, transparent central governance."},
+        {"q": "Local government autonomy in Nigeria is limited because:", "opts": ["States have constitutional authority over local councils", "Local governments are independent of states", "Federal government funds LGAs directly", "Traditional rulers control them"], "ans": 0, "explanation": "State governments oversee LGA finances and administration, constraining grassroots autonomy."},
+        {"q": "A citizen advocating for 'true federalism' primarily demands:", "opts": ["Abolition of states", "Constitutional compliance with power-sharing principles", "Military intervention", "Centralized resource control"], "ans": 1, "explanation": "Advocates seek alignment between constitutional federalism and actual governance practices."},
+        {"q": "Which system allows states to have their own constitutions?", "opts": ["Unitary", "Federal", "Totalitarian", "Fascist"], "ans": 1, "explanation": "Federal states operate under a national constitution while maintaining regional legal frameworks."},
+        {"q": "Understanding governance structures helps citizens:", "opts": ["Avoid political participation", "Demand accountability and constitutional rights", "Support authoritarian rule", "Ignore policy debates"], "ans": 1, "explanation": "Civic knowledge enables informed engagement, advocacy, and democratic oversight."}
+      ]
+    }
+  ]
+}

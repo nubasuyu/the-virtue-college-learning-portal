@@ -1,0 +1,83 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Basic Concepts (Continued)",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w6_su1",
+      "title": "6.1 Communism: Meaning and Principles",
+      "notes": [
+        "Communism is a radical political and economic ideology advocating for a classless, stateless society where all property is collectively owned.",
+        "Theoretical foundation: Karl Marx and Friedrich Engels' 'Communist Manifesto' (1848) and 'Das Kapital', analyzing class struggle and capitalist exploitation.",
+        "Key principles: Abolition of private property, common ownership of means of production, centralized planning, 'from each according to ability, to each according to needs'.",
+        "Historical implementations: Soviet Union (1917–1991), China (post-1949 with market reforms), Cuba, Vietnam, North Korea.",
+        "Criticisms: Authoritarian governance, economic inefficiency, suppression of dissent, human rights violations, and failure to deliver promised equality."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Communism explained SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Communism aims to establish:", "opts": ["A class-based society", "A classless, stateless society with common ownership", "A capitalist free market", "A feudal hierarchy"], "ans": 1, "explanation": "Communism envisions eliminating class divisions and state control through collective ownership."},
+        {"q": "Who co-authored 'The Communist Manifesto'?", "opts": ["Adam Smith and John Locke", "Karl Marx and Friedrich Engels", "Vladimir Lenin and Joseph Stalin", "Plato and Aristotle"], "ans": 1, "explanation": "Marx and Engels published the manifesto in 1848, outlining communist theory and revolutionary strategy."},
+        {"q": "A core principle of communism is:", "opts": ["Private property rights", "Abolition of private ownership of production", "Free market competition", "Decentralized governance"], "ans": 1, "explanation": "Communism mandates collective ownership of land, factories, and resources to eliminate exploitation."},
+        {"q": "Which historical event marked the first communist state?", "opts": ["French Revolution (1789)", "Russian Revolution (1917)", "American Civil War (1861)", "Industrial Revolution (1760s)"], "ans": 1, "explanation": "The Bolshevik Revolution established the Soviet Union, the world's first communist state."},
+        {"q": "In communist theory, the 'proletariat' refers to:", "opts": ["The ruling aristocracy", "The working class who sell their labor", "The military elite", "The capitalist owners"], "ans": 1, "explanation": "Marx identified the proletariat as wage-earning workers exploited by the bourgeoisie (capitalist class)."},
+        {"q": "A major criticism of historical communist states is:", "opts": ["Excessive political freedom", "Authoritarianism and suppression of dissent", "Lack of centralized planning", "Overproduction of consumer goods"], "ans": 1, "explanation": "Communist regimes often concentrated power, restricted freedoms, and used state coercion to maintain control."},
+        {"q": "The phrase 'from each according to his ability, to each according to his needs' reflects:", "opts": ["Capitalist meritocracy", "Communist distributive justice", "Feudal loyalty systems", "Democratic voting rights"], "ans": 1, "explanation": "This principle defines communist economic organization based on collective contribution and equitable access."},
+        {"q": "China's economic reforms under Deng Xiaoping introduced:", "opts": ["Pure communism", "Market-oriented policies while maintaining one-party rule", "Complete privatization and democracy", "Return to feudalism"], "ans": 1, "explanation": "China adopted 'socialism with Chinese characteristics', blending state control with market capitalism."},
+        {"q": "Communism differs from socialism in that communism seeks to:", "opts": ["Reform capitalism gradually", "Abolish the state and private property entirely", "Strengthen parliamentary systems", "Promote free trade globally"], "ans": 1, "explanation": "Communism is a revolutionary, stateless endpoint, while socialism can operate within existing state structures."},
+        {"q": "Which document outlines the theoretical basis of communism?", "opts": ["The Wealth of Nations", "The Communist Manifesto", "The Republic", "Leviathan"], "ans": 1, "explanation": "Marx and Engels' manifesto systematically critiques capitalism and proposes communist revolution."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w6_su2",
+      "title": "6.2 Fascism and Totalitarianism: Meaning and Features",
+      "notes": [
+        "Fascism is an ultranationalist, authoritarian political ideology emphasizing dictatorial power, forcible suppression of opposition, and regimentation of society.",
+        "Totalitarianism is a system where the state seeks total control over public and private life, using propaganda, surveillance, and terror.",
+        "Key features: One-party rule, cult of personality, militarism, censorship, state-controlled economy, suppression of individual rights, and expansionist foreign policy.",
+        "Historical examples: Mussolini's Italy (1922–1943), Hitler's Nazi Germany (1933–1945), Franco's Spain, and modern authoritarian regimes.",
+        "Fascism and totalitarianism contrast sharply with democracy, rejecting pluralism, human rights, and rule of law in favor of absolute state authority."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Fascism and totalitarianism explained SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Fascism is characterized by:", "opts": ["Democratic pluralism", "Ultranationalism and dictatorial control", "Decentralized governance", "Free press and independent judiciary"], "ans": 1, "explanation": "Fascism prioritizes national supremacy, authoritarian leadership, and suppression of dissent."},
+        {"q": "Totalitarianism differs from authoritarianism in that it:", "opts": ["Allows limited political opposition", "Seeks control over all aspects of public and private life", "Relies on free elections", "Decentralizes economic power"], "ans": 1, "explanation": "Totalitarian regimes penetrate every sphere of society using ideology, surveillance, and coercion."},
+        {"q": "Which leader established the first fascist regime?", "opts": ["Adolf Hitler", "Benito Mussolini", "Joseph Stalin", "Francisco Franco"], "ans": 1, "explanation": "Mussolini founded Italian Fascism in 1922, emphasizing nationalism and state supremacy."},
+        {"q": "A key tool of totalitarian control is:", "opts": ["Independent media", "State propaganda and censorship", "Multi-party elections", "Decentralized courts"], "ans": 1, "explanation": "Propaganda shapes public opinion, while censorship eliminates opposing viewpoints."},
+        {"q": "Fascist economies typically feature:", "opts": ["Complete laissez-faire capitalism", "State-directed corporatism and militarization", "Worker cooperatives", "International free trade zones"], "ans": 1, "explanation": "Fascist states merge state and corporate interests to serve national and military goals."},
+        {"q": "The 'cult of personality' in fascist/totalitarian systems serves to:", "opts": ["Promote collective leadership", "Elevate the leader as infallible and central to national identity", "Encourage public debate", "Limit executive power"], "ans": 1, "explanation": "Leaders are portrayed as saviors, demanding absolute loyalty and discouraging criticism."},
+        {"q": "Which principle is rejected by fascism and totalitarianism?", "opts": ["National unity", "Individual human rights and pluralism", "Military strength", "State sovereignty"], "ans": 1, "explanation": "These ideologies subordinate individual rights to state authority and national supremacy."},
+        {"q": "Nazi Germany's ideology combined fascism with:", "opts": ["Democratic socialism", "Racial supremacy and antisemitism", "Free market capitalism", "Pacifism"], "ans": 1, "explanation": "Nazism merged ultranationalism with racist pseudoscience and expansionist militarism."},
+        {"q": "A modern warning sign of totalitarian tendencies is:", "opts": ["Independent judicial review", "Surveillance of citizens without legal oversight", "Free and fair elections", "Decentralized education"], "ans": 1, "explanation": "Unchecked state monitoring erodes privacy and enables political repression."},
+        {"q": "Fascism and communism both oppose:", "opts": ["Centralized power", "Liberal democracy and individual freedoms", "State-controlled economies", "National identity"], "ans": 1, "explanation": "Despite ideological differences, both reject democratic pluralism and prioritize state/collective over individual rights."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w6_su3",
+      "title": "6.3 Critique of Authoritarian Systems & Democratic Alternatives",
+      "notes": [
+        "Authoritarian systems (fascism, totalitarianism, absolute monarchies) concentrate power, suppress opposition, and limit civil liberties.",
+        "Historical failures: Economic inefficiency, human rights abuses, military aggression, and eventual collapse due to internal resistance or external pressure.",
+        "Democratic systems counter authoritarianism through constitutional limits, separation of powers, free elections, rule of law, and civic participation.",
+        "Nigeria's democratic journey since 1999 emphasizes institutional safeguards against authoritarian regression, though challenges persist.",
+        "Civic education, independent media, and active civil society are essential to preserving democracy and preventing authoritarian backsliding."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Authoritarian vs democratic systems comparison site:youtube.com",
+      "quiz": [
+        {"q": "Authoritarian systems typically lack:", "opts": ["Centralized control", "Free and fair elections", "Military organization", "State bureaucracy"], "ans": 1, "explanation": "Authoritarian regimes suppress competitive elections to maintain power without popular accountability."},
+        {"q": "A key democratic safeguard against authoritarianism is:", "opts": ["One-party rule", "Separation of powers and judicial independence", "State-controlled media", "Military dominance"], "ans": 1, "explanation": "Institutional checks prevent power concentration and protect constitutional rights."},
+        {"q": "Why do authoritarian regimes often collapse?", "opts": ["Excessive economic growth", "Internal dissent, economic failure, and international pressure", "Overabundance of human rights", "Decentralized power structures"], "ans": 1, "explanation": "Repression breeds resistance, inefficiency causes crises, and global isolation weakens regimes."},
+        {"q": "Which institution is most threatened under authoritarian rule?", "opts": ["The military", "Independent judiciary and free press", "State security agencies", "Government ministries"], "ans": 1, "explanation": "Authoritarians neutralize courts and media to eliminate accountability and control narratives."},
+        {"q": "Nigeria's 1999 Constitution aims to prevent authoritarianism by:", "opts": ["Concentrating power in the presidency", "Establishing checks and balances and fundamental rights", "Eliminating state governments", "Suspending judicial review"], "ans": 1, "explanation": "The constitution enshrines separation of powers, federalism, and enforceable human rights."},
+        {"q": "Civil society organizations help prevent authoritarianism by:", "opts": ["Supporting state censorship", "Advocating transparency, human rights, and civic engagement", "Replacing electoral commissions", "Centralizing media control"], "ans": 1, "explanation": "NGOs, unions, and activists monitor government, educate citizens, and demand accountability."},
+        {"q": "A historical lesson from fascist/totalitarian regimes is that:", "opts": ["Absolute power ensures stability", "Unchecked authority leads to abuse and societal collapse", "Democracy causes economic ruin", "Censorship promotes innovation"], "ans": 1, "explanation": "History shows authoritarian excesses ultimately destabilize nations and violate human dignity."},
+        {"q": "Democratic resilience requires:", "opts": ["Passive citizenship", "Informed participation, rule of law, and institutional integrity", "Military intervention in politics", "State monopolization of information"], "ans": 1, "explanation": "Democracy thrives on active citizens, independent institutions, and adherence to constitutional norms."},
+        {"q": "Which factor most effectively counters authoritarian propaganda?", "opts": ["State-controlled education", "Media literacy and independent journalism", "Censorship of social media", "Elimination of opposition parties"], "ans": 1, "explanation": "Critical thinking and free press enable citizens to verify information and resist manipulation."},
+        {"q": "The global democratic movement emphasizes that:", "opts": ["Sovereignty justifies human rights abuses", "Governments derive legitimacy from consent and accountability", "Military rule ensures development", "Elections are unnecessary"], "ans": 1, "explanation": "Modern political theory and international law affirm that legitimate governance requires popular consent and transparency."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Deregulation",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w9_su1",
+      "title": "9.1 Meaning and Reasons for Deregulation",
+      "notes": [
+        "Deregulation is the reduction or elimination of government rules, restrictions, and controls over economic sectors, allowing market forces to operate more freely.",
+        "It contrasts with regulation, where the state sets prices, controls entry, and monitors operations to protect public interest.",
+        "Key reasons: promote competition, attract private investment, reduce bureaucratic bottlenecks, eliminate subsidy burdens, encourage innovation, and improve service delivery.",
+        "In Nigeria, deregulation has been applied to telecommunications, aviation, banking, petroleum downstream sector, and power generation.",
+        "Legal/policy framework often accompanies deregulation to establish independent regulators that ensure fair play without direct state control."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Deregulation meaning reasons Nigeria economics site:youtube.com",
+      "quiz": [
+        {"q": "Deregulation primarily involves:", "opts": ["Increasing government control over markets", "Removing or reducing state restrictions on economic activities", "Nationalizing private industries", "Eliminating all taxes"], "ans": 1, "explanation": "Deregulation reduces state intervention to allow market competition and private sector efficiency."},
+        {"q": "A major reason for deregulation in Nigeria is to:", "opts": ["Increase subsidies", "Promote competition and attract private investment", "Centralize economic planning", "Eliminate regulatory agencies"], "ans": 1, "explanation": "Deregulation opens markets to competition, draws investment, and reduces government fiscal burdens."},
+        {"q": "Which sector in Nigeria experienced significant deregulation?", "opts": ["Judiciary", "Telecommunications", "Military", "Traditional institutions"], "ans": 1, "explanation": "Telecoms deregulation (NCC licensing) transformed Nigeria's mobile communication landscape."},
+        {"q": "Deregulation differs from privatization because:", "opts": ["It transfers ownership to foreigners", "It removes operational restrictions while ownership may remain unchanged", "It eliminates all market forces", "It increases state monopolies"], "ans": 1, "explanation": "Deregulation focuses on rule removal; privatization focuses on ownership transfer."},
+        {"q": "An economic benefit of deregulation is:", "opts": ["Higher consumer prices", "Increased innovation and service quality", "Reduced market entry", "Elimination of competition"], "ans": 1, "explanation": "Competition drives firms to innovate, lower costs, and improve customer satisfaction."},
+        {"q": "Deregulation often leads to:", "opts": ["Bureaucratic delays", "Market-driven pricing and efficiency", "State-controlled tariffs", "Elimination of private enterprise"], "ans": 1, "explanation": "Removing price controls and entry barriers allows supply and demand to set efficient market prices."},
+        {"q": "A prerequisite for successful deregulation is:", "opts": ["Complete absence of regulation", "Strong independent regulatory frameworks to prevent market abuse", "Military oversight", "State monopolization"], "ans": 1, "explanation": "Independent regulators ensure fair competition, consumer protection, and prevent monopolistic practices."},
+        {"q": "Deregulation in the Nigerian power sector aims to:", "opts": ["Increase government control", "Improve generation efficiency and attract private investors", "Eliminate all tariffs", "Centralize distribution"], "ans": 1, "explanation": "Unbundling and deregulation encourage private investment, competition, and better power supply."},
+        {"q": "A potential risk of poorly implemented deregulation is:", "opts": ["Immediate universal access", "Market monopolies and consumer exploitation", "Reduced foreign investment", "Increased public subsidies"], "ans": 1, "explanation": "Without oversight, dominant firms may exploit market power, leading to price gouging and service exclusion."},
+        {"q": "Deregulation supports economic liberalization by:", "opts": ["Increasing trade barriers", "Reducing state interference and encouraging free market operations", "Centralizing resource allocation", "Eliminating private property rights"], "ans": 1, "explanation": "Liberalized economies rely on market forces, private initiative, and minimal state distortion."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w9_su2",
+      "title": "9.2 Advantages and Disadvantages of Deregulation in Nigeria",
+      "notes": [
+        "Advantages: lower prices through competition, improved service quality, job creation in emerging sectors, reduced fiscal burden on government, technology transfer, and increased consumer choice.",
+        "Disadvantages: potential market monopolies, neglect of unprofitable rural areas, job losses in inefficient state enterprises, price volatility, and regulatory capture without strong oversight.",
+        "Nigerian experience: Telecoms and banking thrived post-deregulation; petroleum downstream and power sectors face implementation gaps due to weak institutions and infrastructure deficits.",
+        "Policy balance requires phased implementation, social safety nets, anti-monopoly enforcement, and transparent regulatory frameworks.",
+        "Citizen role: Demand accountability, support competition policies, and participate in public consultations on sector reforms."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Advantages disadvantages deregulation Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A major advantage of deregulation is:", "opts": ["Increased government subsidies", "Lower prices and improved service quality through competition", "Elimination of all private investment", "Centralized economic control"], "ans": 1, "explanation": "Competition forces firms to reduce costs, innovate, and enhance customer satisfaction."},
+        {"q": "Deregulation reduces government fiscal burden by:", "opts": ["Increasing annual grants", "Eliminating subsidy dependency and operational losses", "Abolishing all taxes", "Increasing military spending"], "ans": 1, "explanation": "Private sector efficiency replaces state-funded operations, freeing public funds for health and education."},
+        {"q": "A disadvantage of deregulation in Nigeria is:", "opts": ["Universal service coverage", "Market monopolies and rural service neglect", "Immediate job creation for all", "Complete elimination of corruption"], "ans": 1, "explanation": "Profit-driven firms may ignore low-density rural areas without regulatory mandates or subsidies."},
+        {"q": "Deregulation often leads to job creation in:", "opts": ["Declining state monopolies", "Emerging private sectors and support industries", "Traditional rulership", "Military command"], "ans": 1, "explanation": "New market entrants require staff, contractors, and ancillary services, stimulating employment."},
+        {"q": "To mitigate deregulation demerits, government should implement:", "opts": ["Complete market abandonment", "Anti-monopoly laws, universal service obligations, and consumer protection", "State price fixing", "Elimination of all regulators"], "ans": 1, "explanation": "Balanced frameworks ensure competition thrives while vulnerable populations are protected."},
+        {"q": "Regulatory capture occurs when:", "opts": ["Regulators act in public interest", "Regulated industries influence regulators to serve corporate goals", "All markets are perfectly competitive", "Government eliminates all oversight"], "ans": 1, "explanation": "Capture undermines competition, leading to policies that favor incumbents over consumers."},
+        {"q": "Nigeria's banking deregulation succeeded because of:", "opts": ["State ownership of all banks", "Strong Central Bank oversight and capital adequacy requirements", "Elimination of foreign banks", "Fixed interest rates"], "ans": 1, "explanation": "Prudential regulations ensured stability while competition improved service and financial inclusion."},
+        {"q": "Price volatility post-deregulation is common when:", "opts": ["Markets are perfectly competitive", "Supply chains are weak and speculative behavior dominates", "All prices are fixed by law", "Government subsidizes all goods"], "ans": 1, "explanation": "Infrastructure gaps and hoarding can cause price swings without market stabilization mechanisms."},
+        {"q": "Citizens can ensure deregulation benefits society by:", "opts": ["Ignoring market developments", "Demanding transparency, supporting consumer rights groups, and participating in policy feedback", "Supporting monopolies", "Avoiding new services"], "ans": 1, "explanation": "Active civic engagement holds firms and regulators accountable to public interest standards."},
+        {"q": "Sustainable deregulation requires:", "opts": ["Short-term political fixes", "Strong institutions, phased implementation, and continuous monitoring", "Complete elimination of oversight", "Military intervention in markets"], "ans": 1, "explanation": "Long-term success depends on credible regulators, transparent rules, and adaptive policy reviews."}
+      ]
+    }
+  ]
+}

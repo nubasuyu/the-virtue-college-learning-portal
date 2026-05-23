@@ -1,0 +1,60 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Civil Service (Administrative/Professional Classes)",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w2_su1",
+      "title": "2.1 Administrative and Professional Classes in Civil Service",
+      "notes": [
+        "The Nigerian civil service is organized into classes based on qualifications, functions, and career progression.",
+        "Administrative Class: Senior officials who formulate policies, coordinate departments, and advise ministers. Qualifications: University degree in public administration, political science, law, or related fields.",
+        "Professional/Technical Class: Experts in specific fields like engineering, medicine, law, accounting, education. They provide technical expertise for policy implementation and service delivery.",
+        "Executive/Clerical Class: Handle routine administrative tasks, record-keeping, correspondence, and public interface. Qualifications: OND, NCE, or equivalent.",
+        "Auxiliary Class: Support staff like drivers, messengers, cleaners. Essential for smooth operations but not policy-focused.",
+        "Career progression: Based on merit, performance, training, and seniority. Promotions move staff from lower to higher classes through competitive examinations and evaluations."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Civil service classes Nigeria administrative professional site:youtube.com",
+      "quiz": [
+        {"q": "Which class formulates policies and advises ministers?", "opts": ["Auxiliary", "Clerical", "Administrative", "Technical"], "ans": 2, "explanation": "The Administrative Class comprises senior officials who formulate policies and provide strategic advice to political leaders."},
+        {"q": "A medical doctor in the civil service belongs to which class?", "opts": ["Administrative", "Professional/Technical", "Clerical", "Auxiliary"], "ans": 1, "explanation": "Professionals with specialized expertise (doctors, engineers, lawyers) belong to the Professional/Technical Class."},
+        {"q": "Career progression in civil service is based on:", "opts": ["Political connections only", "Merit, performance, and training", "Random selection", "Seniority only"], "ans": 1, "explanation": "While seniority matters, modern civil service emphasizes merit, performance evaluations, and continuous training for promotions."},
+        {"q": "The Executive/Clerical Class primarily handles:", "opts": ["Policy formulation", "Routine administrative tasks and public interface", "Military operations", "Judicial appointments"], "ans": 1, "explanation": "Clerical staff manage day-to-day paperwork, correspondence, and citizen services under supervisory guidance."},
+        {"q": "Auxiliary class staff in civil service include:", "opts": ["Permanent secretaries", "Drivers and messengers", "Ministers", "Judges"], "ans": 1, "explanation": "Auxiliary staff provide essential support services that enable core administrative functions."},
+        {"q": "Qualification for Administrative Class typically requires:", "opts": ["Primary school certificate", "University degree in relevant field", "No formal education", "Military training only"], "ans": 1, "explanation": "Senior policy roles demand advanced education and specialized knowledge in governance or related disciplines."},
+        {"q": "Professional class civil servants contribute by:", "opts": ["Only cleaning offices", "Providing technical expertise for policy implementation", "Campaigning for politicians", "Controlling the military"], "ans": 1, "explanation": "Technical experts ensure policies are scientifically, legally, and economically sound during implementation."},
+        {"q": "Merit-based promotion in civil service ensures:", "opts": ["Political loyalty over competence", "Qualified professionals advance based on performance", "Elimination of all diversity", "Centralized decision-making"], "ans": 1, "explanation": "Merit systems reward competence, reduce corruption, and improve service delivery quality."},
+        {"q": "A challenge in civil service class structure is:", "opts": ["Excessive transparency", "Politicization of promotions and inadequate training", "Overqualified staff", "Too many audits"], "ans": 1, "explanation": "When promotions are influenced by politics rather than merit, institutional capacity and morale suffer."},
+        {"q": "Effective civil service class management requires:", "opts": ["Secrecy in appointments", "Clear qualification standards, training programs, and performance evaluation", "Elimination of all unions", "Centralized political control"], "ans": 1, "explanation": "Transparent criteria, capacity building, and fair assessment ensure a competent, motivated workforce."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w2_su2",
+      "title": "2.2 Ethics, Honesty and Integrity in Civil Service",
+      "notes": [
+        "Ethics in civil service refer to the moral principles guiding official conduct: honesty, integrity, impartiality, accountability, and public service orientation.",
+        "Honesty: Truthfulness in reporting, avoiding fraud, declaring assets, and resisting bribery.",
+        "Integrity: Consistency in ethical behavior, even when unobserved; refusing to compromise principles for personal gain.",
+        "Code of Conduct for Public Officers (Nigeria): Requires asset declaration, prohibits conflict of interest, mandates accountability, and sets penalties for violations.",
+        "Challenges: Corruption, nepotism, political interference, weak enforcement of ethics codes, and inadequate whistleblower protection.",
+        "Strengthening ethics: Training, whistleblower protection, independent ethics commissions, citizen monitoring, leadership by example, and digital transparency tools."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Ethics integrity civil service Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Ethics in civil service primarily guide:", "opts": ["Political campaigning", "Official conduct and decision-making", "Personal business ventures", "Social media use"], "ans": 1, "explanation": "Ethics provide moral principles for how civil servants should conduct themselves in official duties and decisions."},
+        {"q": "The Code of Conduct for Public Officers in Nigeria requires:", "opts": ["Secret meetings", "Asset declaration and avoiding conflict of interest", "Political party membership", "Ignoring citizen complaints"], "ans": 1, "explanation": "The Code mandates asset declaration, prohibits conflict of interest, and promotes transparency and accountability."},
+        {"q": "A way to strengthen ethics in civil service is:", "opts": ["Ignoring violations", "Whistleblower protection and training", "Reducing salaries", "Limiting public access"], "ans": 1, "explanation": "Protecting whistleblowers, providing ethics training, and enforcing codes help build a culture of integrity."},
+        {"q": "Honesty in civil service means:", "opts": ["Hiding information from the public", "Truthfulness in reporting and resisting bribery", "Favoring political allies", "Avoiding audits"], "ans": 1, "explanation": "Honest officials provide accurate information, declare assets, and reject corrupt practices."},
+        {"q": "Integrity in public service is demonstrated by:", "opts": ["Changing principles for personal gain", "Consistent ethical behavior even when unobserved", "Following only popular opinions", "Avoiding difficult decisions"], "ans": 1, "explanation": "Integrity means upholding values consistently, regardless of external pressure or personal cost."},
+        {"q": "Conflict of interest occurs when:", "opts": ["Officials serve only the public interest", "Personal interests interfere with official duties", "All decisions are transparent", "Audits are conducted regularly"], "ans": 1, "explanation": "Conflict of interest arises when private gain influences public decisions, undermining impartiality."},
+        {"q": "Whistleblower protection encourages:", "opts": ["Silence on corruption", "Reporting misconduct without fear of retaliation", "Political interference", "Elimination of audits"], "ans": 1, "explanation": "Safe reporting channels enable staff to expose wrongdoing and promote accountability."},
+        {"q": "A challenge to ethics enforcement in Nigeria is:", "opts": ["Excessive transparency", "Weak institutional capacity and political interference", "Overqualified staff", "Too many ethics commissions"], "ans": 1, "explanation": "Inadequate resources, political pressure, and cultural tolerance of corruption hinder effective enforcement."},
+        {"q": "Citizens can promote civil service ethics by:", "opts": ["Ignoring corruption", "Demanding transparency, reporting misconduct, and supporting reforms", "Avoiding public services", "Supporting political interference"], "ans": 1, "explanation": "Active citizenship creates demand for ethical governance and holds officials accountable."},
+        {"q": "Sustainable ethical culture in civil service depends on:", "opts": ["Short-term campaigns", "Leadership example, institutional safeguards, and continuous civic engagement", "Military oversight", "Abolition of opposition parties"], "ans": 1, "explanation": "Long-term integrity requires ethical leadership, strong institutions, and an engaged citizenry."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Whole Numbers",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w1_su1",
+      "title": "1.1 Counting & Writing Large Numbers",
+      "notes": [
+        "Whole numbers are counting numbers: 0, 1, 2, 3, 4... and so on.",
+        "Large numbers are grouped in sets of THREE digits from right to left: Ones, Thousands, Millions, Billions, Trillions.",
+        "Example: 4,502,000 = Four million, five hundred and two thousand.",
+        "Commas (or spaces) help us read large numbers easily.",
+        "Practice: Count in tens, hundreds, and thousands up to 1,000,000."
+      ],
+      "videoId": "9iSk75EMcZ0",
+      "quiz": [
+        {
+          "q": "What is the place value of 7 in 3,750,000?",
+          "opts": ["Millions", "Hundred Thousands", "Ten Thousands", "Thousands"],
+          "ans": 1,
+          "explanation": "The digit 7 is in the hundred thousands place."
+        },
+        {
+          "q": "Which number represents 'Two billion, four hundred million'?",
+          "opts": ["2,400,000", "2,400,000,000", "240,000,000", "2,000,400,000"],
+          "ans": 1,
+          "explanation": "2 billion = 2,000,000,000 + 400 million = 400,000,000 → Total: 2,400,000,000"
+        },
+        {
+          "q": "1,000 thousands make 1 ______",
+          "opts": ["Million", "Billion", "Trillion", "Hundred"],
+          "ans": 0,
+          "explanation": "1,000 × 1,000 = 1,000,000 (one million)"
+        }
+      ]
+    },
+    {
+      "id": "jss1_t1_w1_su2",
+      "title": "1.2 Reading Large Numbers in Everyday Life",
+      "notes": [
+        "We use large numbers every day: population, money, distances, school fees.",
+        "Example: Nigeria's population is about 220,000,000 (Two hundred and twenty million).",
+        "When reading large numbers, say each group name: 'Three million, four hundred and fifty thousand'.",
+        "Tip: Read from LEFT to RIGHT, saying the group name after each 3-digit block.",
+        "Practice: Read numbers from newspapers, price tags, or school records."
+      ],
+      "videoId": "e0VyWsy5t9k",
+      "quiz": [
+        {
+          "q": "How do you read 12,345,678?",
+          "opts": [
+            "Twelve million, three hundred forty-five thousand, six hundred seventy-eight",
+            "One million, two hundred thirty-four thousand, five hundred sixty-seven",
+            "Twelve billion, three hundred forty-five million",
+            "One hundred twenty-three million, four hundred fifty-six thousand"
+          ],
+          "ans": 0,
+          "explanation": "Break it: 12 (million) | 345 (thousand) | 678 (ones)"
+        },
+        {
+          "q": "Which is the correct way to write 'Five million, thirty-two thousand'?",
+          "opts": ["5,032,000", "5,320,000", "5,000,032", "50,032,000"],
+          "ans": 0,
+          "explanation": "Five million = 5,000,000 + thirty-two thousand = 32,000 → 5,032,000"
+        },
+        {
+          "q": "In real life, where might you see large numbers?",
+          "opts": ["Population counts", "Bank balances", "Distance between cities", "All of the above"],
+          "ans": 3,
+          "explanation": "Large numbers appear in population, money, distances, and many daily situations."
+        }
+      ]
+    },
+    {
+      "id": "jss1_t1_w1_su3",
+      "title": "1.3 Roman Numeral System",
+      "notes": [
+        "Romans used letters to represent numbers:",
+        "I=1, V=5, X=10, L=50, C=100, D=500, M=1000",
+        "Rules:",
+        "• Add when a smaller/equal letter follows: VI = 5+1 = 6",
+        "• Subtract when smaller precedes larger: IV = 5-1 = 4",
+        "• Never repeat V, L, or D. Repeat I, X, C, M max 3 times.",
+        "Examples: IX=9, XL=40, XC=90, MCMLXXVI=1976"
+      ],
+      "videoId": "KadYNhHWBe0",
+      "quiz": [
+        {
+          "q": "What is the Roman numeral for 49?",
+          "opts": ["XLIX", "IL", "XXXXVIIII", "XIXL"],
+          "ans": 0,
+          "explanation": "40 = XL, 9 = IX → XLIX"
+        },
+        {
+          "q": "Which Roman numeral represents 150?",
+          "opts": ["CL", "LC", "CXL", "CXX"],
+          "ans": 0,
+          "explanation": "C=100, L=50 → CL=150"
+        },
+        {
+          "q": "Convert MCM to ordinary number",
+          "opts": ["1100", "1900", "1800", "2000"],
+          "ans": 1,
+          "explanation": "M=1000, CM=900 → 1000+900 = 1900"
+        },
+        {
+          "q": "Which letter represents 50 in Roman numerals?",
+          "opts": ["X", "L", "C", "D"],
+          "ans": 1,
+          "explanation": "L = 50 in the Roman system"
+        }
+      ]
+    }
+  ]
+}

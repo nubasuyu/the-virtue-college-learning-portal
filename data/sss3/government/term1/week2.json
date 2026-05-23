@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Nature and Structure of Nigerian Federalism",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w2_su1",
+      "title": "2.1 Federalism Before Independence (1914–1959)",
+      "notes": [
+        "1914 Amalgamation: Lord Lugard merged Northern and Southern Protectorates for administrative convenience, not federal design.",
+        "Richards Constitution (1946): Introduced regional councils (North, West, East) with limited central representation—first step toward federalism.",
+        "Macpherson Constitution (1951): Established a central House of Representatives with regional delegates; created regional legislatures with significant autonomy.",
+        "Lyttleton Constitution (1954): Formalized federalism with exclusive legislative list (federal), concurrent list (shared), and residual list (regional); created federal parliament and regional governments.",
+        "Pre-independence federalism was asymmetrical: Northern Region larger in population/area, influencing revenue allocation and political power dynamics."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Federalism before independence Nigeria 1914-1959 site:youtube.com",
+      "quiz": [
+        {"q": "The 1914 Amalgamation primarily aimed to:", "opts": ["Establish federalism", "Simplify colonial administration", "Create three equal regions", "Abolish traditional rulers"], "ans": 1, "explanation": "Lugard merged protectorates for administrative efficiency, not as a federal design."},
+        {"q": "The Richards Constitution (1946) introduced:", "opts": ["Direct elections nationwide", "Regional councils with limited central representation", "A unitary system", "Military rule"], "ans": 1, "explanation": "Richards created regional councils, laying groundwork for later federal structures."},
+        {"q": "The Macpherson Constitution (1951) strengthened federalism by:", "opts": ["Abolishing regions", "Creating a central legislature with regional delegates and regional autonomy", "Centralizing all powers", "Eliminating elections"], "ans": 1, "explanation": "Macpherson balanced central and regional representation, advancing power-sharing."},
+        {"q": "The Lyttleton Constitution (1954) is notable for:", "opts": ["Ending colonial rule", "Defining exclusive, concurrent, and residual legislative lists", "Establishing a monarchy", "Abolishing the judiciary"], "ans": 1, "explanation": "Lyttleton formally divided powers between federal and regional governments, creating true federalism."},
+        {"q": "Pre-independence federalism was asymmetrical because:", "opts": ["All regions were equal", "Northern Region had larger population and area, influencing power dynamics", "Southern regions dominated completely", "No regions existed"], "ans": 1, "explanation": "Regional disparities in size and population shaped revenue allocation and political negotiations."},
+        {"q": "A key feature of the 1954 federal structure was:", "opts": ["Central control of all taxes", "Regional governments managing residual matters like education and health", "Elimination of regional legislatures", "Military oversight of all levels"], "ans": 1, "explanation": "Residual powers allowed regions autonomy in local affairs like education and primary healthcare."},
+        {"q": "The central legislature under Macpherson (1951) included:", "opts": ["Only British officials", "Delegates elected from regional legislatures", "Appointed traditional rulers only", "Military commanders"], "ans": 1, "explanation": "Regional delegates represented their areas in the central House of Representatives."},
+        {"q": "Pre-independence federalism faced challenges including:", "opts": ["Excessive regional cooperation", "Ethnic competition and revenue allocation disputes", "Complete financial autonomy for regions", "Overqualified civil servants"], "ans": 1, "explanation": "Competition for resources and political dominance complicated federal negotiations."},
+        {"q": "Understanding pre-independence federalism helps citizens:", "opts": ["Reject historical lessons", "Appreciate constitutional evolution and demand inclusive governance", "Support military intervention", "Ignore minority rights"], "ans": 1, "explanation": "Historical awareness enables citizens to advocate for equitable federal arrangements."},
+        {"q": "The transition from amalgamation to federalism demonstrates:", "opts": ["Colonial indifference", "Gradual adaptation to Nigeria's diversity through constitutional reforms", "Immediate democratic perfection", "Elimination of regional identities"], "ans": 1, "explanation": "Constitutional evolution reflected learning and adjustment to manage diversity effectively."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w2_su2",
+      "title": "2.2 Federalism Post-Independence (1960–Date)",
+      "notes": [
+        "1960–1966 (First Republic): Federalism operated with three regions; crises over census, elections, and revenue allocation led to military intervention.",
+        "1967–1975 (Military Era): Gowon created 12 states in 1967 to break regional power blocs and end civil war; federalism became more centralized under military rule.",
+        "1976–1999 (Reforms & Transitions): Murtala/Obasanjo created 19 states (1976); Babangida created 21 (1987) then 30 (1991); Abacha created 36 states + FCT (1996).",
+        "1999 Constitution: Maintains 36 states + FCT; defines federal, state, and local powers; but fiscal federalism debates persist over revenue allocation and resource control.",
+        "Contemporary challenges: True federalism demands, state police, fiscal autonomy, and balancing unity with regional aspirations remain central to Nigerian governance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Federalism post-independence Nigeria 1960-date site:youtube.com",
+      "quiz": [
+        {"q": "During the First Republic (1960–1966), Nigerian federalism comprised:", "opts": ["36 states", "Three regions", "One unitary state", "Military districts"], "ans": 1, "explanation": "Nigeria operated as a federation of three regions: North, West, and East."},
+        {"q": "The creation of 12 states in 1967 aimed to:", "opts": ["Abolish federalism", "Break regional power blocs and end the civil war", "Centralize all power", "Eliminate ethnic identities"], "ans": 1, "explanation": "Gowon's state creation weakened regional dominance and promoted national unity during the civil war."},
+        {"q": "The 1999 Constitution establishes Nigeria as a federation of:", "opts": ["Three regions", "36 states and the Federal Capital Territory", "Military zones", "Traditional emirates"], "ans": 1, "explanation": "Section 1 of the 1999 Constitution defines Nigeria as a federation of 36 states and FCT."},
+        {"q": "Military rule affected Nigerian federalism by:", "opts": ["Strengthening regional autonomy", "Centralizing power and suspending democratic federal practices", "Abolishing all states", "Eliminating the judiciary"], "ans": 1, "explanation": "Military regimes often centralized authority, weakening constitutional federal principles."},
+        {"q": "Fiscal federalism debates in Nigeria focus on:", "opts": ["Eliminating all taxes", "Revenue allocation formulas and resource control", "Centralizing all wealth in Abuja", "Abolishing state governments"], "ans": 1, "explanation": "Disputes over derivation principle, FAAC sharing, and resource control define fiscal federalism discussions."},
+        {"q": "State creation exercises (1967–1996) reflected federalism's:", "opts": ["Rigidity", "Adaptability to demographic and political changes", "Failure", "Elimination of diversity"], "ans": 1, "explanation": "Creating new states addressed minority concerns and balanced power, showing federal flexibility."},
+        {"q": "A contemporary demand in Nigerian federalism is:", "opts": ["Return to three regions", "True federalism with greater state autonomy and resource control", "Abolition of local governments", "Military oversight"], "ans": 1, "explanation": "Many advocate for devolution of powers to states, especially over resources and policing."},
+        {"q": "The Federal Capital Territory (FCT) Abuja was created to:", "opts": ["Replace Lagos as a commercial hub only", "Serve as a neutral federal capital accessible to all regions", "Eliminate state capitals", "Centralize all economic activities"], "ans": 1, "explanation": "Abuja's central location was chosen to promote national unity and equitable access to federal government."},
+        {"q": "Understanding post-independence federalism helps citizens:", "opts": ["Reject constitutional governance", "Appreciate evolution and demand accountable, inclusive federal practices", "Support military intervention", "Ignore state rights"], "ans": 1, "explanation": "Historical knowledge enables informed advocacy for equitable power-sharing and constitutional compliance."},
+        {"q": "The persistence of federalism in Nigeria despite challenges demonstrates:", "opts": ["Its failure", "Its resilience and relevance in managing diversity", "Its irrelevance to modern governance", "Its incompatibility with democracy"], "ans": 1, "explanation": "Federalism's endurance reflects its utility in accommodating Nigeria's complex diversity within a united framework."}
+      ]
+    }
+  ]
+}

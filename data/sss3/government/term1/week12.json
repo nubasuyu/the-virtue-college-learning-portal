@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Major Political Crises in Nigeria",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w12_su1",
+      "title": "12.1 Pre-Independence & First Republic Crises",
+      "notes": [
+        "Kano Riots (1953): Triggered by political tensions, ethnic rivalry, and constitutional conference disputes; resulted in deaths, property destruction, and deepened North-South mistrust.",
+        "Eastern Region Crisis (1953): Arised from legislative conflicts, revenue allocation disputes, and ethnic polarization; highlighted fragility of early federal arrangements.",
+        "Census Crisis (1962/63): Disputed population figures manipulated for parliamentary seats and revenue allocation; led to political distrust, regional accusations, and constitutional crisis.",
+        "Consequences: Erosion of public trust, breakdown of democratic norms, military intervention justification, and suspension of constitutional democracy.",
+        "Lessons: Need for transparent electoral processes, independent institutions, power-sharing agreements, and institutional safeguards to prevent political violence."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Kano riots 1953 census crisis Nigeria 1962 political crises site:youtube.com",
+      "quiz": [
+        {"q": "The Kano Riots of 1953 were primarily triggered by:", "opts": ["Religious differences", "Political tensions, ethnic rivalry, and constitutional conference disputes", "Lack of educational facilities", "Foreign intervention"], "ans": 1, "explanation": "Ethnic and political conflicts during constitutional negotiations sparked widespread violence."},
+        {"q": "The Eastern Region Crisis of 1953 highlighted:", "opts": ["Complete federal stability", "Fragility of early federal arrangements and revenue allocation disputes", "Elimination of ethnic identities", "Military dominance"], "ans": 1, "explanation": "Legislative conflicts and regional polarization exposed weaknesses in early federal governance."},
+        {"q": "The 1962/63 Census Crisis revolved around:", "opts": ["Religious affiliation", "Disputed population figures manipulated for parliamentary seats and revenue allocation", "Military recruitment", "Foreign aid distribution"], "ans": 1, "explanation": "Inflated census data fueled political distrust and regional accusations of manipulation."},
+        {"q": "A major consequence of these pre-independence crises was:", "opts": ["Democratic consolidation", "Erosion of public trust and justification for military intervention", "Elimination of political parties", "Complete regional autonomy"], "ans": 1, "explanation": "Political instability and ethnic violence provided grounds for military coups and democratic suspension."},
+        {"q": "A lesson from these crises is:", "opts": ["Coalitions guarantee stability", "Transparent processes, independent institutions, and power-sharing are essential", "Military oversight improves governance", "Regional parties should be banned"], "ans": 1, "explanation": "Democratic sustainability requires institutional integrity, inclusive politics, and rule of law."},
+        {"q": "The breakdown of democratic norms was facilitated by:", "opts": ["Independent judiciary", "Partisan control of institutions and weak electoral safeguards", "Transparent funding", "Civic education"], "ans": 1, "explanation": "Lack of independent oversight allowed political manipulation and violence to escalate."},
+        {"q": "Citizens can prevent political crises by:", "opts": ["Ignoring electoral processes", "Demanding transparent elections, supporting independent institutions, and rejecting ethnic polarization", "Supporting military rule", "Rejecting multi-party systems"], "ans": 1, "explanation": "Active civic engagement, institutional accountability, and inclusive politics safeguard stability."},
+        {"q": "Understanding historical crises helps citizens:", "opts": ["Reject constitutional governance", "Appreciate institutional safeguards and demand accountable, inclusive governance", "Support military intervention", "Ignore minority rights"], "ans": 1, "explanation": "Historical awareness enables informed advocacy for equitable power-sharing and constitutional compliance."},
+        {"q": "A key reform to prevent future crises is:", "opts": ["Eliminating all opposition", "Strengthening independent electoral bodies, transparent census processes, and inclusive dialogue", "Centralizing military control", "Abolishing federalism"], "ans": 1, "explanation": "Institutional reforms and civic engagement address root causes of political conflict."},
+        {"q": "Sustainable conflict prevention requires:", "opts": ["Short-term political fixes", "Constitutional safeguards, transparent processes, and continuous civic participation", "Military intervention", "Abolition of local governments"], "ans": 1, "explanation": "Long-term peace depends on institutional integrity, ethical leadership, and active citizenship."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w12_su2",
+      "title": "12.2 Action Group Crisis & Nigerian Civil War Roots",
+      "notes": [
+        "Action Group Crisis (1962): Split between Awolowo (radical socialist) and Akintola (moderate conservative); triggered by leadership rivalry, policy differences, and federal-state tensions.",
+        "Consequences: Emergency rule declared in Western Region, Akintola installed as Premier, AG split into factions, democratic norms eroded, paved way for military intervention.",
+        "Nigerian Civil War (1967–1970): Eastern Region declared independence (Biafra) following 1966 coups, pogroms, and political marginalization; resulted in massive casualties, economic devastation.",
+        "Roots: Political exclusion, security fears, resource control disputes, failure of federal dialogue, and breakdown of inter-ethnic trust.",
+        "Post-war measures: 'No victor, no vanquished' policy, state creation, federal character principle, revenue sharing reforms, constitutional guarantees of unity and indivisibility."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Action group crisis 1962 Nigerian civil war roots 1967 site:youtube.com",
+      "quiz": [
+        {"q": "The Action Group Crisis of 1962 was primarily caused by:", "opts": ["Military intervention", "Leadership rivalry, policy differences, and federal-state tensions", "Foreign invasion", "Elimination of political parties"], "ans": 1, "explanation": "Ideological and leadership splits between Awolowo and Akintola fractured the party and destabilized the West."},
+        {"q": "A direct consequence of the AG Crisis was:", "opts": ["Complete party unity", "Emergency rule in Western Region and erosion of democratic norms", "Elimination of state governments", "Centralized military control"], "ans": 1, "explanation": "Federal intervention and political fragmentation weakened regional democracy and justified military involvement."},
+        {"q": "The Nigerian Civil War (1967–1970) was triggered by:", "opts": ["Religious differences", "Political marginalization, security fears, and failure of federal dialogue", "Lack of educational institutions", "Foreign intervention"], "ans": 1, "explanation": "Eastern Region's declaration of independence followed 1966 coups, pogroms, and political exclusion."},
+        {"q": "A major consequence of the Civil War was:", "opts": ["Immediate economic boom", "Massive casualties, infrastructure damage, and national trauma", "Elimination of ethnic identities", "Strengthening of regional governments"], "ans": 1, "explanation": "The war caused widespread destruction, famine, and long-term socioeconomic impacts."},
+        {"q": "The 'No victor, no vanquished' policy aimed to:", "opts": ["Punish defeated regions", "Promote reconciliation and national healing after the war", "Abolish state governments", "Centralize military control"], "ans": 1, "explanation": "The policy sought to rebuild trust, reintegrate combatants, and foster unity without retribution."},
+        {"q": "Post-war measures to prevent secession included:", "opts": ["Eliminating all ethnic groups", "State creation, federal character principle, and constitutional unity guarantees", "Centralizing all resources in Abuja", "Abolishing local governments"], "ans": 1, "explanation": "Structural reforms addressed minority marginalization and reinforced national cohesion."},
+        {"q": "A lesson from these crises is:", "opts": ["Military suppression guarantees stability", "Inclusive dialogue, equitable development, and constitutional safeguards prevent conflict", "Eliminating political parties ensures peace", "Centralized control eliminates diversity"], "ans": 1, "explanation": "Sustainable peace requires addressing root causes through dialogue, fair policies, and institutional reforms."},
+        {"q": "Citizens can contribute to national unity by:", "opts": ["Supporting violent agitation", "Participating in peaceful dialogue, voting responsibly, and promoting inter-ethnic tolerance", "Rejecting constitutional processes", "Ignoring developmental policies"], "ans": 1, "explanation": "Active, peaceful civic engagement strengthens democratic institutions and addresses grievances constructively."},
+        {"q": "Understanding civil war roots helps citizens:", "opts": ["Reject democratic processes", "Appreciate constitutional safeguards and demand accountable, inclusive governance", "Support military intervention", "Ignore minority rights"], "ans": 1, "explanation": "Historical awareness enables informed advocacy for equitable power-sharing and democratic accountability."},
+        {"q": "Sustainable conflict prevention requires:", "opts": ["Short-term political fixes", "Constitutional reforms, transparent processes, and continuous civic engagement", "Military intervention", "Abolition of local governments"], "ans": 1, "explanation": "Long-term stability depends on institutional integrity, ethical leadership, and active citizenship."}
+      ]
+    }
+  ]
+}

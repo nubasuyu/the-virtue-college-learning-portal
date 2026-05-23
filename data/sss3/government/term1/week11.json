@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Development of Political Parties in Nigeria (Cont.)",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w11_su1",
+      "title": "11.1 Fourth Republic Parties: PDP, ANPP, AD",
+      "notes": [
+        "People's Democratic Party (PDP, 1998): Dominant party post-military transition; conservative-liberal blend; won 1999, 2003, 2007, 2011 presidencies; focused on economic liberalization, infrastructure, and national unity.",
+        "All Nigeria People's Party (ANPP, 1998): Successor to ANPP/conservative bloc; strong Northern base; advocated federalism, agricultural development, and regional equity; challenged PDP dominance until 2015 merger.",
+        "Alliance for Democracy (AD, 1998): Southwest-based, progressive/social democratic; inherited UPN/AG legacy; championed free education, good governance, and Yoruba cultural interests; won 1999 Southwest governorships.",
+        "Structure & financing: State-regulated campaigns, corporate donations, grassroots networks, INEC compliance; internal democracy often contested with factionalism and godfatherism.",
+        "Performance: PDP's early dominance faced challenges from regional opposition parties; AD's regional success highlighted demand for progressive governance; ANPP's Northern base fueled coalition politics."
+      ],
+      "videoId": "",
+      "youtubeQuery": "PDP ANPP AD Nigeria fourth republic political parties site:youtube.com",
+      "quiz": [
+        {"q": "The People's Democratic Party (PDP) was founded in:", "opts": ["1979", "1998", "1960", "2013"], "ans": 1, "explanation": "PDP emerged in 1998 as the dominant party during Nigeria's return to civilian rule."},
+        {"q": "The Alliance for Democracy (AD) primarily represented:", "opts": ["Northern conservative interests", "Southwest progressive and social democratic interests", "Military factions", "Foreign corporate interests"], "ans": 1, "explanation": "AD inherited AG/UPN progressive legacy, advocating education, good governance, and regional equity."},
+        {"q": "The All Nigeria People's Party (ANPP) drew strongest support from:", "opts": ["Southern coastal regions", "Northern Nigeria with focus on federalism and agricultural development", "Military leadership", "Foreign investors"], "ans": 1, "explanation": "ANPP's Northern base emphasized regional equity, federalism, and conservative economic policies."},
+        {"q": "A key achievement of AD in 1999 was:", "opts": ["Winning the presidency", "Securing Southwest governorships and promoting regional development", "Abolishing state governments", "Centralizing all funding"], "ans": 1, "explanation": "AD's regional victory demonstrated demand for progressive governance and local autonomy."},
+        {"q": "PDP's early dominance was challenged by:", "opts": ["Complete national consensus", "Regional opposition parties and coalition politics", "Military intervention", "Elimination of political parties"], "ans": 1, "explanation": "ANPP and AD formed regional strongholds, fostering competitive multi-party dynamics."},
+        {"q": "Internal democracy challenges in Fourth Republic parties included:", "opts": ["Complete transparency", "Factionalism, godfatherism, and contested primaries", "Elimination of funding", "Military oversight"], "ans": 1, "explanation": "Leadership rivalries and patronage networks often undermined transparent internal processes."},
+        {"q": "INEC's regulatory role required parties to:", "opts": ["Abolish grassroots networks", "Comply with financial reporting, registration rules, and democratic primaries", "Rely solely on military funding", "Eliminate regional offices"], "ans": 1, "explanation": "Regulatory frameworks aimed to ensure transparency, accountability, and institutional compliance."},
+        {"q": "Understanding early Fourth Republic parties helps citizens:", "opts": ["Reject multi-party democracy", "Appreciate regional representation, ideological diversity, and party accountability", "Support military rule", "Ignore electoral history"], "ans": 1, "explanation": "Historical awareness highlights the importance of inclusive platforms and democratic competition."},
+        {"q": "A lesson from PDP, ANPP, and AD is:", "opts": ["One-party dominance guarantees stability", "Regional representation and ideological diversity strengthen democratic resilience", "Military oversight improves governance", "Foreign funding ensures success"], "ans": 1, "explanation": "Balanced competition fosters accountability, policy innovation, and inclusive representation."},
+        {"q": "Citizens can strengthen party democracy by:", "opts": ["Ignoring primaries", "Demanding transparent funding, participating in internal elections, and holding leaders accountable", "Supporting authoritarianism", "Rejecting multi-party systems"], "ans": 1, "explanation": "Active civic participation ensures accountability, democratic integrity, and responsive governance."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w11_su2",
+      "title": "11.2 Party Mergers & Emergence of APC/LP",
+      "notes": [
+        "2013 APC merger: Action Congress of Nigeria (ACN), Congress for Progressive Change (CPC), All Nigeria People's Party (ANPP), and APGA faction merged to form All Progressives Congress (APC).",
+        "Rationale: Unify opposition against PDP dominance, pool resources, create nationwide structure, and present cohesive platform for 2015 elections.",
+        "2015 Victory: APC's Muhammadu Buhari won presidency, marking first democratic transfer of power from ruling to opposition party in Nigerian history.",
+        "Labour Party (LP, 2002): Originally marginal; gained prominence through youth mobilization, social media engagement, and 2023 presidential campaign emphasizing economic reform and anti-corruption.",
+        "Modern dynamics: Multi-party competition, INEC digital processes, youth-driven campaigns, and continuous demand for internal democracy, transparent funding, and policy-driven platforms."
+      ],
+      "videoId": "",
+      "youtubeQuery": "APC merger 2013 Labour Party Nigeria 2023 elections site:youtube.com",
+      "quiz": [
+        {"q": "The All Progressives Congress (APC) was formed through:", "opts": ["Military decree", "Merger of ACN, CPC, ANPP, and APGA faction", "Foreign intervention", "Abolition of existing parties"], "ans": 1, "explanation": "Opposition forces merged in 2013 to challenge PDP dominance and build nationwide structure."},
+        {"q": "The primary rationale for APC's formation was to:", "opts": ["Support PDP policies", "Unify opposition, pool resources, and present cohesive platform", "Eliminate multi-party competition", "Centralize military control"], "ans": 1, "explanation": "Merger aimed to consolidate opposition strength and ensure competitive democratic elections."},
+        {"q": "The 2015 presidential election marked:", "opts": ["Military takeover", "First democratic transfer of power from ruling to opposition party", "Complete party dissolution", "Unanimous national consensus"], "ans": 1, "explanation": "APC's victory demonstrated electoral maturity, institutional integrity, and peaceful transition."},
+        {"q": "The Labour Party (LP) gained prominence primarily through:", "opts": ["Military backing", "Youth mobilization, social media engagement, and anti-corruption platform", "Foreign corporate control", "Elimination of grassroots networks"], "ans": 1, "explanation": "LP's 2023 campaign resonated with youth voters through digital outreach and reform-focused messaging."},
+        {"q": "Modern Nigerian political parties face challenges including:", "opts": ["Complete financial transparency", "Internal democracy deficits, funding opacity, and policy inconsistency", "Elimination of voter registration", "Military supervision"], "ans": 1, "explanation": "Structural weaknesses hinder institutional credibility and public trust in party processes."},
+        {"q": "INEC's digital reforms aim to improve:", "opts": ["Military control", "Transparent voter registration, biometric verification, and result transmission", "Elimination of political parties", "Centralized funding"], "ans": 1, "explanation": "Technology adoption enhances electoral integrity, reduces fraud, and builds public confidence."},
+        {"q": "A lesson from APC's 2015 victory is:", "opts": ["Military intervention guarantees stability", "Unified opposition, transparent campaigns, and institutional respect enable democratic change", "One-party rule ensures progress", "Foreign funding guarantees success"], "ans": 1, "explanation": "Coalition-building, credible campaigns, and electoral integrity are essential for democratic transitions."},
+        {"q": "Citizens can influence modern party dynamics by:", "opts": ["Ignoring party primaries", "Participating in membership drives, monitoring funding, and demanding policy platforms", "Supporting authoritarianism", "Rejecting electoral participation"], "ans": 1, "explanation": "Active civic engagement ensures accountability, democratic integrity, and responsive governance."},
+        {"q": "Understanding party evolution helps citizens:", "opts": ["Reject democratic processes", "Appreciate coalition dynamics, institutional reforms, and democratic accountability", "Support military rule", "Ignore electoral history"], "ans": 1, "explanation": "Historical awareness promotes informed voting, party compliance, and institutional strengthening."},
+        {"q": "Sustainable multi-party democracy requires:", "opts": ["Short-term political fixes", "Transparent funding, internal democracy, independent oversight, and civic participation", "Military intervention", "Abolition of opposition parties"], "ans": 1, "explanation": "Long-term success depends on institutional integrity, ethical leadership, and active citizenship."}
+      ]
+    }
+  ]
+}

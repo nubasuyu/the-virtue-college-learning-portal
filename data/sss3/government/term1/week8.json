@@ -1,0 +1,59 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Development of Political Parties in Nigeria (Part III)",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w8_su1",
+      "title": "8.1 Second Republic Parties: NPN, UPN, NPP, GNPP, PRP, NAP",
+      "notes": [
+        "1979 Constitution mandated national spread: parties must win 25% of votes in 12 states + 2/3 of 19 states to secure presidency.",
+        "National Party of Nigeria (NPN): Conservative, successor to NPC; led by Shehu Shagari; won 1979 presidency; focused on economic liberalization, housing, and infrastructure.",
+        "Unity Party of Nigeria (UPN): Social democratic, successor to AG; led by Awolowo; advocated free education, healthcare, and employment; dominated Southwest.",
+        "Nigerian People's Party (NPP): Igbo-based, successor to NCNC; led by Azikiwe; promoted federalism, social welfare, and Eastern regional development.",
+        "Minor parties (GNPP, PRP, NAP): Represented minority/regional interests; PRP (Aminu Kano) championed radical populism; GNPP (Waziri Ibrahim) advocated Northern minority rights; NAP (Ayo Adefarasin) focused on Lagos elite interests.",
+        "Structure & financing: State-funded campaigns, corporate donations, grassroots networks, and strict INEC compliance requirements."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Second Republic Nigeria political parties NPN UPN NPP site:youtube.com",
+      "quiz": [
+        {"q": "The 1979 Constitution required presidential candidates to win:", "opts": ["Simple majority only", "25% in 12 states plus two-thirds of 19 states", "Military approval", "Unanimous party endorsement"], "ans": 1, "explanation": "The spread formula ensured national representation and prevented regional dominance."},
+        {"q": "The National Party of Nigeria (NPN) was ideologically:", "opts": ["Radical socialist", "Conservative, focusing on economic liberalization and infrastructure", "Military authoritarian", "Religious theocratic"], "ans": 1, "explanation": "NPN pursued market-friendly policies, housing projects, and gradual economic development."},
+        {"q": "The Unity Party of Nigeria (UPN) was founded on:", "opts": ["Conservative elitism", "Social democratic principles advocating free education and healthcare", "Military centralization", "Ethnic exclusivity"], "ans": 1, "explanation": "UPN promoted welfare programs, employment, and social justice, inheriting AG's progressive legacy."},
+        {"q": "The Nigerian People's Party (NPP) primarily represented:", "opts": ["Northern interests", "Eastern Region/Igbo interests with pan-Nigerian aspirations", "Western elite", "Military factions"], "ans": 1, "explanation": "NPP continued NCNC's Eastern base while advocating federalism and national integration."},
+        {"q": "The People's Redemption Party (PRP) was led by:", "opts": ["Obafemi Awolowo", "Nnamdi Azikiwe", "Aminu Kano", "Shehu Shagari"], "ans": 2, "explanation": "Aminu Kano founded PRP as a radical populist alternative to conservative Northern politics."},
+        {"q": "A key feature of Second Republic party financing was:", "opts": ["Complete foreign control", "State funding, corporate donations, and grassroots contributions under INEC oversight", "Military grants", "Elimination of public reporting"], "ans": 1, "explanation": "Parties operated under regulatory frameworks requiring transparency and compliance with electoral laws."},
+        {"q": "The Great Nigeria People's Party (GNPP) focused on:", "opts": ["Southern minority rights", "Northern minority representation and anti-NPC dominance", "Military intervention", "Centralized federal control"], "ans": 1, "explanation": "GNPP emerged to address Northern ethnic and religious minorities excluded from NPC hegemony."},
+        {"q": "Second Republic parties differed from First Republic parties by:", "opts": ["Eliminating regional bases", "Operating under constitutional spread requirements and national regulatory frameworks", "Relying solely on military funding", "Abolishing grassroots networks"], "ans": 1, "explanation": "Constitutional mandates forced parties to build cross-regional appeal and comply with electoral regulations."},
+        {"q": "A major achievement of the Second Republic was:", "opts": ["Military consolidation", "Peaceful transfer of power and democratic experimentation under civilian rule", "Abolition of political parties", "Centralized one-party system"], "ans": 1, "explanation": "Despite crises, the Second Republic demonstrated civilian governance and constitutional political competition."},
+        {"q": "Understanding Second Republic parties helps citizens:", "opts": ["Reject democratic processes", "Appreciate regulatory frameworks, national spread requirements, and party accountability", "Support military rule", "Ignore electoral history"], "ans": 1, "explanation": "Historical awareness promotes informed voting, party compliance, and democratic institutional strengthening."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w8_su2",
+      "title": "8.2 Electoral Performance, Crises & Transition to Modern Parties",
+      "notes": [
+        "1979 elections: NPN won presidency (Shagari) and most states; UPN, NPP, GNPP, PRP formed progressive alliance (GMA) to challenge NPN dominance in legislatures.",
+        "Crises: 1983 elections marred by rigging, violence, and boycotts; economic downturn, corruption allegations, and federal-state tensions weakened democratic legitimacy.",
+        "Military intervention (December 1983): Buhari/Idiagbon regime suspended parties, citing electoral malpractices, economic mismanagement, and security threats.",
+        "Third Republic (1990s): Military-created SDP (social democracy) and NRC (conservative) aimed at transition; 1993 election annulled, prolonging military rule.",
+        "Fourth Republic (1999–present): PDP dominance (1999–2015), APC merger (2013), INEC reforms, digital voting, and evolving multi-party competition; lessons emphasize transparent elections, party funding regulation, and civic engagement."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Second Republic elections crises transition modern Nigeria parties site:youtube.com",
+      "quiz": [
+        {"q": "The 1979 general elections resulted in:", "opts": ["Military takeover", "NPN presidential victory and regional party dominance in legislatures", "Complete party dissolution", "Unanimous national consensus"], "ans": 1, "explanation": "NPN won the presidency, while regional parties secured significant legislative and state governorships."},
+        {"q": "The GMA (Progressive Alliance) was formed to:", "opts": ["Support NPN policies", "Challenge NPN dominance through legislative coalition", "Abolish political parties", "Centralize federal power"], "ans": 1, "explanation": "UPN, NPP, GNPP, and PRP allied to counterbalance NPN's executive control."},
+        {"q": "The 1983 elections were controversial due to:", "opts": ["Complete transparency", "Alleged rigging, violence, and economic deterioration", "Military supervision", "Unanimous party agreement"], "ans": 1, "explanation": "Electoral malpractices, inflation, and political tensions undermined democratic credibility."},
+        {"q": "The December 1983 military intervention was justified by:", "opts": ["Economic prosperity", "Electoral malpractices, corruption, and security breakdown", "Foreign intervention", "Abolition of traditional rulers"], "ans": 1, "explanation": "Military leaders cited democratic failures, economic crisis, and political instability as reasons for takeover."},
+        {"q": "The Third Republic parties (SDP & NRC) were:", "opts": ["Independently formed", "Created by military to facilitate controlled democratic transition", "Military factions", "Foreign-funded organizations"], "ans": 1, "explanation": "The military established two parties to streamline transition while maintaining oversight."},
+        {"q": "The annulment of the June 12, 1993 election led to:", "opts": ["Immediate democratic consolidation", "Prolonged military rule and national political crisis", "Elimination of political parties", "Complete regional autonomy"], "ans": 1, "explanation": "Annulment triggered widespread protests, international condemnation, and extended military governance."},
+        {"q": "The Fourth Republic began with:", "opts": ["Military dictatorship", "1999 elections and PDP dominance under civilian rule", "Abolition of states", "Centralized one-party system"], "ans": 1, "explanation": "The 1999 transition restored constitutional democracy, with PDP winning presidency and majority states."},
+        {"q": "The All Progressives Congress (APC) was formed through:", "opts": ["Military decree", "Merger of opposition parties (ACN, CPC, ANPP, APGA faction) to challenge PDP", "Foreign intervention", "Abolition of existing parties"], "ans": 1, "explanation": "APC merged opposition forces in 2013, culminating in 2015 presidential victory."},
+        {"q": "Modern party regulation in Nigeria emphasizes:", "opts": ["Unlimited foreign funding", "Transparent financing, INEC compliance, and democratic primaries", "Military oversight", "Elimination of grassroots networks"], "ans": 1, "explanation": "Electoral laws require financial transparency, internal democracy, and regulatory compliance."},
+        {"q": "Citizens can strengthen modern political parties by:", "opts": ["Ignoring primaries", "Demanding transparent funding, participating in internal elections, and holding leaders accountable", "Supporting military intervention", "Rejecting multi-party systems"], "ans": 1, "explanation": "Active civic participation ensures party accountability, democratic integrity, and responsive governance."}
+      ]
+    }
+  ]
+}

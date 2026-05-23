@@ -1,0 +1,60 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Control and Problems of Public Corporation",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w6_su1",
+      "title": "6.1 Reasons for Control & Types of Control",
+      "notes": [
+        "Control mechanisms ensure public corporations remain accountable, efficient, and aligned with national interests.",
+        "Ministerial control: Ministers approve budgets, appoint board members, and issue policy directives to prevent deviation from government goals.",
+        "Parliamentary/Legislative control: National/State assemblies review annual reports, audit finances (Public Accounts Committee), and can summon officials for questioning.",
+        "Judicial control: Courts interpret establishing Acts, review administrative decisions for legality, and protect citizens' rights against corporate overreach.",
+        "Financial control: Auditor-General audits expenditures; Budget Office monitors spending; EFCC/ICPC investigate corruption.",
+        "Effective control prevents corruption, mismanagement, and ensures corporations serve public welfare without political capture."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Control of public corporations Nigeria ministerial parliamentary judicial site:youtube.com",
+      "quiz": [
+        {"q": "The primary reason for controlling public corporations is to:", "opts": ["Eliminate all profits", "Ensure accountability, efficiency, and public interest alignment", "Replace board appointments", "Centralize military oversight"], "ans": 1, "explanation": "Control prevents abuse of public funds, ensures transparency, and maintains service delivery standards."},
+        {"q": "Ministerial control of public corporations includes:", "opts": ["Day-to-day staff management", "Policy direction and budget approval", "Judicial interpretation of laws", "Private investment decisions"], "ans": 1, "explanation": "Ministers set strategic direction, approve major expenditures, and ensure compliance with government policy."},
+        {"q": "Parliamentary control is exercised mainly through:", "opts": ["Appointing CEOs", "Reviewing annual reports and audit findings via committees", "Managing corporate finances", "Controlling staff promotions"], "ans": 1, "explanation": "Legislatures scrutinize performance, finances, and compliance through oversight committees."},
+        {"q": "Judicial control of public corporations ensures:", "opts": ["Political interference", "Legality of actions and protection of citizens' rights", "Elimination of board oversight", "Unrestricted corporate autonomy"], "ans": 1, "explanation": "Courts review decisions for constitutionality, statutory compliance, and fairness to the public."},
+        {"q": "The Public Accounts Committee (PAC) contributes to control by:", "opts": ["Hiring management staff", "Auditing financial records and reporting irregularities to parliament", "Setting corporate prices", "Appointing ministers"], "ans": 1, "explanation": "PAC ensures public funds are used appropriately and holds corporations financially accountable."},
+        {"q": "A limitation of ministerial control is:", "opts": ["Too much independence", "Potential for political interference in technical operations", "Complete elimination of corruption", "Over-empowerment of boards"], "ans": 1, "explanation": "Excessive political direction can undermine professional management and operational efficiency."},
+        {"q": "Which control mechanism can invalidate an illegal corporate decision?", "opts": ["Ministerial directive", "Judicial review", "Trade union strike", "Public protest"], "ans": 1, "explanation": "Courts have the authority to nullify actions that violate laws, regulations, or constitutional rights."},
+        {"q": "Legislative control strengthens democracy by:", "opts": ["Replacing elected officials", "Ensuring transparency and citizen representation in oversight", "Centralizing executive power", "Eliminating corporate boards"], "ans": 1, "explanation": "Parliamentary scrutiny reflects the will of the people and holds state entities accountable."},
+        {"q": "Effective control of public corporations requires:", "opts": ["Secrecy in operations", "Balance between autonomy and accountability", "Abolition of all oversight", "Military supervision"], "ans": 1, "explanation": "Corporations need operational freedom but must remain transparent and answerable to public institutions."},
+        {"q": "Citizens contribute to corporate control through:", "opts": ["Ignoring service delivery", "Media exposure, petitions, and civic advocacy", "Avoiding public services", "Supporting political interference"], "ans": 1, "explanation": "Public scrutiny, journalism, and civic engagement complement institutional oversight mechanisms."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w6_su2",
+      "title": "6.2 Problems Facing Public Corporations & Reform Needs",
+      "notes": [
+        "Persistent challenges include political interference, bureaucratic inefficiency, inadequate funding, corruption, and outdated technology.",
+        "Revenue losses from mismanagement, ghost workers, and poor pricing policies undermine financial sustainability.",
+        "Staff morale suffers due to politicized promotions, inadequate training, and poor working conditions.",
+        "Infrastructure decay and maintenance neglect reduce service quality and public trust.",
+        "Reforms: commercialization, privatization, stronger anti-corruption frameworks, performance-based contracts, and digital transformation to restore efficiency and public confidence.",
+        "Citizen role: Demand accountability through FOI requests, report service failures, participate in public hearings on reforms."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Problems of public corporations Nigeria reforms site:youtube.com",
+      "quiz": [
+        {"q": "A major problem facing Nigerian public corporations is:", "opts": ["Excessive profitability", "Political interference and bureaucratic inefficiency", "Overfunding by government", "Complete operational independence"], "ans": 1, "explanation": "Political meddling and red tape hinder professional management and swift decision-making."},
+        {"q": "Inadequate funding affects public corporations by:", "opts": ["Increasing staff bonuses", "Limiting infrastructure maintenance and service expansion", "Eliminating corruption", "Boosting foreign investment"], "ans": 1, "explanation": "Underfunding leads to equipment decay, poor service delivery, and inability to meet public demand."},
+        {"q": "Corruption in public corporations manifests through:", "opts": ["Transparent procurement", "Embezzlement, contract inflation, and ghost workers", "Performance-based promotions", "Regular public audits"], "ans": 1, "explanation": "Financial malpractice diverts public resources, undermines trust, and reduces operational capacity."},
+        {"q": "Staff morale declines when:", "opts": ["Promotions are merit-based", "Appointments are politicized and training is neglected", "Salaries are paid promptly", "Unions are recognized"], "ans": 1, "explanation": "Political hiring and lack of professional development demotivate competent staff and increase turnover."},
+        {"q": "Outdated technology in public corporations leads to:", "opts": ["Improved service speed", "Inefficiency, errors, and poor data management", "Higher profit margins", "Increased public satisfaction"], "ans": 1, "explanation": "Legacy systems slow operations, increase costs, and hinder responsiveness to modern demands."},
+        {"q": "A key reform to address public corporation problems is:", "opts": ["Abolishing all oversight", "Implementing performance contracts and digital transformation", "Increasing political appointments", "Eliminating independent audits"], "ans": 1, "explanation": "Merit-based accountability and modernization improve efficiency, transparency, and service quality."},
+        {"q": "Revenue generation challenges in public corporations often stem from:", "opts": ["Overpricing services", "Poor pricing policies and low collection efficiency", "Excessive foreign exchange", "High staff productivity"], "ans": 1, "explanation": "Inadequate tariff reviews, billing leakages, and weak enforcement reduce internally generated revenue."},
+        {"q": "Public trust in corporations declines when:", "opts": ["Services are reliable and affordable", "There are frequent disruptions and lack of transparency", "Boards publish annual reports", "Staff receive regular training"], "ans": 1, "explanation": "Poor service, opaque operations, and unaddressed complaints erode citizen confidence."},
+        {"q": "Anti-corruption agencies help public corporations by:", "opts": ["Replacing management teams", "Investigating financial misconduct and enforcing accountability", "Setting corporate prices", "Appointing board members"], "ans": 1, "explanation": "EFCC, ICPC, and auditors deter fraud, recover assets, and promote ethical governance."},
+        {"q": "Sustainable improvement requires:", "opts": ["Short-term political fixes", "Institutional reforms, professional management, and citizen oversight", "Military intervention", "Elimination of legislative control"], "ans": 1, "explanation": "Long-term success depends on structural reforms, ethical leadership, and continuous public engagement."}
+      ]
+    }
+  ]
+}

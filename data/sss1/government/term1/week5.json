@@ -1,0 +1,83 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Basic Concepts (Continued)",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w5_su1",
+      "title": "5.1 Capitalism: Meaning and Features",
+      "notes": [
+        "Capitalism is an economic and political system where private individuals or corporations own and control the means of production for profit.",
+        "Core features: Private property rights, free market competition, profit motive, minimal government intervention, price mechanism driven by supply and demand.",
+        "Adam Smith's 'The Wealth of Nations' laid the theoretical foundation, emphasizing the 'invisible hand' of the market.",
+        "In Nigeria, capitalism operates alongside state regulation, evident in private banking, telecommunications, and retail sectors.",
+        "Advantages: Encourages innovation, efficiency, wealth creation, and consumer choice. Disadvantages: Income inequality, monopolies, exploitation, and market failures."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Capitalism explained SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Capitalism is primarily characterized by:", "opts": ["State ownership of all industries", "Private ownership and profit-driven markets", "Centralized economic planning", "Absence of competition"], "ans": 1, "explanation": "Capitalism relies on private ownership, market competition, and the profit motive."},
+        {"q": "Who is considered the father of modern capitalist theory?", "opts": ["Karl Marx", "Adam Smith", "John Maynard Keynes", "Plato"], "ans": 1, "explanation": "Adam Smith's 'The Wealth of Nations' (1776) established the theoretical foundations of capitalism."},
+        {"q": "The 'invisible hand' in capitalism refers to:", "opts": ["Government control of prices", "Market forces of supply and demand guiding economic decisions", "Military enforcement of contracts", "Central bank interest rates"], "ans": 1, "explanation": "Smith's 'invisible hand' describes how individual self-interest in free markets leads to societal economic benefit."},
+        {"q": "Which is a major advantage of capitalism?", "opts": ["Guaranteed employment for all", "Encourages innovation and economic efficiency", "Eliminates poverty automatically", "Prevents monopolies"], "ans": 1, "explanation": "Competition and profit incentives drive technological advancement, productivity, and efficiency."},
+        {"q": "A key disadvantage of pure capitalism is:", "opts": ["Overproduction of public goods", "Income inequality and wealth concentration", "Lack of consumer choice", "Government overregulation"], "ans": 1, "explanation": "Without intervention, capitalism often leads to unequal wealth distribution and marginalization of vulnerable groups."},
+        {"q": "In a capitalist system, prices are primarily determined by:", "opts": ["Government decrees", "Supply and demand in the free market", "Traditional customs", "International treaties"], "ans": 1, "explanation": "Capitalist markets use the price mechanism where buyers and sellers interact freely to set prices."},
+        {"q": "Which sector in Nigeria best exemplifies capitalist principles?", "opts": ["Nigerian National Petroleum Company (NNPC)", "Telecommunications and private banking", "Federal Ministry of Education", "Independent National Electoral Commission (INEC)"], "ans": 1, "explanation": "Private telecoms and banks operate for profit, compete freely, and respond to market demand."},
+        {"q": "Monopolies in capitalism are problematic because they:", "opts": ["Increase competition", "Reduce prices and improve quality", "Eliminate consumer choice and control markets", "Promote equitable wealth distribution"], "ans": 2, "explanation": "Monopolies dominate markets, set high prices, and stifle innovation due to lack of competition."},
+        {"q": "Capitalism relies on the principle of:", "opts": ["Collective ownership of resources", "Individual property rights and entrepreneurial freedom", "State allocation of goods", "Barter trade systems"], "ans": 1, "explanation": "Private property rights and freedom to start businesses are foundational to capitalism."},
+        {"q": "Why do modern capitalist states implement regulations?", "opts": ["To abolish private property", "To correct market failures, protect consumers, and ensure fair competition", "To replace market forces entirely", "To nationalize all industries"], "ans": 1, "explanation": "Regulations address externalities, prevent monopolies, and protect public interest without abandoning market principles."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w5_su2",
+      "title": "5.2 Socialism: Meaning and Features",
+      "notes": [
+        "Socialism is an economic system where the community or state owns and controls major means of production and distribution to promote social welfare.",
+        "Core features: Collective/state ownership, central economic planning, equitable wealth distribution, strong social safety nets, prioritization of public good over private profit.",
+        "Theoretical roots trace to Karl Marx, Robert Owen, and democratic socialist movements advocating for worker rights and reduced inequality.",
+        "Examples: Nordic countries (Sweden, Norway) practice democratic socialism with strong welfare states, while Cuba practices state socialism.",
+        "Advantages: Reduces poverty, ensures basic needs, promotes social cohesion. Disadvantages: Bureaucratic inefficiency, reduced innovation, high taxation, limited consumer choice."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Socialism explained SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Socialism primarily emphasizes:", "opts": ["Private profit maximization", "Collective ownership and social welfare", "Unregulated free markets", "Hereditary leadership"], "ans": 1, "explanation": "Socialism prioritizes public or state ownership of key industries to ensure equitable resource distribution."},
+        {"q": "Which feature is characteristic of socialist economies?", "opts": ["Decentralized price setting", "Central economic planning by the state", "Absence of taxation", "Complete privatization of healthcare"], "ans": 1, "explanation": "Socialist systems use central planning to allocate resources according to societal needs rather than market forces."},
+        {"q": "A major advantage of socialism is:", "opts": ["Rapid technological innovation", "Reduction of extreme poverty and inequality", "Unlimited consumer choice", "Minimal government involvement"], "ans": 1, "explanation": "Socialism ensures basic needs (healthcare, education, housing) are accessible to all citizens regardless of income."},
+        {"q": "A common criticism of socialism is:", "opts": ["Excessive competition", "Bureaucratic inefficiency and reduced innovation incentives", "Lack of social welfare programs", "Overproduction of luxury goods"], "ans": 1, "explanation": "Central planning and lack of profit incentives can lead to inefficiency, shortages, and slower technological progress."},
+        {"q": "Which country is often cited as practicing democratic socialism?", "opts": ["United States", "Saudi Arabia", "Sweden", "North Korea"], "ans": 2, "explanation": "Sweden combines a market economy with extensive welfare programs, progressive taxation, and strong labor rights."},
+        {"q": "In socialism, the state controls key industries primarily to:", "opts": ["Maximize shareholder profits", "Ensure equitable distribution of resources and services", "Eliminate all private businesses", "Increase military spending"], "ans": 1, "explanation": "State control aims to prevent exploitation, guarantee essential services, and reduce socioeconomic disparities."},
+        {"q": "Which sector would most likely be nationalized in a socialist system?", "opts": ["Private fashion boutiques", "Public healthcare and education", "Small-scale artisanal crafts", "Online gaming platforms"], "ans": 1, "explanation": "Healthcare and education are considered essential public goods that socialism prioritizes for universal access."},
+        {"q": "Socialism differs from capitalism in its view of wealth:", "opts": ["Wealth should be concentrated among innovators", "Wealth should be distributed equitably to benefit society", "Wealth is irrelevant to governance", "Wealth should be hoarded by the state"], "ans": 1, "explanation": "Socialism advocates for wealth redistribution through taxation and public services to achieve social justice."},
+        {"q": "High taxation in socialist states primarily funds:", "opts": ["Military expansion", "Public services and social welfare programs", "Corporate subsidies", "Foreign investments only"], "ans": 1, "explanation": "Progressive taxes in socialist models finance healthcare, education, pensions, and infrastructure for all citizens."},
+        {"q": "The phrase 'from each according to his ability, to each according to his needs' is associated with:", "opts": ["Capitalism", "Socialism/Communism", "Feudalism", "Mercantilism"], "ans": 1, "explanation": "This principle, popularized by Marx, reflects socialist ideals of equitable distribution based on human needs."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w5_su3",
+      "title": "5.3 Capitalism vs Socialism: Comparison & Mixed Economy",
+      "notes": [
+        "Pure capitalism and pure socialism are theoretical extremes; modern economies blend elements of both into mixed economies.",
+        "Mixed economy features: Coexistence of private and public sectors, market mechanisms with government regulation, profit motive alongside social welfare programs.",
+        "Nigeria operates a mixed economy: Private enterprises drive growth while government regulates key sectors (oil, power, education) and provides social services.",
+        "Policy debates center on finding the optimal balance: too much state control stifles innovation; too little regulation breeds inequality and exploitation.",
+        "Globalization and economic reforms continue to shape how nations adapt capitalist and socialist principles to local contexts."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Capitalism vs Socialism comparison SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Most modern nations practice which economic system?", "opts": ["Pure capitalism", "Pure socialism", "Mixed economy", "Feudalism"], "ans": 2, "explanation": "Mixed economies combine market freedom with government intervention to balance growth and equity."},
+        {"q": "Nigeria's economy is classified as:", "opts": ["Purely capitalist", "Purely socialist", "Mixed economy", "Command economy"], "ans": 2, "explanation": "Nigeria features private businesses, state-owned enterprises, and regulatory frameworks, defining a mixed economy."},
+        {"q": "A key benefit of a mixed economy is:", "opts": ["Complete elimination of government", "Balance between innovation and social protection", "Absolute price control", "Absence of taxation"], "ans": 1, "explanation": "Mixed economies harness market efficiency while using regulation to protect vulnerable populations and public interests."},
+        {"q": "Which policy reflects socialist principles in a mixed economy?", "opts": ["Deregulation of all industries", "Universal basic healthcare and education funding", "Abolition of minimum wage laws", "Privatization of all public utilities"], "ans": 1, "explanation": "Universal public services embody socialist ideals of equitable access within a broader mixed framework."},
+        {"q": "Which policy reflects capitalist principles in a mixed economy?", "opts": ["State monopoly on all production", "Private enterprise and foreign direct investment", "Price fixing by central authorities", "Elimination of profit incentives"], "ans": 1, "explanation": "Encouraging private business, competition, and investment aligns with capitalist market principles."},
+        {"q": "Economic reforms in Nigeria often aim to:", "opts": ["Abolish the private sector", "Improve efficiency through privatization while maintaining regulation", "Return to feudal land systems", "Eliminate international trade"], "ans": 1, "explanation": "Reforms seek to balance market liberalization with social stability and institutional accountability."},
+        {"q": "A challenge of mixed economies in developing nations is:", "opts": ["Excessive wealth equality", "Corruption and inefficient public-private coordination", "Complete market transparency", "Overabundance of foreign aid"], "ans": 1, "explanation": "Weak institutions can lead to mismanagement, rent-seeking, and blurred lines between public and private interests."},
+        {"q": "The debate between capitalism and socialism in Nigeria centers on:", "opts": ["Language policy", "Degree of state intervention vs market freedom", "Religious education", "Military recruitment"], "ans": 1, "explanation": "Policymakers continuously debate how much the state should regulate markets to ensure fairness without stifling growth."},
+        {"q": "Which statement best describes economic policy in mixed systems?", "opts": ["Markets operate without any rules", "Government and markets interact to allocate resources and provide public goods", "Only cooperatives are allowed", "All wealth is redistributed equally"], "ans": 1, "explanation": "Mixed economies use both market signals and state planning to achieve economic and social objectives."},
+        {"q": "Globalization has influenced mixed economies by:", "opts": ["Isolating national markets", "Increasing cross-border trade, investment, and policy adaptation", "Eliminating all state regulations", "Standardizing only socialist models"], "ans": 1, "explanation": "Global integration requires mixed economies to adapt policies to compete internationally while protecting domestic interests."}
+      ]
+    }
+  ]
+}

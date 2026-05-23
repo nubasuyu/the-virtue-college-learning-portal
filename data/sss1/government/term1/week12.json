@@ -1,0 +1,58 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Organs of Government (Judiciary)",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w12_su1",
+      "title": "12.1 Judiciary: Functions and Independence",
+      "notes": [
+        "The judiciary interprets laws, settles disputes, administers justice, and ensures constitutional compliance through independent courts.",
+        "Core functions: Adjudication of civil/criminal cases, judicial review of executive/legislative actions, protection of fundamental human rights, and development of case law.",
+        "Independence means judges decide cases free from political pressure, financial manipulation, or public intimidation.",
+        "Safeguards in Nigeria: Security of tenure, financial autonomy via first-line charge, appointment through National Judicial Council (NJC), and contempt powers.",
+        "Hierarchy: Supreme Court (final), Court of Appeal, Federal/State High Courts, Sharia/Customary Courts of Appeal, Magistrate/Customary Courts."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Judiciary functions independence Nigeria SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "The primary function of the judiciary is to:", "opts": ["Make laws", "Implement policies", "Interpret laws and administer justice", "Appoint executives"], "ans": 2, "explanation": "Courts resolve disputes, interpret statutes, and ensure constitutional compliance."},
+        {"q": "Judicial independence ensures that judges:", "opts": ["Follow executive directives", "Decide cases free from political or financial interference", "Campaign for political parties", "Set tax rates"], "ans": 1, "explanation": "Independence protects impartiality and upholds the rule of law."},
+        {"q": "Which body recommends judicial appointments in Nigeria?", "opts": ["National Assembly", "National Judicial Council (NJC)", "Presidential Advisory Council", "Military Council"], "ans": 1, "explanation": "The NJC screens and recommends judges to preserve merit and independence."},
+        {"q": "Judicial review allows courts to:", "opts": ["Make new laws", "Declare executive/legislative actions unconstitutional", "Appoint ministers", "Control military budgets"], "ans": 1, "explanation": "Review power ensures all branches operate within constitutional limits."},
+        {"q": "Security of tenure for judges means:", "opts": ["They serve fixed political terms", "They cannot be removed arbitrarily before retirement age", "They are elected every four years", "They answer to governors"], "ans": 1, "explanation": "Tenure protection prevents political retaliation and ensures fearless judgment."},
+        {"q": "The highest court in Nigeria is the:", "opts": ["Court of Appeal", "Federal High Court", "Supreme Court", "Sharia Court of Appeal"], "ans": 2, "explanation": "The Supreme Court is the final arbiter on constitutional and legal matters."},
+        {"q": "Financial autonomy of the judiciary is maintained through:", "opts": ["Executive discretion", "First-line charge on the Consolidated Revenue Fund", "Donor funding", "Private sponsorship"], "ans": 1, "explanation": "Direct constitutional funding prevents executive manipulation of judicial operations."},
+        {"q": "A threat to judicial independence in Nigeria is:", "opts": ["Excessive public trust", "Political interference and delayed funding", "Overqualified judges", "Too many courts"], "ans": 1, "explanation": "Executive pressure and budget constraints can undermine impartial adjudication."},
+        {"q": "Customary and Sharia courts in Nigeria handle:", "opts": ["Federal criminal cases", "Personal, family, and civil matters per recognized traditions", "Constitutional disputes", "International treaties"], "ans": 1, "explanation": "These courts operate within constitutional frameworks to adjudicate culturally specific civil matters."},
+        {"q": "Contempt of court powers exist to:", "opts": ["Silence all criticism", "Maintain judicial authority and ensure compliance with orders", "Replace police functions", "Control media ownership"], "ans": 1, "explanation": "Contempt powers protect court dignity and enforce judicial decisions."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w12_su2",
+      "title": "12.2 Challenges and Citizen Engagement with Judiciary",
+      "notes": [
+        "Persistent challenges include case backlogs, inadequate infrastructure, corruption, political interference, and limited legal aid for indigent citizens.",
+        "Reforms: Court digitization, alternative dispute resolution (ADR), judicial training, performance monitoring, and strengthened legal aid frameworks.",
+        "Citizen rights: Fair hearing (Section 36, 1999 Constitution), access to courts, legal representation, appeal mechanisms, and protection against arbitrary detention.",
+        "Public trust is built through transparent judgments, timely justice, ethical conduct, and accessible court facilities.",
+        "Civic responsibility: Respecting court decisions, reporting judicial misconduct, supporting legal aid, and participating in justice sector reforms."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Judiciary challenges reforms Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A major challenge facing Nigeria's judiciary is:", "opts": ["Excessive funding", "Case backlogs and delayed justice delivery", "Too many qualified judges", "Overuse of ADR"], "ans": 1, "explanation": "Procedural bottlenecks, underfunding, and inefficiency prolong case resolution."},
+        {"q": "Alternative Dispute Resolution (ADR) aims to:", "opts": ["Replace all courts", "Reduce case backlogs through mediation and arbitration", "Eliminate legal representation", "Centralize judicial power"], "ans": 1, "explanation": "ADR provides faster, cost-effective conflict resolution outside traditional litigation."},
+        {"q": "Section 36 of the 1999 Constitution guarantees citizens:", "opts": ["Free housing", "Right to fair hearing within reasonable time", "Military protection", "Tax exemption"], "ans": 1, "explanation": "Fair hearing ensures due process, impartial tribunals, and timely justice."},
+        {"q": "Legal aid supports indigent citizens by:", "opts": ["Replacing court decisions", "Providing free legal representation and advice", "Controlling judicial appointments", "Eliminating all court fees"], "ans": 1, "explanation": "Legal aid ensures equal access to justice regardless of financial status."},
+        {"q": "Judicial corruption undermines democracy because it:", "opts": ["Speeds up trials", "Erodes public trust and violates constitutional rights", "Increases foreign investment", "Strengthens executive power"], "ans": 1, "explanation": "Corrupt judgments compromise fairness, enable impunity, and weaken rule of law."},
+        {"q": "Court digitization improves justice delivery by:", "opts": ["Eliminating all judges", "Enabling e-filing, virtual hearings, and transparent case tracking", "Replacing constitutional review", "Centralizing military oversight"], "ans": 1, "explanation": "Technology reduces delays, improves record-keeping, and enhances accessibility."},
+        {"q": "Citizens can strengthen judicial integrity by:", "opts": ["Ignoring court rulings", "Reporting misconduct, respecting decisions, and supporting reforms", "Bribing court officials", "Avoiding legal processes"], "ans": 1, "explanation": "Civic engagement ensures accountability and sustains public confidence in justice."},
+        {"q": "The principle of 'stare decisis' means:", "opts": ["Judges ignore past rulings", "Courts follow binding precedents for consistency", "Laws change daily", "Executives override judgments"], "ans": 1, "explanation": "Precedent ensures predictability, fairness, and uniform application of law."},
+        {"q": "A key reform to improve judicial access is:", "opts": ["Abolishing lower courts", "Expanding legal aid and establishing mobile courts", "Eliminating appeal rights", "Centralizing all cases in Abuja"], "ans": 1, "explanation": "Grassroots legal services and decentralized facilities ensure justice reaches remote areas."},
+        {"q": "Public trust in the judiciary depends on:", "opts": ["Secrecy in proceedings", "Transparency, timeliness, ethical conduct, and accessible facilities", "Military supervision", "Political control of appointments"], "ans": 1, "explanation": "Open, efficient, and impartial justice builds legitimacy and democratic stability."}
+      ]
+    }
+  ]
+}

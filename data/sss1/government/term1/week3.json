@@ -1,0 +1,86 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Democracy",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w3_su1",
+      "title": "3.1 Meaning and Features of Democracy",
+      "notes": [
+        "Democracy is a system of government where power belongs to the people, exercised directly or through elected representatives.",
+        "Etymology: Greek 'demos' (people) + 'kratos' (power/rule) = rule by the people.",
+        "Key features: Free and fair elections, rule of law, fundamental human rights, separation of powers, political participation, accountability, transparency, majority rule with minority rights.",
+        "Types: Direct democracy (citizens vote on issues directly, e.g., referendums) and Representative democracy (citizens elect representatives to govern).",
+        "Principles: Political equality, popular sovereignty, constitutionalism, pluralism, and peaceful transfer of power.",
+        "In Nigeria, democracy operates as a federal presidential representative system under the 1999 Constitution."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Meaning of democracy SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Democracy literally means:", "opts": ["Rule by the elite", "Rule by the people", "Rule by the military", "Rule by the rich"], "ans": 1, "explanation": "Democracy comes from Greek 'demos' (people) + 'kratos' (power) = rule by the people."},
+        {"q": "Which is NOT a feature of democracy?", "opts": ["Free and fair elections", "Rule of law", "Military dictatorship", "Fundamental human rights"], "ans": 2, "explanation": "Military dictatorship is the opposite of democracy. Democracy requires elections, rule of law, and human rights."},
+        {"q": "Nigeria practices which type of democracy?", "opts": ["Direct democracy", "Representative democracy", "Monarchy", "Theocracy"], "ans": 1, "explanation": "Nigeria practices representative democracy where citizens elect representatives to govern on their behalf."},
+        {"q": "The principle of 'majority rule with minority rights' means:", "opts": ["Minorities have no rights", "Majority decisions prevail but minorities are protected", "Only minorities can rule", "Majority decisions are always final without review"], "ans": 1, "explanation": "Democracy balances majority decisions with constitutional protections for minority groups."},
+        {"q": "Which institution ensures separation of powers in Nigeria?", "opts": ["The Military", "The Constitution", "Political Parties", "Traditional Rulers"], "ans": 1, "explanation": "The 1999 Constitution establishes and separates the Executive, Legislature, and Judiciary."},
+        {"q": "Political participation in democracy includes:", "opts": ["Only voting", "Voting, joining parties, protesting, contacting representatives", "Only holding office", "Only paying taxes"], "ans": 1, "explanation": "Citizens participate through voting, party membership, advocacy, petitions, and civic engagement."},
+        {"q": "Accountability in democracy requires that:", "opts": ["Leaders are never questioned", "Officials answer for their actions to the people", "Only the military oversees government", "Elections are held once in a lifetime"], "ans": 1, "explanation": "Accountability means public officials must justify their decisions and face consequences for misconduct."},
+        {"q": "Which is a prerequisite for free and fair elections?", "opts": ["Censorship of media", "Independent electoral commission", "One-party system", "Military supervision"], "ans": 1, "explanation": "An independent electoral body (like INEC) is essential for credible, impartial elections."},
+        {"q": "The rule of law in democracy means:", "opts": ["Leaders are above the law", "Everyone, including leaders, is subject to the law", "Only citizens obey laws", "Laws apply only to the poor"], "ans": 1, "explanation": "Rule of law ensures equality before the law and limits arbitrary exercise of power."},
+        {"q": "Popular sovereignty in democracy implies that:", "opts": ["Power belongs to the military", "Ultimate authority rests with the people", "Traditional rulers hold supreme power", "Foreign powers decide national policies"], "ans": 1, "explanation": "Popular sovereignty means the people are the source of all governmental authority."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w3_su2",
+      "title": "3.2 Political Culture",
+      "notes": [
+        "Political culture is the set of attitudes, beliefs, values, and feelings that citizens hold about politics, government, and their role in the political system.",
+        "It shapes how people view authority, participate in politics, and respond to government policies.",
+        "Gabriel Almond and Sidney Verba's three types: Parochial (little awareness of national politics), Subject (passive obedience to authority), Participant (active involvement in politics).",
+        "Elements of political culture: Political ideology, national identity, political symbols (flag, anthem), historical experiences, civic education, and media influence.",
+        "In Nigeria, political culture includes ethnic loyalty, respect for elders, growing democratic consciousness, and tension between traditional and modern values.",
+        "A healthy political culture supports democracy through tolerance, civic responsibility, and constructive engagement."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Political culture SSS1 Government Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Political culture refers to:", "opts": ["The constitution", "People's attitudes and beliefs about politics", "Political parties", "Election results"], "ans": 1, "explanation": "Political culture is the set of attitudes, beliefs, values, and feelings about politics and government."},
+        {"q": "Which political culture type involves active citizen participation?", "opts": ["Parochial", "Subject", "Participant", "Passive"], "ans": 2, "explanation": "Participant political culture involves active involvement in politics, voting, and civic engagement."},
+        {"q": "An example of political culture element is:", "opts": ["Road construction", "National flag and anthem", "Import and export", "Weather patterns"], "ans": 1, "explanation": "Political symbols like the national flag and anthem are elements of political culture."},
+        {"q": "In a parochial political culture, citizens:", "opts": ["Actively protest government policies", "Have little awareness of national politics", "Hold regular elections", "Debate policies in media"], "ans": 1, "explanation": "Parochial culture is characterized by limited political awareness and engagement beyond local issues."},
+        {"q": "Subject political culture is marked by:", "opts": ["Active political participation", "Passive obedience to authority", "Frequent regime changes", "Decentralized power"], "ans": 1, "explanation": "Subject culture features citizens who obey authority but do not actively participate in politics."},
+        {"q": "Which factor shapes Nigeria's political culture?", "opts": ["Climate only", "Ethnic diversity and historical experiences", "Population size only", "Geographical location only"], "ans": 1, "explanation": "Nigeria's political culture is influenced by its multi-ethnic composition, colonial history, and democratic transitions."},
+        {"q": "Civic education contributes to political culture by:", "opts": ["Discouraging political participation", "Promoting knowledge of rights and democratic values", "Supporting one-party rule", "Limiting media freedom"], "ans": 1, "explanation": "Civic education builds informed, responsible citizens who understand and engage with democratic processes."},
+        {"q": "Political ideology is part of political culture because it:", "opts": ["Determines election dates", "Shapes beliefs about how society should be governed", "Controls the military", "Sets tax rates"], "ans": 1, "explanation": "Ideologies (e.g., democracy, socialism) influence citizens' expectations and evaluations of government."},
+        {"q": "A healthy democratic political culture requires:", "opts": ["Intolerance of opposing views", "Tolerance, civic responsibility, and constructive engagement", "Suppression of dissent", "Centralized control of information"], "ans": 1, "explanation": "Democracy thrives when citizens respect diversity, fulfill civic duties, and engage constructively."},
+        {"q": "Media influence on political culture includes:", "opts": ["Only entertainment", "Shaping public opinion and political awareness", "Controlling elections", "Replacing government institutions"], "ans": 1, "explanation": "Media informs citizens, frames issues, and influences political attitudes and participation."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w3_su3",
+      "title": "3.3 Political Socialization",
+      "notes": [
+        "Political socialization is the lifelong process by which individuals acquire political knowledge, attitudes, values, and behaviors.",
+        "It is how citizens learn about their political system, develop political identity, and form opinions about governance.",
+        "Agents of political socialization: Family (first and most influential), School (civic education), Media (TV, radio, social media), Peer groups, Religious institutions, Political parties, and Government.",
+        "The process is continuous—people update political views throughout life based on experiences, education, and changing circumstances.",
+        "In Nigeria, political socialization occurs through family traditions, school curricula, religious teachings, media exposure, and participation in elections.",
+        "Effective political socialization produces informed, engaged citizens who support democratic norms and national development."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Political socialization agents SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Political socialization is:", "opts": ["Voting in elections", "The process of acquiring political knowledge and values", "Joining a political party", "Protesting against government"], "ans": 1, "explanation": "Political socialization is the process by which people acquire political knowledge, attitudes, values, and behavior."},
+        {"q": "The FIRST agent of political socialization is usually:", "opts": ["School", "Media", "Family", "Political party"], "ans": 2, "explanation": "Family is the first and most important agent of political socialization, shaping early political views."},
+        {"q": "Which is NOT an agent of political socialization?", "opts": ["School", "Media", "Weather", "Religious institutions"], "ans": 2, "explanation": "Weather is not an agent of political socialization. Key agents are family, school, media, peers, and religious institutions."},
+        {"q": "Schools contribute to political socialization by:", "opts": ["Teaching only mathematics", "Providing civic education and democratic values", "Promoting one political party", "Discouraging critical thinking"], "ans": 1, "explanation": "Schools teach citizenship, constitutional principles, and democratic participation through civic education."},
+        {"q": "Media's role in political socialization includes:", "opts": ["Only advertising products", "Informing citizens and shaping political opinions", "Replacing elections", "Controlling the judiciary"], "ans": 1, "explanation": "Media provides political information, frames issues, and influences citizens' political attitudes."},
+        {"q": "Peer groups influence political socialization by:", "opts": ["Setting tax policies", "Sharing political views and encouraging participation", "Appointing government officials", "Writing constitutions"], "ans": 1, "explanation": "Friends and peers discuss politics, share perspectives, and encourage (or discourage) political engagement."},
+        {"q": "Religious institutions shape political culture by:", "opts": ["Only conducting worship", "Teaching moral values that influence political behavior", "Controlling elections", "Replacing government"], "ans": 1, "explanation": "Religions instill ethical principles that affect citizens' views on justice, leadership, and civic duty."},
+        {"q": "Political parties socialize citizens by:", "opts": ["Only contesting elections", "Educating members on ideology and mobilizing participation", "Appointing judges", "Writing laws alone"], "ans": 1, "explanation": "Parties educate members, articulate policies, and mobilize citizens for political action."},
+        {"q": "Political socialization is lifelong because:", "opts": ["People never change opinions", "Experiences, education, and events continuously reshape political views", "Governments control all information", "Elections happen only once"], "ans": 1, "explanation": "Citizens update political beliefs throughout life based on new information, experiences, and societal changes."},
+        {"q": "Effective political socialization in a democracy produces citizens who:", "opts": ["Blindly obey authority", "Are informed, engaged, and supportive of democratic norms", "Avoid all political activity", "Support only military rule"], "ans": 1, "explanation": "Democracy requires citizens who understand their rights, participate responsibly, and uphold constitutional values."}
+      ]
+    }
+  ]
+}

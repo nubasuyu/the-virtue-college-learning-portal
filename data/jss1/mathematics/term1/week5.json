@@ -1,0 +1,40 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Decimal Fractions",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w5_su1",
+      "title": "5.1 Meaning & Place Value of Decimals",
+      "notes": [
+        "Decimal fractions are fractions whose denominators are powers of 10 (10, 100, 1000, etc.).",
+        "A decimal point (.) separates the whole number part from the fractional part.",
+        "Place values after the decimal: 1st digit = tenths (0.1), 2nd = hundredths (0.01), 3rd = thousandths (0.001).",
+        "Example: 4.35 = 4 + 3/10 + 5/100. The digit 3 is in the tenths place, 5 is in hundredths."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "What does the decimal point separate?", "opts": ["Whole numbers and fractional parts", "Tens and units", "Positive and negative numbers", "Even and odd numbers"], "ans": 0, "explanation": "The decimal point divides the whole number part (left) from the fractional part (right)." },
+        { "q": "In 7.28, what is the place value of 8?", "opts": ["Tenths", "Hundredths", "Thousandths", "Ones"], "ans": 1, "explanation": "The second digit after the decimal is the hundredths place." },
+        { "q": "Which decimal represents 6/10?", "opts": ["0.06", "0.6", "6.0", "60.0"], "ans": 1, "explanation": "6/10 = 0.6 (six tenths)." }
+      ]
+    },
+    {
+      "id": "jss1_t1_w5_su2",
+      "title": "5.2 Relationship Between Fractions & Decimals",
+      "notes": [
+        "Every fraction can be written as a decimal by dividing the numerator by the denominator.",
+        "To convert a decimal to a fraction, write the digits over 10, 100, or 1000 based on decimal places, then simplify.",
+        "Example: 1/4 = 0.25 | 0.8 = 8/10 = 4/5 | 0.125 = 125/1000 = 1/8",
+        "Practice: Use money (₦0.50 = ½) and measurements to see the real-life connection."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "Convert 3/4 to a decimal.", "opts": ["0.25", "0.50", "0.75", "0.34"], "ans": 2, "explanation": "3 ÷ 4 = 0.75" },
+        { "q": "Convert 0.6 to a fraction in lowest terms.", "opts": ["6/10", "3/5", "1/6", "6/100"], "ans": 1, "explanation": "0.6 = 6/10 → divide numerator & denominator by 2 → 3/5" },
+        { "q": "Which fraction equals 0.125?", "opts": ["1/8", "1/4", "1/10", "12/5"], "ans": 0, "explanation": "0.125 = 125/1000 → simplify by 125 → 1/8" }
+      ]
+    }
+  ]
+}

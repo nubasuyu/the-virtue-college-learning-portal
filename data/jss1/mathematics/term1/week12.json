@@ -1,0 +1,41 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Percentage Continues",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w12_su1",
+      "title": "12.1 Converting Decimals to Percentages",
+      "notes": [
+        "To convert a decimal to a percentage, multiply by 100 (or move the decimal point two places to the right) and add the '%' sign.",
+        "Examples: 0.45 × 100 = 45% | 0.8 × 100 = 80% | 0.075 × 100 = 7.5% | 2.1 × 100 = 210%",
+        "Remember: Decimals ≤ 1 become ≤ 100%. Decimals > 1 become > 100%.",
+        "Practice with real-life examples: Battery life (0.85 → 85%), completion rates, discounts."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "Convert 0.35 to a percentage.", "opts": ["3.5%", "35%", "350%", "0.35%"], "ans": 1, "explanation": "0.35 × 100 = 35%" },
+        { "q": "What is 1.2 as a percentage?", "opts": ["12%", "120%", "1.2%", "1200%"], "ans": 1, "explanation": "1.2 × 100 = 120%" },
+        { "q": "Convert 0.005 to a percentage.", "opts": ["0.5%", "5%", "50%", "0.05%"], "ans": 0, "explanation": "0.005 × 100 = 0.5%" }
+      ]
+    },
+    {
+      "id": "jss1_t1_w12_su2",
+      "title": "12.2 Mixed Conversions & Term Revision Prep",
+      "notes": [
+        "Master the cycle: Fraction ↔ Decimal ↔ Percentage.",
+        "Fraction → Decimal: Divide top by bottom. Decimal → Percentage: ×100. Percentage → Fraction: Write over 100 & simplify.",
+        "Example: 3/4 = 0.75 = 75%",
+        "Common conversions to memorize: 1/2=50%, 1/4=25%, 1/5=20%, 1/10=10%, 3/5=60%.",
+        "Review Week 1-12 topics: Whole numbers, Fractions, Decimals, Base 2, Percentages, Estimation."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "Which is equivalent to 0.2?", "opts": ["20%", "2/5", "1/5", "Both B and C"], "ans": 3, "explanation": "0.2 = 20% = 2/10 = 1/5" },
+        { "q": "Convert 3/8 to a percentage.", "opts": ["30%", "37.5%", "38%", "83%"], "ans": 1, "explanation": "3 ÷ 8 = 0.375 → ×100 = 37.5%" },
+        { "q": "If a student scores 45/60 on a test, what is the percentage?", "opts": ["60%", "70%", "75%", "80%"], "ans": 2, "explanation": "45 ÷ 60 = 0.75 → 75%" }
+      ]
+    }
+  ]
+}

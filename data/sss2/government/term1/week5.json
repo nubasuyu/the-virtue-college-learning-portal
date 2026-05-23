@@ -1,0 +1,60 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Structure and Organisation of Public Corporation",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w5_su1",
+      "title": "5.1 Minister as Political Head & Board of Directors",
+      "notes": [
+        "Public corporations operate under a tripartite structure: Political Head (Minister), Governing Board, and Management/Staff.",
+        "The Minister provides policy direction, represents the corporation in cabinet, and ensures alignment with national development goals.",
+        "The Board of Directors is appointed by the President/Governor and consists of chairman, members, and sometimes technical experts.",
+        "Board functions: approve budgets, set corporate policies, appoint chief executives, monitor performance, and ensure accountability to parliament.",
+        "The relationship is hierarchical but functional: Minister sets broad policy → Board translates policy into strategy → Management executes operations.",
+        "In Nigeria, this structure applies to NNPC, NPA, FRCN, and state-owned enterprises."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Structure of public corporation Nigeria minister board site:youtube.com",
+      "quiz": [
+        {"q": "The political head of a public corporation in Nigeria is typically:", "opts": ["The Managing Director", "A Minister of the Federal Republic", "The Board Chairman", "The Auditor-General"], "ans": 1, "explanation": "Ministers serve as political heads, providing policy direction and representing the corporation in executive councils."},
+        {"q": "Who appoints members of the Board of Directors of a public corporation?", "opts": ["Civil service commission", "President/Governor", "National Assembly", "Traditional rulers"], "ans": 1, "explanation": "The executive arm appoints board members to ensure alignment with government policy and strategic oversight."},
+        {"q": "A primary function of the Board of Directors is:", "opts": ["Day-to-day administration", "Approving budgets and setting corporate policies", "Collecting taxes from citizens", "Appointing ministers"], "ans": 1, "explanation": "Boards focus on strategic governance, policy approval, and performance monitoring, not daily operations."},
+        {"q": "The relationship between the Minister and the Board is best described as:", "opts": ["Competitive and independent", "Hierarchical with policy direction flowing downward", "Equal in executive power", "Judicial oversight only"], "ans": 1, "explanation": "Ministers set broad national policy; boards translate it into actionable corporate strategy."},
+        {"q": "Why are technical experts often included on public corporation boards?", "opts": ["To replace political appointees", "To provide specialized knowledge for informed decision-making", "To manage daily staff issues", "To audit financial records"], "ans": 1, "explanation": "Technical expertise ensures boards make scientifically, economically, or legally sound decisions."},
+        {"q": "The Board of Directors is accountable to:", "opts": ["The civil service", "The public and legislature", "Foreign investors", "Trade unions"], "ans": 1, "explanation": "As state-owned entities, boards must answer to parliament and the public through transparency reports."},
+        {"q": "A key difference between a Minister and a Board Chairman is:", "opts": ["Ministers are elected; Chairmen are appointed professionals/political appointees", "Ministers manage daily operations", "Chairmen set national foreign policy", "Ministers are subordinate to the board"], "ans": 0, "explanation": "Ministers are political figures; board chairs lead corporate governance without direct ministerial rank."},
+        {"q": "Board members of public corporations usually serve:", "opts": ["For life", "Fixed terms as stipulated by establishing Acts", "Until retirement age", "Only during election periods"], "ans": 1, "explanation": "Establishing laws define tenure (usually 3–5 years) to ensure continuity and accountability."},
+        {"q": "Which document primarily guides the structure of a public corporation?", "opts": ["The 1999 Constitution", "The Act of Parliament establishing it", "The Labour Act", "The Electoral Act"], "ans": 1, "explanation": "Each public corporation is created by a specific legislative Act detailing its structure, powers, and governance."},
+        {"q": "The tripartite structure of public corporations ensures:", "opts": ["Military control", "Clear separation of policy, governance, and operations", "Elimination of accountability", "Centralization of all power"], "ans": 1, "explanation": "This structure prevents overlap, clarifies roles, and promotes efficient, accountable management."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w5_su2",
+      "title": "5.2 Management Structure & Organizational Comparison",
+      "notes": [
+        "Management comprises the Managing Director/CEO, directors of departments, and operational staff who execute day-to-day activities.",
+        "Management is responsible for implementing board policies, managing human resources, maintaining infrastructure, and delivering services efficiently.",
+        "Public corporations differ from civil service in operational autonomy: they have independent budgets, can retain revenue, and hire/fire under corporate rules.",
+        "Compared to private companies, public corporations prioritize public welfare over profit maximization, though commercialization reforms blend both objectives.",
+        "Effective management requires professional competence, ethical leadership, performance metrics, and responsiveness to board oversight.",
+        "In Nigeria, challenges include politicized appointments, inadequate training, and weak performance evaluation systems."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Public corporation management structure comparison Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "The day-to-day operations of a public corporation are managed by:", "opts": ["The Minister", "The Board of Directors", "The Managing Director/CEO and management team", "The National Assembly"], "ans": 2, "explanation": "Management handles daily execution, staff supervision, and service delivery under board policy."},
+        {"q": "Public corporations differ from the civil service primarily because they:", "opts": ["Have no legal backing", "Operate with commercial autonomy and independent budgets", "Are exempt from all government oversight", "Do not provide public services"], "ans": 1, "explanation": "Corporations enjoy operational flexibility, revenue retention, and corporate hiring practices unlike rigid civil service rules."},
+        {"q": "A key objective of public corporation management is:", "opts": ["Maximizing shareholder dividends", "Delivering public services efficiently and sustainably", "Avoiding parliamentary scrutiny", "Centralizing political power"], "ans": 1, "explanation": "Management must balance service delivery, financial viability, and public accountability."},
+        {"q": "Compared to private firms, public corporations are expected to prioritize:", "opts": ["Short-term profit", "Public interest and national development goals", "Foreign market expansion", "Stock market listings"], "ans": 1, "explanation": "State ownership mandates focus on accessibility, affordability, and socio-economic development."},
+        {"q": "The Managing Director of a public corporation is usually appointed by:", "opts": ["Civil service staff", "The Board of Directors (with executive approval)", "Traditional institutions", "Trade unions"], "ans": 1, "explanation": "Boards select CEOs based on competence, experience, and alignment with corporate strategy."},
+        {"q": "Performance evaluation in public corporations is important because it:", "opts": ["Replaces board oversight", "Ensures accountability, efficiency, and service quality improvement", "Eliminates the need for audits", "Allows arbitrary dismissals"], "ans": 1, "explanation": "Regular assessments identify bottlenecks, reward excellence, and justify resource allocation."},
+        {"q": "A major challenge for public corporation management is:", "opts": ["Excessive profit margins", "Political interference and bureaucratic delays", "Complete operational freedom", "Overqualified staff"], "ans": 1, "explanation": "Political meddling and red tape often hinder swift, professional decision-making."},
+        {"q": "Which reform aims to improve management efficiency in public corporations?", "opts": ["Abolishing boards", "Adopting corporate governance standards and performance contracts", "Returning to civil service rules", "Eliminating independent audits"], "ans": 1, "explanation": "Modern governance practices introduce KPIs, transparent reporting, and merit-based management."},
+        {"q": "The relationship between management and staff in public corporations should be:", "opts": ["Authoritarian and rigid", "Professional, collaborative, and guided by labour laws", "Based on political loyalty", "Exempt from union representation"], "ans": 1, "explanation": "Healthy industrial relations, fair wages, and clear communication drive productivity and stability."},
+        {"q": "Comparing public corporations and private companies reveals that:", "opts": ["Both prioritize profit equally", "Public corporations balance public service with financial sustainability", "Private firms are state-controlled", "Public corporations ignore market forces entirely"], "ans": 1, "explanation": "Reforms encourage corporations to adopt market efficiency while retaining public service mandates."}
+      ]
+    }
+  ]
+}

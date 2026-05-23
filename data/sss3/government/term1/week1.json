@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Federalism",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w1_su1",
+      "title": "1.1 Emergence of Federalism in Nigeria",
+      "notes": [
+        "Federalism is a system of government where powers are constitutionally shared between a central authority and component units (states/regions).",
+        "Nigeria adopted federalism at independence in 1960 to accommodate its ethnic, cultural, religious, and geographical diversity.",
+        "Historical evolution: Amalgamation of Northern and Southern Protectorates (1914) → Richards Constitution (1946) introduced regionalism → Macpherson (1951) and Lyttleton (1954) Constitutions entrenched federal structure.",
+        "The 1954 Lyttleton Constitution is regarded as Nigeria's first true federal constitution, establishing three regions: North, West, and East.",
+        "Federalism was chosen to prevent domination by any single ethnic group, promote unity in diversity, and allow regional autonomy in local matters."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Emergence of federalism in Nigeria SSS3 Government site:youtube.com",
+      "quiz": [
+        {"q": "Federalism in Nigeria was primarily adopted to:", "opts": ["Centralize all power in Lagos", "Accommodate ethnic, cultural, and geographical diversity", "Eliminate regional governments", "Establish military rule"], "ans": 1, "explanation": "Federalism was chosen to manage Nigeria's diversity by sharing power between central and regional governments."},
+        {"q": "The first true federal constitution in Nigeria was:", "opts": ["Richards Constitution (1946)", "Macpherson Constitution (1951)", "Lyttleton Constitution (1954)", "Independence Constitution (1960)"], "ans": 2, "explanation": "The 1954 Lyttleton Constitution formally established a federal structure with three autonomous regions."},
+        {"q": "Nigeria's federal system initially comprised how many regions?", "opts": ["Two", "Three", "Four", "Six"], "ans": 1, "explanation": "The 1954 Constitution created three regions: Northern, Western, and Eastern Nigeria."},
+        {"q": "The amalgamation of Northern and Southern Protectorates occurred in:", "opts": ["1900", "1914", "1946", "1960"], "ans": 1, "explanation": "Lord Lugard amalgamated the protectorates in 1914, laying groundwork for later federal structure."},
+        {"q": "A key feature of federalism is:", "opts": ["Concentration of all powers centrally", "Constitutional division of powers between tiers", "Elimination of state governments", "Military control of all levels"], "ans": 1, "explanation": "Federalism constitutionally shares powers between central and component units."},
+        {"q": "Which constitutional conference significantly advanced Nigerian federalism?", "opts": ["Berlin Conference (1884)", "London Constitutional Conference (1953)", "Paris Peace Conference (1919)", "Yalta Conference (1945)"], "ans": 1, "explanation": "The 1953 London Conference addressed regional autonomy and revenue allocation, strengthening federal principles."},
+        {"q": "Federalism helps prevent domination by:", "opts": ["Eliminating elections", "Sharing power among diverse groups", "Centralizing all decisions", "Appointing military governors"], "ans": 1, "explanation": "Power-sharing ensures no single ethnic or regional group can monopolize national authority."},
+        {"q": "The principle of 'unity in diversity' in Nigerian federalism emphasizes:", "opts": ["Forced assimilation of cultures", "Respecting differences while maintaining national cohesion", "Eliminating ethnic identities", "Centralizing cultural policies"], "ans": 1, "explanation": "Federalism allows regions to preserve cultural identities while participating in a united nation."},
+        {"q": "A challenge to Nigeria's federal emergence was:", "opts": ["Excessive regional cooperation", "Ethnic mistrust and competition for resources", "Complete financial autonomy for regions", "Overqualified civil servants"], "ans": 1, "explanation": "Historical ethnic tensions and resource competition complicated federal negotiations."},
+        {"q": "Understanding federalism's emergence helps citizens:", "opts": ["Support military coups", "Appreciate power-sharing and demand constitutional compliance", "Ignore regional issues", "Reject all state institutions"], "ans": 1, "explanation": "Historical knowledge enables informed civic participation and accountability in federal governance."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w1_su2",
+      "title": "1.2 Factors Necessitating Federalism & Colonial Conferences",
+      "notes": [
+        "Key factors necessitating federalism in Nigeria: ethnic diversity (250+ ethnic groups), geographical size, religious differences (Islam/Christianity/traditional), economic disparities, and colonial administrative legacy.",
+        "Colonial conferences shaped federalism: Richards (1946) introduced regional councils; Macpherson (1951) established central legislature with regional representation; Lyttleton (1954) created true federal structure with exclusive/concurrent legislative lists.",
+        "The 1957 and 1958 constitutional conferences addressed self-government, minority protections, and revenue allocation—critical for federal stability.",
+        "Minority fears of domination led to creation of minority commissions (Willink Commission 1957) and eventual state creation to balance power.",
+        "Federalism remains dynamic: post-independence state creations (1963, 1967, 1976, 1991, 1996) reflect ongoing adjustments to diversity and development needs."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Factors necessitating federalism Nigeria colonial conferences site:youtube.com",
+      "quiz": [
+        {"q": "A major factor necessitating federalism in Nigeria is:", "opts": ["Ethnic homogeneity", "Ethnic diversity with over 250 groups", "Small geographical size", "Uniform religious beliefs"], "ans": 1, "explanation": "Nigeria's vast ethnic diversity required a power-sharing system to prevent domination and conflict."},
+        {"q": "The Richards Constitution (1946) contributed to federalism by:", "opts": ["Abolishing regions", "Introducing regional councils and limited central representation", "Establishing direct elections nationwide", "Eliminating traditional rulers"], "ans": 1, "explanation": "Richards introduced regionalism, a precursor to full federalism, by creating three regional councils."},
+        {"q": "The Lyttleton Constitution (1954) is significant because it:", "opts": ["Ended colonial rule", "Established Nigeria's first true federal structure with legislative lists", "Created a unitary system", "Abolished the judiciary"], "ans": 1, "explanation": "Lyttleton defined exclusive and concurrent legislative powers, formalizing federal division of authority."},
+        {"q": "The Willink Commission (1957) was established to:", "opts": ["Plan military coups", "Address minority fears and recommend protections", "Abolish regional governments", "Centralize all revenue"], "ans": 1, "explanation": "The commission investigated minority concerns and recommended constitutional safeguards against domination."},
+        {"q": "Religious diversity in Nigeria influenced federalism by:", "opts": ["Eliminating all religious practices", "Requiring power-sharing to accommodate Muslim, Christian, and traditional beliefs", "Establishing a state religion", "Banning religious education"], "ans": 1, "explanation": "Federalism allows regions to manage local religious affairs while maintaining national unity."},
+        {"q": "Economic disparities between regions necessitated federalism to:", "opts": ["Centralize all wealth in one region", "Allow regions to develop at their own pace while sharing national resources", "Eliminate all regional economies", "Ban inter-regional trade"], "ans": 1, "explanation": "Federal revenue allocation formulas aim to balance development across economically diverse regions."},
+        {"q": "The 1958 constitutional conference focused on:", "opts": ["Military training", "Self-government timelines, minority rights, and revenue allocation", "Abolishing elections", "Centralizing foreign policy"], "ans": 1, "explanation": "This conference prepared Nigeria for independence by resolving key federal issues like resource sharing."},
+        {"q": "State creation in Nigeria (1963–1996) reflects federalism's:", "opts": ["Rigidity", "Adaptability to changing demographic and political realities", "Failure", "Elimination of diversity"], "ans": 1, "explanation": "Creating new states addressed minority concerns and balanced power, demonstrating federalism's flexibility."},
+        {"q": "A colonial legacy supporting Nigerian federalism is:", "opts": ["Direct British rule", "Indirect rule through regional administrations", "Complete centralization", "Elimination of traditional institutions"], "ans": 1, "explanation": "Indirect rule preserved regional structures, making federal power-sharing a natural post-independence evolution."},
+        {"q": "Understanding colonial conferences helps citizens:", "opts": ["Reject all historical lessons", "Appreciate constitutional evolution and demand inclusive governance", "Support military intervention", "Ignore minority rights"], "ans": 1, "explanation": "Historical awareness enables citizens to advocate for equitable federal arrangements and constitutional compliance."}
+      ]
+    }
+  ]
+}

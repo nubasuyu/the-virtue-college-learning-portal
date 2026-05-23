@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Development of Political Parties in Nigeria (Part I)",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w6_su1",
+      "title": "6.1 Origin & Structure of Early Political Parties (NNDP, NYM, NCNC)",
+      "notes": [
+        "Nigerian National Democratic Party (NNDP, 1923): Founded by Herbert Macaulay, Nigeria's first political party, focused on Lagos municipal elections, advocated for African representation in legislative council.",
+        "Nigerian Youth Movement (NYM, 1936): Initially a nationalist umbrella group, later evolved into a political force; prominent members included Azikiwe, Awolowo, and Akintola; aimed at Nigerian unity but collapsed in 1941 due to internal ethnic tensions.",
+        "National Council of Nigeria and the Cameroons (NCNC, 1944): Co-founded by Nnamdi Azikiwe and Herbert Macaulay; mass-based, pan-Nigerian initially, later became Eastern regional party; advocated self-government, federalism, and social reforms.",
+        "Structural features: Early parties relied on elite leadership, voluntary contributions, newspaper propaganda, and grassroots mobilization through town unions and cultural associations.",
+        "These parties laid the foundation for Nigeria's nationalist struggle, constitutional conferences, and transition to independence."
+      ],
+      "videoId": "",
+      "youtubeQuery": "NNDP NYM NCNC origin structure Nigeria political parties site:youtube.com",
+      "quiz": [
+        {"q": "The first political party in Nigeria was:", "opts": ["NCNC", "NYM", "NNDP", "Action Group"], "ans": 2, "explanation": "The Nigerian National Democratic Party (NNDP) was founded by Herbert Macaulay in 1923."},
+        {"q": "The primary objective of the NNDP was to:", "opts": ["Demand immediate independence", "Secure African representation in the Lagos Legislative Council", "Establish a military government", "Abolish traditional rulership"], "ans": 1, "explanation": "NNDP focused on contesting municipal elections and advocating for African political participation under colonial rule."},
+        {"q": "The Nigerian Youth Movement (NYM) collapsed in 1941 primarily due to:", "opts": ["Foreign intervention", "Internal ethnic tensions and leadership rivalry", "Military coups", "Lack of funding"], "ans": 1, "explanation": "Ethnic divisions between Yoruba and Igbo leadership factions led to its dissolution."},
+        {"q": "The NCNC was co-founded by:", "opts": ["Obafemi Awolowo and Ahmadu Bello", "Nnamdi Azikiwe and Herbert Macaulay", "Aminu Kano and Tafawa Balewa", "Ernest Ikoli and Herbert Macaulay"], "ans": 1, "explanation": "Azikiwe and Macaulay established the NCNC in 1944 as a pan-Nigerian nationalist platform."},
+        {"q": "A key structural feature of early Nigerian political parties was:", "opts": ["Military funding", "Reliance on elite leadership, newspapers, and cultural associations for mobilization", "Foreign party control", "Abolition of local branches"], "ans": 1, "explanation": "Early parties used print media, town unions, and intellectual networks to build grassroots support."},
+        {"q": "The NCNC initially advocated for:", "opts": ["Regional secession", "Self-government, federalism, and social reforms across Nigeria", "Military dictatorship", "Elimination of traditional institutions"], "ans": 1, "explanation": "The party promoted constitutional advancement, democratic representation, and equitable development."},
+        {"q": "Which organization served as a precursor to the NYM?", "opts": ["Nigerian Union of Teachers", "Lagos Youth Movement", "Nigerian Civil Service Union", "Northern People's Congress"], "ans": 1, "explanation": "The Lagos Youth Movement evolved into the broader Nigerian Youth Movement in 1936."},
+        {"q": "Early political parties financed their activities through:", "opts": ["Foreign aid only", "Membership dues, donations, newspaper sales, and public rallies", "Military grants", "State budget allocations"], "ans": 1, "explanation": "Parties relied on grassroots contributions, press revenue, and fundraising events to sustain operations."},
+        {"q": "The NYM's collapse demonstrated that:", "opts": ["Ethnic homogeneity strengthens political movements", "Lack of inclusive leadership can fracture nationalist movements", "Military intervention is inevitable", "Newspapers are ineffective for mobilization"], "ans": 1, "explanation": "Internal ethnic rivalries highlighted the need for inclusive, cross-regional leadership in Nigerian politics."},
+        {"q": "Understanding early party development helps citizens:", "opts": ["Reject democratic processes", "Appreciate historical foundations of Nigerian nationalism and democratic evolution", "Support one-party rule", "Ignore constitutional history"], "ans": 1, "explanation": "Historical awareness enables informed civic participation and critical evaluation of modern political systems."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w6_su2",
+      "title": "6.2 Electoral Performance & Challenges of Early Parties",
+      "notes": [
+        "NNDP won 3 of 4 elected Lagos seats in 1923, 1928, and 1933, demonstrating early African political mobilization under limited colonial franchise.",
+        "NYM contested 1938 legislative council elections, winning 8 seats, but internal crises weakened its national influence before independence.",
+        "NCNC dominated Eastern Region politics in 1951 and 1954 elections, leveraging mass membership, trade union alliances, and anti-colonial rhetoric.",
+        "Key challenges: limited franchise (property/education qualifications), colonial restrictions on party activities, ethnic polarization, funding constraints, and lack of national cohesion.",
+        "Despite limitations, these parties successfully pressured constitutional reforms, laid groundwork for regionalism, and trained Nigeria's first generation of democratic leaders."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Early Nigerian political parties electoral performance challenges site:youtube.com",
+      "quiz": [
+        {"q": "The NNDP's electoral success in the 1920s demonstrated:", "opts": ["Complete colonial acceptance of African rule", "Effective grassroots mobilization despite limited franchise", "Military dominance in politics", "Abolition of traditional councils"], "ans": 1, "explanation": "NNDP secured legislative seats by organizing urban elites and leveraging colonial electoral rules."},
+        {"q": "A major limitation of early party elections was:", "opts": ["Universal suffrage", "Property and education qualifications restricting voter participation", "Complete party funding transparency", "Elimination of ethnic voting"], "ans": 1, "explanation": "Colonial franchise laws excluded most Nigerians, limiting democratic representation."},
+        {"q": "The NCNC's dominance in the Eastern Region was strengthened by:", "opts": ["Military intervention", "Mass membership, trade union alliances, and anti-colonial advocacy", "Foreign funding", "Abolition of regional governments"], "ans": 1, "explanation": "NCNC built a broad coalition of workers, intellectuals, and community leaders to secure electoral victories."},
+        {"q": "Colonial restrictions on political parties included:", "opts": ["Unlimited funding", "Surveillance, press censorship, and bans on radical activities", "Complete autonomy", "Guaranteed electoral victories"], "ans": 1, "explanation": "Colonial authorities monitored parties, restricted radical rhetoric, and controlled electoral timelines."},
+        {"q": "Ethnic polarization in early parties led to:", "opts": ["National unity", "Regional party dominance and fragmentation of nationalist movements", "Elimination of political campaigns", "Centralized federal government"], "ans": 1, "explanation": "Parties increasingly aligned with ethnic regions, weakening pan-Nigerian unity and fostering regional competition."},
+        {"q": "Funding constraints affected early parties by:", "opts": ["Increasing transparency", "Limiting nationwide campaigns and reliance on voluntary contributions", "Guaranteeing foreign investment", "Eliminating grassroots mobilization"], "ans": 1, "explanation": "Limited resources restricted outreach, forcing parties to rely on local networks and print media."},
+        {"q": "Despite challenges, early parties contributed to:", "opts": ["Colonial permanence", "Constitutional reforms, nationalist agitation, and democratic transition", "Military dictatorship", "Abolition of local governments"], "ans": 1, "explanation": "Parties pressured constitutional conferences, trained leaders, and laid foundations for self-government."},
+        {"q": "The 1951 Macpherson Constitution elections highlighted:", "opts": ["Complete party consensus", "Intense regional competition and ethnic voting patterns", "Elimination of political parties", "Centralized national campaigns"], "ans": 1, "explanation": "Elections revealed growing regionalism, with parties mobilizing along ethnic and geographical lines."},
+        {"q": "A lesson from early party challenges is:", "opts": ["Ethnic politics guarantees stability", "Inclusive leadership and broad-based funding are essential for national parties", "Military oversight improves democracy", "Newspapers are unnecessary for campaigns"], "ans": 1, "explanation": "Sustainable political parties require cross-ethnic appeal, transparent financing, and institutional capacity."},
+        {"q": "Citizens can learn from early party history by:", "opts": ["Ignoring electoral processes", "Valuing inclusive platforms, civic participation, and constitutional advocacy", "Supporting regional secession", "Rejecting democratic reforms"], "ans": 1, "explanation": "Historical awareness promotes informed voting, party accountability, and commitment to national unity."}
+      ]
+    }
+  ]
+}

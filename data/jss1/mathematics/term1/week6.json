@@ -1,0 +1,40 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Factors and Multiples",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w6_su1",
+      "title": "6.1 Prime Numbers & Prime Factorization",
+      "notes": [
+        "A prime number has exactly two factors: 1 and itself (e.g., 2, 3, 5, 7, 11, 13).",
+        "Composite numbers have more than two factors. 1 is neither prime nor composite.",
+        "Prime factorization breaks a number into a product of prime numbers using factor trees or repeated division.",
+        "Example: 12 = 2 × 2 × 3 = 2² × 3. 30 = 2 × 3 × 5."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "Which of these is a prime number?", "opts": ["9", "15", "17", "21"], "ans": 2, "explanation": "17 is only divisible by 1 and 17." },
+        { "q": "Prime factors of 18 are:", "opts": ["2 × 9", "3 × 6", "2 × 3 × 3", "2 × 2 × 5"], "ans": 2, "explanation": "18 ÷ 2 = 9 → 9 ÷ 3 = 3 → 2 × 3 × 3" },
+        { "q": "Why is 1 not a prime number?", "opts": ["It is even", "It has only one factor", "It is odd", "It is divisible by 2"], "ans": 1, "explanation": "Prime numbers must have exactly two distinct factors. 1 only has one." }
+      ]
+    },
+    {
+      "id": "jss1_t1_w6_su2",
+      "title": "6.2 HCF & LCM",
+      "notes": [
+        "HCF (Highest Common Factor) is the largest number that divides two or more numbers exactly.",
+        "LCM (Lowest Common Multiple) is the smallest number that is a multiple of two or more numbers.",
+        "Find HCF by listing factors or using prime factorization (multiply common primes).",
+        "Find LCM by listing multiples or using prime factorization (multiply all primes at highest power)."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "HCF of 12 and 18 is:", "opts": ["2", "3", "6", "36"], "ans": 2, "explanation": "Factors of 12: 1,2,3,4,6,12. Factors of 18: 1,2,3,6,9,18. Highest common = 6." },
+        { "q": "LCM of 4 and 6 is:", "opts": ["2", "12", "24", "18"], "ans": 1, "explanation": "Multiples of 4: 4,8,12... Multiples of 6: 6,12... Lowest common = 12." },
+        { "q": "Which method finds HCF using prime factors?", "opts": ["Add all primes", "Multiply common primes", "Subtract smallest from largest", "Divide all numbers by 2"], "ans": 1, "explanation": "HCF = product of the lowest power of common prime factors." }
+      ]
+    }
+  ]
+}

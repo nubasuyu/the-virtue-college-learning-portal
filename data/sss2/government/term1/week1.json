@@ -1,0 +1,58 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Civil Service",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w1_su1",
+      "title": "1.1 Meaning and Characteristics of Civil Service",
+      "notes": [
+        "The civil service is the permanent, professional body of officials who implement government policies and administer public affairs.",
+        "It is distinct from political office holders who are elected or appointed temporarily and change with regimes.",
+        "Key characteristics: Permanence (civil servants retain positions across regime changes), Neutrality (serve any government impartially), Anonymity (officials advise but ministers take public responsibility), Hierarchy (structured ranks from junior to senior), Merit-based recruitment (hiring based on qualifications, not connections).",
+        "In Nigeria, the civil service operates at federal, state, and local government levels, staffed by career professionals.",
+        "The civil service ensures continuity of governance, institutional memory, and technical expertise regardless of political transitions."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Civil service meaning characteristics Nigeria SSS2 Government site:youtube.com",
+      "quiz": [
+        {"q": "The civil service is best described as:", "opts": ["Elected political leaders", "Permanent professional officials who implement policies", "Military officers", "Traditional rulers"], "ans": 1, "explanation": "Civil servants are permanent, professional officials who implement government policies, distinct from elected politicians."},
+        {"q": "Which is NOT a characteristic of civil service?", "opts": ["Permanence", "Neutrality", "Partisanship", "Merit-based recruitment"], "ans": 2, "explanation": "Civil servants must be neutral and serve any government impartially. Partisanship (political bias) contradicts this principle."},
+        {"q": "Anonymity in civil service means:", "opts": ["Civil servants hide their identities", "Civil servants advise but ministers take public responsibility", "Civil servants work in secret", "Civil servants are not paid"], "ans": 1, "explanation": "Anonymity means civil servants provide expert advice, but elected ministers take public credit or blame for decisions."},
+        {"q": "Permanence in civil service ensures:", "opts": ["Political instability", "Continuity of governance across regime changes", "Frequent staff turnover", "Elimination of institutional memory"], "ans": 1, "explanation": "Permanent staff maintain institutional knowledge and ensure smooth transitions between governments."},
+        {"q": "Merit-based recruitment in civil service means:", "opts": ["Hiring based on political connections", "Hiring based on qualifications and competitive exams", "Hiring based on ethnicity", "Hiring based on age"], "ans": 1, "explanation": "Merit recruitment ensures competent, qualified professionals are hired through fair, transparent processes."},
+        {"q": "In Nigeria, the civil service operates at how many levels?", "opts": ["One", "Two", "Three", "Four"], "ans": 2, "explanation": "Nigeria has federal, state, and local government civil services, each with distinct functions and structures."},
+        {"q": "Hierarchy in civil service refers to:", "opts": ["Equal ranking of all staff", "Structured ranks from junior to senior with clear reporting lines", "Random assignment of duties", "Elimination of supervision"], "ans": 1, "explanation": "Hierarchical structure ensures clear authority, accountability, and career progression pathways."},
+        {"q": "Neutrality in civil service requires that officials:", "opts": ["Support only one political party", "Serve any government impartially without political bias", "Campaign for politicians", "Ignore government policies"], "ans": 1, "explanation": "Neutrality ensures civil servants implement policies professionally regardless of the ruling party."},
+        {"q": "The civil service differs from political office holders because:", "opts": ["Civil servants are elected", "Civil servants are permanent; politicians are temporary", "Civil servants set national policy", "Civil servants command the military"], "ans": 1, "explanation": "Civil servants provide continuity; politicians provide direction and are subject to electoral change."},
+        {"q": "A key function of civil service characteristics is to:", "opts": ["Promote political instability", "Ensure efficient, impartial, and continuous public administration", "Eliminate public accountability", "Centralize all power in one person"], "ans": 1, "explanation": "Characteristics like permanence, neutrality, and merit ensure effective, trustworthy public service delivery."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w1_su2",
+      "title": "1.2 Functions and Control of Civil Service",
+      "notes": [
+        "Functions of civil service: Policy implementation (executing laws and programs), Advisory role (providing expert advice to ministers), Revenue collection (taxes, customs), Service delivery (education, health, infrastructure), Record keeping (maintaining government documents).",
+        "Control mechanisms: Political control (ministers oversee departments), Financial control (budget approval, auditing by Auditor-General), Legislative control (parliamentary committees, Public Accounts Committee), Judicial control (courts can review administrative actions), Public scrutiny (media, civil society, citizen complaints).",
+        "Problems facing Nigerian civil service: Corruption, inefficiency, politicization, inadequate training, poor remuneration, bureaucratic delays, ghost workers, and weak enforcement of ethics codes.",
+        "Reforms: Public service reforms, e-governance, performance management, anti-corruption agencies (EFCC, ICPC), and capacity building programs.",
+        "Citizen engagement: Reporting inefficiency, participating in public consultations, demanding accountability through FOI Act, and civic education."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Civil service functions control Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A key function of civil service is:", "opts": ["Making laws", "Implementing government policies", "Electing leaders", "Judging court cases"], "ans": 1, "explanation": "Civil servants implement policies and laws passed by the legislature and directed by the executive."},
+        {"q": "Legislative control of civil service includes:", "opts": ["Appointing ministers", "Parliamentary committees and public accounts oversight", "Hiring civil servants", "Building roads"], "ans": 1, "explanation": "Parliament exercises control through committees that investigate ministries and the Public Accounts Committee that audits spending."},
+        {"q": "A problem facing Nigerian civil service is:", "opts": ["Excessive efficiency", "Corruption and bureaucratic delays", "Too much funding", "Overqualified staff"], "ans": 1, "explanation": "Corruption, inefficiency, and bureaucratic red tape are persistent challenges in Nigeria's civil service."},
+        {"q": "Financial control of civil service is exercised by:", "opts": ["Traditional rulers", "Auditor-General and legislative committees", "Political parties", "Foreign donors"], "ans": 1, "explanation": "The Auditor-General audits expenditures, and legislative committees review financial reports for accountability."},
+        {"q": "Judicial control of civil service ensures:", "opts": ["Political interference", "Legality of actions and protection of citizens' rights", "Elimination of all oversight", "Unrestricted corporate autonomy"], "ans": 1, "explanation": "Courts review decisions for constitutionality, statutory compliance, and fairness to the public."},
+        {"q": "Public scrutiny of civil service is enhanced by:", "opts": ["State censorship", "Free media, civil society, and FOI requests", "Military oversight", "Elimination of opposition parties"], "ans": 1, "explanation": "Transparency tools like FOI Act and independent media enable citizens to monitor government performance."},
+        {"q": "A reform to improve civil service efficiency is:", "opts": ["Increasing political appointments", "E-governance and performance-based contracts", "Eliminating all audits", "Centralizing all decisions"], "ans": 1, "explanation": "Digital systems and merit-based performance management reduce delays and promote accountability."},
+        {"q": "Politicization of civil service undermines:", "opts": ["Political stability", "Professional neutrality and merit-based administration", "Military control", "Traditional authority"], "ans": 1, "explanation": "When appointments are based on loyalty rather than competence, service quality and impartiality suffer."},
+        {"q": "Citizens can hold civil service accountable through:", "opts": ["Ignoring service delivery", "FOI requests, petitions, and civic advocacy", "Supporting corruption", "Avoiding elections"], "ans": 1, "explanation": "Informed citizens use legal and democratic tools to demand transparency and responsive governance."},
+        {"q": "Sustainable civil service reform requires:", "opts": ["Short-term political fixes", "Institutional strengthening, ethical leadership, and citizen oversight", "Military intervention", "Abolition of legislative control"], "ans": 1, "explanation": "Long-term improvement depends on strong institutions, ethical culture, and continuous public engagement."}
+      ]
+    }
+  ]
+}

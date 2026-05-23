@@ -1,0 +1,58 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Public Corporations",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w4_su1",
+      "title": "4.1 Meaning and Reasons for Establishing Public Corporations",
+      "notes": [
+        "Public corporations (also called parastatals or state-owned enterprises) are government-owned businesses established to provide essential services or drive economic development.",
+        "Legal status: Created by Acts of Parliament/Assembly, have separate legal identity, can sue and be sued, own property.",
+        "Reasons for establishment: Provide essential services that private sector may neglect (e.g., water, electricity), Promote strategic industries (e.g., NNPC in oil), Generate revenue for government, Create employment, Achieve social objectives (affordable housing, healthcare).",
+        "Examples in Nigeria: NNPC (oil), NPA (ports), NITEL (telecoms, now privatized), FRCN (broadcasting), State Water Boards, Power Holding Company (PHCN, now unbundled).",
+        "Funding: Government subventions, internally generated revenue, loans, grants, and public-private partnerships."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Public corporations meaning Nigeria SSS2 Government site:youtube.com",
+      "quiz": [
+        {"q": "Public corporations are best described as:", "opts": ["Private businesses", "Government-owned businesses providing essential services", "International NGOs", "Traditional institutions"], "ans": 1, "explanation": "Public corporations are state-owned enterprises established to provide essential services or drive development."},
+        {"q": "A reason for establishing public corporations is to:", "opts": ["Maximize private profit", "Provide services the private sector may neglect", "Avoid government regulation", "Reduce employment"], "ans": 1, "explanation": "Governments create public corporations to ensure essential services (water, power, transport) reach citizens even if not highly profitable."},
+        {"q": "An example of a Nigerian public corporation is:", "opts": ["Dangote Cement", "NNPC", "MTN Nigeria", "Shoprite"], "ans": 1, "explanation": "NNPC (Nigerian National Petroleum Corporation) is a state-owned enterprise in the oil sector."},
+        {"q": "Public corporations have separate legal identity, which means they can:", "opts": ["Only operate under direct government control", "Sue and be sued, own property, and enter contracts independently", "Ignore all laws", "Avoid all taxation"], "ans": 1, "explanation": "Separate legal personality allows corporations to operate with some autonomy while remaining state-owned."},
+        {"q": "Public corporations are typically established by:", "opts": ["Presidential decree only", "Acts of Parliament or State Assembly", "Traditional rulers", "International treaties"], "ans": 1, "explanation": "Legislative Acts define the mandate, structure, and powers of public corporations."},
+        {"q": "A social objective of public corporations is to:", "opts": ["Maximize shareholder dividends", "Provide affordable services to vulnerable groups", "Eliminate all competition", "Centralize all profits"], "ans": 1, "explanation": "Public corporations balance commercial viability with public welfare goals like accessibility and affordability."},
+        {"q": "Funding sources for public corporations include:", "opts": ["Only government grants", "Subventions, internally generated revenue, loans, and partnerships", "Only foreign aid", "Only private donations"], "ans": 1, "explanation": "Diversified funding ensures sustainability while maintaining public service mandates."},
+        {"q": "Public corporations differ from civil service because they:", "opts": ["Have no legal backing", "Operate with commercial autonomy and independent budgets", "Are exempt from all government oversight", "Do not provide public services"], "ans": 1, "explanation": "Corporations enjoy operational flexibility, revenue retention, and corporate hiring practices unlike rigid civil service rules."},
+        {"q": "A strategic reason for public corporations is to:", "opts": ["Eliminate private enterprise", "Control key sectors like oil, power, and transport for national development", "Avoid all regulation", "Centralize all wealth"], "ans": 1, "explanation": "State ownership of strategic industries ensures national control over critical resources and infrastructure."},
+        {"q": "Effective public corporation governance requires:", "opts": ["Secrecy in operations", "Transparent management, accountability mechanisms, and public oversight", "Political interference in daily operations", "Elimination of all audits"], "ans": 1, "explanation": "Balance between operational autonomy and public accountability ensures efficient, trustworthy service delivery."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w4_su2",
+      "title": "4.2 Functions and Challenges of Public Corporations",
+      "notes": [
+        "Functions: Service delivery (electricity, water, transport), Economic development (industrial projects, job creation), Revenue generation (profits remitted to government), Social welfare (subsidized services for vulnerable groups), Strategic control (managing national resources like oil).",
+        "Challenges in Nigeria: Corruption and mismanagement, Political interference in operations, Inadequate funding and maintenance, Bureaucratic inefficiency, Poor customer service, Difficulty balancing commercial and social objectives.",
+        "Reform efforts: Commercialization (operate like businesses while government retains ownership), Privatization (sell to private investors), Deregulation (remove government monopolies to encourage competition).",
+        "Citizen role: Demand accountability through FOI requests, report service failures, participate in public hearings on reforms.",
+        "Critical thinking: When should government run businesses vs. regulate private providers?"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Public corporations challenges reforms Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A key function of public corporations is:", "opts": ["Campaigning for politicians", "Delivering essential services like water and power", "Judging legal cases", "Printing currency"], "ans": 1, "explanation": "Public corporations exist to provide essential services and drive development, not political or judicial functions."},
+        {"q": "A major challenge facing Nigerian public corporations is:", "opts": ["Excessive profits", "Political interference and corruption", "Too many customers", "Overqualified staff"], "ans": 1, "explanation": "Political meddling, corruption, and inefficiency have undermined many Nigerian parastatals."},
+        {"q": "Commercialization of public corporations means:", "opts": ["Selling them to foreigners", "Making them operate like businesses while government retains ownership", "Closing them down", "Giving them to staff"], "ans": 1, "explanation": "Commercialization aims to improve efficiency by making parastatals operate on business principles while remaining state-owned."},
+        {"q": "Privatization differs from commercialization because it:", "opts": ["Retains government ownership", "Transfers ownership to private investors", "Eliminates all regulation", "Increases government subsidies"], "ans": 1, "explanation": "Privatization changes ownership; commercialization reforms operations while keeping state control."},
+        {"q": "Deregulation of public corporations aims to:", "opts": ["Increase government control", "Introduce competition and reduce state monopolies", "Eliminate all private investment", "Centralize all decisions"], "ans": 1, "explanation": "Removing monopolies encourages efficiency, innovation, and consumer choice through market competition."},
+        {"q": "A reform to improve public corporation performance is:", "opts": ["Increasing political appointments", "Performance-based contracts and independent regulation", "Eliminating all audits", "Centralizing all decisions"], "ans": 1, "explanation": "Merit-based management and regulatory oversight promote accountability and service quality."},
+        {"q": "Citizens can hold public corporations accountable by:", "opts": ["Ignoring service failures", "FOI requests, reporting misconduct, and participating in reforms", "Supporting corruption", "Avoiding public services"], "ans": 1, "explanation": "Active citizenship ensures corporations remain responsive to public needs and constitutional mandates."},
+        {"q": "Balancing commercial and social objectives requires:", "opts": ["Complete deregulation", "Targeted subsidies, universal service obligations, and transparent pricing", "Elimination of all regulation", "Political price fixing"], "ans": 1, "explanation": "Hybrid models ensure economic viability while protecting vulnerable populations and national goals."},
+        {"q": "A positive outcome of successful public corporation reform is:", "opts": ["Increased political interference", "Improved service quality, efficiency, and public trust", "Elimination of all staff", "Centralized control"], "ans": 1, "explanation": "Well-managed reforms enhance service delivery, attract investment, and strengthen public confidence."},
+        {"q": "Sustainable public corporation governance depends on:", "opts": ["Short-term political fixes", "Institutional reforms, professional management, and citizen oversight", "Military intervention", "Abolition of legislative control"], "ans": 1, "explanation": "Long-term success requires structural reforms, ethical leadership, and continuous public engagement."}
+      ]
+    }
+  ]
+}

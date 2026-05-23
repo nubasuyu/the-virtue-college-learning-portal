@@ -1,0 +1,58 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Organs of Government (Executive)",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w11_su1",
+      "title": "11.1 Executive: Meaning and Types",
+      "notes": [
+        "The executive is the branch responsible for implementing laws, managing daily governance, and conducting national affairs.",
+        "Types: Presidential (President is both head of state and government, e.g., USA, Nigeria) and Parliamentary (Prime Minister heads government, monarch/president is ceremonial, e.g., UK, Canada).",
+        "Key functions: Policy implementation, national security, foreign diplomacy, budget execution, public service administration, and emergency management.",
+        "In Nigeria, the executive includes the President, Vice President, Ministers, Governors, Commissioners, and the civil service.",
+        "Executive legitimacy derives from constitutional mandate, electoral victory, and performance in delivering public goods."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Executive branch meaning types Nigeria SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "The primary role of the executive branch is to:", "opts": ["Make laws", "Implement and enforce laws", "Interpret laws", "Elect legislators"], "ans": 1, "explanation": "Executives translate legislative mandates into actionable policies and services."},
+        {"q": "In Nigeria's presidential system, the President serves as:", "opts": ["Only head of state", "Only head of government", "Both head of state and government", "Ceremonial figure only"], "ans": 2, "explanation": "Nigeria's President holds executive power and represents the nation symbolically."},
+        {"q": "Which country practices a parliamentary executive?", "opts": ["Nigeria", "United States", "United Kingdom", "Brazil"], "ans": 2, "explanation": "The UK Prime Minister leads government while the monarch remains ceremonial."},
+        {"q": "The civil service supports the executive by:", "opts": ["Campaigning for parties", "Providing administrative continuity and policy implementation", "Making constitutional amendments", "Judging legal disputes"], "ans": 1, "explanation": "Civil servants ensure governance continues smoothly across political transitions."},
+        {"q": "Foreign policy formulation is primarily the responsibility of:", "opts": ["The Legislature", "The Executive", "The Judiciary", "Traditional Rulers"], "ans": 1, "explanation": "Executives negotiate treaties, appoint ambassadors, and represent the state internationally."},
+        {"q": "Executive power in Nigeria is exercised at how many levels?", "opts": ["One", "Two", "Three", "Four"], "ans": 2, "explanation": "Federal (President), State (Governor), and Local (Chairman) executives operate constitutionally."},
+        {"q": "A key difference between presidential and parliamentary executives is:", "opts": ["Election method and separation of powers", "Military control", "Absence of budgets", "Judicial appointment power"], "ans": 0, "explanation": "Presidential executives are directly elected and separate from legislature; parliamentary emerge from it."},
+        {"q": "Emergency powers allow the executive to:", "opts": ["Suspend the constitution indefinitely", "Take swift action during crises while remaining constitutionally bounded", "Abolish state governments", "Ignore legislative oversight permanently"], "ans": 1, "explanation": "Constitutional emergency provisions enable rapid response but require legislative/judicial review."},
+        {"q": "Executive legitimacy is strengthened by:", "opts": ["Coup d'état", "Free elections, rule of law, and service delivery", "Censorship", "One-party rule"], "ans": 1, "explanation": "Democratic mandate and effective governance build public trust and constitutional authority."},
+        {"q": "The executive's budget execution function involves:", "opts": ["Approving the budget alone", "Allocating funds, implementing projects, and reporting expenditures", "Eliminating all taxes", "Controlling the judiciary"], "ans": 1, "explanation": "Executives manage public finances to deliver services while remaining accountable to parliament."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w11_su2",
+      "title": "11.2 Functions and Accountability of Executive",
+      "notes": [
+        "Core functions include law enforcement, economic management, national defense, public welfare delivery, and international representation.",
+        "Accountability mechanisms: Legislative oversight, judicial review, independent audit institutions, free press, civil society monitoring, and periodic elections.",
+        "Challenges in Nigeria: Corruption, executive-legislative conflicts, politicization of security agencies, bureaucratic inefficiency, and policy inconsistency.",
+        "Good governance requires transparency, merit-based appointments, adherence to constitutional limits, and responsiveness to citizen needs.",
+        "Citizen engagement through FOI requests, public hearings, and civic advocacy strengthens executive accountability and policy relevance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Executive accountability Nigeria government site:youtube.com",
+      "quiz": [
+        {"q": "A primary accountability mechanism for the executive is:", "opts": ["Military dictatorship", "Legislative oversight and judicial review", "State censorship", "One-party elections"], "ans": 1, "explanation": "Institutional checks ensure executives operate within constitutional and legal boundaries."},
+        {"q": "The Auditor-General contributes to executive accountability by:", "opts": ["Appointing ministers", "Auditing government expenditures and reporting to parliament", "Setting foreign policy", "Commanding the armed forces"], "ans": 1, "explanation": "Independent audits detect financial mismanagement and promote fiscal transparency."},
+        {"q": "A major challenge facing executive accountability in Nigeria is:", "opts": ["Excessive transparency", "Corruption and weak institutional enforcement", "Overqualified staff", "Too many elections"], "ans": 1, "explanation": "Impunity and inadequate oversight often undermine anti-corruption and governance reforms."},
+        {"q": "Good governance in the executive branch requires:", "opts": ["Secrecy and centralized control", "Transparency, rule of law, and citizen participation", "Elimination of civil service", "Military oversight of all policies"], "ans": 1, "explanation": "Ethical leadership and open processes build public trust and effective service delivery."},
+        {"q": "Citizens can hold executives accountable through:", "opts": ["Ignoring policy implementation", "FOI requests, public hearings, and electoral participation", "Supporting political interference", "Avoiding civic education"], "ans": 1, "explanation": "Informed citizens use legal and democratic tools to demand transparency and responsiveness."},
+        {"q": "Executive-legislative conflicts often arise from:", "opts": ["Clear constitutional boundaries", "Ambiguous powers, partisan rivalry, and budget disputes", "Complete separation of functions", "Judicial dominance"], "ans": 1, "explanation": "Overlapping mandates and political competition can stall governance without cooperative frameworks."},
+        {"q": "Independent anti-corruption agencies strengthen executive accountability by:", "opts": ["Replacing elected officials", "Investigating misconduct and enforcing legal consequences", "Controlling media narratives", "Eliminating all audits"], "ans": 1, "explanation": "Agencies like EFCC/ICPC deter financial crimes and promote ethical public service."},
+        {"q": "Merit-based executive appointments ensure:", "opts": ["Political loyalty over competence", "Qualified professionals manage public institutions", "Elimination of all diversity", "Centralized decision-making"], "ans": 1, "explanation": "Competent leadership improves policy implementation, reduces corruption, and enhances service delivery."},
+        {"q": "Executive transparency is measured by:", "opts": ["Secrecy in budgeting", "Public access to information, procurement records, and performance reports", "Elimination of media", "Centralized control of data"], "ans": 1, "explanation": "Open governance allows citizens and institutions to verify claims and track outcomes."},
+        {"q": "Sustainable executive accountability depends on:", "opts": ["Short-term political fixes", "Strong institutions, civic engagement, and constitutional compliance", "Military intervention", "Abolition of opposition parties"], "ans": 1, "explanation": "Long-term democracy requires ethical leadership, independent oversight, and active citizenship."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Problems of Nigerian Federalism",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w3_su1",
+      "title": "3.1 Revenue Allocation Formula in Nigeria",
+      "notes": [
+        "Revenue allocation is the distribution of national income (especially from oil) among federal, state, and local governments.",
+        "Historical formulas: Independence (1960) used derivation principle (50% to producing regions); Military regimes shifted to population/equality criteria; 1999 Constitution mandates 'principles of derivation, population, equality of states, internal revenue generation, and land mass'.",
+        "Current formula (FAAC): Federal Government 52.68%, States 26.72%, LGs 20.60%, plus 13% derivation to oil-producing states (Section 162, 1999 Constitution).",
+        "Controversies: Oil-producing states demand higher derivation (up to 50%); non-producing states emphasize equality and population; debates over transparency and corruption in distribution.",
+        "Impact: Inequitable allocation fuels inter-governmental tensions, underdevelopment in producing regions, and demands for resource control."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Revenue allocation formula Nigeria federalism site:youtube.com",
+      "quiz": [
+        {"q": "Revenue allocation in Nigeria refers to:", "opts": ["Distribution of taxes among citizens", "Sharing national income among federal, state, and local governments", "Eliminating all government revenue", "Centralizing all funds in Abuja"], "ans": 1, "explanation": "Revenue allocation distributes federally collected revenue across the three tiers of government."},
+        {"q": "The derivation principle in revenue allocation means:", "opts": ["All revenue goes to the federal government", "A percentage of revenue returns to the state where it was generated", "Revenue is shared equally among all states", "Revenue is allocated based on military strength"], "ans": 1, "explanation": "Derivation ensures producing regions receive a share of revenue from resources extracted in their territory."},
+        {"q": "The current FAAC allocation formula gives the Federal Government approximately:", "opts": ["20%", "26.72%", "52.68%", "100%"], "ans": 2, "explanation": "The federal tier receives the largest share to fund national responsibilities like defense and foreign policy."},
+        {"q": "Section 162 of the 1999 Constitution mandates revenue allocation based on:", "opts": ["Military discretion only", "Derivation, population, equality, internal revenue, and land mass", "Ethnic affiliation only", "Religious affiliation only"], "ans": 1, "explanation": "The constitution specifies multiple principles to balance equity, need, and contribution."},
+        {"q": "Oil-producing states demand higher derivation because:", "opts": ["They want to eliminate other states", "They bear environmental costs and seek fair compensation for resource extraction", "They oppose federalism", "They want to centralize all power"], "ans": 1, "explanation": "Producing regions argue they deserve greater share due to environmental degradation and resource contribution."},
+        {"q": "Non-producing states emphasize which allocation criteria?", "opts": ["Derivation only", "Equality of states and population", "Military strength", "Religious affiliation"], "ans": 1, "explanation": "Less-endowed states prioritize equality and population to ensure equitable development across Nigeria."},
+        {"q": "A controversy in revenue allocation is:", "opts": ["Complete transparency", "Lack of transparency and corruption in distribution", "Over-qualification of staff", "Excessive derivation for all states"], "ans": 1, "explanation": "Opacity and mismanagement of allocated funds fuel distrust and inter-governmental conflicts."},
+        {"q": "The 13% derivation to oil-producing states was introduced to:", "opts": ["Punish producing regions", "Address environmental degradation and promote development in the Niger Delta", "Eliminate all state governments", "Centralize oil revenue"], "ans": 1, "explanation": "The derivation clause aims to mitigate environmental harm and foster development in producing areas."},
+        {"q": "Inequitable revenue allocation can lead to:", "opts": ["National unity", "Inter-governmental tensions and demands for resource control", "Complete financial autonomy for all states", "Elimination of federal government"], "ans": 1, "explanation": "Perceived unfairness fuels agitation for restructuring, state police, and greater fiscal autonomy."},
+        {"q": "Understanding revenue allocation helps citizens:", "opts": ["Ignore fiscal policies", "Demand transparency, equity, and accountable use of public funds", "Support corruption", "Reject all government revenue"], "ans": 1, "explanation": "Civic awareness enables citizens to advocate for fair distribution and monitor government spending."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w3_su2",
+      "title": "3.2 Conflict Over Allocation Principles & Solutions",
+      "notes": [
+        "Key allocation principles in contention: Derivation (resource-producing states), Population (more people = more funds), Equality (equal share per state), Internal Revenue Generation (rewarding states that raise own revenue), Land Mass (geographical size).",
+        "Conflicts arise because principles favor different interests: derivation benefits oil states; population favors populous states like Lagos, Kano; equality benefits smaller states; land mass favors large northern states.",
+        "Historical tensions: 1960s Western Region crisis over census/population; 1990s Niger Delta agitation for higher derivation; ongoing debates over state police and fiscal federalism.",
+        "Proposed solutions: Constitutional review to clarify allocation principles; strengthening state internal revenue generation; transparent FAAC processes; equitable development projects; dialogue through National Assembly and stakeholder forums.",
+        "Citizen role: Demand accountability, participate in public hearings on revenue allocation, support equitable policies, and monitor fund utilization at all government levels."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Conflict over revenue allocation principles Nigeria solutions site:youtube.com",
+      "quiz": [
+        {"q": "The derivation principle primarily benefits:", "opts": ["All states equally", "States where natural resources are extracted", "Only the federal government", "Foreign investors"], "ans": 1, "explanation": "Derivation ensures producing regions receive a share of revenue from resources in their territory."},
+        {"q": "The population criterion in revenue allocation favors:", "opts": ["Smaller states", "More populous states like Lagos and Kano", "Only oil-producing states", "Military states"], "ans": 1, "explanation": "States with larger populations receive more funds to cater for greater service delivery needs."},
+        {"q": "The equality principle ensures:", "opts": ["All states receive identical shares regardless of size", "Each state gets an equal base allocation to promote balanced development", "Only federal government benefits", "Elimination of derivation"], "ans": 1, "explanation": "Equality guarantees every state a minimum share to support basic governance and development."},
+        {"q": "Internal Revenue Generation criterion rewards states that:", "opts": ["Depend solely on federal allocation", "Raise their own revenue through taxes and levies", "Eliminate all taxes", "Centralize all revenue"], "ans": 1, "explanation": "States that generate internal revenue receive incentives to promote fiscal responsibility and self-reliance."},
+        {"q": "Land Mass criterion benefits:", "opts": ["Small states only", "Geographically large states like Niger and Borno", "Only coastal states", "Only urban states"], "ans": 1, "explanation": "Larger states receive additional funds to cover infrastructure costs across wider territories."},
+        {"q": "A historical conflict over allocation principles was:", "opts": ["Complete agreement among all regions", "1960s census crisis and Western Region agitation over population-based allocation", "Elimination of all revenue sharing", "Centralization of all funds"], "ans": 1, "explanation": "Disputes over census figures and population-based allocation fueled regional tensions in the First Republic."},
+        {"q": "A proposed solution to allocation conflicts is:", "opts": ["Eliminating all principles", "Constitutional review to clarify and balance principles", "Centralizing all revenue in Abuja", "Abolishing state governments"], "ans": 1, "explanation": "Constitutional reforms can provide clearer, more equitable frameworks for revenue distribution."},
+        {"q": "Strengthening state internal revenue generation helps by:", "opts": ["Increasing dependence on federal allocation", "Reducing reliance on FAAC and promoting fiscal autonomy", "Eliminating all taxes", "Centralizing all economic activities"], "ans": 1, "explanation": "States that raise own revenue gain financial independence and reduce inter-governmental tensions."},
+        {"q": "Citizens can promote equitable revenue allocation by:", "opts": ["Ignoring fiscal policies", "Demanding transparency, participating in public hearings, and monitoring fund use", "Supporting corruption", "Rejecting all government revenue"], "ans": 1, "explanation": "Active civic engagement ensures accountability and equitable distribution of public resources."},
+        {"q": "Sustainable revenue allocation requires:", "opts": ["Short-term political fixes", "Transparent processes, balanced principles, and continuous stakeholder dialogue", "Military intervention", "Abolition of local governments"], "ans": 1, "explanation": "Long-term equity depends on clear rules, open processes, and inclusive negotiations among all tiers."}
+      ]
+    }
+  ]
+}

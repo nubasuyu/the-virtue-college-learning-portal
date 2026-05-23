@@ -1,0 +1,58 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Local Government Administration in Nigeria",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w10_su1",
+      "title": "10.1 Meaning & Reasons for Creation (Britain & France)",
+      "notes": [
+        "Local government is the lowest tier of public administration, designed to deliver grassroots services and bring governance closer to citizens.",
+        "Britain: Created to decentralize power, improve administrative efficiency, encourage citizen participation, and manage local services (health, sanitation, education).",
+        "France: Historically centralized; modern decentralization (1982 reforms) aimed to reduce Parisian dominance, empower communes, and improve local responsiveness.",
+        "Nigeria adopted local government to promote grassroots development, political socialization, cultural preservation, and equitable resource distribution.",
+        "Constitutional recognition: 1999 Constitution (Section 7) guarantees a system of democratically elected local governments."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Local government meaning Britain France Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Local government is best defined as:", "opts": ["The highest tier of national administration", "The lowest tier of public administration delivering grassroots services", "A private business entity", "A military command structure"], "ans": 1, "explanation": "Local governments manage community-level services and bring governance closer to citizens."},
+        {"q": "A primary reason for creating local government in Britain was to:", "opts": ["Centralize all power in London", "Decentralize administration and improve local service delivery", "Eliminate elected councils", "Increase military control"], "ans": 1, "explanation": "Decentralization enabled efficient management of local services and citizen participation."},
+        {"q": "French local government reforms (1982) aimed to:", "opts": ["Strengthen Parisian control", "Reduce centralization and empower communes", "Abolish local taxation", "Eliminate elected mayors"], "ans": 1, "explanation": "Reforms transferred powers from central prefects to locally elected councils."},
+        {"q": "In Nigeria, local government was constitutionally recognized to:", "opts": ["Replace state governments", "Promote grassroots development and democratic participation", "Centralize federal power", "Eliminate traditional institutions"], "ans": 1, "explanation": "Section 7 of the 1999 Constitution guarantees elected LGAs for local governance and development."},
+        {"q": "Local government encourages political socialization by:", "opts": ["Eliminating citizen engagement", "Providing a platform for grassroots participation and civic education", "Centralizing decision-making", "Avoiding local elections"], "ans": 1, "explanation": "Citizens learn democratic processes through local elections, council meetings, and community projects."},
+        {"q": "Which service is typically managed by local government?", "opts": ["Foreign policy", "Primary healthcare and waste management", "National defense", "Central banking"], "ans": 1, "explanation": "LGAs handle sanitation, primary education, local roads, markets, and basic health facilities."},
+        {"q": "A key difference between British and French local systems historically was:", "opts": ["Britain was decentralized; France was highly centralized", "France had elected mayors since 1800; Britain never had councils", "Both eliminated local taxation", "Britain abolished communes"], "ans": 0, "explanation": "Britain historically practiced local self-government; France maintained strong central control until recent reforms."},
+        {"q": "Local government promotes equitable development by:", "opts": ["Concentrating resources in cities", "Allocating funds to underserved rural and peri-urban communities", "Eliminating state oversight", "Centralizing all budgets"], "ans": 1, "explanation": "Grassroots administration ensures resources reach marginalized areas and local needs are prioritized."},
+        {"q": "Constitutional recognition of local government ensures:", "opts": ["State government dissolution", "Legal protection and guaranteed funding for LGAs", "Military appointment of chairmen", "Elimination of local elections"], "ans": 1, "explanation": "Constitutional status prevents arbitrary abolition and secures statutory allocations."},
+        {"q": "Citizen participation in local government is enhanced by:", "opts": ["Secrecy in council meetings", "Public hearings, community forums, and transparent budgeting", "Elimination of local elections", "Centralized appointment of officials"], "ans": 1, "explanation": "Open governance mechanisms empower residents to influence local policies and hold officials accountable."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w10_su2",
+      "title": "10.2 Functions & Systems of Local Government",
+      "notes": [
+        "Core functions: primary education, primary healthcare, sanitation, waste management, local road maintenance, market construction, tax collection, birth/death registration, and cultural preservation.",
+        "British system: Unitary authorities, district/parish councils, funded by council tax and grants; strong emphasis on local autonomy and accountability.",
+        "French system: Communes managed by elected mayors and councils; historically supervised by prefects; modern reforms grant financial and administrative autonomy.",
+        "Nigerian system: LGAs with chairmen, councillors, and supervisors; funded by statutory allocations, IGR, and grants; supervised by state governments.",
+        "Effective local administration requires financial autonomy, capacity building, transparent accounting, and citizen oversight."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Functions systems local government Britain France Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A core function of local government is:", "opts": ["Conducting foreign diplomacy", "Primary education and waste management", "Managing national defense", "Issuing passports"], "ans": 1, "explanation": "LGAs deliver grassroots services like basic education, sanitation, and local infrastructure."},
+        {"q": "British local governments are primarily funded by:", "opts": ["Military budgets", "Council tax and central government grants", "Foreign aid", "Traditional tributes"], "ans": 1, "explanation": "Council tax and grants provide sustainable financing for local service delivery."},
+        {"q": "In the French system, local communes are headed by:", "opts": ["Military commanders", "Elected mayors and municipal councils", "Federal governors", "Traditional kings"], "ans": 1, "explanation": "Mayors and councils manage communal affairs with increasing autonomy post-1982 reforms."},
+        {"q": "Nigerian local governments derive significant revenue from:", "opts": ["Foreign investments only", "Statutory allocations and internally generated revenue (IGR)", "Military grants", "International loans"], "ans": 1, "explanation": "FAAC allocations and local taxes/fees form the primary financial base for LGAs."},
+        {"q": "Local road maintenance is typically the responsibility of:", "opts": ["Federal Ministry of Works", "State and local governments", "International donors", "Private corporations only"], "ans": 1, "explanation": "LGAs manage feeder roads and local infrastructure while state/federal handle trunk roads."},
+        {"q": "A weakness in Nigerian local government administration is:", "opts": ["Excessive financial autonomy", "State government interference and funding delays", "Overqualified staff", "Too many elections"], "ans": 1, "explanation": "State control of LG accounts and political appointments often undermine grassroots autonomy."},
+        {"q": "Effective local government requires:", "opts": ["Centralized decision-making", "Financial autonomy, transparent accounting, and citizen oversight", "Military oversight", "Elimination of local councils"], "ans": 1, "explanation": "Autonomy and accountability ensure resources are used efficiently for community development."},
+        {"q": "Birth and death registration at the local level supports:", "opts": ["Foreign policy", "Population planning, legal documentation, and public health tracking", "Military recruitment", "Centralized taxation only"], "ans": 1, "explanation": "Vital records enable accurate census data, healthcare planning, and legal identity provision."},
+        {"q": "Comparing British and Nigerian local systems reveals that:", "opts": ["Both eliminate local taxation", "Britain has stronger financial autonomy; Nigeria faces state interference", "Both are fully centralized", "Nigeria has no elected councils"], "ans": 1, "explanation": "British councils operate with greater independence; Nigerian LGAs remain constitutionally subordinate to states."},
+        {"q": "Citizen engagement strengthens local government by:", "opts": ["Ignoring council meetings", "Participating in town halls, monitoring budgets, and reporting inefficiency", "Avoiding local elections", "Supporting political interference"], "ans": 1, "explanation": "Active citizenship ensures responsiveness, reduces corruption, and aligns services with community needs."}
+      ]
+    }
+  ]
+}

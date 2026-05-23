@@ -1,0 +1,89 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Basic Concepts Continued",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w4_su1",
+      "title": "4.1 Political Participation",
+      "notes": [
+        "Political participation refers to all activities by which citizens influence government decisions, policies, and leadership selection.",
+        "It is the practical expression of citizenship in a democracy, enabling people to voice interests and hold leaders accountable.",
+        "Forms of participation: Voting in elections, joining political parties, contesting for office, attending rallies, writing petitions, peaceful protests, joining interest groups, contacting representatives, and civic education.",
+        "Conventional participation: Voting, party membership, contacting officials. Unconventional: Protests, strikes, civil disobedience (when conventional channels fail).",
+        "Importance: Ensures government accountability, promotes democracy, protects citizens' rights, leads to better policies, and strengthens national unity.",
+        "Barriers in Nigeria: Poverty, illiteracy, apathy, intimidation, lack of information, electoral fraud, and weak civic education.",
+        "Enhancing participation: Civic education, voter education, transparent elections, protection of rights, and inclusive governance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Political participation forms SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Political participation means:", "opts": ["Only voting", "Activities by citizens to influence government", "Only protesting", "Only joining parties"], "ans": 1, "explanation": "Political participation includes all activities by which citizens influence government and politics."},
+        {"q": "Which is the MOST common form of political participation?", "opts": ["Contesting elections", "Voting", "Writing petitions", "Organizing protests"], "ans": 1, "explanation": "Voting in elections is the most common and basic form of political participation in democracies."},
+        {"q": "A barrier to political participation in Nigeria is:", "opts": ["Free education", "Poverty", "Good roads", "Internet access"], "ans": 1, "explanation": "Poverty, illiteracy, apathy, and electoral fraud are barriers that prevent citizens from participating effectively."},
+        {"q": "Conventional political participation includes:", "opts": ["Armed rebellion", "Voting and party membership", "Civil war", "Coup d'état"], "ans": 1, "explanation": "Conventional participation uses established democratic channels like voting, parties, and petitions."},
+        {"q": "Unconventional participation may involve:", "opts": ["Only voting", "Peaceful protests and civil disobedience", "Military intervention", "Ignoring elections"], "ans": 1, "explanation": "When conventional channels fail, citizens may resort to protests, strikes, or civil disobedience."},
+        {"q": "Political participation strengthens democracy by:", "opts": ["Reducing citizen engagement", "Ensuring accountability and responsive governance", "Concentrating power in few hands", "Eliminating opposition"], "ans": 1, "explanation": "Active participation holds leaders accountable and ensures policies reflect citizens' needs."},
+        {"q": "Joining an interest group is a form of participation because it:", "opts": ["Replaces elections", "Allows collective advocacy on specific issues", "Controls the judiciary", "Appoints government officials"], "ans": 1, "explanation": "Interest groups enable citizens to collectively influence policy on issues like labor, environment, or business."},
+        {"q": "Civic education enhances participation by:", "opts": ["Discouraging political interest", "Teaching rights, duties, and democratic processes", "Promoting one-party rule", "Limiting media access"], "ans": 1, "explanation": "Civic education empowers citizens with knowledge to engage effectively in democratic processes."},
+        {"q": "Electoral fraud undermines participation because it:", "opts": ["Encourages more voting", "Reduces trust in the electoral process and discourages engagement", "Strengthens democracy", "Increases transparency"], "ans": 1, "explanation": "Fraud erodes confidence in elections, leading to apathy and reduced citizen participation."},
+        {"q": "Contacting elected representatives is participation because it:", "opts": ["Replaces voting", "Allows citizens to voice concerns and influence policy", "Controls the military", "Appoints judges"], "ans": 1, "explanation": "Direct communication with representatives enables citizens to influence decisions between elections."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w4_su2",
+      "title": "4.2 Communalism",
+      "notes": [
+        "Communalism is a socio-political system where the community collectively owns resources, makes decisions, and prioritizes group welfare over individual interests.",
+        "It emphasizes cooperation, shared responsibility, mutual support, and consensus-based decision-making.",
+        "Key features: Collective ownership of land/resources, communal labor, shared decision-making through councils/elders, mutual aid, and priority of community welfare.",
+        "Historical examples: Traditional African societies practiced communalism through communal farming, age grades, village councils, and shared harvests.",
+        "Advantages: Promotes unity, reduces inequality, ensures social welfare, preserves culture, and fosters collective problem-solving.",
+        "Disadvantages: Can limit individual freedom, discourage innovation, lead to free-rider problems, and struggle with scalability in modern states.",
+        "Modern relevance: Communal values inform Nigerian concepts of family, community development, and social solidarity, though modern governance blends communalism with individual rights."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Communalism traditional African society site:youtube.com",
+      "quiz": [
+        {"q": "Communalism emphasizes:", "opts": ["Individual wealth", "Community ownership and cooperation", "Competition", "Private property only"], "ans": 1, "explanation": "Communalism emphasizes collective ownership, cooperation, and shared responsibilities for the common good."},
+        {"q": "An example of communalism in traditional Africa is:", "opts": ["Private business", "Communal farming", "Individual land ownership", "Capitalist markets"], "ans": 1, "explanation": "Communal farming, where villagers work together on farms and share harvests, is a classic example of communalism."},
+        {"q": "A disadvantage of communalism is:", "opts": ["Promotes unity", "Can limit individual freedom", "Reduces inequality", "Ensures social welfare"], "ans": 1, "explanation": "While communalism has benefits, it can limit individual freedom and discourage personal innovation."},
+        {"q": "Decision-making in communalism is typically:", "opts": ["By one dictator", "Through consensus and council of elders", "By random selection", "By foreign powers"], "ans": 1, "explanation": "Communal systems use consensus-building and elder councils to ensure inclusive, culturally appropriate decisions."},
+        {"q": "Communal labor refers to:", "opts": ["Paid employment only", "Community members working together for common projects", "Military conscription", "Foreign aid projects"], "ans": 1, "explanation": "Communal labor involves voluntary collective work for community projects like roads, schools, or farms."},
+        {"q": "Which value is central to communalism?", "opts": ["Individualism", "Mutual aid and solidarity", "Competition", "Privatization"], "ans": 1, "explanation": "Mutual aid—helping one another for collective benefit—is a core communal value."},
+        {"q": "In modern Nigeria, communalism influences:", "opts": ["Only rural areas", "Family support systems, community development, and social solidarity", "Only urban elites", "Military governance"], "ans": 1, "explanation": "Communal values persist in family networks, community associations, and social welfare practices."},
+        {"q": "A challenge of applying communalism in modern states is:", "opts": ["Too much individual freedom", "Difficulty scaling to large, diverse populations", "Excessive wealth", "Too much technology"], "ans": 1, "explanation": "Communal systems designed for small, homogeneous groups face challenges in complex, pluralistic modern states."},
+        {"q": "Communalism and democracy can be compatible when:", "opts": ["Communalism replaces elections", "Communal values of participation and consensus inform democratic practices", "Democracy eliminates all traditions", "Communalism centralizes all power"], "ans": 1, "explanation": "Communal emphasis on participation and consensus can strengthen democratic deliberation and inclusion."},
+        {"q": "The free-rider problem in communalism occurs when:", "opts": ["Everyone contributes equally", "Some benefit without contributing, undermining collective effort", "Resources are unlimited", "Leaders are always honest"], "ans": 1, "explanation": "Free-riders enjoy communal benefits without contributing, which can weaken motivation and sustainability."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w4_su3",
+      "title": "4.3 Feudalism",
+      "notes": [
+        "Feudalism is a hierarchical political and economic system based on land ownership, personal loyalty, and reciprocal obligations between lords and vassals.",
+        "It flourished in medieval Europe and had parallels in some pre-colonial African societies (e.g., Hausa-Fulani emirates).",
+        "Structure: Monarch/Emir (owns all land) → Lords/Nobles (receive land/fiefs in exchange for military service) → Vassals/Knights (serve lords) → Peasants/Serfs (work land for protection and subsistence).",
+        "Key features: Land-for-service exchange, hierarchical loyalty, decentralized power, limited social mobility, and mutual obligations.",
+        "Peasants/serfs were bound to the land, owed labor/rent to lords, and received protection and justice in return.",
+        "Decline: Feudalism weakened with rise of commerce, centralized monarchies, urbanization, and modern legal systems.",
+        "Modern relevance: Understanding feudalism helps analyze historical power structures and contrasts with modern democratic, rights-based governance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Feudalism system explained SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Feudalism is based on:", "opts": ["Democratic elections", "Land ownership and personal loyalty", "Free markets", "Industrial production"], "ans": 1, "explanation": "Feudalism is a system based on land ownership and personal loyalty between lords and vassals."},
+        {"q": "In feudalism, who owned all the land?", "opts": ["The peasants", "The lords", "The King/Emperor", "The church"], "ans": 2, "explanation": "The King or Emperor technically owned all land and granted portions to lords in exchange for loyalty and service."},
+        {"q": "Peasants in feudalism:", "opts": ["Owned large estates", "Worked the land in exchange for protection", "Were elected leaders", "Traded freely"], "ans": 1, "explanation": "Peasants (serfs) worked the land for lords in exchange for protection and the right to farm small plots for themselves."},
+        {"q": "A vassal in feudalism owed the lord:", "opts": ["Money only", "Military service and loyalty", "Religious conversion", "Foreign alliances"], "ans": 1, "explanation": "Vassals pledged military service, counsel, and loyalty to their lord in exchange for land (fief)."},
+        {"q": "Feudalism is characterized by:", "opts": ["Centralized national government", "Decentralized power and local autonomy", "Universal suffrage", "Free labor markets"], "ans": 1, "explanation": "Power was dispersed among local lords, with weak central authority—a hallmark of feudal decentralization."},
+        {"q": "Social mobility in feudalism was:", "opts": ["Very high", "Very limited", "Based on elections", "Determined by wealth alone"], "ans": 1, "explanation": "Feudal society was rigid; birth largely determined one's status, with little opportunity for advancement."},
+        {"q": "Which pre-colonial Nigerian system had feudal elements?", "opts": ["Igbo village democracy", "Hausa-Fulani emirates", "Yoruba city-states only", "All were purely democratic"], "ans": 1, "explanation": "The Hausa-Fulani emirates featured hierarchical authority, land grants, and obligations resembling feudalism."},
+        {"q": "Feudalism declined mainly due to:", "opts": ["Increased peasant loyalty", "Rise of commerce, centralized states, and modern law", "More land grants", "Stronger religious authority"], "ans": 1, "explanation": "Trade growth, stronger monarchies, urbanization, and legal reforms undermined feudal structures."},
+        {"q": "A key difference between feudalism and modern democracy is that democracy emphasizes:", "opts": ["Hereditary rule", "Individual rights and popular sovereignty", "Land-for-service exchange", "Decentralized lordship"], "ans": 1, "explanation": "Democracy is founded on individual rights, equality, and popular consent, contrasting with feudal hierarchy."},
+        {"q": "Studying feudalism helps citizens understand:", "opts": ["Only medieval history", "How power structures evolve and contrast with modern governance", "How to restore monarchy", "Why democracy is unnecessary"], "ans": 1, "explanation": "Historical systems like feudalism provide context for understanding modern democratic institutions and values."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Definition of Subject Matter",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w1_su1",
+      "title": "1.1 Government as an Institution of the State",
+      "notes": [
+        "Government as an institution refers to the organized, permanent structures through which state authority is exercised and public order maintained.",
+        "It comprises three constitutional arms: Executive (implements laws), Legislature (makes laws), and Judiciary (interprets laws).",
+        "These institutions operate at three levels in Nigeria: Federal, State, and Local Government, each with constitutionally defined functions.",
+        "Government institutions are backed by legal authority, coercive power, and bureaucratic machinery to ensure policy implementation.",
+        "Unlike voluntary associations, government institutions are compulsory, territorial, and sovereign within their jurisdiction.",
+        "Examples: National Assembly, State Houses of Assembly, Federal/State Ministries, Supreme Court, Customary/Sharia Courts."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Government as an institution of state SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following best describes government as an institution?", "opts": ["A temporary political campaign group", "The permanent structures through which state authority is exercised", "A private organization providing public services", "A military dictatorship"], "ans": 1, "explanation": "Government as an institution refers to the permanent, legally recognized structures (executive, legislature, judiciary) that exercise state authority."},
+        {"q": "Which arm of government is primarily responsible for making laws?", "opts": ["Executive", "Judiciary", "Legislature", "Civil Service"], "ans": 2, "explanation": "The Legislature (National/State Houses of Assembly) is constitutionally mandated to make, amend, and repeal laws."},
+        {"q": "In Nigeria, how many levels of government institutions operate constitutionally?", "opts": ["One", "Two", "Three", "Four"], "ans": 2, "explanation": "Nigeria practices federalism with three constitutional levels: Federal, State, and Local Government."},
+        {"q": "Which institution is responsible for interpreting the constitution and resolving legal disputes?", "opts": ["Executive", "Legislature", "Judiciary", "Electoral Commission"], "ans": 2, "explanation": "The Judiciary interprets laws, settles disputes, and ensures constitutional compliance through courts."},
+        {"q": "Which characteristic distinguishes government institutions from voluntary associations?", "opts": ["They rely on donations", "Membership is optional", "They possess coercive power and territorial jurisdiction", "They lack legal backing"], "ans": 2, "explanation": "Government institutions are compulsory, backed by law, and exercise authority over a defined territory, unlike voluntary groups."},
+        {"q": "The President, Governors, and Commissioners belong to which institution?", "opts": ["Legislature", "Judiciary", "Executive", "Traditional Institution"], "ans": 2, "explanation": "They form the Executive arm, responsible for policy implementation, administration, and law enforcement."},
+        {"q": "Which document primarily defines the structure and functions of government institutions in Nigeria?", "opts": ["The Electoral Act", "The 1999 Constitution (as amended)", "The Criminal Code", "The Public Service Rules"], "ans": 1, "explanation": "The 1999 Constitution establishes the structure, powers, and functions of all government institutions."},
+        {"q": "What is the primary role of the civil service within government institutions?", "opts": ["Campaign for political parties", "Provide administrative continuity and implement policies", "Interpret laws in court", "Make constitutional amendments"], "ans": 1, "explanation": "The civil service is the permanent administrative machinery that implements policies regardless of political changes."},
+        {"q": "Which of the following is NOT a government institution in Nigeria?", "opts": ["Federal High Court", "National Assembly", "African Union", "State Ministry of Education"], "ans": 2, "explanation": "The African Union is an international organization, not a Nigerian government institution."},
+        {"q": "Why must government institutions be permanent rather than temporary?", "opts": ["To allow politicians to hold power indefinitely", "To ensure continuity of governance and public service delivery", "To prevent judicial review", "To reduce taxation"], "ans": 1, "explanation": "Permanence ensures that governance, policy implementation, and public services continue smoothly despite political transitions."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w1_su2",
+      "title": "1.2 Government as a Process or Act of Governing",
+      "notes": [
+        "Government as a process refers to the dynamic activities, decisions, and mechanisms used to manage public affairs and deliver services.",
+        "Key processes include policy formulation, resource allocation, implementation, monitoring, evaluation, and public feedback.",
+        "Governance emphasizes how power is exercised, not just who holds it. It focuses on transparency, accountability, participation, and rule of law.",
+        "The process involves multiple actors: political leaders, civil servants, citizens, media, civil society, and international partners.",
+        "Effective governing processes require institutional capacity, public trust, and adaptive response to socio-economic challenges.",
+        "In Nigeria, examples include budget planning, electoral management, public health campaigns, and infrastructure development."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Government as a process of governing SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "What does 'government as a process' primarily emphasize?", "opts": ["The buildings where officials work", "The dynamic activities and mechanisms used to manage public affairs", "The number of political parties", "The size of the civil service"], "ans": 1, "explanation": "It focuses on the activities, decisions, and mechanisms of policy formulation, implementation, and service delivery."},
+        {"q": "Which of the following is a key stage in the governing process?", "opts": ["Campaign financing", "Policy formulation and implementation", "Traditional coronation", "Party primaries"], "ans": 1, "explanation": "The governing process systematically moves from policy formulation to implementation, monitoring, and evaluation."},
+        {"q": "How does 'governance' differ from 'government' in political science?", "opts": ["Governance refers to institutions, government refers to activities", "Government is the structure; governance is how power is exercised", "They are identical terms", "Governance applies only to local levels"], "ans": 1, "explanation": "Government is the institutional structure; governance refers to the processes, quality, and manner in which power is exercised."},
+        {"q": "Which principle is central to effective governing processes?", "opts": ["Secrecy and centralized control", "Transparency, accountability, and public participation", "Military oversight only", "Elimination of civil society"], "ans": 1, "explanation": "Good governance requires transparency, accountability, citizen participation, and adherence to the rule of law."},
+        {"q": "In the governing process, who are considered non-state actors?", "opts": ["Presidents and Governors", "Civil servants and Judges", "NGOs, media, and citizen groups", "Military commanders only"], "ans": 2, "explanation": "Non-state actors like NGOs, media, and civil society influence and participate in governance without holding formal state power."},
+        {"q": "What is the purpose of resource allocation in the governing process?", "opts": ["To enrich political leaders", "To distribute funds to sectors based on public needs and priorities", "To fund only security agencies", "To avoid public budgeting"], "ans": 1, "explanation": "Resource allocation strategically distributes limited public funds to maximize development and service delivery."},
+        {"q": "Which Nigerian activity best exemplifies government as a process?", "opts": ["The construction of the National Assembly building", "The annual budget planning and implementation cycle", "The swearing-in of a new Governor", "The appointment of a new Senator"], "ans": 1, "explanation": "Budget planning involves formulation, legislative approval, executive implementation, and monitoring—a continuous governing process."},
+        {"q": "Why is public feedback important in the governing process?", "opts": ["It allows politicians to avoid accountability", "It helps adjust policies to meet citizens' needs and improves service delivery", "It replaces the need for elections", "It reduces government expenditure automatically"], "ans": 1, "explanation": "Feedback mechanisms (town halls, surveys, petitions) ensure policies remain relevant and responsive to public needs."},
+        {"q": "Which of the following weakens the governing process?", "opts": ["Regular monitoring and evaluation", "Corruption and bureaucratic inefficiency", "Citizen participation", "Independent media oversight"], "ans": 1, "explanation": "Corruption, red tape, and inefficiency distort resource allocation and undermine policy implementation."},
+        {"q": "The concept of 'good governance' primarily focuses on:", "opts": ["Rapid economic growth only", "How fairly, transparently, and effectively public power is exercised", "The number of ministries in government", "The frequency of elections"], "ans": 1, "explanation": "Good governance emphasizes fairness, transparency, accountability, participation, and effectiveness in public management."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w1_su3",
+      "title": "1.3 Government as an Academic Field of Study",
+      "notes": [
+        "Government as an academic discipline is the systematic study of political systems, institutions, behavior, power dynamics, and public policy.",
+        "It encompasses sub-fields: Political Theory, Comparative Politics, Public Administration, International Relations, and Nigerian Government.",
+        "The subject develops critical thinking, civic consciousness, and analytical skills needed for democratic participation.",
+        "Research methods include case studies, historical analysis, surveys, comparative analysis, and policy evaluation.",
+        "Career pathways include law, diplomacy, public administration, journalism, political analysis, teaching, and civil service.",
+        "In WAEC/NECO/JAMB, Government tests knowledge, comprehension, application, and analysis of political concepts and Nigerian governance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Government as a subject of study SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "As an academic field, Government primarily studies:", "opts": ["Mathematical equations and proofs", "Political systems, institutions, behavior, and public policy", "Chemical reactions and elements", "Biological organisms and ecosystems"], "ans": 1, "explanation": "Government systematically examines how power is organized, exercised, and regulated in societies."},
+        {"q": "Which of the following is a core sub-field of Government?", "opts": ["Quantitative Physics", "Political Theory and Public Administration", "Organic Chemistry", "Astrophysics"], "ans": 1, "explanation": "Political theory, public administration, comparative politics, and international relations are established sub-fields."},
+        {"q": "Why is Government taught in Nigerian secondary schools?", "opts": ["To promote political party membership", "To develop civic consciousness and understanding of governance", "To replace history entirely", "To train students for military service only"], "ans": 1, "explanation": "It equips students with knowledge of rights, duties, political processes, and democratic participation."},
+        {"q": "Which research method is commonly used in Government studies?", "opts": ["Laboratory experimentation", "Case studies and comparative analysis", "Chemical titration", "Astronomical observation"], "ans": 1, "explanation": "Government uses qualitative and quantitative methods like case studies, surveys, historical analysis, and comparative politics."},
+        {"q": "How does studying Government differ from Political Science in the Nigerian curriculum?", "opts": ["They are identical with no difference", "Government focuses more on Nigerian institutions and civic education, while Political Science is broader and more theoretical", "Political Science excludes African politics", "Government excludes international relations"], "ans": 1, "explanation": "In Nigeria, Government emphasizes practical civic knowledge and Nigerian governance, while Political Science covers broader theoretical and global frameworks."},
+        {"q": "Which career path is directly supported by studying Government?", "opts": ["Medical surgery", "Diplomacy and public administration", "Mechanical engineering", "Agricultural veterinary science"], "ans": 1, "explanation": "The subject provides foundational knowledge for law, diplomacy, civil service, political analysis, and public policy."},
+        {"q": "What cognitive skill does Government primarily develop?", "opts": ["Memorization of dates only", "Critical thinking, analysis, and civic reasoning", "Mathematical computation", "Artistic expression"], "ans": 1, "explanation": "It trains students to analyze political issues, evaluate policies, and reason critically about governance and citizenship."},
+        {"q": "Which organization's syllabus primarily guides Government examinations in Nigeria?", "opts": ["UNESCO", "NERDC, WAEC, NECO, and JAMB", "World Bank", "African Union"], "ans": 1, "explanation": "NERDC designs the curriculum; WAEC, NECO, and JAMB set examination standards based on it."},
+        {"q": "In Government studies, 'comparative politics' involves:", "opts": ["Comparing chemical compounds", "Analyzing political systems across different countries to identify patterns", "Comparing economic exchange rates only", "Studying animal behavior in different habitats"], "ans": 1, "explanation": "Comparative politics systematically examines similarities and differences in political systems, institutions, and behaviors globally."},
+        {"q": "Why is Government relevant to everyday citizenship?", "opts": ["It guarantees wealth for all citizens", "It helps citizens understand their rights, duties, and how to engage constructively with state institutions", "It replaces the need for elections", "It eliminates all forms of corruption automatically"], "ans": 1, "explanation": "Knowledge of Government empowers citizens to participate responsibly, demand accountability, and contribute to national development."}
+      ]
+    }
+  ]
+}

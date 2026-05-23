@@ -1,0 +1,102 @@
+{
+  "course": "SSS1 Chemistry",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Standard Separation Techniques for Mixtures (Part I)",
+  "subUnits": [
+    {
+      "id": "sss1_chem_t1_w5_su1",
+      "title": "5.1 Classification of Substances and Basic Separation Methods",
+      "notes": [
+        "Substances can be classified as elements, compounds, or mixtures:",
+        "• Elements: Pure substances made of one type of atom (e.g., iron, oxygen, gold)",
+        "• Compounds: Pure substances made of two or more elements chemically combined (e.g., water H₂O, salt NaCl)",
+        "• Mixtures: Two or more substances physically combined (e.g., air, sand and water)",
+        "Mixtures can be separated using physical methods based on differences in physical properties:",
+        "1. Filtration: Separates insoluble solids from liquids using filter paper",
+        "   - Example: Separating sand from water",
+        "   - The solid remains on the filter paper (residue), liquid passes through (filtrate)",
+        "2. Evaporation: Separates soluble solids from liquids by heating",
+        "   - Example: Obtaining salt from salt water",
+        "   - The liquid evaporates, leaving the solid behind",
+        "3. Decantation: Pouring off liquid carefully to leave sediment behind",
+        "   - Example: Separating water from settled sand",
+        "   - Used when solid particles are heavy and settle quickly",
+        "4. Floatation: Separating materials based on density differences",
+        "   - Example: Separating sawdust from sand (sawdust floats, sand sinks)",
+        "5. Froth Floatation: Used in mining to separate valuable minerals from ore",
+        "   - Air bubbles carry hydrophobic particles to the surface"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing filtration setup: funnel with filter paper, beaker collecting filtrate, residue on filter paper",
+        "Illustration of evaporation process: evaporating dish on tripod stand with Bunsen burner, salt crystals forming",
+        "Diagram of decantation: beaker with settled sediment, liquid being poured off carefully",
+        "Floatation demonstration: container showing sawdust floating on water while sand sinks to bottom"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Filtration evaporation decantation chemistry separation techniques SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "Which separation technique is used to separate an insoluble solid from a liquid?", "opts": ["Evaporation", "Filtration", "Distillation", "Crystallization"], "ans": 1, "explanation": "Filtration separates insoluble solids from liquids using filter paper. The solid remains as residue while the liquid passes through as filtrate."},
+        {"q": "In filtration, the liquid that passes through the filter paper is called:", "opts": ["Residue", "Filtrate", "Distillate", "Sediment"], "ans": 1, "explanation": "The filtrate is the liquid that passes through the filter paper, while the solid left behind is called the residue."},
+        {"q": "Evaporation is used to separate:", "opts": ["Two immiscible liquids", "A soluble solid from a liquid", "Two miscible liquids", "An insoluble solid from a liquid"], "ans": 1, "explanation": "Evaporation separates a soluble solid (like salt) from a liquid (like water) by heating to evaporate the liquid, leaving the solid behind."},
+        {"q": "Decantation involves:", "opts": ["Heating a mixture to dryness", "Pouring off liquid carefully to leave sediment", "Using filter paper", "Adding chemicals to form precipitate"], "ans": 1, "explanation": "Decantation is the careful pouring of liquid from a container, leaving the settled solid sediment behind."},
+        {"q": "Floatation separates substances based on:", "opts": ["Boiling point differences", "Density differences", "Particle size", "Solubility"], "ans": 1, "explanation": "Floatation separates materials based on density differences - lighter materials float while heavier ones sink."},
+        {"q": "Which method would you use to separate sand from water?", "opts": ["Evaporation", "Filtration or decantation", "Distillation", "Chromatography"], "ans": 1, "explanation": "Sand is insoluble in water, so filtration or decantation can be used to separate them."},
+        {"q": "To obtain salt from seawater, the best method is:", "opts": ["Filtration", "Decantation", "Evaporation", "Floatation"], "ans": 2, "explanation": "Salt is soluble in water, so evaporation is used to remove the water and leave the salt crystals behind."},
+        {"q": "A mixture is different from a compound because:", "opts": ["Mixtures are always homogeneous", "Mixtures can be separated by physical methods", "Compounds contain only one element", "Mixtures have fixed composition"], "ans": 1, "explanation": "Mixtures can be separated by physical methods (filtration, evaporation, etc.) while compounds require chemical methods to separate."},
+        {"q": "Froth floatation is commonly used in:", "opts": ["Food processing", "Mining industry", "Water treatment", "Textile industry"], "ans": 1, "explanation": "Froth floatation is used in mining to separate valuable minerals from ore by using air bubbles to carry hydrophobic particles to the surface."},
+        {"q": "Which statement about elements is TRUE?", "opts": ["Elements can be broken down into simpler substances", "Elements are made of two or more types of atoms", "Elements are pure substances made of one type of atom", "Elements can be separated by filtration"], "ans": 2, "explanation": "Elements are pure substances consisting of only one type of atom and cannot be broken down into simpler substances by chemical means."}
+      ]
+    },
+    {
+      "id": "sss1_chem_t1_w5_su2",
+      "title": "5.2 Crystallization and Fractional Crystallization",
+      "notes": [
+        "Crystallization is a separation technique used to obtain pure solid compounds from solutions:",
+        "Principle: Based on the fact that solubility of most solids increases with temperature",
+        "Process of Crystallization:",
+        "1. Dissolve the impure solid in minimum amount of hot solvent",
+        "2. Filter the hot solution to remove insoluble impurities",
+        "3. Allow the solution to cool slowly",
+        "4. Pure crystals form as the solution cools (solubility decreases)",
+        "5. Filter to collect the crystals",
+        "6. Dry the crystals between filter papers",
+        "Examples:",
+        "• Obtaining pure salt from impure salt",
+        "• Purifying sugar from sugar solution",
+        "• Obtaining copper(II) sulfate crystals from solution",
+        "Fractional Crystallization:",
+        "• Used to separate two or more soluble solids with different solubilities",
+        "• The solid with lower solubility crystallizes out first",
+        "• Example: Separating a mixture of sodium chloride and potassium nitrate",
+        "• KNO₃ has higher solubility than NaCl at high temperatures",
+        "• When hot solution cools, KNO₃ crystallizes first, leaving NaCl in solution",
+        "Applications:",
+        "• Purification of chemicals in laboratories",
+        "• Production of pure salts in industries",
+        "• Separation of rare earth metals",
+        "• Sugar refining industry"
+      ],
+      "diagramDescriptions": [
+        "Crystallization setup: beaker with hot solution on tripod stand, crystals forming as solution cools",
+        "Step-by-step crystallization process diagram showing: dissolving → filtering → cooling → crystal formation → filtration",
+        "Fractional crystallization diagram showing two different crystal types forming at different temperatures",
+        "Solubility curve graph showing how solubility changes with temperature for different salts"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Crystallization fractional crystallization chemistry SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "Crystallization is used to separate:", "opts": ["Two immiscible liquids", "A pure solid from a solution", "Two gases", "An insoluble solid from a liquid"], "ans": 1, "explanation": "Crystallization separates a pure solid from a solution by forming crystals as the solution cools and solubility decreases."},
+        {"q": "The principle behind crystallization is that:", "opts": ["All solids are insoluble", "Solubility decreases with temperature", "Solubility of most solids increases with temperature", "Liquids evaporate quickly"], "ans": 2, "explanation": "Most solids are more soluble in hot solvents than in cold solvents. When a hot saturated solution cools, excess solute crystallizes out."},
+        {"q": "In crystallization, the solution should be:", "opts": ["Dilute and cold", "Concentrated and hot", "Dilute and hot", "Concentrated and cold"], "ans": 1, "explanation": "The impure solid is dissolved in minimum amount of hot solvent to create a concentrated hot solution, which yields maximum crystals upon cooling."},
+        {"q": "Fractional crystallization is used to separate:", "opts": ["Two insoluble solids", "Two miscible liquids", "Two or more soluble solids with different solubilities", "A solid from a liquid"], "ans": 2, "explanation": "Fractional crystallization separates two or more soluble solids based on their different solubilities in the same solvent."},
+        {"q": "In fractional crystallization, which solid crystallizes first?", "opts": ["The one with higher solubility", "The one with lower solubility", "Both crystallize simultaneously", "Neither crystallizes"], "ans": 1, "explanation": "The solid with lower solubility crystallizes out first when the solution cools, while the more soluble solid remains in solution."},
+        {"q": "To separate a mixture of NaCl and KNO₃ by fractional crystallization:", "opts": ["NaCl crystallizes first", "KNO₃ crystallizes first", "Both crystallize together", "Neither crystallizes"], "ans": 1, "explanation": "KNO₃ has much higher solubility than NaCl at high temperatures but lower solubility at low temperatures, so it crystallizes first upon cooling."},
+        {"q": "After crystallization, crystals are dried by:", "opts": ["Heating strongly", "Placing between filter papers", "Leaving in sunlight", "Adding more solvent"], "ans": 1, "explanation": "Crystals are gently dried by placing them between filter papers to absorb moisture without decomposing the crystals."},
+        {"q": "An application of crystallization is:", "opts": ["Separating oil from water", "Purifying sugar in sugar industry", "Separating sand from water", "Separating iron filings from sand"], "ans": 1, "explanation": "Crystallization is used in the sugar industry to purify sugar from sugar cane juice by forming pure sugar crystals."},
+        {"q": "A saturated solution is one that:", "opts": ["Cannot dissolve more solute at a given temperature", "Can dissolve unlimited solute", "Contains no solute", "Contains only solvent"], "ans": 0, "explanation": "A saturated solution contains the maximum amount of solute that can dissolve at a given temperature. No more solute can dissolve."},
+        {"q": "Why is minimum amount of hot solvent used in crystallization?", "opts": ["To save money", "To obtain maximum yield of crystals", "To speed up the process", "To make the solution dilute"], "ans": 1, "explanation": "Using minimum hot solvent ensures the solution is saturated, so maximum amount of crystals form when the solution cools."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Minority Issues and State Creation",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w4_su1",
+      "title": "4.1 Major/Minor Ethnic Groups & Demand for More States",
+      "notes": [
+        "Nigeria has 250+ ethnic groups; major groups include Hausa-Fulani (North), Yoruba (Southwest), Igbo (Southeast); hundreds of minority groups exist across all regions.",
+        "Minority fears: domination by major groups in politics, resource allocation, and cultural policies; marginalization in appointments, development projects, and federal representation.",
+        "Reasons for demanding more states: enhance political representation, ensure equitable resource distribution, preserve cultural identity, improve grassroots development, and balance power among ethnic groups.",
+        "Willink Commission (1957): Investigated minority fears; recommended constitutional safeguards (fundamental rights, regional autonomy) but opposed immediate state creation, fearing fragmentation.",
+        "State creation as solution: 1963 (Mid-West), 1967 (12 states), 1976 (19 states), 1987 (21), 1991 (30), 1996 (36+FCT)—each aimed to address minority concerns and balance federal power."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Minority ethnic groups Nigeria state creation demands site:youtube.com",
+      "quiz": [
+        {"q": "Nigeria is characterized by:", "opts": ["Ethnic homogeneity", "Over 250 ethnic groups with diverse cultures and languages", "Only three ethnic groups", "Uniform religious beliefs"], "ans": 1, "explanation": "Nigeria's ethnic diversity is a defining feature requiring inclusive governance structures."},
+        {"q": "Major ethnic groups in Nigeria include:", "opts": ["Only Yoruba", "Hausa-Fulani, Yoruba, and Igbo", "Only minority groups", "Only foreign ethnicities"], "ans": 1, "explanation": "These three groups are numerically and politically dominant, though minorities constitute significant populations."},
+        {"q": "Minority fears in Nigerian federalism center on:", "opts": ["Excessive political power", "Domination by major groups in politics and resource allocation", "Complete cultural assimilation", "Elimination of all ethnic identities"], "ans": 1, "explanation": "Minorities worry about marginalization in appointments, development, and policy decisions."},
+        {"q": "A key reason for demanding more states is to:", "opts": ["Eliminate federalism", "Enhance political representation and equitable resource distribution", "Centralize all power", "Abolish local governments"], "ans": 1, "explanation": "New states give minorities direct representation in federal institutions and fairer revenue sharing."},
+        {"q": "The Willink Commission (1957) was established to:", "opts": ["Plan military coups", "Investigate minority fears and recommend constitutional safeguards", "Abolish regional governments", "Centralize all revenue"], "ans": 1, "explanation": "The commission addressed minority concerns about domination in the emerging federal structure."},
+        {"q": "The Willink Commission recommended against immediate state creation because:", "opts": ["It supported minority domination", "It feared excessive fragmentation and instability", "It opposed all ethnic identities", "It wanted to eliminate federalism"], "ans": 1, "explanation": "The commission worried that proliferating states could weaken national unity and administrative efficiency."},
+        {"q": "State creation in Nigeria (1963–1996) aimed to:", "opts": ["Eliminate ethnic diversity", "Address minority concerns and balance federal power", "Centralize all authority", "Abolish traditional institutions"], "ans": 1, "explanation": "Creating new states provided minorities with political voice and more equitable development opportunities."},
+        {"q": "The creation of Mid-West Region in 1963 primarily benefited:", "opts": ["Northern major groups", "Minority groups in the former Western Region", "Only foreign investors", "Military commanders"], "ans": 1, "explanation": "Mid-West gave minorities like Edo, Urhobo, and Itsekiri greater autonomy and representation."},
+        {"q": "A challenge of state creation is:", "opts": ["Complete elimination of ethnic tensions", "Potential for endless demands and administrative complexity", "Immediate resolution of all minority issues", "Elimination of federal government"], "ans": 1, "explanation": "While addressing some concerns, state creation can trigger new demands and increase bureaucratic costs."},
+        {"q": "Understanding minority issues helps citizens:", "opts": ["Ignore ethnic diversity", "Appreciate inclusion and demand equitable representation in governance", "Support domination by major groups", "Reject all state institutions"], "ans": 1, "explanation": "Civic awareness promotes inclusive policies and accountability in federal power-sharing."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w4_su2",
+      "title": "4.2 Complexity of State Creation & Solutions to Minority Problems",
+      "notes": [
+        "Complexity of state creation: Endless demands from sub-minority groups; economic viability concerns (some new states lack revenue base); administrative costs of additional governments; potential for new inter-ethnic conflicts over boundaries and resources.",
+        "Willink Commission alternatives to state creation: Constitutional entrenchment of fundamental human rights; establishment of special development agencies for minority areas; guaranteed representation in federal appointments; regional autonomy in cultural/educational matters.",
+        "Modern solutions: Strengthening local government autonomy to empower grassroots minorities; equitable federal character principle in appointments; transparent revenue allocation; dialogue through National Assembly, traditional councils, and civil society.",
+        "Balancing act: State creation must weigh minority empowerment against national unity, economic viability, and administrative efficiency.",
+        "Citizen role: Advocate for inclusive policies, monitor implementation of federal character, support dialogue over agitation, and participate in democratic processes to shape equitable federal arrangements."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Solutions to minority problems Nigerian federalism site:youtube.com",
+      "quiz": [
+        {"q": "A complexity of state creation in Nigeria is:", "opts": ["Immediate resolution of all ethnic tensions", "Endless demands from sub-minority groups and economic viability concerns", "Elimination of all administrative costs", "Complete national unity"], "ans": 1, "explanation": "New states can trigger further demands and strain resources if not economically sustainable."},
+        {"q": "The Willink Commission proposed alternatives to state creation including:", "opts": ["Military rule", "Constitutional human rights protections and special development agencies", "Elimination of all ethnic identities", "Centralization of all power"], "ans": 1, "explanation": "The commission recommended rights safeguards and targeted development to address minority concerns without fragmentation."},
+        {"q": "Strengthening local government autonomy helps minorities by:", "opts": ["Eliminating state governments", "Empowering grassroots communities to manage local affairs and resources", "Centralizing all decisions", "Abolishing traditional institutions"], "ans": 1, "explanation": "Strong LGAs allow minorities to influence decisions affecting their immediate communities."},
+        {"q": "The federal character principle aims to:", "opts": ["Favor only major ethnic groups", "Ensure equitable representation of all ethnic groups in federal appointments", "Eliminate all appointments", "Centralize all hiring in Abuja"], "ans": 1, "explanation": "Federal character promotes inclusivity by requiring diverse ethnic representation in government positions."},
+        {"q": "A modern solution to minority problems is:", "opts": ["Ignoring minority concerns", "Transparent revenue allocation and inclusive dialogue", "Eliminating all revenue sharing", "Centralizing all development projects"], "ans": 1, "explanation": "Open processes and stakeholder engagement build trust and address grievances constructively."},
+        {"q": "Balancing state creation requires weighing:", "opts": ["Only ethnic demands", "Minority empowerment against national unity and economic viability", "Elimination of all federal structures", "Military intervention"], "ans": 1, "explanation": "Policymakers must consider inclusivity alongside sustainability and administrative efficiency."},
+        {"q": "Citizens can support equitable federalism by:", "opts": ["Ignoring governance issues", "Advocating inclusive policies, monitoring federal character, and participating in democratic processes", "Supporting domination by major groups", "Rejecting all state institutions"], "ans": 1, "explanation": "Active citizenship ensures accountability and promotes inclusive power-sharing arrangements."},
+        {"q": "Dialogue through National Assembly and traditional councils helps by:", "opts": ["Eliminating all discussions", "Providing platforms for negotiating minority concerns and building consensus", "Centralizing all decisions", "Abolishing democratic institutions"], "ans": 1, "explanation": "Inclusive forums enable stakeholders to address grievances and craft sustainable solutions."},
+        {"q": "A risk of ignoring minority concerns is:", "opts": ["Complete national unity", "Agitation, conflict, and threats to federal stability", "Immediate resolution of all issues", "Elimination of ethnic diversity"], "ans": 1, "explanation": "Marginalization fuels unrest, as seen in Niger Delta agitation and other minority movements."},
+        {"q": "Sustainable minority inclusion requires:", "opts": ["Short-term political fixes", "Constitutional safeguards, equitable policies, and continuous civic engagement", "Military intervention", "Abolition of local governments"], "ans": 1, "explanation": "Long-term harmony depends on institutional protections, fair practices, and active citizen participation."}
+      ]
+    }
+  ]
+}

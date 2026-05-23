@@ -1,0 +1,58 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 11,
+  "topic": "The Structure of Local Government in Nigeria",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w11_su1",
+      "title": "11.1 Evolution & Structure of LG in Nigeria",
+      "notes": [
+        "Pre-colonial era: Traditional councils, emirate systems, village heads, and age-grade organizations managed local affairs.",
+        "Colonial era: Native Authority system formalized indirect rule, integrating traditional rulers into colonial administration.",
+        "Post-independence: Multiple reforms (1950s–1970s) aimed at modernizing local governance, culminating in the landmark 1976 Local Government Reform.",
+        "Current structure: Chairman (executive), Vice Chairman, Supervisory Councillors (departments), Legislative Councillors, Secretary, and administrative staff.",
+        "Electoral process: Conducted by State Independent Electoral Commissions (SIECs), though INEC has been proposed for standardization and credibility."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Evolution structure local government Nigeria 1976 reform site:youtube.com",
+      "quiz": [
+        {"q": "In pre-colonial Nigeria, local governance was primarily managed by:", "opts": ["Elected councils", "Traditional rulers and community organizations", "Military governors", "Foreign administrators"], "ans": 1, "explanation": "Emirs, Obas, Obis, and village heads administered local affairs through customary systems."},
+        {"q": "The Native Authority system during colonial rule aimed to:", "opts": ["Eliminate traditional institutions", "Integrate local rulers into colonial administration for indirect rule", "Establish democratic elections", "Centralize all power in Lagos"], "ans": 1, "explanation": "Colonial authorities used traditional structures to govern cost-effectively with minimal European presence."},
+        {"q": "The 1976 Local Government Reform was significant because it:", "opts": ["Abolished all local councils", "Standardized LGA structure and guaranteed constitutional recognition", "Eliminated state oversight", "Centralized all funding in Abuja"], "ans": 1, "explanation": "Reforms created uniform structures, direct elections (initially), and separated LGs from state ministries."},
+        {"q": "The executive head of a Nigerian LGA is the:", "opts": ["Secretary", "Chairman", "Traditional Ruler", "State Governor"], "ans": 1, "explanation": "The Chairman leads the executive arm, implements policies, and oversees LGA administration."},
+        {"q": "Supervisory Councillors in an LGA are responsible for:", "opts": ["Making national laws", "Overseeing specific departments (health, works, education)", "Commanding the military", "Appointing state governors"], "ans": 1, "explanation": "They function like local ministers, managing sectoral portfolios and departmental budgets."},
+        {"q": "Local government elections in Nigeria are currently conducted by:", "opts": ["INEC", "State Independent Electoral Commissions (SIECs)", "Traditional rulers", "Federal Ministry of Local Government"], "ans": 1, "explanation": "SIECs manage LGA elections, though credibility concerns persist compared to INEC standards."},
+        {"q": "A structural weakness in Nigerian LGAs is:", "opts": ["Excessive autonomy", "Lack of qualified personnel and inadequate funding", "Overrepresentation in the Senate", "Complete financial independence"], "ans": 1, "explanation": "Capacity gaps and funding constraints hinder effective service delivery and administrative efficiency."},
+        {"q": "The legislative arm of an LGA consists of:", "opts": ["State House of Assembly members", "Elected Councillors representing wards", "Traditional council members", "Federal lawmakers"], "ans": 1, "explanation": "Councillors make local bylaws, approve budgets, and oversee executive performance."},
+        {"q": "The 1999 Constitution guarantees local government autonomy by:", "opts": ["Abolishing state governments", "Recognizing LGAs as a third tier with statutory funding", "Eliminating local elections", "Centralizing all local administration"], "ans": 1, "explanation": "Section 7 and Schedule 4 outline LGA functions and ensure constitutional protection."},
+        {"q": "Modernizing Nigerian LGAs requires:", "opts": ["Returning to colonial indirect rule", "Capacity building, digital governance, and electoral reform", "Eliminating all councils", "Military appointment of chairmen"], "ans": 1, "explanation": "Professional training, transparent elections, and technology adoption improve grassroots administration."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w11_su2",
+      "title": "11.2 Sources of Finance & Intergovernmental Relations",
+      "notes": [
+        "Revenue sources: Statutory allocations from Federation Account, Internally Generated Revenue (IGR: rates, tenement, market fees, licenses), grants from state/federal governments, and joint projects.",
+        "State Joint Local Government Account (SJLGA): Controversial mechanism where state governments receive and distribute LG funds, often cited as undermining financial autonomy.",
+        "Federation Account Allocation Committee (FAAC): Distributes federal revenue among tiers based on approved formula.",
+        "Intergovernmental relations: LGAs are constitutionally subordinate to states but cooperate on policy alignment, security, and development projects.",
+        "Financial autonomy debate: Constitutional amendment proposals seek direct FAAC payments to LGAs to eliminate state interference and corruption."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Local government revenue sources Nigeria SJLGA FAAC site:youtube.com",
+      "quiz": [
+        {"q": "The primary source of funding for Nigerian LGAs is:", "opts": ["Foreign aid", "Statutory allocations and internally generated revenue", "Military grants", "Private donations"], "ans": 1, "explanation": "FAAC allocations and local taxes/fees form the financial backbone of LGA operations."},
+        {"q": "The State Joint Local Government Account (SJLGA) is controversial because:", "opts": ["It guarantees financial autonomy", "State governments often delay or divert LG funds", "It eliminates all taxation", "It increases federal control"], "ans": 1, "explanation": "Critics argue SJLGA enables political interference and reduces LGA financial independence."},
+        {"q": "Internally Generated Revenue (IGR) for LGAs includes:", "opts": ["Oil exports", "Tenement rates, market fees, and business licenses", "Foreign investments", "Military budgets"], "ans": 1, "explanation": "Local taxation and service fees boost self-sufficiency and reduce dependency on allocations."},
+        {"q": "FAAC distributes federal revenue based on:", "opts": ["Presidential discretion", "Approved revenue allocation formula", "State population only", "Military strength"], "ans": 1, "explanation": "The formula considers equality, population, land mass, and revenue generation effort."},
+        {"q": "Intergovernmental relations in Nigeria require LGAs to:", "opts": ["Ignore state policies", "Cooperate with state/federal governments on development and security", "Eliminate all local taxation", "Appoint federal ministers"], "ans": 1, "explanation": "Collaboration ensures policy coherence, resource optimization, and unified national development."},
+        {"q": "Financial autonomy for LGAs would ensure:", "opts": ["Complete separation from Nigeria", "Direct receipt of statutory funds and reduced state interference", "Elimination of all local services", "Centralized federal control"], "ans": 1, "explanation": "Direct funding empowers LGAs to plan, budget, and execute projects without political bottlenecks."},
+        {"q": "A major challenge to LGR revenue generation is:", "opts": ["Excessive citizen compliance", "Poor tax collection systems and informal sector dominance", "Overqualified accountants", "Too many markets"], "ans": 1, "explanation": "Weak enforcement, leakages, and large informal economies limit IGR potential."},
+        {"q": "Grants from state/federal governments are typically used for:", "opts": ["Private business ventures", "Capital projects, health emergencies, and special development programs", "Military equipment", "Foreign travel"], "ans": 1, "explanation": "Targeted grants address infrastructure gaps, public health crises, and poverty alleviation."},
+        {"q": "Constitutional reforms proposed for LGAs focus on:", "opts": ["Abolishing local councils", "Direct FAAC payments and electoral independence", "Centralizing all services", "Eliminating state governments"], "ans": 1, "explanation": "Reforms aim to secure financial autonomy, credible elections, and administrative efficiency."},
+        {"q": "Citizens can improve LGR finances by:", "opts": ["Avoiding tax payments", "Paying rates promptly, reporting leakages, and supporting transparent budgeting", "Ignoring council meetings", "Supporting political interference"], "ans": 1, "explanation": "Voluntary compliance and civic oversight strengthen revenue collection and public trust."}
+      ]
+    }
+  ]
+}

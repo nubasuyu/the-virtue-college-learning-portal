@@ -1,0 +1,88 @@
+{
+  "course": "SSS1 Government",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Basic Concepts of Government",
+  "subUnits": [
+    {
+      "id": "sss1_gov_t1_w2_su1",
+      "title": "2.1 Power: Meaning and Acquisition",
+      "notes": [
+        "Power is the ability to influence, control, or compel the behavior of others, even against their will.",
+        "It is the capacity to get people to do what you want them to do, regardless of their consent.",
+        "Sources of power in politics: coercion (force), authority (legitimacy), wealth, knowledge, charisma, and institutional position.",
+        "Power can be acquired through: inheritance (monarchy), election (democracy), force/coup (military), appointment, or revolutionary struggle.",
+        "In Nigeria, power is exercised at federal, state, and local levels through constitutionally defined institutions.",
+        "Power without legitimacy often leads to resistance, instability, and eventual collapse of the regime."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Power in government SSS1 Government site:youtube.com",
+      "quiz": [
+        {"q": "Power in political science is best defined as:", "opts": ["The ability to win elections", "The capacity to influence or control others' behavior", "The ownership of wealth", "The holding of public office"], "ans": 1, "explanation": "Power is the ability to influence, control, or compel behavior, regardless of consent."},
+        {"q": "Which is NOT a source of political power?", "opts": ["Coercion", "Legitimacy", "Ignorance", "Wealth"], "ans": 2, "explanation": "Ignorance weakens power; legitimate sources include coercion, authority, wealth, knowledge, and charisma."},
+        {"q": "Power acquired through inheritance is typical of:", "opts": ["Democracy", "Monarchy", "Republic", "Oligarchy"], "ans": 1, "explanation": "Monarchical systems transfer power through hereditary succession."},
+        {"q": "In Nigeria, political power is constitutionally exercised at how many levels?", "opts": ["One", "Two", "Three", "Four"], "ans": 2, "explanation": "Nigeria practices federalism with power shared among Federal, State, and Local Government levels."},
+        {"q": "Power without legitimacy often results in:", "opts": ["Stability and growth", "Resistance and instability", "Increased taxation", "Judicial independence"], "ans": 1, "explanation": "Illegitimate power lacks public acceptance, leading to protests, coups, or regime collapse."},
+        {"q": "Which method of acquiring power is associated with military regimes?", "opts": ["Election", "Inheritance", "Force/coup", "Appointment"], "ans": 2, "explanation": "Military regimes typically seize power through coups or force, not democratic processes."},
+        {"q": "Charismatic power is based on:", "opts": ["Legal rules", "Personal qualities and appeal", "Traditional customs", "Economic control"], "ans": 1, "explanation": "Charismatic authority derives from a leader's extraordinary personal qualities that inspire followers."},
+        {"q": "Institutional power refers to authority derived from:", "opts": ["Personal wealth", "Holding an official position", "Military strength", "Popularity"], "ans": 1, "explanation": "Institutional power comes from occupying a constitutionally or legally recognized office."},
+        {"q": "Which statement about power is FALSE?", "opts": ["Power can be exercised without formal authority", "Power always requires public consent", "Power can be coercive or persuasive", "Power exists in all human relationships"], "ans": 1, "explanation": "Power can be exercised through coercion without consent; legitimacy requires consent, but power does not."},
+        {"q": "The relationship between power and authority is that:", "opts": ["They are identical", "Authority is power recognized as legitimate", "Power is always legitimate", "Authority cannot exist without power"], "ans": 1, "explanation": "Authority is power that is accepted as rightful and legitimate by those subject to it."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w2_su2",
+      "title": "2.2 Authority: Types and Differences from Power",
+      "notes": [
+        "Authority is power that is recognized, accepted, and obeyed as legitimate by the people.",
+        "Unlike power (which can be forced), authority is willingly obeyed because citizens believe it is right and proper.",
+        "Max Weber's three types of authority: Traditional (based on customs, e.g., monarchy), Charismatic (based on personality, e.g., revolutionary leaders), Rational-Legal (based on laws/rules, e.g., elected officials).",
+        "Traditional authority relies on long-standing customs and beliefs in the sanctity of traditions.",
+        "Charismatic authority depends on the extraordinary qualities of a leader and is often unstable after the leader's death.",
+        "Rational-Legal authority is based on written rules, procedures, and offices; it is the foundation of modern democratic states.",
+        "In Nigeria, the President exercises rational-legal authority derived from the 1999 Constitution and electoral mandate."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Authority vs Power government SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "Authority differs from power because authority is:", "opts": ["Always forced", "Recognized and accepted as legitimate", "Based on wealth only", "Temporary"], "ans": 1, "explanation": "Authority is power that is recognized and accepted as legitimate by the people."},
+        {"q": "Which type of authority is based on long-standing customs?", "opts": ["Rational-Legal", "Charismatic", "Traditional", "Military"], "ans": 2, "explanation": "Traditional authority derives legitimacy from established customs and historical continuity."},
+        {"q": "An elected President in Nigeria exercises which type of authority?", "opts": ["Traditional", "Charismatic", "Rational-Legal", "Military"], "ans": 2, "explanation": "Rational-Legal authority is based on constitutional rules and electoral procedures."},
+        {"q": "Charismatic authority is often unstable because:", "opts": ["It requires too much money", "It depends on one person's qualities", "It lacks legal backing", "It is too democratic"], "ans": 1, "explanation": "Charismatic authority is tied to a specific leader; succession often creates crisis."},
+        {"q": "Which is a characteristic of Rational-Legal authority?", "opts": ["Based on divine right", "Relies on written rules and procedures", "Depends on personal loyalty", "Ignores constitutional limits"], "ans": 1, "explanation": "Rational-Legal systems operate through codified laws, bureaucratic procedures, and defined offices."},
+        {"q": "In traditional authority, legitimacy comes from:", "opts": ["Elections", "Constitutional provisions", "Customs and historical continuity", "Military strength"], "ans": 2, "explanation": "Traditional authority is legitimized by long-standing customs, beliefs, and historical practices."},
+        {"q": "Which statement about authority is TRUE?", "opts": ["Authority can exist without power", "All power is authority", "Authority requires legitimacy", "Authority is always coercive"], "ans": 2, "explanation": "Authority is defined by its legitimacy; without acceptance, it reverts to mere power."},
+        {"q": "A traditional ruler in Nigeria exercises authority that is primarily:", "opts": ["Rational-Legal", "Charismatic", "Traditional", "Revolutionary"], "ans": 2, "explanation": "Traditional rulers derive authority from customs, lineage, and cultural recognition."},
+        {"q": "The main difference between power and authority is:", "opts": ["Power is legal, authority is not", "Authority implies legitimacy, power does not", "Power is always democratic", "Authority is always military"], "ans": 1, "explanation": "Authority is power that is accepted as rightful; power can exist without legitimacy."},
+        {"q": "Which type of authority is most compatible with modern democracy?", "opts": ["Traditional", "Charismatic", "Rational-Legal", "Theocratic"], "ans": 2, "explanation": "Rational-Legal authority, based on constitutions and elections, underpins democratic governance."}
+      ]
+    },
+    {
+      "id": "sss1_gov_t1_w2_su3",
+      "title": "2.3 Legitimacy and Sovereignty",
+      "notes": [
+        "Legitimacy is the acceptance of authority by the people as right, proper, and justified.",
+        "Sources of legitimacy: free and fair elections, tradition, legal-rational processes, performance (delivering results), ideology, and international recognition.",
+        "Sovereignty is the supreme, absolute, and independent power of a state to govern itself without external interference.",
+        "Characteristics of sovereignty: Absolute (no higher authority), Indivisible (cannot be divided), Permanent (lasts as long as state exists), Exclusive (only one sovereign per territory).",
+        "Internal sovereignty: The state's authority over all individuals and groups within its territory.",
+        "External sovereignty: The state's independence in international relations and freedom from foreign control.",
+        "In Nigeria, sovereignty is vested in the people and exercised through democratic institutions per the 1999 Constitution."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Legitimacy and sovereignty government SSS1 site:youtube.com",
+      "quiz": [
+        {"q": "Legitimacy refers to:", "opts": ["Military strength", "People's acceptance of authority", "Economic power", "Population size"], "ans": 1, "explanation": "Legitimacy is the acceptance of authority by the people as right and proper."},
+        {"q": "Sovereignty means:", "opts": ["Having a large army", "Supreme power to govern without external interference", "Being rich", "Having many citizens"], "ans": 1, "explanation": "Sovereignty is the supreme power of a state to govern itself without external interference."},
+        {"q": "Which is NOT a characteristic of sovereignty?", "opts": ["Absolute", "Divisible", "Permanent", "Exclusive"], "ans": 1, "explanation": "Sovereignty is indivisible—it cannot be divided. It is absolute, permanent, and exclusive."},
+        {"q": "Internal sovereignty refers to:", "opts": ["Control over foreign policy", "Authority over all within the state's territory", "Membership in international organizations", "Economic independence"], "ans": 1, "explanation": "Internal sovereignty is the state's supreme authority over all persons and institutions within its borders."},
+        {"q": "External sovereignty means:", "opts": ["Control over local governments", "Independence in international relations", "Power over the judiciary", "Authority over the military"], "ans": 1, "explanation": "External sovereignty is the state's freedom from foreign control in its international affairs."},
+        {"q": "Which is a source of political legitimacy?", "opts": ["Censorship", "Free and fair elections", "Military dictatorship", "One-party rule"], "ans": 1, "explanation": "Free and fair elections confer legitimacy by demonstrating popular consent."},
+        {"q": "Performance legitimacy is based on:", "opts": ["Traditional customs", "Delivering economic growth and public services", "Military victories only", "Religious endorsement"], "ans": 1, "explanation": "Governments gain legitimacy by effectively delivering development, security, and welfare."},
+        {"q": "In Nigeria, sovereignty is constitutionally vested in:", "opts": ["The President", "The Military", "The People", "Traditional Rulers"], "ans": 2, "explanation": "Section 14(2)(a) of the 1999 Constitution states: 'Sovereignty belongs to the people of Nigeria'."},
+        {"q": "Which statement about sovereignty is FALSE?", "opts": ["It is absolute", "It can be shared with other states", "It is permanent", "It is exclusive"], "ans": 1, "explanation": "Sovereignty cannot be divided or shared; it is absolute and exclusive to one state per territory."},
+        {"q": "Legitimacy and sovereignty are related because:", "opts": ["They are identical concepts", "Legitimacy strengthens a state's sovereign authority", "Sovereignty requires military power only", "Legitimacy is irrelevant to sovereignty"], "ans": 1, "explanation": "A legitimate government exercises sovereignty more effectively because citizens willingly comply with its authority."}
+      ]
+    }
+  ]
+}

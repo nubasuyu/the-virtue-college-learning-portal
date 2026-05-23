@@ -1,0 +1,58 @@
+{
+  "course": "SSS2 Government",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Local Government Reforms",
+  "subUnits": [
+    {
+      "id": "sss2_gov_t1_w12_su1",
+      "title": "12.1 Traditional Rulers & 1976 LG Reforms",
+      "notes": [
+        "Traditional rulers serve advisory, cultural, and conflict-resolution roles in local governance, bridging modern administration and indigenous systems.",
+        "1976 Reform objectives: uniform LGA structure nationwide, separation from state ministries, creation of 300+ LGAs, establishment of Local Government Service Commissions, and direct elections (initially).",
+        "Impact: Strengthened grassroots administration, improved service delivery, enhanced political participation, and formalized local government finance.",
+        "Challenges post-reform: Military suspensions, state government interference, funding constraints, and capacity gaps in administration.",
+        "Modern relevance: Traditional institutions remain vital for community mobilization, peacebuilding, and cultural preservation in decentralized governance."
+      ],
+      "videoId": "",
+      "youtubeQuery": "1976 local government reform traditional rulers Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Traditional rulers in modern local government primarily serve as:", "opts": ["Executive administrators", "Advisors and cultural custodians facilitating community engagement", "Tax collectors", "Military commanders"], "ans": 1, "explanation": "They bridge formal administration and grassroots communities, promoting peace and cultural continuity."},
+        {"q": "A key objective of the 1976 Local Government Reform was to:", "opts": ["Abolish all LGAs", "Standardize structure and separate LGs from state ministries", "Centralize all power federally", "Eliminate local elections"], "ans": 1, "explanation": "Reforms created uniform structures, direct funding channels, and professional administration."},
+        {"q": "The 1976 reform established:", "opts": ["Military control of LGs", "Local Government Service Commissions for staffing and discipline", "Complete state subordination", "Elimination of traditional institutions"], "ans": 1, "explanation": "Service Commissions professionalized hiring, promotions, and accountability in LGR civil service."},
+        {"q": "Post-1976, Nigerian LGAs experienced:", "opts": ["Immediate financial autonomy", "Improved grassroots administration and political participation", "Complete elimination of state oversight", "Abolition of local councils"], "ans": 1, "explanation": "Reforms empowered communities, expanded representation, and formalized local development planning."},
+        {"q": "A challenge to the 1976 reform's sustainability was:", "opts": ["Excessive autonomy", "Military interventions and state government interference", "Overfunding", "Too many elections"], "ans": 1, "explanation": "Regime changes and political manipulation often suspended reforms and weakened LGR independence."},
+        {"q": "Traditional rulers contribute to local governance by:", "opts": ["Making national laws", "Mobilizing communities, resolving disputes, and preserving cultural heritage", "Commanding state police", "Controlling federal budgets"], "ans": 1, "explanation": "Their moral authority and grassroots networks enhance peacebuilding and policy acceptance."},
+        {"q": "The creation of over 300 LGAs in 1976 aimed to:", "opts": ["Increase state power", "Bring governance closer to the people and ensure equitable development", "Centralize administration", "Eliminate rural representation"], "ans": 1, "explanation": "Smaller LGAs improved accessibility, responsiveness, and localized resource allocation."},
+        {"q": "Direct elections were initially introduced in 1976 to:", "opts": ["Reduce democracy", "Enhance accountability and popular mandate for LGR chairmen", "Eliminate local councils", "Centralize appointments"], "ans": 1, "explanation": "Democratic elections strengthened legitimacy, responsiveness, and citizen oversight."},
+        {"q": "Modern local government reforms build on 1976 principles by:", "opts": ["Abolishing all structures", "Advocating financial autonomy, capacity building, and digital transparency", "Returning to colonial rule", "Eliminating traditional institutions"], "ans": 1, "explanation": "Contemporary reforms address historical weaknesses while preserving grassroots empowerment goals."},
+        {"q": "Citizens benefit from effective local government reforms through:", "opts": ["Centralized decision-making", "Improved services, participatory governance, and accountability", "Military oversight", "Elimination of local elections"], "ans": 1, "explanation": "Transparent, autonomous LGAs deliver better infrastructure, healthcare, and community development."}
+      ]
+    },
+    {
+      "id": "sss2_gov_t1_w12_su2",
+      "title": "12.2 Problems & Solutions for LG Administration in Nigeria",
+      "notes": [
+        "Persistent problems: Financial dependence on states, political interference, corruption, inadequate capacity, poor infrastructure, and lack of electoral credibility.",
+        "Structural issues: SJLGA fund diversion, weak legislative oversight, politicization of appointments, and inadequate training for staff.",
+        "Solutions: Constitutional financial autonomy, direct FAAC payments, INEC-managed LGR elections, capacity building programs, digital governance, and citizen monitoring.",
+        "Policy recommendations: Strengthen Local Government Service Commissions, enforce anti-corruption measures, promote public-private partnerships, and integrate traditional institutions constructively.",
+        "Future outlook: Empowered LGAs can drive SDG achievement, poverty reduction, and democratic consolidation at the grassroots level."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Problems solutions local government administration Nigeria reforms site:youtube.com",
+      "quiz": [
+        {"q": "A major problem facing Nigerian local governments is:", "opts": ["Excessive financial autonomy", "State government interference and funding constraints", "Overqualified staff", "Too many markets"], "ans": 1, "explanation": "Political control and delayed allocations undermine LGR independence and service delivery."},
+        {"q": "Corruption in LGAs manifests through:", "opts": ["Transparent procurement", "Fund diversion, ghost workers, and contract inflation", "Regular audits", "Citizen oversight"], "ans": 1, "explanation": "Financial mismanagement diverts resources, weakens infrastructure, and erodes public trust."},
+        {"q": "A key solution to LGR funding challenges is:", "opts": ["Eliminating all taxes", "Constitutional financial autonomy and direct FAAC payments", "Military oversight", "Centralizing all services federally"], "ans": 1, "explanation": "Direct funding prevents diversion, ensures predictable budgets, and empowers local planning."},
+        {"q": "Capacity building for LGR staff improves administration by:", "opts": ["Replacing all workers", "Enhancing technical skills, accountability, and service efficiency", "Eliminating training programs", "Increasing political appointments"], "ans": 1, "explanation": "Professional development reduces errors, promotes innovation, and strengthens institutional performance."},
+        {"q": "Electoral credibility in LGAs can be strengthened by:", "opts": ["Appointing chairmen", "Transferring election management to INEC and ensuring transparent processes", "Eliminating voting", "Centralizing appointments"], "ans": 1, "explanation": "Independent electoral oversight reduces manipulation, enhances legitimacy, and promotes accountability."},
+        {"q": "Digital governance in LGAs promotes:", "opts": ["Secrecy in operations", "Transparent record-keeping, efficient revenue collection, and citizen access", "Increased bureaucracy", "Elimination of technology"], "ans": 1, "explanation": "E-governance reduces leakages, speeds service delivery, and improves public engagement."},
+        {"q": "Public-private partnerships (PPPs) benefit LGAs by:", "opts": ["Eliminating government involvement", "Leveraging private expertise and funding for local infrastructure projects", "Centralizing all control", "Avoiding all regulations"], "ans": 1, "explanation": "PPPs bridge funding gaps, improve service quality, and introduce modern management practices."},
+        {"q": "Traditional institutions can be integrated into modern LGAs by:", "opts": ["Replacing elected councils", "Serving as advisory bodies for conflict resolution and community mobilization", "Controlling state budgets", "Eliminating local elections"], "ans": 1, "explanation": "Constructive engagement harnesses cultural authority while maintaining democratic structures."},
+        {"q": "Citizen monitoring of LGAs ensures:", "opts": ["Political interference", "Accountability, reduced corruption, and responsive service delivery", "Elimination of councils", "Centralized control"], "ans": 1, "explanation": "Active oversight through town halls, FOI requests, and civic groups holds officials accountable."},
+        {"q": "Sustainable LGR reform requires:", "opts": ["Short-term political fixes", "Constitutional amendments, institutional strengthening, and continuous civic engagement", "Military intervention", "Abolition of local councils"], "ans": 1, "explanation": "Long-term success depends on legal safeguards, professional administration, and democratic participation."}
+      ]
+    }
+  ]
+}

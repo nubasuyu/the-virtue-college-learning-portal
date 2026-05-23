@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>School Learning Hub</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>The Virtue College</h1>
+  <header class="header">
+  <div class="container nav-controls">
+    <select id="class-select" class="selector"></select>
+    <select id="subject-select" class="selector"></select>
+    <select id="week-select" class="selector"></select>
+    <button id="load-btn" class="btn primary">Go</button>
+  </div>
+  <div class="container week-nav">
+    <button id="prev-btn" class="btn secondary" disabled>← Prev</button>
+    <span id="current-week-display">Select class & subject</span>
+    <button id="next-btn" class="btn secondary" disabled>Next →</button>
+  </div>
+</header>
+
+  <main class="container" id="main-content">
+    <div class="loader">Select a class and subject to begin</div>
+  </main>
+
+  <footer class="footer"><p>Internal School Learning System | NERDC Aligned</p></footer>
+  <script src="js/app.js"></script>
+</body>
+</html>

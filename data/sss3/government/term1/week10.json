@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Development of Political Parties in Nigeria (Cont.)",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w10_su1",
+      "title": "10.1 Social Democratic Party (SDP) & National Republican Convention (NRC)",
+      "notes": [
+        "Third Republic parties (SDP & NRC, 1990): Created by military regime (Babangida) to streamline transition and prevent ethnic fragmentation.",
+        "Social Democratic Party (SDP): 'A little to the left'; social democratic ideology; advocated state-led development, welfare programs, and progressive taxation; drawn nationwide with strong Northern and Eastern support.",
+        "National Republican Convention (NRC): 'A little to the right'; conservative ideology; promoted free markets, privatization, and traditional values; attracted business elites, Southern conservatives, and moderate Northerners.",
+        "Structure: Government-funded campaigns, mandatory national offices, INEC-supervised primaries; designed to transcend ethnic and regional divides.",
+        "1993 Election: SDP's Moshood Abiola won June 12 presidential election; results annulled by military, triggering national crisis and prolonging military rule until 1999."
+      ],
+      "videoId": "",
+      "youtubeQuery": "SDP NRC Nigeria third republic 1993 election site:youtube.com",
+      "quiz": [
+        {"q": "The SDP and NRC were established during:", "opts": ["First Republic", "Third Republic military transition program", "Fourth Republic", "Colonial era"], "ans": 1, "explanation": "Military authorities created two parties to streamline democratic transition and prevent fragmentation."},
+        {"q": "The Social Democratic Party (SDP) was ideologically described as:", "opts": ["Far-right conservative", "A little to the left, advocating social democracy and welfare programs", "Military authoritarian", "Religious theocratic"], "ans": 1, "explanation": "SDP promoted state-led development, social equity, and progressive economic policies."},
+        {"q": "The National Republican Convention (NRC) promoted:", "opts": ["Radical socialism", "Free markets, privatization, and traditional conservative values", "Military centralization", "Abolition of state governments"], "ans": 1, "explanation": "NRC aligned with market liberalism, private enterprise, and moderate social policies."},
+        {"q": "A unique feature of SDP and NRC was:", "opts": ["Complete foreign funding", "Government-funded campaigns and INEC-supervised structures to ensure national spread", "Elimination of grassroots networks", "Military control of all primaries"], "ans": 1, "explanation": "State support and regulatory oversight aimed to build cross-ethnic, nationally representative parties."},
+        {"q": "The June 12, 1993 presidential election was won by:", "opts": ["NRC candidate", "SDP's Moshood Abiola", "Military appointee", "Traditional council nominee"], "ans": 1, "explanation": "MKO Abiola's SDP victory represented broad national mandate before military annulment."},
+        {"q": "The annulment of the 1993 election resulted in:", "opts": ["Immediate democratic consolidation", "National crisis, prolonged military rule, and international condemnation", "Complete party dissolution", "Elimination of political opposition"], "ans": 1, "explanation": "Annulment triggered widespread protests, economic sanctions, and extended military governance."},
+        {"q": "SDP and NRC aimed to prevent ethnic fragmentation by:", "opts": ["Banning regional campaigns", "Requiring national office locations and inclusive primaries", "Eliminating all political parties", "Centralizing military oversight"], "ans": 1, "explanation": "Structural mandates forced parties to build multi-ethnic coalitions and national appeal."},
+        {"q": "A lesson from the Third Republic parties is:", "opts": ["Military control guarantees stability", "Inclusive design and transparent processes are essential for democratic legitimacy", "Two-party systems always fail", "Foreign intervention improves elections"], "ans": 1, "explanation": "Despite structural innovations, lack of military respect for outcomes undermined democratic progress."},
+        {"q": "Citizens can learn from the 1993 crisis by:", "opts": ["Rejecting democratic processes", "Valuing electoral integrity, demanding constitutional compliance, and participating peacefully", "Supporting military intervention", "Ignoring political history"], "ans": 1, "explanation": "Historical awareness promotes accountability, peaceful advocacy, and protection of democratic mandates."},
+        {"q": "The SDP-NRC experiment demonstrated that:", "opts": ["Military oversight improves democracy", "Well-designed party structures require civilian respect and institutional independence", "Two parties eliminate voter choice", "Foreign funding guarantees success"], "ans": 1, "explanation": "Structural reforms alone cannot sustain democracy without civilian rule and institutional integrity."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w10_su2",
+      "title": "10.2 Two-Party System Experiment & Electoral Impact",
+      "notes": [
+        "Military rationale: Two-party system intended to reduce ethnic polarization, simplify voter choice, and prevent coalition instability seen in First and Second Republics.",
+        "Implementation: SDP and NRC received equal funding, mandatory national spread, and INEC-managed primaries; designed to function as broad-based catch-all parties.",
+        "Strengths: Encouraged cross-regional alliances, reduced extreme regionalism, promoted moderate policy platforms, and streamlined electoral competition.",
+        "Weaknesses: Limited ideological diversity, suppressed alternative voices, fostered internal factionalism, and ultimately failed due to military annulment and lack of genuine autonomy.",
+        "Legacy: Informed Fourth Republic multi-party evolution; highlighted need for inclusive systems with independent electoral oversight and civilian constitutional respect."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Two-party system Nigeria SDP NRC impact analysis site:youtube.com",
+      "quiz": [
+        {"q": "The military's rationale for a two-party system was to:", "opts": ["Increase ethnic polarization", "Reduce regional fragmentation and simplify electoral competition", "Eliminate all political activity", "Centralize foreign policy"], "ans": 1, "explanation": "Two parties were designed to force cross-ethnic coalitions and prevent regional dominance."},
+        {"q": "A strength of the SDP-NRC experiment was:", "opts": ["Complete military control", "Encouragement of cross-regional alliances and moderate platforms", "Elimination of grassroots participation", "Foreign party dominance"], "ans": 1, "explanation": "Structural design promoted national integration and reduced extreme regional politics."},
+        {"q": "A major weakness of the two-party system was:", "opts": ["Excessive ideological diversity", "Suppression of alternative voices and limited voter choice", "Complete financial transparency", "Military neutrality"], "ans": 1, "explanation": "Restricting to two parties marginalized minority viewpoints and reduced competitive policy debate."},
+        {"q": "INEC's role in the Third Republic included:", "opts": ["Banning political campaigns", "Managing party registration, primaries, and electoral oversight", "Centralizing military rule", "Eliminating voter registration"], "ans": 1, "explanation": "INEC ensured regulatory compliance, transparent primaries, and electoral administration."},
+        {"q": "Internal factionalism in SDP and NRC emerged due to:", "opts": ["Complete ideological agreement", "Competing regional interests, leadership rivalries, and policy differences", "Military intervention only", "Lack of funding"], "ans": 1, "explanation": "Broad coalitions struggled to reconcile diverse regional and ideological priorities."},
+        {"q": "The failure of the two-party experiment was primarily due to:", "opts": ["Excessive voter participation", "Military annulment and lack of genuine party autonomy", "Complete financial transparency", "Foreign interference only"], "ans": 1, "explanation": "Without civilian respect for outcomes, structural reforms could not sustain democratic progress."},
+        {"q": "The legacy of SDP and NRC informed Fourth Republic by:", "opts": ["Eliminating multi-party competition", "Highlighting need for inclusive systems with independent electoral oversight", "Banning grassroots movements", "Centralizing military control"], "ans": 1, "explanation": "Lessons emphasized institutional independence, multi-party inclusion, and constitutional civilian rule."},
+        {"q": "Citizens can advocate for inclusive party systems by:", "opts": ["Supporting one-party rule", "Demanding transparent registration, multi-party access, and independent oversight", "Ignoring electoral reforms", "Rejecting political competition"], "ans": 1, "explanation": "Active civic engagement ensures diverse representation and accountable democratic structures."},
+        {"q": "A lesson from the two-party experiment is:", "opts": ["Military control guarantees democracy", "Inclusive design and civilian respect are essential for sustainable party competition", "Two parties always eliminate corruption", "Foreign funding ensures success"], "ans": 1, "explanation": "Structural reforms require genuine autonomy, institutional integrity, and democratic commitment."},
+        {"q": "Understanding party system evolution helps citizens:", "opts": ["Reject historical lessons", "Appreciate institutional design and demand accountable, inclusive governance", "Support military intervention", "Ignore electoral history"], "ans": 1, "explanation": "Historical awareness enables informed advocacy for transparent, representative political systems."}
+      ]
+    }
+  ]
+}

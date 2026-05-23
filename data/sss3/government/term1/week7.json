@@ -1,0 +1,58 @@
+{
+  "course": "SSS3 Government",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Development of Political Parties in Nigeria (Part II)",
+  "subUnits": [
+    {
+      "id": "sss3_gov_t1_w7_su1",
+      "title": "7.1 Action Group (AG), NPC, & NEPU: Formation & Ideologies",
+      "notes": [
+        "Action Group (AG, 1951): Founded by Obafemi Awolowo; Western Region-based; progressive/socialist ideology; championed free primary education, industrialization, and federalism.",
+        "Northern People's Congress (NPC, 1951): Led by Ahmadu Bello and Tafawa Balewa; Northern Region-based; conservative, Islamic-influenced; advocated gradual self-government, regional autonomy, and protection of Northern interests.",
+        "Northern Elements Progressive Union (NEPU, 1950): Founded by Aminu Kano; radical populist party; opposed NPC's conservative elite; championed 'talakawa' (commoner) rights, anti-feudalism, and socialist policies.",
+        "Structural features: Regional headquarters, volunteer networks, newspaper propaganda (e.g., West African Pilot, Gaskiya, Nigerian Tribune), and grassroots mobilization through cultural and religious associations.",
+        "These parties defined First Republic politics, shaped constitutional negotiations, and established Nigeria's early multi-party democratic framework."
+      ],
+      "videoId": "",
+      "youtubeQuery": "Action Group NPC NEPU formation ideologies Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "The Action Group (AG) was founded by:", "opts": ["Nnamdi Azikiwe", "Ahmadu Bello", "Obafemi Awolowo", "Aminu Kano"], "ans": 2, "explanation": "Awolowo established the AG in 1951 as a Western Region-based progressive party."},
+        {"q": "A key policy initiative of the AG government in the Western Region was:", "opts": ["Military conscription", "Free primary education and industrialization", "Abolition of local governments", "Centralized federal control"], "ans": 1, "explanation": "The AG prioritized social welfare, education, and economic development in the West."},
+        {"q": "The Northern People's Congress (NPC) was primarily:", "opts": ["Radical and socialist", "Conservative, advocating gradual self-government and regional autonomy", "Secular and pan-Nigerian", "Military-oriented"], "ans": 1, "explanation": "NPC favored cautious political advancement, protecting Northern cultural and religious interests."},
+        {"q": "NEPU was founded to:", "opts": ["Support the NPC elite", "Champion talakawa (commoner) rights and oppose feudal structures", "Eliminate political parties", "Centralize power in Lagos"], "ans": 1, "explanation": "Aminu Kano formed NEPU to represent marginalized Northern masses against aristocratic dominance."},
+        {"q": "A defining feature of First Republic parties was:", "opts": ["National funding", "Regional base, ethnic alignment, and ideological differentiation", "Military control", "Elimination of grassroots networks"], "ans": 1, "explanation": "Parties drew support from specific regions, reflecting Nigeria's pluralistic political landscape."},
+        {"q": "The Nigerian Tribune served as a propaganda tool for:", "opts": ["NPC", "NCNC", "Action Group", "NEPU"], "ans": 2, "explanation": "Awolowo used the Nigerian Tribune to promote AG policies and mobilize Western Region support."},
+        {"q": "NPC's approach to self-government emphasized:", "opts": ["Immediate independence", "Gradual transition to preserve Northern administrative structures", "Military takeover", "Abolition of regionalism"], "ans": 1, "explanation": "NPC leaders argued for phased political advancement to ensure Northern readiness for self-rule."},
+        {"q": "NEPU's ideology was primarily:", "opts": ["Conservative and elitist", "Radical populist and anti-feudal", "Military authoritarian", "Religious theocratic"], "ans": 1, "explanation": "NEPU advocated wealth redistribution, democratic participation, and empowerment of ordinary citizens."},
+        {"q": "Regional party dominance in the First Republic led to:", "opts": ["Complete national unity", "Coalition governments, regional competition, and constitutional crises", "Elimination of elections", "Centralized one-party rule"], "ans": 1, "explanation": "Regional strength necessitated coalitions at the federal level but also fueled inter-party rivalries."},
+        {"q": "Understanding First Republic parties helps citizens:", "opts": ["Reject multi-party democracy", "Apprecide ideological diversity and regional representation in Nigerian politics", "Support military intervention", "Ignore constitutional history"], "ans": 1, "explanation": "Historical knowledge highlights the importance of inclusive platforms and democratic competition."}
+      ]
+    },
+    {
+      "id": "sss3_gov_t1_w7_su2",
+      "title": "7.2 Rivalries, Crises & Impact on First Republic Politics",
+      "notes": [
+        "First Republic politics was characterized by intense party rivalries, regional competition, and coalition governments at the federal level.",
+        "Major crises: 1962 AG split (Awolowo vs. Akintola), 1962/63 Census crisis (population-based revenue allocation disputes), 1964 Federal Elections crisis (boycotts, violence, legitimacy disputes).",
+        "Coalition dynamics: NCNC-NPC alliance (1959) governed federally, excluding AG, leading to opposition marginalization and regional tensions.",
+        "Consequences: Erosion of public trust, breakdown of democratic norms, military intervention (January 1966), and suspension of constitutional democracy.",
+        "Lessons: Need for transparent electoral processes, power-sharing agreements, independent judiciary, and institutional safeguards to prevent political violence."
+      ],
+      "videoId": "",
+      "youtubeQuery": "First Republic Nigeria political crises coalitions military intervention site:youtube.com",
+      "quiz": [
+        {"q": "A major political crisis in Nigeria's First Republic was:", "opts": ["1999 transition", "1962 Action Group split", "2015 elections", "2023 general elections"], "ans": 1, "explanation": "The 1962 AG split between Awolowo and Akintola fractured the party and triggered regional instability."},
+        {"q": "The 1962/63 Census crisis revolved around:", "opts": ["Religious affiliation", "Population figures determining revenue allocation and parliamentary seats", "Military recruitment", "Foreign aid distribution"], "ans": 1, "explanation": "Disputes over inflated census data led to political distrust and regional accusations of manipulation."},
+        {"q": "The NCNC-NPC coalition government (1959) excluded:", "opts": ["Traditional rulers", "Action Group", "Military officers", "Civil service"], "ans": 1, "explanation": "AG's exclusion from federal power intensified opposition resistance and regional polarization."},
+        {"q": "The 1964 Federal Elections crisis was marked by:", "opts": ["Complete transparency", "Boycotts, violence, and disputed results", "Military supervision", "Unanimous party agreement"], "ans": 1, "explanation": "Electoral malpractices, opposition boycotts, and regional tensions undermined democratic legitimacy."},
+        {"q": "Coalition governments in the First Republic aimed to:", "opts": ["Eliminate regional parties", "Balance federal power among competing regional blocs", "Centralize all authority", "Abolish local governments"], "ans": 1, "explanation": "Coalitions were necessary to secure parliamentary majorities in a fragmented, regionally divided system."},
+        {"q": "A consequence of First Republic political crises was:", "opts": ["Democratic consolidation", "Military intervention and suspension of constitutional democracy", "Elimination of political parties", "Complete regional autonomy"], "ans": 1, "explanation": "Political instability and electoral violence provided justification for the January 1966 military coup."},
+        {"q": "The breakdown of democratic norms was facilitated by:", "opts": ["Independent judiciary", "Partisan control of electoral bodies and weak institutional safeguards", "Transparent funding", "Civic education"], "ans": 1, "explanation": "Lack of electoral independence and institutional checks allowed political manipulation and violence."},
+        {"q": "A lesson from First Republic crises is:", "opts": ["Coalitions guarantee stability", "Transparent elections, power-sharing, and independent institutions are essential for democracy", "Military oversight improves governance", "Regional parties should be banned"], "ans": 1, "explanation": "Democratic sustainability requires institutional integrity, inclusive politics, and rule of law."},
+        {"q": "The January 1966 military intervention was justified by coup plotters as:", "opts": ["Economic reform", "Response to political corruption, ethnic violence, and electoral malpractices", "Foreign policy shift", "Abolition of traditional rulers"], "ans": 1, "explanation": "Military leaders cited political instability, corruption, and regional tensions as reasons for intervention."},
+        {"q": "Citizens can prevent political crises by:", "opts": ["Ignoring electoral processes", "Demanding transparent elections, supporting independent institutions, and rejecting ethnic polarization", "Supporting military rule", "Rejecting multi-party systems"], "ans": 1, "explanation": "Active civic engagement, institutional accountability, and inclusive politics safeguard democratic stability."}
+      ]
+    }
+  ]
+}
