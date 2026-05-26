@@ -1,32 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Virtue College Learning Hub</title>
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Virtue College | E-Learning Portal</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <h1>The Virtue College</h1>
-  <header class="header">
-  <div class="container nav-controls">
-    <select id="class-select" class="selector"></select>
-    <select id="subject-select" class="selector"></select>
-    <select id="week-select" class="selector"></select>
-    <button id="load-btn" class="btn primary">Go</button>
-  </div>
-  <div class="container week-nav">
-    <button id="prev-btn" class="btn secondary" disabled>← Prev</button>
-    <span id="current-week-display">Select class & subject</span>
-    <button id="next-btn" class="btn secondary" disabled>Next →</button>
-  </div>
-</header>
+    <header class="school-header">
+        <div class="header-container">
+            <div class="logo-section">
+                <div class="logo-wrapper">
+                    <!-- Ensure your logo is saved as logo.png in the images/ folder -->
+                    <img src="images/logo.jpg" alt="The Virtue College Logo" class="school-logo">
+                </div>
+                <div class="school-info">
+                    <h1 class="school-name">The Virtue College</h1>
+                    <p class="school-tagline">Excellence in Knowledge & Character</p>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="academic-badge">
+                    <span class="session">2024/2025 Academic Session</span>
+                </div>
+            </div>
+        </div>
+    </header>
 
-  <main class="container" id="main-content">
-    <div class="loader">Select a class and subject to begin</div>
-  </main>
+    <nav class="controls">
+        <div class="control-group">
+            <label for="class-select">Class:</label>
+            <select id="class-select">
+                <option value="jss1">JSS1</option>
+                <option value="jss2">JSS2</option>
+                <option value="jss3">JSS3</option>
+                <option value="sss1">SSS1</option>
+                <option value="sss2">SSS2</option>
+                <option value="sss3">SSS3</option>
+            </select>
+        </div>
 
-  <footer class="footer"><p>Internal School Learning System | NERDC Aligned</p></footer>
-  <script src="js/app.js"></script>
+        <div class="control-group">
+            <label for="subject-select">Subject:</label>
+            <select id="subject-select">
+                <option value="chemistry">Chemistry</option>
+                <option value="biology">Biology</option>
+                <option value="physics">Physics</option>
+                <option value="mathematics">Mathematics</option>
+                <option value="english">English</option>
+                <option value="government">Government</option>
+                <option value="economics">Economics</option>
+                <option value="yoruba">Yoruba</option>
+                <option value="geography">Geography</option>
+                <option value="islamic">Islamic Studies</option>
+            </select>
+        </div>
+
+        <div class="control-group">
+            <label for="term-select">Term:</label>
+            <select id="term-select">
+                <option value="1">First Term</option>
+                <option value="2">Second Term</option>
+                <option value="3">Third Term</option>
+            </select>
+        </div>
+
+        <div class="control-group">
+            <label for="week-select">Week:</label>
+            <select id="week-select">
+                <!-- Weeks populated dynamically -->
+            </select>
+        </div>
+    </nav>
+
+    <main id="content-area">
+        <!-- Content loads here -->
+    </main>
+
+    <div class="navigation-buttons">
+        <button id="prev-week" class="nav-btn" onclick="changeWeek(-1)">
+            <span class="arrow">←</span> Previous Week
+        </button>
+        <button id="next-week" class="nav-btn" onclick="changeWeek(1)">
+            Next Week <span class="arrow">→</span>
+        </button>
+    </div>
+
+    <footer class="school-footer">
+        <p>&copy; 2024 The Virtue College. All rights reserved.</p>
+        <p>Powered by E-Learning Portal</p>
+    </footer>
+
+    <script src="js/app.js"></script>
 </body>
 </html>

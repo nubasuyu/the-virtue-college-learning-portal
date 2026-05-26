@@ -1,0 +1,268 @@
+{
+  "course": "SSS2 Biology",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Transport System (Continued)",
+  "subUnits": [
+    {
+      "id": "sss2_bio_t1_w3_su1",
+      "title": "3.1 Media of Transportation and Blood Components",
+      "notes": [
+        "Media of Transportation:",
+        "Transport media are the substances that carry materials within organisms.",
+        "",
+        "1. In Plants:",
+        "   • Cell Sap: Solution in vacuoles containing sugars, salts, and wastes",
+        "     - Maintains turgor pressure for support",
+        "     - Stores nutrients and waste products",
+        "     - Nigerian example: Cell sap in cassava roots storing starch",
+        "",
+        "   • Cytoplasm: Gel-like substance where metabolic reactions occur",
+        "     - Site of intracellular transport",
+        "     - Contains organelles for specific functions",
+        "     - Nigerian context: Cytoplasmic streaming in Spirogyra observed in Nigerian ponds",
+        "",
+        "   • Latex: Milky fluid in some plants (e.g., rubber tree)",
+        "     - Contains secondary metabolites for defense",
+        "     - Used commercially for rubber production",
+        "     - Nigerian example: Rubber production in Cross River and Edo states",
+        "",
+        "2. In Animals:",
+        "   • Blood: Liquid connective tissue for transport",
+        "     - Plasma: Liquid component carrying dissolved substances",
+        "     - Cells: Red blood cells, white blood cells, platelets",
+        "     - Nigerian context: Blood composition important for health screening",
+        "",
+        "   • Lymph: Clear fluid derived from blood plasma",
+        "     - Transports fats from intestines",
+        "     - Supports immune function",
+        "     - Nigerian context: Lymphatic system important in disease resistance",
+        "",
+        "Components and Structure of Blood:",
+        "1. Plasma:",
+        "   • Composition: 90% water, 10% dissolved substances",
+        "   • Functions:",
+        "     - Transports nutrients, hormones, wastes",
+        "     - Maintains osmotic pressure and pH",
+        "     - Contains clotting factors",
+        "   • Nigerian context: Plasma used in transfusions and medical treatments",
+        "",
+        "2. Red Blood Cells (Erythrocytes):",
+        "   • Structure: Biconcave discs, no nucleus, contain hemoglobin",
+        "   • Functions:",
+        "     - Transport oxygen from lungs to tissues",
+        "     - Carry carbon dioxide from tissues to lungs",
+        "     - Maintain blood pH",
+        "   • Lifespan: ~120 days",
+        "   • Nigerian context: Red blood cell count important in diagnosing anemia and malaria",
+        "",
+        "3. White Blood Cells (Leukocytes):",
+        "   • Types and Functions:",
+        "     a) Neutrophils: Phagocytose bacteria",
+        "     b) Lymphocytes: Produce antibodies, coordinate immune response",
+        "     c) Monocytes: Become macrophages, engulf pathogens",
+        "     d) Eosinophils: Combat parasites, involved in allergies",
+        "     e) Basophils: Release histamine in inflammatory response",
+        "   • Nigerian context: White blood cell count used in diagnosing infections and immune disorders",
+        "",
+        "4. Platelets (Thrombocytes):",
+        "   • Structure: Cell fragments, no nucleus",
+        "   • Functions:",
+        "     - Initiate blood clotting to prevent blood loss",
+        "     - Release growth factors for tissue repair",
+        "   • Nigerian context: Platelet count important in managing bleeding disorders and dengue fever",
+        "",
+        "Functions of Blood Components:",
+        "1. Transport Functions:",
+        "   • Oxygen: Bound to hemoglobin in red blood cells",
+        "   • Carbon dioxide: Dissolved in plasma, bound to hemoglobin, or as bicarbonate",
+        "   • Nutrients: Glucose, amino acids, fatty acids dissolved in plasma",
+        "   • Wastes: Urea, uric acid, creatinine transported to excretory organs",
+        "   • Hormones: Chemical messengers transported to target organs",
+        "",
+        "2. Regulatory Functions:",
+        "   • Temperature: Blood distributes heat throughout body",
+        "   • pH: Buffers in plasma maintain acid-base balance",
+        "   • Fluid balance: Plasma proteins maintain osmotic pressure",
+        "",
+        "3. Protective Functions:",
+        "   • Immunity: White blood cells and antibodies fight infections",
+        "   • Clotting: Platelets and clotting factors prevent blood loss",
+        "   • Detoxification: Liver processes toxins carried in blood",
+        "",
+        "Blood Groups and Compatibility:",
+        "• ABO Blood Group System:",
+        "  - Type A: A antigens on RBCs, anti-B antibodies in plasma",
+        "  - Type B: B antigens on RBCs, anti-A antibodies in plasma",
+        "  - Type AB: Both A and B antigens, no antibodies (universal recipient)",
+        "  - Type O: No antigens, both anti-A and anti-B antibodies (universal donor)",
+        "",
+        "• Rhesus (Rh) Factor:",
+        "  - Rh+: Rh antigen present on RBCs",
+        "  - Rh-: Rh antigen absent",
+        "  - Importance: Rh incompatibility can cause hemolytic disease in newborns",
+        "",
+        "• Nigerian Context:",
+        "  - Blood group distribution varies among ethnic groups",
+        "  - Blood donation and transfusion services critical for healthcare",
+        "  - Sickle cell trait common in Nigeria; affects blood function",
+        "",
+        "Practical Activities:",
+        "1. Observing Blood Components:",
+        "   • Prepare blood smear slides",
+        "   • Stain with Leishman's or Giemsa stain",
+        "   • Observe under microscope for RBCs, WBCs, platelets",
+        "   • Draw and label observed cells",
+        "",
+        "2. Demonstrating Osmosis in Plants:",
+        "   • Detach leaves of pawpaw, cassava, or rubber plant",
+        "   • Observe latex or sap exudation",
+        "   • Discuss role of osmosis in sap movement",
+        "",
+        "3. Blood Group Testing Demonstration:",
+        "   • Teacher demonstrates blood grouping using simulated blood",
+        "   • Students observe agglutination reactions",
+        "   • Discuss importance of blood compatibility in transfusions",
+        "",
+        "Common Misconceptions:",
+        "• 'All blood cells have nuclei': Red blood cells in mammals lack nuclei",
+        "• 'Blood is only for oxygen transport': Blood transports nutrients, wastes, hormones, and supports immunity",
+        "• 'Plasma is just water': Plasma contains proteins, electrolytes, hormones, and other essential substances",
+        "• 'All plant sap is the same': Cell sap, latex, and phloem sap have different compositions and functions",
+        "",
+        "Nigerian Context:",
+        "• Understanding blood components important for managing anemia, malaria, and sickle cell disease in Nigeria",
+        "• Knowledge of plant transport media useful for crop improvement and latex production",
+        "• Blood group compatibility critical for safe transfusions in Nigerian hospitals",
+        "• Transport system concepts applied in Nigerian agriculture, medicine, and biotechnology",
+        "",
+        "Conclusion:",
+        "• Transport media (cell sap, cytoplasm, blood, lymph) are essential for material distribution",
+        "• Blood components (plasma, RBCs, WBCs, platelets) have specialized functions",
+        "• Understanding transport media and blood components has applications in health, agriculture, and industry",
+        "• In Nigeria, this knowledge supports disease management, crop production, and healthcare delivery"
+      ],
+      "diagramDescriptions": [
+        "Diagram of blood components: plasma, RBCs, WBCs, platelets with functions",
+        "Illustration of plant transport media: cell sap, cytoplasm, latex",
+        "Chart of ABO and Rh blood group systems with compatibility",
+        "Micrograph of blood smear showing different cell types",
+        "Nigerian examples: Blood transfusion services, rubber latex production"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Blood components transport system biology SSS2 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The liquid component of blood is called:",
+          "opts": [
+            "Serum",
+            "Plasma",
+            "Lymph",
+            "Cytoplasm"
+          ],
+          "ans": 1,
+          "explanation": "Plasma is the liquid component of blood, comprising about 55% of blood volume and carrying dissolved substances."
+        },
+        {
+          "q": "Red blood cells are specialized for:",
+          "opts": [
+            "Fighting infections",
+            "Transporting oxygen",
+            "Clotting blood",
+            "Producing antibodies"
+          ],
+          "ans": 1,
+          "explanation": "Red blood cells contain hemoglobin, which binds oxygen in the lungs and releases it in tissues."
+        },
+        {
+          "q": "White blood cells that produce antibodies are:",
+          "opts": [
+            "Neutrophils",
+            "Lymphocytes",
+            "Platelets",
+            "Erythrocytes"
+          ],
+          "ans": 1,
+          "explanation": "Lymphocytes (B cells) produce antibodies that specifically target pathogens in the immune response."
+        },
+        {
+          "q": "Platelets are important for:",
+          "opts": [
+            "Oxygen transport",
+            "Blood clotting",
+            "Nutrient absorption",
+            "Hormone production"
+          ],
+          "ans": 1,
+          "explanation": "Platelets (thrombocytes) initiate blood clotting to prevent excessive bleeding after injury."
+        },
+        {
+          "q": "A person with blood type AB can receive blood from:",
+          "opts": [
+            "Type A only",
+            "Type B only",
+            "Type O only",
+            "All blood types (A, B, AB, O)"
+          ],
+          "ans": 3,
+          "explanation": "Type AB individuals have both A and B antigens and no anti-A or anti-B antibodies, making them universal recipients."
+        },
+        {
+          "q": "Latex in plants like rubber tree is an example of:",
+          "opts": [
+            "Cell sap",
+            "Cytoplasm",
+            "A transport medium containing secondary metabolites",
+            "Phloem sap"
+          ],
+          "ans": 2,
+          "explanation": "Latex is a milky fluid containing secondary metabolites for defense, used commercially for rubber production in Nigeria."
+        },
+        {
+          "q": "The Rh factor is important in blood transfusion because:",
+          "opts": [
+            "It determines blood color",
+            "Rh incompatibility can cause immune reactions",
+            "It affects oxygen carrying capacity",
+            "It determines blood viscosity"
+          ],
+          "ans": 1,
+          "explanation": "Rh incompatibility between mother and fetus or donor and recipient can trigger immune responses causing hemolytic reactions."
+        },
+        {
+          "q": "A Nigerian health issue related to blood components is:",
+          "opts": [
+            "Only malaria",
+            "Sickle cell disease affecting red blood cell function",
+            "Only anemia",
+            "Only hypertension"
+          ],
+          "ans": 1,
+          "explanation": "Sickle cell disease, common in Nigeria, causes abnormal hemoglobin that distorts red blood cells, impairing oxygen transport."
+        },
+        {
+          "q": "Cell sap in plant vacuoles functions to:",
+          "opts": [
+            "Only store water",
+            "Maintain turgor pressure and store nutrients/wastes",
+            "Only transport sugars",
+            "Only produce latex"
+          ],
+          "ans": 1,
+          "explanation": "Cell sap maintains turgor pressure for support and stores nutrients, ions, and waste products in plant cells."
+        },
+        {
+          "q": "Understanding blood components is important for Nigerian healthcare because it:",
+          "opts": [
+            "Only helps name blood parts",
+            "Supports diagnosis and management of blood-related diseases like anemia, malaria, and sickle cell",
+            "Only for academic purposes",
+            "Only for blood donation"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of blood components helps healthcare workers diagnose and treat conditions like anemia, malaria, and sickle cell disease prevalent in Nigeria."
+        }
+      ]
+    }
+  ]
+}

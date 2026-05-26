@@ -1,0 +1,251 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 12,
+  "topic": "ÀṢÀ: Oyún Níní, Ìtọ́jú Oyún àti Ìtọ́jú Ọmọ",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w12_su1",
+      "title": "12.1 Ìgbàgbọ́ Nípa Ọmọ Bíbí, Ìtọ́jú Oyún, àti Ìtọ́jú Ọmọ",
+      "notes": [
+        "Ìgbàgbọ́ Nípa Ọmọ Bíbí àti Àbíkú:",
+        "• Ìgbàgbọ́ Yorùbá nípa ọmọ bíbí:",
+        "  a) Ọmọ jẹ́ ẹ̀bùn láti ọ̀dọ̀ Ọlọ́run",
+        "  b) Ọmọ jẹ́ ìtẹ́lọ́rùn ìdílé",
+        "  c) Ọmọ jẹ́ ìtọ́jú ìran",
+        "  d) Ọmọ jẹ́ ìtìlẹ́yìn nínú ìṣòro àti ìdùnnú",
+        "",
+        "• Ìgbàgbọ́ nípa àbíkú:",
+        "  a) Àbíkú jẹ́ ọmọ tí ó ń kú lẹ́yìn ìbí",
+        "  b) Àbíkú jẹ́ ẹ̀bùn tí ó padà sí ọ̀dọ̀ Ọlọ́run",
+        "  c) Àbíkú jẹ́ ìkìlọ̀ fún ìdílé",
+        "",
+        "Ohun Gbogbo Ló Ní Àsìkò:",
+        "• Tókò-taya ni oyún wà fún, kì í ṣe àpọn àti wúndíá",
+        "• Oyún wà fún àwọn tí wọ́n ti gbéyàwó",
+        "• Oyún kò wà fún àwọn tí kò tíì gbéyàwó",
+        "• Nigerian context: Ìgbàgbọ́ Yorùbá nípa oyún àti ìbí ọmọ",
+        "",
+        "Ọ̀nà Tí A Lè Gbà Dín Bíbí Àbíkú Kù Láwùjọ̀:",
+        "• Òye lórí onírúurú jẹ́nótáìpù ẹ̀jẹ́ tó wà:",
+        "  a) Jẹ́nótáìpù ẹ̀jẹ́ A, B, AB, O",
+        "  b) Jẹ́nótáìpù ẹ̀jẹ́ Rh+ àti Rh-",
+        "  c) Ìmọ̀ jẹ́nótáìpù ẹ̀jẹ́ ń ràn àwọn tó fẹ́ fẹ́ra wọn lọ́wọ́",
+        "",
+        "• Àwọn tó fẹ́ fẹ́ra wọn:",
+        "  a) Kí wọ́n mọ̀ jẹ́nótáìpù ẹ̀jẹ́ wọn",
+        "  b) Kí wọ́n mọ̀ bí jẹ́nótáìpù ẹ̀jẹ́ ṣe lè ṣe àkóbá fún oyún",
+        "  c) Kí wọ́n mọ̀ bí a ṣe lè dín bíbí àbíkú kù",
+        "",
+        "Aájò Láti Lè Tètè Lóyún:",
+        "• Àýfààní kíkó ara ẹni ní ìjánu nípa ìbálòpọ̀:",
+        "  a) Kí àwọn tó fẹ́ fẹ́ra wọn mọ̀ bí ìbálòpọ̀ ṣe ń ṣe àkóbá fún oyún",
+        "  b) Kí wọ́n mọ̀ bí a ṣe lè dín ìṣòro oyún kù",
+        "",
+        "• Yíyẹ̀ra fún ìlòkulò oògùn ìṣẹ́yún:",
+        "  a) Oògùn ìṣẹ́yún lè ṣe àkóbá fún ìlera aboyún",
+        "  b) Oògùn ìṣẹ́yún lè ṣe àkóbá fún ìbí ọmọ",
+        "  c) Kí wọ́n yẹ̀ra fún ìlòkulò oògùn ìṣẹ́yún",
+        "",
+        "Bí a ṣe ń Tọ́jú Aboyún:",
+        "• Ìtọ́jú aboyún jẹ́ pàtàkì fún ìlera aboyún àti ọmọ",
+        "• Oríṣiríṣi ọ̀nà ìtọ́jú aboyún:",
+        "  a) Ìtọ́jú ní ilé ìwòsàn (ìbílẹ̀/ìjọba)",
+        "  b) Ìtọ́jú pẹ̀lú oúnjẹ aṣaralóore",
+        "  c) Ìtọ́jú pẹ̀lú ìmọ́tótó",
+        "  d) Ìtọ́jú pẹ̀lú ìsinmi",
+        "",
+        "• Ìtọ́jú ní ilé ìwòsàn:",
+        "  a) Ìtọ́jú ní ilé ìwòsàn ìbílẹ̀",
+        "  b) Ìtọ́jú ní ilé ìwòsàn ìjọba",
+        "  c) Ìtọ́jú pẹ̀lú ìmọ̀ ìlera",
+        "",
+        "Oúnjẹ Aṣaralóore:",
+        "• Oúnjẹ aṣaralóore jẹ́ oúnjẹ tí ó ní àwọn ohun èlò tí ó wúlò fún aboyún",
+        "• Oríṣiríṣi oúnjẹ aṣaralóore:",
+        "  a) Ẹ̀kọ́, amàlà, iṣu, ẹja, ẹran, ewé, èso, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  b) Oúnjẹ tí ó ní protein, carbohydrate, fat, vitamin, àti mineral",
+        "  c) Oúnjẹ tí ó wúlò fún ìlera aboyún àti ìdàgbàsókè ọmọ",
+        "",
+        "Oyún Dídè:",
+        "• Oyún dídè jẹ́ ìṣẹ̀lẹ̀ tí oyún ń dà",
+        "• Ìdí oyún dídè:",
+        "  a) Ìṣòro ìlera aboyún",
+        "  b) Ìṣòro ìlera ọmọ",
+        "  c) Ìṣòro ìbálòpọ̀",
+        "",
+        "• Ìtọ́jú oyún dídè:",
+        "  a) Ìtọ́jú ní ilé ìwòsàn",
+        "  b) Ìtọ́jú pẹ̀lú oúnjẹ aṣaralóore",
+        "  c) Ìtọ́jú pẹ̀lú ìsinmi",
+        "",
+        "Àwẹ́bí:",
+        "• Àwẹ́bí jẹ́ ìṣẹ̀lẹ̀ tí aboyún ń bí ọmọ",
+        "• Ìlànà àwẹ́bí:",
+        "  a) Ìtọ́jú aboyún kí ó tó bí",
+        "  b) Ìtọ́jú aboyún nígbà tí ó ń bí",
+        "  c) Ìtọ́jú aboyún lẹ́yìn tí ó bí",
+        "",
+        "• Ìtọ́jú ọmọ lẹ́yìn ìbí:",
+        "  a) Ìtọ́jú ọmọ pẹ̀lú oúnjẹ",
+        "  b) Ìtọ́jú ọmọ pẹ̀lú ìmọ́tótó",
+        "  c) Ìtọ́jú ọmọ pẹ̀lú ìsinmi",
+        "",
+        "Practical Activities:",
+        "1. Ìjíròrò Lórí Oyún:",
+        "   • Jíròrò lórí ìgbàgbọ́ Yorùbá nípa oyún àti ìbí ọmọ",
+        "   • Sọ ohun tí o rò nípa pàtàkì ìtọ́jú oyún",
+        "   • Sọ bí a ṣe lè dín bíbí àbíkú kù",
+        "",
+        "2. Ìdámọ̀ Oúnjẹ Aṣaralóore:",
+        "   • Kíyèsí àwọn oúnjẹ aṣaralóore tí ó wà ní àyíká",
+        "   • Ṣàlàyé ìwúlò oúnjẹ kọ̀ọ̀kan",
+        "   • Sọ bí oúnjẹ ṣe lè ṣe ìrànlọ́wọ́ fún aboyún",
+        "",
+        "3. Ìṣe Àfihàn Ìtọ́jú Aboyún:",
+        "   • Ṣe àfihàn bí a ṣe ń tọ́jú aboyún",
+        "   • Kí àwọn akẹ́kọ̀ọ́ ṣe àdàkọ́ ìtọ́jú aboyún",
+        "   • Ṣàlàyé ìwúlò ìtọ́jú aboyún",
+        "",
+        "Common Misconceptions:",
+        "• 'Oyún kò wà fún àwọn tí kò tíì gbéyàwó': Oyún wà fún àwọn tí wọ́n ti gbéyàwó",
+        "• 'Àbíkú jẹ́ ẹ̀bùn tí ó padà sí ọ̀dọ̀ Ọlọ́run': Àbíkú jẹ́ ọmọ tí ó ń kú lẹ́yìn ìbí",
+        "• 'Oògùn ìṣẹ́yún kò ṣe àkóbá': Oògùn ìṣẹ́yún lè ṣe àkóbá fún ìlera aboyún àti ọmọ",
+        "• 'Ìtọ́jú aboyún kò ṣe pàtàkì': Ìtọ́jú aboyún jẹ́ pàtàkì fún ìlera aboyún àti ọmọ",
+        "",
+        "Nigerian Context:",
+        "• Ìtọ́jú oyún jẹ́ pàtàkì fún ìlera aboyún àti ọmọ",
+        "• Ìmọ̀ ìtọ́jú oyún ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè mọ̀ bí a ṣe ń tọ́jú aboyún",
+        "• Ìmọ̀ ìtọ́jú oyún jẹ́ pàtàkì fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+        "",
+        "Conclusion:",
+        "• Ìgbàgbọ́ nípa ọmọ bíbí àti àbíkú jẹ́ pàtàkì fún ìmọ̀ àṣà Yorùbá",
+        "• Ohun gbogbo ló ní àsìkò, tókò-taya ni oyún wà fún",
+        "• Ọ̀nà tí a lè gbà dín bíbí àbíkú kù jẹ́ pàtàkì fún ìlera àwùjọ̀",
+        "• Aájò láti lè tètè lóyún jẹ́ pàtàkì fún ìlera aboyún àti ọmọ",
+        "• Ìtọ́jú aboyún, oúnjẹ aṣaralóore, oyún dídè, àti àwẹ́bí jẹ́ pàtàkì fún ìmọ̀ ìtọ́jú oyún"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde ìgbàgbọ́ Yorùbá nípa ọmọ bíbí àti àbíkú",
+        "Àtẹ̀jáde jẹ́nótáìpù ẹ̀jẹ́ àti ìwúlò rẹ̀",
+        "Àtẹ̀jáde ọ̀nà tí a lè gbà dín bíbí àbíkú kù",
+        "Àtẹ̀jáde ìtọ́jú aboyún: ilé ìwòsàn, oúnjẹ, ìmọ́tótó, ìsinmi",
+        "Nigerian examples: Oúnjẹ aṣaralóore, ìtọ́jú oyún ní ilé ìwòsàn ìbílẹ̀/ìjọba"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Oyún níní ìtọ́jú oyún Yorùbá SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Ìgbàgbọ́ Yorùbá nípa ọmọ bíbí kò ní:",
+          "opts": [
+            "Ọmọ jẹ́ ẹ̀bùn láti ọ̀dọ̀ Ọlọ́run",
+            "Ọmọ jẹ́ ìtẹ́lọ́rùn ìdílé",
+            "Ọmọ jẹ́ ìṣòro fún ìdílé",
+            "Ọmọ jẹ́ ìtìlẹ́yìn nínú ìṣòro àti ìdùnnú"
+          ],
+          "ans": 2,
+          "explanation": "Ìgbàgbọ́ Yorùbá nípa ọmọ bíbí kò ní ọmọ jẹ́ ìṣòro fún ìdílé; ó ní ọmọ jẹ́ ẹ̀bùn, ìtẹ́lọ́rùn, àti ìtìlẹ́yìn."
+        },
+        {
+          "q": "Tókò-taya ni oyún wà fún, kì í ṣe:",
+          "opts": [
+            "Àpọn",
+            "Wúndíá",
+            "Àpọn àti wúndíá",
+            "Ọkọ àti aya"
+          ],
+          "ans": 2,
+          "explanation": "Tókò-taya ni oyún wà fún, kì í ṣe àpọn àti wúndíá. Oyún wà fún àwọn tí wọ́n ti gbéyàwó."
+        },
+        {
+          "q": "Ọ̀nà tí a lè gbà dín bíbí àbíkú kù kò ní:",
+          "opts": [
+            "Òye lórí onírúurú jẹ́nótáìpù ẹ̀jẹ́",
+            "Àwọn tó fẹ́ fẹ́ra wọn kí wọ́n mọ̀ jẹ́nótáìpù ẹ̀jẹ́ wọn",
+            "Ìlòkulò oògùn ìṣẹ́yún",
+            "Yíyẹ̀ra fún ìlòkulò oògùn ìṣẹ́yún"
+          ],
+          "ans": 2,
+          "explanation": "Ọ̀nà tí a lè gbà dín bíbí àbíkú kù kò ní ìlòkulò oògùn ìṣẹ́yún; ó ní òye lórí jẹ́nótáìpù ẹ̀jẹ́, kí wọ́n mọ̀ jẹ́nótáìpù wọn, àti yíyẹ̀ra fún ìlòkulò oògùn ìṣẹ́yún."
+        },
+        {
+          "q": "Aájò láti lè tètè lóyún kò ní:",
+          "opts": [
+            "Àýfààní kíkó ara ẹni ní ìjánu nípa ìbálòpọ̀",
+            "Yíyẹ̀ra fún ìlòkulò oògùn ìṣẹ́yún",
+            "Ìlòkulò oògùn ìṣẹ́yún",
+            "Kí wọ́n mọ̀ bí ìbálòpọ̀ ṣe ń ṣe àkóbá fún oyún"
+          ],
+          "ans": 2,
+          "explanation": "Aájò láti lè tètè lóyún kò ní ìlòkulò oògùn ìṣẹ́yún; ó ní àýfààní kíkó ara ẹni ní ìjánu, yíyẹ̀ra fún ìlòkulò oògùn ìṣẹ́yún, àti kí wọ́n mọ̀ bí ìbálòpọ̀ ṣe ń ṣe àkóbá."
+        },
+        {
+          "q": "Bí a ṣe ń tọ́jú aboyún kò ní:",
+          "opts": [
+            "Ìtọ́jú ní ilé ìwòsàn",
+            "Ìtọ́jú pẹ̀lú oúnjẹ aṣaralóore",
+            "Ìtọ́jú pẹ̀lú ìmọ́tótó",
+            "Ìtọ́jú pẹ̀lú ìlòkulò oògùn ìṣẹ́yún"
+          ],
+          "ans": 3,
+          "explanation": "Bí a ṣe ń tọ́jú aboyún kò ní ìtọ́jú pẹ̀lú ìlòkulò oògùn ìṣẹ́yún; ó ní ìtọ́jú ní ilé ìwòsàn, oúnjẹ aṣaralóore, ìmọ́tótó, àti ìsinmi."
+        },
+        {
+          "q": "Oúnjẹ aṣaralóore kò ní:",
+          "opts": [
+            "Ẹ̀kọ́, amàlà, iṣu",
+            "Ẹja, ẹran, ewé, èso",
+            "Oúnjẹ tí ó ní protein, carbohydrate, fat, vitamin, àti mineral",
+            "Oúnjẹ tí ó ní oògùn ìṣẹ́yún"
+          ],
+          "ans": 3,
+          "explanation": "Oúnjẹ aṣaralóore kò ní oúnjẹ tí ó ní oògùn ìṣẹ́yún; ó ní ẹ̀kọ́, amàlà, iṣu, ẹja, ẹran, ewé, èso, àti oúnjẹ tí ó ní protein, carbohydrate, fat, vitamin, àti mineral."
+        },
+        {
+          "q": "Oyún dídè jẹ́:",
+          "opts": [
+            "Ìṣẹ̀lẹ̀ tí oyún ń dà",
+            "Ìṣẹ̀lẹ̀ tí oyún ń wà",
+            "Ìṣẹ̀lẹ̀ tí oyún ń bí",
+            "Ìṣẹ̀lẹ̀ tí oyún ń kú"
+          ],
+          "ans": 0,
+          "explanation": "Oyún dídè jẹ́ ìṣẹ̀lẹ̀ tí oyún ń dà, tí ó lè ṣe àkóbá fún ìlera aboyún àti ọmọ."
+        },
+        {
+          "q": "Àwẹ́bí jẹ́:",
+          "opts": [
+            "Ìṣẹ̀lẹ̀ tí aboyún ń bí ọmọ",
+            "Ìṣẹ̀lẹ̀ tí aboyún ń dà",
+            "Ìṣẹ̀lẹ̀ tí aboyún ń wà",
+            "Ìṣẹ̀lẹ̀ tí aboyún ń kú"
+          ],
+          "ans": 0,
+          "explanation": "Àwẹ́bí jẹ́ ìṣẹ̀lẹ̀ tí aboyún ń bí ọmọ, tí ó jẹ́ ìparí ìtọ́jú oyún."
+        },
+        {
+          "q": "Ìwúlò ìmọ̀ ìtọ́jú oyún kò ní:",
+          "opts": [
+            "Láti lè tọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+            "Láti lè dín bíbí àbíkú kù",
+            "Láti lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+            "Láti lè ṣe ìṣòro fún àwùjọ̀"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò ìmọ̀ ìtọ́jú oyún kò ní láti lè ṣe ìṣòro fún àwùjọ̀; ó ní láti lè tọ́jú àṣà, dín bíbí àbíkú kù, àti ṣe ìrànlọ́wọ́ fún àwùjọ̀."
+        },
+        {
+          "q": "A common misconception about oyún ni:",
+          "opts": [
+            "Oyún kò wà fún àwọn tí kò tíì gbéyàwó",
+            "Oyún wà fún àwọn tí wọ́n ti gbéyàwó",
+            "Oyún jẹ́ pàtàkì fún àwùjọ̀",
+            "Oyún ní ìtọ́jú"
+          ],
+          "ans": 0,
+          "explanation": "Oyún wà fún àwọn tí wọ́n ti gbéyàwó, kì í ṣe pé kò wà fún àwọn tí kò tíì gbéyàwó."
+        }
+      ]
+    }
+  ]
+}

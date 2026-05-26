@@ -1,0 +1,272 @@
+{
+  "course": "SSS2 Biology",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Transport System",
+  "subUnits": [
+    {
+      "id": "sss2_bio_t1_w2_su1",
+      "title": "2.1 Definition, Importance and Structures of Transport System",
+      "notes": [
+        "Definition of Transport System:",
+        "• Transport system is the mechanism by which materials (nutrients, gases, wastes, hormones) are moved within an organism",
+        "• It ensures distribution of essential substances to all cells and removal of metabolic wastes",
+        "• In simple organisms, transport occurs by diffusion and osmosis",
+        "• In complex organisms, specialized transport systems (circulatory, vascular) are required",
+        "• Nigerian context: Understanding transport systems helps in managing crop irrigation and animal health in Nigerian agriculture",
+        "",
+        "Importance of Diffusion and Osmosis to Transport System:",
+        "• Diffusion: Net movement of molecules from high to low concentration",
+        "  - Enables gas exchange in lungs, gills, and leaves",
+        "  - Facilitates absorption of nutrients in intestines and roots",
+        "  - Nigerian example: Oxygen diffusion into fish gills in Nigerian rivers",
+        "",
+        "• Osmosis: Net movement of water across a selectively permeable membrane",
+        "  - Maintains water balance in cells",
+        "  - Enables water absorption by root hairs in plants",
+        "  - Nigerian example: Root absorption of water in cassava and yam farms",
+        "",
+        "Transport System in Large Organisms:",
+        "1. In Plants (Vascular System):",
+        "   • Xylem: Transports water and mineral salts from roots to leaves",
+        "     - Composed of tracheids and vessel elements",
+        "     - Dead, hollow cells with lignified walls for strength",
+        "     - Nigerian example: Xylem transport in maize and cassava stems",
+        "",
+        "   • Phloem: Transports organic nutrients (sucrose, amino acids) from leaves to other parts",
+        "     - Composed of sieve tubes and companion cells",
+        "     - Living cells with selective permeability",
+        "     - Nigerian example: Phloem transport of sugars in yam tubers",
+        "",
+        "2. In Animals (Circulatory System):",
+        "   • Open circulatory system: Blood flows freely in body cavities",
+        "     - Found in insects, crustaceans",
+        "     - Less efficient but adequate for small organisms",
+        "     - Nigerian example: Transport in grasshoppers and crabs",
+        "",
+        "   • Closed circulatory system: Blood confined to vessels",
+        "     - Found in vertebrates and some invertebrates",
+        "     - More efficient for rapid transport",
+        "     - Nigerian example: Human and cattle circulatory systems",
+        "",
+        "Importance of Transport System:",
+        "1. Distribution of Nutrients:",
+        "   • Delivers glucose, amino acids, fatty acids to cells",
+        "   • Supports growth, repair, and energy production",
+        "   • Nigerian context: Essential for livestock growth and crop development",
+        "",
+        "2. Gas Exchange:",
+        "   • Transports oxygen to cells and removes carbon dioxide",
+        "   • Supports cellular respiration",
+        "   • Nigerian example: Oxygen transport in human blood during physical activity",
+        "",
+        "3. Waste Removal:",
+        "   • Carries metabolic wastes (urea, CO₂) to excretory organs",
+        "   • Prevents toxic accumulation",
+        "   • Nigerian context: Kidney function in removing urea from blood",
+        "",
+        "4. Hormone Distribution:",
+        "   • Transports hormones from endocrine glands to target organs",
+        "   • Regulates growth, metabolism, and reproduction",
+        "   • Nigerian example: Insulin transport regulating blood sugar",
+        "",
+        "5. Immune Response:",
+        "   • Transports white blood cells and antibodies to infection sites",
+        "   • Supports disease resistance",
+        "   • Nigerian context: Immune response to malaria and other infections",
+        "",
+        "Materials for Transport:",
+        "1. In Plants:",
+        "   • Water and mineral salts: Transported by xylem",
+        "   • Organic nutrients: Transported by phloem",
+        "   • Hormones: Transported in sap",
+        "",
+        "2. In Animals:",
+        "   • Blood: Plasma, red blood cells, white blood cells, platelets",
+        "   • Lymph: Transports fats and immune cells",
+        "   • Nigerian context: Blood composition important for health screening",
+        "",
+        "Structures of Arteries, Veins, and Vascular Bundles:",
+        "1. Arteries:",
+        "   • Thick, elastic walls to withstand high pressure",
+        "   • Carry oxygenated blood away from heart (except pulmonary artery)",
+        "   • No valves (except at base of aorta)",
+        "   • Nigerian context: Arterial health important for preventing hypertension",
+        "",
+        "2. Veins:",
+        "   • Thin walls with valves to prevent backflow",
+        "   • Carry deoxygenated blood to heart (except pulmonary vein)",
+        "   • Lower pressure than arteries",
+        "   • Nigerian context: Varicose veins common in pregnant women",
+        "",
+        "3. Capillaries:",
+        "   • Thin walls (one cell thick) for efficient exchange",
+        "   • Connect arteries and veins",
+        "   • Site of nutrient, gas, and waste exchange",
+        "   • Nigerian context: Capillary function important in wound healing",
+        "",
+        "4. Vascular Bundles in Plants:",
+        "   • Arrangement of xylem and phloem in stems and roots",
+        "   • In monocots: Scattered bundles",
+        "   • In dicots: Ring arrangement",
+        "   • Nigerian example: Vascular bundles in maize (monocot) vs cassava (dicot)",
+        "",
+        "Practical Activities:",
+        "1. Demonstrating Diffusion:",
+        "   • Set up experiment with colored liquid in water",
+        "   • Observe and record time taken for diffusion",
+        "   • Discuss factors affecting diffusion rate",
+        "",
+        "2. Observing Plant Vascular Tissue:",
+        "   • Prepare transverse sections of monocot and dicot stems",
+        "   • Observe under microscope for xylem and phloem arrangement",
+        "   • Draw and label observed structures",
+        "",
+        "3. Blood Component Identification:",
+        "   • Use prepared slides of blood smear",
+        "   • Identify red blood cells, white blood cells, platelets",
+        "   • Note differences in size, shape, and nucleus presence",
+        "",
+        "Common Misconceptions:",
+        "• 'Transport only occurs in animals': Plants also have specialized transport systems",
+        "• 'Arteries always carry oxygenated blood': Pulmonary artery carries deoxygenated blood",
+        "• 'Diffusion is fast over long distances': Diffusion is efficient only over short distances",
+        "• 'All plant cells transport water': Only xylem cells transport water; phloem transports nutrients",
+        "",
+        "Nigerian Context:",
+        "• Understanding transport systems helps in Nigerian agriculture (crop irrigation, nutrient management)",
+        "• Knowledge of blood transport important for public health and disease management",
+        "• Vascular bundle knowledge useful for crop improvement and pest resistance",
+        "• Transport system concepts applied in Nigerian medicine, agriculture, and environmental management",
+        "",
+        "Conclusion:",
+        "• Transport systems are essential for distribution of materials in organisms",
+        "• Diffusion and osmosis are fundamental to transport in simple organisms",
+        "• Complex organisms have specialized structures (xylem, phloem, arteries, veins) for efficient transport",
+        "• Understanding transport systems has applications in agriculture, health, and environmental management",
+        "• In Nigeria, this knowledge supports crop production, livestock management, and public health"
+      ],
+      "diagramDescriptions": [
+        "Diagram comparing transport in simple vs complex organisms",
+        "Illustration of plant vascular bundle: xylem and phloem arrangement",
+        "Diagram of animal circulatory system: arteries, veins, capillaries",
+        "Chart of blood components and their functions",
+        "Nigerian examples: Xylem in cassava stem, blood circulation in humans"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Transport system biology plants animals SSS2 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The transport system in plants is called:",
+          "opts": [
+            "Circulatory system",
+            "Vascular system",
+            "Respiratory system",
+            "Excretory system"
+          ],
+          "ans": 1,
+          "explanation": "Plants have a vascular system composed of xylem and phloem for transporting water, minerals, and nutrients."
+        },
+        {
+          "q": "Xylem tissue in plants primarily transports:",
+          "opts": [
+            "Organic nutrients",
+            "Water and mineral salts",
+            "Hormones only",
+            "Waste products"
+          ],
+          "ans": 1,
+          "explanation": "Xylem transports water and mineral salts from roots to leaves through dead, lignified cells."
+        },
+        {
+          "q": "Phloem tissue in plants is responsible for:",
+          "opts": [
+            "Water transport",
+            "Transport of organic nutrients like sucrose",
+            "Gas exchange",
+            "Structural support only"
+          ],
+          "ans": 1,
+          "explanation": "Phloem transports organic nutrients (sucrose, amino acids) from source (leaves) to sink (roots, fruits) through living cells."
+        },
+        {
+          "q": "Arteries differ from veins in that arteries:",
+          "opts": [
+            "Have thinner walls",
+            "Carry blood away from the heart",
+            "Always contain valves",
+            "Carry deoxygenated blood"
+          ],
+          "ans": 1,
+          "explanation": "Arteries carry blood away from the heart under high pressure and have thick, elastic walls; veins carry blood to the heart and have valves."
+        },
+        {
+          "q": "Capillaries are important for transport because they:",
+          "opts": [
+            "Have thick walls for strength",
+            "Have thin walls for efficient exchange of materials",
+            "Carry blood at high pressure",
+            "Contain valves to prevent backflow"
+          ],
+          "ans": 1,
+          "explanation": "Capillaries have walls one cell thick, allowing efficient exchange of nutrients, gases, and wastes between blood and tissues."
+        },
+        {
+          "q": "A Nigerian example of osmosis in transport is:",
+          "opts": [
+            "Blood circulation in humans",
+            "Water absorption by root hairs in cassava",
+            "Gas exchange in lungs",
+            "Nutrient transport in phloem"
+          ],
+          "ans": 1,
+          "explanation": "Root hairs absorb water from soil by osmosis, a key process in plant transport systems in Nigerian farms."
+        },
+        {
+          "q": "The main component of blood that transports oxygen is:",
+          "opts": [
+            "Plasma",
+            "White blood cells",
+            "Red blood cells",
+            "Platelets"
+          ],
+          "ans": 2,
+          "explanation": "Red blood cells contain hemoglobin, which binds and transports oxygen from lungs to body tissues."
+        },
+        {
+          "q": "Vascular bundles in monocot stems are arranged:",
+          "opts": [
+            "In a ring",
+            "Scattered throughout the stem",
+            "Only in the center",
+            "Only at the periphery"
+          ],
+          "ans": 1,
+          "explanation": "In monocots like maize, vascular bundles are scattered; in dicots like cassava, they form a ring."
+        },
+        {
+          "q": "Understanding transport systems is important for Nigerian agriculture because it:",
+          "opts": [
+            "Only helps name plant parts",
+            "Helps in crop irrigation, nutrient management, and pest control",
+            "Only for academic purposes",
+            "Only for animal health"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of transport systems helps farmers manage water uptake, nutrient distribution, and disease resistance in crops."
+        },
+        {
+          "q": "A common misconception about transport is:",
+          "opts": [
+            "Transport occurs in both plants and animals",
+            "Diffusion is efficient over long distances",
+            "Xylem transports water",
+            "Blood transports oxygen"
+          ],
+          "ans": 1,
+          "explanation": "Diffusion is only efficient over short distances; complex organisms need specialized transport systems for long-distance movement."
+        }
+      ]
+    }
+  ]
+}

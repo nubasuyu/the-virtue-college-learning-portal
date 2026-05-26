@@ -1,0 +1,245 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 7,
+  "topic": "LÍTÍRÈṢỌ́: Ìtúpalẹ̀ Ewì Alọ́hùn",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w7_su1",
+      "title": "7.1 Ìtúpalẹ̀ Ewì Alọ́hùn (Àṣàyàn Ìwé Kan)",
+      "notes": [
+        "Àkóónú Kókó Ọ̀rọ̀ Àṣà Tí Ó Súyọ̀:",
+        "• Kókó ọ̀rọ̀ jẹ́ ohun tí ewì náà dá lé, tàbí ohun tí ewì náà ń sọ nípa rẹ̀",
+        "• Kókó ọ̀rọ̀ lè jẹ́: ìwà, ìṣẹ̀lẹ̀, ìrírí, ìdàgbàsókè, ìjà, ìfẹ́, ìṣòro, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "• Bí a ṣe ń mọ kókó ọ̀rọ̀ ewì:",
+        "  a) Kíka ewì náà dáradára",
+        "  b) Kíyèsí ohun tí ewì náà ń sọ púpọ̀ jùlọ",
+        "  c) Kíyèsí àwọn ìṣẹ̀lẹ̀ pàtàkì inú ewì",
+        "  d) Kíyèsí bí àwọn ẹdá ewì ṣe ń ṣe àti bí wọn ṣe ń dàgbà",
+        "",
+        "Ìhùn:",
+        "• Ìhùn jẹ́ ọ̀nà tí ewì náà ti ń lọ láti ìbẹ̀rẹ̀ dé ìparí",
+        "• Ìhùn ewì ní àwọn apá pàtàkì:",
+        "  a) Ìbẹ̀rẹ̀ ewì (Introduction): ìbẹ̀rẹ̀ ewì, ìfihàn àwọn ẹdá àti ibùdó",
+        "  b) Àárín ewì (Development): ìṣẹ̀lẹ̀ pàtàkì, ìjà, ìdàgbàsókè ẹdá",
+        "  c) Ìparí ewì (Conclusion): ìparí ewì, ìdáhùn sí ìjà, ìkọ́ni inú ewì",
+        "",
+        "Lílé/Gbígbè:",
+        "• Lílé: Ìlò ọ̀rọ̀ láti fi hàn ìbínú, ìkórìíra, tàbí ìṣòro",
+        "• Gbígbè: Ìlò ọ̀rọ̀ láti fi hàn ìdùnnú, ìyìn, tàbí ìrẹ̀lẹ̀",
+        "• Àpẹẹrẹ:",
+        "  - Lílé: 'Ẹ̀ṣù, ẹ̀ṣù, ẹ̀ṣù tó ń ṣe ìṣòro fún ènìyàn'",
+        "  - Gbígbè: 'Ọlọ́run, Ọlọ́run, Ọlọ́run tó dára, tí ó ń fún wa ní ìlera'",
+        "",
+        "Àdákọ́:",
+        "• Àdákọ́ jẹ́ ìlò ọ̀rọ̀ láti fi hàn ìṣòro, ìbànújẹ́, tàbí ìkórìíra",
+        "• Àpẹẹrẹ: 'Ìyá mi, ìyá mi, ìyá mi tó kú, tí ó fi mí sílẹ̀ nínú ìṣòro'",
+        "• Nigerian context: Àdákọ́ nínú oríkì ìsìnkú tàbí ìbànújẹ́",
+        "",
+        "Àjùmọ̀kọ́:",
+        "• Àjùmọ̀kọ́ jẹ́ ìlò ọ̀rọ̀ láti fi hàn ìdáhùn, ìdájọ́, tàbí ìkọ́ni",
+        "• Àpẹẹrẹ: 'Ọmọ tó mọ̀ ọ̀rọ̀, yóò mọ̀ ìtẹ́lọ́rùn'",
+        "• Nigerian context: Àjùmọ̀kọ́ nínú òwe àti oríkì ìkọ́ni",
+        "",
+        "Ìlò Èdè: Ọ̀nà Èdè àti Ìṣọ̀wọ́lọ-Èdè:",
+        "• Ọ̀nà èdè: Ọ̀nà tí oníṣọ̀tàn fi ń lo èdè láti sọ ewì rẹ̀",
+        "• Ìṣọ̀wọ́lọ-èdè: Ìlò èdè láti ṣe àpèjúwe, ìkọ́ni, tàbí ìtọ́ni",
+        "• Oríṣiríṣi ọ̀nà èdè:",
+        "  a) Lílo òwe: Lílo òwe láti fi kọ́ni tàbí ṣe àlàyé",
+        "  b) Lílo ọ̀rọ̀ ìwé: Lílo ọ̀rọ̀ kan láti dúró fún ohun mìíràn",
+        "  c) Lílo àpèjúwe: Lílo ọ̀rọ̀ láti ṣe àpèjúwe ohun tí ó ń ṣẹlẹ̀",
+        "  d) Lílo ọ̀rọ̀ ìlànà: Lílo ọ̀rọ̀ tí ó ní ìtumọ̀ pàtàkì",
+        "  e) Lílo ọ̀rọ̀ ìyìn: Lílo ọ̀rọ̀ ìyìn láti fi ṣe àpèjúwe ẹni tàbí ohun",
+        "",
+        "Ìjọyọ́ Àṣà:",
+        "• Ìjọyọ́ àṣà jẹ́ bí àṣà Yorùbá ṣe ń hàn nínú ewì",
+        "• Àṣà Yorùbá tí ó lè hàn nínú ewì:",
+        "  a) Ìwà ọmọlúàbí: ìbọ̀wọ́ fún àgbà, ìtẹ́lọ́rùn, ìṣòòtọ́",
+        "  b) Ìgbéyàwó: ọ̀nà tí a ń gbà ṣe ìgbéyàwó ní ilẹ̀ Yorùbá",
+        "  c) Ìsìnkú: ọ̀nà tí a ń gbà sin òkú ní ilẹ̀ Yorùbá",
+        "  d) Ìṣẹ́ abínibí: àgbẹ̀, alágbẹ̀dẹ, onídìrí, aṣọ híhun, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  e) Òrìṣà àti ìsìn: bí àwọn Yorùbá ṣe ń bọ̀rìṣà wọn",
+        "",
+        "Lítírèṣọ́ Alọ́hùn Mìíràn:",
+        "• Àwọn ewì alọ́hùn mìíràn tí ó lè wà:",
+        "  - Oríkì: ọ̀rọ̀ ìyìn tí a ń sọ láti fi ṣe àpèjúwe ẹni tàbí ohun kan",
+        "  - Òwe: ọ̀rọ̀ ìkọ́ni tí ó ní ìtumọ̀ pàtàkì",
+        "  - Àlọ́: ìtàn tí a ń sọ láti fi kọ́ni tàbí ṣe ìkẹ́dùn",
+        "  - Orin: ọ̀rọ̀ tí a ń kọ́ láti inú ẹnu pẹ̀lú ìlù",
+        "",
+        "Ọ̀gangan Ipò Àwọn Akéwì:",
+        "• Ẹ̀ṣìn wọn/Ìṣe wọn:",
+        "  - Àlàyé nípa bí àwọn akéwì ṣe ń ṣe iṣẹ́ wọn",
+        "  - Bí wọn ṣe ń lo ewì wọn fún ìkọ́ni, ìtọ́ni, ìyìn",
+        "  - Nigerian context: Àwọn akéwì Yorùbá tí ó ń kọ́ ewì fún ìkọ́ni ìwà rere",
+        "",
+        "• Àkókò Ìkéwì:",
+        "  - Àlàyé nípa àkókò tí àwọn akéwì máa ń lo ewì wọn",
+        "  - Àwọn àkókò pàtàkì: ìgbéyàwó, ìsìnkú, ìyànjú, ìkọ́ni",
+        "  - Nigerian context: Àwọn akéwì Yorùbá tí ó ń kọ́ ewì ní àkókò ìgbéyàwó àti ìsìnkú",
+        "",
+        "Bí a ṣe ń Ṣàlàyé Ewì Alọ́hùn:",
+        "• Kíka ewì náà dáradára",
+        "• Kíyèsí kókó ọ̀rọ̀ ewì",
+        "• Kíyèsí ìhùn ewì",
+        "• Kíyèsí lílé/gbígbè, àdákọ́, àjùmọ̀kọ́",
+        "• Kíyèsí ìlò èdè: ọ̀nà èdè àti ìṣọ̀wọ́lọ-èdè",
+        "• Kíyèsí ìjọyọ́ àṣà",
+        "• Kíyèsí àmúyẹ àti àléébù",
+        "",
+        "Practical Activities:",
+        "1. Kíkà Ewì Alọ́hùn:",
+        "   • Ka ewì alọ́hùn pẹ̀lú olùkọ́",
+        "   • Tẹtí sí ìhùn ewì náà",
+        "   • Sọ ohun tí ewì náà ń kọ́",
+        "",
+        "2. Ìtúpalẹ̀ Ewì:",
+        "   • Kíyèsí kókó ọ̀rọ̀ ewì",
+        "   • Kíyèsí ìhùn ewì",
+        "   • Kíyèsí ìlò èdè inú ewì",
+        "",
+        "3. Ìdámọ̀ Àṣà:",
+        "   • Kíyèsí àṣà Yorùbá tí ó hàn nínú ewì",
+        "   • Ṣàlàyé bí àṣà ṣe ń ṣe àkóbá fún ewì",
+        "",
+        "Common Misconceptions:",
+        "• 'Gbogbo ewì alọ́hùn jẹ́ òwe': Ewì alọ́hùn lè jẹ́ oríkì, àlọ́, orin, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "• 'Ìhùn ewì jẹ́ kókó ọ̀rọ̀': Ìhùn jẹ́ ọ̀nà tí ewì ń lọ, kókó ọ̀rọ̀ jẹ́ ohun tí ewì ń sọ",
+        "• 'Ìlò èdè jẹ́ kíkà ọ̀rọ̀': Ìlò èdè jẹ́ ọ̀nà tí a ń lo èdè láti ṣe àpèjúwe, ìkọ́ni, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "• 'Àṣà kò ní ipa nínú ewì': Àṣà jẹ́ pàtàkì nínú ewì, ó ń ṣe àkóbá fún ìlò èdè àti ìkọ́ni",
+        "",
+        "Nigerian Context:",
+        "• Ìtúpalẹ̀ ewì alọ́hùn jẹ́ pàtàkì fún ìmọ̀ lítírèṣọ́ Yorùbá",
+        "• Ìmọ̀ kókó ọ̀rọ̀, ìhùn, ìlò èdè, àti ìjọyọ́ àṣà jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ èdè Yorùbá",
+        "• Ìmọ̀ wọ̀nyí ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè ṣe àtúpalẹ̀ ewì alọ́hùn dáradára",
+        "",
+        "Conclusion:",
+        "• Kókó ọ̀rọ̀, ìhùn, lílé/gbígbè, àdákọ́, àjùmọ̀kọ́, ìlò èdè, àti ìjọyọ́ àṣà jẹ́ àwọn kókó pàtàkì nínú ìtúpalẹ̀ ewì alọ́hùn",
+        "• Gbogbo àwọn kókó wọ̀nyí jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ lítírèṣọ́ Yorùbá",
+        "• Ìmọ̀ wọ̀nyí ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè ṣe àtúpalẹ̀ ewì alọ́hùn dáradára",
+        "• Ìtúpalẹ̀ ewì alọ́hùn jẹ́ pàtàkì fún ìmọ̀ èdè àti ìṣe àṣà Yorùbá"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde kókó ọ̀rọ̀, ìhùn, àti ìlò èdè nínú ewì alọ́hùn",
+        "Àpẹẹrẹ lílé/gbígbè, àdákọ́, àjùmọ̀kọ́ nínú ewì",
+        "Àtẹ̀jáde ìlò èdè: òwe, ọ̀rọ̀ ìwé, àpèjúwe",
+        "Àpẹẹrẹ ìjọyọ́ àṣà Yorùbá nínú ewì",
+        "Nigerian examples: Oríkì ìlú, òwe ìkọ́ni, ewì ìgbéyàwó"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Ìtúpalẹ̀ ewì alọ́hùn Yorùbá lítírèṣọ́ SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Kókó ọ̀rọ̀ ewì jẹ́:",
+          "opts": [
+            "Ohun tí ewì náà dá lé",
+            "Ibi tí ewì náà ti ń ṣẹlẹ̀",
+            "Àwọn ẹni tí ó wà nínú ewì",
+            "Ọ̀nà tí oníṣọ̀tàn fi ń sọ ewì rẹ̀"
+          ],
+          "ans": 0,
+          "explanation": "Kókó ọ̀rọ̀ ewì jẹ́ ohun tí ewì náà dá lé, tàbí ohun tí ewì náà ń sọ nípa rẹ̀."
+        },
+        {
+          "q": "Ìhùn ewì jẹ́:",
+          "opts": [
+            "Ohun tí ewì náà dá lé",
+            "Ọ̀nà tí ewì náà ti ń lọ láti ìbẹ̀rẹ̀ dé ìparí",
+            "Àwọn ẹni tí ó wà nínú ewì",
+            "Ibi tí ewì náà ti ń ṣẹlẹ̀"
+          ],
+          "ans": 1,
+          "explanation": "Ìhùn ewì jẹ́ ọ̀nà tí ewì náà ti ń lọ láti ìbẹ̀rẹ̀ dé ìparí, pẹ̀lú àwọn apá pàtàkì bíi ìbẹ̀rẹ̀, àárín, àti ìparí."
+        },
+        {
+          "q": "Lílé jẹ́ ìlò ọ̀rọ̀ láti fi hàn:",
+          "opts": [
+            "Ìdùnnú",
+            "Ìbínú, ìkórìíra, tàbí ìṣòro",
+            "Ìyìn",
+            "Ìrẹ̀lẹ̀"
+          ],
+          "ans": 1,
+          "explanation": "Lílé jẹ́ ìlò ọ̀rọ̀ láti fi hàn ìbínú, ìkórìíra, tàbí ìṣòro nínú ewì."
+        },
+        {
+          "q": "Gbígbè jẹ́ ìlò ọ̀rọ̀ láti fi hàn:",
+          "opts": [
+            "Ìbínú",
+            "Ìkórìíra",
+            "Ìdùnnú, ìyìn, tàbí ìrẹ̀lẹ̀",
+            "Ìṣòro"
+          ],
+          "ans": 2,
+          "explanation": "Gbígbè jẹ́ ìlò ọ̀rọ̀ láti fi hàn ìdùnnú, ìyìn, tàbí ìrẹ̀lẹ̀ nínú ewì."
+        },
+        {
+          "q": "Àdákọ́ jẹ́ ìlò ọ̀rọ̀ láti fi hàn:",
+          "opts": [
+            "Ìdùnnú",
+            "Ìyìn",
+            "Ìṣòro, ìbànújẹ́, tàbí ìkórìíra",
+            "Ìrẹ̀lẹ̀"
+          ],
+          "ans": 2,
+          "explanation": "Àdákọ́ jẹ́ ìlò ọ̀rọ̀ láti fi hàn ìṣòro, ìbànújẹ́, tàbí ìkórìíra nínú ewì."
+        },
+        {
+          "q": "Àjùmọ̀kọ́ jẹ́ ìlò ọ̀rọ̀ láti fi hàn:",
+          "opts": [
+            "Ìṣòro",
+            "Ìbànújẹ́",
+            "Ìdáhùn, ìdájọ́, tàbí ìkọ́ni",
+            "Ìkórìíra"
+          ],
+          "ans": 2,
+          "explanation": "Àjùmọ̀kọ́ jẹ́ ìlò ọ̀rọ̀ láti fi hàn ìdáhùn, ìdájọ́, tàbí ìkọ́ni nínú ewì."
+        },
+        {
+          "q": "Ìlò èdè inú ewì kò ní:",
+          "opts": [
+            "Lílo òwe",
+            "Lílo ọ̀rọ̀ ìwé",
+            "Lílo àpèjúwe",
+            "Lílo ọ̀rọ̀ ìbẹ̀rù"
+          ],
+          "ans": 3,
+          "explanation": "Ìlò èdè inú ewì kò ní lílo ọ̀rọ̀ ìbẹ̀rù; ó ní lílo òwe, ọ̀rọ̀ ìwé, àpèjúwe, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ìjọyọ́ àṣà nínú ewì kò ní:",
+          "opts": [
+            "Ìwà ọmọlúàbí",
+            "Ìgbéyàwó",
+            "Ìsìnkú",
+            "Ìṣẹ́ òde"
+          ],
+          "ans": 3,
+          "explanation": "Ìjọyọ́ àṣà nínú ewì kò ní ìṣẹ́ òde; ó ní ìwà ọmọlúàbí, ìgbéyàwó, ìsìnkú, ìṣẹ́ abínibí, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ọ̀gangan ipò àwọn akéwì kò ní:",
+          "opts": [
+            "Ẹ̀ṣìn wọn/Ìṣe wọn",
+            "Àkókò ìkéwì",
+            "Ìlò ewì fún ìkọ́ni",
+            "Ìlò ewì fún ìṣòro"
+          ],
+          "ans": 3,
+          "explanation": "Ọ̀gangan ipò àwọn akéwì kò ní ìlò ewì fún ìṣòro; ó ní ẹ̀ṣìn wọn, àkókò ìkéwì, àti ìlò ewì fún ìkọ́ni."
+        },
+        {
+          "q": "Bí a ṣe ń ṣàlàyé ewì alọ́hùn kò ní:",
+          "opts": [
+            "Kíka ewì náà dáradára",
+            "Kíyèsí kókó ọ̀rọ̀ ewì",
+            "Kíyèsí ìhùn ewì",
+            "Kíyèsí àwọn ọ̀rọ̀ ìbẹ̀rù nínú ewì"
+          ],
+          "ans": 3,
+          "explanation": "Bí a ṣe ń ṣàlàyé ewì alọ́hùn kò ní kíyèsí àwọn ọ̀rọ̀ ìbẹ̀rù nínú ewì; ó ní kíka ewì, kíyèsí kókó ọ̀rọ̀, ìhùn, ìlò èdè, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        }
+      ]
+    }
+  ]
+}

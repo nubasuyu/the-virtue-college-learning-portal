@@ -1,0 +1,244 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 10,
+  "topic": "ÀṢÀ: ÌGBÉYÀWÓ",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w10_su1",
+      "title": "10.1 Ìdí Ìgbéyàwó, Oríṣiríṣi Ìgbéyàwó, àti Ìgbésẹ̀ Inú Ìgbéyàwó",
+      "notes": [
+        "Ìdí Tí A Fi ń Gbéyàwó/Lọkọ:",
+        "• Ìgbéyàwó jẹ́ ìdásílẹ̀ ìbáṣepọ̀ láàárín ọkùnrin àti obìnrin",
+        "• Ìdí tí a fi ń gbéyàwó:",
+        "  a) Láti lè ní ọmọ àti tọ́jú ìdílé",
+        "  b) Láti lè ní ìbáṣepọ̀ pẹ̀lú ẹni tí a fẹ́",
+        "  c) Láti lè ní ìtìlẹ́yìn nínú ìṣòro àti ìdùnnú",
+        "  d) Láti lè tẹ̀síwájú nínú ìdílé àti ìran",
+        "  e) Láti lè ṣe ìtẹ́lọ́rùn ìfẹ́ àti ìbáṣepọ̀",
+        "",
+        "Oríṣiríṣi Ìgbéyàwó Tí Ó Wà Láyé Àtijọ́ àti Lóde Òní:",
+        "• Ní ayé àtijọ́:",
+        "  a) Ìfọmọ́tọ́rọ̀: Ìgbéyàwó tí a ń ṣe láti ọ̀dọ̀ baba sí ọmọ",
+        "  b) Fífẹ́ níṣulókọ̀: Ìgbéyàwó tí a ń ṣe láti ọ̀dọ̀ ọkùnrin sí obìnrin",
+        "  c) Àṣàyẹ̀: Ìgbéyàwó tí a ń ṣe láti ọ̀dọ̀ àgbà sí ọ̀dọ́",
+        "",
+        "• Ní ayé òde òní:",
+        "  a) Ṣọ̀ọ̀ṣì: Ìgbéyàwó tí a ń ṣe ní ṣọ̀ọ̀ṣì",
+        "  b) Kóòtù: Ìgbéyàwó tí a ń ṣe ní kóòtù",
+        "  c) Mùsùlùmí: Ìgbéyàwó tí a ń ṣe ní ìlànà ìsìn Mùsùlùmí",
+        "  d) Ọkọ kan aya kan: Ìgbéyàwó tí ó ní ọkọ kan àti aya kan",
+        "  e) Aláya púpọ̀: Ìgbéyàwó tí ó ní ọkọ kan àti aya púpọ̀",
+        "",
+        "Ìgbésẹ̀ Inú Oríṣi Ìgbéyàwó Kọ̀ọ̀kan Láyé Àtijọ́:",
+        "• Ìfọmọ́tọ́rọ̀:",
+        "  a) Baba ọmọkùnrin yóò wá sí ilé ọmọbìnrin",
+        "  b) Baba ọmọkùnrin yóò sọ ohun tí ó wá fún",
+        "  c) Baba ọmọbìnrin yóò gbà tàbí kọ̀",
+        "  d) Tí wọ́n bá gbà, wọ́n yóò ṣe àdéhùn",
+        "  e) Wọ́n yóò ṣe ìgbéyàwó",
+        "",
+        "• Fífẹ́ níṣulókọ̀:",
+        "  a) Ọkùnrin yóò sọ fún obìnrin pé ó fẹ́ ẹ",
+        "  b) Obìnrin yóò gbà tàbí kọ̀",
+        "  c) Tí ó bá gbà, wọ́n yóò sọ fún àwọn òbí wọn",
+        "  d) Àwọn òbí yóò ṣe àdéhùn",
+        "  e) Wọ́n yóò ṣe ìgbéyàwó",
+        "",
+        "• Àṣàyẹ̀:",
+        "  a) Àgbà yóò wá sí ilé ọ̀dọ́",
+        "  b) Àgbà yóò sọ ohun tí ó wá fún",
+        "  c) Ọ̀dọ́ yóò gbà tàbí kọ̀",
+        "  d) Tí ó bá gbà, wọ́n yóò ṣe àdéhùn",
+        "  e) Wọ́n yóò ṣe ìgbéyàwó",
+        "",
+        "Ìgbésẹ̀ Inú Oríṣi Ìgbéyàwó Kọ̀ọ̀kan Lóde Òní:",
+        "• Ṣọ̀ọ̀ṣì:",
+        "  a) Ọkùnrin àti obìnrin yóò lọ sí ṣọ̀ọ̀ṣì",
+        "  b) Wọ́n yóò sọ ìfẹ́ wọn síwájú àwọn òṣìṣẹ́ ṣọ̀ọ̀ṣì",
+        "  c) Wọ́n yóò ṣe àdéhùn",
+        "  d) Wọ́n yóò ṣe ìgbéyàwó",
+        "",
+        "• Kóòtù:",
+        "  a) Ọkùnrin àti obìnrin yóò lọ sí kóòtù",
+        "  b) Wọ́n yóò sọ ìfẹ́ wọn síwájú onídájọ́",
+        "  c) Wọ́n yóò ṣe àdéhùn",
+        "  d) Wọ́n yóò ṣe ìgbéyàwó",
+        "",
+        "• Mùsùlùmí:",
+        "  a) Ọkùnrin àti obìnrin yóò lọ sí ilé ìsìn",
+        "  b) Wọ́n yóò sọ ìfẹ́ wọn síwájú àwọn òṣìṣẹ́ ìsìn",
+        "  c) Wọ́n yóò ṣe àdéhùn",
+        "  d) Wọ́n yóò ṣe ìgbéyàwó",
+        "",
+        "Àýfààní àti Ìṣòro Inú Irú Ìgbéyàwó Kọ̀ọ̀kan:",
+        "• Àýfààní Ìgbéyàwó:",
+        "  a) Láti lè ní ọmọ àti tọ́jú ìdílé",
+        "  b) Láti lè ní ìbáṣepọ̀ pẹ̀lú ẹni tí a fẹ́",
+        "  c) Láti lè ní ìtìlẹ́yìn nínú ìṣòro àti ìdùnnú",
+        "  d) Láti lè tẹ̀síwájú nínú ìdílé àti ìran",
+        "",
+        "• Ìṣòro Ìgbéyàwó:",
+        "  a) Ìṣòro ìbáṣepọ̀ láàárín ọkọ àti aya",
+        "  b) Ìṣòro ìtọ́jú ọmọ",
+        "  c) Ìṣòro owó àti ìtọ́jú ilé",
+        "  d) Ìṣòro ìbáṣepọ̀ pẹ̀lú àwọn òbí",
+        "",
+        "Practical Activities:",
+        "1. Ìjíròrò Lórí Ìgbéyàwó:",
+        "   • Jíròrò lórí ìdí tí a fi ń gbéyàwó",
+        "   • Sọ oríṣiríṣi ìgbéyàwó tí ó wà",
+        "   • Ṣàlàyé ìgbésẹ̀ inú ìgbéyàwó kọ̀ọ̀kan",
+        "",
+        "2. Ìṣe Àfihàn Ìgbéyàwó:",
+        "   • Ṣe àfihàn ìgbéyàwó kan",
+        "   • Kí àwọn akẹ́kọ̀ọ́ ṣe àdàkọ́ ìgbéyàwó náà",
+        "   • Ṣàlàyé ìgbésẹ̀ inú ìgbéyàwó náà",
+        "",
+        "3. Ìdámọ̀ Àýfààní àti Ìṣòro:",
+        "   • Kíyèsí àýfààní àti ìṣòro inú ìgbéyàwó",
+        "   • Ṣàlàyé bí a ṣe lè borí àwọn ìṣòro wọ̀nyí",
+        "   • Sọ bí ìgbéyàwó ṣe lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+        "",
+        "Common Misconceptions:",
+        "• 'Ìgbéyàwó jẹ́ fún ìfẹ́ nìkan': Ìgbéyàwó ní ìdí púpọ̀, kì í ṣe ìfẹ́ nìkan",
+        "• 'Ìgbéyàwó àtijọ́ kò wà mọ́': Ìgbéyàwó àtijọ́ wà fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+        "• 'Ìgbéyàwó òde òní dára ju àtijọ́ lọ': Ìgbéyàwó àtijọ́ àti ti òde òní jọra nínú ìwúlò wọn",
+        "• 'Ìgbéyàwó kò ní ìṣòro': Ìgbéyàwó ní àwọn ìṣòro tí ó yẹ kí a mọ̀ bí a ṣe lè borí",
+        "",
+        "Nigerian Context:",
+        "• Ìgbéyàwó jẹ́ pàtàkì fún ìdàgbàsókè àwùjọ̀ Yorùbá",
+        "• Ìmọ̀ ìgbéyàwó ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè mọ̀ bí a ṣe ń ṣe ìgbéyàwó",
+        "• Ìmọ̀ ìgbéyàwó jẹ́ pàtàkì fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+        "",
+        "Conclusion:",
+        "• Ìgbéyàwó jẹ́ pàtàkì fún ìdàgbàsókè àwùjọ̀ àti ìlera ènìyàn",
+        "• Oríṣiríṣi ìgbéyàwó wà láyé àtijọ́ àti lóde òní",
+        "• Ìgbésẹ̀ inú ìgbéyàwó jẹ́ pàtàkì fún ìtọ́jú ìgbéyàwó",
+        "• Àýfààní àti ìṣòro inú ìgbéyàwó jẹ́ pàtàkì fún ìmọ̀ ìgbéyàwó",
+        "• Ìmọ̀ ìgbéyàwó jẹ́ pàtàkì fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde ìdí tí a fi ń gbéyàwó pẹ̀lú àlàyé",
+        "Àtẹ̀jáde oríṣiríṣi ìgbéyàwó ní àtijọ́ àti lóde òní",
+        "Àtẹ̀jáde ìgbésẹ̀ inú ìgbéyàwó kọ̀ọ̀kan",
+        "Àtẹ̀jáde àýfààní àti ìṣòro inú ìgbéyàwó",
+        "Nigerian examples: Ìfọmọ́tọ́rọ̀, ṣọ̀ọ̀ṣì, kóòtù, mùsùlùmí"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Ìgbéyàwó Yorùbá àṣà ìgbéyàwó SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Ìdí tí a fi ń gbéyàwó kò ní:",
+          "opts": [
+            "Láti lè ní ọmọ àti tọ́jú ìdílé",
+            "Láti lè ní ìbáṣepọ̀ pẹ̀lú ẹni tí a fẹ́",
+            "Láti lè ṣe ìṣòro fún àwùjọ̀",
+            "Láti lè tẹ̀síwájú nínú ìdílé àti ìran"
+          ],
+          "ans": 2,
+          "explanation": "Ìdí tí a fi ń gbéyàwó kò ní láti lè ṣe ìṣòro fún àwùjọ̀; ó ní láti lè ní ọmọ, ní ìbáṣepọ̀, àti tẹ̀síwájú nínú ìdílé."
+        },
+        {
+          "q": "Oríṣiríṣi ìgbéyàwó tí ó wà láyé àtijọ́ kò ní:",
+          "opts": [
+            "Ìfọmọ́tọ́rọ̀",
+            "Fífẹ́ níṣulókọ̀",
+            "Ṣọ̀ọ̀ṣì",
+            "Àṣàyẹ̀"
+          ],
+          "ans": 2,
+          "explanation": "Ṣọ̀ọ̀ṣì jẹ́ oríṣi ìgbéyàwó tí ó wà lóde òní, kì í ṣe láyé àtijọ́. Ìfọmọ́tọ́rọ̀, fífẹ́ níṣulókọ̀, àti àṣàyẹ̀ jẹ́ àpẹẹrẹ ìgbéyàwó àtijọ́."
+        },
+        {
+          "q": "Oríṣiríṣi ìgbéyàwó tí ó wà lóde òní kò ní:",
+          "opts": [
+            "Ṣọ̀ọ̀ṣì",
+            "Kóòtù",
+            "Ìfọmọ́tọ́rọ̀",
+            "Mùsùlùmí"
+          ],
+          "ans": 2,
+          "explanation": "Ìfọmọ́tọ́rọ̀ jẹ́ oríṣi ìgbéyàwó tí ó wà láyé àtijọ́, kì í ṣe lóde òní. Ṣọ̀ọ̀ṣì, kóòtù, àti mùsùlùmí jẹ́ àpẹẹrẹ ìgbéyàwó òde òní."
+        },
+        {
+          "q": "Ìgbésẹ̀ inú ìfọmọ́tọ́rọ̀ kò ní:",
+          "opts": [
+            "Baba ọmọkùnrin yóò wá sí ilé ọmọbìnrin",
+            "Baba ọmọkùnrin yóò sọ ohun tí ó wá fún",
+            "Ọmọkùnrin yóò sọ fún ọmọbìnrin pé ó fẹ́ ẹ",
+            "Baba ọmọbìnrin yóò gbà tàbí kọ̀"
+          ],
+          "ans": 2,
+          "explanation": "Ìgbésẹ̀ inú ìfọmọ́tọ́rọ̀ kò ní ọmọkùnrin sọ fún ọmọbìnrin pé ó fẹ́ ẹ; ó ní baba ọmọkùnrin wá sí ilé ọmọbìnrin, sọ ohun tí ó wá fún, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ìgbésẹ̀ inú ṣọ̀ọ̀ṣì kò ní:",
+          "opts": [
+            "Ọkùnrin àti obìnrin yóò lọ sí ṣọ̀ọ̀ṣì",
+            "Wọ́n yóò sọ ìfẹ́ wọn síwájú àwọn òṣìṣẹ́ ṣọ̀ọ̀ṣì",
+            "Wọ́n yóò ṣe àdéhùn",
+            "Baba ọmọkùnrin yóò wá sí ilé ọmọbìnrin"
+          ],
+          "ans": 3,
+          "explanation": "Ìgbésẹ̀ inú ṣọ̀ọ̀ṣì kò ní baba ọmọkùnrin wá sí ilé ọmọbìnrin; ó ní ọkùnrin àti obìnrin lọ sí ṣọ̀ọ̀ṣì, sọ ìfẹ́ wọn, ṣe àdéhùn, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Àýfààní ìgbéyàwó kò ní:",
+          "opts": [
+            "Láti lè ní ọmọ àti tọ́jú ìdílé",
+            "Láti lè ní ìbáṣepọ̀ pẹ̀lú ẹni tí a fẹ́",
+            "Láti lè ṣe ìṣòro fún àwùjọ̀",
+            "Láti lè tẹ̀síwájú nínú ìdílé àti ìran"
+          ],
+          "ans": 2,
+          "explanation": "Àýfààní ìgbéyàwó kò ní láti lè ṣe ìṣòro fún àwùjọ̀; ó ní láti lè ní ọmọ, ní ìbáṣepọ̀, àti tẹ̀síwájú nínú ìdílé."
+        },
+        {
+          "q": "Ìṣòro ìgbéyàwó kò ní:",
+          "opts": [
+            "Ìṣòro ìbáṣepọ̀ láàárín ọkọ àti aya",
+            "Ìṣòro ìtọ́jú ọmọ",
+            "Ìṣòro owó àti ìtọ́jú ilé",
+            "Ìṣòro ìfẹ́ láàárín ọkọ àti aya"
+          ],
+          "ans": 3,
+          "explanation": "Ìṣòro ìgbéyàwó kò ní ìṣòro ìfẹ́ láàárín ọkọ àti aya; ó ní ìṣòro ìbáṣepọ̀, ìtọ́jú ọmọ, owó, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Àpẹẹrẹ ìgbéyàwó aláya púpọ̀ ni:",
+          "opts": [
+            "Ìgbéyàwó tí ó ní ọkọ kan àti aya kan",
+            "Ìgbéyàwó tí ó ní ọkọ kan àti aya púpọ̀",
+            "Ìgbéyàwó tí ó ní ọkọ púpọ̀ àti aya kan",
+            "Ìgbéyàwó tí ó ní ọkọ púpọ̀ àti aya púpọ̀"
+          ],
+          "ans": 1,
+          "explanation": "Ìgbéyàwó aláya púpọ̀ jẹ́ ìgbéyàwó tí ó ní ọkọ kan àti aya púpọ̀."
+        },
+        {
+          "q": "Ìwúlò ìmọ̀ ìgbéyàwó kò ní:",
+          "opts": [
+            "Láti lè tọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+            "Láti lè dín ìṣòro ìgbéyàwó kù",
+            "Láti lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+            "Láti lè ṣe ìṣòro fún àwùjọ̀"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò ìmọ̀ ìgbéyàwó kò ní láti lè ṣe ìṣòro fún àwùjọ̀; ó ní láti lè tọ́jú àṣà, dín ìṣòro ìgbéyàwó kù, àti ṣe ìrànlọ́wọ́ fún àwùjọ̀."
+        },
+        {
+          "q": "A common misconception about ìgbéyàwó ni:",
+          "opts": [
+            "Ìgbéyàwó jẹ́ fún ìfẹ́ nìkan",
+            "Ìgbéyàwó jẹ́ pàtàkì fún àwùjọ̀",
+            "Ìgbéyàwó ní àýfààní",
+            "Ìgbéyàwó ní ìṣòro"
+          ],
+          "ans": 0,
+          "explanation": "Ìgbéyàwó ní ìdí púpọ̀, kì í ṣe ìfẹ́ nìkan."
+        }
+      ]
+    }
+  ]
+}

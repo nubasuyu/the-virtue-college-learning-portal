@@ -1,0 +1,206 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 5,
+  "topic": "ÈDÈ: Sílébù èdè Yorùbá",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w5_su1",
+      "title": "5.1 Oríkì Sílébù, Ìhun Sílébù, àti Pínpín Ọ̀rọ̀ Sí Sílébù",
+      "notes": [
+        "Oríkì Sílébù:",
+        "• Sílébù jẹ́ ẹ̀yà ọ̀rọ̀ tí ó ní ìró kan péré",
+        "• Sílébù lè jẹ́ fáwẹ́lì nìkan tàbí fáwẹ́lì pẹ̀lú kọ́ńsónáǹtì",
+        "• Àpẹẹrẹ sílébù:",
+        "  - 'a' nínú 'àgbà'",
+        "  - 'ba' nínú 'bàbá'",
+        "  - 'tà' nínú 'tàtà'",
+        "",
+        "Ìhun Sílébù:",
+        "• Ìhun sílébù jẹ́ ọ̀nà tí a ń gbà pè sílébù nínú èdè Yorùbá",
+        "• Oríṣiríṣi ìhun sílébù:",
+        "",
+        "1. Fáwẹ́lì Nìkan (F):",
+        "   • Sílébù tí ó ní fáwẹ́lì nìkan",
+        "   • Àpẹẹrẹ: 'a', 'e', 'ẹ', 'i', 'o', 'ọ', 'u'",
+        "   • Bí a ṣe ń pè wọn: a, e, ẹ, i, o, ọ, u",
+        "",
+        "2. Kọ́ńsónáǹtì-Fáwẹ́lì (KF):",
+        "   • Sílébù tí ó ní kọ́ńsónáǹtì àti fáwẹ́lì",
+        "   • Àpẹẹrẹ: 'ba', 'dẹ', 'gí', 'kọ́', 'ṣu'",
+        "   • Bí a ṣe ń pè wọn: ba, dẹ, gí, kọ́, ṣu",
+        "",
+        "3. Ná (N):",
+        "   • Sílébù tí ó ní 'n' gẹ́gẹ́ bí kọ́ńsónáǹtì",
+        "   • Àpẹẹrẹ: 'na', 'ne', 'nẹ', 'ni', 'no', 'nọ', 'nu'",
+        "   • Bí a ṣe ń pè wọn: na, ne, nẹ, ni, no, nọ, nu",
+        "",
+        "Pínpín Ọ̀rọ̀ Sí Sílébù:",
+        "• Pínpín ọ̀rọ̀ sí sílébù jẹ́ ọ̀nà tí a ń gbà yà ọ̀rọ̀ sí àwọn ẹ̀yà rẹ̀",
+        "• Ìlànà pínpín ọ̀rọ̀ sí sílébù:",
+        "  a) Kíka ọ̀rọ̀ náà láti mọ ìró rẹ̀",
+        "  b) Kíyèsí àwọn fáwẹ́lì nínú ọ̀rọ̀ náà",
+        "  c) Yà ọ̀rọ̀ sí sílébù ní ìbámu pẹ̀lú ìró fáwẹ́lì",
+        "",
+        "Àpẹẹrẹ Pínpín Ọ̀rọ̀ Sí Sílébù:",
+        "• 'bàbá' → bà - bá (sílébù méjì)",
+        "• 'alágbẹ̀dẹ' → a - lá - gbẹ - dẹ (sílébù mẹ́rin)",
+        "• 'oníṣòwò' → o - ní - ṣò - wò (sílébù mẹ́rin)",
+        "• 'ìwé' → ì - wé (sílébù méjì)",
+        "• 'ọmọlúàbí' → ọ - mò - lú - à - bí (sílébù márùn-ún)",
+        "",
+        "Ìwúlò Ìmọ̀ Sílébù:",
+        "• Láti lè kà èdè Yorùbá dáradára",
+        "• Láti lè kọ èdè Yorùbá dáradára",
+        "• Láti lè sọ èdè Yorùbá dáradára",
+        "• Láti lè mọ ìyàtọ̀ láàárín àwọn ọ̀rọ̀ onísílébù",
+        "• Láti lè ṣe àtúpalẹ̀ èdè Yorùbá dáradára",
+        "",
+        "Practical Activities:",
+        "1. Ìdámọ̀ Sílébù:",
+        "   • Kíyèsí sílébù nínú àwọn ọ̀rọ̀",
+        "   • Ṣàlàyé ìtumọ̀ sílébù",
+        "   • Pín ọ̀rọ̀ sí sílébù",
+        "",
+        "2. Pínpín Ọ̀rọ̀:",
+        "   • Pín àwọn ọ̀rọ̀ sí sílébù bí olùkọ́ ti kọ́",
+        "   • Kọ àwọn ọ̀rọ̀ tí a pín sí sílébù sínú ìwé",
+        "",
+        "Common Misconceptions:",
+        "• 'Gbogbo ọ̀rọ̀ ní sílébù kan': Ọ̀rọ̀ lè ní sílébù méjì, mẹ́ta, mẹ́rin, àbbl",
+        "• 'Ìhun sílébù jẹ́ kíkà ọ̀rọ̀': Ìhun sílébù jẹ́ ìró ọ̀rọ̀, kì í ṣe kíkà ọ̀rọ̀",
+        "",
+        "Nigerian Context:",
+        "• Ìmọ̀ sílébù jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ èdè Yorùbá",
+        "• Ìmọ̀ wọ̀nyí ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè kà, kọ, àti sọ èdè Yorùbá dáradára",
+        "",
+        "Conclusion:",
+        "• Sílébù jẹ́ ẹ̀yà ọ̀rọ̀ tí ó ní ìró kan péré",
+        "• Oríṣiríṣi ìhun sílébù ni: F, KF, N",
+        "• Pínpín ọ̀rọ̀ sí sílébù jẹ́ pàtàkì fún kíkà, kíkọ, àti sísọ èdè Yorùbá",
+        "• Ìmọ̀ sílébù jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ èdè Yorùbá"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde oríkì sílébù pẹ̀lú àpẹẹrẹ",
+        "Àtẹ̀jáde oríṣiríṣi ìhun sílébù: F, KF, N",
+        "Àpẹẹrẹ pínpín ọ̀rọ̀ sí sílébù pẹ̀lú àlàyé",
+        "Àtẹ̀jáde ìwúlò ìmọ̀ sílébù",
+        "Àpẹẹrẹ ọ̀rọ̀ Yorùbá tí a pín sí sílébù"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Sílẹ́bù èdè Yorùbá ìhun sílébù SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Sílébù jẹ́:",
+          "opts": [
+            "Ọ̀rọ̀ tí ó ní ìró méjì",
+            "Ẹ̀yà ọ̀rọ̀ tí ó ní ìró kan péré",
+            "Ọ̀rọ̀ tí ó ní fáwẹ́lì méjì",
+            "Kọ́ńsónáǹtì nìkan"
+          ],
+          "ans": 1,
+          "explanation": "Sílébù jẹ́ ẹ̀yà ọ̀rọ̀ tí ó ní ìró kan péré, tí ó lè jẹ́ fáwẹ́lì nìkan tàbí fáwẹ́lì pẹ̀lú kọ́ńsónáǹtì."
+        },
+        {
+          "q": "Ìhun sílébù 'F' túmọ̀ sí:",
+          "opts": [
+            "Kọ́ńsónáǹtì-Fáwẹ́lì",
+            "Fáwẹ́lì nìkan",
+            "Ná",
+            "Kọ́ńsónáǹtì nìkan"
+          ],
+          "ans": 1,
+          "explanation": "Ìhun sílébù 'F' túmọ̀ sí fáwẹ́lì nìkan, tí ó jẹ́ sílébù tí ó ní fáwẹ́lì nìkan."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'bàbá' ní sílébù:",
+          "opts": [
+            "Méjì",
+            "Mẹ́ta",
+            "Mẹ́rin",
+            "Márùn-ún"
+          ],
+          "ans": 0,
+          "explanation": "'Bàbá' ní sílébù méjì: bà - bá."
+        },
+        {
+          "q": "Ìhun sílébù 'KF' túmọ̀ sí:",
+          "opts": [
+            "Fáwẹ́lì nìkan",
+            "Kọ́ńsónáǹtì-Fáwẹ́lì",
+            "Ná",
+            "Kọ́ńsónáǹtì nìkan"
+          ],
+          "ans": 1,
+          "explanation": "Ìhun sílébù 'KF' túmọ̀ sí Kọ́ńsónáǹtì-Fáwẹ́lì, tí ó jẹ́ sílébù tí ó ní kọ́ńsónáǹtì àti fáwẹ́lì."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'alágbẹ̀dẹ' ní sílébù:",
+          "opts": [
+            "Méjì",
+            "Mẹ́ta",
+            "Mẹ́rin",
+            "Márùn-ún"
+          ],
+          "ans": 2,
+          "explanation": "'Alágbẹ̀dẹ' ní sílébù mẹ́rin: a - lá - gbẹ - dẹ."
+        },
+        {
+          "q": "Ìhun sílébù 'N' túmọ̀ sí:",
+          "opts": [
+            "Fáwẹ́lì nìkan",
+            "Kọ́ńsónáǹtì-Fáwẹ́lì",
+            "Sílébù tí ó ní 'n' gẹ́gẹ́ bí kọ́ńsónáǹtì",
+            "Kọ́ńsónáǹtì nìkan"
+          ],
+          "ans": 2,
+          "explanation": "Ìhun sílébù 'N' túmọ̀ sí sílébù tí ó ní 'n' gẹ́gẹ́ bí kọ́ńsónáǹtì, bíi 'na', 'ne', 'ni'."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'ọmọlúàbí' ní sílébù:",
+          "opts": [
+            "Méjì",
+            "Mẹ́ta",
+            "Mẹ́rin",
+            "Márùn-ún"
+          ],
+          "ans": 3,
+          "explanation": "'Ọmọlúàbí' ní sílébù márùn-ún: ọ - mò - lú - à - bí."
+        },
+        {
+          "q": "Ìwúlò ìmọ̀ sílébù kò ní:",
+          "opts": [
+            "Láti lè kà èdè Yorùbá dáradára",
+            "Láti lè kọ èdè Yorùbá dáradára",
+            "Láti lè sọ èdè Yorùbá dáradára",
+            "Láti lè sọ èdè Gẹ̀ẹ́sì dáradára"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò ìmọ̀ sílébù kò ní láti lè sọ èdè Gẹ̀ẹ́sì dáradára; ó ní láti lè kà, kọ, àti sọ èdè Yorùbá dáradára."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'ìwé' ní sílébù:",
+          "opts": [
+            "Méjì",
+            "Mẹ́ta",
+            "Mẹ́rin",
+            "Márùn-ún"
+          ],
+          "ans": 0,
+          "explanation": "'Ìwé' ní sílébù méjì: ì - wé."
+        },
+        {
+          "q": "Bí a ṣe ń pín ọ̀rọ̀ sí sílébù kò ní:",
+          "opts": [
+            "Kíka ọ̀rọ̀ náà láti mọ ìró rẹ̀",
+            "Kíyèsí àwọn fáwẹ́lì nínú ọ̀rọ̀ náà",
+            "Yà ọ̀rọ̀ sí sílébù ní ìbámu pẹ̀lú ìró fáwẹ́lì",
+            "Kíyèsí àwọn kọ́ńsónáǹtì nìkan"
+          ],
+          "ans": 3,
+          "explanation": "Bí a ṣe ń pín ọ̀rọ̀ sí sílébù kò ní kíyèsí àwọn kọ́ńsónáǹtì nìkan; ó ní kíka ọ̀rọ̀, kíyèsí fáwẹ́lì, àti yíyà ọ̀rọ̀ sí sílébù."
+        }
+      ]
+    }
+  ]
+}

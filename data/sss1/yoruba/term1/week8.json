@@ -1,0 +1,266 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 8,
+  "topic": "ÌHUN Ọ̀RỌ̀: Mọ́fíìmù àti Ìṣẹ́dá Ọ̀rọ̀-Orúkọ",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w8_su1",
+      "title": "8.1 Mọ́fíìmù Ní Èdè Yorùbá àti Ìṣẹ́dá Ọ̀rọ̀-Orúkọ",
+      "notes": [
+        "Oríkì Mọ́fíìmù:",
+        "• Mọ́fíìmù jẹ́ ẹ̀yà ọ̀rọ̀ tí ó ní ìtumọ̀, ṣùgbọ́n tí kò lè dúró fúnra rẹ̀",
+        "• Mọ́fíìmù lè jẹ́ kọ́ńsónáǹtì, fáwẹ́lì, tàbí àkójọpọ̀ wọn",
+        "• Mọ́fíìmù lè ṣe àkóbá fún ìtumọ̀ ọ̀rọ̀",
+        "• Àpẹẹrẹ mọ́fíìmù:",
+        "  - 'b' nínú 'bàbá'",
+        "  - 'a' nínú 'àlà'",
+        "  - 'ba' nínú 'bàtà'",
+        "",
+        "Oríṣiríṣi Ìhun Ọ̀rọ̀:",
+        "• Oríṣiríṣi ìhun ọ̀rọ̀ ní èdè Yorùbá:",
+        "",
+        "1. Ìhun Fáwẹ́lì:",
+        "   • Ìhun fáwẹ́lì jẹ́ ìró fáwẹ́lì nínú ọ̀rọ̀",
+        "   • Àpẹẹrẹ: 'a' nínú 'àgbà', 'e' nínú 'èdè'",
+        "   • Ìyàtọ̀ láàárín ìhun fáwẹ́lì: a, e, ẹ, i, o, ọ, u",
+        "",
+        "2. Ìhun Kọ́ńsónáǹtì:",
+        "   • Ìhun kọ́ńsónáǹtì jẹ́ ìró kọ́ńsónáǹtì nínú ọ̀rọ̀",
+        "   • Àpẹẹrẹ: 'b' nínú 'bàbá', 'd' nínú 'dádá'",
+        "   • Ìyàtọ̀ láàárín ìhun kọ́ńsónáǹtì: b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y",
+        "",
+        "3. Ìhun Àmì Ohùn:",
+        "   • Ìhun àmì ohùn jẹ́ ìró àmì ohùn nínú ọ̀rọ̀",
+        "   • Àpẹẹrẹ: 'à' (àmì ìsàlẹ̀), 'á' (àmì òkè), 'ā' (àmì àárín)",
+        "   • Ìyàtọ̀ láàárín àmì ohùn: òkè, àárín, ìsàlẹ̀",
+        "",
+        "Ìṣẹ́dá Ọ̀rọ̀-Orúkọ:",
+        "• Ìṣẹ́dá ọ̀rọ̀-orúkọ jẹ́ ọ̀nà tí a ń gbà ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+        "• Oríṣiríṣi ọ̀nà ìṣẹ́dá ọ̀rọ̀-orúkọ:",
+        "",
+        "1. Àfọ̀mọ́ Ìbẹ̀rẹ̀:",
+        "   • Àfọ̀mọ́ ìbẹ̀rẹ̀ jẹ́ ẹ̀yà ọ̀rọ̀ tí a ń fi ṣẹ́dá ọ̀rọ̀-orúkọ tuntun ní ìbẹ̀rẹ̀ ọ̀rọ̀",
+        "   • Oríṣiríṣi àfọ̀mọ́ ìbẹ̀rẹ̀:",
+        "     a) 'a-': ṣẹ́dá ọ̀rọ̀-orúkọ fún ẹni tí ó ń ṣe iṣẹ́ kan",
+        "        - Àpẹẹrẹ: a + gbẹ → agbẹ̀ (eni tí ó ń gbẹ)",
+        "        - Àpẹẹrẹ: a + kọ́ → akọ́ (eni tí ó ń kọ́)",
+        "",
+        "     b) 'on-': ṣẹ́dá ọ̀rọ̀-orúkọ fún ẹni tí ó ń ṣe iṣẹ́ kan",
+        "        - Àpẹẹrẹ: on + ṣe → oníṣe (eni tí ó ń ṣe)",
+        "        - Àpẹẹrẹ: on + kọ́ → oníkọ́ (eni tí ó ń kọ́)",
+        "",
+        "     c) 'o-': ṣẹ́dá ọ̀rọ̀-orúkọ fún ohun tí ó wà",
+        "        - Àpẹẹrẹ: o + kù → okù (ohun tí ó kù)",
+        "        - Àpẹẹrẹ: o + wà → owà (ohun tí ó wà)",
+        "",
+        "     d) 'oní-': ṣẹ́dá ọ̀rọ̀-orúkọ fún ẹni tí ó ní ohun kan",
+        "        - Àpẹẹrẹ: oní + ilé → onílé (eni tí ó ní ilé)",
+        "        - Àpẹẹrẹ: oní + ọkọ̀ → oníṣọkọ̀ (eni tí ó ní ọkọ̀)",
+        "",
+        "     e) 'àì-': ṣẹ́dá ọ̀rọ̀-orúkọ fún àìsí ohun kan",
+        "        - Àpẹẹrẹ: àì + mọ̀ → àìmọ̀ (àìsí ìmọ̀)",
+        "        - Àpẹẹrẹ: àì + lè → àìlè (àìsí agbára)",
+        "",
+        "     f) 'àti-': ṣẹ́dá ọ̀rọ̀-orúkọ fún ìbáṣepọ̀",
+        "        - Àpẹẹrẹ: àti + ọ̀rẹ́ → àtọ̀rẹ́ (pẹ̀lú ọ̀rẹ́)",
+        "        - Àpẹẹrẹ: àti + ilé → àtilé (pẹ̀lú ilé)",
+        "",
+        "2. Àfọ̀mọ́ Àárín:",
+        "   • Àfọ̀mọ́ àárín jẹ́ ẹ̀yà ọ̀rọ̀ tí a ń fi ṣẹ́dá ọ̀rọ̀-orúkọ tuntun ní àárín ọ̀rọ̀",
+        "   • Oríṣiríṣi àfọ̀mọ́ àárín:",
+        "     a) Kíkún: Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun",
+        "        - Àpẹẹrẹ: ọkọ̀ + rìn → ọkọ̀rìn (eni tí ó ń rìn pẹ̀lú ọkọ̀)",
+        "        - Àpẹẹrẹ: ilé + wọ → iléwọ (eni tí ó ń wọ ilé)",
+        "",
+        "     b) Ẹ̀lẹ́gbẹ́: Fífi ẹ̀lẹ́gbẹ́ kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun",
+        "        - Àpẹẹrẹ: ọmọ + dé → ọmọdé (ọmọ tí ó dé)",
+        "        - Àpẹẹrẹ: ilé + kùn → ilékùn (ilè tí ó kùn)",
+        "",
+        "3. Àpètúnpè:",
+        "   • Àpètúnpè jẹ́ ẹ̀yà ọ̀rọ̀ tí a ń fi ṣẹ́dá ọ̀rọ̀-orúkọ tuntun ní ìparí ọ̀rọ̀",
+        "   • Oríṣiríṣi àpètúnpè:",
+        "     a) Kíkún: Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun",
+        "        - Àpẹẹrẹ: ọkọ̀ + rìn → ọkọ̀rìn (eni tí ó ń rìn pẹ̀lú ọkọ̀)",
+        "        - Àpẹẹrẹ: ilé + wọ → iléwọ (eni tí ó ń wọ ilé)",
+        "",
+        "     b) Ẹ̀lẹ́gbẹ́: Fífi ẹ̀lẹ́gbẹ́ kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun",
+        "        - Àpẹẹrẹ: ọmọ + dé → ọmọdé (ọmọ tí ó dé)",
+        "        - Àpẹẹrẹ: ilé + kùn → ilékùn (ilè tí ó kùn)",
+        "",
+        "Àpẹẹrẹ Ìṣẹ́dá Ọ̀rọ̀-Orúkọ Ní Èdè Yorùbá:",
+        "• 'a-' + 'gbẹ' → 'agbẹ̀' (eni tí ó ń gbẹ)",
+        "• 'on-' + 'ṣe' → 'oníṣe' (eni tí ó ń ṣe)",
+        "• 'o-' + 'kù' → 'okù' (ohun tí ó kù)",
+        "• 'oní-' + 'ilé' → 'onílé' (eni tí ó ní ilé)",
+        "• 'àì-' + 'mọ̀' → 'àìmọ̀' (àìsí ìmọ̀)",
+        "• 'àti-' + 'ọ̀rẹ́' → 'àtọ̀rẹ́' (pẹ̀lú ọ̀rẹ́)",
+        "• 'ọkọ̀' + 'rìn' → 'ọkọ̀rìn' (eni tí ó ń rìn pẹ̀lú ọkọ̀)",
+        "• 'ilé' + 'wọ' → 'iléwọ' (eni tí ó ń wọ ilé)",
+        "• 'ọmọ' + 'dé' → 'ọmọdé' (ọmọ tí ó dé)",
+        "• 'ilé' + 'kùn' → 'ilékùn' (ilè tí ó kùn)",
+        "",
+        "Ìwúlò Ìmọ̀ Mọ́fíìmù àti Ìṣẹ́dá Ọ̀rọ̀-Orúkọ:",
+        "• Láti lè mọ bí a ṣe ń ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+        "• Láti lè mọ ìyàtọ̀ láàárín àwọn ọ̀rọ̀-orúkọ",
+        "• Láti lè mọ bí àfọ̀mọ́ ṣe ń ṣe àkóbá fún ìtumọ̀ ọ̀rọ̀",
+        "• Láti lè ṣe àtúpalẹ̀ èdè Yorùbá dáradára",
+        "",
+        "Practical Activities:",
+        "1. Ìdámọ̀ Mọ́fíìmù:",
+        "   • Kíyèsí mọ́fíìmù nínú àwọn ọ̀rọ̀",
+        "   • Ṣàlàyé ìtumọ̀ mọ́fíìmù",
+        "   • Pín ọ̀rọ̀ sí mọ́fíìmù",
+        "",
+        "2. Ìṣẹ́dá Ọ̀rọ̀-Orúkọ:",
+        "   • Lo àfọ̀mọ́ ìbẹ̀rẹ̀ láti ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+        "   • Lo àfọ̀mọ́ àárín láti ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+        "   • Lo àpètúnpè láti ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+        "",
+        "3. Ìdámọ̀ Ìhun Ọ̀rọ̀:",
+        "   • Kíyèsí ìhun fáwẹ́lì, kọ́ńsónáǹtì, àti àmì ohùn",
+        "   • Ṣàlàyé ìyàtọ̀ láàárín wọn",
+        "   • Pè àwọn ọ̀rọ̀ pẹ̀lú ìhun tó tọ́",
+        "",
+        "Common Misconceptions:",
+        "• 'Mọ́fíìmù lè dúró fúnra rẹ̀': Mọ́fíìmù kò lè dúró fúnra rẹ̀; ó ní láti wà nínú ọ̀rọ̀",
+        "• 'Gbogbo àfọ̀mọ́ jẹ́ kọ́ńsónáǹtì': Àfọ̀mọ́ lè jẹ́ kọ́ńsónáǹtì, fáwẹ́lì, tàbí àkójọpọ̀ wọn",
+        "• 'Ìhun ọ̀rọ̀ jẹ́ kíkà ọ̀rọ̀': Ìhun ọ̀rọ̀ jẹ́ ìró ọ̀rọ̀, kì í ṣe kíkà ọ̀rọ̀",
+        "• 'Ìṣẹ́dá ọ̀rọ̀ jẹ́ kíkọ́ ọ̀rọ̀': Ìṣẹ́dá ọ̀rọ̀ jẹ́ ṣíṣẹ́dá ọ̀rọ̀ tuntun, kì í ṣe kíkọ́ ọ̀rọ̀",
+        "",
+        "Nigerian Context:",
+        "• Ìmọ̀ mọ́fíìmù àti ìṣẹ́dá ọ̀rọ̀-orúkọ jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ èdè Yorùbá",
+        "• Ìmọ̀ àfọ̀mọ́ ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+        "• Ìmọ̀ ìhun ọ̀rọ̀ ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè sọ èdè Yorùbá dáradára",
+        "",
+        "Conclusion:",
+        "• Mọ́fíìmù jẹ́ ẹ̀yà ọ̀rọ̀ tí ó ní ìtumọ̀, ṣùgbọ́n tí kò lè dúró fúnra rẹ̀",
+        "• Oríṣiríṣi ìhun ọ̀rọ̀ ni: ìhun fáwẹ́lì, kọ́ńsónáǹtì, àti àmì ohùn",
+        "• Ìṣẹ́dá ọ̀rọ̀-orúkọ lè wáyé nípa àfọ̀mọ́ ìbẹ̀rẹ̀, àfọ̀mọ́ àárín, àti àpètúnpè",
+        "• Ìmọ̀ mọ́fíìmù àti ìṣẹ́dá ọ̀rọ̀-orúkọ jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ èdè Yorùbá",
+        "• Ìmọ̀ wọ̀nyí ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè ṣe àtúpalẹ̀ èdè Yorùbá dáradára"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde oríkì mọ́fíìmù pẹ̀lú àpẹẹrẹ",
+        "Àtẹ̀jáde oríṣiríṣi ìhun ọ̀rọ̀: fáwẹ́lì, kọ́ńsónáǹtì, àmì ohùn",
+        "Àtẹ̀jáde àfọ̀mọ́ ìbẹ̀rẹ̀: a-, on-, o, oní-, àì-, àti- pẹ̀lú àpẹẹrẹ",
+        "Àtẹ̀jáde àfọ̀mọ́ àárín àti àpètúnpè: kíkún, ẹ̀lẹ́gbẹ́ pẹ̀lú àpẹẹrẹ",
+        "Nigerian examples: Ọ̀rọ̀-orúkọ tí a ṣẹ́dá láti inú àfọ̀mọ́ Yorùbá"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Mọ́fíìmù ìṣẹ́dá ọ̀rọ̀-orúkọ Yorùbá SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Mọ́fíìmù jẹ́:",
+          "opts": [
+            "Ọ̀rọ̀ tí ó lè dúró fúnra rẹ̀",
+            "Ẹ̀yà ọ̀rọ̀ tí ó ní ìtumọ̀, ṣùgbọ́n tí kò lè dúró fúnra rẹ̀",
+            "Ọ̀rọ̀ tí ó ní ìtumọ̀ méjì",
+            "Ọ̀rọ̀ tí kò ní ìtumọ̀"
+          ],
+          "ans": 1,
+          "explanation": "Mọ́fíìmù jẹ́ ẹ̀yà ọ̀rọ̀ tí ó ní ìtumọ̀, ṣùgbọ́n tí kò lè dúró fúnra rẹ̀; ó ní láti wà nínú ọ̀rọ̀."
+        },
+        {
+          "q": "Ìhun ọ̀rọ̀ kò ní:",
+          "opts": [
+            "Ìhun fáwẹ́lì",
+            "Ìhun kọ́ńsónáǹtì",
+            "Ìhun àmì ohùn",
+            "Ìhun ìbẹ̀rù"
+          ],
+          "ans": 3,
+          "explanation": "Ìhun ọ̀rọ̀ kò ní ìhun ìbẹ̀rù; ó ní ìhun fáwẹ́lì, kọ́ńsónáǹtì, àti àmì ohùn."
+        },
+        {
+          "q": "Àfọ̀mọ́ ìbẹ̀rẹ̀ 'a-' ń ṣẹ́dá ọ̀rọ̀-orúkọ fún:",
+          "opts": [
+            "Ohun tí ó wà",
+            "Ẹni tí ó ń ṣe iṣẹ́ kan",
+            "Ẹni tí ó ní ohun kan",
+            "Àìsí ohun kan"
+          ],
+          "ans": 1,
+          "explanation": "Àfọ̀mọ́ ìbẹ̀rẹ̀ 'a-' ń ṣẹ́dá ọ̀rọ̀-orúkọ fún ẹni tí ó ń ṣe iṣẹ́ kan, bíi 'agbẹ̀' láti 'a' + 'gbẹ'."
+        },
+        {
+          "q": "Àfọ̀mọ́ ìbẹ̀rẹ̀ 'oní-' ń ṣẹ́dá ọ̀rọ̀-orúkọ fún:",
+          "opts": [
+            "Ohun tí ó wà",
+            "Ẹni tí ó ń ṣe iṣẹ́ kan",
+            "Ẹni tí ó ní ohun kan",
+            "Àìsí ohun kan"
+          ],
+          "ans": 2,
+          "explanation": "Àfọ̀mọ́ ìbẹ̀rẹ̀ 'oní-' ń ṣẹ́dá ọ̀rọ̀-orúkọ fún ẹni tí ó ní ohun kan, bíi 'onílé' láti 'oní' + 'ilé'."
+        },
+        {
+          "q": "Àfọ̀mọ́ ìbẹ̀rẹ̀ 'àì-' ń ṣẹ́dá ọ̀rọ̀-orúkọ fún:",
+          "opts": [
+            "Ohun tí ó wà",
+            "Ẹni tí ó ń ṣe iṣẹ́ kan",
+            "Ẹni tí ó ní ohun kan",
+            "Àìsí ohun kan"
+          ],
+          "ans": 3,
+          "explanation": "Àfọ̀mọ́ ìbẹ̀rẹ̀ 'àì-' ń ṣẹ́dá ọ̀rọ̀-orúkọ fún àìsí ohun kan, bíi 'àìmọ̀' láti 'àì' + 'mọ̀'."
+        },
+        {
+          "q": "Àfọ̀mọ́ àárín 'kíkún' jẹ́:",
+          "opts": [
+            "Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní ìbẹ̀rẹ̀",
+            "Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní àárín",
+            "Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní ìparí",
+            "Fífi ẹ̀lẹ́gbẹ́ kan kún ọ̀rọ̀-orúkọ"
+          ],
+          "ans": 1,
+          "explanation": "Àfọ̀mọ́ àárín 'kíkún' jẹ́ fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní àárín ọ̀rọ̀."
+        },
+        {
+          "q": "Àpètúnpè 'ẹ̀lẹ́gbẹ́' jẹ́:",
+          "opts": [
+            "Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní ìbẹ̀rẹ̀",
+            "Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní àárín",
+            "Fífi ohun kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní ìparí",
+            "Fífi ẹ̀lẹ́gbẹ́ kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní ìparí"
+          ],
+          "ans": 3,
+          "explanation": "Àpètúnpè 'ẹ̀lẹ́gbẹ́' jẹ́ fífi ẹ̀lẹ́gbẹ́ kan kún ọ̀rọ̀-orúkọ láti ṣẹ́dá tuntun ní ìparí ọ̀rọ̀."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'agbẹ̀' jẹ́ àpẹẹrẹ ìṣẹ́dá ọ̀rọ̀-orúkọ pẹ̀lú:",
+          "opts": [
+            "'a-' + 'gbẹ'",
+            "'on-' + 'gbẹ'",
+            "'o-' + 'gbẹ'",
+            "'oní-' + 'gbẹ'"
+          ],
+          "ans": 0,
+          "explanation": "'Agbẹ̀' jẹ́ àpẹẹrẹ ìṣẹ́dá ọ̀rọ̀-orúkọ pẹ̀lú àfọ̀mọ́ ìbẹ̀rẹ̀ 'a-' + 'gbẹ'."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'onílé' jẹ́ àpẹẹrẹ ìṣẹ́dá ọ̀rọ̀-orúkọ pẹ̀lú:",
+          "opts": [
+            "'a-' + 'ilé'",
+            "'on-' + 'ilé'",
+            "'o-' + 'ilé'",
+            "'oní-' + 'ilé'"
+          ],
+          "ans": 3,
+          "explanation": "'Onílé' jẹ́ àpẹẹrẹ ìṣẹ́dá ọ̀rọ̀-orúkọ pẹ̀lú àfọ̀mọ́ ìbẹ̀rẹ̀ 'oní-' + 'ilé'."
+        },
+        {
+          "q": "Ìwúlò ìmọ̀ mọ́fíìmù àti ìṣẹ́dá ọ̀rọ̀-orúkọ kò ní:",
+          "opts": [
+            "Láti lè mọ bí a ṣe ń ṣẹ́dá ọ̀rọ̀-orúkọ tuntun",
+            "Láti lè mọ ìyàtọ̀ láàárín àwọn ọ̀rọ̀-orúkọ",
+            "Láti lè mọ bí àfọ̀mọ́ ṣe ń ṣe àkóbá fún ìtumọ̀ ọ̀rọ̀",
+            "Láti lè sọ èdè Gẹ̀ẹ́sì dáradára"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò ìmọ̀ mọ́fíìmù àti ìṣẹ́dá ọ̀rọ̀-orúkọ kò ní láti lè sọ èdè Gẹ̀ẹ́sì dáradára; ó ní láti lè ṣẹ́dá ọ̀rọ̀-orúkọ, mọ ìyàtọ̀ wọn, àti mọ ìtumọ̀ wọn."
+        }
+      ]
+    }
+  ]
+}

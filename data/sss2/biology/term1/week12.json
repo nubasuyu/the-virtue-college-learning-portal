@@ -1,0 +1,268 @@
+{
+  "course": "SSS2 Biology",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Revision",
+  "subUnits": [
+    {
+      "id": "sss2_bio_t1_w12_su1",
+      "title": "12.1 Comprehensive Review of First Term Topics",
+      "notes": [
+        "Revision of Key Topics:",
+        "1. Digestive System (Week 1):",
+        "   • Modification of feeding habits: filter feeders, fluid feeders, parasitic, saprophytic",
+        "   • Feeding in protozoa (Amoeba, Paramecium) and Hydra",
+        "   • Feeding in mammals: herbivores, carnivores, omnivores",
+        "   • Pest adaptations affecting digestion in humans and animals",
+        "   • Nigerian context: Livestock nutrition, pest control, food security",
+        "",
+        "2. Transport System (Weeks 2-4):",
+        "   • Definition and importance of transport systems",
+        "   • Role of diffusion and osmosis in transport",
+        "   • Plant vascular system: xylem and phloem structure and function",
+        "   • Animal circulatory system: arteries, veins, capillaries, blood components",
+        "   • Mechanisms of water and nutrient absorption and transport",
+        "   • Nigerian context: Crop irrigation, blood health, aquaculture",
+        "",
+        "3. Respiratory System (Weeks 5-6):",
+        "   • Types of respiratory systems: body surface, gills, tracheae, lungs",
+        "   • Adaptations for efficient gas exchange",
+        "   • Mechanism of respiration in higher and lower animals",
+        "   • Gas exchange and transport in blood",
+        "   • Nigerian context: Respiratory health, aquaculture management, insect pest control",
+        "",
+        "4. Excretory System (Week 7):",
+        "   • Excretory organelles: contractile vacuoles, flame cells, Malpighian tubules, kidneys, stomata, lenticels",
+        "   • Nitrogenous wastes: ammonia, urea, uric acid",
+        "   • Importance of excretion for homeostasis",
+        "   • Nigerian context: Kidney health, waste management, plant physiology",
+        "",
+        "5. Nutrient Cycling (Week 8):",
+        "   • Carbon cycle: photosynthesis, respiration, decomposition, combustion",
+        "   • Oxygen cycle: photosynthesis and respiration balance",
+        "   • Water cycle: evaporation, transpiration, condensation, precipitation",
+        "   • Carbon-oxygen balance and human impacts",
+        "   • Nigerian context: Climate change, soil fertility, water resource management",
+        "",
+        "6. Decomposition and Tolerance (Week 9):",
+        "   • Micro and macro decomposers and their roles",
+        "   • Concept of minimum and maximum tolerance (Shelford's law)",
+        "   • Geographic range and environmental factors",
+        "   • Nigerian context: Soil management, crop adaptation, conservation",
+        "",
+        "7. Adaptation (Week 10):",
+        "   • Types of symbiotic associations: mutualism, commensalism, parasitism",
+        "   • Structural adaptations to water availability: xerophytes, hydrophytes",
+        "   • Adaptations to aquatic life: tadpoles, fish",
+        "   • Adaptations in birds for flight and feeding",
+        "   • Nigerian context: Agriculture, aquaculture, wildlife conservation",
+        "",
+        "8. Pollution (Week 11):",
+        "   • Atmospheric pollution: sources, pollutants, effects",
+        "   • Water pollution: types, sources, impacts",
+        "   • Soil pollution: contaminants, agricultural and health impacts",
+        "   • Nigerian context: Environmental management, public health, sustainable development",
+        "",
+        "Key Concepts and Definitions:",
+        "• Diffusion: Net movement of molecules from high to low concentration",
+        "• Osmosis: Net movement of water across a selectively permeable membrane",
+        "• Homeostasis: Maintenance of stable internal conditions",
+        "• Adaptation: Inherited trait that enhances survival and reproduction",
+        "• Symbiosis: Close, long-term interaction between different species",
+        "• Pollution: Introduction of harmful substances into the environment",
+        "• Nutrient cycling: Movement of elements through biotic and abiotic components",
+        "",
+        "Practical Skills Review:",
+        "1. Microscopy:",
+        "   • Preparing and staining slides",
+        "   • Observing cells, tissues, and microorganisms",
+        "   • Drawing and labeling biological structures",
+        "",
+        "2. Experimental Design:",
+        "   • Formulating hypotheses",
+        "   • Controlling variables",
+        "   • Recording and analyzing data",
+        "",
+        "3. Field Techniques:",
+        "   • Collecting and identifying specimens",
+        "   • Observing ecological interactions",
+        "   • Assessing environmental conditions",
+        "",
+        "Exam Preparation Tips:",
+        "1. Review Notes and Diagrams:",
+        "   • Summarize key points from each topic",
+        "   • Redraw and label important diagrams",
+        "   • Use flashcards for definitions and terms",
+        "",
+        "2. Practice Questions:",
+        "   • Answer past exam questions",
+        "   • Create and answer your own questions",
+        "   • Focus on application and analysis, not just recall",
+        "",
+        "3. Group Study:",
+        "   • Discuss concepts with peers",
+        "   • Teach each other to reinforce understanding",
+        "   • Clarify misconceptions through discussion",
+        "",
+        "4. Nigerian Context Integration:",
+        "   • Relate biological concepts to Nigerian examples",
+        "   • Consider local environmental and health issues",
+        "   • Think about applications in Nigerian agriculture, healthcare, and conservation",
+        "",
+        "Common Exam Topics and Question Types:",
+        "1. Definitions and Explanations:",
+        "   • Define terms like osmosis, mutualism, eutrophication",
+        "   • Explain processes like photosynthesis, gas exchange, decomposition",
+        "",
+        "2. Comparisons and Contrasts:",
+        "   • Compare plant and animal transport systems",
+        "   • Contrast different types of symbiosis or respiratory systems",
+        "",
+        "3. Diagram Labeling and Interpretation:",
+        "   • Label parts of a nephron, leaf cross-section, or fish gill",
+        "   • Interpret graphs of tolerance ranges or pollution data",
+        "",
+        "4. Application and Analysis:",
+        "   • Apply concepts to Nigerian scenarios (e.g., crop adaptation, pollution control)",
+        "   • Analyze experimental data or ecological scenarios",
+        "",
+        "5. Problem-Solving:",
+        "   • Suggest solutions to environmental or health problems",
+        "   • Design experiments to test hypotheses",
+        "",
+        "Nigerian Context Emphasis:",
+        "• Relate biological principles to Nigerian ecosystems, agriculture, and health",
+        "• Consider local examples: cassava physiology, Niger Delta pollution, savanna adaptations",
+        "• Think about sustainable practices for Nigerian development",
+        "",
+        "Conclusion:",
+        "• Revision consolidates understanding of first term biology topics",
+        "• Key concepts include transport, respiration, excretion, nutrient cycling, adaptation, and pollution",
+        "• Practical skills and Nigerian context integration enhance learning and application",
+        "• Effective revision strategies prepare students for exams and real-world problem-solving",
+        "• In Nigeria, biological knowledge supports sustainable development, health, and environmental stewardship"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram linking all first term topics: digestion, transport, respiration, excretion, cycling, adaptation, pollution",
+        "Concept map of nutrient cycles with human impacts",
+        "Comparison chart of respiratory and excretory systems across organisms",
+        "Flowchart of pollution sources, effects, and control measures",
+        "Nigerian examples: Crop adaptations, pollution hotspots, conservation areas"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Biology revision SS2 first term ecology physiology site:youtube.com",
+      "quiz": [
+        {
+          "q": "The process by which plants convert CO₂ and H₂O to glucose using light is:",
+          "opts": [
+            "Respiration",
+            "Photosynthesis",
+            "Decomposition",
+            "Transpiration"
+          ],
+          "ans": 1,
+          "explanation": "Photosynthesis is the process where plants use light energy to synthesize glucose from carbon dioxide and water."
+        },
+        {
+          "q": "Xylem tissue in plants is responsible for transporting:",
+          "opts": [
+            "Sugars and amino acids",
+            "Water and mineral salts",
+            "Hormones only",
+            "Waste products"
+          ],
+          "ans": 1,
+          "explanation": "Xylem transports water and dissolved mineral salts from roots to shoots through dead, lignified cells."
+        },
+        {
+          "q": "In mutualism, both species:",
+          "opts": [
+            "Are harmed",
+            "Benefit from the interaction",
+            "One benefits, one is unaffected",
+            "One benefits, one is harmed"
+          ],
+          "ans": 1,
+          "explanation": "Mutualism is a symbiotic relationship where both participating species derive benefits, such as nutrient exchange or protection."
+        },
+        {
+          "q": "The primary nitrogenous waste excreted by humans is:",
+          "opts": [
+            "Ammonia",
+            "Urea",
+            "Uric acid",
+            "Creatinine"
+          ],
+          "ans": 1,
+          "explanation": "Humans are ureotelic; the liver converts toxic ammonia to less toxic urea, which is excreted by the kidneys."
+        },
+        {
+          "q": "Eutrophication is primarily caused by excess:",
+          "opts": [
+            "Oxygen",
+            "Nutrients (nitrogen and phosphorus)",
+            "Heavy metals",
+            "Plastics"
+          ],
+          "ans": 1,
+          "explanation": "Excess nutrients from fertilizers and sewage cause algal blooms, leading to oxygen depletion and ecosystem disruption in water bodies."
+        },
+        {
+          "q": "A structural adaptation of xerophytes is:",
+          "opts": [
+            "Large, thin leaves",
+            "Thick cuticle and reduced leaf surface area",
+            "Extensive shallow roots",
+            "Large air spaces in leaves"
+          ],
+          "ans": 1,
+          "explanation": "Xerophytes have adaptations like thick cuticles and reduced leaves to minimize water loss in dry environments."
+        },
+        {
+          "q": "The counter-current flow in fish gills enhances:",
+          "opts": [
+            "Water retention",
+            "Oxygen extraction efficiency",
+            "Waste excretion",
+            "Buoyancy control"
+          ],
+          "ans": 1,
+          "explanation": "Counter-current flow maintains a concentration gradient along the gill, maximizing oxygen extraction from water."
+        },
+        {
+          "q": "A Nigerian example of air pollution is:",
+          "opts": [
+            "Harmattan dust",
+            "Gas flaring in the Niger Delta",
+            "Volcanic eruptions",
+            "Wildfires"
+          ],
+          "ans": 1,
+          "explanation": "Gas flaring in the Niger Delta releases pollutants like CO₂, SO₂, and particulates, contributing to air pollution."
+        },
+        {
+          "q": "Shelford's law of tolerance states that:",
+          "opts": [
+            "All organisms have identical tolerance limits",
+            "Each species has minimum and maximum limits for environmental factors",
+            "Tolerance is irrelevant to survival",
+            "Geographic range is only climate-dependent"
+          ],
+          "ans": 1,
+          "explanation": "Shelford's law states that species have minimum and maximum tolerance limits for each environmental factor, defining their geographic range."
+        },
+        {
+          "q": "Understanding biological concepts in Nigerian context helps to:",
+          "opts": [
+            "Only pass exams",
+            "Apply knowledge to local agriculture, health, and environmental challenges",
+            "Only study foreign examples",
+            "Ignore local issues"
+          ],
+          "ans": 1,
+          "explanation": "Relating biology to Nigerian examples enhances relevance, problem-solving, and contribution to national development."
+        }
+      ]
+    }
+  ]
+}

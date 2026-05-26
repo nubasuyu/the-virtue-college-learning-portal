@@ -1,0 +1,255 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 3,
+  "topic": "ÈDÈ: Álífábẹ́ẹ̀tì Èdè Yorùbá",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w3_su1",
+      "title": "3.1 Álífábẹ́ẹ̀tì, Kọ́ńsónáǹtì, àti Fáwẹ́lì",
+      "notes": [
+        "Álífábẹ́ẹ̀tì Èdè Yorùbá:",
+        "• Álífábẹ́ẹ̀tì jẹ́ àkójọpọ̀ àwọn lẹ́tà tí a ń lò láti kọ èdè Yorùbá",
+        "• Álífábẹ́ẹ̀tì èdè Yorùbá ní lẹ́tà mẹ́rìndínlógún (25)",
+        "• Àwọn lẹ́tà álífábẹ́ẹ̀tì Yorùbá:",
+        "  a, b, d, e, ẹ, f, g, gb, h, i, j, k, l, m, n, o, ọ, p, r, s, ṣ, t, u, w, y",
+        "",
+        "Kọ́ńsónáǹtì:",
+        "• Kọ́ńsónáǹtì jẹ́ àwọn lẹ́tà tí ó ń ṣe ìró tí kò ní fáwẹ́lì nínú",
+        "• Àwọn kọ́ńsónáǹtì èdè Yorùbá:",
+        "  b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y",
+        "• Ìró kọ́ńsónáǹtì: àwọn ìró tí a ń pè pẹ̀lú àwọn kọ́ńsónáǹtì",
+        "",
+        "Fáwẹ́lì:",
+        "• Fáwẹ́lì jẹ́ àwọn lẹ́tà tí ó ń ṣe ìró tí ó ní ìyọ́ nínú",
+        "• Àwọn fáwẹ́lì èdè Yorùbá:",
+        "  a, e, ẹ, i, o, ọ, u",
+        "• Ìró fáwẹ́lì: àwọn ìró tí a ń pè pẹ̀lú àwọn fáwẹ́lì",
+        "",
+        "Ìró Fáwẹ́lì:",
+        "• Fáwẹ́lì 'a': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó ṣí sílẹ̀",
+        "• Fáwẹ́lì 'e': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó ṣí díẹ̀",
+        "• Fáwẹ́lì 'ẹ': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó ṣí díẹ̀, ṣùgbọ́n tí ó yàtọ̀ sí 'e'",
+        "• Fáwẹ́lì 'i': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó fẹ́rẹ̀ pa",
+        "• Fáwẹ́lì 'o': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó yí ká",
+        "• Fáwẹ́lì 'ọ': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó yí ká, ṣùgbọ́n tí ó yàtọ̀ sí 'o'",
+        "• Fáwẹ́lì 'u': ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó fẹ́rẹ̀ pa, ṣùgbọ́n tí ó yàtọ̀ sí 'i'",
+        "",
+        "Ìró Kọ́ńsónáǹtì:",
+        "• Kọ́ńsónáǹtì 'b': ìró tí a ń pè pẹ̀lú ètè méjèèjì",
+        "• Kọ́ńsónáǹtì 'd': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'f': ìró tí a ń pè pẹ̀lú ètè ìsàlẹ̀ àti eyín òkè",
+        "• Kọ́ńsónáǹtì 'g': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'gb': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè, tí ó yàtọ̀ sí 'g'",
+        "• Kọ́ńsónáǹtì 'h': ìró tí a ń pè pẹ̀lú ìmí",
+        "• Kọ́ńsónáǹtì 'j': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'k': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'l': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'm': ìró tí a ń pè pẹ̀lú ètè méjèèjì",
+        "• Kọ́ńsónáǹtì 'n': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'p': ìró tí a ń pè pẹ̀lú ètè méjèèjì",
+        "• Kọ́ńsónáǹtì 'r': ìró tí a ń pè pẹ̀lú ahọn",
+        "• Kọ́ńsónáǹtì 's': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'ṣ': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè, tí ó yàtọ̀ sí 's'",
+        "• Kọ́ńsónáǹtì 't': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "• Kọ́ńsónáǹtì 'w': ìró tí a ń pè pẹ̀lú ètè méjèèjì",
+        "• Kọ́ńsónáǹtì 'y': ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè",
+        "",
+        "Ìyàtọ̀ Láàárín Kọ́ńsónáǹtì àti Fáwẹ́lì:",
+        "• Kọ́ńsónáǹtì: ìró tí kò ní fáwẹ́lì nínú, tí a ń pè pẹ̀lú àwọn apá ara bíi ètè, ahọn, ẹnu",
+        "• Fáwẹ́lì: ìró tí ó ní ìyọ́ nínú, tí a ń pè pẹ̀lú ìyọ́ ẹnu",
+        "",
+        "Bí a ṣe ń pè Àwọn Ìró:",
+        "• Bí a ṣe ń pè fáwẹ́lì: a, e, ẹ, i, o, ọ, u",
+        "• Bí a ṣe ń pè kọ́ńsónáǹtì: b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y",
+        "",
+        "Àpẹẹrẹ Ìró Fáwẹ́lì nínú Ọ̀rọ̀:",
+        "• 'a' nínú 'àgbà', 'alá', 'ara'",
+        "• 'e' nínú 'èrò', 'èdè', 'èyí'",
+        "• 'ẹ' nínú 'ẹ̀kọ́', 'ẹ̀rọ', 'ẹ̀yà'",
+        "• 'i' nínú 'ìlú', 'ìwé', 'ìyá'",
+        "• 'o' nínú 'òkò', 'òjò', 'òun'",
+        "• 'ọ' nínú 'ọ̀kọ́', 'ọ̀rọ̀', 'ọ̀rẹ́'",
+        "• 'u' nínú 'ùkọ́', 'ùrẹ̀', 'ùwẹ̀'",
+        "",
+        "Àpẹẹrẹ Ìró Kọ́ńsónáǹtì nínú Ọ̀rọ̀:",
+        "• 'b' nínú 'bàbá', 'bàtà', 'bùkọ̀'",
+        "• 'd' nínú 'dádá', 'dúdú', 'dọ̀tí'",
+        "• 'f' nínú 'fàájì', 'fúnfún', 'fọ̀rọ̀'",
+        "• 'g' nínú 'gàgà', 'gígùn', 'gùgù'",
+        "• 'gb' nínú 'gbàgbọ́', 'gbígùn', 'gbùgbọ́'",
+        "• 'h' nínú 'háhá', 'híhìn', 'hùhù'",
+        "• 'j' nínú 'jàjà', 'jìjì', 'jùjú'",
+        "• 'k' nínú 'káká', 'kíkì', 'kùkù'",
+        "• 'l' nínú 'lálá', 'lílì', 'lùlù'",
+        "• 'm' nínú 'màmá', 'mímí', 'mùmú'",
+        "• 'n' nínú 'náná', 'níní', 'núnú'",
+        "• 'p' nínú 'pápá', 'pípí', 'púpú'",
+        "• 'r' nínú 'rárá', 'rírí', 'rúrú'",
+        "• 's' nínú 'sásá', 'sísí', 'súsú'",
+        "• 'ṣ' nínú 'ṣáṣá', 'ṣíṣí', 'ṣúṣú'",
+        "• 't' nínú 'tátá', 'títí', 'tútú'",
+        "• 'w' nínú 'wàwà', 'wíwí', 'wúwú'",
+        "• 'y' nínú 'yáyá', 'yíyí', 'yúyú'",
+        "",
+        "Ìṣirò Ìró Fáwẹ́lì àti Kọ́ńsónáǹtì:",
+        "• Fáwẹ́lì: a, e, ẹ, i, o, ọ, u (7)",
+        "• Kọ́ńsónáǹtì: b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y (18)",
+        "• Lápapọ̀: 7 + 18 = 25 lẹ́tà",
+        "",
+        "Ìwúlò Álífábẹ́ẹ̀tì Èdè Yorùbá:",
+        "• Láti lè kọ èdè Yorùbá dáradára",
+        "• Láti lè ka èdè Yorùbá dáradára",
+        "• Láti lè sọ èdè Yorùbá dáradára",
+        "• Láti lè mọ ìyàtọ̀ láàárín àwọn ìró",
+        "• Láti lè ṣe àtúpalẹ̀ èdè Yorùbá dáradára",
+        "",
+        "Àwọn Ìbéèrè Fún Ìjíròrò:",
+        "• Kí ni álífábẹ́ẹ̀tì? Sọ àwọn lẹ́tà álífábẹ́ẹ̀tì Yorùbá",
+        "• Kí ni kọ́ńsónáǹtì? Sọ àwọn kọ́ńsónáǹtì Yorùbá mẹ́ta",
+        "• Kí ni fáwẹ́lì? Sọ àwọn fáwẹ́lì Yorùbá mẹ́ta",
+        "• Ṣàlàyé ìyàtọ̀ láàárín kọ́ńsónáǹtì àti fáwẹ́lì",
+        "• Sọ àpẹẹrẹ ọ̀rọ̀ mẹ́ta tí ó ní fáwẹ́lì 'a'",
+        "",
+        "Ìkẹ́kọ̀ọ́ Fún Akẹ́kọ̀ọ́:",
+        "• Fẹtí sí bí olùkọ́ ṣe ń pè àwọn ìró kọ́ńsónáǹtì àti fáwẹ́lì",
+        "• Pè àwọn ìró kọ́ńsónáǹtì àti fáwẹ́lì bí olùkọ́ ti pè wọn",
+        "• Ṣe àdàkọ àwọn lẹ́tà ìró kọ́ńsónáǹtì àti fáwẹ́lì",
+        "",
+        "Ohun Èlò Ìkọ́ni:",
+        "• Kádíbọ́ọ̀dù ńlá tí a kọ álífábẹ́ẹ̀tì Yorùbá sí",
+        "• Kádíbọ́ọ̀dù ńlá tí ó ń ṣe àfihàn àwọn ìró Kọ́ńsónáǹtì àti Fáwẹ́lì lọ́tọ̀ọ̀tọ̀",
+        "• Káàdì pélébé pélébé tí a kọ àwọn lẹ́tà náà sí",
+        "• Pátákó ìkọ́wé",
+        "",
+        "Ìparí:",
+        "• Álífábẹ́ẹ̀tì èdè Yorùbá ní lẹ́tà mẹ́rìndínlógún (25)",
+        "• Fáwẹ́lì jẹ́ 7: a, e, ẹ, i, o, ọ, u",
+        "• Kọ́ńsónáǹtì jẹ́ 18: b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y",
+        "• Ìmọ̀ álífábẹ́ẹ̀tì jẹ́ pàtàkì fún kíkà, kíkọ, àti sísọ èdè Yorùbá dáradára",
+        "• Gbogbo àwọn lẹ́tà wọ̀nyí jẹ́ pàtàkì fún ìjìnlẹ̀ ìmọ̀ èdè Yorùbá"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde álífábẹ́ẹ̀tì Yorùbá pẹ̀lú àwọn lẹ́tà mẹ́rìndínlógún",
+        "Àtẹ̀jáde kọ́ńsónáǹtì àti fáwẹ́lì lọ́tọ̀ọ̀tọ̀",
+        "Àwòrán ẹnu tí ó ń fi hàn bí a ṣe ń pè fáwẹ́lì",
+        "Àwòrán ẹnu tí ó ń fi hàn bí a ṣe ń pè kọ́ńsónáǹtì",
+        "Àpẹẹrẹ ọ̀rọ̀ tí ó ní fáwẹ́lì àti kọ́ńsónáǹtì"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Álífábẹ́ẹ̀tì Yorùbá kọ́ńsónáǹtì fáwẹ́lì SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Álífábẹ́ẹ̀tì èdè Yorùbá ní lẹ́tà:",
+          "opts": [
+            "Mẹ́rìndínlógún (25)",
+            "Mẹ́rìnlélógún (24)",
+            "Mẹ́tàlélógún (23)",
+            "Mẹ́jìlélógún (22)"
+          ],
+          "ans": 0,
+          "explanation": "Álífábẹ́ẹ̀tì èdè Yorùbá ní lẹ́tà mẹ́rìndínlógún (25): a, b, d, e, ẹ, f, g, gb, h, i, j, k, l, m, n, o, ọ, p, r, s, ṣ, t, u, w, y."
+        },
+        {
+          "q": "Fáwẹ́lì èdè Yorùbá jẹ́:",
+          "opts": [
+            "a, e, ẹ, i, o, ọ, u",
+            "b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y",
+            "a, b, d, e, ẹ, f, g",
+            "i, o, ọ, p, r, s, ṣ"
+          ],
+          "ans": 0,
+          "explanation": "Fáwẹ́lì èdè Yorùbá jẹ́ mẹje: a, e, ẹ, i, o, ọ, u."
+        },
+        {
+          "q": "Kọ́ńsónáǹtì èdè Yorùbá kò ní:",
+          "opts": [
+            "b",
+            "d",
+            "a",
+            "f"
+          ],
+          "ans": 2,
+          "explanation": "'a' jẹ́ fáwẹ́lì, kì í ṣe kọ́ńsónáǹtì. Kọ́ńsónáǹtì èdè Yorùbá jẹ́ b, d, f, g, gb, h, j, k, l, m, n, p, r, s, ṣ, t, w, y."
+        },
+        {
+          "q": "Ìró fáwẹ́lì 'ẹ' jẹ́:",
+          "opts": [
+            "Ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó ṣí sílẹ̀",
+            "Ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó ṣí díẹ̀, tí ó yàtọ̀ sí 'e'",
+            "Ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó fẹ́rẹ̀ pa",
+            "Ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó yí ká"
+          ],
+          "ans": 1,
+          "explanation": "Ìró fáwẹ́lì 'ẹ' jẹ́ ìró tí ó rọrùn, tí a ń pè pẹ̀lú ẹnu tí ó ṣí díẹ̀, ṣùgbọ́n tí ó yàtọ̀ sí 'e'."
+        },
+        {
+          "q": "Ìró kọ́ńsónáǹtì 'gb' jẹ́:",
+          "opts": [
+            "Ìró tí a ń pè pẹ̀lú ètè méjèèjì",
+            "Ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè, tí ó yàtọ̀ sí 'g'",
+            "Ìró tí a ń pè pẹ̀lú ìmí",
+            "Ìró tí a ń pè pẹ̀lú ahọn"
+          ],
+          "ans": 1,
+          "explanation": "Ìró kọ́ńsónáǹtì 'gb' jẹ́ ìró tí a ń pè pẹ̀lú ahọn àti ẹnu òkè, tí ó yàtọ̀ sí 'g'."
+        },
+        {
+          "q": "Ìyàtọ̀ láàárín kọ́ńsónáǹtì àti fáwẹ́lì ni:",
+          "opts": [
+            "Kọ́ńsónáǹtì ní fáwẹ́lì nínú, fáwẹ́lì kò ní",
+            "Kọ́ńsónáǹtì kò ní fáwẹ́lì nínú, fáwẹ́lì ní ìyọ́ nínú",
+            "Kọ́ńsónáǹtì àti fáwẹ́lì jọra",
+            "Kọ́ńsónáǹtì àti fáwẹ́lì kò yàtọ̀ sí ara wọn"
+          ],
+          "ans": 1,
+          "explanation": "Ìyàtọ̀ láàárín kọ́ńsónáǹtì àti fáwẹ́lì ni pé kọ́ńsónáǹtì kò ní fáwẹ́lì nínú, tí ó sì ń ṣe ìró tí a ń pè pẹ̀lú àwọn apá ara; fáwẹ́lì sì ní ìyọ́ nínú, tí ó sì ń ṣe ìró tí a ń pè pẹ̀lú ìyọ́ ẹnu."
+        },
+        {
+          "q": "Àpẹẹrẹ ọ̀rọ̀ tí ó ní fáwẹ́lì 'ọ' ni:",
+          "opts": [
+            "bàbá",
+            "ọ̀kọ́",
+            "ìlú",
+            "èdè"
+          ],
+          "ans": 1,
+          "explanation": "'ọ̀kọ́' ní fáwẹ́lì 'ọ' nínú. 'bàbá' ní 'a', 'ìlú' ní 'i' àti 'u', 'èdè' ní 'e'."
+        },
+        {
+          "q": "Àpẹẹrẹ ọ̀rọ̀ tí ó ní kọ́ńsónáǹtì 'ṣ' ni:",
+          "opts": [
+            "ṣáṣá",
+            "sásá",
+            "bàbá",
+            "dádá"
+          ],
+          "ans": 0,
+          "explanation": "'ṣáṣá' ní kọ́ńsónáǹtì 'ṣ' nínú. 'sásá' ní 's', 'bàbá' ní 'b', 'dádá' ní 'd'."
+        },
+        {
+          "q": "Ìwúlò álífábẹ́ẹ̀tì èdè Yorùbá kò ní:",
+          "opts": [
+            "Láti lè kọ èdè Yorùbá dáradára",
+            "Láti lè ka èdè Yorùbá dáradára",
+            "Láti lè sọ èdè Yorùbá dáradára",
+            "Láti lè sọ èdè Gẹ̀ẹ́sì dáradára"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò álífábẹ́ẹ̀tì èdè Yorùbá kò ní láti lè sọ èdè Gẹ̀ẹ́sì dáradára; ó ní láti lè kọ, ka, àti sọ èdè Yorùbá dáradára."
+        },
+        {
+          "q": "Lápapọ̀, àwọn fáwẹ́lì àti kọ́ńsónáǹtì èdè Yorùbá jẹ́:",
+          "opts": [
+            "23",
+            "24",
+            "25",
+            "26"
+          ],
+          "ans": 2,
+          "explanation": "Lápapọ̀, àwọn fáwẹ́lì (7) àti kọ́ńsónáǹtì (18) èdè Yorùbá jẹ́ 25: 7 + 18 = 25."
+        }
+      ]
+    }
+  ]
+}

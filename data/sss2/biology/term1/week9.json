@@ -1,0 +1,261 @@
+{
+  "course": "SSS2 Biology",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Decomposition in Nature / Ecological Management: Tolerance",
+  "subUnits": [
+    {
+      "id": "sss2_bio_t1_w9_su1",
+      "title": "9.1 Decomposers, Tolerance Concepts, and Geographic Range",
+      "notes": [
+        "Decomposition in Nature:",
+        "• Definition: Breakdown of dead organic matter into simpler substances",
+        "• Agents of Decomposition:",
+        "  a) Micro-decomposers: Bacteria, fungi (microscopic)",
+        "     - Secrete enzymes to digest organic matter externally",
+        "     - Absorb nutrients for growth and reproduction",
+        "     - Nigerian example: Soil bacteria and fungi decomposing crop residues",
+        "",
+        "  b) Macro-decomposers: Earthworms, termites, millipedes (visible)",
+        "     - Fragment organic matter, increasing surface area for microbes",
+        "     - Mix organic matter with soil, improving structure",
+        "     - Nigerian example: Earthworms improving soil fertility in Nigerian farms",
+        "",
+        "Importance and Roles of Decomposers:",
+        "1. Nutrient Recycling:",
+        "   • Release inorganic nutrients (N, P, K) from organic matter",
+        "   • Make nutrients available for plant uptake",
+        "   • Nigerian context: Decomposition essential for soil fertility in Nigerian agriculture",
+        "",
+        "2. Waste Breakdown:",
+        "   • Decompose dead organisms, feces, and organic wastes",
+        "   • Prevent accumulation of organic waste",
+        "   • Nigerian example: Decomposition of market waste in Nigerian communities",
+        "",
+        "3. Soil Formation and Structure:",
+        "   • Organic matter decomposition forms humus",
+        "   • Humus improves soil water retention, aeration, and structure",
+        "   • Nigerian context: Humus important for sandy and clay soils in Nigeria",
+        "",
+        "4. Carbon Cycling:",
+        "   • Release CO₂ through respiration, returning carbon to atmosphere",
+        "   • Balance carbon fixed by photosynthesis",
+        "   • Nigerian context: Decomposition contributes to carbon cycle in Nigerian ecosystems",
+        "",
+        "5. Disease Control:",
+        "   • Some decomposers compete with or inhibit pathogens",
+        "   • Reduce disease incidence in soil and plants",
+        "   • Nigerian example: Beneficial microbes suppressing soil-borne diseases",
+        "",
+        "Concept of Minimum and Maximum Tolerance:",
+        "• Definition: Organisms can survive only within a range of environmental conditions",
+        "• Law of Tolerance (Shelford's Law):",
+        "  - Each species has minimum and maximum limits for each environmental factor",
+        "  - Optimal range: Conditions where species thrives",
+        "  - Zone of intolerance: Conditions where species cannot survive",
+        "",
+        "• Environmental Factors Affecting Tolerance:",
+        "  a) Temperature:",
+        "     - Minimum: Below which metabolic processes stop",
+        "     - Maximum: Above which proteins denature",
+        "     - Nigerian example: Crop tolerance to temperature variations in different zones",
+        "",
+        "  b) Water Availability:",
+        "     - Minimum: Drought tolerance mechanisms",
+        "     - Maximum: Flooding tolerance adaptations",
+        "     - Nigerian context: Drought-resistant crops in Northern Nigeria",
+        "",
+        "  c) Soil pH:",
+        "     - Minimum/Maximum: Acid or alkaline tolerance",
+        "     - Affects nutrient availability and microbial activity",
+        "     - Nigerian example: Soil pH management for crop production",
+        "",
+        "  d) Salinity:",
+        "     - Minimum/Maximum: Salt tolerance in plants and animals",
+        "     - Important in coastal and irrigated areas",
+        "     - Nigerian context: Salt-tolerant crops for Niger Delta and irrigated farms",
+        "",
+        "  e) Oxygen:",
+        "     - Minimum: Anaerobic tolerance in some organisms",
+        "     - Maximum: Oxygen toxicity in some microbes",
+        "     - Nigerian example: Rice cultivation in waterlogged soils",
+        "",
+        "Geographic Range and Tolerance:",
+        "• Definition: Geographic area where a species can survive and reproduce",
+        "• Determined by tolerance to environmental factors",
+        "• Range limits: Where conditions exceed tolerance limits",
+        "",
+        "• Graphical Representation:",
+        "  - Bell-shaped curve showing population density vs environmental gradient",
+        "  - Peak: Optimal conditions with highest population",
+        "  - Tails: Declining population toward tolerance limits",
+        "  - Nigerian example: Distribution of savanna vs forest species in Nigeria",
+        "",
+        "• Factors Affecting Geographic Range:",
+        "  a) Climate: Temperature, rainfall patterns",
+        "  b) Soil type: Texture, pH, fertility",
+        "  c) Biotic interactions: Competition, predation, symbiosis",
+        "  d) Dispersal ability: Ability to reach new areas",
+        "  e) Nigerian context: Climate change affecting species distribution in Nigeria",
+        "",
+        "Practical Activities:",
+        "1. Demonstrating Decomposition:",
+        "   • Bury organic matter (fruit, leaves) in soil",
+        "   • Monitor decomposition over weeks",
+        "   • Test for CO₂ release with lime water",
+        "   • Identify decomposers present",
+        "",
+        "2. Testing Tolerance Limits:",
+        "   • Subject tilapia or other organisms to different salt concentrations",
+        "   • Observe opercula movement (respiratory rate) as indicator",
+        "   • Record survival and behavior at different concentrations",
+        "   • Determine tolerance range",
+        "",
+        "3. Mapping Geographic Range:",
+        "   • Use distribution maps of Nigerian species",
+        "   • Relate distribution to environmental factors",
+        "   • Discuss how tolerance limits define range",
+        "",
+        "Common Misconceptions:",
+        "• 'Decomposers are only bacteria': Fungi, insects, and other organisms also decompose",
+        "• 'Tolerance is fixed': Tolerance can evolve through natural selection",
+        "• 'Geographic range is only about climate': Soil, biotic interactions, and dispersal also matter",
+        "• 'Decomposition is always fast': Rate depends on temperature, moisture, and organic matter quality",
+        "",
+        "Nigerian Context:",
+        "• Understanding decomposition helps manage soil fertility and organic waste in Nigeria",
+        "• Knowledge of tolerance limits important for crop selection and climate adaptation",
+        "• Geographic range concepts applied in conservation and invasive species management",
+        "• Decomposition and tolerance concepts support sustainable agriculture and environmental management",
+        "",
+        "Conclusion:",
+        "• Decomposers recycle nutrients, break down wastes, and support soil health",
+        "• Organisms have minimum and maximum tolerance limits for environmental factors",
+        "• Geographic range is determined by tolerance to multiple environmental factors",
+        "• Understanding decomposition and tolerance has applications in agriculture, conservation, and climate adaptation",
+        "• In Nigeria, this knowledge supports soil management, crop production, and biodiversity conservation"
+      ],
+      "diagramDescriptions": [
+        "Diagram of decomposition process showing micro and macro-decomposers",
+        "Illustration of Shelford's law of tolerance with optimal and intolerance zones",
+        "Graph of geographic range showing population density vs environmental gradient",
+        "Chart of environmental factors affecting tolerance: temperature, water, pH, salinity",
+        "Nigerian examples: Earthworms in soil, crop distribution in ecological zones"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Decomposition tolerance ecological management biology SSS2 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Decomposers in ecosystems primarily function to:",
+          "opts": [
+            "Produce oxygen",
+            "Break down dead organic matter and recycle nutrients",
+            "Fix atmospheric nitrogen",
+            "Pollinate flowers"
+          ],
+          "ans": 1,
+          "explanation": "Decomposers like bacteria and fungi break down dead organisms and wastes, releasing inorganic nutrients for plant uptake."
+        },
+        {
+          "q": "Micro-decomposers include:",
+          "opts": [
+            "Earthworms and termites",
+            "Bacteria and fungi",
+            "Birds and mammals",
+            "Insects and spiders"
+          ],
+          "ans": 1,
+          "explanation": "Micro-decomposers are microscopic organisms like bacteria and fungi that secrete enzymes to digest organic matter externally."
+        },
+        {
+          "q": "Shelford's law of tolerance states that:",
+          "opts": [
+            "All organisms have the same tolerance limits",
+            "Each species has minimum and maximum limits for environmental factors",
+            "Tolerance is not important for survival",
+            "Geographic range is only determined by climate"
+          ],
+          "ans": 1,
+          "explanation": "Shelford's law states that each species has minimum and maximum tolerance limits for each environmental factor, defining its geographic range."
+        },
+        {
+          "q": "A Nigerian example of a macro-decomposer is:",
+          "opts": [
+            "Soil bacteria",
+            "Earthworms",
+            "Fungi",
+            "Algae"
+          ],
+          "ans": 1,
+          "explanation": "Earthworms are macro-decomposers that fragment organic matter and improve soil structure in Nigerian farms."
+        },
+        {
+          "q": "The optimal range in tolerance refers to:",
+          "opts": [
+            "Conditions where a species cannot survive",
+            "Conditions where a species thrives best",
+            "The absolute minimum limit",
+            "The absolute maximum limit"
+          ],
+          "ans": 1,
+          "explanation": "The optimal range is the set of environmental conditions where a species performs best, with highest population density and fitness."
+        },
+        {
+          "q": "Geographic range of a species is determined by:",
+          "opts": [
+            "Only temperature tolerance",
+            "Tolerance to multiple environmental factors",
+            "Only dispersal ability",
+            "Only biotic interactions"
+          ],
+          "ans": 1,
+          "explanation": "Geographic range is determined by tolerance to multiple factors including climate, soil, biotic interactions, and dispersal ability."
+        },
+        {
+          "q": "A factor that can expand a species' geographic range is:",
+          "opts": [
+            "Increased competition",
+            "Evolution of broader tolerance",
+            "Habitat destruction",
+            "Climate change beyond tolerance"
+          ],
+          "ans": 1,
+          "explanation": "Evolution of broader tolerance through natural selection can allow a species to expand into new areas with different conditions."
+        },
+        {
+          "q": "In an experiment testing salt tolerance, opercula movement in fish indicates:",
+          "opts": [
+            "Feeding rate",
+            "Respiratory rate as a stress indicator",
+            "Reproductive behavior",
+            "Growth rate"
+          ],
+          "ans": 1,
+          "explanation": "Opercula movement (gill cover) reflects respiratory rate, which changes under stress like high salinity, indicating tolerance limits."
+        },
+        {
+          "q": "Understanding decomposition is important for Nigerian agriculture because it:",
+          "opts": [
+            "Only helps name decomposers",
+            "Helps in soil fertility management, organic waste recycling, and sustainable practices",
+            "Only for academic purposes",
+            "Only for pest control"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of decomposition helps farmers manage soil fertility through organic matter addition, composting, and sustainable practices."
+        },
+        {
+          "q": "A common misconception about tolerance is:",
+          "opts": [
+            "Tolerance limits are fixed and cannot change",
+            "Tolerance can evolve through natural selection",
+            "Different species have different tolerance limits",
+            "Tolerance affects geographic distribution"
+          ],
+          "ans": 0,
+          "explanation": "Tolerance limits can evolve through natural selection, allowing populations to adapt to changing environmental conditions."
+        }
+      ]
+    }
+  ]
+}

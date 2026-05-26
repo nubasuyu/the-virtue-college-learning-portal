@@ -1,0 +1,270 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 1,
+  "topic": "ÀṢÀ: Ẹ̀kọ́ Ilé",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w1_su1",
+      "title": "1.1 Oríkì Ẹ̀kọ́ Ilé àti Ìkíni ní Oríṣiríṣi Ọ̀nà",
+      "notes": [
+        "Oríkì Ẹ̀kọ́ Ilé:",
+        "• Oríkì jẹ́ ọ̀rọ̀ ìyìn tí a ń sọ láti fi ṣe àpèjúwe ẹni tàbí ohun kan",
+        "• Oríkì ẹ̀kọ́ ilé jẹ́ ọ̀rọ̀ ìyìn tí a ń sọ láti fi ṣe àpèjúwe àwọn ìwà rere tí ó yẹ kí ọmọ ilé ní",
+        "• Àpẹẹrẹ oríkì ẹ̀kọ́ ilé:",
+        "  - Ọmọ tó mọ̀ ọ̀rọ̀, tó mọ̀ ìtẹ́lọ́rùn",
+        "  - Ọmọ tó ní ìwà ọmọlúàbí, tó mọ̀ bí a ṣe ń bọ̀wọ̀ fún àgbà",
+        "  - Ọmọ tó mọ̀ iṣẹ́ ilé ṣíṣe, tó mọ̀ ìmọ́tótó",
+        "",
+        "Ìkíni ní Oríṣiríṣi Ọ̀nà:",
+        "• Ìkíni jẹ́ ọ̀nà tí a ń gbà fi ìbọ̀wọ́ hàn sí ẹni tí a bá pàdé",
+        "• Oríṣiríṣi ọ̀nà ìkíni ní ilẹ̀ Yorùbá:",
+        "",
+        "1. Ìkíni fún Ọkùnrin Àgbà:",
+        "   • 'Ẹ kú àárọ̀, Baba'",
+        "   • 'Ẹ kú ọjọ́, Baba'",
+        "   • 'Ẹ kú alẹ́, Baba'",
+        "   • Àpẹẹrẹ: 'Ẹ kú àárọ̀, Baba Ọlúwàṣẹ́gun, ẹ kú ìrọ̀lẹ́'",
+        "",
+        "2. Ìkíni fún Obìnrin Àgbà:",
+        "   • 'Ẹ kú àárọ̀, Ìyá'",
+        "   • 'Ẹ kú ọjọ́, Ìyá'",
+        "   • 'Ẹ kú alẹ́, Ìyá'",
+        "   • Àpẹẹrẹ: 'Ẹ kú àárọ̀, Ìyá Adéjùmọ̀, ẹ kú ìrọ̀lẹ́'",
+        "",
+        "3. Ìkíni fún Ọ̀dọ́/Ọmọdé:",
+        "   • 'Kú àárọ̀, ọ̀rẹ́'",
+        "   • 'Kú ọjọ́, ọ̀rẹ́'",
+        "   • 'Kú alẹ́, ọ̀rẹ́'",
+        "   • Àpẹẹrẹ: 'Kú àárọ̀, Títíláyọ̀, kú ìrọ̀lẹ́'",
+        "",
+        "4. Ìkíni fún Olùkọ́:",
+        "   • 'Ẹ kú àárọ̀, Olùkọ́'",
+        "   • 'Ẹ kú ọjọ́, Olùkọ́'",
+        "   • 'Ẹ kú alẹ́, Olùkọ́'",
+        "   • Àpẹẹrẹ: 'Ẹ kú àárọ̀, Olùkọ́ Adébáyọ̀, ẹ kú ìrọ̀lẹ́'",
+        "",
+        "5. Ìkíni fún Alákòóso/Alága:",
+        "   • 'Ẹ kú àárọ̀, Alága'",
+        "   • 'Ẹ kú ọjọ́, Alága'",
+        "   • Àpẹẹrẹ: 'Ẹ kú àárọ̀, Alága Ilé-ìwé, ẹ kú ìrọ̀lẹ́'",
+        "",
+        "Ìwà Ọmọlúàbí:",
+        "• Ìwà ọmọlúàbí jẹ́ àkójọpọ̀ àwọn ìwà rere tí ó yẹ kí ọmọ Yorùbá ní",
+        "• Àwọn ìwà ọmọlúàbí pàtàkì:",
+        "  1. Ìbọ̀wọ́ fún àgbà àti àwọn tí ó tọ́ sí ìbọ̀wọ́",
+        "  2. Ìtẹ́lọ́rùn àti ìfaradà",
+        "  3. Òtítọ́ sísọ àti ìṣòòtọ́",
+        "  4. Ìṣọ̀títọ́ àti ìṣe ojúṣe",
+        "  5. Ìmọ́tótó ara àti àyíká",
+        "  6. Ìgbọ́ràn sí àwọn tí ó tọ́ sí ìgbọ́ràn",
+        "  7. Ìfẹ́ àti ìrànlọ́wọ́ fún àwọn míràn",
+        "",
+        "Ìmọ́tótó:",
+        "• Ìmọ́tótó jẹ́ ìwà pàtàkì tí ó ń fi hàn pé ọmọ mọ̀ bí a ṣe ń tọ́jú ara rẹ̀ àti àyíká rẹ̀",
+        "• Oríṣiríṣi ọ̀nà ìmọ́tótó:",
+        "  a) Ìmọ́tótó ara: fífọ́ ẹnu, fífọ́ ojú, fífọ́ ara pẹ̀lú omi àti ọṣẹ",
+        "  b) Ìmọ́tótó aṣọ: wíwọ aṣọ mímọ́, títọ́ aṣọ, fífọ aṣọ",
+        "  c) Ìmọ́tótó ilé: sísọ ilé mọ́, fífọ ohun èlò ilé, títọ́ ibùsùn",
+        "  d) Ìmọ́tótó àyíká: sísọ àyíká ilé mọ́, dídín ẹ̀gbin sí ibi tó yẹ",
+        "",
+        "Ìbọ̀wọ́ Fún Àgbà:",
+        "• Ìbọ̀wọ́ fún àgbà jẹ́ ìwà pàtàkì ní ilẹ̀ Yorùbá",
+        "• Ọ̀nà tí a ń fi bọ̀wọ́ fún àgbà:",
+        "  a) Kíkúnlẹ̀ fún àgbà ọkùnrin",
+        "  b) Kíkúnlẹ̀ tàbí kíkọ̀lẹ̀ fún àgbà obìnrin",
+        "  c) Sísọ ọ̀rọ̀ pẹ̀lú ọ̀rọ̀ ẹ̀bọ̀n (Ẹ, Ẹ̀, Ọ)",
+        "  d) Gígbà ohun tí àgbà bá fún ní pẹ̀lú ọwọ́ méjèèjì",
+        "  e) Kíká àgbà síwájú nígbà tí ó bá ń sọ̀rọ̀",
+        "",
+        "Ìbọ̀mọ́wí:",
+        "• Ìbọ̀mọ́wí jẹ́ ìwà tí ó fi hàn pé ọmọ mọ̀ bí a ṣe ń bá àwọn míràn sọ̀rọ̀ pẹ̀lú ìtẹ́lọ́rùn",
+        "• Àwọn ọ̀nà ìbọ̀mọ́wí:",
+        "  a) Kíkíyèsí nígbà tí ẹni mìíràn bá ń sọ̀rọ̀",
+        "  b) Kíká ọ̀rọ̀ síwájú kí a tó dáhùn",
+        "  c) Kílo fúnra ẹni láti má ṣe gé ọ̀rọ̀ ẹni mìíràn",
+        "  d) Lílo ọ̀rọ̀ ẹ̀bọ̀n nígbà tí a bá ń bá àgbà sọ̀rọ̀",
+        "",
+        "Iṣẹ́ Ilé Ṣíṣe:",
+        "• Iṣẹ́ ilé jẹ́ gbogbo iṣẹ́ tí a ń ṣe ní ilé láti tọ́jú ilé àti àwọn tí ó wà nínú rẹ̀",
+        "• Oríṣiríṣi iṣẹ́ ilé:",
+        "  a) Fífọ ohun èlò oúnjẹ (ìkòkò, ìkòwé, àbàtà)",
+        "  b) Sísọ ilé mọ́ àti títọ́ ibùsùn",
+        "  c) Gígbin àti tọ́jú ewéko ilé",
+        "  d) Ṣíṣe oúnjẹ fún àwọn tí ó wà ní ilé",
+        "  e) Títọ́ aṣọ àti fífọ aṣọ",
+        "  f) Gígba omi àti fífi omi sí ibi tó yẹ",
+        "",
+        "Ìwúlò Ẹ̀kọ́ Ilé:",
+        "• Ẹ̀kọ́ ilé ń kọ́ ọmọ nípa ìwà ọmọlúàbí àti ìṣe tó dára",
+        "• Ó ń kọ́ ọmọ bí a ṣe ń tọ́jú ara, aṣọ, ilé àti àyíká",
+        "• Ó ń kọ́ ọmọ bí a ṣe ń bọ̀wọ́ fún àgbà àti àwọn tí ó tọ́ sí ìbọ̀wọ́",
+        "• Ó ń kọ́ ọmọ bí a ṣe ń ṣe iṣẹ́ ilé pẹ̀lú ìtẹ́lọ́rùn",
+        "• Ó ń kọ́ ọmọ bí a ṣe ń sọ̀rọ̀ pẹ̀lú ìtẹ́lọ́rùn àti ìbọ̀mọ́wí",
+        "",
+        "Àpẹẹrẹ Oríkì Ẹ̀kọ́ Ilé:",
+        "• Ọmọ tó mọ̀ ọ̀rọ̀, tó mọ̀ ìtẹ́lọ́rùn",
+        "• Ọmọ tó ní ìwà ọmọlúàbí, tó mọ̀ bí a ṣe ń bọ̀wọ̀ fún àgbà",
+        "• Ọmọ tó mọ̀ iṣẹ́ ilé ṣíṣe, tó mọ̀ ìmọ́tótó",
+        "• Ọmọ tó mọ̀ bí a ṣe ń sọ̀rọ̀ pẹ̀lú ìbọ̀mọ́wí",
+        "• Ọmọ tó mọ̀ bí a ṣe ń tọ́jú ara, aṣọ, ilé àti àyíká",
+        "",
+        "Àṣàyàn Ọ̀rọ̀ Tí Ó Ṣe Pàtàkì:",
+        "• Oríkì: ọ̀rọ̀ ìyìn tí a ń sọ láti fi ṣe àpèjúwe ẹni tàbí ohun kan",
+        "• Ìkíni: ọ̀nà tí a ń gbà fi ìbọ̀wọ́ hàn sí ẹni tí a bá pàdé",
+        "• Ìwà ọmọlúàbí: àkójọpọ̀ àwọn ìwà rere tí ó yẹ kí ọmọ Yorùbá ní",
+        "• Ìmọ́tótó: ìwà tí ó fi hàn pé ọmọ mọ̀ bí a ṣe ń tọ́jú ara rẹ̀ àti àyíká rẹ̀",
+        "• Ìbọ̀wọ́: ìwà tí ó fi hàn pé ọmọ mọ̀ bí a ṣe ń bọ̀wọ́ fún àgbà",
+        "• Ìbọ̀mọ́wí: ìwà tí ó fi hàn pé ọmọ mọ̀ bí a ṣe ń bá àwọn míràn sọ̀rọ̀",
+        "• Iṣẹ́ ilé: gbogbo iṣẹ́ tí a ń ṣe ní ilé láti tọ́jú ilé àti àwọn tí ó wà nínú rẹ̀",
+        "",
+        "Àwọn Ìbéèrè Fún Ìjíròrò:",
+        "• Kí ni oríkì? Ṣàlàyé oríkì ẹ̀kọ́ ilé pẹ̀lú àpẹẹrẹ",
+        "• Ṣàlàyé oríṣiríṣi ọ̀nà ìkíni ní ilẹ̀ Yorùbá",
+        "• Kí ni ìwà ọmọlúàbí? Sọ àwọn ìwà ọmọlúàbí mẹ́ta",
+        "• Ṣàlàyé ìmọ́tótó pẹ̀lú àpẹẹrẹ mẹ́ta",
+        "• Kí ló jẹ́ iṣẹ́ ilé? Sọ àwọn iṣẹ́ ilé mẹ́ta",
+        "",
+        "Ìkẹ́kọ̀ọ́ Fún Akẹ́kọ̀ọ́:",
+        "• Tẹtí sí àlàyé olùkọ́",
+        "• Ṣe àfihàn ìkíni ní oríṣiríṣi ọ̀nà, ìwà ọmọlúàbí, ìtọ́jú ilé",
+        "• Kọ àwọn ọ̀rọ̀ tí olùkọ́ kọ sí ojú pátákó sínú ìwé",
+        "",
+        "Ohun Èlò Ìkọ́ni:",
+        "• Pátákó ìkọ́wé",
+        "• Àwòrán àwọn ọ̀nà ìkíni",
+        "• Téèpù tí ó ní àwọn oríkì ẹ̀kọ́ ilé",
+        "• Tẹlifísàn/Rédíò tí ó ń fi àwọn àpẹẹrẹ ìwà ọmọlúàbí hàn",
+        "• Fíìmù tí ó ń fi iṣẹ́ ilé ṣíṣe hàn",
+        "",
+        "Ìparí:",
+        "• Oríkì ẹ̀kọ́ ilé jẹ́ ọ̀nà tí a ń gbà kọ́ ọmọ nípa ìwà rere",
+        "• Ìkíni ní oríṣiríṣi ọ̀nà jẹ́ ọ̀nà tí a ń fi ìbọ̀wọ́ hàn",
+        "• Ìwà ọmọlúàbí, ìmọ́tótó, ìbọ̀wọ́ fún àgbà, àti ìbọ̀mọ́wí jẹ́ àwọn ìwà pàtàkì",
+        "• Iṣẹ́ ilé ṣíṣe jẹ́ ọ̀nà tí a ń gbà tọ́jú ilé àti àwọn tí ó wà nínú rẹ̀",
+        "• Gbogbo àwọn ìwà wọ̀nyí jẹ́ pàtàkì fún ìdàgbàsókè ọmọ Yorùbá"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde oríkì ẹ̀kọ́ ilé pẹ̀lú àpẹẹrẹ",
+        "Àwòrán oríṣiríṣi ọ̀nà ìkíni fún àgbà, ọ̀dọ́, olùkọ́",
+        "Àtẹ̀jáde àwọn ìwà ọmọlúàbí pẹ̀lú àpèjúwe",
+        "Àwòrán ìmọ́tótó ara, aṣọ, ilé àti àyíká",
+        "Àtẹ̀jáde iṣẹ́ ilé oríṣiríṣi pẹ̀lú àpèjúwe"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Oríkì ẹkọ ilé ìkíni Yorùbá SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Oríkì jẹ́:",
+          "opts": [
+            "Ọ̀rọ̀ ìbànújẹ́",
+            "Ọ̀rọ̀ ìyìn tí a ń sọ láti fi ṣe àpèjúwe ẹni tàbí ohun kan",
+            "Ọ̀rọ̀ ìkẹ́dùn",
+            "Ọ̀rọ̀ ìbẹ̀rù"
+          ],
+          "ans": 1,
+          "explanation": "Oríkì jẹ́ ọ̀rọ̀ ìyìn tí a ń sọ láti fi ṣe àpèjúwe ẹni tàbí ohun kan, pàápàá jùlọ ní ilẹ̀ Yorùbá."
+        },
+        {
+          "q": "Ọ̀nà tí a ń gbà kí ọkùnrin àgbà ni:",
+          "opts": [
+            "'Kú àárọ̀, ọ̀rẹ́'",
+            "'Ẹ kú àárọ̀, Baba'",
+            "'Kú ọjọ́, ọ̀rẹ́'",
+            "'Ẹ kú alẹ́, ọ̀rẹ́'"
+          ],
+          "ans": 1,
+          "explanation": "Ní ilẹ̀ Yorùbá, a ń kí ọkùnrin àgbà pẹ̀lú 'Ẹ kú àárọ̀/ọjọ́/alẹ́, Baba' láti fi ìbọ̀wọ́ hàn."
+        },
+        {
+          "q": "Ìwà ọmọlúàbí kò ní:",
+          "opts": [
+            "Ìbọ̀wọ́ fún àgbà",
+            "Ìtẹ́lọ́rùn",
+            "Ìṣòòtọ́",
+            "Ìṣòro fún àwọn míràn"
+          ],
+          "ans": 3,
+          "explanation": "Ìwà ọmọlúàbí kò ní ìṣòro fún àwọn míràn; ó ní àwọn ìwà rere bíi ìbọ̀wọ́, ìtẹ́lọ́rùn, ìṣòòtọ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ìmọ́tótó kò ní:",
+          "opts": [
+            "Fífọ́ ẹnu",
+            "Wíwọ aṣọ mímọ́",
+            "Sísọ ilé mọ́",
+            "Fífi ẹ̀gbin sí ibi gbogbo"
+          ],
+          "ans": 3,
+          "explanation": "Ìmọ́tótó kò ní fífi ẹ̀gbin sí ibi gbogbo; ó ní fífọ́ ẹnu, wíwọ aṣọ mímọ́, sísọ ilé mọ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ọ̀nà tí a ń gbà bọ̀wọ́ fún àgbà obìnrin ni:",
+          "opts": [
+            "Kíkúnlẹ̀",
+            "Kíkọ̀lẹ̀",
+            "Kíkúnlẹ̀ tàbí kíkọ̀lẹ̀",
+            "Kíka síwájú"
+          ],
+          "ans": 2,
+          "explanation": "Ní ilẹ̀ Yorùbá, a ń bọ̀wọ́ fún àgbà obìnrin nípa kíkúnlẹ̀ tàbí kíkọ̀lẹ̀, pẹ̀lú lílo ọ̀rọ̀ ẹ̀bọ̀n."
+        },
+        {
+          "q": "Ìbọ̀mọ́wí túmọ̀ sí:",
+          "opts": [
+            "Bí a ṣe ń sọ̀rọ̀ pẹ̀lú ìtẹ́lọ́rùn",
+            "Bí a ṣe ń gbé e rìn",
+            "Bí a ṣe ń jẹun",
+            "Bí a ṣe ń sun"
+          ],
+          "ans": 0,
+          "explanation": "Ìbọ̀mọ́wí túmọ̀ sí bí a ṣe ń sọ̀rọ̀ pẹ̀lú àwọn míràn pẹ̀lú ìtẹ́lọ́rùn, kíká ọ̀rọ̀ síwájú, àti lílo ọ̀rọ̀ ẹ̀bọ̀n."
+        },
+        {
+          "q": "Iṣẹ́ ilé kò ní:",
+          "opts": [
+            "Fífọ ohun èlò oúnjẹ",
+            "Sísọ ilé mọ́",
+            "Gígbin ewéko ilé",
+            "Ṣíṣe iṣẹ́ òde"
+          ],
+          "ans": 3,
+          "explanation": "Iṣẹ́ ilé kò ní ṣíṣe iṣẹ́ òde; ó ní fífọ ohun èlò oúnjẹ, sísọ ilé mọ́, gígbin ewéko ilé, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ọ̀rọ̀ 'Ẹ' ní èdè Yorùbá jẹ́:",
+          "opts": [
+            "Ọ̀rọ̀ ẹ̀bọ̀n fún ọ̀dọ́",
+            "Ọ̀rọ̀ ẹ̀bọ̀n fún àgbà",
+            "Ọ̀rọ̀ ìkẹ́dùn",
+            "Ọ̀rọ̀ ìbẹ̀rù"
+          ],
+          "ans": 1,
+          "explanation": "Ní èdè Yorùbá, 'Ẹ' jẹ́ ọ̀rọ̀ ẹ̀bọ̀n tí a ń lò nígbà tí a bá ń bá àgbà sọ̀rọ̀ láti fi ìbọ̀wọ́ hàn."
+        },
+        {
+          "q": "Ìwúlò ẹ̀kọ́ ilé kò ní:",
+          "opts": [
+            "Kí ọmọ ní ìwà ọmọlúàbí",
+            "Kí ọmọ mọ̀ bí a ṣe ń tọ́jú ara",
+            "Kí ọmọ mọ̀ bí a ṣe ń bọ̀wọ́ fún àgbà",
+            "Kí ọmọ má ṣe kọ́ ẹ̀kọ́ ilé"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò ẹ̀kọ́ ilé kò ní kí ọmọ má ṣe kọ́ ẹ̀kọ́ ilé; ó ní kí ọmọ ní ìwà ọmọlúàbí, mọ̀ bí a ṣe ń tọ́jú ara, àti bọ̀wọ́ fún àgbà."
+        },
+        {
+          "q": "Àpẹẹrẹ oríkì ẹ̀kọ́ ilé ni:",
+          "opts": [
+            "Ọmọ tó mọ̀ ọ̀rọ̀, tó mọ̀ ìtẹ́lọ́rùn",
+            "Ọmọ tó kò mọ̀ ọ̀rọ̀",
+            "Ọmọ tó kò ní ìwà ọmọlúàbí",
+            "Ọmọ tó kò mọ̀ ìmọ́tótó"
+          ],
+          "ans": 0,
+          "explanation": "Àpẹẹrẹ oríkì ẹ̀kọ́ ilé ni 'Ọmọ tó mọ̀ ọ̀rọ̀, tó mọ̀ ìtẹ́lọ́rùn', tí ó fi hàn pé ọmọ náà ní ìwà rere."
+        }
+      ]
+    }
+  ]
+}

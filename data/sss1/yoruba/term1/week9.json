@@ -1,0 +1,226 @@
+{
+  "course": "SSS1 Yoruba",
+  "term": "First Term",
+  "week": 9,
+  "topic": "IṢẸ́ ABÍNIBÍ",
+  "subUnits": [
+    {
+      "id": "sss1_yor_t1_w9_su1",
+      "title": "9.1 Oríkì Iṣẹ́ Abínibí, Bí a ṣe ń Kọ́ Iṣẹ́, àti Ìwúlò Iṣẹ́ Kíkọ́",
+      "notes": [
+        "Oríkì Iṣẹ́ Abínibí:",
+        "• Iṣẹ́ abínibí jẹ́ iṣẹ́ tí àwọn baba ńlá wa ti ń ṣe tẹ́lẹ̀, tí ó ti wà láyé àtijọ́",
+        "• Iṣẹ́ abínibí jẹ́ pàtàkì fún ìdàgbàsókè àwùjọ̀ àti ìlera ènìyàn",
+        "• Àpẹẹrẹ iṣẹ́ abínibí:",
+        "  - Àgbẹ̀: iṣẹ́ gígbin ẹ̀gẹ́dẹ́, iṣu, ọkà, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  - Alágbẹ̀dẹ: iṣẹ́ ṣíṣe irin, ìdà, àti ohun èlò irin",
+        "  - Onídìrí: iṣẹ́ ṣíṣe ohun èlò onídìrí bíi igi, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  - Aṣọ híhun: iṣẹ́ ṣíṣe aṣọ láti inú owú, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  - Aró dídá: iṣẹ́ ṣíṣe aró láti inú ewé àti ohun èlò abínibí",
+        "  - Epo fífọ̀: iṣẹ́ fífọ̀ epo láti inú èso epo",
+        "  - Irun dídì: iṣẹ́ dídì irun fún àwọn obìnrin",
+        "  - Àyàn: iṣẹ́ ṣíṣe ohun èlò àyàn bíi ìkòkò, ìkòwé, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  - Olóòlọ̀: iṣẹ́ ṣíṣe ohun èlò olóòlọ̀ bíi ìlẹ̀kẹ̀, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "",
+        "Bí a ṣe ń Kọ́ Iṣẹ́:",
+        "• Iṣẹ́ abínibí máa ń kọ́ nípa:",
+        "  a) Ìkọ́ni láti inú ẹnu sí ẹnu",
+        "  b) Ìkọ́ni láti ọ̀dọ̀ baba sí ọmọ",
+        "  c) Ìkọ́ni láti ọ̀dọ̀ olùkọ́ iṣẹ́ sí akẹ́kọ̀ọ́",
+        "  d) Ìkọ́ni láti ọ̀dọ̀ àgbà sí ọ̀dọ́",
+        "",
+        "• Ìlànà kíkọ́ iṣẹ́:",
+        "  a) Kí akẹ́kọ̀ọ́ wo bí olùkọ́ iṣẹ́ ṣe ń ṣe iṣẹ́ náà",
+        "  b) Kí akẹ́kọ̀ọ́ ṣe àdàkọ́ iṣẹ́ náà",
+        "  c) Kí olùkọ́ iṣẹ́ ṣe àtúnṣe iṣẹ́ akẹ́kọ̀ọ́",
+        "  d) Kí akẹ́kọ̀ọ́ tẹ̀síwájú nínú ṣíṣe iṣẹ́ náà títí yóò fi mọ̀ ọ́ dáadáa",
+        "",
+        "Ìwúlò Iṣẹ́ Kíkọ́:",
+        "• Láti lè ní iṣẹ́ tí ó lè fún ẹni ní owó",
+        "• Láti lè tọ́jú ara ẹni àti àwọn tí ó wà ní ìtọ́jú ẹni",
+        "• Láti lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+        "• Láti lè tọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+        "• Láti lè dín ìṣòro òṣì kù ní àwùjọ̀",
+        "",
+        "Iṣẹ́ Ọkùnrin, Obìnrin, Tókùnrin-Tobìnrin:",
+        "• Ní ayé àtijọ́:",
+        "  a) Iṣẹ́ ọkùnrin: àgbẹ̀, alágbẹ̀dẹ, onídìrí, awakọ̀, ọdẹ, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  b) Iṣẹ́ obìnrin: aṣọ híhun, epo fífọ̀, irun dídì, oúnjẹ ṣíṣe, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  c) Iṣẹ́ tókùnrin-tobìnrin: ọjà ṣíṣe, oúnjẹ títà, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "",
+        "• Ní ayé òde òní:",
+        "  a) Iṣẹ́ ọkùnrin: ìṣòwò, ìkọ́ni, ìṣèjọba, ìmọ̀ ẹ̀rọ, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  b) Iṣẹ́ obìnrin: ìṣòwò, ìkọ́ni, ìṣèjọba, ìmọ̀ ìlera, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ",
+        "  c) Iṣẹ́ tókùnrin-tobìnrin: gbogbo iṣẹ́ tí ó wà lóde òní",
+        "",
+        "Ìyàtọ̀ Láàárín Iṣẹ́ Àtijọ́ àti ti Òde Òní:",
+        "• Iṣẹ́ àtijọ́:",
+        "  - A ń ṣe iṣẹ́ pẹ̀lú ohun èlò abínibí",
+        "  - A ń kọ́ iṣẹ́ láti inú ẹnu sí ẹnu",
+        "  - Iṣẹ́ máa ń jẹ́ ti ìdílé",
+        "  - Iṣẹ́ kò ní ìmọ̀ ẹ̀rọ",
+        "",
+        "• Iṣẹ́ òde òní:",
+        "  - A ń ṣe iṣẹ́ pẹ̀lú ohun èlò ìmọ̀ ẹ̀rọ",
+        "  - A ń kọ́ iṣẹ́ ní ilé-ìwé àti ilé-iṣẹ́",
+        "  - Iṣẹ́ kò jẹ́ ti ìdílé nìkan",
+        "  - Iṣẹ́ ní ìmọ̀ ẹ̀rọ",
+        "",
+        "Practical Activities:",
+        "1. Ìdámọ̀ Iṣẹ́ Abínibí:",
+        "   • Kíyèsí àwọn iṣẹ́ abínibí tí ó wà ní àyíká",
+        "   • Ṣàlàyé bí a ṣe ń ṣe iṣẹ́ kọ̀ọ̀kan",
+        "   • Sọ ìwúlò iṣẹ́ kọ̀ọ̀kan",
+        "",
+        "2. Ìṣe Àfihàn Iṣẹ́:",
+        "   • Ṣe àfihàn bí a ṣe ń ṣe iṣẹ́ abínibí kan",
+        "   • Kí àwọn akẹ́kọ̀ọ́ ṣe àdàkọ́ iṣẹ́ náà",
+        "   • Ṣàlàyé ìwúlò iṣẹ́ náà",
+        "",
+        "3. Ìjíròrò Lórí Iṣẹ́:",
+        "   • Jíròrò lórí ìyàtọ̀ láàárín iṣẹ́ àtijọ́ àti ti òde òní",
+        "   • Sọ ohun tí o rò nípa pàtàkì iṣẹ́ kíkọ́",
+        "   • Sọ bí iṣẹ́ ṣe lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+        "",
+        "Common Misconceptions:",
+        "• 'Iṣẹ́ abínibí kò wúlò mọ́': Iṣẹ́ abínibí wà fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+        "• 'Iṣẹ́ abínibí kò lè fún ẹni ní owó púpọ̀': Iṣẹ́ abínibí lè fún ẹni ní owó tí ó tọ́",
+        "• 'Iṣẹ́ abínibí jẹ́ fún àwọn tí kò lè kọ́ ẹ̀kọ́': Iṣẹ́ abínibí jẹ́ fún gbogbo ènìyàn",
+        "• 'Iṣẹ́ òde òní dára ju iṣẹ́ àtijọ́ lọ': Iṣẹ́ àtijọ́ àti ti òde òní jọra nínú ìwúlò wọn",
+        "",
+        "Nigerian Context:",
+        "• Iṣẹ́ abínibí jẹ́ pàtàkì fún ìdàgbàsókè àwùjọ̀ Yorùbá",
+        "• Ìmọ̀ iṣẹ́ abínibí ń ràn àwọn akẹ́kọ̀ọ́ lọ́wọ́ láti lè mọ̀ bí a ṣe ń ṣe iṣẹ́ kọ̀ọ̀kan",
+        "• Ìmọ̀ iṣẹ́ abínibí jẹ́ pàtàkì fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+        "",
+        "Conclusion:",
+        "• Iṣẹ́ abínibí jẹ́ pàtàkì fún ìdàgbàsókè àwùjọ̀ àti ìlera ènìyàn",
+        "• Bí a ṣe ń kọ́ iṣẹ́ jẹ́ pàtàkì fún ìtọ́jú iṣẹ́ abínibí",
+        "• Ìwúlò iṣẹ́ kíkọ́ jẹ́ pàtàkì fún ìdàgbàsókè ènìyàn àti àwùjọ̀",
+        "• Ìyàtọ̀ láàárín iṣẹ́ àtijọ́ àti ti òde òní jẹ́ pàtàkì fún ìmọ̀ iṣẹ́",
+        "• Ìmọ̀ iṣẹ́ abínibí jẹ́ pàtàkì fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá"
+      ],
+      "diagramDescriptions": [
+        "Àtẹ̀jáde oríkì iṣẹ́ abínibí pẹ̀lú àpẹẹrẹ",
+        "Àtẹ̀jáde bí a ṣe ń kọ́ iṣẹ́ abínibí pẹ̀lú àlàyé",
+        "Àtẹ̀jáde ìwúlò iṣẹ́ kíkọ́ pẹ̀lú àpẹẹrẹ",
+        "Àtẹ̀jáde iṣẹ́ ọkùnrin, obìnrin, tókùnrin-tobìnrin ní àtijọ́ àti lóde òní",
+        "Nigerian examples: Àgbẹ̀, alágbẹ̀dẹ, aṣọ híhun, epo fífọ̀"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Iṣẹ́ abínibí Yorùbá àgbẹ̀ alágbẹ̀dẹ SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Iṣẹ́ abínibí jẹ́:",
+          "opts": [
+            "Iṣẹ́ tí a ń ṣe ní òde òní",
+            "Iṣẹ́ tí àwọn baba ńlá wa ti ń ṣe tẹ́lẹ̀",
+            "Iṣẹ́ tí a ń ṣe pẹ̀lú ìmọ̀ ẹ̀rọ",
+            "Iṣẹ́ tí a ń kọ́ ní ilé-ìwé"
+          ],
+          "ans": 1,
+          "explanation": "Iṣẹ́ abínibí jẹ́ iṣẹ́ tí àwọn baba ńlá wa ti ń ṣe tẹ́lẹ̀, tí ó ti wà láyé àtijọ́."
+        },
+        {
+          "q": "Àpẹẹrẹ iṣẹ́ abínibí kò ní:",
+          "opts": [
+            "Àgbẹ̀",
+            "Alágbẹ̀dẹ",
+            "Onímọ̀ ẹ̀rọ",
+            "Aṣọ híhun"
+          ],
+          "ans": 2,
+          "explanation": "Onímọ̀ ẹ̀rọ kì í ṣe iṣẹ́ abínibí; ó jẹ́ iṣẹ́ òde òní. Àgbẹ̀, alágbẹ̀dẹ, àti aṣọ híhun jẹ́ àpẹẹrẹ iṣẹ́ abínibí."
+        },
+        {
+          "q": "Bí a ṣe ń kọ́ iṣẹ́ abínibí kò ní:",
+          "opts": [
+            "Láti inú ẹnu sí ẹnu",
+            "Láti ọ̀dọ̀ baba sí ọmọ",
+            "Láti ọ̀dọ̀ olùkọ́ iṣẹ́ sí akẹ́kọ̀ọ́",
+            "Láti inú ìwé nìkan"
+          ],
+          "ans": 3,
+          "explanation": "Bí a ṣe ń kọ́ iṣẹ́ abínibí kò ní láti inú ìwé nìkan; ó ní láti inú ẹnu sí ẹnu, láti ọ̀dọ̀ baba sí ọmọ, àti láti ọ̀dọ̀ olùkọ́ iṣẹ́ sí akẹ́kọ̀ọ́."
+        },
+        {
+          "q": "Ìwúlò iṣẹ́ kíkọ́ kò ní:",
+          "opts": [
+            "Láti lè ní iṣẹ́ tí ó lè fún ẹni ní owó",
+            "Láti lè tọ́jú ara ẹni àti àwọn tí ó wà ní ìtọ́jú ẹni",
+            "Láti lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+            "Láti lè ṣe ìṣòro fún àwùjọ̀"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò iṣẹ́ kíkọ́ kò ní láti lè ṣe ìṣòro fún àwùjọ̀; ó ní láti lè ní iṣẹ́, tọ́jú ara, ṣe ìrànlọ́wọ́ fún àwùjọ̀, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+        },
+        {
+          "q": "Ní ayé àtijọ́, iṣẹ́ ọkùnrin kò ní:",
+          "opts": [
+            "Àgbẹ̀",
+            "Alágbẹ̀dẹ",
+            "Aṣọ híhun",
+            "Awakọ̀"
+          ],
+          "ans": 2,
+          "explanation": "Ní ayé àtijọ́, aṣọ híhun jẹ́ iṣẹ́ obìnrin, kì í ṣe iṣẹ́ ọkùnrin. Àgbẹ̀, alágbẹ̀dẹ, àti awakọ̀ jẹ́ àpẹẹrẹ iṣẹ́ ọkùnrin."
+        },
+        {
+          "q": "Ní ayé àtijọ́, iṣẹ́ obìnrin kò ní:",
+          "opts": [
+            "Epo fífọ̀",
+            "Irun dídì",
+            "Alágbẹ̀dẹ",
+            "Oúnjẹ ṣíṣe"
+          ],
+          "ans": 2,
+          "explanation": "Ní ayé àtijọ́, alágbẹ̀dẹ jẹ́ iṣẹ́ ọkùnrin, kì í ṣe iṣẹ́ obìnrin. Epo fífọ̀, irun dídì, àti oúnjẹ ṣíṣe jẹ́ àpẹẹrẹ iṣẹ́ obìnrin."
+        },
+        {
+          "q": "Ìyàtọ̀ láàárín iṣẹ́ àtijọ́ àti ti òde òní kò ní:",
+          "opts": [
+            "Iṣẹ́ àtijọ́ ní ohun èlò abínibí",
+            "Iṣẹ́ àtijọ́ kò ní ìmọ̀ ẹ̀rọ",
+            "Iṣẹ́ àtijọ́ máa ń jẹ́ ti ìdílé",
+            "Iṣẹ́ àtijọ́ ní ìmọ̀ ẹ̀rọ"
+          ],
+          "ans": 3,
+          "explanation": "Ìyàtọ̀ láàárín iṣẹ́ àtijọ́ àti ti òde òní kò ní iṣẹ́ àtijọ́ ní ìmọ̀ ẹ̀rọ; ó ní iṣẹ́ àtijọ́ ní ohun èlò abínibí, kò ní ìmọ̀ ẹ̀rọ, àti máa ń jẹ́ ti ìdílé."
+        },
+        {
+          "q": "Àpẹẹrẹ iṣẹ́ tókùnrin-tobìnrin ní ayé àtijọ́ ni:",
+          "opts": [
+            "Àgbẹ̀",
+            "Alágbẹ̀dẹ",
+            "Ọjà ṣíṣe",
+            "Aṣọ híhun"
+          ],
+          "ans": 2,
+          "explanation": "Ọjà ṣíṣe jẹ́ àpẹẹrẹ iṣẹ́ tókùnrin-tobìnrin ní ayé àtijọ́. Àgbẹ̀, alágbẹ̀dẹ, àti aṣọ híhun jẹ́ iṣẹ́ ọkùnrin tàbí obìnrin."
+        },
+        {
+          "q": "Ìwúlò ìmọ̀ iṣẹ́ abínibí kò ní:",
+          "opts": [
+            "Láti lè tọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá",
+            "Láti lè dín ìṣòro òṣì kù ní àwùjọ̀",
+            "Láti lè ṣe ìrànlọ́wọ́ fún àwùjọ̀",
+            "Láti lè ṣe ìṣòro fún àwùjọ̀"
+          ],
+          "ans": 3,
+          "explanation": "Ìwúlò ìmọ̀ iṣẹ́ abínibí kò ní láti lè ṣe ìṣòro fún àwùjọ̀; ó ní láti lè tọ́jú àṣà, dín ìṣòro òṣì kù, àti ṣe ìrànlọ́wọ́ fún àwùjọ̀."
+        },
+        {
+          "q": "A common misconception about iṣẹ́ abínibí ni:",
+          "opts": [
+            "Iṣẹ́ abínibí kò wúlò mọ́",
+            "Iṣẹ́ abínibí jẹ́ pàtàkì fún àwùjọ̀",
+            "Iṣẹ́ abínibí lè fún ẹni ní owó",
+            "Iṣẹ́ abínibí jẹ́ fún gbogbo ènìyàn"
+          ],
+          "ans": 0,
+          "explanation": "Iṣẹ́ abínibí wà fún ìtọ́jú àṣà àti ìṣe ilẹ̀ Yorùbá, kì í ṣe pé kò wúlò mọ́."
+        }
+      ]
+    }
+  ]
+}

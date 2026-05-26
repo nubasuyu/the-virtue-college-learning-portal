@@ -1,0 +1,270 @@
+{
+  "course": "SSS1 Biology",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Relevance of Biology to Agriculture",
+  "subUnits": [
+    {
+      "id": "sss1_bio_t3_w2_su1",
+      "title": "2.1 Classification of Plants: Botanical, Agricultural, and Life Cycle",
+      "notes": [
+        "Relevance of Biology to Agriculture:",
+        "Biology provides the scientific foundation for understanding plant growth, soil management, pest control, and sustainable farming practices essential for Nigerian agriculture.",
+        "",
+        "Classification of Plants:",
+        "Plants can be classified in multiple ways based on different criteria:",
+        "",
+        "1. Botanical Classification:",
+        "   • Based on evolutionary relationships and structural characteristics",
+        "   • Major groups:",
+        "     a) Algae: Simple, aquatic, photosynthetic organisms",
+        "        - Examples: Spirogyra, Chlamydomonas",
+        "        - Nigerian context: Algae in Nigerian ponds and water bodies",
+        "",
+        "     b) Bryophytes: Non-vascular land plants",
+        "        - Examples: Mosses, liverworts",
+        "        - Characteristics: Require moist environments, no true roots",
+        "",
+        "     c) Pteridophytes: Vascular, seedless plants",
+        "        - Examples: Ferns, horsetails",
+        "        - Characteristics: Have vascular tissue, reproduce by spores",
+        "",
+        "     d) Spermatophytes: Seed-bearing plants",
+        "        - Gymnosperms: Naked seeds (conifers, cycads)",
+        "        - Angiosperms: Seeds enclosed in fruits (flowering plants)",
+        "        - Nigerian context: Most Nigerian crops are angiosperms",
+        "",
+        "2. Agricultural Classification:",
+        "   • Based on economic importance and use",
+        "   • Major categories:",
+        "     a) Cereals: Grasses grown for edible grains",
+        "        - Examples: Maize, rice, sorghum, millet, wheat",
+        "        - Nigerian context: Staple foods in Nigerian diets",
+        "",
+        "     b) Legumes: Plants with nitrogen-fixing root nodules",
+        "        - Examples: Cowpea, groundnut, soybean, beans",
+        "        - Importance: Improve soil fertility, protein source",
+        "        - Nigerian context: Major protein source in Nigerian cuisine",
+        "",
+        "     c) Root and Tuber Crops: Plants with edible underground parts",
+        "        - Examples: Cassava, yam, sweet potato, cocoyam",
+        "        - Importance: Carbohydrate source, drought-tolerant",
+        "        - Nigerian context: Staple foods in many Nigerian regions",
+        "",
+        "     d) Vegetables: Plants grown for edible leaves, stems, or fruits",
+        "        - Examples: Spinach, okra, tomato, pepper, lettuce",
+        "        - Importance: Vitamins, minerals, dietary fiber",
+        "        - Nigerian context: Essential components of Nigerian soups and stews",
+        "",
+        "     e) Fruits: Plants with edible reproductive structures",
+        "        - Examples: Mango, orange, banana, pineapple, pawpaw",
+        "        - Importance: Vitamins, sugars, dietary variety",
+        "        - Nigerian context: Important for nutrition and income",
+        "",
+        "     f) Beverage Crops: Plants used to make drinks",
+        "        - Examples: Cocoa (chocolate), coffee, tea",
+        "        - Nigerian context: Cocoa is a major export crop from Nigeria",
+        "",
+        "     g) Oil Crops: Plants grown for oil extraction",
+        "        - Examples: Oil palm, groundnut, soybean, sesame",
+        "        - Importance: Cooking oil, industrial uses",
+        "        - Nigerian context: Palm oil is a traditional Nigerian cooking oil",
+        "",
+        "     h) Fibre Crops: Plants grown for fibre production",
+        "        - Examples: Cotton, jute, sisal",
+        "        - Importance: Textiles, ropes, paper",
+        "        - Nigerian context: Cotton production in Northern Nigeria",
+        "",
+        "     i) Drug/Medicinal Plants: Plants with therapeutic properties",
+        "        - Examples: Neem, bitter leaf, moringa, aloe vera",
+        "        - Importance: Traditional medicine, pharmaceuticals",
+        "        - Nigerian context: Widely used in Nigerian traditional medicine",
+        "",
+        "     j) Latex Crops: Plants producing latex",
+        "        - Examples: Rubber tree (Hevea brasiliensis)",
+        "        - Importance: Rubber production",
+        "        - Nigerian context: Rubber plantations in Cross River and Edo states",
+        "",
+        "3. Classification Based on Life Cycle:",
+        "   • Based on duration of life and reproductive pattern",
+        "   • Categories:",
+        "     a) Annuals: Complete life cycle in one growing season",
+        "        - Examples: Maize, rice, beans, tomato",
+        "        - Characteristics: Germinate, grow, flower, seed, die in one year",
+        "        - Nigerian context: Major food crops planted and harvested annually",
+        "",
+        "     b) Biennials: Complete life cycle in two growing seasons",
+        "        - Examples: Carrot, cabbage, onion (some varieties)",
+        "        - Characteristics: Vegetative growth first year, flowering second year",
+        "        - Nigerian context: Some vegetable crops follow biennial pattern",
+        "",
+        "     c) Perennials: Live for more than two years, reproduce multiple times",
+        "        - Examples: Cassava, yam, mango, oil palm, cocoa",
+        "        - Characteristics: Long-lived, may produce seeds or vegetatively",
+        "        - Nigerian context: Many Nigerian tree crops and root crops are perennials",
+        "",
+        "Importance of Plant Classification in Agriculture:",
+        "• Crop Selection: Helps farmers choose appropriate crops for climate and soil",
+        "• Crop Rotation: Understanding plant families aids in planning rotations to maintain soil fertility",
+        "• Pest and Disease Management: Related plants often share pests; classification helps predict and manage outbreaks",
+        "• Breeding Programs: Knowledge of plant relationships guides hybridization and genetic improvement",
+        "• Resource Management: Different plant types have different water, nutrient, and light requirements",
+        "",
+        "Nigerian Context:",
+        "• Nigeria's diverse agro-ecological zones support varied plant classifications",
+        "• Understanding plant classification helps Nigerian farmers optimize crop selection and management",
+        "• Traditional knowledge of plant uses complements scientific classification",
+        "• Plant classification supports Nigeria's agricultural diversification and food security goals",
+        "",
+        "Practical Activities:",
+        "1. Plant Collection and Classification:",
+        "   • Collect plant specimens from school farm or local environment",
+        "   • Classify them botanically and agriculturally",
+        "   • Record characteristics and uses",
+        "",
+        "2. Life Cycle Observation:",
+        "   • Plant annual, biennial, and perennial crops",
+        "   • Observe growth patterns over time",
+        "   • Compare life cycle durations",
+        "",
+        "3. Agricultural Classification Exercise:",
+        "   • Categorize common Nigerian crops by agricultural use",
+        "   • Discuss economic importance of each category",
+        "   • Relate to Nigerian agricultural policies",
+        "",
+        "Common Misconceptions:",
+        "• 'All plants are either crops or weeds': Many plants have multiple uses; classification depends on context",
+        "• 'Botanical and agricultural classifications are the same': They use different criteria and serve different purposes",
+        "• 'Annual plants are always better than perennials': Each has advantages depending on farming system and goals",
+        "• 'Classification is only for scientists': Farmers use classification daily for crop management decisions",
+        "",
+        "Conclusion:",
+        "• Plants can be classified botanically, agriculturally, or by life cycle",
+        "• Each classification system serves different purposes in agriculture and ecology",
+        "• Understanding plant classification helps optimize crop production and resource management",
+        "• In Nigeria, this knowledge supports sustainable agriculture, food security, and economic development"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing botanical classification: algae, bryophytes, pteridophytes, spermatophytes",
+        "Chart of agricultural classification: cereals, legumes, root crops, vegetables, fruits, etc.",
+        "Illustration of life cycle classification: annuals, biennials, perennials with examples",
+        "Nigerian examples: Cassava (perennial root crop), maize (annual cereal), cocoa (perennial beverage crop)",
+        "Flowchart showing how classification informs agricultural decisions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "Plant classification agriculture biology SSS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Botanical classification of plants is based on:",
+          "opts": [
+            "Economic importance",
+            "Evolutionary relationships and structural characteristics",
+            "Life cycle duration",
+            "Geographic distribution"
+          ],
+          "ans": 1,
+          "explanation": "Botanical classification groups plants based on evolutionary relationships, structural features, and reproductive characteristics."
+        },
+        {
+          "q": "Which of the following is a legume?",
+          "opts": [
+            "Maize",
+            "Cassava",
+            "Cowpea",
+            "Oil palm"
+          ],
+          "ans": 2,
+          "explanation": "Cowpea is a legume; it has nitrogen-fixing root nodules and is an important protein source in Nigerian agriculture."
+        },
+        {
+          "q": "Annual plants complete their life cycle in:",
+          "opts": [
+            "One growing season",
+            "Two growing seasons",
+            "More than two years",
+            "Indefinitely"
+          ],
+          "ans": 0,
+          "explanation": "Annual plants germinate, grow, flower, produce seeds, and die within one growing season or year."
+        },
+        {
+          "q": "Cocoa is classified agriculturally as a:",
+          "opts": [
+            "Cereal",
+            "Legume",
+            "Beverage crop",
+            "Fibre crop"
+          ],
+          "ans": 2,
+          "explanation": "Cocoa is a beverage crop; its seeds are processed to make chocolate and cocoa drinks, and it's a major Nigerian export."
+        },
+        {
+          "q": "Which plant group includes ferns?",
+          "opts": [
+            "Algae",
+            "Bryophytes",
+            "Pteridophytes",
+            "Spermatophytes"
+          ],
+          "ans": 2,
+          "explanation": "Pteridophytes are vascular, seedless plants that reproduce by spores; ferns are a major group of pteridophytes."
+        },
+        {
+          "q": "Cassava is classified by life cycle as a:",
+          "opts": [
+            "Annual",
+            "Biennial",
+            "Perennial",
+            "Ephemeral"
+          ],
+          "ans": 2,
+          "explanation": "Cassava is a perennial; it lives for more than two years and can be harvested multiple times from the same plant."
+        },
+        {
+          "q": "Agricultural classification of plants is primarily based on:",
+          "opts": [
+            "Evolutionary history",
+            "Economic importance and use",
+            "Cell structure",
+            "Reproductive method"
+          ],
+          "ans": 1,
+          "explanation": "Agricultural classification groups plants by their economic uses (food, fibre, medicine, etc.) to guide farming decisions."
+        },
+        {
+          "q": "Understanding plant classification helps Nigerian farmers to:",
+          "opts": [
+            "Only name plant species",
+            "Optimize crop selection, rotation, and pest management",
+            "Only identify weeds",
+            "Only study plant anatomy"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of plant classification helps farmers choose appropriate crops, plan rotations, manage pests, and improve yields."
+        },
+        {
+          "q": "Which of the following is a fibre crop?",
+          "opts": [
+            "Cotton",
+            "Rice",
+            "Yam",
+            "Mango"
+          ],
+          "ans": 0,
+          "explanation": "Cotton is a fibre crop; its fibres are used to make textiles, and it's grown in Northern Nigeria."
+        },
+        {
+          "q": "A common misconception about plant classification is:",
+          "opts": [
+            "Botanical and agricultural classifications serve different purposes",
+            "All plants are either crops or weeds",
+            "Classification helps in crop management",
+            "Different systems use different criteria"
+          ],
+          "ans": 1,
+          "explanation": "Many plants have multiple uses; a plant considered a weed in one context may be a valuable crop in another."
+        }
+      ]
+    }
+  ]
+}
