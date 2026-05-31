@@ -1,0 +1,818 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 3,
+  "topic": "Speech, Structure, Summary, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w3_su1",
+      "title": "3.1 Speech: Giving Clear, Concise and Correct Directions",
+      "notes": [
+        "Speech: Giving Clear, Concise and Correct Directions",
+        "",
+        "Key Concepts:",
+        "1. What are clear directions?",
+        "   - Instructions that help someone reach a destination or complete a task",
+        "   - Must be easy to understand and follow",
+        "   - Example: 'Turn left at the market, then go straight for two blocks'",
+        "",
+        "2. Features of good directions:",
+        "   - Use simple, familiar words",
+        "   - Give steps in logical order",
+        "   - Include landmarks: 'near the post office', 'beside the bank'",
+        "   - Use directional words: left, right, straight, ahead, behind",
+        "",
+        "3. How to give directions effectively:",
+        "   - Start from a known point: 'From the school gate...'",
+        "   - Use clear sequence: 'First... Then... Finally...'",
+        "   - Mention distances: 'about 100 metres', 'two minutes walk'",
+        "   - Confirm understanding: 'Do you understand?'",
+        "",
+        "4. Common directional vocabulary:",
+        "   - Turn left/right, go straight, cross the road",
+        "   - At the junction, beside, opposite, in front of",
+        "   - Landmarks: market, mosque, church, hospital, school",
+        "",
+        "Nigerian Context:",
+        "• Sample direction topic: 'How to get to the nearest hospital from school'",
+        "  - Key directions:",
+        "    * From the school gate, turn right",
+        "    * Walk straight past the market",
+        "    * Cross at the pedestrian bridge",
+        "    * The hospital is on your left, opposite the police station",
+        "",
+        "• Cultural considerations:",
+        "  - Using local landmarks familiar to Nigerians",
+        "  - Including directions in Nigerian Pidgin for wider understanding",
+        "  - Recognizing that directions may vary by region (urban vs rural)",
+        "",
+        "Practical Activities:",
+        "1. Direction Practice:",
+        "   - Teacher gives directions to a familiar location",
+        "   - Students follow the directions on a map or in class",
+        "   - Students give directions to partners for practice",
+        "",
+        "2. Map Reading:",
+        "   - Teacher provides a simple map of the school or community",
+        "   - Students practice giving and following directions using the map",
+        "   - Focus on using correct directional vocabulary",
+        "",
+        "3. Role-Play:",
+        "   - Students act as tour guides giving directions to visitors",
+        "   - Focus on clarity, conciseness, and correct sequence",
+        "   - Peer feedback on effectiveness of directions",
+        "",
+        "Common Misconceptions:",
+        "• 'Directions must be long to be clear': Clear directions are concise, not lengthy",
+        "• 'Only experts can give directions': Anyone can learn to give clear directions with practice",
+        "• 'Directions are only for strangers': Directions are useful for everyone, including locals",
+        "• 'Landmarks are not important': Landmarks help people visualize and remember routes",
+        "",
+        "Nigerian Context:",
+        "• Giving clear directions supports effective communication in Nigerian communities",
+        "• Practice with local landmarks enhances relevance and retention",
+        "• These skills support daily life, travel, and emergency situations",
+        "",
+        "Conclusion:",
+        "• Clear directions use simple words, logical order, and familiar landmarks",
+        "• Strategies include starting from known points, using sequence words, and confirming understanding",
+        "• Practice with Nigerian contexts makes learning relevant and effective",
+        "• Mastery of direction-giving supports effective communication in daily life"
+      ],
+      "diagramDescriptions": [
+        "Chart of directional vocabulary with Nigerian examples",
+        "Flowchart for giving clear directions",
+        "Sample map with direction practice",
+        "Nigerian context: Sample directions using local landmarks",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English speech giving directions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Clear directions are:",
+          "opts": [
+            "Long and complicated instructions",
+            "Instructions that are easy to understand and follow",
+            "Only for tourists",
+            "Only written, not spoken"
+          ],
+          "ans": 1,
+          "explanation": "Clear directions are instructions that are easy to understand and follow, using simple words and logical order."
+        },
+        {
+          "q": "A feature of good directions is to:",
+          "opts": [
+            "Use complex vocabulary",
+            "Include familiar landmarks",
+            "Skip sequence words",
+            "Give all steps at once"
+          ],
+          "ans": 1,
+          "explanation": "Including familiar landmarks helps people visualize and remember the route."
+        },
+        {
+          "q": "To give directions effectively, you should:",
+          "opts": [
+            "Start from an unknown point",
+            "Use clear sequence: First... Then... Finally...",
+            "Avoid mentioning distances",
+            "Skip confirmation of understanding"
+          ],
+          "ans": 1,
+          "explanation": "Using clear sequence words helps the listener follow the steps in order."
+        },
+        {
+          "q": "In Nigerian context, a landmark for directions might be:",
+          "opts": [
+            "Only foreign buildings",
+            "Market, mosque, church, or police station",
+            "Only modern structures",
+            "Only rural features"
+          ],
+          "ans": 1,
+          "explanation": "Markets, mosques, churches, and police stations are common landmarks in Nigerian communities."
+        },
+        {
+          "q": "A common mistake in giving directions is:",
+          "opts": [
+            "Using simple words",
+            "Making directions too long or complicated",
+            "Including landmarks",
+            "Confirming understanding"
+          ],
+          "ans": 1,
+          "explanation": "Making directions too long or complicated can confuse the listener."
+        },
+        {
+          "q": "Understanding how to give directions is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports effective communication in daily life and emergencies",
+            "Only for travel",
+            "Only for written instructions"
+          ],
+          "ans": 1,
+          "explanation": "Direction-giving skills support effective communication in daily life, travel, and emergency situations."
+        },
+        {
+          "q": "Which is NOT a directional word?",
+          "opts": [
+            "Left",
+            "Straight",
+            "Beautiful",
+            "Behind"
+          ],
+          "ans": 2,
+          "explanation": "'Beautiful' is not a directional word; left, straight, and behind are."
+        },
+        {
+          "q": "A common misconception about directions is:",
+          "opts": [
+            "Clear directions are concise",
+            "Directions must be long to be clear",
+            "Landmarks help people remember routes",
+            "Practice improves direction-giving skills"
+          ],
+          "ans": 1,
+          "explanation": "Clear directions are concise, not long; length does not guarantee clarity."
+        },
+        {
+          "q": "When giving directions, you should:",
+          "opts": [
+            "Use complex vocabulary",
+            "Start from a known point and use sequence words",
+            "Skip mentioning distances",
+            "Avoid confirming understanding"
+          ],
+          "ans": 1,
+          "explanation": "Starting from a known point and using sequence words helps the listener follow directions easily."
+        },
+        {
+          "q": "Practice with local landmarks helps students to:",
+          "opts": [
+            "Only memorize places",
+            "Give directions that are relevant and easy to follow",
+            "Only for exams",
+            "Only for written work"
+          ],
+          "ans": 1,
+          "explanation": "Practice with local landmarks helps students give directions that are relevant and easy to follow in their communities."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w3_su2",
+      "title": "3.2 Structure: Noun Clause - Types and Functions",
+      "notes": [
+        "Structure: Noun Clause - Types and Functions",
+        "",
+        "Key Concepts:",
+        "1. What is a noun clause?",
+        "   - A group of words containing a subject and verb that functions as a noun",
+        "   - Can act as subject, object, or complement in a sentence",
+        "   - Example: 'What she said' is a noun clause acting as subject",
+        "",
+        "2. Types of noun clauses:",
+        "   a) Noun clause as subject:",
+        "      - 'What he wants is unclear.'",
+        "      - The clause 'What he wants' acts as the subject",
+        "   b) Noun clause as object:",
+        "      - 'I know that she is coming.'",
+        "      - The clause 'that she is coming' acts as the object",
+        "   c) Noun clause as complement:",
+        "      - 'The truth is that he lied.'",
+        "      - The clause 'that he lied' acts as a complement",
+        "",
+        "3. How to identify noun clauses:",
+        "   - Look for clauses that can replace a noun",
+        "   - Ask: Can this clause be the subject or object of the sentence?",
+        "   - Note introductory words: that, what, who, which, whether, if",
+        "",
+        "4. Functions of noun clauses in sentences:",
+        "   - Act as subject: 'What you said is important.'",
+        "   - Act as object: 'She believes that he is honest.'",
+        "   - Act as complement: 'The problem is that we lack time.'",
+        "",
+        "5. Making sentences with noun clauses:",
+        "   - Start with an introductory word: 'What', 'That', 'Whether'",
+        "   - Add subject and verb: 'What she wants'",
+        "   - Complete the sentence: 'What she wants is a new book.'",
+        "",
+        "Nigerian Context:",
+        "• Common noun clauses in Nigerian English:",
+        "  - As subject: 'What the government says matters.'",
+        "  - As object: 'We believe that education is important.'",
+        "  - As complement: 'The truth is that we need change.'",
+        "",
+        "• Cultural considerations:",
+        "  - Using noun clauses to express complex ideas in Nigerian contexts",
+        "  - Noun clauses for value discussions: 'that honesty is important', 'what unity means'",
+        "  - Noun clauses for national development: 'that progress requires effort', 'what development means'",
+        "",
+        "Practical Activities:",
+        "1. Noun Clause Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all noun clauses in different colors by type",
+        "   - Class discusses findings and noun clause functions",
+        "",
+        "2. Noun Clause Sorting Game:",
+        "   - Teacher writes noun clauses on cards",
+        "   - Students sort into types: subject, object, complement",
+        "   - Groups present their sorted clauses with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive noun clause cards",
+        "   - In groups, they create sentences using noun clauses correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All clauses are noun clauses': Only clauses functioning as nouns are noun clauses",
+        "• 'Noun clauses always start with that': Noun clauses can start with what, who, which, whether, if",
+        "• 'Only one noun clause per sentence': Sentences can have multiple noun clauses",
+        "• 'Noun clauses are not important': Noun clauses are essential for expressing complex ideas",
+        "",
+        "Nigerian Context:",
+        "• Understanding noun clauses supports clear, complex communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of noun clauses is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Noun clauses are groups of words containing a subject and verb that function as nouns",
+        "• Types include noun clauses as subject, object, or complement",
+        "• Functions include acting as subject, object, or complement in sentences",
+        "• Mastery of noun clauses supports clear, complex communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of noun clause types with Nigerian examples",
+        "Diagram showing noun clause functions in sentences",
+        "Sample passage with noun clauses highlighted by type",
+        "Noun clause sorting activity template",
+        "Nigerian context: Common noun clauses in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar noun clause types functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun clause is:",
+          "opts": [
+            "A group of words without a subject and verb",
+            "A group of words containing a subject and verb that functions as a noun",
+            "Only a complete sentence",
+            "Only a phrase"
+          ],
+          "ans": 1,
+          "explanation": "A noun clause is a group of words containing a subject and verb that functions as a noun in a sentence."
+        },
+        {
+          "q": "Which is a noun clause as subject?",
+          "opts": [
+            "I know that she is coming",
+            "What he wants is unclear",
+            "The truth is that he lied",
+            "She believes that he is honest"
+          ],
+          "ans": 1,
+          "explanation": "'What he wants is unclear' has the noun clause 'What he wants' acting as the subject."
+        },
+        {
+          "q": "In the sentence 'I know that she is coming', 'that she is coming' is a noun clause that functions as:",
+          "opts": [
+            "Subject",
+            "Object",
+            "Complement",
+            "Adverbial"
+          ],
+          "ans": 1,
+          "explanation": "'That she is coming' is the object of the verb 'know'."
+        },
+        {
+          "q": "Which word can introduce a noun clause?",
+          "opts": [
+            "Only that",
+            "That, what, who, which, whether, if",
+            "Only what",
+            "Only who"
+          ],
+          "ans": 1,
+          "explanation": "Noun clauses can be introduced by that, what, who, which, whether, if, and other words."
+        },
+        {
+          "q": "In Nigerian context, which is a noun clause?",
+          "opts": [
+            "run",
+            "that education is important",
+            "beautifully",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'That education is important' is a noun clause commonly used in Nigerian English to express beliefs."
+        },
+        {
+          "q": "Noun clauses can function as:",
+          "opts": [
+            "Only subjects",
+            "Subjects, objects, or complements",
+            "Only objects",
+            "Only adverbials"
+          ],
+          "ans": 1,
+          "explanation": "Noun clauses can function as subjects, objects, or complements in sentences."
+        },
+        {
+          "q": "Understanding noun clauses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, complex communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Noun clauses are essential for expressing complex ideas, which is vital for academic and daily communication."
+        },
+        {
+          "q": "Which is NOT a type of noun clause?",
+          "opts": [
+            "Subject clause",
+            "Object clause",
+            "Action clause",
+            "Complement clause"
+          ],
+          "ans": 2,
+          "explanation": "'Action clause' is not a type of noun clause; subject, object, and complement are types of noun clauses."
+        },
+        {
+          "q": "A common misconception about noun clauses is:",
+          "opts": [
+            "Noun clauses function as nouns",
+            "Noun clauses always start with that",
+            "Noun clauses can start with what, who, which",
+            "Noun clauses add complexity to sentences"
+          ],
+          "ans": 1,
+          "explanation": "Noun clauses do not always start with that; they can start with what, who, which, whether, if."
+        },
+        {
+          "q": "A good strategy for identifying noun clauses is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: Can this clause be the subject or object of the sentence?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking if a clause can be the subject or object helps identify noun clauses regardless of their form or position."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w3_su3",
+      "title": "3.3 Summary Writing: Reading to Summarize in a Specific Number of Sentences",
+      "notes": [
+        "Summary Writing: Reading to Summarize in a Specific Number of Sentences",
+        "",
+        "Key Concepts:",
+        "1. What is summarizing in a specific number of sentences?",
+        "   - The process of reducing a passage to a precise number of sentences",
+        "   - Requires careful selection of main ideas and concise expression",
+        "   - Example: Summarizing a 300-word passage in exactly 3 sentences",
+        "",
+        "2. Steps for summarizing in a specific number of sentences:",
+        "   - Step 1: Read the passage carefully to understand the main idea",
+        "   - Step 2: Identify the required number of sentences for the summary",
+        "   - Step 3: Select the most important main ideas and key supporting details",
+        "   - Step 4: Write one sentence per main idea, using concise language",
+        "   - Step 5: Review to ensure the summary is complete, concise, and meets the sentence requirement",
+        "",
+        "3. Features of a good summary in a specific number of sentences:",
+        "   - Uses your own words (paraphrasing)",
+        "   - Is exactly the required number of sentences",
+        "   - Includes only the most important main ideas",
+        "   - Maintains the original meaning and tone",
+        "   - Is written in complete, grammatically correct sentences",
+        "",
+        "4. Common mistakes in summarizing in a specific number of sentences:",
+        "   - Writing too many or too few sentences",
+        "   - Including minor details instead of main ideas",
+        "   - Copying sentences directly from the original",
+        "   - Changing the original meaning",
+        "",
+        "5. Strategies for effective summarizing in a specific number of sentences:",
+        "   - Count your sentences as you write to stay within the limit",
+        "   - Prioritize the most important main ideas",
+        "   - Use concise language and avoid unnecessary words",
+        "   - Practice with passages of varying lengths and sentence requirements",
+        "",
+        "Nigerian Context:",
+        "• Sample summary topic: 'The Impact of Corruption on Nigerian Development'",
+        "  - Original passage might discuss causes, effects, and solutions to corruption",
+        "  - Summary in 3 sentences should capture:",
+        "    1. Corruption undermines national development and public trust",
+        "    2. It manifests in various forms including bribery and embezzlement",
+        "    3. Collective action through education and enforcement is needed to combat it",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local issues like corruption, education, national development",
+        "  - Using summaries to communicate key points in Nigerian media and reports",
+        "  - Appreciating how summarizing skills support academic and professional success",
+        "",
+        "Practical Activities:",
+        "1. Sentence Count Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students practice summarizing in exactly 2, 3, or 4 sentences",
+        "   - Groups share their summaries and discuss sentence count and content",
+        "",
+        "2. Main Idea Prioritization:",
+        "   - Teacher reads a passage aloud",
+        "   - Students identify the top 3 main ideas for a 3-sentence summary",
+        "   - Class compares prioritized ideas and discusses which are most essential",
+        "",
+        "3. Concise Writing Practice:",
+        "   - Students receive a passage and a sentence limit",
+        "   - In groups, they write summaries within the limit",
+        "   - Summaries shared with class for feedback on conciseness and completeness",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary means copying': Summary requires paraphrasing in your own words",
+        "• 'Longer summaries are better': Effective summaries are concise and meet the sentence requirement",
+        "• 'All details are important': Only the most important main ideas should be included",
+        "• 'Sentence count doesn't matter': Meeting the specific sentence requirement is essential",
+        "",
+        "Nigerian Context:",
+        "• Summarizing in a specific number of sentences helps students succeed in Nigerian examinations",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support academic success and effective communication in Nigerian society",
+        "",
+        "Conclusion:",
+        "• Summarizing in a specific number of sentences requires careful selection of main ideas and concise expression",
+        "• Steps include reading carefully, identifying main ideas, writing concisely, and meeting the sentence requirement",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports academic success and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary writing steps for specific sentence count with examples",
+        "Flowchart for prioritizing main ideas and writing concisely",
+        "Sample passage with 3-sentence summary highlights",
+        "Nigerian context: Sample summary on corruption with sentence count",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English summary writing specific sentence count site:youtube.com",
+      "quiz": [
+        {
+          "q": "Summarizing in a specific number of sentences is:",
+          "opts": [
+            "Copying the original text",
+            "Reducing a passage to a precise number of sentences while keeping main ideas",
+            "Adding more details to a passage",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing in a specific number of sentences reduces a passage to a precise number of sentences while retaining main ideas."
+        },
+        {
+          "q": "The first step in summarizing in a specific number of sentences is to:",
+          "opts": [
+            "Write the summary immediately",
+            "Read the passage carefully to understand the main idea",
+            "Copy key sentences",
+            "Skip to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Reading the passage carefully to understand the main idea is the first step before selecting main ideas and writing concisely."
+        },
+        {
+          "q": "A feature of a good summary in a specific number of sentences is that it:",
+          "opts": [
+            "Copies sentences from the original",
+            "Is exactly the required number of sentences and uses your own words",
+            "Includes all examples and details",
+            "Is longer than the original"
+          ],
+          "ans": 1,
+          "explanation": "A good summary is exactly the required number of sentences and uses your own words to express main ideas concisely."
+        },
+        {
+          "q": "In summarizing a passage on corruption in Nigeria in 3 sentences, the main ideas might be:",
+          "opts": [
+            "Only about one case",
+            "Corruption undermines development; it manifests in various forms; collective action is needed",
+            "Only about foreign countries",
+            "Only about legal terms"
+          ],
+          "ans": 1,
+          "explanation": "The main ideas would likely be that corruption undermines development, manifests in various forms, and requires collective action."
+        },
+        {
+          "q": "A common mistake in summarizing in a specific number of sentences is:",
+          "opts": [
+            "Using your own words",
+            "Writing too many or too few sentences",
+            "Focusing on main ideas",
+            "Keeping the summary concise"
+          ],
+          "ans": 1,
+          "explanation": "Writing too many or too few sentences is a common mistake; summaries must meet the specific sentence requirement."
+        },
+        {
+          "q": "To check if your summary meets the sentence requirement, you should:",
+          "opts": [
+            "Make it longer",
+            "Count your sentences and ensure they express main ideas concisely",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Counting sentences and ensuring they express main ideas concisely helps meet the specific sentence requirement."
+        },
+        {
+          "q": "Understanding summarizing in a specific number of sentences is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in examinations and precise communication",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students succeed in WAEC, NECO, JAMB and communicate precisely in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a step in summarizing in a specific number of sentences?",
+          "opts": [
+            "Read the passage carefully",
+            "Identify the required number of sentences",
+            "Write without counting sentences",
+            "Review to ensure completeness"
+          ],
+          "ans": 2,
+          "explanation": "Writing without counting sentences is not a step; counting sentences is essential to meet the specific requirement."
+        },
+        {
+          "q": "A common misconception about summarizing in a specific number of sentences is:",
+          "opts": [
+            "Summary retains main ideas",
+            "Sentence count doesn't matter",
+            "Summary should be concise",
+            "Practice improves summarizing skills"
+          ],
+          "ans": 1,
+          "explanation": "Sentence count does matter; summaries must meet the specific sentence requirement to be effective."
+        },
+        {
+          "q": "When summarizing in a specific number of sentences, you should:",
+          "opts": [
+            "Include all examples",
+            "Prioritize main ideas and write concisely within the sentence limit",
+            "Change the original meaning",
+            "Write a longer version"
+          ],
+          "ans": 1,
+          "explanation": "Prioritizing main ideas and writing concisely within the sentence limit creates an effective summary."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w3_su4",
+      "title": "3.4 Continuous Writing: Expository Essay",
+      "notes": [
+        "Continuous Writing: Expository Essay",
+        "",
+        "Key Concepts:",
+        "1. What is an expository essay?",
+        "   - Writing that explains, describes, or informs about a topic",
+        "   - Uses clear, logical organization and factual information",
+        "   - Example: Explaining 'How to prepare a favourite meal'",
+        "",
+        "2. Features of an expository essay:",
+        "   - Clear topic sentence stating the main idea",
+        "   - Logical organization: introduction, body, conclusion",
+        "   - Factual information and specific details",
+        "   - Transitional words to connect ideas: first, next, finally",
+        "",
+        "3. Steps for writing an expository essay:",
+        "   - Step 1: Research or recall key information about the topic",
+        "   - Step 2: Organize ideas in logical order",
+        "   - Step 3: Write a draft with clear explanations",
+        "   - Step 4: Revise for clarity, accuracy, and completeness",
+        "",
+        "4. Language features for expository writing:",
+        "   - Use specific vocabulary related to the topic",
+        "   - Use time words for sequence: first, next, finally",
+        "   - Use descriptive language for clarity: 'the process was established'",
+        "   - Use factual statements: 'The method involves...'",
+        "",
+        "5. Tips for effective expository writing:",
+        "   - Start with a clear introduction stating the purpose",
+        "   - Use specific examples and details",
+        "   - Maintain a consistent focus throughout",
+        "   - End with a strong conclusion summarizing key points",
+        "",
+        "Nigerian Context:",
+        "• Sample expository essay topics for Nigerian students:",
+        "  - 'How to Prepare Garri'",
+        "  - 'The Process of Voting in Nigerian Elections'",
+        "  - 'How to Prevent Malaria in Nigeria'",
+        "  - 'The Steps to Start a Small Business'",
+        "",
+        "• Cultural considerations:",
+        "  - Including local examples and references",
+        "  - Using culturally appropriate language and expressions",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Brainstorming Session:",
+        "   - Teacher provides expository topics relevant to Nigerian life",
+        "   - Students brainstorm key facts and points",
+        "   - Students organize ideas in logical order",
+        "",
+        "2. Draft Writing:",
+        "   - Students write a first draft on the chosen topic",
+        "   - Focus on clear explanations, specific vocabulary, and logical sequence",
+        "   - Teacher provides feedback on organization and language",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange drafts with partners",
+        "   - Partners check for clarity, accuracy, and completeness",
+        "   - Students revise their compositions based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Expository writing is only for science': Expository writing is used in all subjects",
+        "• 'Longer compositions are better': Effective writing is clear and focused, not just long",
+        "• 'Expository writing doesn't need planning': Planning helps create logical, coherent writing",
+        "• 'Only experts can write expository essays': Everyone can learn to write expository essays with practice",
+        "",
+        "Nigerian Context:",
+        "• Writing expository essays supports clear communication for school assignments and real-life contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Expository writing skills are foundational for academic success and professional communication",
+        "",
+        "Conclusion:",
+        "• Expository composition explains or describes a topic clearly and logically",
+        "• Steps include researching, organizing, drafting, and revising",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of expository writing supports academic success and real-life communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of expository writing features with Nigerian examples",
+        "Diagram of composition writing steps: research, organize, draft, revise",
+        "Sample composition on preparing garri with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in expository writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing expository essay Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Expository writing is:",
+          "opts": [
+            "Only a fictional story",
+            "Writing that explains, describes, or informs about a topic",
+            "Only a poem",
+            "Only a list of facts"
+          ],
+          "ans": 1,
+          "explanation": "Expository composition explains, describes, or informs about a topic using clear, logical organization."
+        },
+        {
+          "q": "Which is a feature of expository writing?",
+          "opts": [
+            "Only rhyming words",
+            "Clear topic sentence, logical organization, factual information",
+            "Only emotional language",
+            "Only personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing uses clear topic sentences, logical organization, and factual information."
+        },
+        {
+          "q": "The first step in writing an expository essay is to:",
+          "opts": [
+            "Write the conclusion",
+            "Research or recall key information about the topic",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Researching or recalling key information is the first step before organizing and writing."
+        },
+        {
+          "q": "In a composition about preparing garri, you might use:",
+          "opts": [
+            "Only emotional words",
+            "Specific vocabulary and time words for sequence",
+            "Only complex sentences",
+            "Only questions"
+          ],
+          "ans": 1,
+          "explanation": "Specific vocabulary and time words help give clear explanations for expository writing."
+        },
+        {
+          "q": "A good tip for expository writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain a consistent focus",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Using specific examples and maintaining focus creates clear, effective expository writing."
+        },
+        {
+          "q": "In Nigerian context, an expository writing topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'How to Prepare Garri'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing topics in Nigerian context address local processes like preparing garri, voting, or starting a business."
+        },
+        {
+          "q": "Understanding expository writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication for academic and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing skills help students communicate clearly in academic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a step in expository writing?",
+          "opts": [
+            "Research key information",
+            "Organize ideas logically",
+            "Write without revising",
+            "Revise for clarity"
+          ],
+          "ans": 2,
+          "explanation": "Writing without revising is not effective; revision is an essential step in expository writing."
+        },
+        {
+          "q": "A common misconception about expository writing is:",
+          "opts": [
+            "Expository writing explains or describes a topic",
+            "Expository writing is only for science",
+            "Expository writing needs planning",
+            "Expository writing uses factual information"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing is used in all subjects, not only for science."
+        },
+        {
+          "q": "When writing expository composition, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use specific vocabulary and maintain a consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Using specific vocabulary and maintaining focus creates clear, effective expository writing."
+        }
+      ]
+    }
+  ]
+}

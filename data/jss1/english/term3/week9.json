@@ -1,0 +1,832 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "Third Term",
+  "week": 9,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t3_w9_su1",
+      "title": "9.1 Reading: Identifying Vocabulary from a Passage on Market",
+      "notes": [
+        "Reading: Identifying Vocabulary from a Passage on Market",
+        "",
+        "Key Concepts:",
+        "1. What is vocabulary identification?",
+        "   - Recognizing and understanding words in a specific context",
+        "   - Learning new words related to a topic (market)",
+        "   - Example: Identifying words like 'vendor', 'bargain', 'produce' in a market passage",
+        "",
+        "2. Strategies for vocabulary identification:",
+        "   - Use context clues: surrounding words help explain meaning",
+        "   - Look for word parts: prefixes, suffixes, root words",
+        "   - Use a dictionary for unfamiliar words",
+        "   - Practice with topic-specific passages",
+        "",
+        "3. Common market vocabulary:",
+        "   - People: vendor, customer, trader, buyer, seller",
+        "   - Items: produce, goods, merchandise, wares, stock",
+        "   - Actions: bargain, sell, buy, negotiate, display",
+        "   - Places: stall, shop, market square, warehouse",
+        "",
+        "4. How to identify vocabulary in passages:",
+        "   - Read the passage carefully to understand context",
+        "   - Highlight unfamiliar words",
+        "   - Use context clues to guess meaning",
+        "   - Verify with dictionary or teacher",
+        "",
+        "5. Why identify vocabulary?",
+        "   - Expands your word knowledge for better communication",
+        "   - Improves reading comprehension and writing skills",
+        "   - Helps you understand topic-specific texts",
+        "   - Essential for academic success and daily life",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'A Day at the Nigerian Market'",
+        "  - Key vocabulary:",
+        "    * Vendor: person who sells goods",
+        "    * Bargain: negotiate price",
+        "    * Produce: fresh fruits and vegetables",
+        "    * Stall: small shop or stand in market",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local market practices and terminology",
+        "  - Recognizing how markets function in Nigerian communities",
+        "  - Appreciating cultural aspects of trading and bargaining",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Hunt:",
+        "   - Teacher provides a short passage on Nigerian markets",
+        "   - Students work in pairs to identify and define market-related words",
+        "   - Groups share their findings and discuss word meanings",
+        "",
+        "2. Context Clue Practice:",
+        "   - Teacher writes sentences with unfamiliar market words",
+        "   - Students use context clues to guess word meanings",
+        "   - Class discusses how context helps understand new vocabulary",
+        "",
+        "3. Market Role-Play:",
+        "   - Students act out market scenarios using new vocabulary",
+        "   - Focus on correct pronunciation and usage of market terms",
+        "   - Peer feedback on vocabulary usage and communication",
+        "",
+        "Common Misconceptions:",
+        "• 'Vocabulary is only about memorizing words': Vocabulary is best learned in context",
+        "• 'All words have one meaning': Many words have multiple meanings depending on context",
+        "• 'Dictionary is the only way to learn words': Context clues and practice are equally important",
+        "• 'Vocabulary is only for reading': Vocabulary supports speaking, writing, and listening too",
+        "",
+        "Nigerian Context:",
+        "• Identifying market vocabulary helps students understand Nigerian economic and social life",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Vocabulary identification helps you recognize and understand words in context",
+        "• Strategies include using context clues, word parts, and dictionaries",
+        "• Practice with Nigerian market topics makes learning relevant and effective",
+        "• Mastery of vocabulary skills supports reading comprehension and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of market vocabulary with categories and examples",
+        "Flowchart for vocabulary identification strategies",
+        "Sample passage on Nigerian market with vocabulary highlighted",
+        "Nigerian context: Sample market vocabulary with cultural notes",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading vocabulary market context site:youtube.com",
+      "quiz": [
+        {
+          "q": "Vocabulary identification means:",
+          "opts": [
+            "Only memorizing word lists",
+            "Recognizing and understanding words in a specific context",
+            "Only using a dictionary",
+            "Only reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Vocabulary identification means recognizing and understanding words in context, not just memorizing lists."
+        },
+        {
+          "q": "A strategy for vocabulary identification is to:",
+          "opts": [
+            "Ignore unfamiliar words",
+            "Use context clues to guess meaning",
+            "Only use a dictionary",
+            "Skip difficult passages"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues helps you guess the meaning of unfamiliar words before checking a dictionary."
+        },
+        {
+          "q": "In a passage about markets, 'vendor' means:",
+          "opts": [
+            "A person who buys goods",
+            "A person who sells goods",
+            "A type of market",
+            "A market product"
+          ],
+          "ans": 1,
+          "explanation": "A vendor is a person who sells goods, especially in a market setting."
+        },
+        {
+          "q": "To identify vocabulary in passages, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read carefully and highlight unfamiliar words",
+            "Ignore the context",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and highlighting unfamiliar words helps you identify vocabulary to learn."
+        },
+        {
+          "q": "In Nigerian context, 'bargain' in a market means:",
+          "opts": [
+            "To pay full price",
+            "To negotiate the price",
+            "To refuse to buy",
+            "To sell at a loss"
+          ],
+          "ans": 1,
+          "explanation": "Bargaining is negotiating the price, a common practice in Nigerian markets."
+        },
+        {
+          "q": "A common mistake in vocabulary identification is:",
+          "opts": [
+            "Using context clues",
+            "Assuming all words have only one meaning",
+            "Checking a dictionary",
+            "Practicing with passages"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all words have only one meaning is a mistake; many words have multiple meanings depending on context."
+        },
+        {
+          "q": "Understanding market vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of economic and social texts about Nigerian life",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Market vocabulary helps students understand texts about Nigerian economic and social life."
+        },
+        {
+          "q": "Which is NOT a market vocabulary word?",
+          "opts": [
+            "Vendor",
+            "Bargain",
+            "Produce",
+            "Algorithm"
+          ],
+          "ans": 3,
+          "explanation": "'Algorithm' is a technical term, not related to market vocabulary."
+        },
+        {
+          "q": "A common misconception about vocabulary is:",
+          "opts": [
+            "Vocabulary is best learned in context",
+            "Vocabulary is only about memorizing words",
+            "Context clues help understand new words",
+            "Practice improves vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Vocabulary is not only about memorizing words; it's best learned in context through practice."
+        },
+        {
+          "q": "When identifying vocabulary, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Use context clues and verify with a dictionary",
+            "Only memorize definitions",
+            "Skip unfamiliar words"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues and verifying with a dictionary helps you accurately learn new vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w9_su2",
+      "title": "9.2 Grammatical Accuracy: Adverbials in Passages on Value Orientation",
+      "notes": [
+        "Grammatical Accuracy: Adverbials in Passages on Value Orientation",
+        "",
+        "Key Concepts:",
+        "1. Review: What are adverbials?",
+        "   - Adverbials are words or phrases that modify verbs, adjectives, or other adverbs",
+        "   - They tell how, when, where, why, or to what extent an action is done",
+        "   - Examples: respectfully (how), yesterday (when), in Nigeria (where), because (why)",
+        "",
+        "2. Types of adverbials:",
+        "   a) Adverbials of manner: describe how an action is done",
+        "      - Examples: respectfully, honestly, diligently, wisely",
+        "   b) Adverbials of time: describe when an action is done",
+        "      - Examples: now, then, yesterday, tomorrow, recently",
+        "   c) Adverbials of place: describe where an action is done",
+        "      - Examples: here, there, in Nigeria, at school, in the community",
+        "   d) Adverbials of reason: describe why an action is done",
+        "      - Examples: because, therefore, consequently, as a result",
+        "",
+        "3. Functions of adverbials in passages on value orientation:",
+        "   - Describe how values are practiced: 'Citizens should act respectfully.'",
+        "   - Describe when values apply: 'Values are needed always.'",
+        "   - Describe where values matter: 'Values are important in Nigeria.'",
+        "   - Describe why values matter: 'Because respect builds unity.'",
+        "",
+        "4. Identifying adverbials in passages on value orientation:",
+        "   - Look for words that answer: How? When? Where? Why?",
+        "   - Example passage:",
+        "     'Nigerian citizens should act respectfully in their communities because respect builds unity. They must work diligently today to build a better tomorrow.'",
+        "     Adverbials: respectfully (manner), in their communities (place), because (reason), diligently (manner), today (time), tomorrow (time)",
+        "",
+        "5. Making sentences with adverbials about value orientation:",
+        "   - Start with a subject + verb: 'Citizens should act.'",
+        "   - Add adverbials for detail: 'Citizens should act respectfully in their communities.'",
+        "   - Use adverbials of reason: 'Because respect builds unity, citizens should act respectfully.'",
+        "",
+        "Nigerian Context:",
+        "• Common adverbials in Nigerian English about value orientation:",
+        "  - Manner: respectfully, honestly, diligently, wisely, patriotically",
+        "  - Time: now, always, tomorrow, in the future, recently",
+        "  - Place: in Nigeria, in our communities, at school, in the family",
+        "  - Reason: because, therefore, consequently, as a result of our values",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbials to describe how values are practiced in Nigeria",
+        "  - Adverbials for value discussions: 'respectfully', 'honestly', 'wisely'",
+        "  - Adverbials for national development: 'because unity is strength', 'therefore we must act'",
+        "",
+        "Practical Activities:",
+        "1. Adverbial Hunt in Values Passages:",
+        "   - Teacher provides a short passage on value orientation in Nigeria",
+        "   - Students underline all adverbials and label their type (manner, time, place, reason)",
+        "   - Class discusses findings and adverbial functions",
+        "",
+        "2. Adverbial Sorting Game:",
+        "   - Teacher writes adverbials on cards",
+        "   - Students sort into types: manner, time, place, reason",
+        "   - Groups present their sorted adverbials with example sentences about values",
+        "",
+        "3. Sentence Building for Values:",
+        "   - Students receive verb cards and adverbial cards",
+        "   - In groups, they create sentences about Nigerian values using adverbials correctly",
+        "   - Sentences shared with class for feedback on adverbial usage",
+        "",
+        "Common Misconceptions:",
+        "• 'All -ly words are adverbials': Some adjectives also end in -ly (friendly, lovely)",
+        "• 'Adverbials only modify verbs': Adverbials can also modify adjectives and other adverbs",
+        "• 'Only one adverbial per sentence': Sentences can have multiple adverbials",
+        "• 'Adverbials are not important': Adverbials add precision and detail to communication about values",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbials supports clear, precise communication about Nigerian values",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adverbials is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbials modify verbs, adjectives, or other adverbs to add detail",
+        "• Types include manner, time, place, and reason adverbials",
+        "• Functions include describing how, when, where, or why actions happen",
+        "• Mastery of adverbials supports clear, precise communication about Nigerian values"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverbial types with Nigerian values examples",
+        "Diagram showing adverbial positions in sentences",
+        "Sample passage on values with adverbials highlighted by type",
+        "Adverbial sorting activity template",
+        "Nigerian context: Common adverbials in values discussions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar adverbials values orientation site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverbial is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverbial modifies verbs, adjectives, or other adverbs to add detail about how, when, where, or why."
+        },
+        {
+          "q": "Which is an adverbial of manner?",
+          "opts": [
+            "yesterday",
+            "respectfully",
+            "here",
+            "because"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverbial of manner; 'yesterday' is time, 'here' is place, 'because' is reason."
+        },
+        {
+          "q": "In the sentence 'Citizens should act respectfully in Nigeria', 'respectfully' is an adverbial that modifies:",
+          "opts": [
+            "Citizens",
+            "act",
+            "Nigeria",
+            "the sentence"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' modifies the verb 'act' by telling how citizens should act."
+        },
+        {
+          "q": "Which type of adverbial describes why an action is done?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Reason"
+          ],
+          "ans": 3,
+          "explanation": "Adverbials of reason describe why an action is done (because, therefore, consequently)."
+        },
+        {
+          "q": "In Nigerian context, which is an adverbial of manner about values?",
+          "opts": [
+            "now",
+            "honestly",
+            "here",
+            "because"
+          ],
+          "ans": 1,
+          "explanation": "'Honestly' is an adverbial of manner commonly used in Nigerian English to describe how values are practiced."
+        },
+        {
+          "q": "Adverbials can be placed:",
+          "opts": [
+            "Only after verbs",
+            "After verbs, before adjectives, or at sentence beginning/end",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials can come after verbs ('act respectfully'), before adjectives ('very honest'), or at sentence beginning/end ('Yesterday, they acted')."
+        },
+        {
+          "q": "Which word can function as an adverbial in a sentence?",
+          "opts": [
+            "values",
+            "respectfully",
+            "respectful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverbial (modifies how an action is done); 'values' is a noun, 'respectful' is an adjective, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding adverbials is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication about Nigerian values",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials add precision and detail to communication about values, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverbial?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Reason"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverbial; manner, time, place, and reason are types of adverbials."
+        },
+        {
+          "q": "A common misconception about adverbials is:",
+          "opts": [
+            "Adverbials modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbials",
+            "Adverbials add precision to communication",
+            "Adverbials can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbials; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w9_su3",
+      "title": "9.3 Listening/Speaking: Listening for Main Ideas from Passages on Drug Abuse",
+      "notes": [
+        "Listening and Speaking: Listening for Main Ideas on Drug Abuse",
+        "",
+        "Key Concepts:",
+        "1. What are main ideas?",
+        "   - The central message or most important point in a passage",
+        "   - Tells what the passage is mostly about",
+        "   - Example: In a passage on drug abuse, the main idea might be 'Drug abuse harms individuals and society'",
+        "",
+        "2. How to identify main ideas while listening:",
+        "   - Listen for repeated words or ideas",
+        "   - Note the speaker's emphasis or tone",
+        "   - Ask: What is the speaker mostly talking about?",
+        "   - Look for signal words: 'most importantly', 'the key point is', 'in summary'",
+        "",
+        "3. Strategies for listening for main ideas:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for the topic sentence or opening statement",
+        "   - Note key words and phrases",
+        "   - Summarize in your own words after listening",
+        "",
+        "4. Common topics about drug abuse in Nigerian context:",
+        "   - Causes: peer pressure, stress, curiosity, poverty",
+        "   - Effects: health problems, addiction, crime, family breakdown",
+        "   - Solutions: education, counseling, community support, law enforcement",
+        "   - Prevention: awareness, youth programs, family guidance",
+        "",
+        "5. How to respond to main ideas about drug abuse:",
+        "   - Summarize the main idea in your own words",
+        "   - Ask clarifying questions if needed",
+        "   - Connect the main idea to your own experiences or observations",
+        "   - Discuss the main idea with classmates or teacher",
+        "",
+        "Nigerian Context:",
+        "• Sample listening passage topic: 'The Dangers of Drug Abuse Among Nigerian Youths'",
+        "  - Main idea: Drug abuse threatens the future of Nigerian youths and society",
+        "  - Supporting ideas:",
+        "    * Drug abuse causes health problems and addiction",
+        "    * It leads to crime and family breakdown",
+        "    * Education and counseling can help prevent abuse",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the impact of drug abuse on Nigerian youth and families",
+        "  - Recognizing the role of community and family in prevention",
+        "  - Appreciating the importance of education and awareness campaigns",
+        "",
+        "Practical Activities:",
+        "1. Main Idea Identification Practice:",
+        "   - Teacher reads a short passage on drug abuse in Nigerian context",
+        "   - Students listen and identify the main idea",
+        "   - Groups share their findings and discuss evidence from the passage",
+        "",
+        "2. Listening and Summarizing:",
+        "   - Teacher plays a recorded speech on drug abuse prevention",
+        "   - Students listen and write a one-sentence summary of the main idea",
+        "   - Class compares summaries and discusses accuracy",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech on 'Preventing Drug Abuse'",
+        "   - Focus on stating a clear main idea and supporting details",
+        "   - Peer feedback on clarity of main idea and delivery",
+        "",
+        "Common Misconceptions:",
+        "• 'Main ideas are always stated explicitly': Sometimes main ideas are implied and require inference",
+        "• 'Listening for main ideas means ignoring details': Main ideas are supported by details; both are important",
+        "• 'Only one main idea per passage': Some passages may have multiple main ideas or sub-themes",
+        "• 'Main ideas are only for reading': Listening for main ideas is equally important for comprehension",
+        "",
+        "Nigerian Context:",
+        "• Listening for main ideas helps students understand drug abuse issues and prevention strategies in Nigeria",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Main ideas are the central messages in passages about drug abuse",
+        "• Strategies include focusing on the speaker, noting key words, and summarizing",
+        "• Practice with Nigerian contexts makes learning relevant and effective",
+        "• Mastery of these skills supports listening comprehension and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of main idea identification strategies with drug abuse examples",
+        "Flowchart for listening for main ideas",
+        "Sample passage on drug abuse with main idea highlighted",
+        "Nigerian context: Sample listening passages on drug abuse prevention",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English listening main ideas drug abuse Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Main ideas in a passage about drug abuse are:",
+          "opts": [
+            "Minor details",
+            "The central message about the dangers and prevention of drug abuse",
+            "Only the first sentence",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are the central messages about the dangers and prevention of drug abuse."
+        },
+        {
+          "q": "To identify main ideas while listening to a passage on drug abuse, you should:",
+          "opts": [
+            "Ignore the speaker",
+            "Listen for repeated words and the speaker's emphasis",
+            "Only write down every word",
+            "Focus on minor details"
+          ],
+          "ans": 1,
+          "explanation": "Listening for repeated words and the speaker's emphasis helps you identify main ideas."
+        },
+        {
+          "q": "A signal word for main ideas might be:",
+          "opts": [
+            "for example",
+            "most importantly",
+            "also",
+            "however"
+          ],
+          "ans": 1,
+          "explanation": "'Most importantly' signals that a main idea or key point is being presented."
+        },
+        {
+          "q": "In a passage about drug abuse in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about types of drugs",
+            "Drug abuse threatens the future of Nigerian youths and society",
+            "Only about history",
+            "Only about foreign countries"
+          ],
+          "ans": 1,
+          "explanation": "A passage about drug abuse in Nigeria would likely emphasize threats to youth and society."
+        },
+        {
+          "q": "A common mistake in listening for main ideas is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Assuming main ideas are always stated explicitly",
+            "Noting key words",
+            "Summarizing after listening"
+          ],
+          "ans": 1,
+          "explanation": "Assuming main ideas are always explicit is a mistake; sometimes they are implied and require inference."
+        },
+        {
+          "q": "To respond to a main idea about drug abuse, you should:",
+          "opts": [
+            "Ignore it",
+            "Summarize it in your own words and ask clarifying questions",
+            "Only repeat it exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing in your own words and asking questions shows understanding and engagement."
+        },
+        {
+          "q": "Understanding main ideas about drug abuse is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports awareness and prevention of drug abuse in Nigerian society",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Identifying main ideas helps students understand drug abuse issues and support prevention efforts."
+        },
+        {
+          "q": "Which is NOT a strategy for listening for main ideas?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for the topic sentence",
+            "Ignore key words",
+            "Summarize after listening"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring key words is not helpful; noting key words helps identify main ideas."
+        },
+        {
+          "q": "A common misconception about main ideas is:",
+          "opts": [
+            "Main ideas are central messages",
+            "Main ideas are always stated explicitly",
+            "Main ideas can be implied",
+            "Practice improves main idea identification"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are not always explicit; sometimes they are implied and require inference."
+        },
+        {
+          "q": "When listening for main ideas about drug abuse, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note the speaker's emphasis and repeated ideas",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting the speaker's emphasis and repeated ideas helps you identify the main ideas."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w9_su4",
+      "title": "9.4 Literature: Introduction to Drama (Origin and Development)",
+      "notes": [
+        "Literature: Introduction to Drama - Origin and Development",
+        "",
+        "Key Concepts:",
+        "1. What is drama?",
+        "   - A type of literature written to be performed on stage",
+        "   - Uses dialogue, action, and stage directions to tell a story",
+        "   - Example: A play about Nigerian family life",
+        "",
+        "2. Origin of drama:",
+        "   - Ancient rituals and religious ceremonies",
+        "   - Greek theatre: tragedies and comedies",
+        "   - African traditional drama: storytelling, dance, music",
+        "   - Example: Yoruba travelling theatre, Igbo folk performances",
+        "",
+        "3. Development of drama:",
+        "   - From oral performances to written plays",
+        "   - Evolution of theatrical forms: tragedy, comedy, tragicomedy",
+        "   - Modern drama: realistic, experimental, political",
+        "   - Example: Nigerian playwrights like Wole Soyinka, Ola Rotimi",
+        "",
+        "4. Features of drama:",
+        "   - Dialogue: words spoken by characters",
+        "   - Stage directions: instructions for actors and directors",
+        "   - Acts and scenes: divisions of the play",
+        "   - Characters: people or figures in the story",
+        "   - Plot: sequence of events",
+        "   - Theme: main idea or message",
+        "   - Setting: time and place of the story",
+        "",
+        "5. Why study drama origin and development?",
+        "   - To understand how drama creates meaning through performance",
+        "   - To appreciate the craft of playwrights and directors",
+        "   - To improve your own writing and performance skills",
+        "   - To develop critical thinking about how stories are told",
+        "",
+        "Nigerian Context:",
+        "• Drama in Nigerian culture:",
+        "  - Traditional performances: storytelling, dance, music",
+        "  - Modern Nigerian drama: plays addressing social issues",
+        "  - Use of local languages, proverbs, and cultural references",
+        "",
+        "• Sample drama features in Nigerian context:",
+        "  - Dialogue: often includes local languages and proverbs",
+        "  - Setting: Nigerian villages, cities, markets, schools",
+        "  - Theme: cultural identity, social justice, family, politics",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for traditional performance forms and elders as storytellers",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, identity, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Drama Origin Discussion:",
+        "   - Teacher presents information on drama origin and development",
+        "   - Students discuss how drama has evolved in different cultures",
+        "   - Class compares traditional and modern drama forms",
+        "",
+        "2. Feature Identification:",
+        "   - Teacher provides a short excerpt from a Nigerian play",
+        "   - Students identify drama features: dialogue, stage directions, characters",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "3. Creative Drama:",
+        "   - Students work in groups to create a short scene",
+        "   - Focus on dialogue, character, setting, and theme",
+        "   - Perform scenes for class feedback on drama features",
+        "",
+        "Common Misconceptions:",
+        "• 'Drama is only for entertainment': Drama also teaches, preserves culture, and inspires change",
+        "• 'Only Western drama is important': Nigerian and African drama have rich traditions and unique features",
+        "• 'Drama features are separate elements': Drama features work together to create meaning",
+        "• 'Only experts can appreciate drama': Everyone can learn to enjoy and analyze drama",
+        "",
+        "Nigerian Context:",
+        "• Understanding drama origin and development helps students appreciate Nigerian cultural traditions",
+        "• Practice with local plays enhances cultural pride and literary appreciation",
+        "• Analyzing drama features develops critical thinking and performance skills",
+        "",
+        "Conclusion:",
+        "• Drama originated from rituals and evolved through various theatrical forms",
+        "• Features include dialogue, stage directions, acts, characters, plot, theme, setting",
+        "• Nigerian drama reflects rich cultural traditions with universal themes",
+        "• Mastery of drama origin and features supports literary appreciation and cultural understanding"
+      ],
+      "diagramDescriptions": [
+        "Chart of drama origin and development with Nigerian examples",
+        "Diagram of drama features: dialogue, stage directions, acts, characters, plot, theme, setting",
+        "Sample Nigerian drama excerpt with features highlighted",
+        "Nigerian context: Famous Nigerian playwrights and their contributions",
+        "Activity template: Drama feature identification and creative drama"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature drama origin development Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Drama is:",
+          "opts": [
+            "Only poetry",
+            "Literature written to be performed on stage",
+            "Only non-fiction",
+            "Only historical documents"
+          ],
+          "ans": 1,
+          "explanation": "Drama is literature written for performance, using dialogue and action."
+        },
+        {
+          "q": "The origin of drama includes:",
+          "opts": [
+            "Only Greek theatre",
+            "Ancient rituals, religious ceremonies, and traditional performances",
+            "Only modern plays",
+            "Only written texts"
+          ],
+          "ans": 1,
+          "explanation": "Drama originated from ancient rituals, religious ceremonies, and traditional performances across cultures."
+        },
+        {
+          "q": "A feature of drama is:",
+          "opts": [
+            "Only rhyming words",
+            "Dialogue, stage directions, acts, characters, plot, theme, setting",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Drama features include dialogue, stage directions, acts, characters, plot, theme, and setting."
+        },
+        {
+          "q": "In Nigerian context, drama dialogue might include:",
+          "opts": [
+            "Only English",
+            "Local languages, proverbs, and cultural references",
+            "Only scientific terms",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian drama dialogue often includes local languages, proverbs, and cultural references."
+        },
+        {
+          "q": "To identify plot in drama, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What happens first? Next? Last?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What happens first? Next? Last?' helps you identify the sequence of events that make up the plot."
+        },
+        {
+          "q": "A common theme in Nigerian drama is:",
+          "opts": [
+            "Only foreign cultures",
+            "Cultural identity, social justice, family, politics",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian drama often explores themes like cultural identity, social justice, family, and politics."
+        },
+        {
+          "q": "Understanding drama origin and development is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding drama origin and development helps students appreciate their heritage and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a feature of drama?",
+          "opts": [
+            "Dialogue",
+            "Stage directions",
+            "Scientific data",
+            "Theme"
+          ],
+          "ans": 2,
+          "explanation": "Scientific data is not a drama feature; dialogue, stage directions, and theme are."
+        },
+        {
+          "q": "A common misconception about drama is:",
+          "opts": [
+            "Drama uses dialogue and action",
+            "Drama is only for entertainment",
+            "Drama can teach moral lessons",
+            "Drama reflects cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Drama is not only for entertainment; it also teaches lessons and preserves culture."
+        },
+        {
+          "q": "When analyzing drama, you should:",
+          "opts": [
+            "Ignore the dialogue",
+            "Identify dialogue, stage directions, characters, plot, and theme",
+            "Only focus on setting",
+            "Skip the theme"
+          ],
+          "ans": 1,
+          "explanation": "Identifying dialogue, stage directions, characters, plot, and theme helps you understand and appreciate the drama."
+        }
+      ]
+    }
+  ]
+}

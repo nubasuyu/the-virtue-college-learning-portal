@@ -1,0 +1,619 @@
+{
+  "course": "SSS2 English Language",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Speech, Reading, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t1_w11_su1",
+      "title": "11.1 Speech: Vowel Sounds /ʊ/ and /u:/",
+      "notes": [
+        "Speech: Vowel Sounds /ʊ/ and /u:/",
+        "",
+        "Key Concepts:",
+        "1. Understanding the vowel sounds /ʊ/ and /u:/",
+        "   - /ʊ/ as in full, would, could, should, put",
+        "   - /u:/ as in fool, coup, food, mood, soon",
+        "   - The difference is in vowel length and quality",
+        "",
+        "2. Importance of distinguishing /ʊ/ and /u:/",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'full' /fʊl/ vs 'fool' /fu:l/ - different meanings!",
+        "",
+        "3. Common minimal pairs for practice:",
+        "   - /ʊ/ vs /u:/: full/fool, would/wooed, could/cooed, should/shoed, put/putt",
+        "   - Note: /u:/ is a long vowel, /ʊ/ is short",
+        "",
+        "4. Listening strategies for /ʊ/ and /u:/",
+        "   - Focus on the speaker: listen carefully to vowel length",
+        "   - Listen for minimal pairs: words that differ only in vowel sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say full or fool?'",
+        "",
+        "5. Speaking strategies for /ʊ/ and /u:/",
+        "   - Practice vowel length: short vowels are quick, long vowels are held longer",
+        "   - Use minimal pairs for practice: full/fool, would/wooed",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on vowel clarity",
+        "",
+        "Nigerian Context:",
+        "• Common vowel sound challenges for Nigerian speakers:",
+        "  - Confusing /ʊ/ and /u:/: 'full' vs 'fool'",
+        "  - Difficulty with vowel length distinction",
+        "  - Influence of native language vowel systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Education': 'Students should study hard' (clear /ʊ/)",
+        "  - 'Health': 'Food is important for health' (clear /u:/)",
+        "  - 'Environment': 'We should protect our environment' (clear /ʊ/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear vowel sounds in multilingual Nigerian classrooms",
+        "  - Importance of vowel clarity in public announcements",
+        "  - Practice with local words that have similar vowel sounds",
+        "",
+        "Practical Activities:",
+        "1. Vowel Sound Drill:",
+        "   - Teacher models /ʊ/ and /u:/ with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: full/fool, would/wooed, could/cooed",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with /ʊ/ or /u:/ sounds",
+        "   - Students raise hands for /ʊ/, stand for /u:/",
+        "   - Practice with Nigerian-relevant words: 'full' (complete) vs 'fool' (silly person)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target vowel sounds",
+        "   - Focus on clear vowel length distinction",
+        "   - Peer feedback on vowel clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Vowel length doesn't matter in Nigerian English': Incorrect vowel length can change word meanings",
+        "• 'All English vowels are the same as in my language': English vowel system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct vowels': With practice, anyone can improve vowel pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear vowel pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has short /ʊ/ and long /u:/ vowel sounds that affect word meaning",
+        "• Listening strategies help you distinguish between similar vowel sounds",
+        "• Speaking strategies help you pronounce vowels clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of vowel sounds /ʊ/ and /u:/ with example words",
+        "Diagram of mouth positions for short vs long vowels",
+        "Sample minimal pairs practice: full/fool, would/wooed, could/cooed",
+        "Listening strategy flowchart: Focus, Listen for vowel length, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for vowel practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vowel sounds ʊ and u: pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "The vowel sound /ʊ/ is found in words like:",
+          "opts": [
+            "fool, coup, food",
+            "full, would, could",
+            "pot, hot, not",
+            "cat, bat, mat"
+          ],
+          "ans": 1,
+          "explanation": "/ʊ/ is the short vowel sound in words like full, would, and could."
+        },
+        {
+          "q": "The word 'fool' has the vowel sound:",
+          "opts": [
+            "/ʊ/",
+            "/u:/",
+            "/e/",
+            "/æ/"
+          ],
+          "ans": 1,
+          "explanation": "'Fool' has the long vowel sound /u:/; 'full' has the short vowel sound /ʊ/."
+        },
+        {
+          "q": "Correct vowel pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct vowel sounds prevent confusion between words like 'full' and 'fool' which have different meanings."
+        },
+        {
+          "q": "When listening for /ʊ/ and /u:/, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for vowel length",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for vowel length helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common vowel sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/ʊ/ and /u:/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse short /ʊ/ (as in 'full') and long /u:/ (as in 'fool')."
+        },
+        {
+          "q": "A good speaking strategy for /ʊ/ and /u:/ is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice vowel length with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing vowel length with minimal pairs (full/fool) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different vowel lengths?",
+          "opts": [
+            "full/fool",
+            "full/full",
+            "fool/fool",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Full' has short /ʊ/; 'fool' has long /u:/ - different vowel lengths change the word meaning."
+        },
+        {
+          "q": "Understanding /ʊ/ and /u:/ is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear vowel pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a long vowel sound?",
+          "opts": [
+            "/ʊ/ as in full",
+            "/u:/ as in fool",
+            "/e/ as in bed",
+            "/æ/ as in cat"
+          ],
+          "ans": 1,
+          "explanation": "/u:/ as in 'fool' is a long vowel sound; the others are short vowel sounds."
+        },
+        {
+          "q": "A common misconception about /ʊ/ and /u:/ is:",
+          "opts": [
+            "Vowel length can change word meaning",
+            "All English vowels are the same as in my language",
+            "Practice improves vowel pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English vowel sounds are unique and may differ from vowels in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w11_su2",
+      "title": "11.2 Reading Comprehension: Word Substitution in Passages",
+      "notes": [
+        "Reading Comprehension: Word Substitution in Passages",
+        "",
+        "Key Concepts:",
+        "1. What is word substitution in passages?",
+        "   - Replacing words in a passage with other words that have similar or related meanings",
+        "   - Helps understand context, connotation, and denotation",
+        "   - Example: Replacing 'happy' with 'joyful' (similar connotation) or 'content' (different connotation)",
+        "",
+        "2. Understanding connotation and denotation:",
+        "   - Denotation: The literal, dictionary definition of a word",
+        "     Example: 'Home' denotes a place where one lives",
+        "   - Connotation: The emotional or cultural associations of a word",
+        "     Example: 'Home' connotes warmth, safety, family",
+        "",
+        "3. How to substitute words in passages:",
+        "   - Read the passage carefully to understand context",
+        "   - Identify the target word and its meaning in context",
+        "   - Consider synonyms with similar denotation but different connotation",
+        "   - Choose a substitute word that fits the context and maintains meaning",
+        "",
+        "4. Strategies for word substitution:",
+        "   - Use a thesaurus to find synonyms",
+        "   - Consider the tone and mood of the passage",
+        "   - Test the substitute word in the sentence to ensure it fits",
+        "   - Ask: Does this word change the meaning or tone of the passage?",
+        "",
+        "5. Why practice word substitution?",
+        "   - Expands vocabulary and understanding of word nuances",
+        "   - Improves reading comprehension and writing skills",
+        "   - Helps distinguish between similar words with different connotations",
+        "   - Essential for academic success and effective communication",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Importance of Education in Nigeria'",
+        "  - Target word: 'important'",
+        "  - Possible substitutes: 'crucial', 'vital', 'essential', 'significant'",
+        "  - Connotation differences: 'crucial' suggests urgency, 'significant' suggests importance but less urgency",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how word choice affects meaning in Nigerian contexts",
+        "  - Recognizing cultural connotations of words in Nigerian English",
+        "  - Appreciating how precise word choice supports clear communication",
+        "",
+        "Practical Activities:",
+        "1. Word Substitution Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students work in pairs to identify target words and suggest substitutes",
+        "   - Groups share their substitutions and discuss connotation differences",
+        "",
+        "2. Connotation Discussion:",
+        "   - Teacher writes words with similar denotation but different connotation",
+        "   - Students discuss the emotional or cultural associations of each word",
+        "   - Class practices substituting words in context",
+        "",
+        "3. Passage Revision:",
+        "   - Students receive a passage with underlined target words",
+        "   - In groups, they substitute words and revise the passage",
+        "   - Passages shared with class for feedback on word choice",
+        "",
+        "Common Misconceptions:",
+        "• 'All synonyms are interchangeable': Synonyms often have different connotations and may not fit all contexts",
+        "• 'Word substitution is only for creative writing': Word substitution is important in all types of writing and reading",
+        "• 'Denotation is more important than connotation': Both denotation and connotation affect meaning and should be considered",
+        "• 'Only experts can substitute words effectively': With practice, anyone can learn to substitute words appropriately",
+        "",
+        "Nigerian Context:",
+        "• Word substitution skills help students understand nuanced meaning in Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Word substitution involves replacing words with others that have similar or related meanings",
+        "• Understanding connotation and denotation helps choose appropriate substitutes",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of word substitution supports reading comprehension and precise communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of connotation vs denotation with examples",
+        "Flowchart for word substitution strategies",
+        "Sample passage with word substitution highlights",
+        "Nigerian context: Sample passage on education with word substitution practice",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading word substitution passages site:youtube.com",
+      "quiz": [
+        {
+          "q": "Word substitution in passages is:",
+          "opts": [
+            "Only memorizing word lists",
+            "Replacing words with others that have similar or related meanings",
+            "Only using a dictionary",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Word substitution is replacing words with others that have similar or related meanings to understand connotation and denotation."
+        },
+        {
+          "q": "Denotation refers to:",
+          "opts": [
+            "The emotional meaning of a word",
+            "The literal, dictionary definition of a word",
+            "Only the connotation of a word",
+            "Only the context of a word"
+          ],
+          "ans": 1,
+          "explanation": "Denotation is the literal, dictionary definition of a word, without emotional or cultural associations."
+        },
+        {
+          "q": "Connotation refers to:",
+          "opts": [
+            "The literal definition of a word",
+            "The emotional or cultural associations of a word",
+            "Only the denotation of a word",
+            "Only the spelling of a word"
+          ],
+          "ans": 1,
+          "explanation": "Connotation is the emotional or cultural associations of a word, beyond its literal definition."
+        },
+        {
+          "q": "In a passage about education, substituting 'important' with 'crucial' might:",
+          "opts": [
+            "Change the denotation only",
+            "Change the connotation to suggest more urgency",
+            "Not change the meaning at all",
+            "Make the passage longer"
+          ],
+          "ans": 1,
+          "explanation": "Substituting 'important' with 'crucial' changes the connotation to suggest more urgency, while keeping similar denotation."
+        },
+        {
+          "q": "A strategy for word substitution is to:",
+          "opts": [
+            "Ignore the context",
+            "Consider the tone and mood of the passage",
+            "Only use the first synonym found",
+            "Skip testing the substitute word"
+          ],
+          "ans": 1,
+          "explanation": "Considering the tone and mood of the passage helps you choose a substitute word that fits the context."
+        },
+        {
+          "q": "A common mistake in word substitution is:",
+          "opts": [
+            "Using a thesaurus",
+            "Assuming all synonyms are interchangeable",
+            "Testing the substitute word in context",
+            "Considering connotation differences"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all synonyms are interchangeable is a mistake; synonyms often have different connotations and may not fit all contexts."
+        },
+        {
+          "q": "Understanding word substitution is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports precise communication and nuanced understanding of texts",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Word substitution skills help students understand nuanced meaning and communicate precisely in Nigerian contexts."
+        },
+        {
+          "q": "Which is NOT a step in word substitution?",
+          "opts": [
+            "Read the passage carefully",
+            "Identify the target word and its meaning",
+            "Choose any synonym without considering context",
+            "Test the substitute word in the sentence"
+          ],
+          "ans": 2,
+          "explanation": "Choosing any synonym without considering context is not a step in word substitution; context is essential for appropriate substitution."
+        },
+        {
+          "q": "A common misconception about word substitution is:",
+          "opts": [
+            "Word substitution helps understand connotation and denotation",
+            "All synonyms are interchangeable",
+            "Word substitution requires practice",
+            "Word substitution supports precise communication"
+          ],
+          "ans": 1,
+          "explanation": "Not all synonyms are interchangeable; they often have different connotations and may not fit all contexts."
+        },
+        {
+          "q": "When substituting words, you should:",
+          "opts": [
+            "Ignore the passage context",
+            "Consider connotation, denotation, and context",
+            "Only focus on denotation",
+            "Skip testing the substitute word"
+          ],
+          "ans": 1,
+          "explanation": "Considering connotation, denotation, and context helps you choose appropriate substitute words that maintain meaning."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w11_su3",
+      "title": "11.3 Continuous Writing: Revision of Formal Letters",
+      "notes": [
+        "Continuous Writing: Revision of Formal Letters",
+        "",
+        "Key Concepts:",
+        "1. What is revision of formal letters?",
+        "   - Reviewing and improving formal letters for clarity, tone, and effectiveness",
+        "   - Includes checking format, language, structure, and purpose",
+        "   - Example: Revising a letter of complaint for better persuasiveness",
+        "",
+        "2. Types of formal letters to revise:",
+        "   - Letters of complaint: Expressing dissatisfaction respectfully",
+        "   - Letters of request: Asking for something politely",
+        "   - Letters of application: Requesting jobs, admission, opportunities",
+        "   - Letters of apology: Expressing regret for mistakes",
+        "   - Letters of order: Requesting goods or services",
+        "",
+        "3. Features to check during revision:",
+        "   - Format: Two addresses, formal salutation, clear subject, body, closing",
+        "   - Language: Formal, respectful, clear, no slang or colloquialisms",
+        "   - Structure: Logical organization, clear purpose, specific details",
+        "   - Tone: Appropriate for purpose (confident for application, polite for request)",
+        "",
+        "4. Steps for revising formal letters:",
+        "   - Step 1: Check format: addresses, salutation, closing, signature",
+        "   - Step 2: Review language: formal, respectful, clear, specific",
+        "   - Step 3: Assess structure: logical flow, clear purpose, complete details",
+        "   - Step 4: Evaluate tone: appropriate for purpose and recipient",
+        "   - Step 5: Proofread for grammar, punctuation, and spelling",
+        "",
+        "5. Tips for effective revision:",
+        "   - Read the letter aloud to catch errors",
+        "   - Check that the purpose is clear and well-supported",
+        "   - Ensure all necessary details are included",
+        "   - Verify that the tone matches the purpose and recipient",
+        "",
+        "Nigerian Context:",
+        "• Sample formal letter revision topics for Nigerian students:",
+        "  - Complaint: 'Poor Road Conditions in Our Community'",
+        "  - Request: 'Permission to Use School Hall for Cultural Event'",
+        "  - Application: 'Admission to University of Lagos'",
+        "  - Apology: 'Missing School Due to Family Emergency'",
+        "",
+        "• Cultural considerations:",
+        "  - Using formal, respectful language appropriate for Nigerian contexts",
+        "  - Including local references: institution names, community events, cultural norms",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Format Check Practice:",
+        "   - Teacher provides sample formal letters with format errors",
+        "   - Students identify and correct format mistakes",
+        "   - Class discusses common format errors and corrections",
+        "",
+        "2. Language and Tone Revision:",
+        "   - Students receive draft formal letters with language/tone issues",
+        "   - In groups, they revise for formal language and appropriate tone",
+        "   - Revised letters shared with class for feedback",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange letters with partners",
+        "   - Partners check for format, language, structure, and tone",
+        "   - Students revise their letters based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Revision is only for experts': Everyone can learn to revise effectively with practice",
+        "• 'Longer letters are better': Effective formal letters are clear and focused, not just long",
+        "• 'Revision doesn't need planning': Planning helps create logical, persuasive revisions",
+        "• 'Only grammar matters in revision': Format, language, structure, and tone are all important",
+        "",
+        "Nigerian Context:",
+        "• Revising formal letters supports clear, respectful communication for academic and professional contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Letter writing skills are foundational for academic success and career advancement",
+        "",
+        "Conclusion:",
+        "• Revision of formal letters improves clarity, tone, and effectiveness",
+        "• Features to check include format, language, structure, and tone",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of formal letter revision supports academic success and professional communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of formal letter revision checklist with Nigerian examples",
+        "Diagram of revision steps: check format, review language, assess structure, evaluate tone, proofread",
+        "Sample formal letters with revision highlights",
+        "Nigerian context: Sample revision topics and cultural considerations",
+        "Common mistakes in formal letter revision and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing formal letter revision site:youtube.com",
+      "quiz": [
+        {
+          "q": "Revision of formal letters is:",
+          "opts": [
+            "Only correcting spelling errors",
+            "Reviewing and improving formal letters for clarity, tone, and effectiveness",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Revision of formal letters involves reviewing and improving them for clarity, tone, and effectiveness, including format, language, structure, and purpose."
+        },
+        {
+          "q": "Which is a type of formal letter to revise?",
+          "opts": [
+            "Only complaint letters",
+            "Complaint, request, application, apology, order letters",
+            "Only application letters",
+            "Only apology letters"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters to revise include complaint, request, application, apology, and order letters."
+        },
+        {
+          "q": "A feature to check during revision is:",
+          "opts": [
+            "Only the body",
+            "Format, language, structure, and tone",
+            "Only the salutation",
+            "Only the signature"
+          ],
+          "ans": 1,
+          "explanation": "Features to check during revision include format, language, structure, and tone."
+        },
+        {
+          "q": "The first step in revising a formal letter is to:",
+          "opts": [
+            "Rewrite the entire letter",
+            "Check format: addresses, salutation, closing, signature",
+            "Change the purpose",
+            "Skip to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Checking format is the first step in revision before reviewing language, structure, and tone."
+        },
+        {
+          "q": "In Nigerian context, a formal letter revision topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Poor Road Conditions in Our Community'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Formal letter revision topics in Nigerian context often address local issues like road conditions, school requests, or academic applications."
+        },
+        {
+          "q": "Understanding formal letter revision is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, respectful communication for academic and professional contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Formal letter revision skills help students communicate respectfully and effectively in academic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a step in formal letter revision?",
+          "opts": [
+            "Check format",
+            "Review language",
+            "Ignore the purpose",
+            "Proofread for errors"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the purpose is not a step in revision; ensuring the purpose is clear and well-supported is essential."
+        },
+        {
+          "q": "A common misconception about formal letter revision is:",
+          "opts": [
+            "Revision improves clarity and effectiveness",
+            "Revision is only for experts",
+            "Revision checks format, language, structure, and tone",
+            "Practice improves revision skills"
+          ],
+          "ans": 1,
+          "explanation": "Revision is not only for experts; everyone can learn to revise effectively with practice."
+        },
+        {
+          "q": "When revising a formal letter, you should:",
+          "opts": [
+            "Ignore the format",
+            "Check format, review language, assess structure, evaluate tone, and proofread",
+            "Only focus on spelling",
+            "Skip the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Checking format, reviewing language, assessing structure, evaluating tone, and proofreading creates effective formal letters."
+        },
+        {
+          "q": "A tip for effective revision is to:",
+          "opts": [
+            "Read the letter silently only",
+            "Read the letter aloud to catch errors",
+            "Only check spelling",
+            "Ignore the tone"
+          ],
+          "ans": 1,
+          "explanation": "Reading the letter aloud helps catch errors in grammar, punctuation, and flow that might be missed when reading silently."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "course": "SSS2 English Language",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t1_w10_su1",
+      "title": "10.1 Reading: Reading to Acquire New Words (Agriculture & Medicine Registers)",
+      "notes": [
+        "Reading to Acquire New Words (Agriculture & Medicine Registers)",
+        "",
+        "Key Concepts:",
+        "1. What is a register?",
+        "   - A set of vocabulary specific to a particular field, profession, or subject area",
+        "   - Helps learners understand specialized texts in context",
+        "   - Example: Agriculture (plough, harvest, irrigation), Medicine (diagnosis, prescription, therapy)",
+        "",
+        "2. Agriculture Register Vocabulary:",
+        "   - Plough, harvest, irrigation, fertilizer, soil erosion, crop rotation, yield, pest control",
+        "   - Usage in context: 'Proper irrigation ensures a good harvest even during dry seasons.'",
+        "",
+        "3. Medicine Register Vocabulary:",
+        "   - Diagnosis, prescription, therapy, prognosis, symptom, treatment, vaccination, clinic",
+        "   - Usage in context: 'The doctor's diagnosis confirmed that early vaccination is crucial.'",
+        "",
+        "4. How to learn register vocabulary effectively:",
+        "   - Read passages from selected fields (Agriculture, Medicine)",
+        "   - Highlight and list new vocabulary words",
+        "   - Use context clues to deduce meanings",
+        "   - Create sentences using the new words in context",
+        "",
+        "5. Teaching/Learning Activities:",
+        "   - Teacher presents selected passages on Agriculture and Medicine",
+        "   - Guides students to read and identify register-specific words",
+        "   - Students create sentences using the identified words",
+        "   - Teaching resources: Selected passages, flashcards, glossaries",
+        "",
+        "Nigerian Context:",
+        "• Agricultural vocabulary is vital for understanding Nigeria's agrarian economy",
+        "• Medical vocabulary supports health literacy and public health awareness",
+        "• Practice with locally relevant passages enhances retention and real-world application",
+        "",
+        "Conclusion:",
+        "• Registers are field-specific vocabularies that aid comprehension",
+        "• Reading specialized texts helps learners acquire domain-specific vocabulary",
+        "• Practice with context-based reading enhances vocabulary acquisition",
+        "• Mastery of register vocabulary supports subject-specific comprehension and communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of Agriculture and Medicine register vocabulary with examples",
+        "Flowchart for learning register vocabulary through context reading",
+        "Sample passage with register-specific words highlighted",
+        "Nigerian context: Sample agricultural and medical vocabulary in context",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading register vocabulary agriculture medicine site:youtube.com",
+      "quiz": [
+        {
+          "q": "A register refers to:",
+          "opts": [
+            "A list of students in a class",
+            "Vocabulary specific to a particular field or profession",
+            "A type of dictionary",
+            "A type of reading strategy"
+          ],
+          "ans": 1,
+          "explanation": "A register is a set of vocabulary specific to a particular field, profession, or subject area."
+        },
+        {
+          "q": "Which is an example of an Agriculture register word?",
+          "opts": [
+            "Diagnosis",
+            "Irrigation",
+            "Prescription",
+            "Therapy"
+          ],
+          "ans": 1,
+          "explanation": "'Irrigation' is an Agriculture register word; the others are Medicine register words."
+        },
+        {
+          "q": "To learn register vocabulary effectively, you should:",
+          "opts": [
+            "Memorize words without context",
+            "Read specialized texts and use context clues",
+            "Ignore unfamiliar words",
+            "Only use a dictionary"
+          ],
+          "ans": 1,
+          "explanation": "Reading specialized texts and using context clues helps learners acquire domain-specific vocabulary effectively."
+        },
+        {
+          "q": "In a passage about Medicine, 'diagnosis' refers to:",
+          "opts": [
+            "A type of medicine",
+            "Identifying a disease or condition",
+            "A type of farm",
+            "A type of reading passage"
+          ],
+          "ans": 1,
+          "explanation": "'Diagnosis' refers to the identification of a disease or condition, a key term in the Medicine register."
+        },
+        {
+          "q": "A strategy for learning new words from a passage is to:",
+          "opts": [
+            "Skip difficult words",
+            "Use context clues and create sentences with them",
+            "Memorize the whole passage",
+            "Only write the words down"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues and creating sentences with new words helps learners acquire and retain new vocabulary."
+        },
+        {
+          "q": "In Nigerian context, Agricultural vocabulary is important because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports understanding of Nigeria's agrarian economy",
+            "Only for farming careers",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Agricultural vocabulary supports understanding of Nigeria's agrarian economy and related subjects."
+        },
+        {
+          "q": "Which is NOT a feature of effective register vocabulary learning?",
+          "opts": [
+            "Reading specialized texts",
+            "Using context clues",
+            "Memorizing words without context",
+            "Creating sentences with new words"
+          ],
+          "ans": 2,
+          "explanation": "Memorizing words without context is not effective; context-based learning aids retention and application."
+        },
+        {
+          "q": "A common misconception about register vocabulary is:",
+          "opts": [
+            "Registers are field-specific vocabularies",
+            "Registers are only for professionals",
+            "Context helps learners understand register words",
+            "Practice enhances vocabulary acquisition"
+          ],
+          "ans": 1,
+          "explanation": "Registers are not only for professionals; they are essential for students to understand subject-specific texts."
+        },
+        {
+          "q": "When reading a Medicine passage, you should:",
+          "opts": [
+            "Ignore medical terms",
+            "Highlight medical terms and use context to deduce meaning",
+            "Skip to the end",
+            "Only read the title"
+          ],
+          "ans": 1,
+          "explanation": "Highlighting medical terms and using context to deduce meaning helps learners acquire medical vocabulary effectively."
+        },
+        {
+          "q": "A strategy for acquiring new vocabulary is to:",
+          "opts": [
+            "Memorize without practice",
+            "Read passages, identify new words, and use them in sentences",
+            "Ignore unfamiliar words",
+            "Only use a dictionary"
+          ],
+          "ans": 1,
+          "explanation": "Reading passages, identifying new words, and using them in sentences is an effective vocabulary acquisition strategy."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w10_su2",
+      "title": "10.2 Writing: Essay on 'My School' (Topic Identification & Outline)",
+      "notes": [
+        "Writing: Essay on 'My School' (Topic Identification & Outline)",
+        "",
+        "Key Concepts:",
+        "1. What is a composition?",
+        "   - A structured piece of writing on a given topic",
+        "   - Includes introduction, body, and conclusion",
+        "   - Example: Essay on 'My School'",
+        "",
+        "2. Steps in composition writing:",
+        "   - Step 1: Identify the topic of the essay",
+        "   - Step 2: Brainstorm ideas related to the topic",
+        "   - Step 3: Organize ideas in logical sequence",
+        "   - Step 4: Write an outline (introduction, body, conclusion)",
+        "",
+        "3. Features of a good essay outline:",
+        "   - Clear introduction with a thesis statement",
+        "   - Body paragraphs with main points and supporting details",
+        "   - Clear conclusion that summarizes or reflects",
+        "",
+        "4. How to identify the topic of an essay:",
+        "   - Look at the given topic or prompt",
+        "   - Brainstorm relevant ideas and experiences",
+        "   - Organize ideas logically before writing",
+        "",
+        "5. Teaching/Learning Activities:",
+        "   - Teacher guides students to identify the topic 'My School'",
+        "   - Guides students to write an outline for the essay",
+        "   - Students write out the essay using the outline",
+        "",
+        "Nigerian Context:",
+        "• Writing about 'My School' helps students reflect on their educational environment",
+        "• Outlining helps students organize thoughts logically before writing",
+        "• Practice with locally relevant topics enhances writing skills and real-world application",
+        "",
+        "Conclusion:",
+        "• Composition writing involves identifying a topic, brainstorming, outlining, and drafting",
+        "• Outlining helps students organize ideas logically before writing",
+        "• Practice with relevant topics enhances writing skills and real-world application",
+        "• Mastery of composition writing supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of composition writing steps with examples",
+        "Flowchart for identifying a topic and writing an outline",
+        "Sample outline for 'My School' essay",
+        "Nigerian context: Sample composition topics and outlines",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing composition my school outline site:youtube.com",
+      "quiz": [
+        {
+          "q": "A composition is:",
+          "opts": [
+            "A random list of words",
+            "A structured piece of writing on a given topic",
+            "A type of dictionary",
+            "A type of reading strategy"
+          ],
+          "ans": 1,
+          "explanation": "A composition is a structured piece of writing on a given topic, including introduction, body, and conclusion."
+        },
+        {
+          "q": "The first step in composition writing is to:",
+          "opts": [
+            "Write the conclusion",
+            "Identify the topic of the essay",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the topic is the first step before brainstorming, outlining, and drafting."
+        },
+        {
+          "q": "An outline helps a writer to:",
+          "opts": [
+            "Write faster without thinking",
+            "Organize ideas logically before writing",
+            "Make the essay longer",
+            "Copy from other sources"
+          ],
+          "ans": 1,
+          "explanation": "An outline helps organize ideas logically before writing, ensuring a well-structured composition."
+        },
+        {
+          "q": "A feature of a good essay outline is:",
+          "opts": [
+            "Only the conclusion",
+            "Clear introduction, body, and conclusion",
+            "Only the introduction",
+            "Only random ideas"
+          ],
+          "ans": 1,
+          "explanation": "A good essay outline includes a clear introduction, body, and conclusion to guide the writing process."
+        },
+        {
+          "q": "In writing an essay on 'My School', you should:",
+          "opts": [
+            "Write without an outline",
+            "Identify the topic, brainstorm, outline, and draft",
+            "Skip the introduction",
+            "Only write the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the topic, brainstorming, outlining, and drafting ensures a well-structured and coherent essay."
+        },
+        {
+          "q": "In Nigerian context, writing about 'My School' helps students to:",
+          "opts": [
+            "Only pass English exams",
+            "Reflect on their educational environment and organize ideas logically",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Writing about 'My School' helps students reflect on their educational environment and practice logical organization."
+        },
+        {
+          "q": "Which is NOT a step in composition writing?",
+          "opts": [
+            "Identify the topic",
+            "Brainstorm ideas",
+            "Write without an outline",
+            "Organize ideas logically"
+          ],
+          "ans": 2,
+          "explanation": "Writing without an outline is not recommended; outlining ensures logical organization and coherence."
+        },
+        {
+          "q": "A common misconception about composition writing is:",
+          "opts": [
+            "Composition writing involves identifying a topic, brainstorming, outlining, and drafting",
+            "Composition writing does not require an outline",
+            "Outlining helps students organize ideas logically",
+            "Practice enhances writing skills"
+          ],
+          "ans": 1,
+          "explanation": "Composition writing does require an outline to ensure logical organization and coherence."
+        },
+        {
+          "q": "When writing an essay, you should:",
+          "opts": [
+            "Ignore the topic",
+            "Identify the topic, brainstorm, outline, and draft logically",
+            "Skip the introduction",
+            "Only write the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the topic, brainstorming, outlining, and drafting logically ensures a well-structured essay."
+        },
+        {
+          "q": "A strategy for effective composition writing is to:",
+          "opts": [
+            "Write without planning",
+            "Identify the topic, brainstorm, outline, and draft logically",
+            "Skip the introduction",
+            "Only write the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the topic, brainstorming, outlining, and drafting logically ensures a well-structured and coherent essay."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w10_su3",
+      "title": "10.3 Grammatical Accuracy: Modifiers (Adverbs)",
+      "notes": [
+        "Grammatical Accuracy: Modifiers (Adverbs)",
+        "",
+        "Key Concepts:",
+        "1. What are modifiers (adverbs)?",
+        "   - Words that modify or describe verbs, adjectives, or other adverbs",
+        "   - Answer questions like: How? When? Where? How much? How often?",
+        "   - Examples: easily, simply, quickly, slowly, here, there, often, rarely",
+        "",
+        "2. Functions of adverbs:",
+        "   - Modify verbs: 'She sings beautifully.'",
+        "   - Modify adjectives: 'He is very tall.'",
+        "   - Modify other adverbs: 'She runs very quickly.'",
+        "",
+        "3. How to identify adverbs in passages:",
+        "   - Look for words that modify verbs, adjectives, or other adverbs",
+        "   - Ask: How? When? Where? How much? How often?",
+        "   - Example: 'She runs quickly.' (quickly modifies 'runs')",
+        "",
+        "4. Teaching/Learning Activities:",
+        "   - Teacher states relevant adverbs in passages",
+        "   - Leads students to identify and state functions of adverbs used",
+        "   - Students make sentences using adverbs",
+        "",
+        "Nigerian Context:",
+        "• Adverbs enhance precision and clarity in Nigerian English writing",
+        "• Practice with adverbs in passages enhances grammar skills and real-world application",
+        "• Practice with locally relevant passages enhances grammar skills and real-world application",
+        "",
+        "Conclusion:",
+        "• Adverbs are modifiers that describe verbs, adjectives, or other adverbs",
+        "• Identifying adverbs in passages enhances grammar skills",
+        "• Practice with adverbs enhances grammar skills and real-world application",
+        "• Mastery of adverbs supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverb types with examples",
+        "Flowchart for identifying adverbs in passages",
+        "Sample passage with adverbs highlighted",
+        "Nigerian context: Sample adverbs in context",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar modifiers adverbs site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverb is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverb modifies verbs, adjectives, or other adverbs, answering questions like how, when, where, or how much."
+        },
+        {
+          "q": "Which is an example of an adverb?",
+          "opts": [
+            "Quick",
+            "Quickly",
+            "Quickness",
+            "Quickening"
+          ],
+          "ans": 1,
+          "explanation": "'Quickly' is an adverb; 'quick' is an adjective, 'quickness' is a noun, 'quickening' is a verb."
+        },
+        {
+          "q": "To identify adverbs in passages, you should:",
+          "opts": [
+            "Look for words that modify verbs, adjectives, or other adverbs",
+            "Look for words that name people or places",
+            "Look for words that show action",
+            "Look for words that connect ideas"
+          ],
+          "ans": 0,
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs, answering questions like how, when, where, or how much."
+        },
+        {
+          "q": "In the sentence 'She sings beautifully', 'beautifully' modifies:",
+          "opts": [
+            "She",
+            "sings",
+            "beautifully",
+            "the sentence"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' modifies the verb 'sings', describing how she sings."
+        },
+        {
+          "q": "A function of adverbs is to:",
+          "opts": [
+            "Name people or places",
+            "Modify verbs, adjectives, or other adverbs",
+            "Show action",
+            "Connect ideas"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs, answering questions like how, when, where, or how much."
+        },
+        {
+          "q": "In Nigerian context, adverbs are important because they:",
+          "opts": [
+            "Only help pass grammar exams",
+            "Enhance precision and clarity in communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs enhance precision and clarity in communication, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverb?",
+          "opts": [
+            "Adverb of manner",
+            "Adverb of time",
+            "Adverb of place",
+            "Adverb of conjunction"
+          ],
+          "ans": 3,
+          "explanation": "'Adverb of conjunction' is not a type of adverb; adverbs modify verbs, adjectives, or other adverbs."
+        },
+        {
+          "q": "A common misconception about adverbs is:",
+          "opts": [
+            "Adverbs modify verbs, adjectives, or other adverbs",
+            "Adverbs only modify verbs",
+            "Adverbs answer questions like how, when, where, or how much",
+            "Practice improves adverb identification"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs, not just verbs."
+        },
+        {
+          "q": "When identifying adverbs in passages, you should:",
+          "opts": [
+            "Look for words that modify verbs, adjectives, or other adverbs",
+            "Look for words that name people or places",
+            "Look for words that show action",
+            "Look for words that connect ideas"
+          ],
+          "ans": 0,
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs, answering questions like how, when, where, or how much."
+        },
+        {
+          "q": "A strategy for identifying adverbs in passages is to:",
+          "opts": [
+            "Look for words that modify verbs, adjectives, or other adverbs",
+            "Look for words that name people or places",
+            "Look for words that show action",
+            "Look for words that connect ideas"
+          ],
+          "ans": 0,
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs, answering questions like how, when, where, or how much."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w10_su4",
+      "title": "10.4 Listening/Speaking: Vowel Sounds (Diphthongs /ɪə/)",
+      "notes": [
+        "Listening/Speaking: Vowel Sounds (Diphthongs /ɪə/)",
+        "",
+        "Key Concepts:",
+        "1. What are diphthongs?",
+        "   - Vowel sounds that glide from one vowel to another within the same syllable",
+        "   - Examples: /ɪə/ as in rear, idea, here, tear",
+        "",
+        "2. How to produce /ɪə/ sound:",
+        "   - Start with /ɪ/ sound, glide to /ə/ sound",
+        "   - Practice in isolation and in context",
+        "   - Examples: rear, idea, here, tear, fierce, serious",
+        "",
+        "3. Teaching/Learning Activities:",
+        "   - Teacher guides students to produce /ɪə/ sound in context and in isolation",
+        "   - Students give other words that have the /ɪə/ sound",
+        "   - Teaching resources: Recorded materials, flashcards, sentence strips",
+        "",
+        "Nigerian Context:",
+        "• Practicing /ɪə/ sound enhances pronunciation clarity in Nigerian English",
+        "• Practice with /ɪə/ sound in context enhances pronunciation clarity",
+        "• Practice with locally relevant words enhances pronunciation clarity and real-world application",
+        "",
+        "Conclusion:",
+        "• Diphthongs are vowel sounds that glide from one vowel to another",
+        "• Practicing /ɪə/ sound in context enhances pronunciation clarity",
+        "• Practice with /ɪə/ sound enhances pronunciation clarity and real-world application",
+        "• Mastery of /ɪə/ sound supports clear, precise pronunciation in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of /ɪə/ diphthong with example words",
+        "Flowchart for producing /ɪə/ sound in isolation and context",
+        "Sample words with /ɪə/ sound highlighted",
+        "Nigerian context: Sample words with /ɪə/ sound in context",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English listening speaking vowel sounds diphthongs /ɪə/ site:youtube.com",
+      "quiz": [
+        {
+          "q": "A diphthong is:",
+          "opts": [
+            "A single vowel sound",
+            "Two sounds that have been joined together when pronounced",
+            "A type of consonant sound",
+            "A type of consonant cluster"
+          ],
+          "ans": 1,
+          "explanation": "A diphthong is two sounds that have been joined together when pronounced."
+        },
+        {
+          "q": "Which is an example of the /ɪə/ diphthong?",
+          "opts": [
+            "Rear",
+            "Rice",
+            "Rate",
+            "Rate"
+          ],
+          "ans": 0,
+          "explanation": "'Rear' contains the /ɪə/ diphthong; the others do not."
+        },
+        {
+          "q": "To produce the /ɪə/ sound, you should:",
+          "opts": [
+            "Start with /ɪ/ sound, glide to /ə/ sound",
+            "Start with /ə/ sound, glide to /ɪ/ sound",
+            "Start with /a:/ sound, glide to /ɪ/ sound",
+            "Start with /e/ sound, glide to /ə/ sound"
+          ],
+          "ans": 0,
+          "explanation": "To produce the /ɪə/ sound, start with /ɪ/ sound, glide to /ə/ sound."
+        },
+        {
+          "q": "In Nigerian context, practicing /ɪə/ sound enhances:",
+          "opts": [
+            "Only reading speed",
+            "Pronunciation clarity and real-world application",
+            "Only writing skills",
+            "Only listening skills"
+          ],
+          "ans": 1,
+          "explanation": "Practicing /ɪə/ sound enhances pronunciation clarity and real-world application in Nigerian English."
+        },
+        {
+          "q": "A strategy for practicing /ɪə/ sound is to:",
+          "opts": [
+            "Practice in isolation only",
+            "Practice in context and in isolation",
+            "Only use a dictionary",
+            "Only write the words down"
+          ],
+          "ans": 1,
+          "explanation": "Practicing /ɪə/ sound in context and in isolation enhances pronunciation clarity and retention."
+        },
+        {
+          "q": "In Nigerian context, practicing /ɪə/ sound is important because it:",
+          "opts": [
+            "Only helps pass pronunciation exams",
+            "Enhances pronunciation clarity and real-world application",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Practicing /ɪə/ sound enhances pronunciation clarity and real-world application in Nigerian English."
+        },
+        {
+          "q": "Which is NOT a feature of effective diphthong practice?",
+          "opts": [
+            "Practice in isolation",
+            "Practice in context",
+            "Memorize without practice",
+            "Use recorded materials and flashcards"
+          ],
+          "ans": 2,
+          "explanation": "Memorizing without practice is not effective; practice in isolation and context enhances pronunciation clarity."
+        },
+        {
+          "q": "A common misconception about diphthongs is:",
+          "opts": [
+            "Diphthongs are two sounds joined together when pronounced",
+            "Diphthongs are only for professionals",
+            "Practice enhances pronunciation clarity",
+            "Practice enhances pronunciation clarity"
+          ],
+          "ans": 1,
+          "explanation": "Diphthongs are not only for professionals; they are essential for all learners to pronounce correctly."
+        },
+        {
+          "q": "When practicing /ɪə/ sound, you should:",
+          "opts": [
+            "Practice in isolation only",
+            "Practice in context and in isolation",
+            "Only use a dictionary",
+            "Only write the words down"
+          ],
+          "ans": 1,
+          "explanation": "Practicing /ɪə/ sound in context and in isolation enhances pronunciation clarity and retention."
+        },
+        {
+          "q": "A strategy for effective diphthong practice is to:",
+          "opts": [
+            "Memorize without practice",
+            "Practice in context and in isolation",
+            "Only use a dictionary",
+            "Only write the words down"
+          ],
+          "ans": 1,
+          "explanation": "Practicing /ɪə/ sound in context and in isolation enhances pronunciation clarity and retention."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w10_su5",
+      "title": "10.5 Literature: Figure of Speech - Hyperbole",
+      "notes": [
+        "Literature: Figure of Speech - Hyperbole",
+        "",
+        "Key Concepts:",
+        "1. What is hyperbole?",
+        "   - Deliberate and obvious exaggeration used for emphasis or humor",
+        "   - Example: 'I can drink 10 gallons of water a day.'",
+        "",
+        "2. How to identify hyperbole in literature texts:",
+        "   - Look for exaggerated statements",
+        "   - Identify exaggerated statements for emphasis or humor",
+        "   - Identify exaggerated statements for emphasis or humor",
+        "",
+        "3. Teaching/Learning Activities:",
+        "   - Teacher explains the meaning of hyperbole",
+        "   - Leads students to identify hyperbole in text",
+        "   - Guides students to construct sentences with hyperbole",
+        "   - Students ask and answer questions",
+        "   - Teaching resources: Passage, poem, sentence strips",
+        "",
+        "Nigerian Context:",
+        "• Hyperbole enhances literary appreciation and creative expression in Nigerian English",
+        "• Practice with hyperbole in texts enhances literary appreciation and creative expression",
+        "• Practice with locally relevant texts enhances literary appreciation and creative expression",
+        "",
+        "Conclusion:",
+        "• Hyperbole is deliberate and obvious exaggeration used for emphasis or humor",
+        "• Identifying hyperbole in texts enhances literary appreciation",
+        "• Practice with hyperbole enhances literary appreciation and creative expression",
+        "• Mastery of hyperbole supports literary appreciation and creative expression in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of hyperbole with examples",
+        "Flowchart for identifying hyperbole in texts",
+        "Sample text with hyperbole highlighted",
+        "Nigerian context: Sample hyperbole in context",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature hyperbole figure of speech site:youtube.com",
+      "quiz": [
+        {
+          "q": "Hyperbole is:",
+          "opts": [
+            "A type of metaphor",
+            "Deliberate and obvious exaggeration",
+            "A type of simile",
+            "A type of personification"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole is deliberate and obvious exaggeration used for emphasis or humor."
+        },
+        {
+          "q": "Which is an example of hyperbole?",
+          "opts": [
+            "I am very tired.",
+            "I can drink 10 gallons of water a day.",
+            "I am very tired.",
+            "I am very tired."
+          ],
+          "ans": 1,
+          "explanation": "'I can drink 10 gallons of water a day.' is an example of hyperbole (deliberate exaggeration)."
+        },
+        {
+          "q": "To identify hyperbole in a text, you should:",
+          "opts": [
+            "Look for exaggerated statements",
+            "Look for factual statements",
+            "Look for metaphors",
+            "Look for similes"
+          ],
+          "ans": 0,
+          "explanation": "Hyperbole is identified by looking for deliberate and obvious exaggeration in a text."
+        },
+        {
+          "q": "In Nigerian context, hyperbole enhances:",
+          "opts": [
+            "Only reading speed",
+            "Literary appreciation and creative expression",
+            "Only writing skills",
+            "Only listening skills"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole enhances literary appreciation and creative expression in Nigerian English."
+        },
+        {
+          "q": "A strategy for identifying hyperbole in texts is to:",
+          "opts": [
+            "Look for exaggerated statements",
+            "Look for factual statements",
+            "Look for metaphors",
+            "Look for similes"
+          ],
+          "ans": 0,
+          "explanation": "Hyperbole is identified by looking for deliberate and obvious exaggeration in a text."
+        },
+        {
+          "q": "In Nigerian context, hyperbole is important because it:",
+          "opts": [
+            "Only helps pass literature exams",
+            "Enhances literary appreciation and creative expression",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole enhances literary appreciation and creative expression in Nigerian English."
+        },
+        {
+          "q": "Which is NOT a feature of hyperbole?",
+          "opts": [
+            "Deliberate exaggeration",
+            "Obvious exaggeration",
+            "Factual statement",
+            "Used for emphasis or humor"
+          ],
+          "ans": 2,
+          "explanation": "Hyperbole is deliberate and obvious exaggeration, not a factual statement."
+        },
+        {
+          "q": "A common misconception about hyperbole is:",
+          "opts": [
+            "Hyperbole is deliberate and obvious exaggeration",
+            "Hyperbole is only for professionals",
+            "Practice enhances literary appreciation",
+            "Practice enhances creative expression"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole is not only for professionals; it is used in everyday language and literature for emphasis or humor."
+        },
+        {
+          "q": "When identifying hyperbole in texts, you should:",
+          "opts": [
+            "Look for exaggerated statements",
+            "Look for factual statements",
+            "Look for metaphors",
+            "Look for similes"
+          ],
+          "ans": 0,
+          "explanation": "Hyperbole is identified by looking for deliberate and obvious exaggeration in a text."
+        },
+        {
+          "q": "A strategy for constructing sentences with hyperbole is to:",
+          "opts": [
+            "Use factual statements",
+            "Use deliberate and obvious exaggeration",
+            "Use factual statements",
+            "Use factual statements"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole is constructed using deliberate and obvious exaggeration for emphasis or humor."
+        }
+      ]
+    }
+  ]
+}

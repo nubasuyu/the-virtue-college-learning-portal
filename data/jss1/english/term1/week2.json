@@ -1,0 +1,1044 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t1_w2_su1",
+      "title": "2.1 Reading: Reading from Passages for Maximum Recall on Diet and Nutrition",
+      "notes": [
+        "Reading: Diet and Nutrition for Maximum Recall",
+        "",
+        "Key Concepts:",
+        "1. What is reading for maximum recall?",
+        "   - Reading with the purpose of remembering key information",
+        "   - Using strategies to retain and retrieve information",
+        "   - Example: Reading about balanced diet to remember food groups",
+        "",
+        "2. Strategies for reading for maximum recall:",
+        "   - Preview the passage: Look at title, headings, pictures",
+        "   - Read actively: Ask questions, make notes, highlight key points",
+        "   - Summarize: Restate main ideas in your own words",
+        "   - Review: Go over key points after reading",
+        "",
+        "3. Topics on diet and nutrition:",
+        "   - Balanced diet: Carbohydrates, proteins, fats, vitamins, minerals",
+        "   - Addition of nutrients: Vitamins A in sugar, iodine in salt",
+        "   - Importance of nutrition: Health, growth, energy, disease prevention",
+        "",
+        "4. How to identify key information in passages:",
+        "   - Look for topic sentences that state main ideas",
+        "   - Note repeated words or concepts",
+        "   - Identify examples that support main points",
+        "   - Ask: What is the most important information here?",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Importance of Balanced Diet in Nigeria'",
+        "  - Key points:",
+        "    * Balanced diet includes local foods: yam, rice, beans, vegetables",
+        "    * Addition of iodine to salt prevents goiter",
+        "    * Vitamin A in fortified foods supports eye health",
+        "  - Recall strategy: Summarize each food group and its benefits",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local foods and their nutritional value",
+        "  - Recognizing traditional practices that support nutrition",
+        "  - Appreciating how nutrition affects health in Nigerian communities",
+        "",
+        "Practical Activities:",
+        "1. Preview and Question:",
+        "   - Teacher provides a short passage on diet and nutrition",
+        "   - Students preview the passage and write questions they want answered",
+        "   - Read the passage to answer their questions",
+        "",
+        "2. Key Point Identification:",
+        "   - Teacher reads a passage aloud",
+        "   - Students list the main ideas and supporting details",
+        "   - Class compares lists and discusses which points are most important",
+        "",
+        "3. Recall Practice:",
+        "   - Students read a passage silently",
+        "   - Close the passage and write down everything they remember",
+        "   - Compare notes with the original passage to check accuracy",
+        "",
+        "Common Misconceptions:",
+        "• 'Reading once is enough': Multiple readings with different purposes improve recall",
+        "• 'All details are equally important': Focus on main ideas and key supporting details",
+        "• 'Recall means memorizing word-for-word': Recall means understanding and restating ideas",
+        "• 'Nutrition is only about food': Nutrition also involves how the body uses food",
+        "",
+        "Nigerian Context:",
+        "• Reading for maximum recall helps students understand health information in Nigerian media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily life decisions",
+        "",
+        "Conclusion:",
+        "• Reading for maximum recall uses strategies to remember key information",
+        "• Previewing, active reading, summarizing, and reviewing improve retention",
+        "• Practice with Nigerian nutrition topics makes learning relevant",
+        "• Mastery of these skills supports academic success and healthy living"
+      ],
+      "diagramDescriptions": [
+        "Chart of reading strategies for maximum recall with examples",
+        "Flowchart for previewing, reading, summarizing, reviewing",
+        "Sample passage on diet with key points highlighted",
+        "Nigerian context: Sample passage on local foods with recall practice",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading comprehension diet nutrition recall site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading for maximum recall means:",
+          "opts": [
+            "Reading as fast as possible",
+            "Reading with the purpose of remembering key information",
+            "Only reading the first paragraph",
+            "Only reading for entertainment"
+          ],
+          "ans": 1,
+          "explanation": "Reading for maximum recall means reading with the purpose of remembering key information using specific strategies."
+        },
+        {
+          "q": "A strategy for reading for maximum recall is to:",
+          "opts": [
+            "Read without thinking",
+            "Preview the passage and ask questions",
+            "Only read the conclusion",
+            "Ignore the title"
+          ],
+          "ans": 1,
+          "explanation": "Previewing the passage and asking questions helps focus attention on key information for better recall."
+        },
+        {
+          "q": "In a passage about balanced diet, a key point might be:",
+          "opts": [
+            "Only the author's name",
+            "Balanced diet includes carbohydrates, proteins, fats, vitamins, minerals",
+            "Only the publication date",
+            "Only the number of paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "The components of a balanced diet are key information to remember from a nutrition passage."
+        },
+        {
+          "q": "To identify key information, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Look for topic sentences and repeated concepts",
+            "Ignore examples",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Looking for topic sentences and repeated concepts helps identify the most important information."
+        },
+        {
+          "q": "In Nigerian context, a balanced diet might include:",
+          "opts": [
+            "Only foreign foods",
+            "Local foods like yam, rice, beans, vegetables",
+            "Only expensive foods",
+            "Only processed foods"
+          ],
+          "ans": 1,
+          "explanation": "A balanced diet in Nigeria includes local foods that provide necessary nutrients."
+        },
+        {
+          "q": "A common mistake in reading for recall is:",
+          "opts": [
+            "Previewing the passage",
+            "Assuming all details are equally important",
+            "Asking questions while reading",
+            "Summarizing after reading"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all details are equally important is a mistake; focus on main ideas and key supporting details."
+        },
+        {
+          "q": "Understanding nutrition is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in science class",
+            "Supports healthy living and academic performance",
+            "Only for cooking",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding nutrition supports healthy living, which affects academic performance and daily life."
+        },
+        {
+          "q": "Which is NOT a strategy for maximum recall?",
+          "opts": [
+            "Preview the passage",
+            "Read actively and ask questions",
+            "Read only once without review",
+            "Summarize main ideas"
+          ],
+          "ans": 2,
+          "explanation": "Reading only once without review is not effective for maximum recall; multiple readings with different purposes help."
+        },
+        {
+          "q": "A common misconception about recall is:",
+          "opts": [
+            "Recall means understanding and restating ideas",
+            "Recall means memorizing word-for-word",
+            "Practice improves recall",
+            "Summarizing helps retention"
+          ],
+          "ans": 1,
+          "explanation": "Recall means understanding and restating ideas in your own words, not memorizing word-for-word."
+        },
+        {
+          "q": "When reading for maximum recall, you should:",
+          "opts": [
+            "Ignore the title",
+            "Preview, read actively, summarize, and review",
+            "Only focus on examples",
+            "Skip difficult sections"
+          ],
+          "ans": 1,
+          "explanation": "Previewing, reading actively, summarizing, and reviewing are effective strategies for maximum recall."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w2_su2",
+      "title": "2.2 Writing: Story or Passage Highlighting Main and Supporting Ideas",
+      "notes": [
+        "Writing: Highlighting Main and Supporting Ideas",
+        "",
+        "Key Concepts:",
+        "1. What are main ideas?",
+        "   - The central message or most important point in a passage",
+        "   - Tells what the passage is mostly about",
+        "   - Example: 'A balanced diet is important for good health'",
+        "",
+        "2. What are supporting ideas?",
+        "   - Details, examples, or explanations that support the main idea",
+        "   - Provide evidence or reasons for the main point",
+        "   - Example: Supporting ideas for balanced diet:",
+        "     * Carbohydrates provide energy",
+        "     * Proteins help build and repair body tissues",
+        "     * Vitamins prevent diseases",
+        "",
+        "3. How to identify main and supporting ideas:",
+        "   - Look for the topic sentence (often at the beginning)",
+        "   - Ask: What is this passage mostly about?",
+        "   - Note details that explain or give examples of the main point",
+        "   - Check if removing a sentence changes the main message",
+        "",
+        "4. How to highlight main and supporting ideas in writing:",
+        "   - Start with a clear topic sentence",
+        "   - Use supporting details: facts, examples, explanations",
+        "   - Organize ideas logically: main idea first, then supporting points",
+        "   - Use transition words: first, also, for example, therefore",
+        "",
+        "5. Why identify main and supporting ideas?",
+        "   - Helps readers understand the passage quickly",
+        "   - Makes writing clearer and more organized",
+        "   - Supports better comprehension and recall",
+        "   - Essential for summary writing and note-taking",
+        "",
+        "Nigerian Context:",
+        "• Sample story topic: 'The Importance of Eating Local Foods'",
+        "  - Main idea: Local Nigerian foods provide essential nutrients for health",
+        "  - Supporting ideas:",
+        "    * Yam and cassava provide carbohydrates for energy",
+        "    * Beans and fish provide protein for growth",
+        "    * Vegetables like ugu and ewedu provide vitamins",
+        "    * Local fruits like orange and mango provide vitamin C",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the nutritional value of traditional Nigerian foods",
+        "  - Recognizing how local diets support health in Nigerian communities",
+        "  - Appreciating cultural practices related to food preparation",
+        "",
+        "Practical Activities:",
+        "1. Main Idea Hunt:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to identify the main idea",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Supporting Details Practice:",
+        "   - Teacher writes a main idea on the board",
+        "   - Students brainstorm supporting details in groups",
+        "   - Class discusses which details best support the main idea",
+        "",
+        "3. Writing Practice:",
+        "   - Students write a short paragraph with a clear main idea",
+        "   - Include at least three supporting details",
+        "   - Peer review for clarity of main idea and relevance of supporting details",
+        "",
+        "Common Misconceptions:",
+        "• 'Main ideas are always the first sentence': Main ideas can appear anywhere in a paragraph",
+        "• 'All details are supporting ideas': Only details that directly support the main point are supporting ideas",
+        "• 'Main ideas are always obvious': Sometimes main ideas require careful analysis",
+        "• 'Supporting ideas are less important': Supporting ideas are essential for explaining and proving main points",
+        "",
+        "Nigerian Context:",
+        "• Identifying main and supporting ideas helps students comprehend Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Main ideas are the central messages; supporting ideas provide details and examples",
+        "• Strategies include looking for topic sentences, asking key questions, and organizing ideas logically",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports reading comprehension and clear writing"
+      ],
+      "diagramDescriptions": [
+        "Chart of main vs supporting ideas with examples",
+        "Flowchart for identifying main and supporting ideas",
+        "Sample passage with main idea and supporting details highlighted",
+        "Nigerian context: Sample story on local foods with idea analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English writing main ideas supporting details site:youtube.com",
+      "quiz": [
+        {
+          "q": "A main idea is:",
+          "opts": [
+            "A minor detail in a passage",
+            "The central message or most important point",
+            "Only the first sentence",
+            "Only an example"
+          ],
+          "ans": 1,
+          "explanation": "A main idea is the central message or most important point that tells what a passage is mostly about."
+        },
+        {
+          "q": "Supporting ideas are:",
+          "opts": [
+            "The main message of a passage",
+            "Details, examples, or explanations that support the main idea",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Supporting ideas provide details, examples, or explanations that support and explain the main idea."
+        },
+        {
+          "q": "To identify the main idea, you should ask:",
+          "opts": [
+            "What is the author's name?",
+            "What is this passage mostly about?",
+            "How many paragraphs are there?",
+            "What font is used?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is this passage mostly about?' helps you identify the main idea."
+        },
+        {
+          "q": "In a passage about local Nigerian foods, the main idea might be:",
+          "opts": [
+            "Only about one food",
+            "Local Nigerian foods provide essential nutrients for health",
+            "Only about foreign foods",
+            "Only about cooking methods"
+          ],
+          "ans": 1,
+          "explanation": "The main idea would likely be that local Nigerian foods provide essential nutrients for health."
+        },
+        {
+          "q": "A supporting idea for 'Local foods are healthy' might be:",
+          "opts": [
+            "Only the author's opinion",
+            "Beans provide protein for growth and repair",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "'Beans provide protein for growth and repair' is a supporting detail that explains why local foods are healthy."
+        },
+        {
+          "q": "A common mistake in identifying main ideas is:",
+          "opts": [
+            "Looking for the topic sentence",
+            "Assuming main ideas are always the first sentence",
+            "Asking what the passage is about",
+            "Checking if details support the main point"
+          ],
+          "ans": 1,
+          "explanation": "Assuming main ideas are always the first sentence is a mistake; they can appear anywhere in a paragraph."
+        },
+        {
+          "q": "Understanding main and supporting ideas is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian texts and clear writing",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students comprehend Nigerian texts and write clearly in academic and daily contexts."
+        },
+        {
+          "q": "Which is NOT a supporting idea?",
+          "opts": [
+            "An example that explains the main point",
+            "A fact that proves the main point",
+            "A detail unrelated to the main point",
+            "An explanation of the main point"
+          ],
+          "ans": 2,
+          "explanation": "A detail unrelated to the main point is not a supporting idea; supporting ideas must directly relate to the main point."
+        },
+        {
+          "q": "A common misconception about main ideas is:",
+          "opts": [
+            "Main ideas are central messages",
+            "Main ideas are always obvious",
+            "Main ideas can require analysis",
+            "Practice improves identification"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are not always obvious; sometimes they require careful analysis of the passage."
+        },
+        {
+          "q": "When writing to highlight main ideas, you should:",
+          "opts": [
+            "Start with a clear topic sentence",
+            "Only use examples",
+            "Ignore supporting details",
+            "Only write one sentence"
+          ],
+          "ans": 0,
+          "explanation": "Starting with a clear topic sentence helps readers immediately understand the main idea of your writing."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w2_su3",
+      "title": "2.3 Grammatical Accuracy: Nouns - Types and Functions",
+      "notes": [
+        "Grammatical Accuracy: Nouns - Types and Functions",
+        "",
+        "Key Concepts:",
+        "1. What are nouns?",
+        "   - Words that name people, places, things, or ideas",
+        "   - Examples: boy, Lagos, book, happiness",
+        "   - Functions: subject of sentence, object of verb, object of preposition",
+        "",
+        "2. Types of nouns:",
+        "   a) Common nouns: general names for people, places, things",
+        "      - Examples: teacher, city, book, emotion",
+        "   b) Proper nouns: specific names of people, places, things",
+        "      - Examples: Mr. Ade, Abuja, 'Things Fall Apart', Monday",
+        "   c) Concrete nouns: things you can perceive with senses",
+        "      - Examples: table, music, perfume, sand",
+        "   d) Abstract nouns: ideas, qualities, states you cannot perceive",
+        "      - Examples: love, courage, freedom, childhood",
+        "",
+        "3. Functions of nouns in sentences:",
+        "   - Subject: 'The boy kicked the ball.' (boy = subject)",
+        "   - Object: 'She read the book.' (book = object)",
+        "   - Object of preposition: 'He went to school.' (school = object of 'to')",
+        "",
+        "4. Identifying nouns in passages:",
+        "   - Look for words that name people, places, things, or ideas",
+        "   - Ask: What is this word naming?",
+        "   - Example passage:",
+        "     'Aisha went to the market in Lagos. She bought fresh fish and vegetables.'",
+        "     Nouns: Aisha (proper), market (common), Lagos (proper), fish (common), vegetables (common)",
+        "",
+        "5. Making sentences with nouns:",
+        "   - Start with a subject noun: 'The teacher explains grammar.'",
+        "   - Add object nouns: 'The teacher explains grammar to the students.'",
+        "   - Use proper nouns for specific references: 'Mr. Bello teaches English at Government Secondary School.'",
+        "",
+        "Nigerian Context:",
+        "• Common nouns in Nigerian English:",
+        "  - People: student, teacher, farmer, trader, parent",
+        "  - Places: village, city, market, school, mosque, church",
+        "  - Things: garri, yam, book, car, phone, uniform",
+        "  - Ideas: respect, hard work, community, education",
+        "",
+        "• Cultural considerations:",
+        "  - Using proper nouns for Nigerian places and people",
+        "  - Recognizing abstract nouns important in Nigerian culture: respect, hospitality, unity",
+        "  - Understanding how nouns function in Nigerian English sentences",
+        "",
+        "Practical Activities:",
+        "1. Noun Hunt:",
+        "   - Teacher provides a short passage about a Nigerian market",
+        "   - Students underline all nouns in different colors by type",
+        "   - Class discusses findings and noun functions",
+        "",
+        "2. Noun Sorting Game:",
+        "   - Teacher writes nouns on cards",
+        "   - Students sort into common/proper, concrete/abstract categories",
+        "   - Groups present their sorted nouns with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive noun cards",
+        "   - In groups, they create sentences using nouns as subjects and objects",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All nouns are things': Nouns can name people, places, ideas, not just things",
+        "• 'Proper nouns are always capitalized': Proper nouns must always be capitalized",
+        "• 'Abstract nouns are not real': Abstract nouns name real concepts like love and courage",
+        "• 'Nouns are only subjects': Nouns can function as subjects, objects, or objects of prepositions",
+        "",
+        "Nigerian Context:",
+        "• Understanding nouns supports clear communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of nouns is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Nouns name people, places, things, or ideas",
+        "• Types include common, proper, concrete, and abstract nouns",
+        "• Functions include subject, object, and object of preposition",
+        "• Mastery of nouns supports clear, accurate communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of noun types with Nigerian examples",
+        "Diagram showing noun functions in sentences",
+        "Sample passage with nouns highlighted by type",
+        "Noun sorting activity template",
+        "Nigerian context: Common nouns in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar nouns types functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun is a word that:",
+          "opts": [
+            "Shows action",
+            "Names a person, place, thing, or idea",
+            "Describes a noun",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "A noun names a person, place, thing, or idea."
+        },
+        {
+          "q": "Which is a proper noun?",
+          "opts": [
+            "city",
+            "Lagos",
+            "book",
+            "happiness"
+          ],
+          "ans": 1,
+          "explanation": "'Lagos' is a proper noun because it names a specific place; 'city', 'book', and 'happiness' are common nouns."
+        },
+        {
+          "q": "In the sentence 'Aisha went to the market', 'Aisha' is a:",
+          "opts": [
+            "Verb",
+            "Noun",
+            "Adjective",
+            "Adverb"
+          ],
+          "ans": 1,
+          "explanation": "'Aisha' is a noun because it names a specific person."
+        },
+        {
+          "q": "Which type of noun names an idea you cannot perceive with senses?",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Concrete noun",
+            "Abstract noun"
+          ],
+          "ans": 3,
+          "explanation": "Abstract nouns name ideas, qualities, or states you cannot perceive with senses (love, courage, freedom)."
+        },
+        {
+          "q": "In Nigerian context, which is an abstract noun?",
+          "opts": [
+            "market",
+            "respect",
+            "garri",
+            "Lagos"
+          ],
+          "ans": 1,
+          "explanation": "'Respect' is an abstract noun important in Nigerian culture; the others are concrete or proper nouns."
+        },
+        {
+          "q": "Nouns can function as:",
+          "opts": [
+            "Only subjects",
+            "Subjects, objects, or objects of prepositions",
+            "Only objects",
+            "Only proper nouns"
+          ],
+          "ans": 1,
+          "explanation": "Nouns can function as subjects ('The boy ran'), objects ('She read the book'), or objects of prepositions ('He went to school')."
+        },
+        {
+          "q": "Understanding nouns is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear sentence construction and communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Nouns are essential to sentence structure; mastering them supports clear writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of noun?",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Action noun",
+            "Abstract noun"
+          ],
+          "ans": 2,
+          "explanation": "'Action noun' is not a type of noun; common, proper, concrete, and abstract are types of nouns."
+        },
+        {
+          "q": "A common misconception about nouns is:",
+          "opts": [
+            "Nouns name people, places, things, or ideas",
+            "All nouns are things",
+            "Proper nouns are always capitalized",
+            "Nouns can function in different ways"
+          ],
+          "ans": 1,
+          "explanation": "Not all nouns are things; nouns can name people, places, ideas, not just physical things."
+        },
+        {
+          "q": "A good strategy for identifying nouns is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: What is this word naming?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is this word naming?' helps identify nouns regardless of their form or position."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w2_su4",
+      "title": "2.4 Listening/Speaking: Vowel Sounds /a/, /e/, /i/, /o/, /u/",
+      "notes": [
+        "Listening and Speaking: Basic Vowel Sounds",
+        "",
+        "Key Concepts:",
+        "1. Understanding the five basic vowel sounds:",
+        "   - /a/ as in cat, man, bag, hand",
+        "   - /e/ as in bed, pen, ten, men",
+        "   - /i/ as in sit, pin, win, kin",
+        "   - /o/ as in pot, hot, not, got",
+        "   - /u/ as in cup, sun, run, fun",
+        "",
+        "2. Importance of distinguishing vowel sounds:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'cat' /kæt/ vs 'cut' /kʌt/ - different vowel sounds!",
+        "",
+        "3. Common word pairs for practice:",
+        "   - /a/ vs /e/: cat/cet (not a word), man/men, bag/beg",
+        "   - /i/ vs /e/: sit/set, pin/pen, win/wen",
+        "   - /o/ vs /u/: pot/put, hot/hut, not/nut",
+        "",
+        "4. Listening strategies for vowel sounds:",
+        "   - Focus on the speaker: listen carefully to vowel quality",
+        "   - Listen for minimal pairs: words that differ only in vowel sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say cat or cut?'",
+        "",
+        "5. Speaking strategies for vowel sounds:",
+        "   - Practice vowel articulation: mouth position for each sound",
+        "   - Use minimal pairs for practice: cat/cut, sit/set, pot/put",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on vowel clarity",
+        "",
+        "Nigerian Context:",
+        "• Common vowel sound challenges for Nigerian speakers:",
+        "  - Confusing /a/ and /e/: 'man' vs 'men'",
+        "  - Difficulty with /i/ vs /e/: 'sit' vs 'set'",
+        "  - Influence of native language vowel systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'School Life': 'I sit in class' (clear /i/)",
+        "  - 'Family': 'My father is a man' (clear /a/)",
+        "  - 'Market Day': 'I buy a pen' (clear /e/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear vowel sounds in multilingual Nigerian classrooms",
+        "  - Importance of vowel clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar vowel sounds",
+        "",
+        "Practical Activities:",
+        "1. Vowel Sound Drill:",
+        "   - Teacher models /a/, /e/, /i/, /o/, /u/ with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: cat/cut, sit/set, pot/put",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different vowel sounds",
+        "   - Students raise hands for /a/, stand for /e/, etc.",
+        "   - Practice with Nigerian-relevant words: 'man' (person) vs 'men' (plural)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target vowel sounds",
+        "   - Focus on clear vowel articulation",
+        "   - Peer feedback on vowel clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Vowel sounds don't matter in Nigerian English': Incorrect vowel sounds can change word meanings",
+        "• 'All English vowels are the same as in my language': English vowel system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct vowels': With practice, anyone can improve vowel pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear vowel pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has five basic vowel sounds /a/, /e/, /i/, /o/, /u/ that affect word meaning",
+        "• Listening strategies help you distinguish between similar vowel sounds",
+        "• Speaking strategies help you pronounce vowels clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of vowel sounds /a/, /e/, /i/, /o/, /u/ with example words",
+        "Diagram of mouth positions for each vowel sound",
+        "Sample minimal pairs practice: cat/cut, sit/set, pot/put",
+        "Listening strategy flowchart: Focus, Listen for vowel quality, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for vowel practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English vowel sounds a e i o u pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "The vowel sound /a/ is found in words like:",
+          "opts": [
+            "bed, pen, ten",
+            "cat, man, bag",
+            "sit, pin, win",
+            "pot, hot, not"
+          ],
+          "ans": 1,
+          "explanation": "/a/ is the vowel sound in words like cat, man, and bag."
+        },
+        {
+          "q": "The word 'bed' has the vowel sound:",
+          "opts": [
+            "/a/",
+            "/e/",
+            "/i/",
+            "/o/"
+          ],
+          "ans": 1,
+          "explanation": "'Bed' has the vowel sound /e/; 'bad' has /a/, 'bid' has /i/, 'bod' has /o/."
+        },
+        {
+          "q": "Correct vowel pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct vowel sounds prevent confusion between words like 'cat' and 'cut' which have different meanings."
+        },
+        {
+          "q": "When listening for vowel sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for vowel quality",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for vowel quality helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common vowel sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/a/ and /o/",
+            "/i/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 0,
+          "explanation": "Many Nigerian English speakers confuse /a/ (as in 'man') and /e/ (as in 'men')."
+        },
+        {
+          "q": "A good speaking strategy for vowels is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice vowel articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing vowel articulation with minimal pairs (cat/cut) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different vowel sounds?",
+          "opts": [
+            "cat/cut",
+            "cat/cat",
+            "cut/cut",
+            "man/man"
+          ],
+          "ans": 0,
+          "explanation": "'Cat' has /a/; 'cut' has /ʌ/ - different vowel sounds change the word meaning."
+        },
+        {
+          "q": "Understanding vowel sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear vowel pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a basic English vowel sound?",
+          "opts": [
+            "/a:/ as in father",
+            "/a/ as in cat",
+            "/i:/ as in seat",
+            "/u:/ as in food"
+          ],
+          "ans": 1,
+          "explanation": "/a/ as in 'cat' is one of the five basic vowel sounds; the others are long vowels."
+        },
+        {
+          "q": "A common misconception about vowels is:",
+          "opts": [
+            "Vowel sounds can change word meaning",
+            "All English vowels are the same as in my language",
+            "Practice improves vowel pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English vowel sounds are unique and may differ from vowels in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w2_su5",
+      "title": "2.5 Literature: Types of Oral and Written Literature",
+      "notes": [
+        "Literature: Types of Oral and Written Literature",
+        "",
+        "Key Concepts:",
+        "1. What is literature?",
+        "   - Written or spoken works that express ideas, emotions, or stories",
+        "   - Can be oral (spoken) or written (printed)",
+        "   - Example: A folktale told by a grandmother (oral) vs a story in a book (written)",
+        "",
+        "2. Types of oral literature:",
+        "   a) Folktales: Traditional stories passed down orally",
+        "      - Often feature animals, magical elements, moral lessons",
+        "      - Example: 'Why the Tortoise Has a Cracked Shell' (Nigerian folktale)",
+        "   b) Proverbs: Short, wise sayings that teach lessons",
+        "      - Often use metaphors or comparisons",
+        "      - Example: 'A child who asks questions does not get lost'",
+        "   c) Riddles: Puzzles in question form that require clever answers",
+        "      - Often use wordplay or metaphors",
+        "      - Example: 'What has a head but no body? A coin'",
+        "",
+        "3. Categories of written literature:",
+        "   a) Prose: Ordinary written language without metrical structure",
+        "      - Includes novels, short stories, essays",
+        "      - Example: A short story about a Nigerian family",
+        "   b) Poetry: Writing that uses rhythm, rhyme, imagery",
+        "      - Often expresses emotions or ideas creatively",
+        "      - Example: A poem about hope in difficult times",
+        "   c) Drama: Writing meant to be performed on stage",
+        "      - Uses dialogue, action, stage directions",
+        "      - Example: A play about school life",
+        "",
+        "4. How to identify types of literature:",
+        "   - For folktales: Look for traditional elements, moral lessons",
+        "   - For proverbs: Look for short, wise sayings with metaphors",
+        "   - For riddles: Look for puzzles in question form",
+        "   - For prose: Look for ordinary language telling a story",
+        "   - For poetry: Look for rhythm, rhyme, imagery",
+        "   - For drama: Look for dialogue and stage directions",
+        "",
+        "5. Why study types of literature?",
+        "   - To appreciate different forms of storytelling",
+        "   - To understand how culture is preserved through literature",
+        "   - To improve your own reading and writing skills",
+        "   - To develop critical thinking about how stories create meaning",
+        "",
+        "Nigerian Context:",
+        "• Oral literature in Nigerian culture:",
+        "  - Folktales: Stories about animals teaching moral lessons",
+        "  - Proverbs: Wise sayings used in daily conversation",
+        "  - Riddles: Traditional puzzles for entertainment and education",
+        "",
+        "• Written literature in Nigerian context:",
+        "  - Prose: Stories about Nigerian life and experiences",
+        "  - Poetry: Poems expressing Nigerian culture and values",
+        "  - Drama: Plays performed in schools and communities",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for elders as keepers of oral traditions",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, family, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Literature Type Identification:",
+        "   - Teacher provides examples of different literature types",
+        "   - Students work in pairs to identify the type of each example",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "2. Oral Literature Sharing:",
+        "   - Students share a folktale, proverb, or riddle from their community",
+        "   - Class discusses the moral lesson or cultural value",
+        "   - Practice retelling oral literature with clear expression",
+        "",
+        "3. Creative Writing:",
+        "   - Students write a short piece in a chosen literature type",
+        "   - Focus on features of the chosen type",
+        "   - Share with class for feedback on type and features",
+        "",
+        "Common Misconceptions:",
+        "• 'Oral literature is not real literature': Oral literature is valuable and preserves culture",
+        "• 'Written literature is only books': Written literature includes poems, plays, essays",
+        "• 'Only experts can appreciate literature': Everyone can learn to enjoy and analyze literature",
+        "• 'Literature is only for entertainment': Literature also teaches, preserves culture, and inspires change",
+        "",
+        "Nigerian Context:",
+        "• Understanding literature types helps students appreciate Nigerian cultural traditions",
+        "• Practice with local examples enhances cultural pride and literary appreciation",
+        "• Analyzing literature develops critical thinking and language skills",
+        "",
+        "Conclusion:",
+        "• Literature includes oral (folktales, proverbs, riddles) and written (prose, poetry, drama) types",
+        "• Each type has distinct features that create meaning and preserve culture",
+        "• Nigerian literature reflects rich cultural traditions with universal themes",
+        "• Mastery of literature types supports literary appreciation and cultural understanding"
+      ],
+      "diagramDescriptions": [
+        "Chart of oral vs written literature types with Nigerian examples",
+        "Diagram of literature features: folktales, proverbs, riddles, prose, poetry, drama",
+        "Sample Nigerian folktale with features highlighted",
+        "Nigerian context: Famous Nigerian proverbs and their meanings",
+        "Activity template: Literature type identification and creative writing"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature types oral written Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Literature is:",
+          "opts": [
+            "Only written books",
+            "Written or spoken works that express ideas, emotions, or stories",
+            "Only poems",
+            "Only true stories"
+          ],
+          "ans": 1,
+          "explanation": "Literature includes both written and spoken works that express ideas, emotions, or stories."
+        },
+        {
+          "q": "Which is a type of oral literature?",
+          "opts": [
+            "Only novels",
+            "Folktales, proverbs, riddles",
+            "Only essays",
+            "Only plays"
+          ],
+          "ans": 1,
+          "explanation": "Folktales, proverbs, and riddles are types of oral literature passed down through speaking."
+        },
+        {
+          "q": "A folktale is:",
+          "opts": [
+            "Only a written story",
+            "A traditional story passed down orally, often with moral lessons",
+            "Only a poem",
+            "Only a historical document"
+          ],
+          "ans": 1,
+          "explanation": "Folktales are traditional stories passed down orally, often featuring animals and teaching moral lessons."
+        },
+        {
+          "q": "In Nigerian context, a proverb might be:",
+          "opts": [
+            "Only in English",
+            "'A child who asks questions does not get lost'",
+            "Only a riddle",
+            "Only a poem"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian proverbs are short, wise sayings like 'A child who asks questions does not get lost' that teach lessons."
+        },
+        {
+          "q": "To identify a riddle, you should look for:",
+          "opts": [
+            "Only long stories",
+            "Puzzles in question form that require clever answers",
+            "Only moral lessons",
+            "Only rhyme"
+          ],
+          "ans": 1,
+          "explanation": "Riddles are puzzles in question form that require clever answers, often using wordplay or metaphors."
+        },
+        {
+          "q": "A category of written literature is:",
+          "opts": [
+            "Only folktales",
+            "Prose, poetry, drama",
+            "Only proverbs",
+            "Only riddles"
+          ],
+          "ans": 1,
+          "explanation": "Prose, poetry, and drama are categories of written literature."
+        },
+        {
+          "q": "Understanding literature types is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves language skills",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding literature types helps students appreciate their heritage, understand storytelling, and develop language skills."
+        },
+        {
+          "q": "Which is NOT a type of oral literature?",
+          "opts": [
+            "Folktale",
+            "Proverb",
+            "Novel",
+            "Riddle"
+          ],
+          "ans": 2,
+          "explanation": "'Novel' is a type of written literature; folktales, proverbs, and riddles are oral literature."
+        },
+        {
+          "q": "A common misconception about oral literature is:",
+          "opts": [
+            "Oral literature preserves culture",
+            "Oral literature is not real literature",
+            "Oral literature can teach moral lessons",
+            "Oral literature is valuable"
+          ],
+          "ans": 1,
+          "explanation": "Oral literature is real and valuable literature; it preserves culture and teaches important lessons."
+        },
+        {
+          "q": "When identifying literature types, you should:",
+          "opts": [
+            "Only look at the title",
+            "Consider the form, features, and purpose of the work",
+            "Only focus on rhyme",
+            "Ignore the cultural context"
+          ],
+          "ans": 1,
+          "explanation": "Considering the form, features, and purpose helps you accurately identify the type of literature."
+        }
+      ]
+    }
+  ]
+}

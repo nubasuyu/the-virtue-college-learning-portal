@@ -1,0 +1,1017 @@
+{
+  "course": "SSS2 English Language",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t1_w2_su1",
+      "title": "2.1 Reading: Listening Comprehension on HIV/AIDS, Drug Abuse, or Real Life Situations",
+      "notes": [
+        "Reading: Listening Comprehension on HIV/AIDS, Drug Abuse, or Real Life Situations",
+        "",
+        "Key Concepts:",
+        "1. What is listening comprehension?",
+        "   - The ability to understand spoken language",
+        "   - Involves hearing, processing, and responding to speech",
+        "   - Example: Listening to a speech on HIV/AIDS prevention and answering questions",
+        "",
+        "2. Strategies for listening comprehension:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for key words and main ideas",
+        "   - Note the context: What is the speech about?",
+        "   - Ask questions if you don't understand",
+        "",
+        "3. Common topics for practice:",
+        "   - HIV/AIDS: causes, prevention, treatment, stigma",
+        "   - Drug abuse: causes, effects, prevention, rehabilitation",
+        "   - Real life situations: road safety, corruption, environmental issues",
+        "",
+        "4. How to respond to listening comprehension:",
+        "   - Summarize the main idea in your own words",
+        "   - Answer questions about the speech",
+        "   - Connect the speech to your own experiences",
+        "   - Discuss the speech with classmates or teacher",
+        "",
+        "Nigerian Context:",
+        "• Sample listening passage topic: 'The Impact of HIV/AIDS on Nigerian Youths'",
+        "  - Main idea: HIV/AIDS threatens the future of Nigerian youths",
+        "  - Supporting ideas:",
+        "    * HIV/AIDS is transmitted through unsafe practices",
+        "    * Prevention includes abstinence, faithfulness, and condom use",
+        "    * Stigma prevents people from seeking testing and treatment",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the impact of HIV/AIDS on Nigerian families and communities",
+        "  - Recognizing the role of education and awareness in prevention",
+        "  - Appreciating the importance of compassion and support for affected persons",
+        "",
+        "Practical Activities:",
+        "1. Main Idea Identification Practice:",
+        "   - Teacher reads a short passage on HIV/AIDS in Nigerian context",
+        "   - Students listen and identify the main idea",
+        "   - Groups share their findings and discuss evidence from the passage",
+        "",
+        "2. Listening and Summarizing:",
+        "   - Teacher plays a recorded speech on drug abuse prevention",
+        "   - Students listen and write a one-sentence summary of the main idea",
+        "   - Class compares summaries and discusses accuracy",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech on 'Preventing HIV/AIDS'",
+        "   - Focus on stating a clear main idea and supporting details",
+        "   - Peer feedback on clarity of main idea and delivery",
+        "",
+        "Common Misconceptions:",
+        "• 'Main ideas are always stated explicitly': Sometimes main ideas are implied and require inference",
+        "• 'Listening for main ideas means ignoring details': Main ideas are supported by details; both are important",
+        "• 'Only one main idea per passage': Some passages may have multiple main ideas or sub-themes",
+        "• 'Main ideas are only for reading': Listening for main ideas is equally important for comprehension",
+        "",
+        "Nigerian Context:",
+        "• Listening comprehension helps students understand health issues and prevention strategies in Nigeria",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Listening comprehension is the ability to understand spoken language",
+        "• Strategies include focusing on the speaker, noting key words, and summarizing",
+        "• Practice with Nigerian contexts makes learning relevant and effective",
+        "• Mastery of these skills supports listening comprehension and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of listening comprehension strategies with examples",
+        "Flowchart for listening for main ideas",
+        "Sample passage on HIV/AIDS with main idea highlighted",
+        "Nigerian context: Sample listening passages on health issues",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English listening comprehension HIV AIDS drug abuse site:youtube.com",
+      "quiz": [
+        {
+          "q": "Listening comprehension is:",
+          "opts": [
+            "Only hearing sounds",
+            "The ability to understand spoken language",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension is the ability to understand spoken language."
+        },
+        {
+          "q": "A strategy for listening comprehension is to:",
+          "opts": [
+            "Ignore the speaker",
+            "Focus on the speaker and listen for key words",
+            "Only write down every word",
+            "Focus on minor details"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for key words helps understand main ideas."
+        },
+        {
+          "q": "To respond to listening comprehension, you should:",
+          "opts": [
+            "Ignore it",
+            "Summarize the main idea and answer questions",
+            "Only repeat it exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing and answering questions shows understanding."
+        },
+        {
+          "q": "In a speech on HIV/AIDS in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about one person",
+            "HIV/AIDS threatens the future of Nigerian youths",
+            "Only about foreign countries",
+            "Only about medical terms"
+          ],
+          "ans": 1,
+          "explanation": "A speech on HIV/AIDS in Nigeria would likely emphasize threats to youths."
+        },
+        {
+          "q": "A common mistake in listening comprehension is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Trying to hear every word instead of main ideas",
+            "Noting key words",
+            "Asking questions if unsure"
+          ],
+          "ans": 1,
+          "explanation": "Trying to hear every word instead of focusing on main ideas is a common mistake."
+        },
+        {
+          "q": "Understanding listening comprehension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports understanding of teachers, peers, and media in Nigeria",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension helps students understand teachers, peers, and media."
+        },
+        {
+          "q": "Which is NOT a strategy for listening comprehension?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for key words",
+            "Ignore the context",
+            "Ask questions if unsure"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; noting context helps understand the speech."
+        },
+        {
+          "q": "A common misconception about listening comprehension is:",
+          "opts": [
+            "Listening comprehension is understanding spoken language",
+            "Listening comprehension means hearing every word",
+            "Active listening involves thinking and responding",
+            "Practice improves listening skills"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension focuses on main ideas, not hearing every word."
+        },
+        {
+          "q": "When listening for main ideas, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note the speaker's emphasis and key words",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting emphasis and key words helps identify main ideas."
+        },
+        {
+          "q": "Listening comprehension helps students to:",
+          "opts": [
+            "Only pass exams",
+            "Understand and respond to spoken communication effectively",
+            "Only write essays",
+            "Only read silently"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension enables effective understanding and response to spoken communication."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w2_su2",
+      "title": "2.2 Vocabulary: Words Associated with the Human Internal Body System and Function",
+      "notes": [
+        "Vocabulary: Words Associated with the Human Internal Body System and Function",
+        "",
+        "Key Concepts:",
+        "1. What is vocabulary?",
+        "   - The set of words known and used by a person",
+        "   - Includes words from different fields and contexts",
+        "   - Example: Medical vocabulary includes words like heart, lung, kidney, etc.",
+        "",
+        "2. Human internal body systems:",
+        "   - Circulatory system: heart, blood, veins, arteries",
+        "   - Respiratory system: lungs, trachea, bronchi, diaphragm",
+        "   - Digestive system: stomach, liver, intestines, pancreas",
+        "   - Nervous system: brain, spinal cord, nerves",
+        "   - Excretory system: kidneys, bladder, ureters",
+        "",
+        "3. Functions of body systems:",
+        "   - Circulatory: transports blood, oxygen, and nutrients",
+        "   - Respiratory: enables breathing and gas exchange",
+        "   - Digestive: breaks down food and absorbs nutrients",
+        "   - Nervous: controls body functions and processes information",
+        "   - Excretory: removes waste products from the body",
+        "",
+        "4. How to learn vocabulary effectively:",
+        "   - Use context clues to understand new words",
+        "   - Practice using new words in sentences",
+        "   - Create flashcards for difficult words",
+        "   - Read widely to encounter new vocabulary",
+        "",
+        "Nigerian Context:",
+        "• Common medical vocabulary in Nigerian English:",
+        "  - Diseases: malaria, typhoid, cholera, HIV/AIDS",
+        "  - Treatments: medication, surgery, therapy, vaccination",
+        "  - Health workers: doctor, nurse, pharmacist, lab technician",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local health challenges and terminology",
+        "  - Recognizing traditional and modern medical practices",
+        "  - Appreciating the importance of health education in Nigerian communities",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Hunt:",
+        "   - Teacher provides a short passage on human body systems",
+        "   - Students work in pairs to identify and define medical terms",
+        "   - Groups share their findings and discuss word meanings",
+        "",
+        "2. Context Clue Practice:",
+        "   - Teacher writes sentences with unfamiliar medical words",
+        "   - Students use context clues to guess word meanings",
+        "   - Class discusses how context helps understand new vocabulary",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive medical vocabulary cards",
+        "   - In groups, they create sentences using new words correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Vocabulary is only about memorizing words': Vocabulary is best learned in context",
+        "• 'All words have one meaning': Many words have multiple meanings depending on context",
+        "• 'Dictionary is the only way to learn words': Context clues and practice are equally important",
+        "• 'Vocabulary is only for reading': Vocabulary supports speaking, writing, and listening too",
+        "",
+        "Nigerian Context:",
+        "• Identifying medical vocabulary helps students understand health information in Nigerian media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Vocabulary is the set of words known and used by a person",
+        "• Human body systems have specific vocabulary that describes their structure and function",
+        "• Practice with Nigerian health topics makes learning relevant and effective",
+        "• Mastery of vocabulary skills supports reading comprehension and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of human body systems with vocabulary examples",
+        "Flowchart for vocabulary learning strategies",
+        "Sample passage on human body with vocabulary highlighted",
+        "Nigerian context: Sample medical vocabulary with cultural notes",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vocabulary human body system medical terms site:youtube.com",
+      "quiz": [
+        {
+          "q": "Vocabulary refers to:",
+          "opts": [
+            "Only memorizing word lists",
+            "The set of words known and used by a person",
+            "Only using a dictionary",
+            "Only reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Vocabulary is the set of words known and used by a person, not just memorizing lists."
+        },
+        {
+          "q": "A strategy for learning vocabulary is to:",
+          "opts": [
+            "Ignore unfamiliar words",
+            "Use context clues to guess meaning",
+            "Only use a dictionary",
+            "Skip difficult passages"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues helps you guess the meaning of unfamiliar words before checking a dictionary."
+        },
+        {
+          "q": "In a passage about the human body, 'circulatory' refers to:",
+          "opts": [
+            "The system that digests food",
+            "The system that transports blood and nutrients",
+            "The system that controls body functions",
+            "The system that removes waste"
+          ],
+          "ans": 1,
+          "explanation": "The circulatory system transports blood, oxygen, and nutrients throughout the body."
+        },
+        {
+          "q": "To identify vocabulary in passages, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read carefully and highlight unfamiliar words",
+            "Ignore the context",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and highlighting unfamiliar words helps you identify vocabulary to learn."
+        },
+        {
+          "q": "In Nigerian context, 'malaria' is a word associated with:",
+          "opts": [
+            "The digestive system",
+            "A disease transmitted by mosquitoes",
+            "The nervous system",
+            "A type of medical equipment"
+          ],
+          "ans": 1,
+          "explanation": "Malaria is a disease transmitted by mosquitoes, common in Nigeria."
+        },
+        {
+          "q": "A common mistake in vocabulary learning is:",
+          "opts": [
+            "Using context clues",
+            "Assuming all words have only one meaning",
+            "Checking a dictionary",
+            "Practicing with passages"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all words have only one meaning is a mistake; many words have multiple meanings depending on context."
+        },
+        {
+          "q": "Understanding medical vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of health information in Nigerian media",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Medical vocabulary helps students understand health information in Nigerian media and daily life."
+        },
+        {
+          "q": "Which is NOT a human body system?",
+          "opts": [
+            "Circulatory",
+            "Respiratory",
+            "Agricultural",
+            "Digestive"
+          ],
+          "ans": 2,
+          "explanation": "'Agricultural' is not a human body system; circulatory, respiratory, and digestive are."
+        },
+        {
+          "q": "A common misconception about vocabulary is:",
+          "opts": [
+            "Vocabulary is best learned in context",
+            "Vocabulary is only about memorizing words",
+            "Context clues help understand new words",
+            "Practice improves vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Vocabulary is not only about memorizing words; it's best learned in context through practice."
+        },
+        {
+          "q": "When learning vocabulary, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Use context clues and verify with a dictionary",
+            "Only memorize definitions",
+            "Skip unfamiliar words"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues and verifying with a dictionary helps you accurately learn new vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w2_su3",
+      "title": "2.3 Grammatical Accuracy: Noun Phrases - Position and Functions",
+      "notes": [
+        "Grammatical Accuracy: Noun Phrases - Position and Functions",
+        "",
+        "Key Concepts:",
+        "1. What is a noun phrase?",
+        "   - A group of words that functions as a noun in a sentence",
+        "   - Includes a noun and its modifiers (articles, adjectives, etc.)",
+        "   - Example: 'The tall boy' (article + adjective + noun)",
+        "",
+        "2. Structure of noun phrases:",
+        "   - Determiner + (Adjective) + Noun",
+        "   - Examples:",
+        "     * 'The book' (determiner + noun)",
+        "     * 'A clever student' (determiner + adjective + noun)",
+        "     * 'My beautiful house' (possessive + adjective + noun)",
+        "",
+        "3. Functions of noun phrases in sentences:",
+        "   - Subject: 'The tall boy kicked the ball.'",
+        "   - Object: 'She read the interesting book.'",
+        "   - Object of preposition: 'He went to the big market.'",
+        "",
+        "4. Position of noun phrases:",
+        "   - Can appear at the beginning, middle, or end of a sentence",
+        "   - Example: 'The clever student answered the difficult question correctly.'",
+        "     * 'The clever student' (subject noun phrase)",
+        "     * 'the difficult question' (object noun phrase)",
+        "",
+        "5. Identifying noun phrases in passages:",
+        "   - Look for groups of words that function as a single noun",
+        "   - Ask: What is the main noun and what words modify it?",
+        "   - Example passage:",
+        "     'The diligent student from Lagos passed the challenging examination with excellent results.'",
+        "     Noun phrases: 'The diligent student from Lagos', 'the challenging examination', 'excellent results'",
+        "",
+        "Nigerian Context:",
+        "• Common noun phrases in Nigerian English:",
+        "  - People: 'The hardworking farmer', 'A respected elder', 'My brilliant friend'",
+        "  - Places: 'The busy market in Lagos', 'A peaceful village in the north', 'Our local school'",
+        "  - Things: 'The delicious jollof rice', 'A reliable car', 'My new mobile phone'",
+        "",
+        "• Cultural considerations:",
+        "  - Using noun phrases to describe people, places, and things in Nigerian contexts",
+        "  - Noun phrases for value discussions: 'a respectful child', 'an honest leader'",
+        "  - Noun phrases for national development: 'a prosperous Nigeria', 'sustainable development'",
+        "",
+        "Practical Activities:",
+        "1. Noun Phrase Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all noun phrases in different colors",
+        "   - Class discusses findings and noun phrase functions",
+        "",
+        "2. Noun Phrase Sorting Game:",
+        "   - Teacher writes noun phrases on cards",
+        "   - Students sort into functions: subject, object, object of preposition",
+        "   - Groups present their sorted noun phrases with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive noun and modifier cards",
+        "   - In groups, they create sentences using noun phrases correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All noun phrases are long': Noun phrases can be short ('the book') or long ('the hardworking farmer from the village')",
+        "• 'Noun phrases only include adjectives': Noun phrases can include articles, possessives, prepositional phrases, etc.",
+        "• 'Only one noun phrase per sentence': Sentences can have multiple noun phrases",
+        "• 'Noun phrases are not important': Noun phrases add detail and precision to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding noun phrases supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of noun phrases is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Noun phrases are groups of words that function as nouns in sentences",
+        "• Structure includes determiner + (adjective) + noun",
+        "• Functions include subject, object, and object of preposition",
+        "• Mastery of noun phrases supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of noun phrase structure with Nigerian examples",
+        "Diagram showing noun phrase functions in sentences",
+        "Sample passage with noun phrases highlighted by function",
+        "Noun phrase sorting activity template",
+        "Nigerian context: Common noun phrases in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar noun phrases position functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun phrase is:",
+          "opts": [
+            "Only a single noun",
+            "A group of words that functions as a noun in a sentence",
+            "Only an adjective",
+            "Only a verb"
+          ],
+          "ans": 1,
+          "explanation": "A noun phrase is a group of words that functions as a noun in a sentence."
+        },
+        {
+          "q": "Which is a noun phrase?",
+          "opts": [
+            "run",
+            "the tall boy",
+            "beautifully",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'The tall boy' is a noun phrase (determiner + adjective + noun); 'run' is a verb, 'beautifully' is an adverb, 'and' is a conjunction."
+        },
+        {
+          "q": "In the sentence 'The diligent student passed the exam', 'The diligent student' is a noun phrase that functions as:",
+          "opts": [
+            "Object",
+            "Subject",
+            "Object of preposition",
+            "Adverbial"
+          ],
+          "ans": 1,
+          "explanation": "'The diligent student' is the subject noun phrase; it performs the action of passing the exam."
+        },
+        {
+          "q": "Which type of word can introduce a noun phrase?",
+          "opts": [
+            "Only adjectives",
+            "Determiners (articles, possessives, demonstratives)",
+            "Only verbs",
+            "Only adverbs"
+          ],
+          "ans": 1,
+          "explanation": "Determiners like articles (the, a), possessives (my, your), and demonstratives (this, that) can introduce noun phrases."
+        },
+        {
+          "q": "In Nigerian context, which is a noun phrase?",
+          "opts": [
+            "run",
+            "the hardworking farmer",
+            "beautifully",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'The hardworking farmer' is a noun phrase commonly used in Nigerian English to describe a person."
+        },
+        {
+          "q": "Noun phrases can function as:",
+          "opts": [
+            "Only subjects",
+            "Subjects, objects, or objects of prepositions",
+            "Only objects",
+            "Only adverbials"
+          ],
+          "ans": 1,
+          "explanation": "Noun phrases can function as subjects ('The boy ran'), objects ('She read the book'), or objects of prepositions ('He went to the market')."
+        },
+        {
+          "q": "Understanding noun phrases is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear sentence construction and communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Noun phrases are essential to sentence structure; mastering them supports clear writing and speaking."
+        },
+        {
+          "q": "Which is NOT a component of a noun phrase?",
+          "opts": [
+            "Determiner",
+            "Adjective",
+            "Verb",
+            "Noun"
+          ],
+          "ans": 2,
+          "explanation": "'Verb' is not a component of a noun phrase; determiners, adjectives, and nouns are."
+        },
+        {
+          "q": "A common misconception about noun phrases is:",
+          "opts": [
+            "Noun phrases function as nouns",
+            "All noun phrases are long",
+            "Noun phrases can include multiple modifiers",
+            "Noun phrases add detail to sentences"
+          ],
+          "ans": 1,
+          "explanation": "Noun phrases can be short ('the book') or long ('the hardworking farmer from the village'); length doesn't define them."
+        },
+        {
+          "q": "A good strategy for identifying noun phrases is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: What is the main noun and what words modify it?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is the main noun and what words modify it?' helps identify noun phrases regardless of their form or position."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w2_su4",
+      "title": "2.4 Listening/Speaking: Vowel Sounds - Long and Short Vowels",
+      "notes": [
+        "Listening and Speaking: Vowel Sounds - Long and Short Vowels",
+        "",
+        "Key Concepts:",
+        "1. Understanding long and short vowel sounds:",
+        "   - Short vowels: /ɪ/ as in sit, /e/ as in bed, /æ/ as in cat",
+        "   - Long vowels: /i:/ as in seat, /e:/ as in bead, /a:/ as in cart",
+        "   - The difference is in vowel length and quality",
+        "",
+        "2. Importance of distinguishing long and short vowels:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'ship' /ʃɪp/ vs 'sheep' /ʃi:p/ - different meanings!",
+        "",
+        "3. Common minimal pairs for practice:",
+        "   - /ɪ/ vs /i:/: sit/seat, bit/beat, ship/sheep, fit/feet",
+        "   - /e/ vs /e:/: bed/bead, men/mean, pen/peen",
+        "   - /æ/ vs /a:/: cat/cart, bat/bart, mat/mart",
+        "",
+        "4. Listening strategies for vowel sounds:",
+        "   - Focus on the speaker: listen carefully to vowel length",
+        "   - Listen for minimal pairs: words that differ only in vowel sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say ship or sheep?'",
+        "",
+        "5. Speaking strategies for vowel sounds:",
+        "   - Practice vowel length: short vowels are quick, long vowels are held longer",
+        "   - Use minimal pairs for practice: sit/seat, bit/beat",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on vowel clarity",
+        "",
+        "Nigerian Context:",
+        "• Common vowel sound challenges for Nigerian speakers:",
+        "  - Confusing /ɪ/ and /i:/: 'ship' vs 'sheep'",
+        "  - Difficulty with vowel length distinction",
+        "  - Influence of native language vowel systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Health Awareness': 'This pill will help' (clear /ɪ/)",
+        "  - 'Education': 'We need to learn' (clear /i:/)",
+        "  - 'Transportation': 'Take the bus to town' (clear /ʌ/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear vowel sounds in multilingual Nigerian classrooms",
+        "  - Importance of vowel clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar vowel sounds",
+        "",
+        "Practical Activities:",
+        "1. Vowel Sound Drill:",
+        "   - Teacher models short and long vowels with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: sit/seat, bit/beat, ship/sheep",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with short or long vowel sounds",
+        "   - Students raise hands for short vowels, stand for long vowels",
+        "   - Practice with Nigerian-relevant words: 'ship' (cargo) vs 'sheep' (animal)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using minimal pairs",
+        "   - Focus on clear vowel length distinction",
+        "   - Peer feedback on vowel clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Vowel length doesn't matter in Nigerian English': Incorrect vowel length can change word meanings",
+        "• 'All English vowels are the same as in my language': English vowel system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct vowels': With practice, anyone can improve vowel pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear vowel pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has short and long vowel sounds that affect word meaning",
+        "• Listening strategies help you distinguish between similar vowel sounds",
+        "• Speaking strategies help you pronounce vowels clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of short and long vowel sounds with minimal pairs",
+        "Diagram of mouth positions for short vs long vowels",
+        "Sample minimal pairs practice: sit/seat, bit/beat, ship/sheep",
+        "Listening strategy flowchart: Focus, Listen for vowel length, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for vowel practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vowel sounds long short pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Short vowel sounds are:",
+          "opts": [
+            "Held longer in pronunciation",
+            "Pronounced quickly with less duration",
+            "Only used in poetry",
+            "Only used in formal speech"
+          ],
+          "ans": 1,
+          "explanation": "Short vowel sounds are pronounced quickly with less duration than long vowels."
+        },
+        {
+          "q": "The word 'seat' has the vowel sound:",
+          "opts": [
+            "/ɪ/",
+            "/i:/",
+            "/e/",
+            "/æ/"
+          ],
+          "ans": 1,
+          "explanation": "'Seat' has the long vowel sound /i:/; 'sit' has the short vowel sound /ɪ/."
+        },
+        {
+          "q": "Correct vowel pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct vowel sounds prevent confusion between words like 'ship' and 'sheep' which have different meanings."
+        },
+        {
+          "q": "When listening for vowel sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for vowel length",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for vowel length helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common vowel sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/ɪ/ and /i:/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse short /ɪ/ (as in 'ship') and long /i:/ (as in 'sheep')."
+        },
+        {
+          "q": "A good speaking strategy for vowels is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice vowel length with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing vowel length with minimal pairs (sit/seat) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different vowel lengths?",
+          "opts": [
+            "sit/seat",
+            "sit/sit",
+            "seat/seat",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Sit' has short /ɪ/; 'seat' has long /i:/ - different vowel lengths change the word meaning."
+        },
+        {
+          "q": "Understanding vowel sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear vowel pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a long vowel sound?",
+          "opts": [
+            "/ɪ/ as in sit",
+            "/i:/ as in seat",
+            "/e/ as in bed",
+            "/æ/ as in cat"
+          ],
+          "ans": 1,
+          "explanation": "/i:/ as in 'seat' is a long vowel sound; the others are short vowel sounds."
+        },
+        {
+          "q": "A common misconception about vowels is:",
+          "opts": [
+            "Vowel length can change word meaning",
+            "All English vowels are the same as in my language",
+            "Practice improves vowel pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English vowel sounds are unique and may differ from vowels in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w2_su5",
+      "title": "2.5 Continuous Writing: Expository Essay on Controlling HIV/AIDS or Managing Population Explosion",
+      "notes": [
+        "Continuous Writing: Expository Essay on Controlling HIV/AIDS or Managing Population Explosion",
+        "",
+        "Key Concepts:",
+        "1. What is an expository essay?",
+        "   - Writing that explains, describes, or informs about a topic",
+        "   - Uses clear, logical organization and factual information",
+        "   - Example: Explaining how to control HIV/AIDS in Nigeria",
+        "",
+        "2. Features of expository writing:",
+        "   - Clear topic sentence stating the main idea",
+        "   - Logical organization: introduction, body, conclusion",
+        "   - Factual information and specific details",
+        "   - Transitional words to connect ideas: first, next, finally",
+        "",
+        "3. Steps for writing an expository essay:",
+        "   - Step 1: Research or recall key information about the topic",
+        "   - Step 2: Organize ideas in logical order",
+        "   - Step 3: Write a draft with clear explanations",
+        "   - Step 4: Revise for clarity, accuracy, and completeness",
+        "",
+        "4. Language features for expository writing:",
+        "   - Use specific vocabulary related to the topic",
+        "   - Use time words for sequence: first, next, finally",
+        "   - Use descriptive language for clarity: 'the commission was established'",
+        "   - Use factual statements: 'HIV is transmitted through...'",
+        "",
+        "5. Tips for effective expository writing:",
+        "   - Start with a clear introduction stating the purpose",
+        "   - Use specific examples and details",
+        "   - Maintain a consistent focus throughout",
+        "   - End with a strong conclusion summarizing key points",
+        "",
+        "Nigerian Context:",
+        "• Sample expository essay topic: 'Controlling HIV/AIDS in Nigeria'",
+        "  - Introduction: HIV/AIDS is a major health challenge in Nigeria",
+        "  - Body:",
+        "    * HIV is transmitted through unsafe practices",
+        "    * Prevention includes abstinence, faithfulness, and condom use",
+        "    * Education and awareness reduce stigma and encourage testing",
+        "    * Treatment and support improve quality of life for affected persons",
+        "  - Conclusion: Controlling HIV/AIDS requires collective effort and sustained commitment",
+        "",
+        "• Cultural considerations:",
+        "  - Including local conditions: Nigerian health challenges, cultural beliefs",
+        "  - Using culturally appropriate examples: community health workers, traditional leaders",
+        "  - Addressing issues relevant to Nigerian youth: prevention, stigma, support",
+        "",
+        "Practical Activities:",
+        "1. Brainstorming Session:",
+        "   - Teacher provides information on HIV/AIDS or population explosion",
+        "   - Students brainstorm key facts and points",
+        "   - Students organize ideas in logical order",
+        "",
+        "2. Draft Writing:",
+        "   - Students write a first draft on the chosen topic",
+        "   - Focus on clear explanations, specific vocabulary, and logical sequence",
+        "   - Teacher provides feedback on organization and language",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange drafts with partners",
+        "   - Partners check for clarity, accuracy, and completeness",
+        "   - Students revise their compositions based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Expository writing is only for science': Expository writing is used in all subjects",
+        "• 'Longer compositions are better': Effective writing is clear and focused, not just long",
+        "• 'Expository writing doesn't need planning': Planning helps create logical, coherent writing",
+        "• 'Only experts can write expository essays': Everyone can learn to write expository essays with practice",
+        "",
+        "Nigerian Context:",
+        "• Writing expository essays supports clear communication for school assignments and real-life contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Expository writing skills are foundational for academic success and professional communication",
+        "",
+        "Conclusion:",
+        "• Expository composition explains or describes a topic clearly and logically",
+        "• Steps include researching, organizing, drafting, and revising",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of expository writing supports academic success and real-life communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of expository writing features with Nigerian examples",
+        "Diagram of composition writing steps: research, organize, draft, revise",
+        "Sample composition on HIV/AIDS with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in expository writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing expository essay HIV AIDS population site:youtube.com",
+      "quiz": [
+        {
+          "q": "Expository writing is:",
+          "opts": [
+            "Only a fictional story",
+            "Writing that explains, describes, or informs about a topic",
+            "Only a poem",
+            "Only a list of facts"
+          ],
+          "ans": 1,
+          "explanation": "Expository composition explains, describes, or informs about a topic using clear, logical organization."
+        },
+        {
+          "q": "Which is a feature of expository writing?",
+          "opts": [
+            "Only rhyming words",
+            "Clear topic sentence, logical organization, factual information",
+            "Only emotional language",
+            "Only personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing uses clear topic sentences, logical organization, and factual information."
+        },
+        {
+          "q": "The first step in writing an expository essay is to:",
+          "opts": [
+            "Write the conclusion",
+            "Research or recall key information about the topic",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Researching or recalling key information is the first step before organizing and writing."
+        },
+        {
+          "q": "In a composition about HIV/AIDS, you might use:",
+          "opts": [
+            "Only emotional words",
+            "Specific vocabulary and time words for sequence",
+            "Only complex sentences",
+            "Only questions"
+          ],
+          "ans": 1,
+          "explanation": "Specific vocabulary and time words help give clear explanations for expository writing."
+        },
+        {
+          "q": "A good tip for expository writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain a consistent focus",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Using specific examples and maintaining focus creates clear, effective expository writing."
+        },
+        {
+          "q": "In Nigerian context, an expository writing topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Controlling HIV/AIDS in Nigeria'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing topics in Nigerian context address local health challenges like HIV/AIDS."
+        },
+        {
+          "q": "Understanding expository writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication for academic and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing skills help students communicate clearly in academic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a step in expository writing?",
+          "opts": [
+            "Research key information",
+            "Organize ideas logically",
+            "Write without revising",
+            "Revise for clarity"
+          ],
+          "ans": 2,
+          "explanation": "Writing without revising is not effective; revision is an essential step in expository writing."
+        },
+        {
+          "q": "A common misconception about expository writing is:",
+          "opts": [
+            "Expository writing explains or describes a topic",
+            "Expository writing is only for science",
+            "Expository writing needs planning",
+            "Expository writing uses factual information"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing is used in all subjects, not only for science."
+        },
+        {
+          "q": "When writing expository composition, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use specific vocabulary and maintain a consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Using specific vocabulary and maintaining focus creates clear, effective expository writing."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 12,
+  "topic": "General Revision",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w12_su1",
+      "title": "12.1 Comprehensive Revision of Third Term Topics",
+      "notes": [
+        "Revision of Key Topics from Third Term",
+        "",
+        "Key Concepts Reviewed:",
+        "1. Speech Skills:",
+        "   - Listening to grasp main points in speeches",
+        "   - Consonant sound revision (plosives, fricatives, nasals)",
+        "   - Intonation, stress, and rhythm patterns",
+        "",
+        "2. Structure/Grammar:",
+        "   - Determiners (few, many, some, a little)",
+        "   - Synonyms and their functions",
+        "   - Active and passive voice revision",
+        "",
+        "3. Vocabulary Development:",
+        "   - Words associated with stock exchange",
+        "   - Financial and economic terminology",
+        "   - Contextual word meaning and substitution",
+        "",
+        "4. Reading Comprehension:",
+        "   - Reading for main points and ideas",
+        "   - Critical evaluation of texts",
+        "   - Summary writing techniques",
+        "",
+        "5. Writing Skills:",
+        "   - Formal letters: application, apology, order",
+        "   - Differences between informal and formal letters",
+        "   - Composition writing: narrative, descriptive, expository, argumentative",
+        "",
+        "Practical Revision Activities:",
+        "1. Topic Review Stations:",
+        "   - Set up stations for speech, grammar, vocabulary, reading, writing",
+        "   - Students rotate through stations, reviewing key concepts",
+        "   - Each station has practice exercises and answer keys",
+        "",
+        "2. Group Quiz Games:",
+        "   - Teacher prepares quiz questions from all topics",
+        "   - Students work in teams to answer questions",
+        "   - Points awarded for correct answers; review explanations",
+        "",
+        "3. Skill Application Practice:",
+        "   - Students apply skills to new passages or topics",
+        "   - Example: Read a new passage, answer different question types",
+        "   - Write a short composition using outline and sequence",
+        "",
+        "4. Peer Teaching:",
+        "   - Students teach a topic to a partner or small group",
+        "   - Teaching reinforces understanding and identifies gaps",
+        "   - Class shares key takeaways from peer teaching",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Forgetting grammar rules",
+        "  - Solution: Create summary charts or flashcards for quick review",
+        "",
+        "• Challenge: Confusing question types in reading",
+        "  - Solution: Practice identifying question types and strategies for each",
+        "",
+        "• Challenge: Organizing writing ideas",
+        "  - Solution: Always start with an outline before drafting",
+        "",
+        "• Challenge: Pronouncing consonant sounds",
+        "  - Solution: Practice minimal pairs daily with recording and feedback",
+        "",
+        "Nigerian Context Integration:",
+        "• Relate English skills to Nigerian communication needs",
+        "• Use local examples: proverbs, cultural references, current issues",
+        "• Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Exam Preparation Tips:",
+        "1. Review Notes and Diagrams:",
+        "   - Summarize key points from each topic",
+        "   - Redraw and label important diagrams",
+        "   - Use flashcards for definitions and terms",
+        "",
+        "2. Practice Questions:",
+        "   - Answer past exam questions or teacher-provided practice",
+        "   - Create and answer your own questions",
+        "   - Focus on application and analysis, not just recall",
+        "",
+        "3. Group Study:",
+        "   - Discuss concepts with peers",
+        "   - Teach each other to reinforce understanding",
+        "   - Clarify misconceptions through discussion",
+        "",
+        "4. Nigerian Context Emphasis:",
+        "   - Relate English concepts to Nigerian communication needs",
+        "   - Consider local examples: proverbs, cultural references, current issues",
+        "   - Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Conclusion:",
+        "• Revision consolidates understanding of SSS2 Third Term English topics",
+        "• Key concepts include speech, structure, vocabulary, reading, and writing",
+        "• Practical skills and Nigerian context integration enhance learning and application",
+        "• Effective revision strategies prepare students for exams and real-world communication",
+        "• In Nigeria, English language proficiency supports academic success, professional advancement, and civic participation"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram linking all SSS2 Third Term topics: speech, structure, vocabulary, reading, writing",
+        "Concept map of question types: knowledge, interpretation, evaluation",
+        "Comparison chart of composition types: narrative, descriptive, argumentative, expository",
+        "Flowchart of outlining and sequential arrangement",
+        "Nigerian examples: Local vocabulary, comprehension passages, writing topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English revision third term grammar comprehension writing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Listening for main points is:",
+          "opts": [
+            "Only hearing sounds",
+            "The ability to identify the central message in a speech",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Listening for main points is the ability to identify the central message or most important ideas in a speech."
+        },
+        {
+          "q": "Determiners are:",
+          "opts": [
+            "Only articles (a, an, the)",
+            "Words that introduce nouns and specify quantity, possession, or definiteness",
+            "Only quantifiers",
+            "Only possessives"
+          ],
+          "ans": 1,
+          "explanation": "Determiners are words that introduce nouns and specify quantity, possession, or definiteness."
+        },
+        {
+          "q": "Synonyms are:",
+          "opts": [
+            "Words with opposite meanings",
+            "Words that have the same or nearly the same meaning",
+            "Only words that rhyme",
+            "Only words that start with the same letter"
+          ],
+          "ans": 1,
+          "explanation": "Synonyms are words that have the same or nearly the same meaning."
+        },
+        {
+          "q": "Summary writing is:",
+          "opts": [
+            "Copying the original text",
+            "Reducing a longer text to a shorter version while keeping main ideas",
+            "Adding more details to a passage",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Summary writing reduces a longer text to a shorter version while retaining the main ideas and omitting unnecessary details."
+        },
+        {
+          "q": "An informal letter is written to:",
+          "opts": [
+            "Only government officials",
+            "Friends, family, or people you know well",
+            "Only business partners",
+            "Only strangers"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters are written to friends, family, or people you know well, using friendly and personal language."
+        },
+        {
+          "q": "Which is a feature of a formal letter?",
+          "opts": [
+            "Only one address",
+            "Two addresses, formal salutation, clear subject, body, formal closing",
+            "Only the salutation",
+            "Only the signature"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters include two addresses, formal salutation, clear subject, body, and formal closing."
+        },
+        {
+          "q": "Understanding English language concepts is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, professional communication, and civic participation",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "English proficiency supports academic achievement, career advancement, and effective participation in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a type of determiner?",
+          "opts": [
+            "Quantifier",
+            "Article",
+            "Action",
+            "Possessive"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of determiner; quantifier, article, demonstrative, and possessive are types of determiners."
+        },
+        {
+          "q": "A common misconception about summary is:",
+          "opts": [
+            "Summary retains main ideas",
+            "Summary means copying the original",
+            "Summary should be concise",
+            "Practice improves summarizing skills"
+          ],
+          "ans": 1,
+          "explanation": "Summary does not mean copying the original; it requires paraphrasing main ideas in your own words."
+        },
+        {
+          "q": "When writing a formal letter, you should:",
+          "opts": [
+            "Ignore the format",
+            "Use formal language, specific details, and clear structure",
+            "Only write one long paragraph",
+            "Avoid asking questions"
+          ],
+          "ans": 1,
+          "explanation": "Using formal language, specific details, and clear structure makes formal letters clear, respectful, and effective."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1051 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w4_su1",
+      "title": "4.1 Reading: Reading to Identify Facts and Opinions",
+      "notes": [
+        "Reading: Identifying Facts and Opinions",
+        "",
+        "Key Concepts:",
+        "1. What are facts?",
+        "   - Statements that can be proven true or false",
+        "   - Based on evidence, data, or observation",
+        "   - Example: 'Nigeria has 36 states.' (verifiable)",
+        "",
+        "2. What are opinions?",
+        "   - Statements that express personal beliefs, feelings, or judgments",
+        "   - Cannot be proven true or false",
+        "   - Example: 'Lagos is the most beautiful city in Nigeria.' (subjective)",
+        "",
+        "3. How to distinguish facts from opinions:",
+        "   - Look for signal words: 'I think', 'in my opinion', 'believe' (opinion)",
+        "   - Check if the statement can be verified with evidence (fact)",
+        "   - Ask: Can this be proven with data or research?",
+        "",
+        "4. Common topics for practice:",
+        "   - The merits of exclusive breastfeeding for infants",
+        "   - Benefits of reading newspapers",
+        "   - Effects of corruption in society",
+        "   - Importance of peace education",
+        "",
+        "5. Strategies for identifying facts and opinions:",
+        "   - Read the passage carefully to understand the context",
+        "   - Highlight statements that can be verified",
+        "   - Note emotional language that signals opinions",
+        "   - Use external sources to verify factual claims",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Impact of Corruption on Nigerian Development'",
+        "  - Fact: 'Nigeria lost $400 billion to corruption between 1960 and 1999.' (verifiable)",
+        "  - Opinion: 'Corruption is the worst problem facing Nigeria today.' (subjective)",
+        "  - Practice: Students identify and classify statements from the passage",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how facts and opinions are used in Nigerian media",
+        "  - Recognizing bias in political speeches and news reports",
+        "  - Developing critical thinking skills for civic participation",
+        "",
+        "Practical Activities:",
+        "1. Fact vs. Opinion Sorting:",
+        "   - Teacher provides statements on Nigerian issues",
+        "   - Students work in pairs to classify each as fact or opinion",
+        "   - Groups share their classifications and justify their choices",
+        "",
+        "2. Passage Analysis:",
+        "   - Teacher reads a passage on a contemporary Nigerian issue",
+        "   - Students underline facts in one color, opinions in another",
+        "   - Class discusses how facts and opinions work together in argument",
+        "",
+        "3. Critical Response Writing:",
+        "   - Students write a short response identifying facts and opinions",
+        "   - Focus on supporting their analysis with evidence from the text",
+        "   - Peer review for accuracy and clarity",
+        "",
+        "Common Misconceptions:",
+        "• 'All statements in textbooks are facts': Textbooks can contain opinions too",
+        "• 'Opinions are always wrong': Opinions can be well-reasoned and valuable",
+        "• 'Facts are always neutral': Facts can be selected to support an opinion",
+        "• 'Identifying facts is easy': Some statements blend fact and opinion",
+        "",
+        "Nigerian Context:",
+        "• Identifying facts and opinions helps students critically engage with Nigerian media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Facts can be proven; opinions express personal beliefs",
+        "• Strategies include looking for signal words and checking verifiability",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of these skills supports critical reading and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart distinguishing facts from opinions with examples",
+        "Flowchart for identifying facts and opinions in passages",
+        "Sample passage on Nigerian issues with facts/opinions highlighted",
+        "Nigerian context: Sample passages on corruption, education with analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading facts opinions critical evaluation site:youtube.com",
+      "quiz": [
+        {
+          "q": "A fact is:",
+          "opts": [
+            "A personal belief or feeling",
+            "A statement that can be proven true or false",
+            "An emotional expression",
+            "A prediction about the future"
+          ],
+          "ans": 1,
+          "explanation": "A fact is a statement that can be proven true or false with evidence."
+        },
+        {
+          "q": "An opinion is:",
+          "opts": [
+            "A statement based on evidence",
+            "A statement that expresses personal beliefs or judgments",
+            "A verifiable claim",
+            "A statistical report"
+          ],
+          "ans": 1,
+          "explanation": "An opinion expresses personal beliefs, feelings, or judgments that cannot be proven."
+        },
+        {
+          "q": "Which word often signals an opinion?",
+          "opts": [
+            "according to",
+            "I believe",
+            "statistics show",
+            "research indicates"
+          ],
+          "ans": 1,
+          "explanation": "'I believe' signals a personal opinion; the others introduce factual claims."
+        },
+        {
+          "q": "In a passage about corruption in Nigeria, which is a fact?",
+          "opts": [
+            "Corruption is the worst problem in Nigeria.",
+            "Nigeria ranks 143rd on the Corruption Perception Index.",
+            "I think corruption will never end.",
+            "Everyone knows corruption is bad."
+          ],
+          "ans": 1,
+          "explanation": "The ranking on the Corruption Perception Index is a verifiable fact."
+        },
+        {
+          "q": "A common mistake in identifying facts is:",
+          "opts": [
+            "Checking if a statement can be verified",
+            "Assuming all textbook statements are facts",
+            "Looking for signal words",
+            "Using external sources to verify claims"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all textbook statements are facts is a mistake; textbooks can contain opinions too."
+        },
+        {
+          "q": "To distinguish facts from opinions, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Check if the statement can be verified with evidence",
+            "Ignore the context",
+            "Only focus on emotional language"
+          ],
+          "ans": 1,
+          "explanation": "Checking if a statement can be verified with evidence helps distinguish facts from opinions."
+        },
+        {
+          "q": "Understanding facts and opinions is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with Nigerian media and civic participation",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students critically engage with Nigerian media and participate in civic life."
+        },
+        {
+          "q": "Which is NOT a strategy for identifying facts?",
+          "opts": [
+            "Look for signal words",
+            "Check verifiability",
+            "Ignore the context",
+            "Use external sources"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; context helps understand how facts and opinions are used."
+        },
+        {
+          "q": "A common misconception about facts is:",
+          "opts": [
+            "Facts can be proven with evidence",
+            "All statements in textbooks are facts",
+            "Facts can be selected to support opinions",
+            "Practice improves identification skills"
+          ],
+          "ans": 1,
+          "explanation": "Not all statements in textbooks are facts; textbooks can contain opinions too."
+        },
+        {
+          "q": "When analyzing a passage, you should:",
+          "opts": [
+            "Only focus on opinions",
+            "Highlight facts and opinions separately",
+            "Ignore emotional language",
+            "Only read the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Highlighting facts and opinions separately helps you analyze how they work together in argument."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w4_su2",
+      "title": "4.2 Writing: Composition on Motor Vehicle Parts That Need Regular Care",
+      "notes": [
+        "Writing: Composition on Motor Vehicle Parts That Need Regular Care",
+        "",
+        "Key Concepts:",
+        "1. What is an expository composition?",
+        "   - Writing that explains, describes, or informs about a topic",
+        "   - Uses clear, logical organization and factual information",
+        "   - Example: Explaining how to care for a motor vehicle",
+        "",
+        "2. Features of expository writing:",
+        "   - Clear topic sentence stating the main idea",
+        "   - Logical organization: introduction, body, conclusion",
+        "   - Factual information and specific details",
+        "   - Transitional words to connect ideas: first, next, finally",
+        "",
+        "3. Steps for writing about motor vehicle care:",
+        "   - Step 1: Choose a focus (e.g., engine care, brake maintenance)",
+        "   - Step 2: Research or recall key information about the topic",
+        "   - Step 3: Organize ideas in logical order",
+        "   - Step 4: Write a draft with clear explanations",
+        "   - Step 5: Revise for clarity, accuracy, and completeness",
+        "",
+        "4. Language features for vehicle care writing:",
+        "   - Use specific vocabulary: radiator, brake fluid, engine oil, etc.",
+        "   - Use imperative verbs for instructions: check, replace, clean",
+        "   - Use time words for sequence: first, then, after, finally",
+        "   - Use descriptive language for clarity: 'dark brown oil', 'low fluid level'",
+        "",
+        "5. Tips for effective expository writing:",
+        "   - Start with a clear introduction stating the purpose",
+        "   - Use specific examples and details",
+        "   - Maintain a consistent focus throughout",
+        "   - End with a strong conclusion summarizing key points",
+        "",
+        "Nigerian Context:",
+        "• Sample composition topic: 'Regular Care for Your Vehicle in Nigeria'",
+        "  - Introduction: Regular vehicle care is essential for safety and longevity",
+        "  - Body:",
+        "    * Engine: Check oil level weekly; change oil every 5,000 km",
+        "    * Brakes: Inspect brake fluid monthly; replace pads when worn",
+        "    * Radiator: Check coolant level; clean radiator fins regularly",
+        "    * Tyres: Check pressure weekly; rotate tyres every 10,000 km",
+        "  - Conclusion: Regular care prevents breakdowns and ensures road safety",
+        "",
+        "• Cultural considerations:",
+        "  - Including local conditions: dusty roads, high temperatures, fuel quality",
+        "  - Using culturally appropriate examples: 'danfo' buses, commercial vehicles",
+        "  - Addressing issues relevant to Nigerian drivers: maintenance costs, spare parts",
+        "",
+        "Practical Activities:",
+        "1. Brainstorming Session:",
+        "   - Teacher provides vehicle care topics relevant to Nigerian conditions",
+        "   - Students brainstorm parts that need care and maintenance steps",
+        "   - Students organize ideas in logical order",
+        "",
+        "2. Draft Writing:",
+        "   - Students write a first draft on vehicle care",
+        "   - Focus on clear explanations, specific vocabulary, and logical sequence",
+        "   - Teacher provides feedback on organization and language",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange drafts with partners",
+        "   - Partners check for clarity, accuracy, and completeness",
+        "   - Students revise their compositions based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Expository writing is only for science': Expository writing is used in all subjects",
+        "• 'Longer compositions are better': Effective writing is clear and focused, not just long",
+        "• 'Expository writing doesn't need planning': Planning helps create logical, coherent writing",
+        "• 'Only experts can write expository essays': Everyone can learn to write expository essays with practice",
+        "",
+        "Nigerian Context:",
+        "• Writing about vehicle care supports clear communication for school assignments and real-life contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Expository writing skills are foundational for academic success and professional communication",
+        "",
+        "Conclusion:",
+        "• Expository composition explains or describes a topic clearly and logically",
+        "• Steps include choosing a focus, researching, organizing, drafting, and revising",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of expository writing supports academic success and real-life communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of expository writing features with vehicle care examples",
+        "Diagram of composition writing steps: choose focus, research, organize, draft, revise",
+        "Sample composition on vehicle care with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in expository writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing expository composition vehicle care site:youtube.com",
+      "quiz": [
+        {
+          "q": "An expository composition is:",
+          "opts": [
+            "Only a fictional story",
+            "Writing that explains, describes, or informs about a topic",
+            "Only a poem",
+            "Only a list of facts"
+          ],
+          "ans": 1,
+          "explanation": "Expository composition explains, describes, or informs about a topic using clear, logical organization."
+        },
+        {
+          "q": "Which is a feature of expository writing?",
+          "opts": [
+            "Only rhyming words",
+            "Clear topic sentence, logical organization, factual information",
+            "Only emotional language",
+            "Only personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing uses clear topic sentences, logical organization, and factual information."
+        },
+        {
+          "q": "The first step in writing about vehicle care is to:",
+          "opts": [
+            "Write the conclusion",
+            "Choose a focus and research key information",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a focus and researching key information is the first step before organizing and writing."
+        },
+        {
+          "q": "In a composition about vehicle care, you might use:",
+          "opts": [
+            "Only emotional words",
+            "Specific vocabulary and imperative verbs for instructions",
+            "Only complex sentences",
+            "Only questions"
+          ],
+          "ans": 1,
+          "explanation": "Specific vocabulary and imperative verbs help give clear instructions for vehicle care."
+        },
+        {
+          "q": "A good tip for expository writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain a consistent focus",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Using specific examples and maintaining focus creates clear, effective expository writing."
+        },
+        {
+          "q": "In Nigerian context, a vehicle care topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Regular Care for Your Vehicle in Nigeria'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Vehicle care topics in Nigerian context address local conditions like dusty roads and high temperatures."
+        },
+        {
+          "q": "Understanding expository writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication for academic and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing skills help students communicate clearly in academic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a step in expository writing?",
+          "opts": [
+            "Choose a focus",
+            "Research key information",
+            "Write without revising",
+            "Revise for clarity"
+          ],
+          "ans": 2,
+          "explanation": "Writing without revising is not effective; revision is an essential step in expository writing."
+        },
+        {
+          "q": "A common misconception about expository writing is:",
+          "opts": [
+            "Expository writing explains or describes a topic",
+            "Expository writing is only for science",
+            "Expository writing needs planning",
+            "Expository writing uses factual information"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing is used in all subjects, not only for science."
+        },
+        {
+          "q": "When writing expository composition, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use specific vocabulary and maintain a consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Using specific vocabulary and maintaining focus creates clear, effective expository writing."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w4_su3",
+      "title": "4.3 Grammatical Accuracy: Adverbials and Tenses",
+      "notes": [
+        "Grammatical Accuracy: Adverbials and Tenses",
+        "",
+        "Key Concepts:",
+        "1. Review: What are adverbials?",
+        "   - Words or phrases that modify verbs, adjectives, or other adverbs",
+        "   - They tell how, when, where, why, or to what extent an action is done",
+        "   - Examples: quickly (how), yesterday (when), in Nigeria (where), because (why)",
+        "",
+        "2. Types of adverbials:",
+        "   a) Adverbials of manner: describe how an action is done",
+        "      - Examples: carefully, respectfully, diligently, wisely",
+        "   b) Adverbials of time: describe when an action is done",
+        "      - Examples: now, then, yesterday, tomorrow, recently",
+        "   c) Adverbials of place: describe where an action is done",
+        "      - Examples: here, there, in Nigeria, at school, in the community",
+        "   d) Adverbials of reason: describe why an action is done",
+        "      - Examples: because, therefore, consequently, as a result",
+        "",
+        "3. Review: What are tenses?",
+        "   - Tenses show the time of an action or state",
+        "   - Main tenses: present, past, future",
+        "   - Examples: I talk (present), I talked (past), I will talk (future)",
+        "",
+        "4. Functions of adverbials and tenses in passages:",
+        "   - Adverbials add detail: 'Students study diligently in Nigeria.'",
+        "   - Tenses show time: 'They studied yesterday. They will study tomorrow.'",
+        "   - Together they create clear, precise communication",
+        "",
+        "5. Identifying adverbials and tenses in passages:",
+        "   - Look for words that answer: How? When? Where? Why?",
+        "   - Note verb forms: talk/talks/talked/will talk",
+        "   - Ask: What time does this action happen?",
+        "   - Example passage:",
+        "     'Students in Nigeria study diligently. They studied hard last term. They will study harder next term.'",
+        "     Adverbials: diligently (manner), last term (time), next term (time)",
+        "     Tenses: study (present), studied (past), will study (future)",
+        "",
+        "Nigerian Context:",
+        "• Common adverbials and tenses in Nigerian English:",
+        "  - Adverbials: respectfully, diligently, in Nigeria, because",
+        "  - Tenses: present for habits, past for completed actions, future for plans",
+        "  - Examples:",
+        "    * 'Nigerian students study diligently.' (present + manner)",
+        "    * 'They passed their exams last year.' (past + time)",
+        "    * 'They will succeed if they work hard.' (future + condition)",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbials and tenses to describe Nigerian experiences",
+        "  - Adverbials for value discussions: 'respectfully', 'diligently', 'wisely'",
+        "  - Tenses for national development: 'Nigeria is growing', 'We have made progress'",
+        "",
+        "Practical Activities:",
+        "1. Adverbial and Tense Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline adverbials in one color, verbs in another",
+        "   - Class discusses findings and functions",
+        "",
+        "2. Sorting Game:",
+        "   - Teacher writes adverbials and verbs on cards",
+        "   - Students sort adverbials by type, verbs by tense",
+        "   - Groups present their sorted words with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive verb cards and adverbial cards",
+        "   - In groups, they create sentences using correct adverbials and tenses",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All -ly words are adverbials': Some adjectives also end in -ly (friendly, lovely)",
+        "• 'Tenses are only about time': Tenses also show aspect (completed, ongoing) and mood",
+        "• 'Only one adverbial per sentence': Sentences can have multiple adverbials",
+        "• 'Adverbials and tenses are not important': They add precision and clarity to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbials and tenses supports clear, precise communication about Nigerian experiences",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of these elements is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbials modify verbs, adjectives, or other adverbs to add detail",
+        "• Tenses show the time of actions or states: present, past, future",
+        "• Functions include describing how, when, where, or why actions happen",
+        "• Mastery of adverbials and tenses supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverbial types with Nigerian examples",
+        "Diagram showing tense forms and functions",
+        "Sample passage with adverbials and tenses highlighted",
+        "Sorting activity template",
+        "Nigerian context: Common adverbials and tenses in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar adverbials tenses site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverbial is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverbial modifies verbs, adjectives, or other adverbs to add detail about how, when, where, or why."
+        },
+        {
+          "q": "Which is an adverbial of manner?",
+          "opts": [
+            "yesterday",
+            "diligently",
+            "here",
+            "because"
+          ],
+          "ans": 1,
+          "explanation": "'Diligently' is an adverbial of manner; 'yesterday' is time, 'here' is place, 'because' is reason."
+        },
+        {
+          "q": "Tenses show:",
+          "opts": [
+            "Only the subject",
+            "The time of an action or state",
+            "Only the object",
+            "Only the verb"
+          ],
+          "ans": 1,
+          "explanation": "Tenses show the time of an action or state: present, past, or future."
+        },
+        {
+          "q": "In the sentence 'Students study diligently in Nigeria', 'diligently' is an adverbial that modifies:",
+          "opts": [
+            "Students",
+            "study",
+            "Nigeria",
+            "the sentence"
+          ],
+          "ans": 1,
+          "explanation": "'Diligently' modifies the verb 'study' by telling how students study."
+        },
+        {
+          "q": "Which type of adverbial describes why an action is done?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Reason"
+          ],
+          "ans": 3,
+          "explanation": "Adverbials of reason describe why an action is done (because, therefore, consequently)."
+        },
+        {
+          "q": "In Nigerian context, which is a past tense verb about education?",
+          "opts": [
+            "study",
+            "studied",
+            "will study",
+            "is studying"
+          ],
+          "ans": 1,
+          "explanation": "'Studied' is a past tense verb commonly used in Nigerian English to describe completed educational actions."
+        },
+        {
+          "q": "Adverbials and tenses can be identified by:",
+          "opts": [
+            "Only the subject",
+            "Looking for signal words and noting verb forms",
+            "Only the object",
+            "Only the context"
+          ],
+          "ans": 1,
+          "explanation": "Looking for signal words (now, yesterday, because) and noting verb forms helps identify adverbials and tenses."
+        },
+        {
+          "q": "Understanding adverbials and tenses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication about Nigerian experiences",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials and tenses add precision and detail to communication, essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverbial?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Reason"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverbial; manner, time, place, and reason are types of adverbials."
+        },
+        {
+          "q": "A common misconception about adverbials is:",
+          "opts": [
+            "Adverbials modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbials",
+            "Adverbials add precision to communication",
+            "Adverbials can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbials; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w4_su4",
+      "title": "4.4 Listening/Speaking: Intonation, Stress and Rhythm",
+      "notes": [
+        "Listening and Speaking: Intonation, Stress and Rhythm",
+        "",
+        "Key Concepts:",
+        "1. Understanding intonation:",
+        "   - The rise and fall of pitch in speech",
+        "   - Helps convey meaning, emotion, and intention",
+        "   - Example: Rising tone for questions, falling tone for statements",
+        "",
+        "2. Understanding stress:",
+        "   - Emphasis on certain syllables or words",
+        "   - Changes meaning or focus in speech",
+        "   - Example: 'REcord' (noun) vs 'reCORD' (verb)",
+        "",
+        "3. Understanding rhythm:",
+        "   - The pattern of stressed and unstressed syllables",
+        "   - Creates natural flow in speech",
+        "   - Example: English has stress-timed rhythm",
+        "",
+        "4. Functions of intonation, stress, and rhythm:",
+        "   - Making requests: 'Can you help me? ↗' (rising tone)",
+        "   - Emphasizing key words: 'I NEED help' (stress on 'need')",
+        "   - Creating natural speech flow: 'I want to GO to the MARket' (rhythm)",
+        "",
+        "5. Listening strategies:",
+        "   - Focus on the speaker's pitch changes",
+        "   - Listen for stressed words and syllables",
+        "   - Note the rhythm pattern in sentences",
+        "   - Practice with recorded materials to hear natural speech",
+        "",
+        "6. Speaking strategies:",
+        "   - Practice pitch changes with minimal pairs",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on intonation and stress",
+        "   - Use appropriate intonation for questions, statements, and commands",
+        "",
+        "Nigerian Context:",
+        "• Common challenges for Nigerian speakers:",
+        "  - Using flat intonation instead of rising/falling tones",
+        "  - Difficulty with word stress in polysyllabic words",
+        "  - Influence of native language rhythm patterns",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'School Life': 'Can I borrow your pen? ↗' (request with rising tone)",
+        "  - 'Market Day': 'This PRICE is too HIGH' (stress on key words)",
+        "  - 'Community': 'We MUST work TOgether' (rhythm and emphasis)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear intonation in multilingual Nigerian classrooms",
+        "  - Importance of stress and rhythm for clear communication in public settings",
+        "  - Practice with local phrases that use appropriate intonation patterns",
+        "",
+        "Practical Activities:",
+        "1. Intonation Drill:",
+        "   - Teacher models rising and falling tones with questions and statements",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: statement vs question",
+        "",
+        "2. Stress Practice:",
+        "   - Teacher writes words with different stress patterns",
+        "   - Students identify stressed syllables and practice pronunciation",
+        "   - Practice with Nigerian-relevant words: 'eduCAtion', 'deVElopment'",
+        "",
+        "3. Rhythm Practice:",
+        "   - Students prepare a 1-minute speech using appropriate stress and rhythm",
+        "   - Focus on natural speech flow and emphasis on key words",
+        "   - Peer feedback on intonation, stress, and rhythm clarity",
+        "",
+        "Common Misconceptions:",
+        "• 'Intonation doesn't matter in Nigerian English': Incorrect intonation can change meaning",
+        "• 'All questions use rising tone': Some questions (WH-questions) use falling tone",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct intonation': With practice, anyone can improve intonation",
+        "",
+        "Nigerian Context:",
+        "• Clear intonation, stress, and rhythm support effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar phrases builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• Intonation is the rise and fall of pitch; stress is emphasis on syllables; rhythm is the pattern of speech",
+        "• Listening strategies help you identify intonation, stress, and rhythm in natural speech",
+        "• Speaking strategies help you use intonation, stress, and rhythm naturally and appropriately",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of intonation patterns with example words",
+        "Diagram of stress patterns in polysyllabic words",
+        "Sample minimal pairs practice: statement vs question",
+        "Listening strategy flowchart: Focus, Listen for pitch changes, Note stress, Practice",
+        "Nigerian context: Sample phrases with local relevance for intonation practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English intonation stress rhythm pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Intonation is:",
+          "opts": [
+            "The speed of speech",
+            "The rise and fall of pitch in speech",
+            "The volume of speech",
+            "The choice of words"
+          ],
+          "ans": 1,
+          "explanation": "Intonation is the rise and fall of pitch in speech, helping convey meaning and emotion."
+        },
+        {
+          "q": "Stress in speech refers to:",
+          "opts": [
+            "The speed of speaking",
+            "Emphasis on certain syllables or words",
+            "The volume of speech",
+            "The choice of vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Stress is emphasis on certain syllables or words, changing meaning or focus in speech."
+        },
+        {
+          "q": "Rhythm in speech is:",
+          "opts": [
+            "The choice of words",
+            "The pattern of stressed and unstressed syllables",
+            "The volume of speech",
+            "The speed of speaking"
+          ],
+          "ans": 1,
+          "explanation": "Rhythm is the pattern of stressed and unstressed syllables, creating natural flow in speech."
+        },
+        {
+          "q": "In the sentence 'Can you help me? ↗', the rising tone indicates:",
+          "opts": [
+            "A statement",
+            "A yes/no question",
+            "A command",
+            "An exclamation"
+          ],
+          "ans": 1,
+          "explanation": "The rising tone in 'Can you help me?' indicates a yes/no question."
+        },
+        {
+          "q": "Which is a function of stress?",
+          "opts": [
+            "Making statements",
+            "Emphasizing key words",
+            "Giving commands",
+            "Expressing anger"
+          ],
+          "ans": 1,
+          "explanation": "Emphasizing key words is a function of stress; statements typically use falling tone."
+        },
+        {
+          "q": "In Nigerian context, a common intonation challenge is:",
+          "opts": [
+            "Using rising tone for all questions",
+            "Using flat intonation instead of rising/falling tones",
+            "Using falling tone for all statements",
+            "Using rising tone for all statements"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers use flat intonation instead of the rising/falling tones of standard English."
+        },
+        {
+          "q": "A good speaking strategy for intonation is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice pitch changes with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing pitch changes with minimal pairs helps improve intonation clarity."
+        },
+        {
+          "q": "Understanding intonation is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear intonation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a rising tone example?",
+          "opts": [
+            "/a:/ as in father",
+            "Are you coming? ↗",
+            "/i:/ as in seat",
+            "/u:/ as in food"
+          ],
+          "ans": 1,
+          "explanation": "'Are you coming? ↗' is an example of rising tone; the others are vowel sounds."
+        },
+        {
+          "q": "A common misconception about rising tone is:",
+          "opts": [
+            "Rising tone is used for questions",
+            "All questions use rising tone",
+            "Practice improves intonation",
+            "Rising tone conveys uncertainty"
+          ],
+          "ans": 1,
+          "explanation": "Not all questions use rising tone; WH-questions (who, what, where) often use falling tone."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w4_su5",
+      "title": "4.5 Literature: Drama - Kings of Drama: Comedy and Tragedy",
+      "notes": [
+        "Literature: Drama - Comedy and Tragedy",
+        "",
+        "Key Concepts:",
+        "1. What is drama?",
+        "   - A type of literature written to be performed on stage",
+        "   - Uses dialogue, action, and stage directions to tell a story",
+        "   - Example: A play about a Nigerian family facing modern challenges",
+        "",
+        "2. Types of drama:",
+        "   a) Comedy:",
+        "      - Humorous plays with happy endings",
+        "      - Often satirizes human folly or social issues",
+        "      - Example: 'The Lion and the Jewel' by Wole Soyinka",
+        "   b) Tragedy:",
+        "      - Serious plays with sad endings",
+        "      - Often about heroes with flaws or great conflicts",
+        "      - Example: 'Death and the King's Horseman' by Wole Soyinka",
+        "",
+        "3. Features of comedy:",
+        "   - Humorous dialogue and situations",
+        "   - Exaggerated characters or situations",
+        "   - Happy resolution or ending",
+        "   - Often critiques social norms through humor",
+        "",
+        "4. Features of tragedy:",
+        "   - Serious tone and themes",
+        "   - Characters with fatal flaws or great conflicts",
+        "   - Sad or catastrophic ending",
+        "   - Often explores profound human experiences",
+        "",
+        "5. How to identify comedy and tragedy:",
+        "   - For comedy: Look for humor, satire, happy endings",
+        "   - For tragedy: Look for serious themes, character flaws, sad endings",
+        "   - Ask: What is the overall tone and outcome of the play?",
+        "",
+        "6. Why study comedy and tragedy?",
+        "   - To understand different ways drama explores human experience",
+        "   - To appreciate how humor and seriousness create meaning",
+        "   - To improve your own writing and appreciation of literature",
+        "   - To develop critical thinking about dramatic techniques",
+        "",
+        "Nigerian Context:",
+        "• Drama in Nigerian literature:",
+        "  - Comedy: Plays that satirize social issues with humor",
+        "  - Tragedy: Plays that explore serious conflicts and human suffering",
+        "  - Themes: cultural identity, social justice, family, politics, tradition vs modernity",
+        "",
+        "• Sample drama topics:",
+        "  - Comedy: 'The Marriage of Anansewa' by Efua Sutherland (satire on marriage customs)",
+        "  - Tragedy: 'The Road' by Wole Soyinka (exploration of death and meaning)",
+        "  - Themes: balancing tradition and modernity, consequences of greed, power and corruption",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for traditional performance forms and elders as storytellers",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, identity, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Drama Type Identification:",
+        "   - Teacher provides short excerpts from Nigerian plays",
+        "   - Students work in pairs to identify if the excerpt is comedy or tragedy",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Feature Hunt:",
+        "   - Teacher reads excerpts with different dramatic features",
+        "   - Students identify features: humor, serious tone, character types, endings",
+        "   - Create a class chart of comedy vs tragedy features",
+        "",
+        "3. Creative Drama:",
+        "   - Students work in groups to create a short scene (comedy or tragedy)",
+        "   - Focus on dialogue, character, setting, and theme appropriate to the type",
+        "   - Perform scenes for class feedback on dramatic elements",
+        "",
+        "Common Misconceptions:",
+        "• 'Comedy is only for entertainment': Comedy also teaches, critiques society, and inspires change",
+        "• 'Tragedy is only sad': Tragedy also explores profound truths and human resilience",
+        "• 'Only Western drama has these types': Nigerian and African drama use similar types with cultural adaptations",
+        "• 'Only experts can write drama': Everyone can learn to write and appreciate drama with practice",
+        "",
+        "Nigerian Context:",
+        "• Understanding comedy and tragedy helps students appreciate Nigerian literary traditions",
+        "• Practice with local plays enhances cultural pride and literary appreciation",
+        "• Analyzing dramatic types develops critical thinking and performance skills",
+        "",
+        "Conclusion:",
+        "• Drama includes comedy (humorous, happy endings) and tragedy (serious, sad endings)",
+        "• Features include dialogue, character, plot, theme, and dramatic techniques",
+        "• Nigerian drama reflects rich cultural traditions with universal themes",
+        "• Mastery of dramatic analysis supports literary appreciation and performance skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of comedy vs tragedy features with Nigerian examples",
+        "Diagram of dramatic elements: dialogue, character, plot, theme, setting",
+        "Sample Nigerian drama excerpts with features highlighted",
+        "Nigerian context: Famous Nigerian playwrights and their dramatic types",
+        "Activity template: Drama type identification and creative drama"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature drama comedy tragedy Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Comedy in drama is:",
+          "opts": [
+            "Only serious plays with sad endings",
+            "Humorous plays with happy endings",
+            "Only poems",
+            "Only historical documents"
+          ],
+          "ans": 1,
+          "explanation": "Comedy is humorous plays with happy endings, often satirizing human folly or social issues."
+        },
+        {
+          "q": "Tragedy in drama is:",
+          "opts": [
+            "Only humorous plays",
+            "Serious plays with sad endings",
+            "Only poems",
+            "Only non-fiction"
+          ],
+          "ans": 1,
+          "explanation": "Tragedy is serious plays with sad endings, often about heroes with flaws or great conflicts."
+        },
+        {
+          "q": "A feature of comedy is:",
+          "opts": [
+            "Only serious themes",
+            "Humorous dialogue and happy endings",
+            "Only sad endings",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Comedy features humorous dialogue, exaggerated situations, and happy resolutions."
+        },
+        {
+          "q": "In Nigerian context, a comedy might be:",
+          "opts": [
+            "Only about foreign issues",
+            "'The Marriage of Anansewa' by Efua Sutherland",
+            "Only scientific topics",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian comedy often satirizes social issues with humor, as in Sutherland's 'The Marriage of Anansewa'."
+        },
+        {
+          "q": "To identify if a play is comedy or tragedy, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What is the overall tone and outcome of the play?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking about the overall tone and outcome helps you identify if a play is comedy or tragedy."
+        },
+        {
+          "q": "A common theme in Nigerian tragedy is:",
+          "opts": [
+            "Only foreign cultures",
+            "Consequences of greed, power, and corruption",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian tragedy often explores serious themes like consequences of greed, power, and corruption."
+        },
+        {
+          "q": "Understanding comedy and tragedy is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding dramatic types helps students appreciate their heritage, understand human experiences, and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a feature of comedy?",
+          "opts": [
+            "Humorous dialogue",
+            "Happy endings",
+            "Serious tone",
+            "Satire of social issues"
+          ],
+          "ans": 2,
+          "explanation": "Serious tone is a feature of tragedy, not comedy."
+        },
+        {
+          "q": "A common misconception about comedy is:",
+          "opts": [
+            "Comedy is humorous with happy endings",
+            "Comedy is only for entertainment",
+            "Comedy can critique society through humor",
+            "Comedy has universal themes"
+          ],
+          "ans": 1,
+          "explanation": "Comedy is not only for entertainment; it also teaches, critiques society, and inspires change."
+        },
+        {
+          "q": "When analyzing drama, you should:",
+          "opts": [
+            "Ignore the dialogue",
+            "Identify tone, character, plot, and theme",
+            "Only focus on stage directions",
+            "Skip the ending"
+          ],
+          "ans": 1,
+          "explanation": "Identifying tone, character, plot, and theme helps you understand and appreciate the drama."
+        }
+      ]
+    }
+  ]
+}

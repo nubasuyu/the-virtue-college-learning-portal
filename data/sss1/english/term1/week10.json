@@ -1,0 +1,857 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Speech, Vocabulary, Structure, Continuous Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w10_su1",
+      "title": "10.1 Speech: Consonant Sounds Followed by /k/ + /w/",
+      "notes": [
+        "Consonant + /k/ + /w/ Sound Pattern:",
+        "• Definition: Consonant sounds followed by the cluster /kw/ (as in 'queen')",
+        "• Examples:",
+        "  - /kw/: queen, quick, quarter, question, equal, quality, quench, quiet",
+        "",
+        "Pronunciation Guide:",
+        "• /kw/: Back of tongue touches soft palate for /k/, then lips round for /w/",
+        "  - Practice: 'The queen asked a quick question.'",
+        "  - Nigerian context: Often pronounced as /k/ alone - 'queen' as 'keen'",
+        "",
+        "Common Nigerian English Errors:",
+        "• Omission of /w/ after /k/:",
+        "  - 'queen' → 'keen'",
+        "  - 'quick' → 'kick'",
+        "  - 'question' → 'keshun'",
+        "",
+        "• Substitution with vowel sounds:",
+        "  - 'queen' → 'ku-een' (two syllables instead of one)",
+        "  - 'quiet' → 'ku-iet'",
+        "",
+        "Correction Strategies:",
+        "1. Isolate the cluster:",
+        "   • Practice /kw/ without full words",
+        "   • Focus on smooth transition between /k/ and /w/",
+        "",
+        "2. Use minimal pairs:",
+        "   • queen/keen, quick/kick, question/keshun",
+        "   • Highlight the difference in meaning",
+        "",
+        "3. Practice in sentences:",
+        "   • 'The queen asked a quick question about quality.'",
+        "   • 'We need equal quarters for the quiet team.'",
+        "",
+        "4. Record and compare:",
+        "   • Record own pronunciation",
+        "   • Compare with model pronunciation",
+        "   • Identify and correct differences",
+        "",
+        "Practical Activities:",
+        "1. Pronunciation Drill:",
+        "   • Teacher models /kw/ cluster",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on smooth consonant transitions",
+        "",
+        "2. Word Sorting:",
+        "   • Sort words with /kw/ vs /k/ alone",
+        "   • Create word lists for practice",
+        "   • Practice pronunciation of sorted words",
+        "",
+        "3. Sentence Construction:",
+        "   • Use /kw/ words in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct pronunciation errors collaboratively",
+        "",
+        "Nigerian Context:",
+        "• Correct /kw/ pronunciation improves clarity in academic and professional settings",
+        "• Practice with local examples enhances relevance and retention",
+        "• Awareness of common errors helps self-correction and peer support",
+        "",
+        "Conclusion:",
+        "• Consonant clusters with /kw/ require precise articulation",
+        "• Common Nigerian errors involve omission or substitution of /w/",
+        "• Targeted practice with minimal pairs and sentences improves accuracy",
+        "• Clear pronunciation supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue and lip positions for /kw/ cluster",
+        "Chart of /kw/ words with Nigerian pronunciation notes",
+        "Minimal pairs practice: queen/keen, quick/kick, question/keshun",
+        "Nigerian context: Common errors and correction strategies",
+        "Sample sentences with /kw/ words for practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English consonant cluster /kw/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The consonant cluster /kw/ is found in which word?",
+          "opts": [
+            "keen",
+            "queen",
+            "kick",
+            "keshun"
+          ],
+          "ans": 1,
+          "explanation": "'Queen' begins with the /kw/ cluster; 'keen' has /k/, 'kick' has /k/, and 'keshun' is a mispronunciation."
+        },
+        {
+          "q": "In Nigerian English, 'quick' is often mispronounced as:",
+          "opts": [
+            "quick",
+            "kick",
+            "quik",
+            "kwik"
+          ],
+          "ans": 1,
+          "explanation": "The /w/ in /kw/ is often omitted, leading to 'kick' instead of 'quick'."
+        },
+        {
+          "q": "The cluster /kw/ requires the back of the tongue to touch the:",
+          "opts": [
+            "alveolar ridge",
+            "soft palate",
+            "teeth",
+            "lips"
+          ],
+          "ans": 1,
+          "explanation": "For /kw/, the back of the tongue touches the soft palate for /k/, then lips round for /w/."
+        },
+        {
+          "q": "Which word contains the /kw/ cluster?",
+          "opts": [
+            "keen",
+            "quiet",
+            "kick",
+            "keshun"
+          ],
+          "ans": 1,
+          "explanation": "'Quiet' begins with the /kw/ cluster; 'keen' and 'kick' have /k/ alone."
+        },
+        {
+          "q": "A minimal pair for practicing /kw/ vs /k/ is:",
+          "opts": [
+            "queen/keen",
+            "quick/kick",
+            "question/keshun",
+            "All of the above"
+          ],
+          "ans": 3,
+          "explanation": "All options are minimal pairs that help learners distinguish between the cluster and the single consonant."
+        },
+        {
+          "q": "The word 'question' begins with which consonant cluster?",
+          "opts": [
+            "/k/",
+            "/kw/",
+            "/kʃ/",
+            "/kwʃ/"
+          ],
+          "ans": 1,
+          "explanation": "'Question' begins with the /kw/ cluster, though spelling may mislead; pronunciation is /ˈkwes.tʃən/."
+        },
+        {
+          "q": "To correct omission of /w/ in /kw/, learners should:",
+          "opts": [
+            "Ignore the /w/ sound",
+            "Practice smooth transitions between /k/ and /w/",
+            "Replace /w/ with a vowel",
+            "Pronounce only the first consonant"
+          ],
+          "ans": 1,
+          "explanation": "Practicing smooth transitions between /k/ and /w/ helps correct omission errors."
+        },
+        {
+          "q": "Understanding /kw/ is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass pronunciation tests",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading aloud",
+            "Only for listening comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct pronunciation of consonant clusters enhances communication clarity in academic, professional, and international contexts."
+        },
+        {
+          "q": "Which sentence uses /kw/ words correctly?",
+          "opts": [
+            "The keen asked a kick question.",
+            "The queen asked a quick question.",
+            "The keen asked a quick question.",
+            "The queen asked a kick question."
+          ],
+          "ans": 1,
+          "explanation": "'The queen asked a quick question' correctly uses /kw/ words; other options contain pronunciation errors."
+        },
+        {
+          "q": "A common misconception about consonant clusters is:",
+          "opts": [
+            "Clusters require smooth transitions between sounds",
+            "Clusters can be pronounced as single consonants",
+            "Practice improves cluster pronunciation",
+            "Minimal pairs help distinguish clusters"
+          ],
+          "ans": 1,
+          "explanation": "Consonant clusters must be pronounced as clusters, not reduced to single consonants; omission changes word meaning."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w10_su2",
+      "title": "10.2 Vocabulary Development: Words Associated with Religion – Traditional Religion",
+      "notes": [
+        "Vocabulary Development: Traditional Religion",
+        "• Definition: Traditional religion refers to indigenous spiritual beliefs and practices of a culture",
+        "• Importance: Understanding religious vocabulary supports cultural literacy and respectful communication",
+        "",
+        "Key Vocabulary in Traditional Religion:",
+        "1. Places of Worship:",
+        "   • Shrine: A sacred place for rituals and offerings",
+        "   • Grove: A sacred forest or group of trees",
+        "   • Altar: A raised structure for offerings or sacrifices",
+        "   • Nigerian context: 'Oro shrine', 'Igbo oracle grove', 'Yoruba sacred forest'",
+        "",
+        "2. Religious Practitioners:",
+        "   • Priest/Priestess: Mediator between people and deities",
+        "   • Diviner: One who foretells the future or interprets signs",
+        "   • Herbalist: Healer using traditional plants and rituals",
+        "   • Nigerian context: 'Babalawo' (Yoruba diviner), 'Dibia' (Igbo healer), 'Boka' (Hausa spiritualist)",
+        "",
+        "3. Rituals and Practices:",
+        "   • Sacrifice: Offering to deities or ancestors",
+        "   • Libation: Pouring of liquid as a ritual offering",
+        "   • Divination: Seeking knowledge of the future or hidden things",
+        "   • Initiation: Ceremony marking entry into a religious group",
+        "   • Nigerian context: 'Ifa divination', 'Mmanwu masquerade', 'Egungun festival'",
+        "",
+        "4. Spiritual Beings:",
+        "   • Deity/God: A divine being worshipped in traditional religion",
+        "   • Ancestor: Deceased family member believed to influence the living",
+        "   • Spirit: Non-physical being, often associated with nature or ancestors",
+        "   • Nigerian context: 'Sango' (Yoruba deity of thunder), 'Amadioha' (Igbo god of thunder), 'Tulu' (Hausa spirit)",
+        "",
+        "5. Ritual Objects:",
+        "   • Charm/Amulet: Object believed to have protective or magical powers",
+        "   • Talisman: Object inscribed with symbols for protection",
+        "   • Fetish: Object believed to have supernatural powers",
+        "   • Nigerian context: 'Ogbanje charm', 'Aje (witchcraft) talisman', 'Dodo mask'",
+        "",
+        "6. Concepts and Beliefs:",
+        "   • Destiny: Preordained course of life",
+        "   • Taboo: Prohibition based on religious or cultural belief",
+        "   • Purity: Ritual cleanliness required for worship",
+        "   • Nigerian context: 'Ori' (Yoruba concept of destiny), 'Nso' (Igbo taboo), 'Tsarki' (Hausa purity)",
+        "",
+        "Using Traditional Religion Vocabulary in Sentences:",
+        "• 'The babalawo performed Ifa divination to determine the cause of the illness.'",
+        "• 'Libation was poured to honor the ancestors during the festival.'",
+        "• 'The shrine was located in a sacred grove protected by the community.'",
+        "• 'Taboos govern behavior to maintain harmony with the spiritual world.'",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Building:",
+        "   • List words associated with traditional religion",
+        "   • Categorize by place, practitioner, ritual, object, concept",
+        "   • Create sentences using new vocabulary",
+        "",
+        "2. Cultural Exploration:",
+        "   • Research traditional religious practices in students' communities",
+        "   • Share findings in class discussions",
+        "   • Compare practices across ethnic groups",
+        "",
+        "3. Sentence Construction:",
+        "   • Use traditional religion vocabulary in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct errors in word usage and cultural sensitivity",
+        "",
+        "Common Misconceptions:",
+        "• 'Traditional religion is primitive': It is a complex, culturally embedded system of beliefs and practices",
+        "• 'All traditional religions are the same': Practices vary widely across ethnic groups and regions",
+        "• 'Traditional religion is incompatible with modern life': Many practitioners integrate traditional and modern beliefs",
+        "• 'Vocabulary is only for academic study': Understanding religious terms supports respectful intercultural communication",
+        "",
+        "Nigerian Context:",
+        "• Nigeria's diverse traditional religions reflect its rich cultural heritage",
+        "• Understanding vocabulary supports cultural literacy and respectful dialogue",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Traditional religion vocabulary supports cultural literacy and respectful communication",
+        "• Key terms cover places, practitioners, rituals, objects, and concepts",
+        "• Nigerian context enriches learning with local examples and cultural sensitivity",
+        "• Mastery of this vocabulary supports academic success and intercultural understanding"
+      ],
+      "diagramDescriptions": [
+        "Chart of traditional religion vocabulary by category",
+        "Illustration of shrine, altar, and ritual objects",
+        "Diagram of traditional religious practitioners and their roles",
+        "Nigerian context: Examples from Yoruba, Igbo, and Hausa traditions",
+        "Sample sentences using traditional religion vocabulary"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary traditional religion Nigeria SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A 'shrine' in traditional religion is:",
+          "opts": [
+            "A place for secular gatherings",
+            "A sacred place for rituals and offerings",
+            "A market for religious items",
+            "A school for religious education"
+          ],
+          "ans": 1,
+          "explanation": "A shrine is a sacred place dedicated to rituals, offerings, and worship in traditional religion."
+        },
+        {
+          "q": "In Yoruba traditional religion, a 'babalawo' is a:",
+          "opts": [
+            "Farmer",
+            "Diviner",
+            "Warrior",
+            "Trader"
+          ],
+          "ans": 1,
+          "explanation": "A babalawo is a Yoruba diviner who practices Ifa divination to interpret the will of the deities."
+        },
+        {
+          "q": "'Libation' refers to:",
+          "opts": [
+            "A type of sacrifice",
+            "Pouring of liquid as a ritual offering",
+            "A sacred dance",
+            "A religious festival"
+          ],
+          "ans": 1,
+          "explanation": "Libation is the ritual pouring of liquid (often palm wine or water) as an offering to deities or ancestors."
+        },
+        {
+          "q": "Which is a concept in traditional religion?",
+          "opts": [
+            "Destiny",
+            "Democracy",
+            "Technology",
+            "Globalization"
+          ],
+          "ans": 0,
+          "explanation": "Destiny is a key concept in many traditional religions, referring to a preordained course of life."
+        },
+        {
+          "q": "In Nigerian context, 'Ogbanje' refers to:",
+          "opts": [
+            "A type of sacrifice",
+            "A spirit believed to cause repeated child mortality",
+            "A sacred tree",
+            "A religious festival"
+          ],
+          "ans": 1,
+          "explanation": "Ogbanje is a spirit in Igbo traditional belief believed to cause repeated child mortality by dying and being reborn to the same mother."
+        },
+        {
+          "q": "A 'taboo' in traditional religion is:",
+          "opts": [
+            "A religious festival",
+            "A prohibition based on religious or cultural belief",
+            "A type of sacrifice",
+            "A sacred object"
+          ],
+          "ans": 1,
+          "explanation": "A taboo is a prohibition based on religious or cultural belief, often governing behavior to maintain spiritual harmony."
+        },
+        {
+          "q": "Understanding traditional religion vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports cultural literacy and respectful intercultural communication",
+            "Only for academic purposes",
+            "Only for religious studies"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of traditional religion vocabulary supports cultural understanding, respectful dialogue, and intercultural communication in Nigeria's diverse society."
+        },
+        {
+          "q": "Which is a ritual object in traditional religion?",
+          "opts": [
+            "Computer",
+            "Charm or amulet",
+            "Car",
+            "Book"
+          ],
+          "ans": 1,
+          "explanation": "Charms or amulets are objects believed to have protective or magical powers in traditional religion."
+        },
+        {
+          "q": "In Igbo traditional religion, 'Dibia' refers to a:",
+          "opts": [
+            "Farmer",
+            "Healer or herbalist",
+            "Warrior",
+            "Trader"
+          ],
+          "ans": 1,
+          "explanation": "Dibia is an Igbo term for a traditional healer or herbalist who uses plants and rituals for healing."
+        },
+        {
+          "q": "A common misconception about traditional religion is:",
+          "opts": [
+            "It is a complex, culturally embedded system",
+            "It is primitive and incompatible with modern life",
+            "Practices vary across ethnic groups",
+            "Vocabulary supports cultural literacy"
+          ],
+          "ans": 1,
+          "explanation": "Traditional religion is not primitive; it is a complex system that many practitioners integrate with modern beliefs and practices."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w10_su3",
+      "title": "10.3 Structure: Regular and Irregular Verbs",
+      "notes": [
+        "Structure: Regular and Irregular Verbs",
+        "• Definition: Verbs are words that express actions, events, or states of being",
+        "• Two main types: Regular and Irregular verbs",
+        "",
+        "Regular Verbs:",
+        "• Definition: Verbs that form their past tense and past participle by adding '-ed' or '-d'",
+        "• Examples:",
+        "  - Base: walk, talk, play, study",
+        "  - Past: walked, talked, played, studied",
+        "  - Past Participle: walked, talked, played, studied",
+        "",
+        "• Spelling Rules for Regular Verbs:",
+        "  a) Most verbs: Add '-ed' (walk → walked)",
+        "  b) Verbs ending in 'e': Add '-d' (live → lived)",
+        "  c) Verbs ending in consonant + 'y': Change 'y' to 'i' and add '-ed' (study → studied)",
+        "  d) One-syllable verbs ending in consonant-vowel-consonant: Double final consonant and add '-ed' (stop → stopped)",
+        "",
+        "• Pronunciation of '-ed' Ending:",
+        "  a) /t/ sound after voiceless consonants: walked, talked",
+        "  b) /d/ sound after voiced consonants and vowels: played, lived",
+        "  c) /ɪd/ sound after /t/ or /d/: wanted, needed",
+        "",
+        "Irregular Verbs:",
+        "• Definition: Verbs that do not follow the '-ed' rule for past tense and past participle",
+        "• Examples:",
+        "  - Base: go, eat, write, see",
+        "  - Past: went, ate, wrote, saw",
+        "  - Past Participle: gone, eaten, written, seen",
+        "",
+        "• Patterns in Irregular Verbs:",
+        "  a) No change: cut → cut → cut",
+        "  b) Vowel change: sing → sang → sung",
+        "  c) Complete change: go → went → gone",
+        "  d) Past and past participle same: buy → bought → bought",
+        "",
+        "• Common Irregular Verbs:",
+        "  - be (am/is/are) → was/were → been",
+        "  - have → had → had",
+        "  - do → did → done",
+        "  - say → said → said",
+        "  - make → made → made",
+        "",
+        "Functions of Verb Forms:",
+        "• Base form: Used for present tense (except third person singular)",
+        "  - 'I walk to school.'",
+        "",
+        "• Past simple: Used for completed actions in the past",
+        "  - 'I walked to school yesterday.'",
+        "",
+        "• Past participle: Used in perfect tenses and passive voice",
+        "  - Perfect: 'I have walked to school.'",
+        "  - Passive: 'The book was written by her.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Using regular pattern for irregular verbs",
+        "  - Incorrect: 'I goed to school.'",
+        "  - Correct: 'I went to school.'",
+        "",
+        "• Error: Using past simple instead of past participle",
+        "  - Incorrect: 'I have wrote the letter.'",
+        "  - Correct: 'I have written the letter.'",
+        "",
+        "• Error: Incorrect spelling of '-ed' ending",
+        "  - Incorrect: 'stoped' instead of 'stopped'",
+        "  - Correct: 'stopped' (double final consonant)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'I eated the food.'",
+        "  - Correction: 'I ate the food.'",
+        "",
+        "Practical Activities:",
+        "1. Verb Classification:",
+        "   • Provide lists of verbs for students to classify as regular/irregular",
+        "   • Discuss patterns and exceptions",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using regular and irregular verbs in different tenses",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on verb usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with verb form errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'All verbs add '-ed' for past tense': Many common verbs are irregular",
+        "• 'Irregular verbs are random': Many follow patterns (vowel change, no change, etc.)",
+        "• 'Past participle is the same as past simple': They often differ in irregular verbs",
+        "• 'Spelling rules for '-ed' are unimportant': Correct spelling affects pronunciation and meaning",
+        "",
+        "Nigerian Context:",
+        "• Correct verb usage supports clear communication in academic writing and professional contexts",
+        "• Understanding regular/irregular patterns helps students learn verb forms efficiently",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Regular verbs follow predictable patterns; irregular verbs do not",
+        "• Mastery of verb forms is essential for accurate tense usage",
+        "• Practice with classification, sentence construction, and error correction builds proficiency",
+        "• In Nigeria, correct verb usage supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of regular verb spelling rules with examples",
+        "Chart of irregular verb patterns with examples",
+        "Pronunciation guide for '-ed' endings",
+        "Nigerian context: Sample sentences with correct/incorrect verb usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar regular irregular verbs SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Regular verbs form their past tense by:",
+          "opts": [
+            "Changing the vowel",
+            "Adding '-ed' or '-d'",
+            "Using a completely different word",
+            "Adding '-ing'"
+          ],
+          "ans": 1,
+          "explanation": "Regular verbs form their past tense and past participle by adding '-ed' or '-d' to the base form."
+        },
+        {
+          "q": "Which is an irregular verb?",
+          "opts": [
+            "walk",
+            "talk",
+            "go",
+            "play"
+          ],
+          "ans": 2,
+          "explanation": "'Go' is irregular: go → went → gone; the others are regular: walk → walked, talk → talked, play → played."
+        },
+        {
+          "q": "The past participle of 'write' is:",
+          "opts": [
+            "wrote",
+            "written",
+            "writed",
+            "writing"
+          ],
+          "ans": 1,
+          "explanation": "'Write' is irregular: write → wrote → written; 'written' is the past participle."
+        },
+        {
+          "q": "The '-ed' ending in 'walked' is pronounced as:",
+          "opts": [
+            "/t/",
+            "/d/",
+            "/ɪd/",
+            "/z/"
+          ],
+          "ans": 0,
+          "explanation": "After voiceless consonants like /k/, the '-ed' ending is pronounced /t/: walked /wɔːkt/."
+        },
+        {
+          "q": "Which sentence uses an irregular verb correctly?",
+          "opts": [
+            "I eated the food.",
+            "I ate the food.",
+            "I eated the food.",
+            "I eat the food yesterday."
+          ],
+          "ans": 1,
+          "explanation": "'Ate' is the correct past simple form of 'eat'; 'eated' is incorrect."
+        },
+        {
+          "q": "The past simple of 'study' is:",
+          "opts": [
+            "studyed",
+            "studied",
+            "study",
+            "studying"
+          ],
+          "ans": 1,
+          "explanation": "'Study' is regular; change 'y' to 'i' and add '-ed': studied."
+        },
+        {
+          "q": "In the sentence 'She has written a letter', 'written' is the:",
+          "opts": [
+            "Base form",
+            "Past simple",
+            "Past participle",
+            "Present participle"
+          ],
+          "ans": 2,
+          "explanation": "'Written' is the past participle of 'write', used here in the present perfect tense."
+        },
+        {
+          "q": "Understanding regular and irregular verbs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves accuracy in tense usage and writing clarity",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of verb forms is essential for accurate tense usage, which supports clear writing and speaking in academic and professional contexts."
+        },
+        {
+          "q": "Which verb is regular?",
+          "opts": [
+            "sing",
+            "bring",
+            "walk",
+            "think"
+          ],
+          "ans": 2,
+          "explanation": "'Walk' is regular: walk → walked → walked; the others are irregular: sing → sang → sung, bring → brought → brought, think → thought → thought."
+        },
+        {
+          "q": "A common misconception about irregular verbs is:",
+          "opts": [
+            "They follow predictable patterns",
+            "They are random and must be memorized",
+            "Many follow patterns like vowel change or no change",
+            "They are less common than regular verbs"
+          ],
+          "ans": 1,
+          "explanation": "While irregular verbs do not follow the '-ed' rule, many follow patterns (e.g., vowel change: sing → sang → sung), making them easier to learn."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w10_su4",
+      "title": "10.4 Reading Comprehension: Reading to Make Notes",
+      "notes": [
+        "Reading Comprehension: Making Notes",
+        "• Definition: Note-making is the process of recording key information from a text in a concise, organized form",
+        "• Importance: Notes aid memory, support revision, and facilitate understanding of complex texts",
+        "",
+        "Skills for Effective Note-Making:",
+        "1. Active Reading:",
+        "   • Read with purpose: Identify main ideas and supporting details",
+        "   • Highlight or underline key points",
+        "   • Ask questions: What is the main idea? What evidence supports it?",
+        "",
+        "2. Identifying Key Information:",
+        "   • Focus on topic sentences, headings, and subheadings",
+        "   • Note facts, examples, definitions, and conclusions",
+        "   • Ignore minor details and repetitions",
+        "",
+        "3. Using Abbreviations and Symbols:",
+        "   • Develop a personal system: e.g., 'w/' for 'with', '→' for 'leads to'",
+        "   • Use standard abbreviations: 'e.g.', 'i.e.', 'etc.'",
+        "   • Nigerian context: Use local abbreviations if widely understood",
+        "",
+        "4. Organizing Notes:",
+        "   • Use headings and subheadings to structure information",
+        "   • Use bullet points or numbers for lists",
+        "   • Use indentation to show relationships between ideas",
+        "",
+        "5. Paraphrasing:",
+        "   • Restate information in your own words",
+        "   • Avoid copying long phrases verbatim",
+        "   • Ensure accuracy while simplifying",
+        "",
+        "Formats for Note-Making:",
+        "• Outline Format:",
+        "  - Use Roman numerals, letters, numbers for hierarchy",
+        "  - Example:",
+        "    I. Main Idea",
+        "      A. Supporting point",
+        "        1. Detail",
+        "",
+        "• Cornell Format:",
+        "  - Divide page into notes, cues, and summary sections",
+        "  - Notes: Record key points",
+        "  - Cues: Questions or keywords for review",
+        "  - Summary: Brief overview after reading",
+        "",
+        "• Mind Map:",
+        "  - Central idea in the center",
+        "  - Branches for main points, sub-branches for details",
+        "  - Visual and non-linear",
+        "",
+        "Nigerian Context in Note-Making:",
+        "• Common themes for note-making:",
+        "  - Corruption and governance",
+        "  - Environmental conservation",
+        "  - Education and youth empowerment",
+        "  - Health and disease prevention",
+        "  - Cultural values and modernization",
+        "",
+        "• Cultural considerations:",
+        "  - Use of local examples and proverbs",
+        "  - Sensitivity to ethnic, religious, or political issues",
+        "  - Clarity for diverse Nigerian audiences",
+        "",
+        "Practical Activities:",
+        "1. Note-Making Practice:",
+        "   • Provide short passages on Nigerian issues",
+        "   • Students read and make notes using a chosen format",
+        "   • Compare notes with classmates for completeness and organization",
+        "",
+        "2. Abbreviation Development:",
+        "   • Brainstorm useful abbreviations and symbols",
+        "   • Create a class abbreviation key",
+        "   • Practice using abbreviations in note-making",
+        "",
+        "3. Passage Analysis:",
+        "   • Analyze model notes from passages",
+        "   • Identify effective strategies: highlighting, paraphrasing, organizing",
+        "   • Discuss how notes support understanding and revision",
+        "",
+        "Common Misconceptions:",
+        "• 'Notes must be complete sentences': Notes can be phrases, keywords, or symbols",
+        "• 'More notes are better': Quality and relevance matter more than quantity",
+        "• 'Notes are only for revision': They also aid initial understanding and critical thinking",
+        "• 'Copying text is note-making': Effective notes paraphrase and organize, not copy verbatim",
+        "",
+        "Nigerian Context:",
+        "• Note-making skills support academic success in Nigerian schools and universities",
+        "• Understanding local themes enhances relevance and application",
+        "• Practice with Nigerian examples builds confidence and critical thinking",
+        "",
+        "Conclusion:",
+        "• Note-making is a critical skill for academic and professional success",
+        "• Effective notes are concise, organized, and paraphrased",
+        "• Formats include outline, Cornell, and mind map",
+        "• Nigerian context enriches learning with local themes and cultural considerations",
+        "• Mastery of note-making supports independent learning and critical thinking"
+      ],
+      "diagramDescriptions": [
+        "Chart of note-making skills: active reading, key information, abbreviations, organization, paraphrasing",
+        "Examples of note formats: outline, Cornell, mind map",
+        "Sample passage with highlighted key points and model notes",
+        "Nigerian context: Note-making on local issues (corruption, environment, education)",
+        "Abbreviation key with common symbols and local abbreviations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English reading comprehension note-making SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Note-making is primarily used to:",
+          "opts": [
+            "Copy text verbatim",
+            "Record key information in a concise, organized form",
+            "Write long summaries",
+            "Avoid reading the text"
+          ],
+          "ans": 1,
+          "explanation": "Note-making involves recording key information concisely and in an organized way to aid memory and understanding."
+        },
+        {
+          "q": "An effective note-making strategy is to:",
+          "opts": [
+            "Copy long phrases from the text",
+            "Paraphrase information in your own words",
+            "Include every detail from the passage",
+            "Ignore the main ideas"
+          ],
+          "ans": 1,
+          "explanation": "Paraphrasing in your own words ensures understanding and avoids plagiarism; notes should focus on key points, not every detail."
+        },
+        {
+          "q": "Which format uses headings, subheadings, and indentation?",
+          "opts": [
+            "Cornell format",
+            "Outline format",
+            "Mind map",
+            "Paragraph format"
+          ],
+          "ans": 1,
+          "explanation": "Outline format uses a hierarchical structure with headings, subheadings, and indentation to show relationships between ideas."
+        },
+        {
+          "q": "In note-making, abbreviations are used to:",
+          "opts": [
+            "Make notes longer",
+            "Save time and space",
+            "Confuse the reader",
+            "Replace all words"
+          ],
+          "ans": 1,
+          "explanation": "Abbreviations help save time and space in notes, making them more concise and efficient to review."
+        },
+        {
+          "q": "A common error in note-making is:",
+          "opts": [
+            "Using abbreviations",
+            "Copying text verbatim",
+            "Paraphrasing",
+            "Organizing with headings"
+          ],
+          "ans": 1,
+          "explanation": "Copying text verbatim is ineffective note-making; notes should paraphrase and organize key information."
+        },
+        {
+          "q": "In Nigerian context, a note on corruption might include:",
+          "opts": [
+            "Only global examples",
+            "Local examples like 'EFCC', 'budget padding', 'contract inflation'",
+            "Only theoretical definitions",
+            "No examples"
+          ],
+          "ans": 1,
+          "explanation": "Notes on corruption in Nigerian context should include local examples like EFCC (Economic and Financial Crimes Commission), budget padding, or contract inflation."
+        },
+        {
+          "q": "The Cornell note-taking format includes sections for:",
+          "opts": [
+            "Only notes",
+            "Notes, cues, and summary",
+            "Only headings",
+            "Only bullet points"
+          ],
+          "ans": 1,
+          "explanation": "The Cornell format divides the page into notes (key points), cues (questions/keywords), and summary (brief overview)."
+        },
+        {
+          "q": "Understanding note-making is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, independent learning, and critical thinking",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Note-making skills support academic success, independent learning, and critical thinking in Nigerian educational and professional contexts."
+        },
+        {
+          "q": "Which is NOT a characteristic of effective notes?",
+          "opts": [
+            "Concise",
+            "Organized",
+            "Copied verbatim",
+            "Paraphrased"
+          ],
+          "ans": 2,
+          "explanation": "Effective notes are concise, organized, and paraphrased; copying verbatim is ineffective and may constitute plagiarism."
+        },
+        {
+          "q": "A common misconception about note-making is:",
+          "opts": [
+            "Notes must be complete sentences",
+            "Notes can be phrases or keywords",
+            "Notes aid memory and revision",
+            "Notes should focus on key information"
+          ],
+          "ans": 0,
+          "explanation": "Notes do not need to be complete sentences; they can be phrases, keywords, or symbols for efficiency."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Speech, Structure, Comprehension, Summary",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w7_su1",
+      "title": "7.1 Speech: Words of Two Syllables Stressed on the Second Syllable",
+      "notes": [
+        "Word Stress: Two-Syllable Words with Stress on Second Syllable",
+        "• Definition: Word stress is the emphasis placed on a particular syllable in a word",
+        "• Importance: Correct stress improves pronunciation, clarity, and intelligibility",
+        "",
+        "Target Pattern: /-ˈ-/",
+        "• Words with stress on the second syllable:",
+        "  - enjoy, impound, engulf, inform, incite, employ, invite, welcome, excite, divide",
+        "",
+        "Pronunciation Guide:",
+        "• First syllable: Unstressed, shorter, softer",
+        "• Second syllable: Stressed, longer, louder, higher pitch",
+        "• Practice: 'We enjoy listening to our teacher.'",
+        "  - 'en-JOY' (stress on 'JOY')",
+        "",
+        "• Common Nigerian English Errors:",
+        "  - Equal stress on both syllables: 'en-joy' instead of 'en-JOY'",
+        "  - Stress on first syllable: 'EN-joy' instead of 'en-JOY'",
+        "  - Substitution of vowel sounds in unstressed syllables",
+        "",
+        "Correction Strategies:",
+        "1. Isolate the stress pattern:",
+        "   • Practice saying words with clapping or tapping on stressed syllable",
+        "   • Use visual cues: underline stressed syllable",
+        "",
+        "2. Use minimal pairs:",
+        "   • 'enjoy' vs 'EN-joy' (incorrect)",
+        "   • Highlight difference in meaning or intelligibility",
+        "",
+        "3. Practice in sentences:",
+        "   • 'I will invite all my classmates.' (in-VITE)",
+        "   • 'It is not good to incite people against others.' (in-CITE)",
+        "",
+        "4. Record and compare:",
+        "   • Record own pronunciation",
+        "   • Compare with model pronunciation",
+        "   • Identify and correct stress errors",
+        "",
+        "Practical Activities:",
+        "1. Pronunciation Drill:",
+        "   • Teacher models words with second-syllable stress",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on stress pattern, not just sounds",
+        "",
+        "2. Word Sorting:",
+        "   • Sort words by stress pattern (first vs second syllable)",
+        "   • Create word lists for each pattern",
+        "   • Practice pronunciation of sorted words",
+        "",
+        "3. Sentence Construction:",
+        "   • Use target words in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct stress errors collaboratively",
+        "",
+        "Nigerian Context:",
+        "• Correct word stress improves clarity in academic presentations, professional communication, and media",
+        "• Practice with local examples enhances relevance and retention",
+        "• Awareness of common errors helps self-correction and peer support",
+        "",
+        "Conclusion:",
+        "• Word stress is crucial for clear pronunciation and intelligibility",
+        "• Two-syllable words with stress on second syllable follow a specific pattern",
+        "• Common Nigerian errors involve equal stress or first-syllable stress",
+        "• Targeted practice with minimal pairs and sentences improves accuracy",
+        "• Clear pronunciation supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing stress pattern: unstressed-stressed (/ - ˈ /)",
+        "Chart of two-syllable words with second-syllable stress",
+        "Minimal pairs practice: enjoy/EN-joy, invite/IN-vite",
+        "Nigerian context: Common stress errors and correction strategies",
+        "Sample sentences with target words for practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English word stress two syllables second syllable SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Word stress refers to:",
+          "opts": [
+            "The volume of a word",
+            "The emphasis placed on a particular syllable",
+            "The speed of speaking",
+            "The pitch of the voice"
+          ],
+          "ans": 1,
+          "explanation": "Word stress is the emphasis or prominence given to a specific syllable within a word."
+        },
+        {
+          "q": "In the word 'enjoy', the stress is on the:",
+          "opts": [
+            "First syllable",
+            "Second syllable",
+            "Both syllables equally",
+            "No syllable is stressed"
+          ],
+          "ans": 1,
+          "explanation": "'Enjoy' has stress on the second syllable: en-JOY."
+        },
+        {
+          "q": "A common Nigerian English error with two-syllable words is:",
+          "opts": [
+            "Correct stress placement",
+            "Equal stress on both syllables",
+            "Omitting syllables",
+            "Adding extra syllables"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian English speakers often place equal stress on both syllables instead of stressing the correct syllable."
+        },
+        {
+          "q": "Which word has stress on the second syllable?",
+          "opts": [
+            "table",
+            "inform",
+            "happy",
+            "water"
+          ],
+          "ans": 1,
+          "explanation": "'Inform' has stress on the second syllable: in-FORM; the others have stress on the first syllable."
+        },
+        {
+          "q": "To practice word stress, learners can:",
+          "opts": [
+            "Ignore stress patterns",
+            "Clap or tap on the stressed syllable",
+            "Speak only in whispers",
+            "Read without speaking"
+          ],
+          "ans": 1,
+          "explanation": "Clapping or tapping on the stressed syllable helps learners internalize stress patterns."
+        },
+        {
+          "q": "A minimal pair for practicing stress is:",
+          "opts": [
+            "enjoy/EN-joy",
+            "table/tables",
+            "happy/happier",
+            "water/watered"
+          ],
+          "ans": 0,
+          "explanation": "Minimal pairs like 'enjoy/EN-joy' help learners distinguish between correct and incorrect stress patterns."
+        },
+        {
+          "q": "In the sentence 'I will invite all my classmates', 'invite' is stressed on the:",
+          "opts": [
+            "First syllable",
+            "Second syllable",
+            "Both syllables",
+            "No syllable"
+          ],
+          "ans": 1,
+          "explanation": "'Invite' has stress on the second syllable: in-VITE."
+        },
+        {
+          "q": "Understanding word stress is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass pronunciation tests",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading aloud",
+            "Only for listening comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct word stress enhances communication clarity in academic, professional, and international contexts."
+        },
+        {
+          "q": "Which sentence uses correct stress on 'excite'?",
+          "opts": [
+            "The news will EX-cite everyone.",
+            "The news will ex-CITE everyone.",
+            "The news will excite everyone.",
+            "The news will excite everyone."
+          ],
+          "ans": 1,
+          "explanation": "'Excite' has stress on the second syllable: ex-CITE."
+        },
+        {
+          "q": "A common misconception about word stress is:",
+          "opts": [
+            "Stress affects word meaning and intelligibility",
+            "All syllables should be stressed equally",
+            "Stress patterns vary by word",
+            "Practice improves stress placement"
+          ],
+          "ans": 1,
+          "explanation": "Not all syllables are stressed equally; correct stress placement is crucial for clear pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w7_su2",
+      "title": "7.2 Structure: Possessive Pronouns",
+      "notes": [
+        "Structure: Possessive Pronouns",
+        "• Definition: Possessive pronouns show ownership or possession without a following noun",
+        "• List of Possessive Pronouns: mine, yours, his, hers, its, ours, theirs",
+        "",
+        "Functions of Possessive Pronouns:",
+        "• Replace noun phrases to avoid repetition:",
+        "  - 'This book is mine.' (instead of 'This book is my book.')",
+        "  - 'That car is theirs.' (instead of 'That car is their car.')",
+        "",
+        "• Indicate ownership clearly:",
+        "  - 'The decision is hers.'",
+        "  - 'The victory is ours.'",
+        "",
+        "Usage Rules:",
+        "• Do not use an apostrophe with possessive pronouns:",
+        "  - Correct: 'The book is hers.'",
+        "  - Incorrect: 'The book is her's.'",
+        "",
+        "• 'Its' vs 'It's':",
+        "  - 'Its' is possessive: 'The dog wagged its tail.'",
+        "  - 'It's' is a contraction of 'it is' or 'it has': 'It's raining.'",
+        "",
+        "• Position in sentences:",
+        "  - Can be subject: 'Mine is the red car.'",
+        "  - Can be object: 'She chose hers.'",
+        "  - Can follow prepositions: 'The fault is not yours.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Using apostrophe with possessive pronouns",
+        "  - Incorrect: 'The book is her's.'",
+        "  - Correct: 'The book is hers.'",
+        "",
+        "• Error: Confusing 'its' and 'it's'",
+        "  - Incorrect: 'The cat licked it's paw.'",
+        "  - Correct: 'The cat licked its paw.'",
+        "",
+        "• Error: Using possessive adjective instead of pronoun",
+        "  - Incorrect: 'This is my.'",
+        "  - Correct: 'This is mine.'",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'The house is their's.'",
+        "  - Correction: 'The house is theirs.'",
+        "",
+        "Practical Activities:",
+        "1. Pronoun Identification:",
+        "   • Provide sentences for students to identify possessive pronouns",
+        "   • Discuss the function of each pronoun in context",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using possessive pronouns correctly",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on pronoun usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with possessive pronoun errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'Possessive pronouns need apostrophes': They never take apostrophes",
+        "• 'Its' always has an apostrophe: 'Its' is possessive; 'it's' is a contraction",
+        "• 'Possessive pronouns always follow nouns': They can be subjects, objects, or follow prepositions",
+        "• 'Possessive pronouns and adjectives are the same': Adjectives modify nouns; pronouns replace them",
+        "",
+        "Nigerian Context:",
+        "• Correct possessive pronoun usage supports clear communication in academic writing and professional contexts",
+        "• Understanding pronoun functions helps students construct accurate, concise sentences",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Possessive pronouns show ownership without a following noun",
+        "• Common possessive pronouns include mine, yours, his, hers, its, ours, theirs",
+        "• Correct usage avoids apostrophes and distinguishes 'its' from 'it's'",
+        "• Mastery improves sentence conciseness, writing clarity, and grammatical accuracy"
+      ],
+      "diagramDescriptions": [
+        "Chart of possessive pronouns with examples and functions",
+        "Flowchart for choosing between possessive adjectives and pronouns",
+        "Comparison of 'its' vs 'it's' with examples",
+        "Nigerian context: Sample sentences with correct/incorrect possessive pronoun usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar possessive pronouns SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Possessive pronouns are used to:",
+          "opts": [
+            "Modify nouns",
+            "Show ownership without a following noun",
+            "Connect clauses",
+            "Indicate time"
+          ],
+          "ans": 1,
+          "explanation": "Possessive pronouns replace noun phrases to show ownership without repeating the noun."
+        },
+        {
+          "q": "Which of the following is a possessive pronoun?",
+          "opts": [
+            "my",
+            "mine",
+            "me",
+            "I"
+          ],
+          "ans": 1,
+          "explanation": "'Mine' is a possessive pronoun; 'my' is a possessive adjective, 'me' is an object pronoun, 'I' is a subject pronoun."
+        },
+        {
+          "q": "Which sentence uses a possessive pronoun correctly?",
+          "opts": [
+            "This book is her's.",
+            "This book is hers.",
+            "This book is her.",
+            "This book is she's."
+          ],
+          "ans": 1,
+          "explanation": "'Hers' is the correct possessive pronoun; possessive pronouns do not take apostrophes."
+        },
+        {
+          "q": "The difference between 'its' and 'it's' is that:",
+          "opts": [
+            "'Its' is a contraction; 'it's' is possessive",
+            "'Its' is possessive; 'it's' is a contraction",
+            "They are interchangeable",
+            "'Its' is for people; 'it's' is for things"
+          ],
+          "ans": 1,
+          "explanation": "'Its' is the possessive form; 'it's' is a contraction of 'it is' or 'it has'."
+        },
+        {
+          "q": "In the sentence 'The decision is hers', 'hers' functions as:",
+          "opts": [
+            "Subject",
+            "Object",
+            "Complement",
+            "Adjective"
+          ],
+          "ans": 2,
+          "explanation": "'Hers' is a complement that completes the meaning of the verb 'is'."
+        },
+        {
+          "q": "Which is a common error with possessive pronouns?",
+          "opts": [
+            "Using them to replace nouns",
+            "Adding an apostrophe",
+            "Using them as subjects",
+            "Using them after prepositions"
+          ],
+          "ans": 1,
+          "explanation": "A common error is adding an apostrophe to possessive pronouns (e.g., 'her's' instead of 'hers')."
+        },
+        {
+          "q": "In Nigerian context, which is correct?",
+          "opts": [
+            "The house is their's.",
+            "The house is theirs.",
+            "The house is their.",
+            "The house is they're."
+          ],
+          "ans": 1,
+          "explanation": "'Theirs' is the correct possessive pronoun; it does not take an apostrophe."
+        },
+        {
+          "q": "Understanding possessive pronouns is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves sentence conciseness and writing clarity in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of possessive pronouns enables students to write concisely and clearly, which is essential for academic and professional communication in Nigeria."
+        },
+        {
+          "q": "Which sentence uses 'its' correctly?",
+          "opts": [
+            "The cat licked it's paw.",
+            "The cat licked its paw.",
+            "The cat licked its' paw.",
+            "The cat licked it is paw."
+          ],
+          "ans": 1,
+          "explanation": "'Its' is the possessive form; 'it's' is a contraction of 'it is' or 'it has'."
+        },
+        {
+          "q": "A common misconception about possessive pronouns is:",
+          "opts": [
+            "They never take apostrophes",
+            "They always need apostrophes",
+            "They can replace noun phrases",
+            "They include mine, yours, his, hers"
+          ],
+          "ans": 1,
+          "explanation": "Possessive pronouns never take apostrophes; adding an apostrophe is a common error."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w7_su3",
+      "title": "7.3 Comprehension: Reading to Comprehend Word Meaning Through Context",
+      "notes": [
+        "Comprehension: Word Meaning Through Context",
+        "• Definition: Using surrounding words and sentences to determine the meaning of unfamiliar words",
+        "• Importance: Enables readers to understand texts without constant dictionary use",
+        "",
+        "Types of Context Clues:",
+        "1. Definition Clues:",
+        "   • The text directly defines the word",
+        "   • Signal words: is, means, refers to, that is",
+        "   • Example: 'Arable land, that is, land suitable for farming, is scarce in Lagos.'",
+        "",
+        "2. Example Clues:",
+        "   • The text provides examples that illustrate the word",
+        "   • Signal words: such as, for example, including, like",
+        "   • Example: 'Legumes, such as cowpea, groundnut, and soybean, fix nitrogen in soil.'",
+        "",
+        "3. Synonym Clues:",
+        "   • The text uses a word with similar meaning nearby",
+        "   • Signal words: or, also known as, similarly",
+        "   • Example: 'The arid region, or dry area, received little rain.'",
+        "",
+        "4. Antonym Clues:",
+        "   • The text uses a word with opposite meaning",
+        "   • Signal words: but, however, unlike, whereas",
+        "   • Example: 'Unlike the fertile south, the arid north has poor soil.'",
+        "",
+        "5. Inference Clues:",
+        "   • The meaning must be inferred from the overall context",
+        "   • No direct signal words; requires logical reasoning",
+        "   • Example: 'The farmer's grim face suggested a poor harvest.' (infer 'grim' means sad or worried)",
+        "",
+        "Steps for Using Context Clues:",
+        "1. Read the sentence containing the unknown word",
+        "   • Note the word and its immediate context",
+        "",
+        "2. Look for signal words or phrases",
+        "   • Identify definition, example, synonym, or antonym clues",
+        "",
+        "3. Consider the broader context",
+        "   • Read surrounding sentences for additional clues",
+        "",
+        "4. Make an educated guess",
+        "   • Infer the meaning based on clues",
+        "",
+        "5. Verify with dictionary if needed",
+        "   • Confirm or adjust your inferred meaning",
+        "",
+        "Nigerian Context in Comprehension Passages:",
+        "• Common themes:",
+        "  - Agriculture and food security",
+        "  - Environmental conservation",
+        "  - Education and youth development",
+        "  - Health and disease prevention",
+        "  - Cultural values and modern challenges",
+        "",
+        "• Cultural references:",
+        "  - Local crops, animals, and farming practices",
+        "  - Traditional values and proverbs",
+        "  - Urban-rural dynamics",
+        "  - Religious and ethnic diversity",
+        "",
+        "Practical Activities:",
+        "1. Context Clue Identification:",
+        "   • Provide passages with underlined unfamiliar words",
+        "   • Students identify type of context clue and infer meaning",
+        "   • Discuss inferences and verify with dictionary",
+        "",
+        "2. Vocabulary in Context:",
+        "   • Use Nigerian-themed passages on agriculture, environment, or culture",
+        "   • Highlight key words and practice inference",
+        "   • Create sentences using inferred meanings",
+        "",
+        "3. Peer Discussion:",
+        "   • Work in pairs or small groups to infer word meanings",
+        "   • Share and compare inferences",
+        "   • Clarify misunderstandings through dialogue",
+        "",
+        "Common Misconceptions:",
+        "• 'Context clues always give exact definitions': They often provide approximate meanings; dictionary verification is still valuable",
+        "• 'Only difficult words need context clues': Even familiar words can have multiple meanings clarified by context",
+        "• 'Context clues are only for reading': They are also useful in listening and speaking",
+        "• 'Inference is guessing': Inference is logical reasoning based on textual evidence, not random guessing",
+        "",
+        "Nigerian Context:",
+        "• Context clue skills enable students to engage with Nigerian media, policies, and literature",
+        "• Understanding local vocabulary supports comprehension of culturally relevant texts",
+        "• Practice with Nigerian examples builds confidence and critical thinking",
+        "",
+        "Conclusion:",
+        "• Context clues are essential for determining word meaning without constant dictionary use",
+        "• Types include definition, example, synonym, antonym, and inference clues",
+        "• Steps involve reading, identifying clues, inferring, and verifying",
+        "• Nigerian context enhances relevance and application of comprehension skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of context clue types with Nigerian examples",
+        "Flowchart of steps for using context clues",
+        "Sample passage with highlighted context clues",
+        "Nigerian context: Vocabulary related to agriculture, environment, culture",
+        "Inference practice exercise with local themes"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension context clues vocabulary SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Context clues help readers to:",
+          "opts": [
+            "Skip unfamiliar words",
+            "Determine word meaning from surrounding text",
+            "Memorize dictionary definitions",
+            "Ignore sentence structure"
+          ],
+          "ans": 1,
+          "explanation": "Context clues allow readers to infer the meaning of unfamiliar words based on the surrounding text."
+        },
+        {
+          "q": "Which signal word often introduces a definition clue?",
+          "opts": [
+            "however",
+            "means",
+            "but",
+            "unlike"
+          ],
+          "ans": 1,
+          "explanation": "'Means' often signals a definition clue; 'however' and 'but' signal contrast, 'unlike' signals antonym."
+        },
+        {
+          "q": "In the sentence 'Legumes, such as cowpea, groundnut, and soybean, fix nitrogen in soil', 'such as' introduces:",
+          "opts": [
+            "A definition",
+            "An example",
+            "A synonym",
+            "An antonym"
+          ],
+          "ans": 1,
+          "explanation": "'Such as' introduces examples that illustrate the meaning of 'legumes'."
+        },
+        {
+          "q": "An antonym clue is signaled by words like:",
+          "opts": [
+            "for example",
+            "but",
+            "means",
+            "including"
+          ],
+          "ans": 1,
+          "explanation": "'But' signals contrast, often introducing an antonym clue; 'for example' introduces examples, 'means' introduces definitions."
+        },
+        {
+          "q": "Inference clues require the reader to:",
+          "opts": [
+            "Find a direct definition",
+            "Use logical reasoning based on context",
+            "Look up the word immediately",
+            "Ignore the surrounding text"
+          ],
+          "ans": 1,
+          "explanation": "Inference clues require readers to use logical reasoning based on the overall context to infer word meaning."
+        },
+        {
+          "q": "In Nigerian context, a passage on agriculture might include words like:",
+          "opts": [
+            "spaceship, asteroid, orbit",
+            "cassava, yam, fertilizer, harvest",
+            "computer, software, algorithm",
+            "ocean, tide, coral, reef"
+          ],
+          "ans": 1,
+          "explanation": "Agricultural passages in Nigerian context often include words like cassava, yam, fertilizer, and harvest."
+        },
+        {
+          "q": "The first step in using context clues is to:",
+          "opts": [
+            "Look up the word in a dictionary",
+            "Read the sentence containing the unknown word",
+            "Skip the word and continue reading",
+            "Ask someone for the meaning"
+          ],
+          "ans": 1,
+          "explanation": "The first step is to read the sentence containing the unknown word to gather immediate context."
+        },
+        {
+          "q": "Understanding context clues is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Enables independent reading and comprehension of diverse texts",
+            "Only for vocabulary tests",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Context clue skills support independent reading, critical thinking, and comprehension of academic, media, and cultural texts in Nigeria."
+        },
+        {
+          "q": "Which is NOT a type of context clue?",
+          "opts": [
+            "Definition",
+            "Example",
+            "Spelling",
+            "Synonym"
+          ],
+          "ans": 2,
+          "explanation": "Spelling is not a type of context clue; definition, example, synonym, antonym, and inference are common types."
+        },
+        {
+          "q": "A common misconception about context clues is:",
+          "opts": [
+            "They always give exact definitions",
+            "They provide approximate meanings that may need verification",
+            "They help readers infer word meaning",
+            "They are useful in reading and listening"
+          ],
+          "ans": 0,
+          "explanation": "Context clues often provide approximate meanings; dictionary verification is still valuable for precise understanding."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w7_su4",
+      "title": "7.4 Summary: Reading to Assign a Title or Heading Relevant to Context",
+      "notes": [
+        "Summary: Assigning Titles or Headings",
+        "• Definition: Creating a concise, relevant title or heading that captures the main idea of a passage",
+        "• Importance: Titles guide readers, summarize content, and aid in organization and recall",
+        "",
+        "Characteristics of Effective Titles/Headings:",
+        "1. Concise:",
+        "   • Brief and to the point",
+        "   • Avoid unnecessary words",
+        "   • Example: 'Corruption Undermines Development' instead of 'The Negative Effects of Corruption on National Development in Nigeria'",
+        "",
+        "2. Relevant:",
+        "   • Directly related to the main idea",
+        "   • Reflects the passage's focus",
+        "   • Example: 'Youth Unemployment and Restiveness' for a passage on joblessness and social unrest",
+        "",
+        "3. Informative:",
+        "   • Gives readers a clear idea of the content",
+        "   • Avoids vague or misleading terms",
+        "   • Example: 'Environmental Pollution in Lagos' instead of 'A Problem in the City'",
+        "",
+        "4. Engaging:",
+        "   • Captures reader's interest",
+        "   • May use questions, alliteration, or strong verbs",
+        "   • Example: 'Can Education Curb Corruption?' instead of 'Education and Corruption'",
+        "",
+        "Steps for Assigning Titles/Headings:",
+        "1. Read the passage carefully:",
+        "   • Identify the main idea and key points",
+        "   • Note the author's purpose and tone",
+        "",
+        "2. Identify the central theme:",
+        "   • What is the passage mainly about?",
+        "   • What message does the author convey?",
+        "",
+        "3. Brainstorm possible titles:",
+        "   • Generate several options based on the main idea",
+        "   • Consider different angles: descriptive, question, provocative",
+        "",
+        "4. Select the best title:",
+        "   • Choose the most concise, relevant, informative, and engaging option",
+        "   • Ensure it accurately reflects the passage",
+        "",
+        "5. Refine if necessary:",
+        "   • Adjust wording for clarity, impact, or brevity",
+        "",
+        "Nigerian Context in Title Assignment:",
+        "• Common themes for titles:",
+        "  - Corruption and governance",
+        "  - Environmental conservation",
+        "  - Education and youth empowerment",
+        "  - Health and disease prevention",
+        "  - Cultural values and modernization",
+        "",
+        "• Cultural considerations:",
+        "  - Use of local proverbs or idioms (if appropriate)",
+        "  - Sensitivity to ethnic, religious, or political issues",
+        "  - Clarity for diverse Nigerian audiences",
+        "",
+        "Practical Activities:",
+        "1. Title Generation:",
+        "   • Provide short passages on Nigerian issues",
+        "   • Students brainstorm and propose titles",
+        "   • Discuss and select the most effective title",
+        "",
+        "2. Title Evaluation:",
+        "   • Provide passages with multiple title options",
+        "   • Students evaluate titles based on conciseness, relevance, informativeness, engagement",
+        "   • Justify choices with evidence from the passage",
+        "",
+        "3. Passage Analysis:",
+        "   • Analyze model passages and their titles",
+        "   • Identify how titles capture main ideas",
+        "   • Discuss effectiveness of different title styles",
+        "",
+        "Common Misconceptions:",
+        "• 'Titles must be long to be descriptive': Conciseness is key; effective titles are brief yet informative",
+        "• 'Any relevant title is acceptable': Titles should also be engaging and accurately reflect the passage",
+        "• 'Titles are only for essays': Headings are used in reports, articles, presentations, and more",
+        "• 'Titles can be vague': Effective titles are specific and informative, not vague or misleading",
+        "",
+        "Nigerian Context:",
+        "• Title assignment skills support academic writing, media literacy, and professional communication in Nigeria",
+        "• Understanding local themes enhances relevance and cultural appropriateness of titles",
+        "• Practice with Nigerian examples builds confidence and critical thinking",
+        "",
+        "Conclusion:",
+        "• Effective titles are concise, relevant, informative, and engaging",
+        "• Steps include reading, identifying main ideas, brainstorming, selecting, and refining",
+        "• Nigerian context enriches learning with local themes and cultural considerations",
+        "• Mastery of title assignment supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of title characteristics: concise, relevant, informative, engaging",
+        "Flowchart of steps for assigning titles/headings",
+        "Sample passages with multiple title options for evaluation",
+        "Nigerian context: Sample titles on local issues (corruption, environment, education)",
+        "Title refinement exercise with before/after examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English summary writing titles headings SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "An effective title should be:",
+          "opts": [
+            "Long and detailed",
+            "Concise, relevant, informative, and engaging",
+            "Vague and general",
+            "Only descriptive"
+          ],
+          "ans": 1,
+          "explanation": "Effective titles are concise, relevant, informative, and engaging; they capture the main idea without unnecessary words."
+        },
+        {
+          "q": "The first step in assigning a title is to:",
+          "opts": [
+            "Brainstorm possible titles",
+            "Read the passage carefully",
+            "Select the best title",
+            "Refine the wording"
+          ],
+          "ans": 1,
+          "explanation": "Reading the passage carefully is the first step to identify the main idea and key points before generating titles."
+        },
+        {
+          "q": "A title like 'Corruption Undermines Development' is effective because it is:",
+          "opts": [
+            "Long and detailed",
+            "Concise and relevant",
+            "Vague and general",
+            "Only descriptive"
+          ],
+          "ans": 1,
+          "explanation": "'Corruption Undermines Development' is concise and directly relevant to a passage on corruption's effects."
+        },
+        {
+          "q": "Which title is most engaging for a passage on youth unemployment?",
+          "opts": [
+            "Unemployment",
+            "Youth Joblessness in Nigeria",
+            "Can Education Curb Youth Unemployment?",
+            "A Problem in Society"
+          ],
+          "ans": 2,
+          "explanation": "'Can Education Curb Youth Unemployment?' is engaging because it poses a question that invites reader interest."
+        },
+        {
+          "q": "In Nigerian context, a title on environmental issues might include:",
+          "opts": [
+            "Global warming and polar ice caps",
+            "Deforestation and erosion in the Niger Delta",
+            "Space exploration and climate",
+            "Ocean currents and marine life"
+          ],
+          "ans": 1,
+          "explanation": "A title on environmental issues in Nigerian context would focus on local issues like deforestation and erosion in the Niger Delta."
+        },
+        {
+          "q": "A title should avoid being:",
+          "opts": [
+            "Concise",
+            "Relevant",
+            "Vague or misleading",
+            "Informative"
+          ],
+          "ans": 2,
+          "explanation": "Effective titles avoid vagueness or misleading terms; they should be clear, relevant, and informative."
+        },
+        {
+          "q": "The step of 'refining' a title involves:",
+          "opts": [
+            "Choosing the first idea that comes to mind",
+            "Adjusting wording for clarity, impact, or brevity",
+            "Ignoring the passage content",
+            "Making the title longer"
+          ],
+          "ans": 1,
+          "explanation": "Refining involves adjusting wording to improve clarity, impact, or brevity while maintaining relevance."
+        },
+        {
+          "q": "Understanding title assignment is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic writing, media literacy, and professional communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Title assignment skills support effective communication in academic, media, and professional contexts in Nigeria."
+        },
+        {
+          "q": "Which is NOT a characteristic of an effective title?",
+          "opts": [
+            "Concise",
+            "Relevant",
+            "Vague",
+            "Engaging"
+          ],
+          "ans": 2,
+          "explanation": "Effective titles are concise, relevant, informative, and engaging; vagueness reduces effectiveness."
+        },
+        {
+          "q": "A common misconception about titles is:",
+          "opts": [
+            "Titles must be concise",
+            "Titles can be vague and still effective",
+            "Titles should reflect the main idea",
+            "Titles can be engaging"
+          ],
+          "ans": 1,
+          "explanation": "Effective titles should not be vague; they must be specific, relevant, and informative to guide readers accurately."
+        }
+      ]
+    }
+  ]
+}

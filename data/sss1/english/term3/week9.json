@@ -1,0 +1,620 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 9,
+  "topic": "Speech, Structure, Comprehension, Vocabulary, Continuous Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w9_su1",
+      "title": "9.1 Speech: Listening to Identify a Speakers Style",
+      "notes": [
+        "Listening to Identify a Speakers Style:",
+        "",
+        "Key Points:",
+        "1. Recorded material be handy here",
+        "2. Students can read and others identify the speakers style.",
+        "",
+        "Activities:",
+        "1. Teacher guides students to understand style",
+        "2. Instruct on figures of speech",
+        "",
+        "Types of Speaking Styles:",
+        "- Expository: explains or informs",
+        "- Narrative: tells a story",
+        "- Descriptive: paints a picture with words",
+        "- Argumentative: persuades with logic and evidence",
+        "",
+        "Identifying Style Features:",
+        "- Word choice (formal/informal)",
+        "- Sentence structure (simple/complex)",
+        "- Use of figurative language",
+        "- Tone and voice",
+        "- Organization and flow"
+      ],
+      "diagramDescriptions": [
+        "Chart of speaking style types with examples",
+        "Diagram of style features to identify",
+        "Sample passages showing different styles",
+        "Flowchart for analyzing speakers style"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English listening speakers style identification SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Expository style primarily aims to:",
+          "opts": [
+            "Tell a story",
+            "Explain or inform",
+            "Persuade with emotion",
+            "Describe with sensory details"
+          ],
+          "ans": 1,
+          "explanation": "Expository style explains or informs using facts, definitions, and logical organization."
+        },
+        {
+          "q": "Narrative style is characterized by:",
+          "opts": [
+            "Explaining facts",
+            "Telling a story with characters and plot",
+            "Persuading with arguments",
+            "Describing with adjectives"
+          ],
+          "ans": 1,
+          "explanation": "Narrative style tells a story, often with characters, setting, and plot development."
+        },
+        {
+          "q": "Descriptive style uses:",
+          "opts": [
+            "Only facts",
+            "Sensory details and vivid language",
+            "Logical arguments only",
+            "Only short sentences"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive style uses sensory details and vivid language to create mental images."
+        },
+        {
+          "q": "Argumentative style relies on:",
+          "opts": [
+            "Only emotions",
+            "Logic, evidence, and reasoning",
+            "Only stories",
+            "Only descriptions"
+          ],
+          "ans": 1,
+          "explanation": "Argumentative style uses logic, evidence, and reasoning to persuade the audience."
+        },
+        {
+          "q": "To identify a speakers style, you should look at:",
+          "opts": [
+            "Only the topic",
+            "Word choice, sentence structure, and tone",
+            "Only the length",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Style is identified through word choice, sentence structure, tone, and organization."
+        },
+        {
+          "q": "Formal style is characterized by:",
+          "opts": [
+            "Slang and colloquialisms",
+            "Precise vocabulary and complex sentences",
+            "Only short sentences",
+            "Only personal pronouns"
+          ],
+          "ans": 1,
+          "explanation": "Formal style uses precise vocabulary, complex sentences, and avoids colloquialisms."
+        },
+        {
+          "q": "Figurative language is most common in:",
+          "opts": [
+            "Expository style",
+            "Descriptive and narrative styles",
+            "Only argumentative style",
+            "Only formal writing"
+          ],
+          "ans": 1,
+          "explanation": "Figurative language (metaphor, simile) is common in descriptive and narrative styles."
+        },
+        {
+          "q": "Understanding speaking styles is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports critical listening and effective communication",
+            "Only for creative writing",
+            "Only for reading"
+          ],
+          "ans": 1,
+          "explanation": "Recognizing styles supports critical listening, comprehension, and effective communication."
+        },
+        {
+          "q": "Which is NOT a feature to analyze in style?",
+          "opts": [
+            "Word choice",
+            "Sentence structure",
+            "Font size",
+            "Tone and voice"
+          ],
+          "ans": 2,
+          "explanation": "Font size is a visual feature, not a linguistic feature of speaking style."
+        },
+        {
+          "q": "A common misconception about style is:",
+          "opts": [
+            "Style can be identified through analysis",
+            "Only one style is correct for all purposes",
+            "Different styles serve different purposes",
+            "Style affects how messages are received"
+          ],
+          "ans": 1,
+          "explanation": "Different purposes and audiences require different styles; no single style is universally best."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w9_su2",
+      "title": "9.2 Structure: Introduction to Active and Passive Voice",
+      "notes": [
+        "Introduction to Active and Passive Voice:",
+        "",
+        "Key Points:",
+        "1. Define Active Sentence",
+        "2. Define Passive Sentence",
+        "3. Active Voice:",
+        "   S + V + O",
+        "   Example: Ojo killed a rat",
+        "4. Passive Voice:",
+        "   O + V + S",
+        "   Example: A rat was killed by Ojo",
+        "",
+        "Activities:",
+        "1. Teacher guides students to give more examples",
+        "2. Use chart, pictures, chalkboard",
+        "",
+        "Converting Active to Passive:",
+        "1. Make the object the subject",
+        "2. Use the appropriate form of be + past participle",
+        "3. Add by + original subject (if needed)",
+        "",
+        "When to Use Passive Voice:",
+        "- When the doer is unknown or unimportant",
+        "- When the focus is on the action or recipient",
+        "- In scientific or formal writing",
+        "",
+        "Common Errors to Avoid:",
+        "- Using passive when active is clearer",
+        "- Incorrect verb form in passive construction",
+        "- Omitting necessary by-phrase when meaning is unclear"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing active and passive voice structures",
+        "Diagram of active to passive conversion steps",
+        "Sample sentences showing both voices",
+        "Flowchart for choosing active or passive voice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar active passive voice SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "In active voice, the subject:",
+          "opts": [
+            "Receives the action",
+            "Performs the action",
+            "Is always a person",
+            "Is always at the end"
+          ],
+          "ans": 1,
+          "explanation": "In active voice, the subject performs the action of the verb."
+        },
+        {
+          "q": "The passive form of The boy kicked the ball is:",
+          "opts": [
+            "The ball kicked the boy.",
+            "The ball was kicked by the boy.",
+            "The boy was kicked by the ball.",
+            "Kicked the ball the boy."
+          ],
+          "ans": 1,
+          "explanation": "In passive voice, the object becomes subject: The ball was kicked by the boy."
+        },
+        {
+          "q": "Passive voice is formed with:",
+          "opts": [
+            "Subject + verb + object",
+            "Object + be + past participle + by + subject",
+            "Subject + be + verb + object",
+            "Object + verb + subject"
+          ],
+          "ans": 1,
+          "explanation": "Passive voice uses: object + be verb + past participle + by + original subject."
+        },
+        {
+          "q": "Which sentence is in passive voice?",
+          "opts": [
+            "The teacher explained the lesson.",
+            "The lesson was explained by the teacher.",
+            "The teacher is explaining the lesson.",
+            "The lesson explains the teacher."
+          ],
+          "ans": 1,
+          "explanation": "The lesson was explained by the teacher uses passive voice structure."
+        },
+        {
+          "q": "Passive voice is appropriate when:",
+          "opts": [
+            "The doer is important to mention",
+            "The focus is on the action or recipient",
+            "You want to be more direct",
+            "You want shorter sentences"
+          ],
+          "ans": 1,
+          "explanation": "Passive voice is appropriate when the focus is on the action or recipient, not the doer."
+        },
+        {
+          "q": "The past participle of write is:",
+          "opts": [
+            "write",
+            "wrote",
+            "written",
+            "writing"
+          ],
+          "ans": 2,
+          "explanation": "Written is the past participle of write, used in passive constructions."
+        },
+        {
+          "q": "Which is a common error with passive voice?",
+          "opts": [
+            "Using be + past participle",
+            "Using passive when active is clearer",
+            "Adding by-phrase when needed",
+            "Converting active to passive correctly"
+          ],
+          "ans": 1,
+          "explanation": "Using passive when active voice would be clearer is a common error."
+        },
+        {
+          "q": "Understanding active/passive voice is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports clear, appropriate sentence construction",
+            "Only for creative writing",
+            "Only for reading"
+          ],
+          "ans": 1,
+          "explanation": "Knowing when to use active or passive voice supports clear, appropriate communication."
+        },
+        {
+          "q": "Which sentence is in active voice?",
+          "opts": [
+            "The cake was eaten by the children.",
+            "The children ate the cake.",
+            "The cake is being eaten.",
+            "Eaten was the cake by the children."
+          ],
+          "ans": 1,
+          "explanation": "The children ate the cake has subject performing action: active voice."
+        },
+        {
+          "q": "A common misconception about passive voice is:",
+          "opts": [
+            "It is always wrong",
+            "It has appropriate uses in formal writing",
+            "It uses be + past participle",
+            "It can emphasize the recipient"
+          ],
+          "ans": 0,
+          "explanation": "Passive voice is not always wrong; it has appropriate uses in formal or scientific writing."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w9_su3",
+      "title": "9.3 Comprehension: Reading to Answer Questions",
+      "notes": [
+        "Reading to Answer Questions:",
+        "",
+        "Key Points:",
+        "1. Select appropriate passages",
+        "2. Key words in the passage listed",
+        "3. Sample answer",
+        "4. Use the dictionary",
+        "",
+        "Activities:",
+        "1. Teacher guides the students as they answer questions",
+        "2. Ensure students follow instructions on number of answers and time allowed",
+        "",
+        "Steps for Answering Comprehension Questions:",
+        "1. Read the passage carefully",
+        "2. Identify the question type (literal, inferential, evaluative)",
+        "3. Locate relevant information in the text",
+        "4. Formulate your answer in your own words",
+        "5. Review your answer for completeness and accuracy",
+        "",
+        "Types of Comprehension Questions:",
+        "- Literal: answer directly stated in text",
+        "- Inferential: answer requires reading between lines",
+        "- Evaluative: answer requires judgment or opinion",
+        "- Applied: answer requires applying information to new situation"
+      ],
+      "diagramDescriptions": [
+        "Chart of question types with examples",
+        "Flowchart for answering comprehension questions",
+        "Sample passage with highlighted key information",
+        "Comparison of question types and strategies"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English reading comprehension answering questions SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Literal questions require answers that are:",
+          "opts": [
+            "Based on personal opinion",
+            "Directly stated in the text",
+            "Inferred from context",
+            "Applied to new situations"
+          ],
+          "ans": 1,
+          "explanation": "Literal questions have answers directly stated in the text."
+        },
+        {
+          "q": "Inferential questions require the reader to:",
+          "opts": [
+            "Find a direct quote",
+            "Use logical reasoning based on context",
+            "Copy the authors words",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Inferential questions require reading between the lines using context and reasoning."
+        },
+        {
+          "q": "The first step in answering comprehension questions is to:",
+          "opts": [
+            "Write answers immediately",
+            "Read the passage carefully",
+            "Skip to the questions",
+            "Ask someone else"
+          ],
+          "ans": 1,
+          "explanation": "Reading the passage carefully is essential before attempting to answer questions."
+        },
+        {
+          "q": "Evaluative questions require the reader to:",
+          "opts": [
+            "Find a direct quote",
+            "Make a judgment supported by textual evidence",
+            "Copy the authors words",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Evaluative questions require judgment or opinion, supported by evidence from the text."
+        },
+        {
+          "q": "To locate information for answering questions, you should:",
+          "opts": [
+            "Guess randomly",
+            "Scan for keywords from the question",
+            "Read only the first paragraph",
+            "Ignore the question"
+          ],
+          "ans": 1,
+          "explanation": "Scanning for keywords from the question helps locate relevant information efficiently."
+        },
+        {
+          "q": "A common error in answering comprehension questions is:",
+          "opts": [
+            "Using your own words for inferential questions",
+            "Copying text verbatim for all question types",
+            "Supporting opinions with evidence",
+            "Reviewing answers for clarity"
+          ],
+          "ans": 1,
+          "explanation": "Copying text verbatim is appropriate only for literal questions; other types require original thought."
+        },
+        {
+          "q": "Applied questions require the reader to:",
+          "opts": [
+            "Find a direct quote",
+            "Apply text information to new situations",
+            "Copy the authors words",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Applied questions require connecting text ideas to real-world scenarios or new situations."
+        },
+        {
+          "q": "Understanding comprehension strategies is important because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports critical thinking and effective communication",
+            "Only for creative writing",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension strategies support critical thinking, media literacy, and informed citizenship."
+        },
+        {
+          "q": "Which is NOT a type of comprehension question?",
+          "opts": [
+            "Literal",
+            "Inferential",
+            "Spelling",
+            "Evaluative"
+          ],
+          "ans": 2,
+          "explanation": "Spelling is not a comprehension question type; literal, inferential, evaluative, and applied are."
+        },
+        {
+          "q": "A common misconception about comprehension is:",
+          "opts": [
+            "Answers must be concise and relevant",
+            "There is always only one correct answer",
+            "Context clues help with inferential questions",
+            "Reviewing answers improves quality"
+          ],
+          "ans": 1,
+          "explanation": "Some comprehension questions allow for multiple valid interpretations; not all have a single correct answer."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w9_su4",
+      "title": "9.4 Vocabulary Development: British and American Spellings",
+      "notes": [
+        "British and American Spellings of Common Words:",
+        "",
+        "Key Differences:",
+        "1. American Or vs British Our:",
+        "   - American: color, honor, favor",
+        "   - British: colour, honour, favour",
+        "",
+        "2. American Er vs British Re:",
+        "   - American: theater, center, meter",
+        "   - British: theatre, centre, metre",
+        "",
+        "3. American Se vs British Ce:",
+        "   - American: offense, defense, license (noun)",
+        "   - British: offence, defence, licence (noun)",
+        "",
+        "4. Other Common Differences:",
+        "   - American: traveling, canceled, jewelry",
+        "   - British: travelling, cancelled, jewellery",
+        "   - American: program (all uses)",
+        "   - British: programme (broadcast), program (computer)",
+        "",
+        "Activities:",
+        "1. Teacher guides students appropriately",
+        "2. Differentiate between the two",
+        "3. Use American books",
+        "4. Use British books",
+        "",
+        "Tips for Consistency:",
+        "- Choose one spelling convention and stick to it",
+        "- Be aware of your audience and context",
+        "- Use dictionary to verify uncertain spellings",
+        "- Note that some words have accepted variants"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing British and American spellings",
+        "Table of common spelling differences with examples",
+        "Sample text showing both spelling conventions",
+        "Flowchart for choosing appropriate spelling convention"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English British American spelling differences SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The British spelling of color is:",
+          "opts": [
+            "color",
+            "colour",
+            "coloure",
+            "culor"
+          ],
+          "ans": 1,
+          "explanation": "British English uses our ending: colour, while American uses or: color."
+        },
+        {
+          "q": "The American spelling of centre is:",
+          "opts": [
+            "centre",
+            "center",
+            "centere",
+            "centr"
+          ],
+          "ans": 1,
+          "explanation": "American English uses er ending: center, while British uses re: centre."
+        },
+        {
+          "q": "Which pair shows correct British/American spelling?",
+          "opts": [
+            "theatre (British) / theater (American)",
+            "theater (British) / theatre (American)",
+            "theatre (both)",
+            "theater (both)"
+          ],
+          "ans": 0,
+          "explanation": "Theatre is British; theater is American."
+        },
+        {
+          "q": "The British spelling of defense is:",
+          "opts": [
+            "defense",
+            "defence",
+            "defencce",
+            "defens"
+          ],
+          "ans": 1,
+          "explanation": "British English uses ce: defence; American uses se: defense."
+        },
+        {
+          "q": "Which word has the same spelling in both British and American English?",
+          "opts": [
+            "color/colour",
+            "center/centre",
+            "program",
+            "defense/defence"
+          ],
+          "ans": 2,
+          "explanation": "Program is spelled the same in both, though British English uses programme for broadcast."
+        },
+        {
+          "q": "The American spelling of travelling is:",
+          "opts": [
+            "travelling",
+            "traveling",
+            "travling",
+            "traveling"
+          ],
+          "ans": 1,
+          "explanation": "American English typically uses one l: traveling; British uses double l: travelling."
+        },
+        {
+          "q": "When writing for an international audience, you should:",
+          "opts": [
+            "Mix both spellings randomly",
+            "Choose one convention and be consistent",
+            "Always use British spelling",
+            "Always use American spelling"
+          ],
+          "ans": 1,
+          "explanation": "Consistency within one convention is more important than which convention you choose."
+        },
+        {
+          "q": "Understanding spelling differences is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports clear communication in global contexts",
+            "Only for creative writing",
+            "Only for reading"
+          ],
+          "ans": 1,
+          "explanation": "Awareness of spelling conventions supports clear, professional communication in diverse contexts."
+        },
+        {
+          "q": "Which is a tip for consistent spelling?",
+          "opts": [
+            "Ignore the dictionary",
+            "Choose one convention and stick to it",
+            "Use both conventions in the same document",
+            "Avoid writing altogether"
+          ],
+          "ans": 1,
+          "explanation": "Choosing and sticking to one spelling convention ensures consistency and professionalism."
+        },
+        {
+          "q": "A common error with British/American spelling is:",
+          "opts": [
+            "Using the dictionary",
+            "Mixing conventions within the same document",
+            "Being consistent",
+            "Checking uncertain words"
+          ],
+          "ans": 1,
+          "explanation": "Mixing British and American spellings in the same document appears unprofessional and inconsistent."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Speech, Vocabulary, Structures, Comprehension, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w2_su1",
+      "title": "2.1 Speech: Consonant Sounds /ð/ and /θ/",
+      "notes": [
+        "Consonant Sound /ð/ (voiced dental fricative):",
+        "• Definition: Voiced sound produced with tongue between teeth",
+        "• Examples: mother, brother, broader, weather, than, this, that, there",
+        "• Pronunciation: Tongue tip touches upper teeth, voiced vibration",
+        "• Practice: 'My mother and brother love the weather'",
+        "• Nigerian context: Often confused with /d/ - 'this' vs 'dis'",
+        "",
+        "Consonant Sound /θ/ (voiceless dental fricative):",
+        "• Definition: Voiceless sound produced with tongue between teeth",
+        "• Examples: thin, thick, author, bath, mouth, wealth, wreath, cloth",
+        "• Pronunciation: Tongue tip touches upper teeth, no vibration",
+        "• Practice: 'The author thinks the cloth is thick'",
+        "• Nigerian context: Often confused with /t/ - 'think' vs 'tink'",
+        "",
+        "Pronunciation Tips:",
+        "• Place tongue gently between upper and lower teeth",
+        "• For /ð/: Add voice (feel vibration in throat)",
+        "• For /θ/: No voice (just air passing)",
+        "• Practice with mirror to see tongue position",
+        "• Use minimal pairs: thin/tin, thick/tick, bath/bat"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue position for /ð/ and /θ/",
+        "Chart of words containing each consonant sound",
+        "Minimal pairs practice: thin/tin, this/dis, thought/taught",
+        "Nigerian context: Common pronunciation errors and corrections"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English consonant sounds /ð/ /θ/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The consonant sound /ð/ is found in which word?",
+          "opts": [
+            "thin",
+            "mother",
+            "think",
+            "bath"
+          ],
+          "ans": 1,
+          "explanation": "The word 'mother' contains the voiced dental fricative /ð/. 'Thin', 'think', and 'bath' contain the voiceless /θ/."
+        },
+        {
+          "q": "The consonant sound /θ/ is voiceless, which means:",
+          "opts": [
+            "The vocal cords vibrate",
+            "No vocal cord vibration occurs",
+            "The sound is produced in the nose",
+            "The sound is produced with lips"
+          ],
+          "ans": 1,
+          "explanation": "Voiceless sounds like /θ/ are produced without vocal cord vibration; only air passes through."
+        },
+        {
+          "q": "In Nigerian English, /ð/ is often pronounced as:",
+          "opts": [
+            "/s/",
+            "/d/",
+            "/z/",
+            "/t/"
+          ],
+          "ans": 1,
+          "explanation": "In Nigerian English, the /ð/ sound is often replaced with /d/, e.g., 'this' pronounced as 'dis'."
+        },
+        {
+          "q": "Which word contains the /θ/ sound?",
+          "opts": [
+            "weather",
+            "brother",
+            "author",
+            "than"
+          ],
+          "ans": 2,
+          "explanation": "The word 'author' contains the voiceless dental fricative /θ/ at the end."
+        },
+        {
+          "q": "To produce /ð/ correctly, the tongue should:",
+          "opts": [
+            "Touch the roof of the mouth",
+            "Be placed between the teeth",
+            "Curl back in the mouth",
+            "Touch the lower teeth only"
+          ],
+          "ans": 1,
+          "explanation": "Both /ð/ and /θ/ require the tongue tip to be placed gently between the upper and lower teeth."
+        },
+        {
+          "q": "A minimal pair for practicing /θ/ vs /t/ is:",
+          "opts": [
+            "thin/tin",
+            "this/dis",
+            "weather/wedder",
+            "brother/broder"
+          ],
+          "ans": 0,
+          "explanation": "Minimal pairs like 'thin/tin' help learners distinguish between similar sounds by changing only one phoneme."
+        },
+        {
+          "q": "The word 'bath' ends with which consonant sound?",
+          "opts": [
+            "/ð/",
+            "/θ/",
+            "/d/",
+            "/t/"
+          ],
+          "ans": 1,
+          "explanation": "The word 'bath' ends with the voiceless dental fricative /θ/."
+        },
+        {
+          "q": "Which practice method helps master /ð/ and /θ/?",
+          "opts": [
+            "Reading silently only",
+            "Using a mirror to check tongue position",
+            "Writing without speaking",
+            "Listening without practicing"
+          ],
+          "ans": 1,
+          "explanation": "Using a mirror helps learners visually confirm correct tongue placement between the teeth."
+        },
+        {
+          "q": "In the sentence 'Ojo thinks of his parents', 'thinks' contains:",
+          "opts": [
+            "/ð/",
+            "/θ/",
+            "/t/",
+            "/d/"
+          ],
+          "ans": 1,
+          "explanation": "The word 'thinks' begins with the voiceless dental fricative /θ/."
+        },
+        {
+          "q": "Understanding /ð/ and /θ/ is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading comprehension",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Correct pronunciation of dental fricatives improves communication clarity in academic, professional, and international contexts."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w2_su2",
+      "title": "2.2 Vocabulary: Words Associated with Agriculture",
+      "notes": [
+        "Vocabulary Development: Agriculture",
+        "• Definition: Agriculture is the practice of cultivating soil, growing crops, and raising livestock",
+        "• Importance: Provides food, raw materials, employment, and economic growth",
+        "",
+        "Crops and Produce:",
+        "• Grains: maize, rice, sorghum, millet, wheat",
+        "• Tubers: cassava, yam, sweet potato, cocoyam",
+        "• Vegetables: tomato, pepper, okra, spinach, lettuce",
+        "• Fruits: mango, orange, banana, pineapple, pawpaw",
+        "• Legumes: cowpea, groundnut, soybean, beans",
+        "• Nigerian context: Staple crops in different Nigerian regions",
+        "",
+        "Farming Activities:",
+        "• Land preparation: bush-clearing, ploughing, harrowing, ridging",
+        "• Planting: sowing seeds, transplanting seedlings, staking",
+        "• Crop maintenance: weeding, pruning, manuring, fertilizing",
+        "• Harvesting: reaping, picking, digging, threshing",
+        "• Nigerian context: Seasonal farming activities in Nigerian agro-ecological zones",
+        "",
+        "Farming Implements and Equipment:",
+        "• Traditional: hoe, cutlass, axe, rake, digging stick",
+        "• Modern: tractor, plough, harvester, silo, barn, bulldozer",
+        "• Storage: granary, silo, barn, warehouse",
+        "• Nigerian context: Transition from traditional to modern farming tools",
+        "",
+        "Related Agricultural Terms:",
+        "• bumper harvest: abundant yield",
+        "• famine: severe food shortage",
+        "• crop rotation: alternating crops to maintain soil fertility",
+        "• irrigation: artificial water supply for crops",
+        "• agro-allied: industries linked to agriculture",
+        "• Nigerian context: Government agricultural programmes (OFN, Green Revolution)",
+        "",
+        "Using Agricultural Vocabulary in Sentences:",
+        "• 'The farmer used a hoe to clear the bush before planting maize.'",
+        "• 'A bumper harvest of cassava helped the community avoid famine.'",
+        "• 'Crop rotation with legumes improves soil fertility naturally.'",
+        "• 'The government provided fertilizers to boost agricultural production.'",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Building:",
+        "   • List crops grown in your locality",
+        "   • Identify farming activities for each crop",
+        "   • Create sentences using new agricultural words",
+        "",
+        "2. Field Observation:",
+        "   • Visit a local farm or school garden",
+        "   • Observe and name farming implements",
+        "   • Record farming activities observed",
+        "",
+        "3. Sentence Construction:",
+        "   • Use agricultural vocabulary in meaningful sentences",
+        "   • Share sentences with classmates for feedback",
+        "   • Correct errors in word usage and grammar"
+      ],
+      "diagramDescriptions": [
+        "Chart of agricultural vocabulary: crops, activities, implements",
+        "Illustration of farming cycle: land preparation to harvest",
+        "Comparison of traditional vs modern farming tools",
+        "Nigerian context: Map showing major crops by region",
+        "Sample sentences using agricultural vocabulary"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary agriculture farming SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Which of the following is a tuber crop?",
+          "opts": [
+            "maize",
+            "cassava",
+            "cowpea",
+            "tomato"
+          ],
+          "ans": 1,
+          "explanation": "Cassava is a tuber crop; it produces edible underground storage roots. Maize is a grain, cowpea is a legume, and tomato is a vegetable."
+        },
+        {
+          "q": "The term 'bumper harvest' means:",
+          "opts": [
+            "A failed crop",
+            "An abundant yield",
+            "A small harvest",
+            "A diseased crop"
+          ],
+          "ans": 1,
+          "explanation": "'Bumper harvest' refers to an unusually large and successful crop yield."
+        },
+        {
+          "q": "Which farming activity involves removing unwanted plants?",
+          "opts": [
+            "planting",
+            "weeding",
+            "harvesting",
+            "ploughing"
+          ],
+          "ans": 1,
+          "explanation": "Weeding is the process of removing unwanted plants (weeds) that compete with crops for nutrients and water."
+        },
+        {
+          "q": "A modern farming implement is:",
+          "opts": [
+            "hoe",
+            "cutlass",
+            "tractor",
+            "digging stick"
+          ],
+          "ans": 2,
+          "explanation": "A tractor is a modern farming implement; hoe, cutlass, and digging stick are traditional tools."
+        },
+        {
+          "q": "Crop rotation is important because it:",
+          "opts": [
+            "Increases pest infestation",
+            "Maintains soil fertility",
+            "Reduces crop yield",
+            "Requires more water"
+          ],
+          "ans": 1,
+          "explanation": "Crop rotation helps maintain soil fertility by alternating crops with different nutrient needs and adding nitrogen-fixing legumes."
+        },
+        {
+          "q": "Which of the following is a legume?",
+          "opts": [
+            "yam",
+            "groundnut",
+            "rice",
+            "pepper"
+          ],
+          "ans": 1,
+          "explanation": "Groundnut is a legume; it has nitrogen-fixing root nodules that improve soil fertility."
+        },
+        {
+          "q": "The word 'irrigation' refers to:",
+          "opts": [
+            "Natural rainfall",
+            "Artificial water supply for crops",
+            "Draining excess water",
+            "Storing harvested crops"
+          ],
+          "ans": 1,
+          "explanation": "Irrigation is the artificial application of water to crops, especially in areas with insufficient rainfall."
+        },
+        {
+          "q": "Understanding agricultural vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps name crops",
+            "Supports communication in agriculture-related careers and daily life",
+            "Only for academic purposes",
+            "Only for reading textbooks"
+          ],
+          "ans": 1,
+          "explanation": "Agricultural vocabulary supports effective communication in farming, agribusiness, extension services, and everyday discussions about food and economy."
+        },
+        {
+          "q": "Which activity is part of land preparation?",
+          "opts": [
+            "harvesting",
+            "ploughing",
+            "weeding",
+            "threshing"
+          ],
+          "ans": 1,
+          "explanation": "Ploughing is a land preparation activity that loosens soil before planting; harvesting, weeding, and threshing occur later."
+        },
+        {
+          "q": "A common misconception about agriculture is:",
+          "opts": [
+            "Agriculture only involves crop farming",
+            "Agriculture includes crops, livestock, forestry, and fishing",
+            "Farming requires both traditional and modern knowledge",
+            "Agriculture is important for food security"
+          ],
+          "ans": 0,
+          "explanation": "Agriculture encompasses crop production, livestock rearing, forestry, and fishing; it is not limited to crop farming alone."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w2_su3",
+      "title": "2.3 Comprehension: Reading to Comprehend Main Ideas or Story Line",
+      "notes": [
+        "Comprehension: Reading for Main Ideas",
+        "• Definition: Understanding the central theme or primary message of a text",
+        "• Importance: Enables readers to grasp key points quickly and accurately",
+        "",
+        "Steps for Identifying Main Ideas:",
+        "1. Read the passage carefully",
+        "   • Read slowly and attentively",
+        "   • Note unfamiliar words and look them up",
+        "   • Underline or highlight key sentences",
+        "",
+        "2. Identify the topic sentence",
+        "   • Often found at the beginning or end of a paragraph",
+        "   • States the main idea of the paragraph",
+        "   • Example: 'Corruption undermines national development in Nigeria.'",
+        "",
+        "3. Look for supporting details",
+        "   • Facts, examples, explanations that develop the main idea",
+        "   • Not the main idea itself, but evidence for it",
+        "   • Example: Statistics on corruption cases, effects on economy",
+        "",
+        "4. Summarize in your own words",
+        "   • Restate the main idea concisely",
+        "   • Exclude minor details and examples",
+        "   • Ensure accuracy and completeness",
+        "",
+        "Skills for Comprehension:",
+        "• Distinguishing fact from opinion",
+        "  - Fact: Verifiable statement (e.g., 'Nigeria has 36 states')",
+        "  - Opinion: Personal belief (e.g., 'Nigeria is the best country')",
+        "",
+        "• Making inferences",
+        "  - Reading between the lines",
+        "  - Using context clues to understand implied meaning",
+        "  - Example: 'The farmer's face was grim' → inference: bad harvest",
+        "",
+        "• Understanding vocabulary in context",
+        "  - Using surrounding words to determine meaning",
+        "  - Example: 'The arid region received little rain' → 'arid' means dry",
+        "",
+        "Nigerian Context in Comprehension Passages:",
+        "• Common themes:",
+        "  - Corruption and its effects on development",
+        "  - Environmental pollution and conservation",
+        "  - HIV/AIDS awareness and prevention",
+        "  - Education and youth empowerment",
+        "  - National unity and ethnic diversity",
+        "",
+        "• Cultural references:",
+        "  - Traditional values and modern challenges",
+        "  - Urban-rural dynamics",
+        "  - Religious and ethnic diversity",
+        "",
+        "Practical Activities:",
+        "1. Passage Analysis:",
+        "   • Read short prose passages on topical issues",
+        "   • Identify topic sentences and main ideas",
+        "   • Discuss supporting details and examples",
+        "",
+        "2. Listening Comprehension:",
+        "   • Listen to recorded passages or discussions",
+        "   • Note key points and main ideas",
+        "   • Answer questions based on listening",
+        "",
+        "3. Group Discussion:",
+        "   • Discuss passages in small groups",
+        "   • Share interpretations of main ideas",
+        "   • Clarify misunderstandings through dialogue",
+        "",
+        "Common Misconceptions:",
+        "• 'Main idea is the same as title': Title introduces topic; main idea states the point",
+        "• 'Every sentence is equally important': Some sentences support; others state main ideas",
+        "• 'Comprehension is only about vocabulary': Understanding structure and logic is equally important",
+        "• 'Inferences are guesses': Inferences are logical conclusions based on text evidence",
+        "",
+        "Nigerian Context:",
+        "• Comprehension skills enable students to engage with Nigerian media, policies, and literature",
+        "• Understanding main ideas supports critical thinking on national issues",
+        "• Contextual vocabulary knowledge aids comprehension of local and global texts",
+        "",
+        "Conclusion:",
+        "• Identifying main ideas is fundamental to effective reading comprehension",
+        "• Skills include recognizing topic sentences, distinguishing fact from opinion, and making inferences",
+        "• Nigerian-themed passages provide relevant practice for academic and civic engagement",
+        "• Regular practice with diverse texts builds confidence and competence"
+      ],
+      "diagramDescriptions": [
+        "Flowchart of steps for identifying main ideas in a passage",
+        "Chart distinguishing fact from opinion with Nigerian examples",
+        "Diagram showing topic sentence and supporting details structure",
+        "Nigerian context: Sample passage on corruption with comprehension questions",
+        "Vocabulary-in-context strategy with local examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension main ideas reading skills SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The main idea of a passage is best described as:",
+          "opts": [
+            "The title of the passage",
+            "The central theme or primary message",
+            "A supporting detail",
+            "An example used in the passage"
+          ],
+          "ans": 1,
+          "explanation": "The main idea is the central theme or primary message that the author wants to convey; it is not a detail, example, or title."
+        },
+        {
+          "q": "A topic sentence usually:",
+          "opts": [
+            "Appears only at the end of a paragraph",
+            "States the main idea of the paragraph",
+            "Contains only examples",
+            "Is always a question"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence states the main idea of a paragraph and may appear at the beginning, middle, or end."
+        },
+        {
+          "q": "Which of the following is a fact?",
+          "opts": [
+            "Nigeria is the most beautiful country",
+            "Nigeria has 36 states and one Federal Capital Territory",
+            "Lagos is the best city in Africa",
+            "Everyone should visit Abuja"
+          ],
+          "ans": 1,
+          "explanation": "A fact is a verifiable statement; Nigeria having 36 states and one FCT can be confirmed, while the others are opinions."
+        },
+        {
+          "q": "Making an inference means:",
+          "opts": [
+            "Guessing randomly",
+            "Drawing a logical conclusion based on text evidence",
+            "Copying the author's words",
+            "Ignoring the passage"
+          ],
+          "ans": 1,
+          "explanation": "An inference is a logical conclusion drawn from evidence in the text, not a random guess."
+        },
+        {
+          "q": "In the sentence 'The arid region received little rain', 'arid' most likely means:",
+          "opts": [
+            "wet",
+            "dry",
+            "cold",
+            "fertile"
+          ],
+          "ans": 1,
+          "explanation": "Context clues ('received little rain') indicate that 'arid' means dry."
+        },
+        {
+          "q": "A common theme in Nigerian comprehension passages is:",
+          "opts": [
+            "Space exploration",
+            "Corruption and national development",
+            "Ancient Roman history",
+            "Arctic wildlife"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian comprehension passages often address local issues like corruption, environment, education, and national unity."
+        },
+        {
+          "q": "Supporting details in a passage:",
+          "opts": [
+            "Are the main idea",
+            "Provide evidence for the main idea",
+            "Should be ignored",
+            "Are always opinions"
+          ],
+          "ans": 1,
+          "explanation": "Supporting details provide facts, examples, and explanations that develop and prove the main idea."
+        },
+        {
+          "q": "Understanding vocabulary in context helps readers to:",
+          "opts": [
+            "Memorize dictionary definitions",
+            "Determine word meanings from surrounding text",
+            "Skip difficult words",
+            "Focus only on grammar"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues allows readers to infer word meanings without always consulting a dictionary."
+        },
+        {
+          "q": "A misconception about comprehension is:",
+          "opts": [
+            "Main idea and title are the same",
+            "Main idea states the central message",
+            "Topic sentences guide paragraph structure",
+            "Inferences require text evidence"
+          ],
+          "ans": 0,
+          "explanation": "The title introduces the topic; the main idea states the author's point about that topic—they are not the same."
+        },
+        {
+          "q": "Comprehension skills are important for Nigerian students because they:",
+          "opts": [
+            "Only help pass exams",
+            "Enable critical engagement with media, policies, and literature",
+            "Only improve vocabulary",
+            "Only aid in writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills support academic success, civic participation, and informed decision-making in Nigerian society."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w2_su4",
+      "title": "2.4 Structures: Nouns – Definite and Indefinite Articles",
+      "notes": [
+        "Structures: Nouns and Articles",
+        "• Revision of Nouns:",
+        "  - Nouns name people, places, things, or ideas",
+        "  - Types: common, proper, concrete, abstract, collective",
+        "  - Examples: boy, Lagos, table, freedom, team",
+        "",
+        "The Definite Article 'the':",
+        "• Definition: 'The' refers to a specific noun known to both speaker and listener",
+        "• Functions:",
+        "  a) Refers to something previously mentioned:",
+        "     - 'I saw a boy. The boy was playing football.'",
+        "  b) Refers to something unique:",
+        "     - 'The sun rises in the east.'",
+        "     - 'The President of Nigeria visited the school.'",
+        "  c) Refers to something specified by a phrase or clause:",
+        "     - 'The book on the table is mine.'",
+        "     - 'The man who came yesterday is my uncle.'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'The Niger River flows through several states.'",
+        "  - 'The students who passed the exam were celebrated.'",
+        "  - 'The market in my town is very busy.'",
+        "",
+        "The Indefinite Articles 'a' and 'an':",
+        "• Definition: 'A' and 'an' refer to non-specific, singular countable nouns",
+        "• Usage Rules:",
+        "  a) Use 'a' before consonant sounds:",
+        "     - 'a boy', 'a university' (sounds like 'yoo-niversity')",
+        "     - 'a one-time event' (sounds like 'won')",
+        "  b) Use 'an' before vowel sounds:",
+        "     - 'an apple', 'an hour' (silent 'h')",
+        "     - 'an MBA degree' (sounds like 'em-bee-ay')",
+        "",
+        "• Functions:",
+        "  a) Introduce a noun for the first time:",
+        "     - 'I saw a bird in the tree.'",
+        "  b) Refer to any member of a group:",
+        "     - 'A teacher should be patient.'",
+        "  c) Express quantity (one):",
+        "     - 'She has a car.'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'A farmer in Kano grows millet.'",
+        "  - 'An engineer designed the new bridge in Abuja.'",
+        "  - 'I need an umbrella because it might rain.'",
+        "",
+        "Exceptions to Article Usage:",
+        "• No article with plural or uncountable nouns in general statements:",
+        "  - 'Children love to play.' (not 'The children' unless specific)",
+        "  - 'Water is essential for life.' (not 'The water' unless specific)",
+        "",
+        "• No article with proper nouns (usually):",
+        "  - 'Nigeria is a large country.' (not 'The Nigeria')",
+        "  - Exception: 'The United States', 'The Netherlands'",
+        "",
+        "• No article with abstract nouns in general sense:",
+        "  - 'Honesty is the best policy.'",
+        "  - 'Freedom is valuable.'",
+        "",
+        "• Nigerian Context Exceptions:",
+        "  - 'The University of Lagos' (specific institution)",
+        "  - 'The Federal Government' (specific entity)",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: 'I want to buy a rice.'",
+        "  Correction: 'I want to buy rice.' (uncountable noun)",
+        "",
+        "• Error: 'She is the honest woman.'",
+        "  Correction: 'She is an honest woman.' (introducing for first time)",
+        "",
+        "• Error: 'He goes to the school every day.'",
+        "  Correction: 'He goes to school every day.' (institution in general sense)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'I saw the man yesterday.' (if man not previously mentioned)",
+        "  - Correction: 'I saw a man yesterday.'",
+        "",
+        "Practical Activities:",
+        "1. Article Identification:",
+        "   • Provide short passages for students to identify articles",
+        "   • Discuss why 'the', 'a', or 'an' is used in each case",
+        "   • Correct common errors in article usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using 'the', 'a', and 'an' correctly",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on article usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with article errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'The' is always used with proper nouns: Most proper nouns take no article",
+        "• 'A' and 'an' are interchangeable: Choice depends on sound, not spelling",
+        "• Articles are unimportant: Correct article usage affects clarity and meaning",
+        "• Uncountable nouns can take 'a' or 'an': Uncountable nouns do not take indefinite articles",
+        "",
+        "Nigerian Context:",
+        "• Correct article usage supports clear communication in academic, professional, and social contexts",
+        "• Understanding exceptions helps students navigate Nigerian English usage",
+        "• Article practice enhances writing accuracy in essays, reports, and correspondence",
+        "",
+        "Conclusion:",
+        "• Articles ('the', 'a', 'an') specify or generalize nouns in English",
+        "• Correct usage depends on context, noun type, and sound",
+        "• Practice with Nigerian examples reinforces learning and relevance",
+        "• Mastery of articles improves writing clarity and grammatical accuracy"
+      ],
+      "diagramDescriptions": [
+        "Chart of article usage rules with examples",
+        "Flowchart for choosing 'a' vs 'an' based on sound",
+        "Comparison of definite vs indefinite article functions",
+        "Nigerian context: Sample sentences with correct/incorrect article usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar articles definite indefinite SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The definite article 'the' is used when:",
+          "opts": [
+            "Referring to any member of a group",
+            "Referring to a specific noun known to speaker and listener",
+            "Introducing a noun for the first time",
+            "Referring to plural nouns in general"
+          ],
+          "ans": 1,
+          "explanation": "'The' refers to specific nouns that are known or have been mentioned; 'a/an' introduces non-specific nouns."
+        },
+        {
+          "q": "Which sentence uses 'an' correctly?",
+          "opts": [
+            "a hour",
+            "an university",
+            "an honest man",
+            "a MBA degree"
+          ],
+          "ans": 2,
+          "explanation": "'An' is used before vowel sounds; 'honest' begins with a silent 'h', so the sound is vowel-like."
+        },
+        {
+          "q": "Which sentence is correct?",
+          "opts": [
+            "I want to buy a rice.",
+            "She is the honest woman.",
+            "He goes to school every day.",
+            "I saw the man yesterday. (first mention)"
+          ],
+          "ans": 2,
+          "explanation": "'School' as an institution in general sense takes no article; 'a rice' is wrong (uncountable), 'the honest woman' should be 'an' (first mention), 'the man' should be 'a man' if first mention."
+        },
+        {
+          "q": "We use 'a' before words that begin with:",
+          "opts": [
+            "Vowel letters only",
+            "Consonant sounds",
+            "Vowel sounds",
+            "Silent letters only"
+          ],
+          "ans": 1,
+          "explanation": "'A' is used before consonant sounds (e.g., 'a university' sounds like 'yoo-niversity'); 'an' before vowel sounds."
+        },
+        {
+          "q": "Which noun does NOT take an indefinite article?",
+          "opts": [
+            "boy",
+            "apple",
+            "water",
+            "car"
+          ],
+          "ans": 2,
+          "explanation": "'Water' is uncountable and does not take 'a' or 'an'; countable singular nouns like 'boy', 'apple', 'car' do."
+        },
+        {
+          "q": "In the sentence 'The Niger River flows through Nigeria', 'the' is used because:",
+          "opts": [
+            "It is a proper noun",
+            "It refers to a unique, specific river",
+            "It is plural",
+            "It is uncountable"
+          ],
+          "ans": 1,
+          "explanation": "'The' is used with unique geographical features like rivers, oceans, and mountain ranges."
+        },
+        {
+          "q": "Which sentence is incorrect?",
+          "opts": [
+            "A teacher should be patient.",
+            "The sun rises in the east.",
+            "I saw a bird in the tree.",
+            "She is the doctor."
+          ],
+          "ans": 3,
+          "explanation": "'She is the doctor' implies a specific, known doctor; if introducing for the first time, it should be 'She is a doctor.'"
+        },
+        {
+          "q": "Understanding article usage is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves clarity and accuracy in academic and professional writing",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct article usage enhances writing clarity, which is essential for academic success and professional communication in Nigeria."
+        },
+        {
+          "q": "Which is an exception to article usage?",
+          "opts": [
+            "'The United States' takes 'the'",
+            "'Nigeria' takes 'the'",
+            "'Water' takes 'a'",
+            "'Honesty' takes 'an'"
+          ],
+          "ans": 0,
+          "explanation": "Some country names like 'The United States', 'The Netherlands' take 'the'; most proper nouns like 'Nigeria' do not."
+        },
+        {
+          "q": "A common misconception about articles is:",
+          "opts": [
+            "'A' and 'an' depend on spelling, not sound",
+            "'A' and 'an' depend on sound, not spelling",
+            "'The' refers to specific nouns",
+            "Uncountable nouns do not take 'a' or 'an'"
+          ],
+          "ans": 0,
+          "explanation": "The choice between 'a' and 'an' depends on the sound that follows, not the spelling (e.g., 'a university', 'an hour')."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w2_su5",
+      "title": "2.5 Writing: Expository Composition",
+      "notes": [
+        "Writing: Expository Composition",
+        "• Definition: An expository essay explains, informs, or describes a topic clearly and logically",
+        "• Purpose: To present facts, analyze ideas, or explain processes without personal opinion",
+        "",
+        "Features of Expository Composition:",
+        "1. Clear thesis statement:",
+        "   • States the main idea or purpose of the essay",
+        "   • Usually appears in the introduction",
+        "   • Example: 'This essay explains the causes and effects of environmental pollution in Nigeria.'",
+        "",
+        "2. Logical organization:",
+        "   • Introduction: Presents topic and thesis",
+        "   • Body paragraphs: Each develops one main point with evidence",
+        "   • Conclusion: Summarizes key points and restates thesis",
+        "",
+        "3. Use of facts and evidence:",
+        "   • Statistics, examples, expert opinions support claims",
+        "   • Avoids personal anecdotes or emotional language",
+        "   • Example: 'According to NEMA, over 60% of Lagos waste is improperly disposed.'",
+        "",
+        "4. Formal tone and objective language:",
+        "   • Avoids slang, colloquialisms, and first-person pronouns",
+        "   • Uses precise, academic vocabulary",
+        "   • Example: 'Pollution adversely affects public health' instead of 'Pollution is really bad for people.'",
+        "",
+        "5. Effective transitions:",
+        "   • Words and phrases that connect ideas: 'firstly', 'furthermore', 'in conclusion'",
+        "   • Ensure smooth flow between paragraphs and sentences",
+        "",
+        "Structure of Expository Essay:",
+        "a) Introduction:",
+        "   • Hook: Engaging opening sentence",
+        "   • Background: Brief context for the topic",
+        "   • Thesis: Clear statement of main idea",
+        "   • Example: 'Environmental pollution is a growing crisis in Nigerian cities. This essay examines its causes, effects, and solutions.'",
+        "",
+        "b) Body Paragraphs (usually 3):",
+        "   • Topic sentence: States paragraph's main point",
+        "   • Evidence: Facts, examples, data support the point",
+        "   • Explanation: Connects evidence to thesis",
+        "   • Transition: Links to next paragraph",
+        "   • Example paragraph on causes of pollution",
+        "",
+        "c) Conclusion:",
+        "   • Restate thesis in new words",
+        "   • Summarize main points",
+        "   • Final thought or call to action",
+        "   • Example: 'Addressing pollution requires collective action from government, industries, and citizens.'",
+        "",
+        "Tense Forms for Expository Essays:",
+        "• Present simple for general truths and facts:",
+        "  - 'Pollution harms ecosystems.'",
+        "• Present perfect for ongoing situations:",
+        "  - 'Government has implemented several environmental policies.'",
+        "• Future simple for recommendations:",
+        "  - 'Stricter laws will reduce industrial waste.'",
+        "",
+        "Developing Topic Sentences:",
+        "• Each paragraph begins with a clear topic sentence",
+        "• Topic sentence states the paragraph's focus",
+        "• Supporting sentences provide evidence and explanation",
+        "• Example: 'Industrial waste is a major cause of water pollution in Nigeria.'",
+        "",
+        "Appropriate Sentence Types:",
+        "• Simple sentences: Clear, direct statements",
+        "  - 'Factories discharge waste into rivers.'",
+        "• Compound sentences: Join related ideas",
+        "  - 'Factories discharge waste, and rivers become polluted.'",
+        "• Complex sentences: Show relationships between ideas",
+        "  - 'Because factories discharge waste, rivers become polluted.'",
+        "",
+        "Punctuation for Effective Communication:",
+        "• Full stop (.) ends declarative sentences",
+        "• Comma (,) separates items, clauses, or introductory phrases",
+        "• Semicolon (;) joins closely related independent clauses",
+        "• Colon (:) introduces lists or explanations",
+        "• Nigerian context: Correct punctuation enhances clarity in academic and professional writing",
+        "",
+        "Sample Expository Topics:",
+        "• Describe how external examinations are conducted in Nigeria",
+        "• Explain the causes and effects of examination malpractice",
+        "• Discuss the importance of environmental conservation",
+        "• Analyze the impact of social media on youth",
+        "• Explain the process of voter registration in Nigeria",
+        "",
+        "Practical Activities:",
+        "1. Thesis Statement Practice:",
+        "   • Students write thesis statements for given topics",
+        "   • Peer review for clarity and focus",
+        "   • Teacher feedback on thesis development",
+        "",
+        "2. Paragraph Writing:",
+        "   • Write body paragraphs with topic sentences and evidence",
+        "   • Use transitional words for coherence",
+        "   • Exchange paragraphs for peer editing",
+        "",
+        "3. Full Essay Drafting:",
+        "   • Plan essay with outline (introduction, body, conclusion)",
+        "   • Draft essay focusing on structure and evidence",
+        "   • Revise for clarity, coherence, and grammar",
+        "",
+        "Common Misconceptions:",
+        "• 'Expository essays include personal opinion': They present facts objectively, not personal views",
+        "• 'Longer essays are better': Quality of ideas and organization matters more than length",
+        "• 'Fancy words improve essays': Clarity and precision are more important than complex vocabulary",
+        "• 'Conclusion introduces new ideas': Conclusion summarizes; new ideas belong in body paragraphs",
+        "",
+        "Nigerian Context:",
+        "• Expository writing skills support academic success in Nigerian schools and universities",
+        "• Objective analysis of local issues (corruption, environment, education) develops critical thinking",
+        "• Clear, factual writing is valued in professional reports, policy documents, and media",
+        "",
+        "Conclusion:",
+        "• Expository essays explain topics clearly using facts, logic, and evidence",
+        "• Structure includes thesis, organized body paragraphs, and conclusive summary",
+        "• Formal tone, objective language, and correct punctuation enhance effectiveness",
+        "• In Nigeria, expository writing supports academic achievement and informed civic engagement"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of expository essay: introduction, body, conclusion",
+        "Chart of thesis statement components with examples",
+        "Flowchart for developing topic sentences and supporting evidence",
+        "Comparison of simple, compound, and complex sentences in expository writing",
+        "Nigerian context: Sample expository topics on local issues"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English expository essay writing structure SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The main purpose of an expository essay is to:",
+          "opts": [
+            "Tell a personal story",
+            "Explain or inform about a topic",
+            "Persuade the reader to agree",
+            "Describe emotions and feelings"
+          ],
+          "ans": 1,
+          "explanation": "Expository essays explain, inform, or describe topics using facts and logic, not personal stories, persuasion, or emotional description."
+        },
+        {
+          "q": "A thesis statement in an expository essay:",
+          "opts": [
+            "Appears only in the conclusion",
+            "States the main idea or purpose of the essay",
+            "Lists all the examples to be used",
+            "Is written in first person"
+          ],
+          "ans": 1,
+          "explanation": "The thesis statement states the essay's main idea or purpose and usually appears in the introduction."
+        },
+        {
+          "q": "Which tense is MOST commonly used in expository essays?",
+          "opts": [
+            "Past simple",
+            "Present simple",
+            "Future continuous",
+            "Present perfect continuous"
+          ],
+          "ans": 1,
+          "explanation": "Present simple is used for general truths and facts, which are common in expository writing."
+        },
+        {
+          "q": "A topic sentence in a body paragraph:",
+          "opts": [
+            "Summarizes the entire essay",
+            "States the paragraph's main point",
+            "Introduces a new thesis",
+            "Lists all supporting details"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence states the main point of its paragraph; supporting details then develop that point."
+        },
+        {
+          "q": "Which transition word is appropriate for adding a point?",
+          "opts": [
+            "However",
+            "Furthermore",
+            "In conclusion",
+            "On the other hand"
+          ],
+          "ans": 1,
+          "explanation": "'Furthermore' adds information; 'however' and 'on the other hand' show contrast; 'in conclusion' signals ending."
+        },
+        {
+          "q": "Which sentence demonstrates formal tone?",
+          "opts": [
+            "Pollution is really bad for people.",
+            "Pollution adversely affects public health.",
+            "I think pollution is a big problem.",
+            "You should care about pollution."
+          ],
+          "ans": 1,
+          "explanation": "Formal tone uses precise, objective language; 'adversely affects public health' is more formal than the other options."
+        },
+        {
+          "q": "The conclusion of an expository essay should:",
+          "opts": [
+            "Introduce new evidence",
+            "Summarize main points and restate thesis",
+            "Present personal opinions",
+            "Ask rhetorical questions"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion summarizes key points and restates the thesis; it does not introduce new ideas or personal views."
+        },
+        {
+          "q": "Understanding expository writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Develops skills for academic, professional, and civic communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing skills support success in school, workplace reports, policy analysis, and informed civic participation in Nigeria."
+        },
+        {
+          "q": "Which punctuation mark introduces a list?",
+          "opts": [
+            "Comma",
+            "Semicolon",
+            "Colon",
+            "Full stop"
+          ],
+          "ans": 2,
+          "explanation": "A colon (:) introduces lists, explanations, or quotations; commas separate items within lists."
+        },
+        {
+          "q": "A common misconception about expository essays is:",
+          "opts": [
+            "They present facts objectively",
+            "They include personal opinions and emotions",
+            "They use logical organization",
+            "They support claims with evidence"
+          ],
+          "ans": 1,
+          "explanation": "Expository essays present facts objectively; they do not include personal opinions or emotional language."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1084 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 3,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w3_su1",
+      "title": "3.1 Speech: Intonation Patterns Continued – Rising Tone with Questions",
+      "notes": [
+        "Intonation Patterns: Rising Tone with Questions",
+        "• Definition: Intonation is the rise and fall of pitch in speech that conveys meaning, attitude, and emotion",
+        "• Focus: Rising tone (/) used with specific question types",
+        "",
+        "Rising Tone (/) with WH-Questions:",
+        "• Definition: Pitch rises at the end of certain WH-questions",
+        "• Uses:",
+        "  a) When seeking clarification or repetition:",
+        "     - 'What did you say↗?' (asking for repetition)",
+        "     - 'Where are we going↗?' (seeking confirmation)",
+        "",
+        "  b) When expressing surprise or disbelief:",
+        "     - 'You did what↗?' (surprise)",
+        "     - 'She said that↗?' (disbelief)",
+        "",
+        "  c) When the question is rhetorical or expects agreement:",
+        "     - 'Why would anyone do that↗?' (rhetorical)",
+        "     - 'Who wouldn't want to succeed↗?' (expects agreement)",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'How did you pass the exam↗?' (seeking clarification)",
+        "  - 'You really think that↗?' (disbelief)",
+        "  - 'Why would anyone refuse such an opportunity↗?' (rhetorical)",
+        "",
+        "Rising Tone with Other Question Types:",
+        "• Yes/No questions (always rising):",
+        "  - 'Are you coming↗?'",
+        "  - 'Did you finish your homework↗?'",
+        "  - Nigerian context: 'Is this the way to the market↗?'",
+        "",
+        "• Tag questions (rising when seeking confirmation):",
+        "  - 'You're coming, aren't you↗?'",
+        "  - 'She didn't go, did she↗?'",
+        "  - Nigerian context: 'You will attend the meeting, won't you↗?'",
+        "",
+        "• Incomplete statements (rising to indicate continuation):",
+        "  - 'If you go↗, I will follow'",
+        "  - 'When the rain stops↗, we can continue'",
+        "",
+        "Pronunciation Guide:",
+        "• Practice rising pitch at the end of target questions",
+        "• Use hand gestures to visualize pitch movement",
+        "• Record and compare with model pronunciation",
+        "",
+        "Common Nigerian English Errors:",
+        "• Using falling tone for all questions:",
+        "  - 'What did you say↘?' (incorrect for clarification)",
+        "  - Correction: 'What did you say↗?'",
+        "",
+        "• Using rising tone for statements:",
+        "  - 'I am going home↗' (incorrect)",
+        "  - Correction: 'I am going home↘'",
+        "",
+        "• Inconsistent intonation in tag questions:",
+        "  - 'You're coming, aren't you↘?' (when seeking confirmation)",
+        "  - Correction: 'You're coming, aren't you↗?'",
+        "",
+        "Correction Strategies:",
+        "1. Listen and imitate:",
+        "   • Listen to model pronunciations of rising tone questions",
+        "   • Imitate the pitch movement",
+        "",
+        "2. Practice with minimal pairs:",
+        "   • 'What did you say↗?' vs 'What did you say↘?'",
+        "   • Highlight difference in meaning or expectation",
+        "",
+        "3. Practice in context:",
+        "   • Use rising tone questions in dialogues or role-plays",
+        "   • Focus on appropriate contexts for rising tone",
+        "",
+        "4. Record and self-assess:",
+        "   • Record own pronunciation",
+        "   • Compare with model recordings",
+        "   • Identify and correct intonation errors",
+        "",
+        "Practical Activities:",
+        "1. Intonation Drill:",
+        "   • Teacher models rising tone questions",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on pitch movement at sentence end",
+        "",
+        "2. Dialogue Practice:",
+        "   • Students role-play conversations using rising tone questions",
+        "   • Focus on questions seeking clarification, surprise, or agreement",
+        "   • Peer feedback on intonation accuracy",
+        "",
+        "3. Recording Exercise:",
+        "   • Students record themselves asking rising tone questions",
+        "   • Compare with model recordings",
+        "   • Identify and correct intonation errors",
+        "",
+        "Nigerian Context:",
+        "• Correct intonation helps Nigerian speakers communicate effectively in academic, professional, and international settings",
+        "• Understanding intonation patterns supports listening comprehension of native and non-native speakers",
+        "• Practice with local examples enhances retention and cultural relevance",
+        "",
+        "Conclusion:",
+        "• Rising tone is used with specific question types: clarification, surprise, rhetorical questions, yes/no questions, and tag questions",
+        "• Correct intonation conveys meaning, attitude, and expectation",
+        "• Common Nigerian errors involve using falling tone for all questions or inconsistent tag question intonation",
+        "• Mastery of intonation supports clear, confident, and effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing rising tone pattern with pitch arrows for questions",
+        "Chart of question types using rising tone with examples",
+        "Sample dialogues with intonation markings for practice",
+        "Nigerian context: Sample questions with local content and intonation cues",
+        "Recording exercise instructions with self-evaluation checklist"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English intonation rising tone questions SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Rising tone in questions is typically used for:",
+          "opts": [
+            "All statements",
+            "Questions seeking clarification, surprise, or agreement",
+            "Only commands",
+            "Only exclamations"
+          ],
+          "ans": 1,
+          "explanation": "Rising tone is used with questions seeking clarification, expressing surprise, rhetorical questions, yes/no questions, and tag questions seeking confirmation."
+        },
+        {
+          "q": "In the sentence 'What did you say↗?', the rising tone indicates:",
+          "opts": [
+            "A statement",
+            "A question seeking clarification or repetition",
+            "A command",
+            "An exclamation"
+          ],
+          "ans": 1,
+          "explanation": "Rising tone with 'What did you say?' indicates a request for clarification or repetition."
+        },
+        {
+          "q": "Which question type always uses rising tone?",
+          "opts": [
+            "WH-questions",
+            "Yes/No questions",
+            "Commands",
+            "Exclamations"
+          ],
+          "ans": 1,
+          "explanation": "Yes/No questions always use rising tone to indicate that an answer is expected."
+        },
+        {
+          "q": "In Nigerian context, which sentence uses rising tone correctly?",
+          "opts": [
+            "The market is busy↘",
+            "Is this the way to the market↗?",
+            "Close the gate↘",
+            "What time is it↘?"
+          ],
+          "ans": 1,
+          "explanation": "'Is this the way to the market↗?' is a yes/no question that correctly uses rising tone."
+        },
+        {
+          "q": "A tag question like 'You're coming, aren't you↗?' uses rising tone when:",
+          "opts": [
+            "The speaker is certain",
+            "The speaker seeks confirmation",
+            "The speaker is giving a command",
+            "The speaker is making a statement"
+          ],
+          "ans": 1,
+          "explanation": "Rising tone in tag questions indicates the speaker is seeking confirmation or agreement."
+        },
+        {
+          "q": "Which is a common Nigerian English intonation error?",
+          "opts": [
+            "Using rising tone for yes/no questions",
+            "Using falling tone for all questions",
+            "Using rising tone for statements",
+            "Using falling tone for exclamations"
+          ],
+          "ans": 1,
+          "explanation": "A common error is using falling tone for all questions, including those that should use rising tone for clarification or confirmation."
+        },
+        {
+          "q": "To practice rising tone, learners can:",
+          "opts": [
+            "Ignore pitch movement",
+            "Use hand gestures to visualize pitch rise",
+            "Speak only in whispers",
+            "Read without speaking"
+          ],
+          "ans": 1,
+          "explanation": "Using hand gestures to visualize pitch rise helps learners internalize intonation patterns."
+        },
+        {
+          "q": "Understanding intonation is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass speaking tests",
+            "Supports clear communication in academic, professional, and international contexts",
+            "Only for listening comprehension",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Correct intonation enhances clarity, confidence, and effectiveness in diverse communication settings."
+        },
+        {
+          "q": "Which sentence demonstrates correct rising tone for surprise?",
+          "opts": [
+            "You did that↘",
+            "You did that↗?",
+            "You did that.",
+            "You did that!"
+          ],
+          "ans": 1,
+          "explanation": "'You did that↗?' with rising tone expresses surprise or disbelief."
+        },
+        {
+          "q": "A common misconception about intonation is:",
+          "opts": [
+            "Intonation affects meaning",
+            "All questions use the same intonation",
+            "Intonation varies by context",
+            "Practice improves intonation"
+          ],
+          "ans": 1,
+          "explanation": "Not all questions use the same intonation; WH-questions, yes/no questions, and tag questions have different intonation patterns."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w3_su2",
+      "title": "3.2 Vocabulary: Words Associated with the Stock Exchange",
+      "notes": [
+        "Vocabulary Development: Stock Exchange",
+        "• Definition: The stock exchange is a marketplace where shares of publicly traded companies are bought and sold",
+        "• Importance: Understanding stock exchange vocabulary supports financial literacy, investment awareness, and economic participation",
+        "",
+        "Key Vocabulary in Stock Exchange:",
+        "1. General Stock Exchange Terms:",
+        "   • Share/Stock: A unit of ownership in a company",
+        "   • Dividend: A portion of company profits paid to shareholders",
+        "   • Broker: A licensed professional who buys/sells shares for clients",
+        "   • Portfolio: A collection of investments held by an individual or institution",
+        "   • Nigerian context: 'NSE' (Nigerian Stock Exchange), 'FBN Holdings', 'Dangote Cement shares'",
+        "",
+        "2. Market Terms:",
+        "   • Bull market: Period of rising share prices",
+        "   • Bear market: Period of falling share prices",
+        "   • Volatility: Degree of variation in share prices",
+        "   • Liquidity: Ease of buying/selling shares without affecting price",
+        "   • Nigerian context: 'NSE All-Share Index', 'market capitalization'",
+        "",
+        "3. Investment Terms:",
+        "   • Capital gain: Profit from selling shares at higher price than purchase",
+        "   • Capital loss: Loss from selling shares at lower price than purchase",
+        "   • Yield: Return on investment from dividends or price appreciation",
+        "   • Risk: Possibility of losing money on an investment",
+        "   • Nigerian context: 'Fixed income securities', 'equity investments'",
+        "",
+        "4. Trading Terms:",
+        "   • Bid: Price a buyer is willing to pay for a share",
+        "   • Ask/Offer: Price a seller is willing to accept for a share",
+        "   • Spread: Difference between bid and ask prices",
+        "   • Order: Instruction to buy or sell shares",
+        "   • Nigerian context: 'Market order', 'limit order' on NSE trading platform",
+        "",
+        "Using Stock Exchange Vocabulary in Sentences:",
+        "• 'The dividend from my FBN Holdings shares was credited to my account.'",
+        "• 'The NSE All-Share Index rose by 2% in a bull market.'",
+        "• 'I made a capital gain by selling my Dangote Cement shares at a higher price.'",
+        "• 'The spread between bid and ask prices affects trading costs.'",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Building:",
+        "   • List words associated with stock exchange from financial news or textbooks",
+        "   • Categorize by general terms, market terms, investment terms, trading terms",
+        "   • Create sentences using new vocabulary",
+        "",
+        "2. Market Analysis:",
+        "   • Analyze sample stock market reports from Nigerian financial news",
+        "   • Identify key terms and their meanings in context",
+        "   • Discuss trends and implications for investors",
+        "",
+        "3. Simulation Exercise:",
+        "   • Students simulate buying/selling shares using hypothetical portfolios",
+        "   • Use stock exchange vocabulary in transactions and reports",
+        "   • Discuss outcomes and lessons learned",
+        "",
+        "Common Misconceptions:",
+        "• 'Stock exchange is only for the wealthy': Many Nigerians can invest small amounts through collective schemes",
+        "• 'All stocks always go up': Stock prices fluctuate; investments carry risk",
+        "• 'Stock exchange vocabulary is only for finance professionals': Basic understanding supports informed citizenship",
+        "• 'Local stocks are less valuable than international ones': Nigerian companies offer investment opportunities with local relevance",
+        "",
+        "Nigerian Context:",
+        "• Nigeria's stock exchange offers investment opportunities in local companies across sectors",
+        "• Understanding stock exchange vocabulary supports financial literacy and economic participation",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Stock exchange vocabulary supports financial literacy and informed investment decisions",
+        "• Key terms cover general concepts, market dynamics, investment strategies, and trading mechanics",
+        "• Nigerian context enriches learning with local examples and economic relevance",
+        "• Mastery of this vocabulary supports academic success and economic empowerment"
+      ],
+      "diagramDescriptions": [
+        "Chart of stock exchange vocabulary by category: general, market, investment, trading",
+        "Illustration of stock market trends: bull vs bear markets",
+        "Diagram of investment terms: capital gain, loss, yield, risk",
+        "Nigerian context: Sample stock market reports from NSE with key terms highlighted",
+        "Sample sentences using stock exchange vocabulary"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary stock exchange finance SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A 'share' in the stock exchange refers to:",
+          "opts": [
+            "A loan to a company",
+            "A unit of ownership in a company",
+            "A type of bank account",
+            "A government bond"
+          ],
+          "ans": 1,
+          "explanation": "A share represents a unit of ownership in a company, giving the holder a claim on part of the company's assets and earnings."
+        },
+        {
+          "q": "In a 'bull market', share prices are:",
+          "opts": [
+            "Falling",
+            "Rising",
+            "Stable",
+            "Unpredictable"
+          ],
+          "ans": 1,
+          "explanation": "A bull market is characterized by rising share prices and investor optimism."
+        },
+        {
+          "q": "'Dividend' refers to:",
+          "opts": [
+            "The price of a share",
+            "A portion of company profits paid to shareholders",
+            "The total value of a company",
+            "The cost of buying shares"
+          ],
+          "ans": 1,
+          "explanation": "A dividend is a distribution of a portion of a company's profits to its shareholders."
+        },
+        {
+          "q": "In Nigerian context, 'NSE' stands for:",
+          "opts": [
+            "National Savings Exchange",
+            "Nigerian Stock Exchange",
+            "New Share Enterprise",
+            "National Securities Entity"
+          ],
+          "ans": 1,
+          "explanation": "NSE stands for Nigerian Stock Exchange, the primary stock exchange in Nigeria."
+        },
+        {
+          "q": "'Capital gain' is:",
+          "opts": [
+            "Loss from selling shares at a lower price",
+            "Profit from selling shares at a higher price than purchase",
+            "The initial investment amount",
+            "The annual dividend payment"
+          ],
+          "ans": 1,
+          "explanation": "Capital gain is the profit realized when an asset is sold for more than its purchase price."
+        },
+        {
+          "q": "Understanding stock exchange vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports financial literacy, investment awareness, and economic participation",
+            "Only for finance careers",
+            "Only for reading financial news"
+          ],
+          "ans": 1,
+          "explanation": "Stock exchange vocabulary supports informed financial decisions, investment awareness, and economic participation in Nigeria."
+        },
+        {
+          "q": "Which is a trading term?",
+          "opts": [
+            "Dividend",
+            "Bid",
+            "Portfolio",
+            "Bull market"
+          ],
+          "ans": 1,
+          "explanation": "'Bid' is a trading term referring to the price a buyer is willing to pay for a share."
+        },
+        {
+          "q": "In the sentence 'The spread between bid and ask prices affects trading costs', 'spread' means:",
+          "opts": [
+            "The total number of shares traded",
+            "The difference between bid and ask prices",
+            "The annual return on investment",
+            "The company's market capitalization"
+          ],
+          "ans": 1,
+          "explanation": "The spread is the difference between the bid price (what buyers pay) and ask price (what sellers accept)."
+        },
+        {
+          "q": "A common misconception about the stock exchange is:",
+          "opts": [
+            "It offers investment opportunities",
+            "All stocks always go up in value",
+            "Investments carry risk",
+            "Shares represent ownership in companies"
+          ],
+          "ans": 1,
+          "explanation": "Stock prices fluctuate; investments carry risk and do not always go up in value."
+        },
+        {
+          "q": "Which sentence uses stock exchange vocabulary correctly?",
+          "opts": [
+            "I bought a dividend from the NSE.",
+            "The bull market caused share prices to rise.",
+            "My portfolio is a type of bank account.",
+            "The bid is the price sellers accept."
+          ],
+          "ans": 1,
+          "explanation": "'The bull market caused share prices to rise' correctly uses 'bull market' to describe rising share prices."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w3_su3",
+      "title": "3.3 Comprehension/Summary: Reading a Passage on Investment/Stock Broking",
+      "notes": [
+        "Comprehension/Summary: Reading a Passage on Investment/Stock Broking",
+        "• Definition: Reading comprehension involves understanding, interpreting, and extracting meaning from a text",
+        "• Focus: Passages on investment and stock broking to develop financial literacy",
+        "",
+        "Steps for Reading Comprehension on Investment Topics:",
+        "1. Pre-reading:",
+        "   • Activate prior knowledge: What do you know about investment or stock broking?",
+        "   • Preview the passage: Look at title, headings, images for clues",
+        "   • Set a purpose: What do you want to learn from this passage?",
+        "",
+        "2. During reading:",
+        "   • Read actively: Underline key terms, main ideas, supporting details",
+        "   • Monitor understanding: Pause to clarify unfamiliar terms or concepts",
+        "   • Make connections: Relate content to prior knowledge or personal experience",
+        "",
+        "3. Post-reading:",
+        "   • Summarize main ideas in your own words",
+        "   • Answer questions based on explicit and implicit information",
+        "   • Reflect on implications: How does this information apply to your life or community?",
+        "",
+        "Key Skills for Investment-Related Comprehension:",
+        "• Identifying financial terms in context:",
+        "  - Example: 'The dividend yield of 5% means shareholders receive 5% of the share price as annual dividend.'",
+        "  - Skill: Use context clues to determine meaning of terms like 'dividend', 'yield', 'portfolio'",
+        "",
+        "• Distinguishing fact from opinion:",
+        "  - Fact: 'The NSE All-Share Index closed at 45,000 points yesterday.'",
+        "  - Opinion: 'Investing in technology stocks is the best strategy for young investors.'",
+        "  - Skill: Identify verifiable statements vs. personal judgments",
+        "",
+        "• Making inferences:",
+        "  - Example: 'The company announced record profits, and its share price rose by 10%.'",
+        "  - Inference: Investors reacted positively to the profit announcement.",
+        "  - Skill: Draw logical conclusions based on textual evidence",
+        "",
+        "• Understanding cause and effect:",
+        "  - Example: 'Rising inflation led to higher interest rates, which caused share prices to fall.'",
+        "  - Skill: Identify relationships between economic factors and market outcomes",
+        "",
+        "Nigerian Context in Investment Passages:",
+        "• Common themes:",
+        "  - Investing in Nigerian companies (Dangote, GTBank, MTN)",
+        "  - Government policies affecting the stock market",
+        "  - Challenges and opportunities for Nigerian investors",
+        "  - Financial literacy and youth empowerment",
+        "",
+        "• Cultural references:",
+        "  - Local investment platforms (e.g., 'Chaka', 'Bamboo')",
+        "  - Traditional savings groups (e.g., 'Ajo', 'Esusu') compared to formal investment",
+        "  - Religious or ethical considerations in investment decisions",
+        "",
+        "Practical Activities:",
+        "1. Passage Analysis:",
+        "   • Read a short passage on investment or stock broking",
+        "   • Identify key terms, main ideas, and supporting details",
+        "   • Discuss in groups: What are the main points? What questions do you have?",
+        "",
+        "2. Vocabulary in Context:",
+        "   • Highlight unfamiliar financial terms in the passage",
+        "   • Use context clues or dictionary to determine meanings",
+        "   • Create sentences using new terms",
+        "",
+        "3. Question Answering:",
+        "   • Answer comprehension questions based on the passage",
+        "   • Focus on literal, inferential, and evaluative questions",
+        "   • Discuss answers and reasoning with peers",
+        "",
+        "Common Misconceptions:",
+        "• 'Investment is only for experts': Basic investment knowledge is accessible to all with education",
+        "• 'Stock broking is gambling': Investing involves research, strategy, and risk management",
+        "• 'Comprehension is only about vocabulary': Understanding structure, logic, and context is equally important",
+        "• 'Nigerian investments are too risky': All investments carry risk; diversification and research mitigate risks",
+        "",
+        "Nigerian Context:",
+        "• Comprehension skills enable students to engage with Nigerian financial media, policies, and investment opportunities",
+        "• Understanding local investment contexts supports informed financial decisions and economic participation",
+        "• Practice with Nigerian examples builds confidence and critical thinking",
+        "",
+        "Conclusion:",
+        "• Reading comprehension on investment topics develops financial literacy and critical thinking",
+        "• Key skills include identifying terms, distinguishing fact from opinion, making inferences, and understanding cause-effect",
+        "• Nigerian context enhances relevance and application of comprehension skills",
+        "• Mastery supports informed citizenship and economic empowerment"
+      ],
+      "diagramDescriptions": [
+        "Flowchart of steps for reading comprehension on investment topics",
+        "Chart of key comprehension skills with investment-related examples",
+        "Sample passage on Nigerian stock market with highlighted key terms",
+        "Nigerian context: Sample investment passages with local companies and platforms",
+        "Question types: literal, inferential, evaluative with examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension investment stock broking SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading comprehension on investment topics helps students to:",
+          "opts": [
+            "Only memorize financial terms",
+            "Develop financial literacy and critical thinking",
+            "Only pass exams",
+            "Only read financial news"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills on investment topics support financial literacy, critical analysis, and informed decision-making."
+        },
+        {
+          "q": "A key skill for investment-related comprehension is:",
+          "opts": [
+            "Ignoring unfamiliar terms",
+            "Identifying financial terms in context",
+            "Only reading the title",
+            "Skipping difficult paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "Identifying financial terms in context using context clues is essential for understanding investment passages."
+        },
+        {
+          "q": "Distinguishing fact from opinion in investment passages means:",
+          "opts": [
+            "Believing everything you read",
+            "Identifying verifiable statements vs. personal judgments",
+            "Only focusing on numbers",
+            "Ignoring the author's perspective"
+          ],
+          "ans": 1,
+          "explanation": "Facts are verifiable; opinions are personal judgments. Critical reading requires distinguishing between them."
+        },
+        {
+          "q": "Making an inference in investment comprehension means:",
+          "opts": [
+            "Guessing randomly",
+            "Drawing logical conclusions based on textual evidence",
+            "Copying the author's words",
+            "Ignoring the passage"
+          ],
+          "ans": 1,
+          "explanation": "Inference involves using textual evidence to draw logical conclusions beyond what is explicitly stated."
+        },
+        {
+          "q": "In Nigerian context, an investment passage might mention:",
+          "opts": [
+            "Only foreign companies",
+            "Local companies like Dangote, GTBank, or MTN",
+            "Only historical events",
+            "Only scientific topics"
+          ],
+          "ans": 1,
+          "explanation": "Investment passages in Nigerian context often reference local companies, platforms, and economic issues."
+        },
+        {
+          "q": "Understanding cause and effect in investment passages helps to:",
+          "opts": [
+            "Memorize dates",
+            "Identify relationships between economic factors and market outcomes",
+            "Only count numbers",
+            "Ignore the main idea"
+          ],
+          "ans": 1,
+          "explanation": "Understanding cause-effect relationships helps readers analyze how economic events influence market behavior."
+        },
+        {
+          "q": "A common misconception about investment is:",
+          "opts": [
+            "It requires research and strategy",
+            "Investment is only for experts",
+            "All investments carry risk",
+            "Diversification can mitigate risks"
+          ],
+          "ans": 1,
+          "explanation": "Basic investment knowledge is accessible to all with education; it is not limited to experts."
+        },
+        {
+          "q": "The first step in reading an investment passage is to:",
+          "opts": [
+            "Answer questions immediately",
+            "Preview the passage and activate prior knowledge",
+            "Memorize every detail",
+            "Skip to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Previewing and activating prior knowledge prepares the reader for effective comprehension."
+        },
+        {
+          "q": "Which is NOT a key comprehension skill for investment passages?",
+          "opts": [
+            "Identifying terms in context",
+            "Distinguishing fact from opinion",
+            "Making random guesses",
+            "Understanding cause and effect"
+          ],
+          "ans": 2,
+          "explanation": "Making random guesses is not a comprehension skill; effective comprehension relies on evidence-based reasoning."
+        },
+        {
+          "q": "Understanding investment comprehension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports informed financial decisions and economic participation",
+            "Only for finance careers",
+            "Only for reading textbooks"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills on investment topics support financial literacy, informed decisions, and economic empowerment in Nigeria."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w3_su4",
+      "title": "3.4 Structure: Complex Sentences – Introduction to Subordinating Conjunctions",
+      "notes": [
+        "Structure: Complex Sentences",
+        "• Definition: A complex sentence contains one independent clause and at least one dependent (subordinate) clause",
+        "• Importance: Enables expression of complex ideas, relationships, and nuances in writing and speech",
+        "",
+        "Subordinating Conjunctions:",
+        "• Definition: Words that introduce dependent clauses and show relationships to independent clauses",
+        "• Common Subordinating Conjunctions:",
+        "  a) Time: when, while, before, after, since, until",
+        "     - Example: 'When the market opens, investors place orders.'",
+        "",
+        "  b) Cause/Reason: because, since, as",
+        "     - Example: 'Share prices fell because of rising inflation.'",
+        "",
+        "  c) Condition: if, unless, provided that",
+        "     - Example: 'If you invest early, you may benefit from compound interest.'",
+        "",
+        "  d) Contrast: although, though, even though, whereas",
+        "     - Example: 'Although the market is volatile, long-term investors remain optimistic.'",
+        "",
+        "  e) Purpose: so that, in order that",
+        "     - Example: 'She saved money so that she could invest in shares.'",
+        "",
+        "  f) Result: so...that, such...that",
+        "     - Example: 'The news was so positive that share prices rose sharply.'",
+        "",
+        "Structure of Complex Sentences:",
+        "• Independent clause + dependent clause:",
+        "  - 'Investors buy shares [independent] when the market is bullish [dependent].'",
+        "",
+        "• Dependent clause + independent clause:",
+        "  - 'When the market is bullish [dependent], investors buy shares [independent].'",
+        "  - Note: Use a comma when dependent clause comes first",
+        "",
+        "Functions of Dependent Clauses:",
+        "• Adverbial clauses: Modify verbs, adjectives, or adverbs",
+        "  - Example: 'He invested cautiously [verb] because he was risk-averse [reason].'",
+        "",
+        "• Adjectival (relative) clauses: Modify nouns",
+        "  - Example: 'The company [noun] that announced record profits [clause] saw its share price rise.'",
+        "",
+        "• Noun clauses: Function as subjects, objects, or complements",
+        "  - Example: 'What matters most [subject] is long-term growth.'",
+        "",
+        "Identifying Complex Sentences:",
+        "1. Look for subordinating conjunctions:",
+        "   • Words like 'because', 'although', 'if', 'when' often introduce dependent clauses",
+        "",
+        "2. Test for completeness:",
+        "   • Can the clause stand alone as a sentence?",
+        "   • If no, it's dependent; if yes, it's independent",
+        "",
+        "3. Check punctuation:",
+        "   • Comma often separates dependent and independent clauses",
+        "   - Example: 'Although the market is volatile, long-term investors remain optimistic.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Sentence fragment (dependent clause alone)",
+        "  - Incorrect: 'Because the market is volatile.'",
+        "  - Correct: 'Because the market is volatile, investors should diversify.'",
+        "",
+        "• Error: Comma misuse",
+        "  - Incorrect: 'Investors buy shares, when the market is bullish.'",
+        "  - Correct: 'Investors buy shares when the market is bullish.' (no comma when independent clause first)",
+        "",
+        "• Error: Using coordinating conjunction instead of subordinating",
+        "  - Incorrect: 'I like stocks, and bonds are safer.'",
+        "  - Correct: 'I like stocks, although bonds are safer.' (contrast requires subordinating conjunction)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'If you invest early. You may benefit.'",
+        "  - Correction: 'If you invest early, you may benefit.'",
+        "",
+        "Practical Activities:",
+        "1. Clause Identification:",
+        "   • Provide sentences for students to identify independent and dependent clauses",
+        "   • Underline subordinating conjunctions and discuss their functions",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write complex sentences using given subordinating conjunctions",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on structure and punctuation",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with complex sentence errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'Complex sentences are always longer': Length doesn't determine complexity; structure does",
+        "• 'Subordinating conjunctions are interchangeable': Each conjunction expresses a specific relationship",
+        "• 'Dependent clauses can stand alone': Dependent clauses require independent clauses to form complete sentences",
+        "• 'Commas are optional in complex sentences': Correct punctuation is essential for clarity",
+        "",
+        "Nigerian Context:",
+        "• Understanding complex sentences supports clear communication in academic writing and professional contexts",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "• Mastery of sentence structure improves writing variety and effectiveness",
+        "",
+        "Conclusion:",
+        "• Complex sentences combine independent and dependent clauses using subordinating conjunctions",
+        "• Subordinating conjunctions express relationships of time, cause, condition, contrast, purpose, or result",
+        "• Correct structure and punctuation are essential for clarity",
+        "• Mastery of complex sentences improves writing sophistication and communication effectiveness"
+      ],
+      "diagramDescriptions": [
+        "Chart of subordinating conjunctions by function with examples",
+        "Flowchart for identifying complex sentences",
+        "Comparison of simple, compound, and complex sentences",
+        "Nigerian context: Sample sentences with correct/incorrect complex sentence structure",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar complex sentences subordinating conjunctions SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A complex sentence contains:",
+          "opts": [
+            "Only one independent clause",
+            "One independent clause and at least one dependent clause",
+            "Only dependent clauses",
+            "Two or more independent clauses"
+          ],
+          "ans": 1,
+          "explanation": "A complex sentence has one independent clause and at least one dependent (subordinate) clause."
+        },
+        {
+          "q": "Which is a subordinating conjunction?",
+          "opts": [
+            "and",
+            "because",
+            "but",
+            "or"
+          ],
+          "ans": 1,
+          "explanation": "'Because' is a subordinating conjunction that introduces a dependent clause showing cause/reason."
+        },
+        {
+          "q": "In the sentence 'When the market opens, investors place orders', 'when' introduces a:",
+          "opts": [
+            "Independent clause",
+            "Dependent clause",
+            "Compound sentence",
+            "Simple sentence"
+          ],
+          "ans": 1,
+          "explanation": "'When the market opens' is a dependent clause introduced by the subordinating conjunction 'when'."
+        },
+        {
+          "q": "Which sentence is complex?",
+          "opts": [
+            "The boy kicked the ball.",
+            "The boy kicked the ball, and it went into the goal.",
+            "Because the boy kicked the ball, it went into the goal.",
+            "The boy who kicked the ball scored."
+          ],
+          "ans": 2,
+          "explanation": "'Because the boy kicked the ball, it went into the goal' has a dependent clause ('Because...') and an independent clause, making it complex."
+        },
+        {
+          "q": "When a dependent clause comes first in a complex sentence, you should use:",
+          "opts": [
+            "No punctuation",
+            "A comma after the dependent clause",
+            "A semicolon",
+            "A period"
+          ],
+          "ans": 1,
+          "explanation": "When a dependent clause begins a complex sentence, a comma separates it from the independent clause."
+        },
+        {
+          "q": "In Nigerian context, which is a correct complex sentence?",
+          "opts": [
+            "If you invest early. You may benefit.",
+            "If you invest early, you may benefit.",
+            "You may benefit if you invest early.",
+            "Both B and C"
+          ],
+          "ans": 3,
+          "explanation": "Both 'If you invest early, you may benefit.' (dependent first) and 'You may benefit if you invest early.' (independent first) are correct complex sentences."
+        },
+        {
+          "q": "A dependent clause cannot:",
+          "opts": [
+            "Contain a subject and verb",
+            "Express a complete thought",
+            "Be introduced by a subordinating conjunction",
+            "Modify an independent clause"
+          ],
+          "ans": 1,
+          "explanation": "A dependent clause has a subject and verb but cannot express a complete thought; it depends on an independent clause."
+        },
+        {
+          "q": "Understanding complex sentences is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing sophistication and communication effectiveness in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of complex sentences enables students to express complex ideas clearly and effectively in academic and professional writing."
+        },
+        {
+          "q": "Which subordinating conjunction shows contrast?",
+          "opts": [
+            "because",
+            "although",
+            "if",
+            "when"
+          ],
+          "ans": 1,
+          "explanation": "'Although' introduces a dependent clause showing contrast: 'Although the market is volatile, investors remain optimistic.'"
+        },
+        {
+          "q": "A common misconception about complex sentences is:",
+          "opts": [
+            "They require subordinating conjunctions",
+            "Complex sentences are always longer than simple sentences",
+            "Dependent clauses cannot stand alone",
+            "Correct punctuation is essential"
+          ],
+          "ans": 1,
+          "explanation": "Sentence length doesn't determine complexity; a short sentence can be complex if it has a dependent clause."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w3_su5",
+      "title": "3.5 Continuous Writing: Oral Composition of a Descriptive Essay (Continued)",
+      "notes": [
+        "Continuous Writing: Oral Composition of a Descriptive Essay (Continued)",
+        "• Focus: Refining oral descriptive skills before written composition",
+        "• Importance: Oral practice builds confidence, fluency, and clarity for written expression",
+        "",
+        "Refining Oral Descriptive Skills:",
+        "1. Enhancing Sensory Details:",
+        "   • Go beyond basic description: 'The market was busy' → 'The market buzzed with vendors' shouts, the scent of fresh pepper, and the vibrant colors of fabrics.'",
+        "   • Use all five senses: sight, sound, smell, taste, touch",
+        "   • Nigerian context: Describe the 'sizzle of suya', 'rhythm of talking drums', 'aroma of jollof rice'",
+        "",
+        "2. Using Figurative Language Orally:",
+        "   • Simile: 'The crowd moved like a river.'",
+        "   • Metaphor: 'The market was a beehive of activity.'",
+        "   • Personification: 'The wind whispered through the palm trees.'",
+        "   • Nigerian context: Use local proverbs or metaphors: 'The sun smiled on the festival.'",
+        "",
+        "3. Structuring Oral Description:",
+        "   • Spatial order: Describe from near to far, left to right, top to bottom",
+        "   • Order of importance: Start with most striking features",
+        "   • Chronological order: Describe changes over time",
+        "   • Example: 'First, I saw the colorful stalls; then, I heard the vendors' calls; finally, I smelled the spicy food.'",
+        "",
+        "4. Engaging the Audience:",
+        "   • Use rhetorical questions: 'Have you ever experienced the energy of a Nigerian market?'",
+        "   • Invite imagination: 'Picture yourself walking through the bustling streets...'",
+        "   • Use pauses and emphasis for dramatic effect",
+        "",
+        "From Oral to Written Composition:",
+        "a) Transferring Oral Description to Writing:",
+        "   • Record oral description or take notes during practice",
+        "   • Organize ideas into written structure: introduction, body, conclusion",
+        "   • Refine language: replace spoken fillers with precise vocabulary",
+        "",
+        "b) Revising for Written Form:",
+        "   • Check for coherence: Do ideas flow logically?",
+        "   • Enhance imagery: Add or refine sensory details",
+        "   • Ensure grammatical correctness: subject-verb agreement, tense consistency",
+        "",
+        "c) Final Polishing:",
+        "   • Read aloud to check rhythm and flow",
+        "   • Edit for conciseness: Remove redundant words",
+        "   • Proofread for spelling and punctuation",
+        "",
+        "Sample Descriptive Topics for Oral/Written Practice:",
+        "• My school compound",
+        "• A rainy day in my community",
+        "• The atmosphere during a local festival",
+        "• A visit to a Nigerian market",
+        "• The view from my classroom window",
+        "",
+        "Practical Activities:",
+        "1. Sensory Detail Expansion:",
+        "   • Start with a simple sentence: 'The festival was lively.'",
+        "   • Expand with sensory details: 'The festival buzzed with drumming, the scent of roasted corn, and the vibrant colors of traditional attire.'",
+        "   • Share expansions with classmates for feedback",
+        "",
+        "2. Figurative Language Practice:",
+        "   • Given a simple description, add a simile, metaphor, or personification",
+        "   • Example: 'The river flowed' → 'The river flowed like a silver ribbon.'",
+        "   • Discuss effectiveness of figurative language",
+        "",
+        "3. Oral-to-Written Transition:",
+        "   • Record a 2-minute oral description of a familiar place",
+        "   • Transcribe and revise into a written paragraph",
+        "   • Compare oral and written versions for clarity and impact",
+        "",
+        "Common Misconceptions:",
+        "• 'Oral and written description are the same': Oral description uses tone, pace, and gestures; written relies on precise language and structure",
+        "• 'More details always mean better description': Quality and relevance matter more than quantity",
+        "• 'Figurative language is only for poetry': It enhances description in essays too",
+        "• 'Descriptive essays don't need a clear focus': A central impression guides the description",
+        "",
+        "Nigerian Context:",
+        "• Descriptive writing skills support academic success in Nigerian schools and universities",
+        "• Understanding local themes enhances relevance and cultural expression",
+        "• Practice with Nigerian examples builds confidence and creativity",
+        "",
+        "Conclusion:",
+        "• Oral descriptive practice builds confidence and clarity for written composition",
+        "• Enhancing sensory details, using figurative language, and structuring description improve effectiveness",
+        "• Transitioning from oral to written form requires organization, refinement, and polishing",
+        "• In Nigeria, descriptive writing supports academic achievement and cultural expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of sensory details expansion with examples",
+        "Examples of figurative language: simile, metaphor, personification with Nigerian context",
+        "Flowchart of oral-to-written composition process",
+        "Nigerian context: Sample descriptive topics on local scenes, events, or objects",
+        "Revision checklist for written descriptive essays"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing descriptive essay oral to written SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Oral descriptive practice helps to:",
+          "opts": [
+            "Only improve speaking skills",
+            "Build confidence and clarity for written composition",
+            "Only memorize vocabulary",
+            "Only practice pronunciation"
+          ],
+          "ans": 1,
+          "explanation": "Oral descriptive practice builds confidence, fluency, and clarity that transfer to written composition."
+        },
+        {
+          "q": "Enhancing sensory details in description means:",
+          "opts": [
+            "Using only visual details",
+            "Engaging all five senses: sight, sound, smell, taste, touch",
+            "Avoiding adjectives",
+            "Only describing what you see"
+          ],
+          "ans": 1,
+          "explanation": "Effective description engages multiple senses to create a vivid, immersive experience for the reader/listener."
+        },
+        {
+          "q": "Figurative language in descriptive writing includes:",
+          "opts": [
+            "Only adjectives",
+            "Simile, metaphor, personification",
+            "Only nouns",
+            "Only verbs"
+          ],
+          "ans": 1,
+          "explanation": "Figurative language includes simile, metaphor, and personification to enhance description and create vivid imagery."
+        },
+        {
+          "q": "In oral description, spatial order means:",
+          "opts": [
+            "Describing events in time order",
+            "Describing from near to far, left to right, or top to bottom",
+            "Describing only the most important features",
+            "Describing in random order"
+          ],
+          "ans": 1,
+          "explanation": "Spatial order organizes description by physical location: near to far, left to right, etc."
+        },
+        {
+          "q": "When transitioning from oral to written description, you should:",
+          "opts": [
+            "Copy the oral version exactly",
+            "Organize ideas, refine language, and check grammar",
+            "Add more spoken fillers",
+            "Ignore punctuation"
+          ],
+          "ans": 1,
+          "explanation": "Transitioning to written form requires organizing ideas, refining language, and ensuring grammatical correctness."
+        },
+        {
+          "q": "In Nigerian context, a descriptive essay might include:",
+          "opts": [
+            "Only foreign landscapes",
+            "Local sensory details like 'sizzle of suya' or 'rhythm of talking drums'",
+            "Only scientific terms",
+            "Only historical facts"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive essays in Nigerian context often include local sensory details to enhance cultural relevance and vividness."
+        },
+        {
+          "q": "A common error in descriptive writing is:",
+          "opts": [
+            "Using sensory details",
+            "Using vague terms like 'nice' or 'good'",
+            "Organizing details logically",
+            "Using figurative language"
+          ],
+          "ans": 1,
+          "explanation": "Vague terms like 'nice' or 'good' weaken description; precise, specific vocabulary is more effective."
+        },
+        {
+          "q": "Understanding descriptive writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports academic writing, cultural expression, and creative communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive writing skills support academic success, cultural expression, and effective communication in Nigerian contexts."
+        },
+        {
+          "q": "Which is NOT a feature of effective descriptive writing?",
+          "opts": [
+            "Vivid imagery",
+            "Organized structure",
+            "Argumentative thesis",
+            "Figurative language"
+          ],
+          "ans": 2,
+          "explanation": "Descriptive essays focus on description, not argument; an argumentative thesis is for persuasive essays."
+        },
+        {
+          "q": "A common misconception about descriptive writing is:",
+          "opts": [
+            "They require sensory details",
+            "They are just lists of details without organization",
+            "They use figurative language",
+            "They have a clear focus or impression"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive essays require organization and a central impression; they are not just random lists of details."
+        }
+      ]
+    }
+  ]
+}

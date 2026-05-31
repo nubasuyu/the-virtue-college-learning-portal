@@ -1,0 +1,827 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 6,
+  "topic": "Speech, Structure, Vocabulary, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w6_su1",
+      "title": "6.1 Speech: Speaking to Persuade, Convince and Sway Opinion",
+      "notes": [
+        "Speech: Speaking to Persuade, Convince and Sway Opinion",
+        "",
+        "Key Concepts:",
+        "1. What is persuasive speaking?",
+        "   - Using language to influence others' thoughts, feelings, or actions",
+        "   - Aims to convince the audience to accept a viewpoint or take action",
+        "   - Example: A speech on 'Why We Should Protect Our Environment'",
+        "",
+        "2. Features of persuasive speaking:",
+        "   - Clear position or argument",
+        "   - Logical reasoning and evidence",
+        "   - Emotional appeal (pathos)",
+        "   - Credibility and trustworthiness (ethos)",
+        "   - Strong conclusion with call to action",
+        "",
+        "3. Techniques for persuasive speaking:",
+        "   - Use rhetorical questions: 'Don't we all want a better Nigeria?'",
+        "   - Use repetition for emphasis: 'We must act. We must change. We must succeed.'",
+        "   - Use examples and stories to illustrate points",
+        "   - Address counterarguments respectfully",
+        "",
+        "4. Steps for preparing a persuasive speech:",
+        "   - Step 1: Choose a topic and take a clear position",
+        "   - Step 2: Research and gather evidence for your argument",
+        "   - Step 3: Organize ideas: introduction, arguments, counterarguments, conclusion",
+        "   - Step 4: Write a draft with persuasive language and clear reasoning",
+        "   - Step 5: Practice delivery for clarity, confidence, and impact",
+        "",
+        "5. Language features for persuasive speaking:",
+        "   - Use strong, active verbs: 'act', 'change', 'protect'",
+        "   - Use persuasive words: 'must', 'should', 'important', 'essential'",
+        "   - Use transitional words: 'therefore', 'however', 'consequently'",
+        "   - Use inclusive language: 'we', 'our', 'us' to build connection",
+        "",
+        "Nigerian Context:",
+        "• Sample persuasive speech topics for Nigerian students:",
+        "  - 'Why We Should Fight Corruption in Nigeria'",
+        "  - 'The Importance of Education for National Development'",
+        "  - 'How Youth Can Lead Positive Change in Our Communities'",
+        "",
+        "• Cultural considerations:",
+        "  - Using culturally appropriate examples and references",
+        "  - Respecting diverse viewpoints while presenting arguments",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Persuasive Technique Practice:",
+        "   - Teacher provides persuasive speech excerpts",
+        "   - Students identify persuasive techniques used",
+        "   - Groups discuss effectiveness of different techniques",
+        "",
+        "2. Speech Preparation:",
+        "   - Students choose a persuasive topic relevant to Nigerian life",
+        "   - Focus on clear position, logical arguments, and persuasive language",
+        "   - Write a short persuasive speech draft",
+        "",
+        "3. Speech Delivery:",
+        "   - Students deliver their persuasive speeches to the class",
+        "   - Focus on clarity, confidence, and persuasive delivery",
+        "   - Peer feedback on content and delivery effectiveness",
+        "",
+        "Common Misconceptions:",
+        "• 'Persuasion means manipulating others': Persuasion uses logical reasoning and evidence, not manipulation",
+        "• 'Only experts can persuade': With practice, anyone can learn persuasive speaking skills",
+        "• 'Persuasion is only for debates': Persuasion is used in everyday communication, not just formal debates",
+        "• 'Emotional appeal is not important': Emotional appeal (pathos) is a key element of effective persuasion",
+        "",
+        "Nigerian Context:",
+        "• Persuasive speaking supports effective communication for civic participation and leadership",
+        "• Practice with local topics enhances relevance and retention",
+        "• Persuasive speaking skills are foundational for academic success and community engagement",
+        "",
+        "Conclusion:",
+        "• Persuasive speaking uses language to influence others' thoughts or actions",
+        "• Features include clear position, logical reasoning, emotional appeal, and strong conclusion",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of persuasive speaking supports academic success and civic participation"
+      ],
+      "diagramDescriptions": [
+        "Chart of persuasive speaking techniques with Nigerian examples",
+        "Diagram of persuasive speech structure: introduction, arguments, counterarguments, conclusion",
+        "Sample persuasive speech on environmental protection with features highlighted",
+        "Nigerian context: Sample persuasive topics and cultural considerations",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English speech persuasive speaking techniques site:youtube.com",
+      "quiz": [
+        {
+          "q": "Persuasive speaking is:",
+          "opts": [
+            "Only telling stories",
+            "Using language to influence others' thoughts, feelings, or actions",
+            "Only for debates",
+            "Only for formal speeches"
+          ],
+          "ans": 1,
+          "explanation": "Persuasive speaking uses language to influence others' thoughts, feelings, or actions, not just telling stories."
+        },
+        {
+          "q": "A feature of persuasive speaking is:",
+          "opts": [
+            "Only emotional language",
+            "Clear position, logical reasoning, emotional appeal, and strong conclusion",
+            "Only facts",
+            "Only personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Persuasive speaking uses clear position, logical reasoning, emotional appeal, and strong conclusion."
+        },
+        {
+          "q": "A technique for persuasive speaking is to:",
+          "opts": [
+            "Ignore the audience",
+            "Use rhetorical questions and repetition for emphasis",
+            "Only use complex words",
+            "Skip the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Using rhetorical questions and repetition helps emphasize key points and engage the audience."
+        },
+        {
+          "q": "The first step in preparing a persuasive speech is to:",
+          "opts": [
+            "Write the conclusion",
+            "Choose a topic and take a clear position",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a topic and taking a clear position is the first step before researching and organizing."
+        },
+        {
+          "q": "In Nigerian context, a persuasive speech topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Why We Should Fight Corruption in Nigeria'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Persuasive speech topics in Nigerian context often address local issues like corruption, education, and youth empowerment."
+        },
+        {
+          "q": "A good tip for persuasive speaking is to:",
+          "opts": [
+            "Write without planning",
+            "Use strong verbs and inclusive language",
+            "Only use simple words",
+            "Ignore counterarguments"
+          ],
+          "ans": 1,
+          "explanation": "Using strong verbs and inclusive language creates clear, persuasive, and engaging speeches."
+        },
+        {
+          "q": "Understanding persuasive speaking is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports effective communication for civic participation and leadership",
+            "Only for debates",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Persuasive speaking skills help students communicate effectively for civic participation and leadership in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a feature of persuasive speaking?",
+          "opts": [
+            "Clear position",
+            "Logical reasoning",
+            "Random opinions",
+            "Strong conclusion"
+          ],
+          "ans": 2,
+          "explanation": "Random opinions are not a feature of persuasive speaking; clear position, logical reasoning, and strong conclusion are."
+        },
+        {
+          "q": "A common misconception about persuasive speaking is:",
+          "opts": [
+            "Persuasion uses logical reasoning",
+            "Persuasion means manipulating others",
+            "Persuasion requires practice",
+            "Persuasion supports civic participation"
+          ],
+          "ans": 1,
+          "explanation": "Persuasion uses logical reasoning and evidence, not manipulation; it aims to convince, not deceive."
+        },
+        {
+          "q": "When preparing a persuasive speech, you should:",
+          "opts": [
+            "Ignore the audience",
+            "Choose a clear position, research evidence, and organize ideas logically",
+            "Only use emotional language",
+            "Skip practicing delivery"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a clear position, researching evidence, and organizing ideas logically creates effective persuasive speeches."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w6_su2",
+      "title": "6.2 Structure: Auxiliary Verbs",
+      "notes": [
+        "Structure: Auxiliary Verbs",
+        "",
+        "Key Concepts:",
+        "1. What are auxiliary verbs?",
+        "   - Helping verbs that support the main verb in a sentence",
+        "   - Express tense, mood, voice, or aspect",
+        "   - Examples: be, have, do, can, could, will, would, shall, should, may, might, must",
+        "",
+        "2. Types of auxiliary verbs:",
+        "   a) Primary auxiliaries:",
+        "      - Be: am, is, are, was, were, been, being",
+        "      - Have: have, has, had",
+        "      - Do: do, does, did",
+        "      - Example: 'She is studying.' 'They have finished.' 'He does not know.'",
+        "   b) Modal auxiliaries:",
+        "      - Express possibility, permission, ability, obligation",
+        "      - Examples: can, could, may, might, must, shall, should, will, would",
+        "      - Example: 'You must study.' 'She can swim.' 'We should help.'",
+        "",
+        "3. Functions of auxiliary verbs in sentences:",
+        "   - Form tenses: 'She is running.' (present continuous)",
+        "   - Form questions: 'Do you like school?'",
+        "   - Form negatives: 'He does not know.'",
+        "   - Express modality: 'You must try.' (obligation)",
+        "",
+        "4. Identifying auxiliary verbs in passages:",
+        "   - Look for helping verbs before main verbs",
+        "   - Ask: Is this verb helping another verb express tense, mood, or voice?",
+        "   - Example passage:",
+        "     'Students should study hard because they can succeed if they try.'",
+        "     Auxiliary verbs: should (modal), can (modal), can (modal)",
+        "",
+        "5. Making sentences with auxiliary verbs:",
+        "   - Start with a subject + auxiliary + main verb: 'She is studying.'",
+        "   - Add modals for possibility/obligation: 'You must study.'",
+        "   - Use auxiliaries to form questions: 'Can you help?'",
+        "",
+        "Nigerian Context:",
+        "• Common auxiliary verbs in Nigerian English:",
+        "  - Primary: 'We are studying.' 'They have finished.' 'He does not know.'",
+        "  - Modal: 'We must work hard.' 'You should try.' 'They can succeed.'",
+        "",
+        "• Cultural considerations:",
+        "  - Using auxiliary verbs to express possibility, obligation, and ability in Nigerian contexts",
+        "  - Auxiliaries for value discussions: 'should respect', 'must try', 'can achieve'",
+        "  - Auxiliaries for national development: 'must unite', 'should invest', 'can progress'",
+        "",
+        "Practical Activities:",
+        "1. Auxiliary Verb Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all auxiliary verbs in different colors by type",
+        "   - Class discusses findings and auxiliary verb functions",
+        "",
+        "2. Auxiliary Verb Sorting Game:",
+        "   - Teacher writes auxiliary verbs on cards",
+        "   - Students sort into primary and modal categories",
+        "   - Groups present their sorted verbs with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive main verb cards and auxiliary verb cards",
+        "   - In groups, they create sentences using auxiliary verbs correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All helping verbs are the same': Primary and modal auxiliaries have different functions",
+        "• 'Auxiliary verbs are not important': Auxiliary verbs are essential for expressing tense, mood, and voice",
+        "• 'Only one auxiliary per sentence': Sentences can have multiple auxiliary verbs",
+        "• 'Auxiliary verbs are only for questions': They are used in statements, questions, and negatives",
+        "",
+        "Nigerian Context:",
+        "• Understanding auxiliary verbs supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of auxiliary verbs is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Auxiliary verbs are helping verbs that support the main verb in a sentence",
+        "• Types include primary auxiliaries (be, have, do) and modal auxiliaries (can, must, should)",
+        "• Functions include forming tenses, questions, negatives, and expressing modality",
+        "• Mastery of auxiliary verbs supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of auxiliary verb types with Nigerian examples",
+        "Diagram showing auxiliary verb functions in sentences",
+        "Sample passage with auxiliary verbs highlighted by type",
+        "Auxiliary verb sorting activity template",
+        "Nigerian context: Common auxiliary verbs in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar auxiliary verbs site:youtube.com",
+      "quiz": [
+        {
+          "q": "An auxiliary verb is:",
+          "opts": [
+            "A main verb that shows action",
+            "A helping verb that supports the main verb",
+            "Only a modal verb",
+            "Only a primary verb"
+          ],
+          "ans": 1,
+          "explanation": "An auxiliary verb is a helping verb that supports the main verb in a sentence."
+        },
+        {
+          "q": "Which is a primary auxiliary verb?",
+          "opts": [
+            "can",
+            "is",
+            "must",
+            "should"
+          ],
+          "ans": 1,
+          "explanation": "'Is' is a primary auxiliary verb (form of 'be'); 'can', 'must', 'should' are modal auxiliaries."
+        },
+        {
+          "q": "In the sentence 'She is studying', 'is' is an auxiliary verb that helps form:",
+          "opts": [
+            "Simple present tense",
+            "Present continuous tense",
+            "Past tense",
+            "Future tense"
+          ],
+          "ans": 1,
+          "explanation": "'Is' helps form the present continuous tense with the main verb 'studying'."
+        },
+        {
+          "q": "Which type of auxiliary verb expresses possibility or obligation?",
+          "opts": [
+            "Primary auxiliary",
+            "Modal auxiliary",
+            "Main verb",
+            "Adverb"
+          ],
+          "ans": 1,
+          "explanation": "Modal auxiliary verbs (can, must, should) express possibility, permission, ability, or obligation."
+        },
+        {
+          "q": "In Nigerian context, which is a modal auxiliary verb?",
+          "opts": [
+            "is",
+            "must",
+            "have",
+            "do"
+          ],
+          "ans": 1,
+          "explanation": "'Must' is a modal auxiliary verb commonly used in Nigerian English to express obligation."
+        },
+        {
+          "q": "Auxiliary verbs can function to:",
+          "opts": [
+            "Only form questions",
+            "Form tenses, questions, negatives, and express modality",
+            "Only form negatives",
+            "Only express modality"
+          ],
+          "ans": 1,
+          "explanation": "Auxiliary verbs form tenses, questions, negatives, and express modality in sentences."
+        },
+        {
+          "q": "Understanding auxiliary verbs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Auxiliary verbs are essential for expressing tense, mood, and voice, which is vital for clear communication."
+        },
+        {
+          "q": "Which is NOT a type of auxiliary verb?",
+          "opts": [
+            "Primary auxiliary",
+            "Modal auxiliary",
+            "Action auxiliary",
+            "Helping verb"
+          ],
+          "ans": 2,
+          "explanation": "'Action auxiliary' is not a type of auxiliary verb; primary and modal are types of auxiliary verbs."
+        },
+        {
+          "q": "A common misconception about auxiliary verbs is:",
+          "opts": [
+            "Auxiliary verbs help main verbs",
+            "All helping verbs are the same",
+            "Auxiliary verbs form tenses and questions",
+            "Practice improves auxiliary verb usage"
+          ],
+          "ans": 1,
+          "explanation": "Not all helping verbs are the same; primary and modal auxiliaries have different functions."
+        },
+        {
+          "q": "A good strategy for identifying auxiliary verbs is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: Is this verb helping another verb express tense, mood, or voice?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking if a verb is helping another verb express tense, mood, or voice helps identify auxiliary verbs."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w6_su3",
+      "title": "6.3 Vocabulary: Words Associated with Plumbing",
+      "notes": [
+        "Vocabulary: Words Associated with Plumbing",
+        "",
+        "Key Concepts:",
+        "1. What is plumbing?",
+        "   - The system of pipes, fixtures, and appliances for water supply and drainage",
+        "   - Essential for sanitation, hygiene, and comfort in buildings",
+        "   - Example: Installing pipes for clean water and waste removal",
+        "",
+        "2. Common plumbing vocabulary:",
+        "   a) Pipes and fittings:",
+        "      - Pipe, tube, hose, valve, faucet, tap, joint, connector",
+        "   b) Fixtures and appliances:",
+        "      - Sink, toilet, shower, bathtub, water heater, drain",
+        "   c) Tools and materials:",
+        "      - Wrench, pliers, plumber's tape, sealant, pipe cutter",
+        "   d) Problems and solutions:",
+        "      - Leak, clog, blockage, repair, maintenance, installation",
+        "",
+        "3. Functions of plumbing vocabulary:",
+        "   - Describe plumbing systems and components",
+        "   - Explain plumbing problems and solutions",
+        "   - Communicate with plumbers and contractors",
+        "   - Understand maintenance instructions",
+        "",
+        "4. How to learn plumbing vocabulary effectively:",
+        "   - Use context clues to understand new words",
+        "   - Practice using new words in sentences",
+        "   - Create flashcards for difficult words",
+        "   - Visit plumbing sites or watch demonstrations",
+        "",
+        "Nigerian Context:",
+        "• Common plumbing vocabulary in Nigerian English:",
+        "  - Pipes: 'water pipe', 'drain pipe', 'PVC pipe'",
+        "  - Fixtures: 'tap', 'sink', 'toilet', 'shower'",
+        "  - Problems: 'leak', 'blockage', 'low pressure', 'burst pipe'",
+        "  - Solutions: 'repair', 'replace', 'maintenance', 'plumber'",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local plumbing practices and terminology",
+        "  - Recognizing traditional and modern plumbing methods",
+        "  - Appreciating the importance of plumbing in Nigerian homes and communities",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Hunt:",
+        "   - Teacher provides a short passage on plumbing",
+        "   - Students work in pairs to identify and define plumbing terms",
+        "   - Groups share their findings and discuss word meanings",
+        "",
+        "2. Context Clue Practice:",
+        "   - Teacher writes sentences with unfamiliar plumbing words",
+        "   - Students use context clues to guess word meanings",
+        "   - Class discusses how context helps understand new vocabulary",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive plumbing vocabulary cards",
+        "   - In groups, they create sentences using new words correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Vocabulary is only about memorizing words': Vocabulary is best learned in context",
+        "• 'All words have one meaning': Many words have multiple meanings depending on context",
+        "• 'Dictionary is the only way to learn words': Context clues and practice are equally important",
+        "• 'Vocabulary is only for reading': Vocabulary supports speaking, writing, and listening too",
+        "",
+        "Nigerian Context:",
+        "• Identifying plumbing vocabulary helps students understand home maintenance and community development",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Plumbing has specific vocabulary that describes systems, components, and problems",
+        "• Strategies include using context clues, practicing in sentences, and visiting plumbing sites",
+        "• Practice with Nigerian plumbing topics makes learning relevant and effective",
+        "• Mastery of plumbing vocabulary supports reading comprehension and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of plumbing vocabulary with categories and examples",
+        "Flowchart for vocabulary learning strategies",
+        "Sample passage on plumbing with vocabulary highlighted",
+        "Nigerian context: Sample plumbing vocabulary with cultural notes",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vocabulary plumbing Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Plumbing refers to:",
+          "opts": [
+            "Only electrical wiring",
+            "The system of pipes, fixtures, and appliances for water supply and drainage",
+            "Only building construction",
+            "Only painting and decoration"
+          ],
+          "ans": 1,
+          "explanation": "Plumbing is the system of pipes, fixtures, and appliances for water supply and drainage."
+        },
+        {
+          "q": "A strategy for learning plumbing vocabulary is to:",
+          "opts": [
+            "Ignore unfamiliar words",
+            "Use context clues to guess meaning",
+            "Only use a dictionary",
+            "Skip difficult passages"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues helps you guess the meaning of unfamiliar words before checking a dictionary."
+        },
+        {
+          "q": "In a passage about plumbing, 'leak' means:",
+          "opts": [
+            "A type of pipe",
+            "Water escaping from a pipe or fixture",
+            "A tool for fixing pipes",
+            "A type of water heater"
+          ],
+          "ans": 1,
+          "explanation": "A leak is water escaping from a pipe or fixture, a common plumbing problem."
+        },
+        {
+          "q": "To identify plumbing vocabulary in passages, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read carefully and highlight unfamiliar words",
+            "Ignore the context",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and highlighting unfamiliar words helps you identify vocabulary to learn."
+        },
+        {
+          "q": "In Nigerian context, 'tap' is a word associated with:",
+          "opts": [
+            "Electrical wiring",
+            "A fixture for controlling water flow",
+            "Building construction",
+            "Painting and decoration"
+          ],
+          "ans": 1,
+          "explanation": "A tap is a fixture for controlling water flow, common in Nigerian plumbing."
+        },
+        {
+          "q": "A common mistake in vocabulary learning is:",
+          "opts": [
+            "Using context clues",
+            "Assuming all words have only one meaning",
+            "Checking a dictionary",
+            "Practicing with passages"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all words have only one meaning is a mistake; many words have multiple meanings depending on context."
+        },
+        {
+          "q": "Understanding plumbing vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of home maintenance and community development texts",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Plumbing vocabulary helps students understand texts about home maintenance and community development."
+        },
+        {
+          "q": "Which is NOT a plumbing vocabulary word?",
+          "opts": [
+            "Pipe",
+            "Faucet",
+            "Algorithm",
+            "Drain"
+          ],
+          "ans": 2,
+          "explanation": "'Algorithm' is a technical term, not related to plumbing vocabulary."
+        },
+        {
+          "q": "A common misconception about vocabulary is:",
+          "opts": [
+            "Vocabulary is best learned in context",
+            "Vocabulary is only about memorizing words",
+            "Context clues help understand new words",
+            "Practice improves vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Vocabulary is not only about memorizing words; it's best learned in context through practice."
+        },
+        {
+          "q": "When learning plumbing vocabulary, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Use context clues and verify with a dictionary",
+            "Only memorize definitions",
+            "Skip unfamiliar words"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues and verifying with a dictionary helps you accurately learn new vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w6_su4",
+      "title": "6.4 Continuous Writing: Semi-Formal Letter - Features and Language",
+      "notes": [
+        "Continuous Writing: Semi-Formal Letter - Features and Language",
+        "",
+        "Key Concepts:",
+        "1. What is a semi-formal letter?",
+        "   - A letter that is more formal than informal but less formal than official letters",
+        "   - Written to people you know but in a professional or respectful context",
+        "   - Example: A letter to a teacher, community leader, or local official",
+        "",
+        "2. Features of a semi-formal letter:",
+        "   - Writer's address (top right corner)",
+        "   - Date (below address)",
+        "   - Formal salutation: Dear [Title + Name], e.g., 'Dear Mr. Ade'",
+        "   - Clear subject line or heading",
+        "   - Body: Introduction, main content, conclusion",
+        "   - Formal closing: Yours sincerely, Yours faithfully",
+        "   - Signature and full name",
+        "",
+        "3. Language and tone of semi-formal letters:",
+        "   - Respectful and polite, but not overly stiff",
+        "   - Clear and organized",
+        "   - Can use some personal touches but maintains professionalism",
+        "   - Avoids slang and overly casual expressions",
+        "",
+        "4. Steps for writing a semi-formal letter:",
+        "   - Step 1: Write your address and date",
+        "   - Step 2: Write the formal salutation",
+        "   - Step 3: Write the subject line or heading",
+        "   - Step 4: Write the introduction (purpose of letter)",
+        "   - Step 5: Write the body (main content, details, requests)",
+        "   - Step 6: Write the conclusion (closing remarks, thanks)",
+        "   - Step 7: Write the closing and signature",
+        "",
+        "5. Tips for effective semi-formal letters:",
+        "   - Be clear about your purpose",
+        "   - Use respectful language throughout",
+        "   - Include relevant details and examples",
+        "   - End with a polite request or expression of thanks",
+        "",
+        "Nigerian Context:",
+        "• Sample semi-formal letter topics for Nigerian students:",
+        "  - 'A Letter to My Teacher Requesting Extension for Assignment'",
+        "  - 'A Letter to the Community Leader About a Local Issue'",
+        "  - 'A Letter to the School Principal Suggesting Improvements'",
+        "",
+        "• Cultural considerations:",
+        "  - Using respectful titles and greetings appropriate for Nigerian contexts",
+        "  - Including local references and culturally appropriate expressions",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Format Practice:",
+        "   - Teacher displays a sample semi-formal letter",
+        "   - Students identify and label each part: address, date, salutation, etc.",
+        "   - Students practice writing each part correctly",
+        "",
+        "2. Letter Writing:",
+        "   - Students choose a semi-formal letter topic relevant to Nigerian life",
+        "   - Students write a semi-formal letter following the correct format",
+        "   - Focus on respectful tone, clear purpose, and appropriate language",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange letters with partners",
+        "   - Partners check for correct format, respectful tone, and clarity",
+        "   - Students revise their letters based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Semi-formal letters are the same as informal letters': Semi-formal letters maintain more formality and respect",
+        "• 'Semi-formal means casual writing': Semi-formal letters should be clear, organized, and respectful",
+        "• 'Only officials receive semi-formal letters': Semi-formal letters can be written to teachers, community leaders, etc.",
+        "• 'Semi-formal letters don't need planning': Planning helps create logical, effective semi-formal letters",
+        "",
+        "Nigerian Context:",
+        "• Writing semi-formal letters supports clear, respectful communication for academic and community contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Letter writing skills are foundational for academic success and civic participation",
+        "",
+        "Conclusion:",
+        "• Semi-formal letters are written to known people in professional or respectful contexts",
+        "• Features include address, date, formal salutation, clear body, and formal closing",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of semi-formal letter writing supports academic success and community engagement"
+      ],
+      "diagramDescriptions": [
+        "Chart of semi-formal letter format with labeled parts",
+        "Diagram of steps for writing a semi-formal letter",
+        "Sample semi-formal letter with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in semi-formal letter writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing semi-formal letter features language site:youtube.com",
+      "quiz": [
+        {
+          "q": "A semi-formal letter is written to:",
+          "opts": [
+            "Only government officials",
+            "People you know in professional or respectful contexts",
+            "Only close friends",
+            "Only strangers"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters are written to people you know but in professional or respectful contexts, like teachers or community leaders."
+        },
+        {
+          "q": "Which is a feature of a semi-formal letter?",
+          "opts": [
+            "Only the body",
+            "Address, date, formal salutation, subject line, body, closing, signature",
+            "Only the salutation",
+            "Only the signature"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters include address, date, formal salutation, subject line, body, closing, and signature."
+        },
+        {
+          "q": "The salutation in a semi-formal letter is usually:",
+          "opts": [
+            "Dear friend",
+            "Dear [Title + Name],",
+            "Hello there",
+            "To whom it may concern"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters use formal salutations like 'Dear Mr. Ade' rather than informal greetings."
+        },
+        {
+          "q": "The language of a semi-formal letter should be:",
+          "opts": [
+            "Only casual and slang",
+            "Respectful, clear, and organized",
+            "Only technical and complex",
+            "Only short and simple"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters use respectful, clear, and organized language appropriate for the relationship."
+        },
+        {
+          "q": "The first step in writing a semi-formal letter is to:",
+          "opts": [
+            "Write the body",
+            "Write your address and date",
+            "Write the closing",
+            "Write the salutation"
+          ],
+          "ans": 1,
+          "explanation": "The first step is to write your address and date at the top right corner."
+        },
+        {
+          "q": "In Nigerian context, a semi-formal letter topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'A Letter to My Teacher Requesting Extension for Assignment'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letter topics in Nigerian context often address academic requests, community issues, or suggestions to authorities."
+        },
+        {
+          "q": "Understanding semi-formal letter writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, respectful communication for academic and community contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letter writing skills help students communicate respectfully and effectively in academic and community contexts."
+        },
+        {
+          "q": "Which is NOT a part of a semi-formal letter?",
+          "opts": [
+            "Address",
+            "Date",
+            "Slang expressions",
+            "Formal salutation"
+          ],
+          "ans": 2,
+          "explanation": "Slang expressions are not appropriate for semi-formal letters; they should use respectful, clear language."
+        },
+        {
+          "q": "A common misconception about semi-formal letters is:",
+          "opts": [
+            "Semi-formal letters need clear format",
+            "Semi-formal letters are the same as informal letters",
+            "Semi-formal letters can share relevant details",
+            "Semi-formal letters should be well-organized"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters are not the same as informal letters; they maintain more formality and respect."
+        },
+        {
+          "q": "When writing a semi-formal letter, you should:",
+          "opts": [
+            "Ignore the format",
+            "Use respectful language, clear purpose, and appropriate structure",
+            "Only write one long paragraph",
+            "Avoid including relevant details"
+          ],
+          "ans": 1,
+          "explanation": "Using respectful language, clear purpose, and appropriate structure makes semi-formal letters clear and effective."
+        }
+      ]
+    }
+  ]
+}

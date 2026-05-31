@@ -1,0 +1,248 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 11,
+  "topic": "General Revision",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w11_su1",
+      "title": "11.1 Comprehensive Revision of Third Term Topics",
+      "notes": [
+        "Revision of Key Topics:",
+        "1. Speech: Stress Timing, Listening to Follow Directions, Listening to Grasp Ideas in a Debate, Dialogue, Speaking to Persuade",
+        "   • Stress timing: Content words stressed, function words unstressed",
+        "   • Direction words: left, right, landmarks, distance indicators",
+        "   • Debate: Main proposition, arguments, evidence, rebuttals",
+        "   • Dialogue: Direct/indirect, punctuation, natural flow",
+        "   • Persuasion: Thesis, arguments, evidence, call to action",
+        "",
+        "2. Vocabulary: Synonyms, Antonyms, Advertising, Stock Exchange",
+        "   • Synonyms: Words with same/near-same meaning",
+        "   • Antonyms: Words with opposite meanings",
+        "   • Advertising: Campaigns, slogans, persuasive techniques",
+        "   • Stock exchange: Shares, dividends, bull/bear markets",
+        "",
+        "3. Comprehension: Answering Questions, Extracting Main Points",
+        "   • Question types: Literal, inferential, evaluative, applied",
+        "   • Main points: Central ideas, topic sentences, summarization",
+        "   • Strategies: Careful reading, keyword identification, answer formulation",
+        "",
+        "4. Structure: Adjuncts, Concord, Determiners, Adverbial Clauses",
+        "   • Adjuncts: Manner (how), reason (why)",
+        "   • Concord: Subject-verb agreement",
+        "   • Determiners: Articles, demonstratives, possessives, quantifiers",
+        "   • Adverbial clauses: Time, reason, condition, contrast, purpose, result",
+        "",
+        "5. Continuous Writing: Record Keeping, Articles, Formal Letters",
+        "   • Record keeping: Accuracy, completeness, organization",
+        "   • Articles: Headline, introduction, body, conclusion",
+        "   • Formal letters: Address, salutation, body, closing",
+        "",
+        "Key Concepts and Definitions:",
+        "• Stress timing: Rhythm of English speech with stressed syllables at equal intervals",
+        "• Adjuncts: Adverbial elements that modify verbs, adjectives, or adverbs",
+        "• Concord: Agreement between subject and verb in number and person",
+        "• Determiners: Words that introduce nouns and specify their reference",
+        "• Main points: Central ideas of a passage",
+        "• Persuasive speech: Convincing an audience with logic, evidence, and emotion",
+        "",
+        "Practical Skills Review:",
+        "1. Pronunciation Practice:",
+        "   • Drill stress timing with minimal pairs",
+        "   • Practice direction words and phrases",
+        "   • Record and compare pronunciation",
+        "",
+        "2. Vocabulary Building:",
+        "   • Create word maps for synonyms/antonyms",
+        "   • Use new words in sentences",
+        "   • Practice spelling and usage",
+        "",
+        "3. Comprehension Strategies:",
+        "   • Practice identifying main points and supporting details",
+        "   • Use context clues to determine word meaning",
+        "   • Answer literal, inferential, evaluative questions",
+        "",
+        "4. Grammar Application:",
+        "   • Identify adjuncts, concord, determiners in passages",
+        "   • Construct sentences with different clause types",
+        "   • Correct common errors in usage",
+        "",
+        "5. Writing Practice:",
+        "   • Draft articles, formal letters, persuasive speeches",
+        "   • Focus on structure, language, and audience awareness",
+        "   • Revise for clarity, coherence, and correctness",
+        "",
+        "Exam Preparation Tips:",
+        "1. Review Notes and Diagrams:",
+        "   • Summarize key points from each topic",
+        "   • Redraw and label important diagrams",
+        "   • Use flashcards for definitions and terms",
+        "",
+        "2. Practice Questions:",
+        "   • Answer past exam questions",
+        "   • Create and answer your own questions",
+        "   • Focus on application and analysis, not just recall",
+        "",
+        "3. Group Study:",
+        "   • Discuss concepts with peers",
+        "   • Teach each other to reinforce understanding",
+        "   • Clarify misconceptions through discussion",
+        "",
+        "4. Nigerian Context Integration:",
+        "   • Relate English concepts to Nigerian communication needs",
+        "   • Consider local examples: proverbs, cultural references, current issues",
+        "   • Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Common Exam Topics and Question Types:",
+        "1. Definitions and Explanations:",
+        "   • Define terms like adjunct, concord, determiner, main point",
+        "   • Explain processes like stress timing, persuasive techniques",
+        "",
+        "2. Comparisons and Contrasts:",
+        "   • Compare synonyms vs antonyms, formal vs informal letters",
+        "   • Contrast literal vs inferential questions",
+        "",
+        "3. Application and Analysis:",
+        "   • Apply concepts to Nigerian scenarios (e.g., writing a formal letter to a principal)",
+        "   • Analyze sentence structure for adjuncts, concord, determiners",
+        "",
+        "4. Problem-Solving:",
+        "   • Correct grammatical errors in sentences",
+        "   • Write a summary in a specified number of sentences",
+        "",
+        "Nigerian Context Emphasis:",
+        "• Relate English language concepts to Nigerian communication needs",
+        "• Consider local examples: Nigerian proverbs, cultural references, current issues",
+        "• Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Conclusion:",
+        "• Revision consolidates understanding of third term English topics",
+        "• Key concepts include speech, vocabulary, comprehension, structure, and writing",
+        "• Practical skills and Nigerian context integration enhance learning and application",
+        "• Effective revision strategies prepare students for exams and real-world communication",
+        "• In Nigeria, English language proficiency supports academic success, professional advancement, and civic participation"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram linking all third term topics: speech, vocabulary, comprehension, structure, writing",
+        "Concept map of adjunct types: manner, reason, time, condition",
+        "Comparison chart of letter types: informal, semi-formal, formal",
+        "Flowchart of persuasive speech structure",
+        "Nigerian examples: Local vocabulary, comprehension passages, writing topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English revision SS1 third term grammar comprehension writing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Stress timing in English means:",
+          "opts": [
+            "All syllables are pronounced equally",
+            "Stressed syllables occur at roughly equal intervals",
+            "Only content words are stressed",
+            "Only function words are stressed"
+          ],
+          "ans": 1,
+          "explanation": "Stress timing means stressed syllables occur at roughly equal intervals, creating the rhythm of English speech."
+        },
+        {
+          "q": "An adjunct of reason explains:",
+          "opts": [
+            "How an action is performed",
+            "Why an action is performed",
+            "When an action is performed",
+            "Where an action is performed"
+          ],
+          "ans": 1,
+          "explanation": "Adjuncts of reason explain why an action is performed or a state exists."
+        },
+        {
+          "q": "Concord refers to:",
+          "opts": [
+            "Agreement between adjectives and nouns",
+            "Agreement between subject and verb in number and person",
+            "Agreement between prepositions and objects",
+            "Agreement between articles and nouns"
+          ],
+          "ans": 1,
+          "explanation": "Concord is the agreement between a subject and its verb in number and person."
+        },
+        {
+          "q": "Which is a definite article?",
+          "opts": [
+            "a",
+            "an",
+            "the",
+            "some"
+          ],
+          "ans": 2,
+          "explanation": "'The' is the definite article; 'a' and 'an' are indefinite articles; 'some' is a quantifier."
+        },
+        {
+          "q": "Main points in a passage are:",
+          "opts": [
+            "Minor details and examples",
+            "The central ideas the author wants to convey",
+            "Only the first sentence",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Main points are the central ideas the author wants to convey, supported by details and examples."
+        },
+        {
+          "q": "A 'share' in the stock exchange refers to:",
+          "opts": [
+            "A loan to a company",
+            "A unit of ownership in a company",
+            "A type of bank account",
+            "A government bond"
+          ],
+          "ans": 1,
+          "explanation": "A share represents a unit of ownership in a company, giving the holder a claim on part of the company's assets and earnings."
+        },
+        {
+          "q": "In Nigerian context, a formal letter might include:",
+          "opts": [
+            "Only standard English expressions",
+            "Culturally appropriate titles and references to local institutions",
+            "Only informal greetings",
+            "No personal anecdotes"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters in Nigerian context can include culturally appropriate titles and references to local institutions."
+        },
+        {
+          "q": "Understanding English language concepts is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, professional communication, and civic participation",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "English proficiency supports academic achievement, career advancement, and effective participation in Nigerian society."
+        },
+        {
+          "q": "Which is a feature of persuasive speech?",
+          "opts": [
+            "Only emotional appeal",
+            "Clear thesis, logical arguments, evidence, call to action",
+            "Only personal opinions",
+            "Avoiding counterarguments"
+          ],
+          "ans": 1,
+          "explanation": "Persuasive speech combines clear thesis, logical arguments, evidence, and call to action."
+        },
+        {
+          "q": "A common misconception about synonyms is:",
+          "opts": [
+            "All synonyms are interchangeable in all contexts",
+            "Synonyms can add variety to writing",
+            "Context determines the best synonym choice",
+            "Synonyms have similar meanings"
+          ],
+          "ans": 0,
+          "explanation": "Not all synonyms are interchangeable; many have subtle differences in meaning, connotation, or usage that make them suitable for specific contexts."
+        }
+      ]
+    }
+  ]
+}

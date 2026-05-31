@@ -1,0 +1,858 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Speech, Comprehension, Structures, Summary",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w5_su1",
+      "title": "5.1 Speech: Syllabic Consonants /ɭ/",
+      "notes": [
+        "Syllabic Consonant /ɭ/:",
+        "• Definition: A consonant that functions as the nucleus of a syllable",
+        "• In English: /l/ can be syllabic in certain positions",
+        "• Examples: little, bottle, kettle, rattle, novel, simple",
+        "",
+        "Pronunciation Guide:",
+        "• /ɭ/ in word-final position after consonants:",
+        "  - Tongue tip touches alveolar ridge",
+        "  - Air flows around sides of tongue",
+        "  - No vowel sound between consonant and /l/",
+        "  - Practice: 'Little by little, the bottle rattles.'",
+        "",
+        "• Common Nigerian English Errors:",
+        "  - Inserting vowel sounds: 'little' → 'li-tul'",
+        "  - Omitting /l/: 'bottle' → 'botto'",
+        "  - Substituting with other sounds: 'kettle' → 'ketto'",
+        "",
+        "Correction Strategies:",
+        "1. Isolate the syllabic /ɭ/:",
+        "   • Practice /ɭ/ without full words",
+        "   • Focus on tongue position and airflow",
+        "",
+        "2. Use minimal pairs:",
+        "   • little/little (with vowel insertion)",
+        "   • bottle/bottle (with vowel insertion)",
+        "   • Highlight the difference in syllable count",
+        "",
+        "3. Practice in sentences:",
+        "   • 'The little kettle rattles on the bottle.'",
+        "   • 'A simple novel is better than a complex one.'",
+        "",
+        "4. Record and compare:",
+        "   • Record own pronunciation",
+        "   • Compare with model pronunciation",
+        "   • Identify and correct differences",
+        "",
+        "Practical Activities:",
+        "1. Pronunciation Drill:",
+        "   • Teacher models syllabic /ɭ/",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on syllable count and tongue position",
+        "",
+        "2. Word Sorting:",
+        "   • Sort words with syllabic /ɭ/ vs non-syllabic /l/",
+        "   • Create word lists for practice",
+        "   • Practice pronunciation of sorted words",
+        "",
+        "3. Sentence Construction:",
+        "   • Use syllabic /ɭ/ words in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct pronunciation errors collaboratively",
+        "",
+        "Nigerian Context:",
+        "• Correct syllabic /ɭ/ pronunciation improves clarity in academic and professional settings",
+        "• Practice with local examples enhances relevance and retention",
+        "• Awareness of common errors helps self-correction and peer support",
+        "",
+        "Conclusion:",
+        "• Syllabic /ɭ/ requires precise articulation as a syllable nucleus",
+        "• Common Nigerian errors involve vowel insertion or /l/ omission",
+        "• Targeted practice with minimal pairs and sentences improves accuracy",
+        "• Clear pronunciation supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue position for syllabic /ɭ/",
+        "Chart of words with syllabic /ɭ/ vs non-syllabic /l/",
+        "Minimal pairs practice: little/li-tul, bottle/bot-tle",
+        "Nigerian context: Common errors and correction strategies",
+        "Sample sentences with syllabic /ɭ/ for practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English syllabic consonant /l/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A syllabic consonant is one that:",
+          "opts": [
+            "Cannot form a syllable",
+            "Functions as the nucleus of a syllable",
+            "Is always at the beginning of a word",
+            "Is always a vowel sound"
+          ],
+          "ans": 1,
+          "explanation": "A syllabic consonant functions as the nucleus of a syllable, like /l/ in 'little' or /n/ in 'sudden'."
+        },
+        {
+          "q": "In the word 'little', the /l/ is:",
+          "opts": [
+            "Non-syllabic",
+            "Syllabic",
+            "A vowel",
+            "Omitted in pronunciation"
+          ],
+          "ans": 1,
+          "explanation": "In 'little', the final /l/ is syllabic, forming the nucleus of the second syllable without a vowel."
+        },
+        {
+          "q": "A common Nigerian English error with syllabic /ɭ/ is:",
+          "opts": [
+            "Pronouncing it correctly",
+            "Inserting a vowel sound",
+            "Omitting the consonant",
+            "Using it in all words"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian English speakers often insert vowel sounds in syllabic consonants, e.g., 'little' → 'li-tul'."
+        },
+        {
+          "q": "Which word contains a syllabic /ɭ/?",
+          "opts": [
+            "light",
+            "little",
+            "love",
+            "large"
+          ],
+          "ans": 1,
+          "explanation": "'Little' contains a syllabic /ɭ/ in the final position; 'light', 'love', and 'large' have non-syllabic /l/."
+        },
+        {
+          "q": "To pronounce syllabic /ɭ/ correctly, the tongue should:",
+          "opts": [
+            "Touch the roof of the mouth",
+            "Touch the alveolar ridge with air flowing around sides",
+            "Curl back in the mouth",
+            "Touch the lower teeth only"
+          ],
+          "ans": 1,
+          "explanation": "For syllabic /ɭ/, the tongue tip touches the alveolar ridge, and air flows around the sides of the tongue."
+        },
+        {
+          "q": "A minimal pair for practicing syllabic /ɭ/ is:",
+          "opts": [
+            "light/night",
+            "little/li-tul",
+            "love/love",
+            "large/large"
+          ],
+          "ans": 1,
+          "explanation": "Minimal pairs like 'little/li-tul' help learners distinguish between syllabic /ɭ/ and vowel-inserted pronunciation."
+        },
+        {
+          "q": "The word 'bottle' has how many syllables?",
+          "opts": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "ans": 1,
+          "explanation": "'Bottle' has two syllables: /ˈbɒt.ɭ/, with the final /ɭ/ being syllabic."
+        },
+        {
+          "q": "Understanding syllabic consonants is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass pronunciation tests",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading aloud",
+            "Only for listening comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct pronunciation of syllabic consonants enhances communication clarity in academic, professional, and international contexts."
+        },
+        {
+          "q": "Which sentence uses syllabic /ɭ/ words correctly?",
+          "opts": [
+            "The li-tul ket-tle rat-tles on the bot-tle.",
+            "The little kettle rattles on the bottle.",
+            "The little kettle rattles on the botto.",
+            "The li-tul kettle rattles on the bottle."
+          ],
+          "ans": 1,
+          "explanation": "'The little kettle rattles on the bottle' correctly pronounces syllabic /ɭ/; other options contain vowel insertion errors."
+        },
+        {
+          "q": "A common misconception about syllabic consonants is:",
+          "opts": [
+            "They require precise tongue position",
+            "They can be pronounced with inserted vowels",
+            "Practice improves pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "Syllabic consonants should not have inserted vowels; they function as syllable nuclei without vowel sounds."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w5_su2",
+      "title": "5.2 Comprehension: Reading to Comprehend Main Ideas or Story Line",
+      "notes": [
+        "Comprehension: Reading for Main Ideas",
+        "• Definition: Understanding the central theme or primary message of a text",
+        "• Importance: Enables readers to grasp key points quickly and accurately",
+        "",
+        "Steps for Identifying Main Ideas:",
+        "1. Read the passage carefully",
+        "   • Read slowly and attentively",
+        "   • Note unfamiliar words and look them up",
+        "   • Underline or highlight key sentences",
+        "",
+        "2. Identify the topic sentence",
+        "   • Often found at the beginning or end of a paragraph",
+        "   • States the main idea of the paragraph",
+        "   • Example: 'Corruption undermines national development in Nigeria.'",
+        "",
+        "3. Look for supporting details",
+        "   • Facts, examples, explanations that develop the main idea",
+        "   • Not the main idea itself, but evidence for it",
+        "   • Example: Statistics on corruption cases, effects on economy",
+        "",
+        "4. Summarize in your own words",
+        "   • Restate the main idea concisely",
+        "   • Exclude minor details and examples",
+        "   • Ensure accuracy and completeness",
+        "",
+        "Skills for Comprehension:",
+        "• Distinguishing fact from opinion",
+        "  - Fact: Verifiable statement (e.g., 'Nigeria has 36 states')",
+        "  - Opinion: Personal belief (e.g., 'Nigeria is the best country')",
+        "",
+        "• Making inferences",
+        "  - Reading between the lines",
+        "  - Using context clues to understand implied meaning",
+        "  - Example: 'The farmer's face was grim' → inference: bad harvest",
+        "",
+        "• Understanding vocabulary in context",
+        "  - Using surrounding words to determine meaning",
+        "  - Example: 'The arid region received little rain' → 'arid' means dry",
+        "",
+        "Nigerian Context in Comprehension Passages:",
+        "• Common themes:",
+        "  - Corruption and its effects on development",
+        "  - Environmental pollution and conservation",
+        "  - HIV/AIDS awareness and prevention",
+        "  - Education and youth empowerment",
+        "  - National unity and ethnic diversity",
+        "",
+        "• Cultural references:",
+        "  - Traditional values and modern challenges",
+        "  - Urban-rural dynamics",
+        "  - Religious and ethnic diversity",
+        "",
+        "Practical Activities:",
+        "1. Passage Analysis:",
+        "   • Read short prose passages on topical issues",
+        "   • Identify topic sentences and main ideas",
+        "   • Discuss supporting details and examples",
+        "",
+        "2. Listening Comprehension:",
+        "   • Listen to recorded passages or discussions",
+        "   • Note key points and main ideas",
+        "   • Answer questions based on listening",
+        "",
+        "3. Group Discussion:",
+        "   • Discuss passages in small groups",
+        "   • Share interpretations of main ideas",
+        "   • Clarify misunderstandings through dialogue",
+        "",
+        "Common Misconceptions:",
+        "• 'Main idea is the same as title': Title introduces topic; main idea states the point",
+        "• 'Every sentence is equally important': Some sentences support; others state main ideas",
+        "• 'Comprehension is only about vocabulary': Understanding structure and logic is equally important",
+        "• 'Inferences are guesses': Inferences are logical conclusions based on text evidence",
+        "",
+        "Nigerian Context:",
+        "• Comprehension skills enable students to engage with Nigerian media, policies, and literature",
+        "• Understanding main ideas supports critical thinking on national issues",
+        "• Contextual vocabulary knowledge aids comprehension of local and global texts",
+        "",
+        "Conclusion:",
+        "• Identifying main ideas is fundamental to effective reading comprehension",
+        "• Skills include recognizing topic sentences, distinguishing fact from opinion, and making inferences",
+        "• Nigerian-themed passages provide relevant practice for academic and civic engagement",
+        "• Regular practice with diverse texts builds confidence and competence"
+      ],
+      "diagramDescriptions": [
+        "Flowchart of steps for identifying main ideas in a passage",
+        "Chart distinguishing fact from opinion with Nigerian examples",
+        "Diagram showing topic sentence and supporting details structure",
+        "Nigerian context: Sample passage on corruption with comprehension questions",
+        "Vocabulary-in-context strategy with local examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension main ideas reading skills SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The main idea of a passage is best described as:",
+          "opts": [
+            "The title of the passage",
+            "The central theme or primary message",
+            "A supporting detail",
+            "An example used in the passage"
+          ],
+          "ans": 1,
+          "explanation": "The main idea is the central theme or primary message that the author wants to convey; it is not a detail, example, or title."
+        },
+        {
+          "q": "A topic sentence usually:",
+          "opts": [
+            "Appears only at the end of a paragraph",
+            "States the main idea of the paragraph",
+            "Contains only examples",
+            "Is always a question"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence states the main idea of a paragraph and may appear at the beginning, middle, or end."
+        },
+        {
+          "q": "Which of the following is a fact?",
+          "opts": [
+            "Nigeria is the most beautiful country",
+            "Nigeria has 36 states and one Federal Capital Territory",
+            "Lagos is the best city in Africa",
+            "Everyone should visit Abuja"
+          ],
+          "ans": 1,
+          "explanation": "A fact is a verifiable statement; Nigeria having 36 states and one FCT can be confirmed, while the others are opinions."
+        },
+        {
+          "q": "Making an inference means:",
+          "opts": [
+            "Guessing randomly",
+            "Drawing a logical conclusion based on text evidence",
+            "Copying the author's words",
+            "Ignoring the passage"
+          ],
+          "ans": 1,
+          "explanation": "An inference is a logical conclusion drawn from evidence in the text, not a random guess."
+        },
+        {
+          "q": "In the sentence 'The arid region received little rain', 'arid' most likely means:",
+          "opts": [
+            "wet",
+            "dry",
+            "cold",
+            "fertile"
+          ],
+          "ans": 1,
+          "explanation": "Context clues ('received little rain') indicate that 'arid' means dry."
+        },
+        {
+          "q": "A common theme in Nigerian comprehension passages is:",
+          "opts": [
+            "Space exploration",
+            "Corruption and national development",
+            "Ancient Roman history",
+            "Arctic wildlife"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian comprehension passages often address local issues like corruption, environment, education, and national unity."
+        },
+        {
+          "q": "Supporting details in a passage:",
+          "opts": [
+            "Are the main idea",
+            "Provide evidence for the main idea",
+            "Should be ignored",
+            "Are always opinions"
+          ],
+          "ans": 1,
+          "explanation": "Supporting details provide facts, examples, and explanations that develop and prove the main idea."
+        },
+        {
+          "q": "Understanding vocabulary in context helps readers to:",
+          "opts": [
+            "Memorize dictionary definitions",
+            "Determine word meanings from surrounding text",
+            "Skip difficult words",
+            "Focus only on grammar"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues allows readers to infer word meanings without always consulting a dictionary."
+        },
+        {
+          "q": "A misconception about comprehension is:",
+          "opts": [
+            "Main idea and title are the same",
+            "Main idea states the central message",
+            "Topic sentences guide paragraph structure",
+            "Inferences require text evidence"
+          ],
+          "ans": 0,
+          "explanation": "The title introduces the topic; the main idea states the author's point about that topic—they are not the same."
+        },
+        {
+          "q": "Comprehension skills are important for Nigerian students because they:",
+          "opts": [
+            "Only help pass exams",
+            "Enable critical engagement with media, policies, and literature",
+            "Only improve vocabulary",
+            "Only aid in writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills support academic success, civic participation, and informed decision-making in Nigerian society."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w5_su3",
+      "title": "5.3 Structures: Introducing Nominalization of Adjectives and Verbs",
+      "notes": [
+        "Structures: Nominalization of Adjectives and Verbs",
+        "• Definition: Nominalization is the process of turning adjectives or verbs into nouns",
+        "• Purpose: Creates abstract nouns that name qualities, actions, or states",
+        "• Importance: Expands vocabulary and enables more precise expression",
+        "",
+        "Nominalization of Adjectives:",
+        "• Process: Add suffixes to adjectives to form nouns",
+        "• Common Suffixes:",
+        "  a) -ness: wise → wisdom, kind → kindness",
+        "  b) -ity: active → activity, possible → possibility",
+        "  c) -th: strong → strength, long → length",
+        "  d) -ce: patient → patience, silent → silence",
+        "",
+        "• Examples:",
+        "  - wise → wisdom: 'His wisdom guided the community.'",
+        "  - active → activity: 'Community activity improved the neighborhood.'",
+        "  - strong → strength: 'Her strength inspired others.'",
+        "  - patient → patience: 'Patience is essential in teaching.'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'The wisdom of elders guides our decisions.'",
+        "  - 'Community activity reduced crime in the area.'",
+        "  - 'Her strength in adversity inspired many.'",
+        "",
+        "Nominalization of Verbs:",
+        "• Process: Add suffixes or change verb forms to create nouns",
+        "• Common Patterns:",
+        "  a) -tion/-sion: act → action, decide → decision",
+        "  b) -ment: develop → development, govern → government",
+        "  c) -ance/-ence: appear → appearance, depend → dependence",
+        "  d) -ing: write → writing, build → building",
+        "",
+        "• Examples:",
+        "  - act → action: 'His action saved the day.'",
+        "  - develop → development: 'Economic development requires investment.'",
+        "  - appear → appearance: 'Her appearance changed after the trip.'",
+        "  - write → writing: 'Good writing requires practice.'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'The government's action on corruption was praised.'",
+        "  - 'Educational development is key to national progress.'",
+        "  - 'His appearance at the event boosted morale.'",
+        "  - 'Clear writing improves communication.'",
+        "",
+        "Functions of Nominalized Words:",
+        "• As subjects:",
+        "  - 'Wisdom guides leaders.' (subject)",
+        "  - 'Development requires planning.' (subject)",
+        "",
+        "• As objects:",
+        "  - 'We value kindness.' (object)",
+        "  - 'They discussed the decision.' (object)",
+        "",
+        "• After prepositions:",
+        "  - 'She spoke with patience.' (after preposition)",
+        "  - 'He acted without hesitation.' (after preposition)",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Using adjective instead of nominalized form",
+        "  - Incorrect: 'His wise guided the community.'",
+        "  - Correct: 'His wisdom guided the community.'",
+        "",
+        "• Error: Incorrect suffix",
+        "  - Incorrect: 'She showed patient.'",
+        "  - Correct: 'She showed patience.'",
+        "",
+        "• Error: Using verb instead of nominalized form",
+        "  - Incorrect: 'We need to action.'",
+        "  - Correct: 'We need to take action.' or 'We need action.'",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'His strong helped the team.'",
+        "  - Correction: 'His strength helped the team.'",
+        "",
+        "Practical Activities:",
+        "1. Nominalization Practice:",
+        "   • Provide lists of adjectives and verbs for nominalization",
+        "   • Students form nouns using appropriate suffixes",
+        "   • Discuss meaning changes and usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using nominalized words",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with nominalization errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'All adjectives can be nominalized': Not all adjectives have common nominalized forms",
+        "• 'Nominalization is always regular': Some nominalizations are irregular (e.g., wise → wisdom)",
+        "• 'Nominalized words are always abstract': Some nominalizations refer to concrete things (e.g., building)",
+        "• 'Nominalization is only for formal writing': Nominalized words are used in all registers of English",
+        "",
+        "Nigerian Context:",
+        "• Nominalization skills support academic writing and professional communication in Nigeria",
+        "• Understanding suffix patterns helps students expand vocabulary efficiently",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Nominalization turns adjectives and verbs into nouns for precise expression",
+        "• Common suffixes include -ness, -ity, -tion, -ment, -ance, -ing",
+        "• Nominalized words function as subjects, objects, or after prepositions",
+        "• Mastery improves vocabulary, writing clarity, and grammatical accuracy"
+      ],
+      "diagramDescriptions": [
+        "Chart of adjective nominalization suffixes with examples",
+        "Chart of verb nominalization patterns with examples",
+        "Flowchart for choosing nominalization suffixes",
+        "Nigerian context: Sample sentences with correct/incorrect nominalization",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar nominalization adjectives verbs SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Nominalization is the process of:",
+          "opts": [
+            "Turning nouns into adjectives",
+            "Turning adjectives or verbs into nouns",
+            "Turning verbs into adjectives",
+            "Turning nouns into verbs"
+          ],
+          "ans": 1,
+          "explanation": "Nominalization turns adjectives or verbs into nouns, creating abstract nouns that name qualities, actions, or states."
+        },
+        {
+          "q": "The nominalized form of 'wise' is:",
+          "opts": [
+            "wisely",
+            "wisdom",
+            "wiseness",
+            "wise"
+          ],
+          "ans": 1,
+          "explanation": "'Wisdom' is the nominalized form of 'wise', formed with the suffix -dom (irregular pattern)."
+        },
+        {
+          "q": "Which suffix is commonly used to nominalize verbs?",
+          "opts": [
+            "-ness",
+            "-tion",
+            "-ly",
+            "-ful"
+          ],
+          "ans": 1,
+          "explanation": "'-tion' is a common suffix for nominalizing verbs (e.g., act → action); '-ness' is for adjectives, '-ly' for adverbs, '-ful' for adjectives."
+        },
+        {
+          "q": "The nominalized form of 'develop' is:",
+          "opts": [
+            "developing",
+            "development",
+            "developer",
+            "developed"
+          ],
+          "ans": 1,
+          "explanation": "'Development' is the nominalized form of 'develop', formed with the suffix -ment."
+        },
+        {
+          "q": "In the sentence 'Her kindness inspired many', 'kindness' functions as:",
+          "opts": [
+            "Verb",
+            "Subject",
+            "Adjective",
+            "Adverb"
+          ],
+          "ans": 1,
+          "explanation": "'Kindness' is a nominalized adjective functioning as the subject of the sentence."
+        },
+        {
+          "q": "Which sentence uses nominalization correctly?",
+          "opts": [
+            "His wise guided the community.",
+            "His wisdom guided the community.",
+            "He showed patient.",
+            "We need to action."
+          ],
+          "ans": 1,
+          "explanation": "'His wisdom guided the community' correctly uses the nominalized form 'wisdom'; other options use adjectives or verbs incorrectly."
+        },
+        {
+          "q": "The nominalized form of 'appear' is:",
+          "opts": [
+            "appearing",
+            "appearance",
+            "appeared",
+            "appears"
+          ],
+          "ans": 1,
+          "explanation": "'Appearance' is the nominalized form of 'appear', formed with the suffix -ance."
+        },
+        {
+          "q": "Understanding nominalization is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Expands vocabulary and improves writing precision in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Nominalization skills expand vocabulary and enable precise expression, which is essential for academic and professional communication in Nigeria."
+        },
+        {
+          "q": "Which is an irregular nominalization?",
+          "opts": [
+            "active → activity",
+            "wise → wisdom",
+            "develop → development",
+            "write → writing"
+          ],
+          "ans": 1,
+          "explanation": "'Wise → wisdom' is irregular; most nominalizations follow regular suffix patterns like -ity, -ment, -ing."
+        },
+        {
+          "q": "A common misconception about nominalization is:",
+          "opts": [
+            "All adjectives can be nominalized",
+            "Nominalization creates abstract nouns",
+            "Suffixes help form nominalized words",
+            "Nominalized words can function as subjects"
+          ],
+          "ans": 0,
+          "explanation": "Not all adjectives have common nominalized forms; some require irregular patterns or may not nominalize naturally."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w5_su4",
+      "title": "5.4 Summary: Listening Attentively to Follow Directions Effectively",
+      "notes": [
+        "Summary: Listening to Follow Directions",
+        "• Definition: Listening attentively to understand and act on spoken directions",
+        "• Importance: Enables effective navigation, task completion, and safety",
+        "",
+        "Direction Words and Phrases:",
+        "• Spatial Directions:",
+        "  - left, right, straight ahead, turn, beside, between, near, far",
+        "  - Example: 'Turn left at the market, then go straight ahead.'",
+        "",
+        "• Landmarks and Signposts:",
+        "  - buildings, trees, monuments, road signs, traffic lights",
+        "  - Example: 'The school is beside the church, near the big tree.'",
+        "",
+        "• Distance and Time Indicators:",
+        "  - five minutes walk, two kilometers, next to, opposite",
+        "  - Example: 'Walk for five minutes, then you'll see the hospital opposite the bank.'",
+        "",
+        "Steps for Following Directions Effectively:",
+        "1. Listen attentively:",
+        "   • Focus on the speaker",
+        "   • Avoid distractions",
+        "   • Note key direction words",
+        "",
+        "2. Visualize the route:",
+        "   • Create a mental map",
+        "   • Note landmarks and turns",
+        "   • Estimate distances and time",
+        "",
+        "3. Ask clarifying questions:",
+        "   • 'Which way is left?'",
+        "   • 'Is the building on the right or left?'",
+        "   • 'How far is the next turn?'",
+        "",
+        "4. Confirm understanding:",
+        "   • Repeat directions in your own words",
+        "   • 'So I turn left at the market, then go straight?'",
+        "   • Ensures accuracy before acting",
+        "",
+        "5. Act on the directions:",
+        "   • Follow the route as understood",
+        "   • Adjust if landmarks don't match",
+        "   • Ask for help if lost",
+        "",
+        "Nigerian Context in Direction-Giving:",
+        "• Common landmarks:",
+        "  - Markets, churches, mosques, schools, hospitals",
+        "  - Major roads, bridges, roundabouts, traffic lights",
+        "  - Notable trees, buildings, or monuments",
+        "",
+        "• Cultural considerations:",
+        "  - Directions may reference local names or nicknames",
+        "  - 'Near the big iroko tree', 'opposite Mama Put's shop'",
+        "  - Understanding local context aids comprehension",
+        "",
+        "• Practical examples:",
+        "  - 'Go straight from the motor park, turn right at the pharmacy, the school is beside the mosque.'",
+        "  - 'From the roundabout, take the third exit, the hospital is opposite the bank.'",
+        "",
+        "Practical Activities:",
+        "1. Direction-Giving Practice:",
+        "   • Teacher gives directions to a location in school",
+        "   • Students listen and follow the directions",
+        "   • Discuss challenges and strategies",
+        "",
+        "2. Map Drawing:",
+        "   • Listen to directions and draw a simple map",
+        "   • Include landmarks, turns, and distances",
+        "   • Compare maps with classmates",
+        "",
+        "3. Role Play:",
+        "   • Students take turns giving and following directions",
+        "   • Use real locations in the community",
+        "   • Practice asking clarifying questions",
+        "",
+        "Common Misconceptions:",
+        "• 'Directions are always clear': Directions may be ambiguous; asking questions is essential",
+        "• 'Landmarks are universal': Landmarks are local; understanding context is crucial",
+        "• 'Listening is passive': Effective listening requires active engagement and visualization",
+        "• 'Directions are only for navigation': Direction-following skills apply to tasks, instructions, and procedures",
+        "",
+        "Nigerian Context:",
+        "• Direction-following skills support daily life, education, and work in Nigeria",
+        "• Understanding local landmarks and context enhances comprehension",
+        "• Practice with Nigerian examples builds relevance and confidence",
+        "",
+        "Conclusion:",
+        "• Listening to follow directions requires attention, visualization, and clarification",
+        "• Key skills include noting direction words, landmarks, and confirming understanding",
+        "• Nigerian context enhances relevance through local landmarks and cultural references",
+        "• Mastery supports navigation, task completion, and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of direction words and phrases: spatial, landmarks, distance",
+        "Flowchart of steps for following directions effectively",
+        "Sample map with landmarks, turns, and distances labeled",
+        "Nigerian context: Sample directions using local landmarks",
+        "Role-play scenario for direction-giving practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English listening directions comprehension SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Effective direction-following requires:",
+          "opts": [
+            "Passive listening",
+            "Active attention, visualization, and clarification",
+            "Ignoring landmarks",
+            "Assuming directions are always clear"
+          ],
+          "ans": 1,
+          "explanation": "Effective direction-following requires active attention, mental visualization, and asking clarifying questions when needed."
+        },
+        {
+          "q": "Which is a spatial direction word?",
+          "opts": [
+            "quickly",
+            "left",
+            "happy",
+            "yesterday"
+          ],
+          "ans": 1,
+          "explanation": "'Left' is a spatial direction word; 'quickly' is an adverb of manner, 'happy' is an adjective, 'yesterday' is a time word."
+        },
+        {
+          "q": "A landmark in direction-giving might be:",
+          "opts": [
+            "A feeling",
+            "A building or tree",
+            "A time of day",
+            "A color"
+          ],
+          "ans": 1,
+          "explanation": "Landmarks are physical features like buildings, trees, or monuments that help identify locations."
+        },
+        {
+          "q": "To confirm understanding of directions, you should:",
+          "opts": [
+            "Ignore the speaker",
+            "Repeat directions in your own words",
+            "Assume you understood",
+            "Ask no questions"
+          ],
+          "ans": 1,
+          "explanation": "Repeating directions in your own words confirms understanding and allows correction of misunderstandings."
+        },
+        {
+          "q": "In Nigerian context, a direction might reference:",
+          "opts": [
+            "Only international landmarks",
+            "Local markets, churches, or notable trees",
+            "Only GPS coordinates",
+            "Only street numbers"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian directions often reference local landmarks like markets, churches, mosques, or notable trees."
+        },
+        {
+          "q": "Which question helps clarify directions?",
+          "opts": [
+            "What time is it?",
+            "Which way is left?",
+            "How old are you?",
+            "What is your name?"
+          ],
+          "ans": 1,
+          "explanation": "'Which way is left?' clarifies spatial direction; other questions are unrelated to direction-following."
+        },
+        {
+          "q": "Visualizing a route while listening helps to:",
+          "opts": [
+            "Forget the directions",
+            "Create a mental map for better recall",
+            "Ignore landmarks",
+            "Assume distances"
+          ],
+          "ans": 1,
+          "explanation": "Visualization creates a mental map that aids recall and accurate following of directions."
+        },
+        {
+          "q": "Understanding direction-following is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports daily navigation, task completion, and safety",
+            "Only for geography class",
+            "Only for listening tests"
+          ],
+          "ans": 1,
+          "explanation": "Direction-following skills support practical daily life, education, work, and safety in Nigerian contexts."
+        },
+        {
+          "q": "A distance indicator in directions might be:",
+          "opts": [
+            "Happy",
+            "Five minutes walk",
+            "Blue",
+            "Yesterday"
+          ],
+          "ans": 1,
+          "explanation": "'Five minutes walk' indicates distance/time; 'happy' is an adjective, 'blue' is a color, 'yesterday' is a time word."
+        },
+        {
+          "q": "A common misconception about direction-following is:",
+          "opts": [
+            "Directions are always clear and unambiguous",
+            "Directions may require clarification questions",
+            "Landmarks help identify locations",
+            "Visualization aids memory"
+          ],
+          "ans": 0,
+          "explanation": "Directions can be ambiguous; asking clarifying questions is essential for accurate understanding."
+        }
+      ]
+    }
+  ]
+}

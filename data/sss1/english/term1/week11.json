@@ -1,0 +1,952 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Speech, Continuous Writing, Structure, Summary",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w11_su1",
+      "title": "11.1 Speech: Listening to Identify a Speaker's Style",
+      "notes": [
+        "Listening Comprehension: Identifying Speaker's Style",
+        "• Definition: Recognizing the distinctive way a speaker expresses ideas through language choices, tone, and structure",
+        "• Importance: Enables critical listening, effective communication, and appreciation of rhetorical techniques",
+        "",
+        "Elements of Speaker's Style:",
+        "1. Word Choice (Diction):",
+        "   • Formal vs. informal vocabulary",
+        "   • Technical jargon vs. everyday language",
+        "   • Emotional vs. neutral words",
+        "   • Nigerian context: Use of local proverbs, pidgin English, or standard English",
+        "",
+        "2. Sentence Structure:",
+        "   • Simple, compound, or complex sentences",
+        "   • Short, punchy sentences vs. long, flowing ones",
+        "   • Use of rhetorical questions, exclamations, or repetition",
+        "",
+        "3. Tone and Voice:",
+        "   • Authoritative, conversational, persuasive, humorous",
+        "   • Personal (first-person) vs. impersonal (third-person) perspective",
+        "   • Nigerian context: Tone may reflect cultural values like respect for elders or community focus",
+        "",
+        "4. Figurative Language:",
+        "   • Use of metaphors, similes, personification",
+        "   • Cultural references and allusions",
+        "   • Nigerian context: Use of local metaphors, proverbs, or historical references",
+        "",
+        "5. Organization and Flow:",
+        "   • Logical sequence of ideas",
+        "   • Use of transitions and signposts",
+        "   • Emphasis through repetition or climax",
+        "",
+        "Types of Speaking Styles:",
+        "• Expository Style:",
+        "  - Purpose: To explain or inform",
+        "  - Features: Clear definitions, logical structure, factual evidence",
+        "  - Example: A teacher explaining a scientific concept",
+        "",
+        "• Narrative Style:",
+        "  - Purpose: To tell a story",
+        "  - Features: Chronological order, descriptive details, character development",
+        "  - Example: A storyteller sharing a folk tale",
+        "",
+        "• Descriptive Style:",
+        "  - Purpose: To create a vivid picture",
+        "  - Features: Sensory details, figurative language, emotional appeal",
+        "  - Example: A poet describing a Nigerian landscape",
+        "",
+        "• Persuasive/Argumentative Style:",
+        "  - Purpose: To convince or persuade",
+        "  - Features: Logical arguments, emotional appeals, call to action",
+        "  - Example: A politician campaigning for office",
+        "",
+        "Steps for Identifying Speaker's Style:",
+        "1. Listen attentively to the entire speech or passage",
+        "   • Focus on overall impression and key messages",
+        "",
+        "2. Analyze language choices",
+        "   • Note word choice, sentence structure, and figurative language",
+        "",
+        "3. Identify tone and purpose",
+        "   • Determine if the speaker is informing, persuading, entertaining, or expressing",
+        "",
+        "4. Consider cultural and contextual factors",
+        "   • How does the speaker's background, audience, or purpose influence style?",
+        "",
+        "5. Formulate your analysis",
+        "   • Describe the style using specific examples from the text",
+        "",
+        "Nigerian Context in Listening Comprehension:",
+        "• Common styles in Nigerian discourse:",
+        "  - Political speeches: Often persuasive with rhetorical flourishes",
+        "  - Religious sermons: May blend expository and persuasive styles",
+        "  - Cultural storytelling: Rich in narrative and descriptive elements",
+        "  - Academic lectures: Typically expository with formal diction",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for audience may influence formality",
+        "  - Use of proverbs and idioms adds cultural depth",
+        "  - Code-switching between English and local languages",
+        "",
+        "Practical Activities:",
+        "1. Style Identification Practice:",
+        "   • Listen to recorded speeches of different styles",
+        "   • Identify elements of style: diction, tone, structure",
+        "   • Discuss in groups how style affects message delivery",
+        "",
+        "2. Comparative Analysis:",
+        "   • Compare two speakers on the same topic",
+        "   • Note differences in style and effectiveness",
+        "   • Evaluate which style is more appropriate for the purpose",
+        "",
+        "3. Style Imitation:",
+        "   • Students prepare short speeches in different styles",
+        "   • Practice delivering with appropriate tone and language",
+        "   • Peer feedback on style consistency and effectiveness",
+        "",
+        "Common Misconceptions:",
+        "• 'Style is only about fancy words': Style encompasses word choice, structure, tone, and organization",
+        "• 'One style is always best': Different purposes and audiences require different styles",
+        "• 'Style is innate and cannot be learned': Speaking styles can be analyzed, practiced, and improved",
+        "• 'Style is separate from content': Style and content work together to create meaning",
+        "",
+        "Nigerian Context:",
+        "• Understanding speaker's style supports critical engagement with Nigerian media, politics, and culture",
+        "• Analyzing local discourse enhances cultural literacy and communication skills",
+        "• Practice with Nigerian examples builds confidence in public speaking and critical listening",
+        "",
+        "Conclusion:",
+        "• Speaker's style is the distinctive way ideas are expressed through language choices",
+        "• Elements include diction, sentence structure, tone, figurative language, and organization",
+        "• Different styles serve different purposes: expository, narrative, descriptive, persuasive",
+        "• Nigerian context enriches learning with local examples and cultural considerations",
+        "• Mastery of style analysis supports effective communication and critical thinking"
+      ],
+      "diagramDescriptions": [
+        "Chart of speaking style elements: diction, structure, tone, figurative language",
+        "Comparison of expository, narrative, descriptive, and persuasive styles",
+        "Flowchart of steps for identifying speaker's style",
+        "Nigerian context: Sample speeches in different styles with analysis",
+        "Style imitation exercise with local topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English listening comprehension speaker style SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Speaker's style refers to:",
+          "opts": [
+            "The volume of the speaker's voice",
+            "The distinctive way a speaker expresses ideas through language choices",
+            "The speed of speaking",
+            "The accent of the speaker"
+          ],
+          "ans": 1,
+          "explanation": "Speaker's style encompasses word choice, sentence structure, tone, and organization - the distinctive way ideas are expressed."
+        },
+        {
+          "q": "Which element of style involves word choice?",
+          "opts": [
+            "Diction",
+            "Syntax",
+            "Tone",
+            "Organization"
+          ],
+          "ans": 0,
+          "explanation": "Diction refers to word choice, which is a key element of speaking style."
+        },
+        {
+          "q": "A persuasive speaking style is characterized by:",
+          "opts": [
+            "Clear definitions and factual evidence",
+            "Logical arguments and emotional appeals",
+            "Sensory details and figurative language",
+            "Chronological order and character development"
+          ],
+          "ans": 1,
+          "explanation": "Persuasive style uses logical arguments and emotional appeals to convince the audience."
+        },
+        {
+          "q": "In Nigerian context, a political speech might use:",
+          "opts": [
+            "Only formal English",
+            "Persuasive style with rhetorical flourishes and local proverbs",
+            "Only narrative storytelling",
+            "Only technical jargon"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian political speeches often blend persuasive style with rhetorical devices and cultural references like proverbs."
+        },
+        {
+          "q": "To identify a speaker's style, one should:",
+          "opts": [
+            "Only listen to the conclusion",
+            "Analyze language choices, tone, and organization",
+            "Ignore cultural context",
+            "Focus only on content, not delivery"
+          ],
+          "ans": 1,
+          "explanation": "Identifying style requires analyzing language choices, tone, structure, and considering cultural context."
+        },
+        {
+          "q": "A narrative speaking style is primarily used to:",
+          "opts": [
+            "Explain a concept",
+            "Tell a story",
+            "Create a vivid picture",
+            "Convince the audience"
+          ],
+          "ans": 1,
+          "explanation": "Narrative style is used to tell stories, often with chronological order and character development."
+        },
+        {
+          "q": "In Nigerian discourse, code-switching refers to:",
+          "opts": [
+            "Changing the topic frequently",
+            "Switching between English and local languages",
+            "Using only formal English",
+            "Avoiding cultural references"
+          ],
+          "ans": 1,
+          "explanation": "Code-switching in Nigerian context often involves switching between English and local languages to connect with diverse audiences."
+        },
+        {
+          "q": "Understanding speaker's style is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass listening tests",
+            "Supports critical engagement with media, politics, and culture",
+            "Only for public speaking practice",
+            "Only for academic purposes"
+          ],
+          "ans": 1,
+          "explanation": "Style analysis supports critical thinking about Nigerian media, political discourse, and cultural communication."
+        },
+        {
+          "q": "Which is NOT an element of speaking style?",
+          "opts": [
+            "Word choice",
+            "Sentence structure",
+            "Accent",
+            "Tone"
+          ],
+          "ans": 2,
+          "explanation": "Accent is a feature of pronunciation, not a deliberate element of speaking style like diction, structure, or tone."
+        },
+        {
+          "q": "A common misconception about speaking style is:",
+          "opts": [
+            "Style encompasses word choice, structure, and tone",
+            "One style is always best for all purposes",
+            "Different styles serve different purposes",
+            "Style can be analyzed and improved"
+          ],
+          "ans": 1,
+          "explanation": "Different purposes and audiences require different styles; no single style is universally best."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w11_su2",
+      "title": "11.2 Continuous Writing: Semi-Formal Letter",
+      "notes": [
+        "Continuous Writing: Semi-Formal Letter",
+        "• Definition: A semi-formal letter is written to someone you know but in a professional or respectful context",
+        "• Purpose: To communicate formally while maintaining a personal connection",
+        "",
+        "Features of a Semi-Formal Letter:",
+        "1. Sender's address and date:",
+        "   • Placed at the top right corner",
+        "   • Example: '12, Adeola Street, Lagos. 15th October, 2024.'",
+        "   • Nigerian context: Include local address format",
+        "",
+        "2. Salutation:",
+        "   • Respectful but not overly formal: 'Dear Mr. Ade,', 'Dear Dr. Bello,', 'Dear Principal,'",
+        "   • Followed by a comma",
+        "   • Nigerian context: Use culturally appropriate titles like 'Dear Sir,' 'Dear Madam,'",
+        "",
+        "3. Introduction:",
+        "   • State the purpose clearly and politely",
+        "   • Example: 'I am writing to request information about the scholarship programme.'",
+        "",
+        "4. Body:",
+        "   • Develop the main message in clear, logical paragraphs",
+        "   • Use polite, respectful language",
+        "   • Include relevant details, requests, or explanations",
+        "   • Nigerian context: Reference local institutions, programmes, or cultural norms",
+        "",
+        "5. Conclusion:",
+        "   • Summarize or express hope for a response",
+        "   • Example: 'I look forward to your favourable response.'",
+        "",
+        "6. Closing (Subscription):",
+        "   • Semi-formal closings: 'Yours sincerely,', 'Yours faithfully,', 'Respectfully yours,'",
+        "   • Followed by sender's full name",
+        "   • Nigerian context: Use culturally appropriate closings",
+        "",
+        "Language and Tone of Semi-Formal Letters:",
+        "• Polite and respectful, but not overly stiff",
+        "• Clear and concise language",
+        "• Avoid slang, colloquialisms, or overly casual expressions",
+        "• Use appropriate titles and honorifics",
+        "• Nigerian context: Balance respect for hierarchy with clear communication",
+        "",
+        "Sample Semi-Formal Letter Topics:",
+        "• Writing to a teacher requesting a recommendation letter",
+        "• Writing to a local government official about a community issue",
+        "• Writing to a company manager inquiring about internship opportunities",
+        "• Writing to a school principal about a student matter",
+        "• Nigerian context: Letters about local programmes, community development, or educational opportunities",
+        "",
+        "Differences Between Informal, Semi-Formal, and Formal Letters:",
+        "• Informal Letters:",
+        "  - To friends, family, acquaintances",
+        "  - Casual language, personal tone",
+        "  - Flexible structure",
+        "",
+        "• Semi-Formal Letters:",
+        "  - To people you know in professional contexts",
+        "  - Polite, respectful language",
+        "  - Clear structure with formal elements",
+        "",
+        "• Formal Letters:",
+        "  - To officials, organizations, strangers",
+        "  - Highly formal language, impersonal tone",
+        "  - Strict structure and format",
+        "",
+        "Practical Activities:",
+        "1. Letter Analysis:",
+        "   • Read sample semi-formal letters",
+        "   • Identify features: address, salutation, body, closing",
+        "   • Discuss language, tone, and structure",
+        "",
+        "2. Letter Writing Practice:",
+        "   • Choose a topic and plan the letter",
+        "   • Draft introduction, body, and conclusion",
+        "   • Focus on polite tone and clear structure",
+        "",
+        "3. Peer Review:",
+        "   • Exchange letters with classmates",
+        "   • Evaluate for completeness, tone, and correctness",
+        "   • Provide constructive feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Semi-formal letters don't need structure': They still require clear organization and proper format",
+        "• 'Semi-formal language means casual writing': Semi-formal letters should be polite and respectful, not casual",
+        "• 'All semi-formal letters are the same': Tone and content vary based on relationship and purpose",
+        "• 'Semi-formal letters can't address serious topics': They can address serious matters in a respectful, clear way",
+        "",
+        "Nigerian Context:",
+        "• Semi-formal letter writing supports professional communication in Nigerian society",
+        "• Understanding format and tone helps students navigate educational, business, and community contexts",
+        "• Practice with local examples enhances relevance and cultural appropriateness",
+        "",
+        "Conclusion:",
+        "• Semi-formal letters balance personal connection with professional respect",
+        "• Key features include proper address, respectful salutation, clear body, and appropriate closing",
+        "• Polite language and clear structure enhance effectiveness",
+        "• In Nigeria, semi-formal letter writing supports educational, professional, and community communication"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of a semi-formal letter: address, salutation, body, closing",
+        "Chart comparing informal, semi-formal, and formal letter features",
+        "Sample semi-formal letter with Nigerian context highlighted",
+        "Language and tone tips: polite expressions, respectful titles, clear structure",
+        "Nigerian context: Sample topics for semi-formal letters"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing semi-formal letter SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A semi-formal letter is primarily written to:",
+          "opts": [
+            "Close friends and family",
+            "People you know in professional or respectful contexts",
+            "Government officials you've never met",
+            "Strangers on the street"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters are written to people you know but in professional or respectful contexts, balancing personal connection with formal respect."
+        },
+        {
+          "q": "The salutation in a semi-formal letter might be:",
+          "opts": [
+            "Hey Tunde,",
+            "Dear Mr. Ade,",
+            "To Whom It May Concern,",
+            "Hi there,"
+          ],
+          "ans": 1,
+          "explanation": "'Dear Mr. Ade,' is a semi-formal salutation; 'Hey Tunde' is informal, 'To Whom It May Concern' is formal."
+        },
+        {
+          "q": "The body of a semi-formal letter should use:",
+          "opts": [
+            "Slang and colloquialisms",
+            "Polite, respectful, and clear language",
+            "Only short sentences",
+            "No personal pronouns"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters use polite, respectful, and clear language to maintain professionalism while being approachable."
+        },
+        {
+          "q": "Which closing is appropriate for a semi-formal letter?",
+          "opts": [
+            "Love,",
+            "Yours sincerely,",
+            "Cheers,",
+            "Later,"
+          ],
+          "ans": 1,
+          "explanation": "'Yours sincerely,' is a semi-formal closing; 'Love' is informal, 'Cheers' and 'Later' are too casual."
+        },
+        {
+          "q": "In Nigerian context, a semi-formal letter might include:",
+          "opts": [
+            "Only standard English expressions",
+            "Culturally appropriate titles and references to local institutions",
+            "Only formal greetings",
+            "No personal anecdotes"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters in Nigerian context can include culturally appropriate titles and references to local institutions to enhance relevance."
+        },
+        {
+          "q": "The sender's address in a semi-formal letter is placed:",
+          "opts": [
+            "At the bottom left",
+            "At the top right",
+            "In the middle",
+            "After the salutation"
+          ],
+          "ans": 1,
+          "explanation": "The sender's address and date are typically placed at the top right corner of a semi-formal letter."
+        },
+        {
+          "q": "A common feature of semi-formal letters is the use of:",
+          "opts": [
+            "Passive voice only",
+            "Polite expressions and respectful titles",
+            "Complex sentences only",
+            "No punctuation"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters use polite expressions and respectful titles to maintain professionalism while being approachable."
+        },
+        {
+          "q": "Understanding semi-formal letter writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports professional communication in educational, business, and community contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letter writing skills support effective communication in Nigerian educational, professional, and community settings."
+        },
+        {
+          "q": "Which is NOT a feature of a semi-formal letter?",
+          "opts": [
+            "Polite tone",
+            "Casual slang",
+            "Clear structure",
+            "Respectful language"
+          ],
+          "ans": 1,
+          "explanation": "Casual slang is not appropriate for semi-formal letters; they require polite, respectful language."
+        },
+        {
+          "q": "A common misconception about semi-formal letters is:",
+          "opts": [
+            "They require clear organization",
+            "Semi-formal language means casual writing",
+            "They can address serious topics",
+            "They use respectful titles"
+          ],
+          "ans": 1,
+          "explanation": "Semi-formal letters should be polite and respectful, not casual; 'semi-formal' does not mean 'casual'."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w11_su3",
+      "title": "11.3 Structure: Differences Between a Phrase and a Clause",
+      "notes": [
+        "Structure: Phrase vs. Clause",
+        "• Definition: Understanding the difference between phrases and clauses is fundamental to sentence construction",
+        "• Importance: Enables accurate sentence analysis, clear writing, and effective communication",
+        "",
+        "Definition of a Phrase:",
+        "• A group of words that does NOT contain a subject and a finite verb",
+        "• Cannot stand alone as a complete sentence",
+        "• Functions as a single part of speech (noun, adjective, adverb, etc.)",
+        "",
+        "Types of Phrases:",
+        "1. Noun Phrase:",
+        "   • Functions as a noun in a sentence",
+        "   • Example: 'The tall boy' (subject or object)",
+        "   • Nigerian context: 'The principal of our school'",
+        "",
+        "2. Adjective Phrase:",
+        "   • Functions as an adjective, modifying a noun",
+        "   • Example: 'very intelligent' (modifies 'student')",
+        "   • Nigerian context: 'extremely hardworking' (describes a person)",
+        "",
+        "3. Adverbial Phrase:",
+        "   • Functions as an adverb, modifying a verb, adjective, or adverb",
+        "   • Example: 'very quickly' (modifies 'ran')",
+        "   • Nigerian context: 'with great care' (describes how an action is done)",
+        "",
+        "4. Prepositional Phrase:",
+        "   • Begins with a preposition and ends with a noun/pronoun",
+        "   • Example: 'in the classroom', 'under the table'",
+        "   • Nigerian context: 'at the market', 'near the river Niger'",
+        "",
+        "Definition of a Clause:",
+        "• A group of words that CONTAINS a subject and a finite verb",
+        "• Can be independent (can stand alone) or dependent (cannot stand alone)",
+        "",
+        "Types of Clauses:",
+        "1. Independent Clause:",
+        "   • Contains subject + finite verb + complete thought",
+        "   • Can stand alone as a sentence",
+        "   • Example: 'The boy kicked the ball.'",
+        "   • Nigerian context: 'The farmer harvested his crops.'",
+        "",
+        "2. Dependent (Subordinate) Clause:",
+        "   • Contains subject + finite verb but NOT a complete thought",
+        "   • Cannot stand alone; depends on an independent clause",
+        "   • Introduced by subordinating conjunctions: because, although, when, if, etc.",
+        "   • Example: 'because he was hungry' (needs main clause)",
+        "   • Nigerian context: 'when the rain stopped' (needs main clause)",
+        "",
+        "Key Differences Between Phrase and Clause:",
+        "• Presence of Subject and Finite Verb:",
+        "  - Phrase: NO subject + finite verb combination",
+        "  - Clause: HAS subject + finite verb combination",
+        "",
+        "• Ability to Stand Alone:",
+        "  - Phrase: Cannot stand alone as a sentence",
+        "  - Clause: Independent clause can stand alone; dependent clause cannot",
+        "",
+        "• Function in Sentence:",
+        "  - Phrase: Functions as a single part of speech",
+        "  - Clause: Can function as a complete sentence (independent) or as part of a sentence (dependent)",
+        "",
+        "Examples for Comparison:",
+        "• Phrase: 'in the morning' (prepositional phrase, no subject+verb)",
+        "• Clause: 'when the morning came' (dependent clause, has subject 'morning' + verb 'came')",
+        "",
+        "• Phrase: 'the tall boy' (noun phrase, no verb)",
+        "• Clause: 'the boy who is tall' (independent clause with relative clause)",
+        "",
+        "• Phrase: 'very quickly' (adverbial phrase)",
+        "• Clause: 'because he ran quickly' (dependent clause)",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Treating a phrase as a complete sentence",
+        "  - Incorrect: 'In the morning.' (fragment)",
+        "  - Correct: 'We met in the morning.' (complete sentence)",
+        "",
+        "• Error: Using a dependent clause as a complete sentence",
+        "  - Incorrect: 'Because he was tired.' (fragment)",
+        "  - Correct: 'He left early because he was tired.' (complete sentence)",
+        "",
+        "• Error: Confusing phrase types",
+        "  - Incorrect: 'The boy very quickly.' (missing verb)",
+        "  - Correct: 'The boy ran very quickly.' (complete clause)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'When the rain stopped.' (fragment)",
+        "  - Correction: 'We continued our journey when the rain stopped.'",
+        "",
+        "Practical Activities:",
+        "1. Phrase/Clause Identification:",
+        "   • Provide sentences for students to identify phrases and clauses",
+        "   • Underline subjects and circle finite verbs to identify clauses",
+        "   • Discuss the function of each phrase/clause in context",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using different phrase and clause types",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on phrase/clause usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with phrase/clause errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'All groups of words are clauses': Only groups with subject+finite verb are clauses",
+        "• 'Phrases can stand alone as sentences': Phrases cannot stand alone; they need clauses",
+        "• 'Dependent clauses are complete thoughts': Dependent clauses express incomplete thoughts",
+        "• 'Phrase types are unimportant': Understanding phrase types improves sentence variety and clarity",
+        "",
+        "Nigerian Context:",
+        "• Correct phrase/clause usage supports clear communication in academic writing and professional contexts",
+        "• Understanding sentence structure helps students construct accurate, varied sentences",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Phrases lack subject+finite verb; clauses contain them",
+        "• Independent clauses can stand alone; dependent clauses cannot",
+        "• Understanding the difference improves sentence construction and analysis",
+        "• Mastery supports academic writing, professional communication, and effective expression"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing phrases and clauses with examples",
+        "Flowchart for identifying phrases vs. clauses",
+        "Types of phrases: noun, adjective, adverbial, prepositional",
+        "Types of clauses: independent vs. dependent",
+        "Nigerian context: Sample sentences with correct phrase/clause usage"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar phrase clause difference SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A phrase is defined as a group of words that:",
+          "opts": [
+            "Contains a subject and a finite verb",
+            "Does NOT contain a subject and a finite verb",
+            "Can stand alone as a complete sentence",
+            "Always begins with a preposition"
+          ],
+          "ans": 1,
+          "explanation": "A phrase does NOT contain a subject and a finite verb; that is the key difference from a clause."
+        },
+        {
+          "q": "Which of the following is a clause?",
+          "opts": [
+            "in the morning",
+            "the tall boy",
+            "because he was tired",
+            "very quickly"
+          ],
+          "ans": 2,
+          "explanation": "'Because he was tired' is a dependent clause; it has a subject ('he') and a finite verb ('was')."
+        },
+        {
+          "q": "An independent clause can:",
+          "opts": [
+            "Never stand alone",
+            "Stand alone as a complete sentence",
+            "Only function as an adjective",
+            "Only begin with a subordinating conjunction"
+          ],
+          "ans": 1,
+          "explanation": "An independent clause contains a subject, finite verb, and complete thought, so it can stand alone as a sentence."
+        },
+        {
+          "q": "Which is a noun phrase?",
+          "opts": [
+            "running quickly",
+            "the principal of our school",
+            "because he arrived late",
+            "in the classroom"
+          ],
+          "ans": 1,
+          "explanation": "'The principal of our school' is a noun phrase; it functions as a noun but lacks a finite verb."
+        },
+        {
+          "q": "A dependent clause is introduced by:",
+          "opts": [
+            "A preposition",
+            "A subordinating conjunction",
+            "An article",
+            "An adjective"
+          ],
+          "ans": 1,
+          "explanation": "Dependent clauses are often introduced by subordinating conjunctions like 'because', 'although', 'when', etc."
+        },
+        {
+          "q": "In the sentence 'We met in the morning', 'in the morning' is a:",
+          "opts": [
+            "Independent clause",
+            "Dependent clause",
+            "Prepositional phrase",
+            "Noun phrase"
+          ],
+          "ans": 2,
+          "explanation": "'In the morning' is a prepositional phrase; it begins with a preposition and lacks a subject+finite verb."
+        },
+        {
+          "q": "Which sentence contains a dependent clause?",
+          "opts": [
+            "The boy kicked the ball.",
+            "Because he was hungry, he ate quickly.",
+            "In the classroom.",
+            "Very quickly."
+          ],
+          "ans": 1,
+          "explanation": "'Because he was hungry' is a dependent clause; it cannot stand alone and depends on the main clause."
+        },
+        {
+          "q": "Understanding phrases and clauses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves sentence construction and writing clarity in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of phrases and clauses enables students to construct varied, accurate sentences essential for academic and professional communication."
+        },
+        {
+          "q": "Which is a fragment (incomplete sentence)?",
+          "opts": [
+            "The farmer harvested his crops.",
+            "When the rain stopped.",
+            "She ran very quickly.",
+            "They met at the market."
+          ],
+          "ans": 1,
+          "explanation": "'When the rain stopped' is a dependent clause fragment; it cannot stand alone as a complete sentence."
+        },
+        {
+          "q": "A common misconception about clauses is:",
+          "opts": [
+            "Clauses contain a subject and finite verb",
+            "All clauses can stand alone as sentences",
+            "Dependent clauses need independent clauses",
+            "Independent clauses express complete thoughts"
+          ],
+          "ans": 1,
+          "explanation": "Only independent clauses can stand alone; dependent clauses cannot stand alone as complete sentences."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w11_su4",
+      "title": "11.4 Summary: Writing a Summary of a Passage in a Specified Number of Sentences",
+      "notes": [
+        "Summary Writing: Specified Number of Sentences",
+        "• Definition: Condensing a passage into a specific number of sentences while retaining essential meaning",
+        "• Importance: Develops precision, critical thinking, and ability to distill complex information",
+        "",
+        "Characteristics of an Effective Summary:",
+        "1. Concise:",
+        "   • Uses the specified number of sentences exactly",
+        "   • Avoids unnecessary words, details, or examples",
+        "   • Example: If asked for 3 sentences, write exactly 3 - no more, no less",
+        "",
+        "2. Complete:",
+        "   • Includes all main ideas and essential supporting points",
+        "   • Omits minor details, repetitions, and examples",
+        "   • Example: A summary of a passage on corruption should include causes, effects, and solutions if they are main points",
+        "",
+        "3. Accurate:",
+        "   • Faithfully represents the original passage's meaning",
+        "   • Avoids adding personal opinions or interpretations",
+        "   • Example: If the passage states 'Corruption undermines development', the summary should not say 'Corruption is good'",
+        "",
+        "4. Coherent:",
+        "   • Sentences flow logically from one to the next",
+        "   • Uses appropriate transitions and connectors",
+        "   • Example: 'Firstly... Secondly... Finally...' or 'Furthermore... However... Therefore...'",
+        "",
+        "Steps for Writing a Summary in Specified Sentences:",
+        "1. Read the passage carefully:",
+        "   • Identify the main idea and key supporting points",
+        "   • Note the passage's purpose and structure",
+        "",
+        "2. Determine the required number of sentences:",
+        "   • Plan how to allocate main ideas across the specified sentences",
+        "   • Example: If 3 sentences are required, plan: 1 for main idea, 1 for key support, 1 for conclusion",
+        "",
+        "3. Extract and paraphrase key points:",
+        "   • Restate main ideas in your own words",
+        "   • Combine related points into single sentences where possible",
+        "   • Avoid copying phrases verbatim from the original",
+        "",
+        "4. Write the summary:",
+        "   • Start with a sentence stating the main idea",
+        "   • Develop with sentences covering essential supporting points",
+        "   • End with a sentence that concludes or emphasizes significance",
+        "",
+        "5. Count and revise:",
+        "   • Ensure you have exactly the specified number of sentences",
+        "   • Check for conciseness, completeness, accuracy, and coherence",
+        "   • Revise to meet all criteria",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Including too many details",
+        "  - Solution: Focus only on main ideas; omit examples and minor points",
+        "",
+        "• Challenge: Writing too few or too many sentences",
+        "  - Solution: Plan sentence allocation before writing; count sentences during revision",
+        "",
+        "• Challenge: Copying the original text",
+        "  - Solution: Paraphrase in your own words; use synonyms and different sentence structures",
+        "",
+        "• Challenge: Losing the original meaning",
+        "  - Solution: After writing, compare your summary to the original to ensure accuracy",
+        "",
+        "Nigerian Context in Summary Writing:",
+        "• Common themes for summary practice:",
+        "  - Corruption and governance",
+        "  - Environmental conservation",
+        "  - Education and youth empowerment",
+        "  - Health and disease prevention",
+        "  - Cultural values and modernization",
+        "",
+        "• Cultural considerations:",
+        "  - Use of local examples and proverbs in original passages",
+        "  - Sensitivity to ethnic, religious, or political issues",
+        "  - Clarity for diverse Nigerian audiences",
+        "",
+        "Practical Activities:",
+        "1. Sentence Counting Practice:",
+        "   • Provide passages with summary requirements (e.g., 'Summarize in 3 sentences')",
+        "   • Students write summaries and count sentences to ensure compliance",
+        "   • Peer review for sentence count and content accuracy",
+        "",
+        "2. Paraphrasing Exercises:",
+        "   • Give sentences from passages for students to paraphrase",
+        "   • Focus on changing structure and vocabulary while keeping meaning",
+        "   • Compare original and paraphrased versions for accuracy",
+        "",
+        "3. Model Summary Analysis:",
+        "   • Analyze model summaries of Nigerian-themed passages",
+        "   • Identify how main ideas are condensed into specified sentences",
+        "   • Discuss effectiveness of paraphrasing and sentence allocation",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary length doesn't matter': The specified number of sentences is a strict requirement",
+        "• 'Summaries can include personal opinions': Summaries must be objective and faithful to the original",
+        "• 'More sentences are better if they add detail': Extra sentences violate the specified requirement",
+        "• 'Paraphrasing means changing the meaning': Paraphrasing restates meaning in different words",
+        "",
+        "Nigerian Context:",
+        "• Summary writing skills support academic success in Nigerian schools and universities",
+        "• Understanding local themes enhances relevance and application",
+        "• Practice with Nigerian examples builds precision and critical thinking",
+        "",
+        "Conclusion:",
+        "• Effective summaries are concise, complete, accurate, and coherent",
+        "• Steps include reading, planning, paraphrasing, writing, and revising",
+        "• Nigerian context enriches learning with local themes and cultural considerations",
+        "• Mastery of summary writing supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary characteristics: concise, complete, accurate, coherent",
+        "Flowchart of steps for writing a summary in specified sentences",
+        "Sample passage with model summary in 3 sentences",
+        "Nigerian context: Sample summary topics on local issues",
+        "Paraphrasing exercise with before/after examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English summary writing specified sentences SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "When summarizing in a specified number of sentences, you must:",
+          "opts": [
+            "Write at least that many sentences",
+            "Write exactly that many sentences",
+            "Write no more than that many sentences",
+            "Ignore the sentence count"
+          ],
+          "ans": 1,
+          "explanation": "The specified number of sentences is a strict requirement; you must write exactly that number."
+        },
+        {
+          "q": "An effective summary should be:",
+          "opts": [
+            "Longer than the original passage",
+            "A copy of the original text",
+            "Concise, complete, accurate, and coherent",
+            "Filled with personal opinions"
+          ],
+          "ans": 2,
+          "explanation": "Effective summaries are concise (brief), complete (include main ideas), accurate (faithful to original), and coherent (logical flow)."
+        },
+        {
+          "q": "The first step in writing a summary is to:",
+          "opts": [
+            "Start writing immediately",
+            "Read the passage carefully to identify main ideas",
+            "Count the words in the passage",
+            "Ask someone else to summarize it"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully to identify main ideas is essential before attempting to summarize."
+        },
+        {
+          "q": "Paraphrasing in summary writing means:",
+          "opts": [
+            "Copying the original text word for word",
+            "Restating ideas in your own words while keeping the meaning",
+            "Adding your own opinions to the original",
+            "Shortening the passage by deleting sentences"
+          ],
+          "ans": 1,
+          "explanation": "Paraphrasing restates the original meaning using different words and sentence structures."
+        },
+        {
+          "q": "If a passage is about corruption in Nigeria and you must summarize in 3 sentences, you should:",
+          "opts": [
+            "Include every example of corruption mentioned",
+            "Focus on the main causes, effects, and solutions if they are key points",
+            "Write 4 sentences to be safe",
+            "Copy the first and last sentences of the passage"
+          ],
+          "ans": 1,
+          "explanation": "A good summary focuses on main ideas (causes, effects, solutions) and omits minor details and examples."
+        },
+        {
+          "q": "Which is a common error in summary writing?",
+          "opts": [
+            "Using your own words",
+            "Including personal opinions",
+            "Counting sentences",
+            "Focusing on main ideas"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must be objective; including personal opinions distorts the original meaning."
+        },
+        {
+          "q": "In Nigerian context, a summary on education might focus on:",
+          "opts": [
+            "Only global education issues",
+            "Local challenges like funding, access, and quality",
+            "Only historical education systems",
+            "Only theoretical definitions"
+          ],
+          "ans": 1,
+          "explanation": "Summaries in Nigerian context should focus on locally relevant issues like funding, access, and quality of education."
+        },
+        {
+          "q": "Understanding summary writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, critical thinking, and effective communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Summary writing skills support academic work, critical analysis, and clear communication in Nigerian educational and professional contexts."
+        },
+        {
+          "q": "Which is NOT a characteristic of an effective summary?",
+          "opts": [
+            "Concise",
+            "Complete",
+            "Copied verbatim",
+            "Accurate"
+          ],
+          "ans": 2,
+          "explanation": "Effective summaries paraphrase in your own words; copying verbatim is plagiarism, not summarizing."
+        },
+        {
+          "q": "A common misconception about summary writing is:",
+          "opts": [
+            "Summaries must be concise",
+            "Summaries can include personal opinions",
+            "Summaries should be accurate",
+            "Summaries must be coherent"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must be objective and faithful to the original; personal opinions have no place in a summary."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "course": "JSS1 English Language",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t1_w9_su1",
+      "title": "9.1 Reading: Interpretation and Projection Level Questions",
+      "notes": [
+        "Reading Comprehension: Interpretation and Projection",
+        "",
+        "Key Concepts:",
+        "1. Interpretation Level Questions:",
+        "   - These questions ask you to explain the meaning of something in the passage.",
+        "   - You must show understanding, not just copy words.",
+        "   - Signal words: 'Explain', 'What does this mean', 'Interpret'.",
+        "",
+        "2. Projection Level Questions:",
+        "   - These ask you to predict what might happen next or suggest solutions.",
+        "   - You use evidence from the text to make logical guesses.",
+        "   - Signal words: 'What do you think will happen', 'How can this be solved'.",
+        "",
+        "3. Strategies for Answering:",
+        "   - Read the question carefully to know what is asked.",
+        "   - Scan the passage for clues related to the question.",
+        "   - For interpretation: Explain the meaning in your own words.",
+        "   - For projection: Make a logical prediction based on the text."
+      ],
+      "diagramDescriptions": [
+        "Diagram showing the difference between factual and interpretive questions",
+        "Flowchart for answering projection questions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading comprehension interpretation projection site:youtube.com",
+      "quiz": [
+        {
+          "q": "Interpretation questions require you to:",
+          "opts": [
+            "Copy the answer directly from the text",
+            "Explain the meaning in your own words",
+            "Predict the future",
+            "Count the paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "Interpretation asks for understanding and explanation, not just copying."
+        },
+        {
+          "q": "Projection questions ask you to:",
+          "opts": [
+            "Summarize the text",
+            "Predict outcomes or suggest solutions",
+            "Define words",
+            "List the characters"
+          ],
+          "ans": 1,
+          "explanation": "Projection involves looking forward to predict or suggest based on the text."
+        },
+        {
+          "q": "Which word often signals an interpretation question?",
+          "opts": [
+            "What will happen",
+            "Explain",
+            "When",
+            "List"
+          ],
+          "ans": 1,
+          "explanation": "'Explain' is the signal word for interpretation questions."
+        },
+        {
+          "q": "When answering a projection question, your answer should be based on:",
+          "opts": [
+            "Your personal feelings only",
+            "Random guesses",
+            "Evidence and clues from the passage",
+            "What you saw on TV"
+          ],
+          "ans": 2,
+          "explanation": "Projections must be logical and supported by the text evidence."
+        },
+        {
+          "q": "'What does the phrase \"he lost heart\" mean in this context?' is an example of a/an _______ question.",
+          "opts": [
+            "Knowledge",
+            "Projection",
+            "Interpretation",
+            "Factual"
+          ],
+          "ans": 2,
+          "explanation": "This asks for the meaning of a phrase, which is interpretation."
+        },
+        {
+          "q": "Why is reading for projection important?",
+          "opts": [
+            "It helps you memorize the text",
+            "It helps you understand consequences and solutions",
+            "It helps you write poetry",
+            "It helps you speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Projection helps readers understand cause, effect, and problem-solving within the text."
+        },
+        {
+          "q": "To interpret a difficult word in a passage, you should:",
+          "opts": [
+            "Skip it completely",
+            "Look at the context clues around it",
+            "Ask the teacher immediately without trying",
+            "Stop reading"
+          ],
+          "ans": 1,
+          "explanation": "Context clues (words nearby) help you deduce the meaning of difficult words."
+        },
+        {
+          "q": "Which is a projection question?",
+          "opts": [
+            "Who is the main character?",
+            "How did the story end?",
+            "What do you think the character should do next?",
+            "Where did the event take place?"
+          ],
+          "ans": 2,
+          "explanation": "Asking what a character should do next asks for a suggestion/prediction."
+        },
+        {
+          "q": "If a passage describes a drought, a projection might be:",
+          "opts": [
+            "The crops will die",
+            "The farmer is named Musa",
+            "The story is set in 1990",
+            "The title is 'The Farm'"
+          ],
+          "ans": 0,
+          "explanation": "Predicting that crops will die is a logical projection based on the fact of a drought."
+        },
+        {
+          "q": "A good interpretation explains:",
+          "opts": [
+            "Only the plot summary",
+            "The deeper meaning or intent of the author",
+            "The author's biography",
+            "The number of pages"
+          ],
+          "ans": 1,
+          "explanation": "Interpretation looks beyond the surface to the deeper meaning or intent."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w9_su2",
+      "title": "9.2 Writing: Composition on the Aims of FRSC",
+      "notes": [
+        "Writing: Composition on the Aims of FRSC",
+        "",
+        "Key Concepts:",
+        "1. Who are the FRSC?",
+        "   - Federal Road Safety Corps.",
+        "   - They are the agency responsible for road safety in Nigeria.",
+        "",
+        "2. Main Aims of FRSC:",
+        "   - To prevent and minimize road traffic accidents.",
+        "   - To provide emergency care to victims of accidents.",
+        "   - To evolve a safer road culture in Nigeria.",
+        "   - To educate road users on safety rules.",
+        "",
+        "3. Essay Structure:",
+        "   - Introduction: Define FRSC and state their importance.",
+        "   - Body: Discuss their aims (prevention, education, rescue).",
+        "   - Conclusion: Summarize how FRSC helps make roads safer."
+      ],
+      "diagramDescriptions": [
+        "Image of FRSC Corps Marshall or patrol car",
+        "Chart listing the core aims of FRSC"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English writing composition FRSC aims site:youtube.com",
+      "quiz": [
+        {
+          "q": "What does FRSC stand for?",
+          "opts": [
+            "Federal Road Safety Commission",
+            "Federal Road Safety Corps",
+            "Federal Road Security Corps",
+            "Federal Rescue Safety Corps"
+          ],
+          "ans": 1,
+          "explanation": "FRSC stands for Federal Road Safety Corps."
+        },
+        {
+          "q": "One major aim of the FRSC is to:",
+          "opts": [
+            "Sell cars",
+            "Evolve a safer road culture",
+            "Build bridges",
+            "Teach people how to drive without a license"
+          ],
+          "ans": 1,
+          "explanation": "Evolving a safer road culture is a core mandate of the FRSC."
+        },
+        {
+          "q": "The FRSC provides emergency care to:",
+          "opts": [
+            "Sick animals",
+            "Victims of road accidents",
+            "People with headaches",
+            "Lost luggage"
+          ],
+          "ans": 1,
+          "explanation": "FRSC responds to crashes to provide immediate aid to victims."
+        },
+        {
+          "q": "In a composition about FRSC, the introduction should:",
+          "opts": [
+            "List their salary",
+            "Define who they are and their role",
+            "Tell a joke about traffic",
+            "Copy the question exactly"
+          ],
+          "ans": 1,
+          "explanation": "A good introduction defines the subject and sets the context."
+        },
+        {
+          "q": "Which of the following is NOT an aim of FRSC?",
+          "opts": [
+            "Preventing accidents",
+            "Educating road users",
+            "Manufacturing tires",
+            "Clearing road wrecks"
+          ],
+          "ans": 2,
+          "explanation": "FRSC does not manufacture tires; that is a commercial activity."
+        },
+        {
+          "q": "What does 'evolve a safer road culture' mean?",
+          "opts": [
+            "To make roads longer",
+            "To develop habits and attitudes that make roads safe",
+            "To arrest all drivers",
+            "To close all roads"
+          ],
+          "ans": 1,
+          "explanation": "It means creating a society where people naturally follow safety rules."
+        },
+        {
+          "q": "FRSC educates road users on:",
+          "opts": [
+            "How to cook",
+            "Safety rules and regulations",
+            "How to build houses",
+            "History of Nigeria"
+          ],
+          "ans": 1,
+          "explanation": "FRSC's educational role focuses on road safety awareness."
+        },
+        {
+          "q": "The conclusion of your essay should:",
+          "opts": [
+            "Introduce new points",
+            "Summarize the main aims discussed",
+            "Be empty",
+            "Ask for money"
+          ],
+          "ans": 1,
+          "explanation": "A conclusion summarizes the key points made in the body of the essay."
+        },
+        {
+          "q": "FRSC is an example of a:",
+          "opts": [
+            "Private company",
+            "Government agency",
+            "Sports club",
+            "Religious group"
+          ],
+          "ans": 1,
+          "explanation": "FRSC is a federal government agency responsible for road safety."
+        },
+        {
+          "q": "Writing about FRSC helps students learn about:",
+          "opts": [
+            "Civic responsibility and safety",
+            "How to fix a car",
+            "Cooking recipes",
+            "Foreign languages"
+          ],
+          "ans": 0,
+          "explanation": "It teaches students about national agencies and the importance of obeying laws."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w9_su3",
+      "title": "9.3 Grammatical Accuracy: Adverbs",
+      "notes": [
+        "Grammar: Adverbs",
+        "",
+        "Key Concepts:",
+        "1. What is an Adverb?",
+        "   - A word that modifies a Verb, Adjective, or another Adverb.",
+        "   - It often tells us how, when, where, or how often.",
+        "",
+        "2. Types of Adverbs:",
+        "   - Adverb of Manner (How): slowly, quickly, happily.",
+        "   - Adverb of Time (When): yesterday, soon, now.",
+        "   - Adverb of Place (Where): here, there, everywhere.",
+        "   - Adverb of Frequency (How often): always, never, sometimes.",
+        "",
+        "3. Identifying Adverbs:",
+        "   - Look for words ending in '-ly' (e.g., slowly, loudly).",
+        "   - Example: 'He runs FAST.' (Modifies the verb 'runs')."
+      ],
+      "diagramDescriptions": [
+        "Chart showing the 4 main types of adverbs with examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar adverbs types functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverb modifies a _______.",
+          "opts": [
+            "Noun",
+            "Pronoun",
+            "Verb, Adjective, or Adverb",
+            "Article"
+          ],
+          "ans": 2,
+          "explanation": "Adverbs describe verbs, adjectives, or other adverbs."
+        },
+        {
+          "q": "In the sentence 'She sings beautifully', 'beautifully' is an adverb of:",
+          "opts": [
+            "Time",
+            "Place",
+            "Manner",
+            "Frequency"
+          ],
+          "ans": 2,
+          "explanation": "'Beautifully' tells us HOW she sings (Manner)."
+        },
+        {
+          "q": "Which word is an adverb of time?",
+          "opts": [
+            "Slowly",
+            "Yesterday",
+            "Here",
+            "Always"
+          ],
+          "ans": 1,
+          "explanation": "'Yesterday' tells us WHEN something happened."
+        },
+        {
+          "q": "'Always' and 'never' are examples of adverbs of:",
+          "opts": [
+            "Manner",
+            "Place",
+            "Time",
+            "Frequency"
+          ],
+          "ans": 3,
+          "explanation": "They tell us HOW OFTEN an action happens."
+        },
+        {
+          "q": "Identify the adverb in: 'The dog barked loudly.'",
+          "opts": [
+            "Dog",
+            "Barked",
+            "Loudly",
+            "The"
+          ],
+          "ans": 2,
+          "explanation": "'Loudly' modifies the verb 'barked'."
+        },
+        {
+          "q": "Adverbs of place answer the question:",
+          "opts": [
+            "How?",
+            "When?",
+            "Where?",
+            "Why?"
+          ],
+          "ans": 2,
+          "explanation": "Place adverbs tell us WHERE an action takes place."
+        },
+        {
+          "q": "Many adverbs end with the suffix:",
+          "opts": [
+            "-ing",
+            "-tion",
+            "-ly",
+            "-er"
+          ],
+          "ans": 2,
+          "explanation": "-ly is the most common suffix for adverbs (e.g., quickly)."
+        },
+        {
+          "q": "In 'He arrived early', 'early' modifies:",
+          "opts": [
+            "He",
+            "Arrived",
+            "The day",
+            "Nothing"
+          ],
+          "ans": 1,
+          "explanation": "'Early' describes the verb 'arrived'."
+        },
+        {
+          "q": "Which is NOT an adverb?",
+          "opts": [
+            "Quickly",
+            "Happily",
+            "Beautiful",
+            "Yesterday"
+          ],
+          "ans": 2,
+          "explanation": "'Beautiful' is an adjective; 'beautifully' is the adverb."
+        },
+        {
+          "q": "Identify the type of adverb: 'She looked everywhere.'",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Frequency"
+          ],
+          "ans": 2,
+          "explanation": "'Everywhere' indicates Place."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w9_su4",
+      "title": "9.4 Literature: Types of Prose (Narrative)",
+      "notes": [
+        "Literature: Types of Prose - Narrative",
+        "",
+        "Key Concepts:",
+        "1. What is Prose?",
+        "   - Ordinary language used in writing, not poetry. It comes in sentences and paragraphs.",
+        "",
+        "2. Types of Prose:",
+        "   - Narrative (Storytelling)",
+        "   - Descriptive (Painting a picture with words)",
+        "   - Expository (Explaining facts)",
+        "   - Argumentative (Persuading)",
+        "",
+        "3. Narrative Prose:",
+        "   - It tells a story (fiction or non-fiction).",
+        "   - Features: Plot (sequence of events), Characters (people/animals), Setting (place/time)."
+      ],
+      "diagramDescriptions": [
+        "Diagram of the Elements of a Narrative: Plot, Setting, Characters, Theme"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature types of prose narrative site:youtube.com",
+      "quiz": [
+        {
+          "q": "Prose is defined as:",
+          "opts": [
+            "Writing in rhyme and meter",
+            "Ordinary language written in sentences and paragraphs",
+            "Dramatic speech",
+            "Song lyrics"
+          ],
+          "ans": 1,
+          "explanation": "Prose is the standard form of writing, unlike poetry."
+        },
+        {
+          "q": "Which type of prose tells a story?",
+          "opts": [
+            "Expository",
+            "Descriptive",
+            "Narrative",
+            "Argumentative"
+          ],
+          "ans": 2,
+          "explanation": "Narrative prose focuses on storytelling."
+        },
+        {
+          "q": "The 'Setting' in a narrative refers to:",
+          "opts": [
+            "The main character",
+            "The time and place of the story",
+            "The moral lesson",
+            "The conflict"
+          ],
+          "ans": 1,
+          "explanation": "Setting establishes the context (where and when) of the story."
+        },
+        {
+          "q": "Which of the following is a feature of Narrative Prose?",
+          "opts": [
+            "Rhyming scheme",
+            "Plot and Characters",
+            "Statistical data",
+            "Persuasive arguments"
+          ],
+          "ans": 1,
+          "explanation": "Narratives rely on plot and characters to engage the reader."
+        },
+        {
+          "q": "Non-fiction narrative is based on:",
+          "opts": [
+            "Imagination",
+            "True facts and real events",
+            "Fantasy",
+            "Magic"
+          ],
+          "ans": 1,
+          "explanation": "Non-fiction narratives (like biographies) are factual."
+        },
+        {
+          "q": "Fiction narrative is based on:",
+          "opts": [
+            "Real historical records",
+            "The writer's imagination",
+            "Scientific laws",
+            "Government reports"
+          ],
+          "ans": 1,
+          "explanation": "Fiction is created from the imagination."
+        },
+        {
+          "q": "The sequence of events in a story is called the:",
+          "opts": [
+            "Theme",
+            "Setting",
+            "Plot",
+            "Style"
+          ],
+          "ans": 2,
+          "explanation": "Plot is the structured sequence of events."
+        },
+        {
+          "q": "Which is an example of a narrative text?",
+          "opts": [
+            "A recipe book",
+            "A newspaper report",
+            "A folktale",
+            "A dictionary"
+          ],
+          "ans": 2,
+          "explanation": "Folktales are stories, making them narrative prose."
+        },
+        {
+          "q": "In a narrative, the 'climax' is:",
+          "opts": [
+            "The beginning of the story",
+            "The most exciting part of the story",
+            "The end of the story",
+            "The description of the setting"
+          ],
+          "ans": 1,
+          "explanation": "The climax is the turning point or peak of the action."
+        },
+        {
+          "q": "Prose is written in:",
+          "opts": [
+            "Stanzas",
+            "Verses",
+            "Paragraphs",
+            "Acts and Scenes"
+          ],
+          "ans": 2,
+          "explanation": "Prose is organized into paragraphs."
+        }
+      ]
+    }
+  ]
+}

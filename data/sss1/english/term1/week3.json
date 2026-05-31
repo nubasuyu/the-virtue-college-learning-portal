@@ -1,0 +1,911 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Speech, Structures, Comprehension, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w3_su1",
+      "title": "3.1 Speech: Consonants Followed by /w/",
+      "notes": [
+        "Consonant Clusters with /w/",
+        "• Definition: Consonant clusters are two or more consonant sounds pronounced together without a vowel between them",
+        "• Focus: Consonants followed by /w/ in initial position",
+        "",
+        "Target Sound Pattern: /Cw/ (Consonant + /w/)",
+        "• Examples:",
+        "  - /tw/: twist, twin, twenty, between, thwart",
+        "  - /sw/: sweep, sweet, swim, switch, swarm",
+        "  - /kw/: quick, queen, question, quarter, squeak",
+        "  - /dw/: dwell, dwarf, dwindle, dwellings",
+        "  - /gw/: Gwen, gwendolyn (proper names)",
+        "",
+        "Pronunciation Guide:",
+        "• /tw/: Tongue tip touches alveolar ridge, then lips round for /w/",
+        "  - Practice: 'Twist the rope tightly.'",
+        "  - Nigerian context: Often pronounced as /t/ alone - 'twist' as 'tist'",
+        "",
+        "• /sw/: Tongue near alveolar ridge for /s/, then lips round for /w/",
+        "  - Practice: 'Sweep the floor swiftly.'",
+        "  - Nigerian context: May be pronounced as /s/ alone - 'sweep' as 'seep'",
+        "",
+        "• /kw/: Back of tongue touches soft palate for /k/, then lips round for /w/",
+        "  - Practice: 'Quickly answer the question.'",
+        "  - Nigerian context: May be pronounced as /k/ alone - 'quick' as 'kick'",
+        "",
+        "Common Errors in Nigerian English:",
+        "• Omission of /w/ after consonant:",
+        "  - 'twelve' → 'telve'",
+        "  - 'sweet' → 'seet'",
+        "  - 'question' → 'keshun'",
+        "",
+        "• Substitution with vowel sounds:",
+        "  - 'twist' → 'tuis'",
+        "  - 'swim' → 'suim'",
+        "",
+        "Correction Strategies:",
+        "1. Isolate the cluster:",
+        "   • Practice /tw/, /sw/, /kw/ without full words",
+        "   • Focus on smooth transition between consonants",
+        "",
+        "2. Use minimal pairs:",
+        "   • twist/tist, sweet/seet, quick/kick",
+        "   • Highlight the difference in meaning",
+        "",
+        "3. Practice in sentences:",
+        "   • 'The twins twist the towel.'",
+        "   • 'She sweeps the sweet-smelling room.'",
+        "   • 'He quickly asked a question.'",
+        "",
+        "4. Record and compare:",
+        "   • Record own pronunciation",
+        "   • Compare with model pronunciation",
+        "   • Identify and correct differences",
+        "",
+        "Practical Activities:",
+        "1. Pronunciation Drill:",
+        "   • Teacher models /Cw/ clusters",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on smooth consonant transitions",
+        "",
+        "2. Word Sorting:",
+        "   • Sort words by initial cluster (/tw/, /sw/, /kw/)",
+        "   • Create word lists for each cluster",
+        "   • Practice pronunciation of sorted words",
+        "",
+        "3. Sentence Construction:",
+        "   • Use /Cw/ words in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct pronunciation errors collaboratively",
+        "",
+        "Nigerian Context:",
+        "• Correct /Cw/ pronunciation improves clarity in academic and professional settings",
+        "• Practice with local examples enhances relevance and retention",
+        "• Awareness of common errors helps self-correction and peer support",
+        "",
+        "Conclusion:",
+        "• Consonant clusters with /w/ require precise articulation",
+        "• Common Nigerian errors involve omission or substitution of /w/",
+        "• Targeted practice with minimal pairs and sentences improves accuracy",
+        "• Clear pronunciation supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue and lip positions for /Cw/ clusters",
+        "Chart of /tw/, /sw/, /kw/ words with Nigerian pronunciation notes",
+        "Minimal pairs practice: twist/tist, sweet/seet, quick/kick",
+        "Nigerian context: Common errors and correction strategies",
+        "Sample sentences with /Cw/ clusters for practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English consonant clusters /tw/ /sw/ /kw/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The consonant cluster /tw/ is found in which word?",
+          "opts": [
+            "sweet",
+            "twist",
+            "quick",
+            "swim"
+          ],
+          "ans": 1,
+          "explanation": "'Twist' begins with the /tw/ cluster; 'sweet' has /sw/, 'quick' has /kw/, and 'swim' has /sw/."
+        },
+        {
+          "q": "In Nigerian English, 'sweet' is often mispronounced as:",
+          "opts": [
+            "sweat",
+            "seet",
+            "suite",
+            "sweet"
+          ],
+          "ans": 1,
+          "explanation": "The /w/ in /sw/ is often omitted, leading to 'seet' instead of 'sweet'."
+        },
+        {
+          "q": "The cluster /kw/ requires the back of the tongue to touch the:",
+          "opts": [
+            "alveolar ridge",
+            "soft palate",
+            "teeth",
+            "lips"
+          ],
+          "ans": 1,
+          "explanation": "For /kw/, the back of the tongue touches the soft palate for /k/, then lips round for /w/."
+        },
+        {
+          "q": "Which word contains the /sw/ cluster?",
+          "opts": [
+            "twelve",
+            "queen",
+            "swarm",
+            "dwell"
+          ],
+          "ans": 2,
+          "explanation": "'Swarm' begins with the /sw/ cluster; 'twelve' has /tw/, 'queen' has /kw/, and 'dwell' has /dw/."
+        },
+        {
+          "q": "A minimal pair for practicing /tw/ vs /t/ is:",
+          "opts": [
+            "twist/tist",
+            "sweet/seet",
+            "quick/kick",
+            "swim/sim"
+          ],
+          "ans": 0,
+          "explanation": "Minimal pairs like 'twist/tist' help learners distinguish between the cluster and the single consonant."
+        },
+        {
+          "q": "The word 'question' begins with which consonant cluster?",
+          "opts": [
+            "/tw/",
+            "/sw/",
+            "/kw/",
+            "/dw/"
+          ],
+          "ans": 2,
+          "explanation": "'Question' begins with the /kw/ cluster, though spelling may mislead; pronunciation is /kwestʃən/."
+        },
+        {
+          "q": "To correct omission of /w/ in /Cw/ clusters, learners should:",
+          "opts": [
+            "Ignore the /w/ sound",
+            "Practice smooth transitions between consonants",
+            "Replace /w/ with a vowel",
+            "Pronounce only the first consonant"
+          ],
+          "ans": 1,
+          "explanation": "Practicing smooth transitions between the consonant and /w/ helps correct omission errors."
+        },
+        {
+          "q": "Understanding /Cw/ clusters is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass pronunciation tests",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading aloud",
+            "Only for listening comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct pronunciation of consonant clusters enhances communication clarity in academic, professional, and international contexts."
+        },
+        {
+          "q": "Which sentence uses /Cw/ words correctly?",
+          "opts": [
+            "The twins twist the towel.",
+            "The tins tist the towel.",
+            "The twins ist the towel.",
+            "The tins twist the towel."
+          ],
+          "ans": 0,
+          "explanation": "'The twins twist the towel' correctly uses /tw/ words; other options contain pronunciation errors."
+        },
+        {
+          "q": "A common misconception about consonant clusters is:",
+          "opts": [
+            "Clusters require smooth transitions between sounds",
+            "Clusters can be pronounced as single consonants",
+            "Practice improves cluster pronunciation",
+            "Minimal pairs help distinguish clusters"
+          ],
+          "ans": 1,
+          "explanation": "Consonant clusters must be pronounced as clusters, not reduced to single consonants; omission changes word meaning."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w3_su2",
+      "title": "3.2 Structures: Noun Phrases",
+      "notes": [
+        "Structures: Noun Phrases",
+        "• Definition: A noun phrase is a group of words that functions as a noun in a sentence",
+        "• Core component: A noun or pronoun (the head)",
+        "• Modifiers: Words that describe or specify the head noun",
+        "",
+        "Types of Noun Phrases:",
+        "1. Simple Noun Phrases:",
+        "   • Head noun alone: 'boy', 'Lagos', 'freedom'",
+        "   • With determiner: 'the boy', 'a car', 'some water'",
+        "   • Example: 'The boy kicked the ball.'",
+        "",
+        "2. Complex Noun Phrases:",
+        "   • Head noun + adjectives: 'the tall boy', 'a beautiful house'",
+        "   • Head noun + prepositional phrase: 'the book on the table'",
+        "   • Head noun + relative clause: 'the man who came yesterday'",
+        "   • Example: 'The tall boy with the red cap kicked the ball.'",
+        "",
+        "3. Compound Noun Phrases:",
+        "   • Two or more nouns joined: 'bread and butter', 'teacher and student'",
+        "   • Example: 'Bread and butter is my favourite snack.'",
+        "",
+        "Functions of Noun Phrases in Sentences:",
+        "• Subject: Performs the action",
+        "  - 'The diligent student passed the exam.'",
+        "  - Head: 'student'; modifiers: 'The', 'diligent'",
+        "",
+        "• Object: Receives the action",
+        "  - 'She bought a new dress.'",
+        "  - Head: 'dress'; modifiers: 'a', 'new'",
+        "",
+        "• Complement: Completes the meaning of a verb",
+        "  - 'He became a successful engineer.'",
+        "  - Head: 'engineer'; modifiers: 'a', 'successful'",
+        "",
+        "• Object of preposition: Follows a preposition",
+        "  - 'She sat on the comfortable chair.'",
+        "  - Head: 'chair'; modifiers: 'the', 'comfortable'",
+        "",
+        "Identifying Noun Phrases:",
+        "1. Find the head noun:",
+        "   • Ask: 'What is the main person, place, thing, or idea?'",
+        "   • Example: In 'the tall boy with the red cap', head is 'boy'",
+        "",
+        "2. Identify modifiers:",
+        "   • Determiners: the, a, an, this, that, my, some",
+        "   • Adjectives: tall, beautiful, new, comfortable",
+        "   • Prepositional phrases: on the table, with the red cap",
+        "   • Relative clauses: who came yesterday, that I bought",
+        "",
+        "3. Test the phrase:",
+        "   • Can it function as subject or object?",
+        "   • Example: 'The tall boy' can be subject: 'The tall boy ran.'",
+        "",
+        "Noun Phrases with Definite and Indefinite Articles:",
+        "• Definite article 'the':",
+        "  - Refers to specific nouns: 'the book', 'the students'",
+        "  - Example: 'The book on the table is mine.'",
+        "",
+        "• Indefinite articles 'a'/'an':",
+        "  - Refer to non-specific singular countable nouns",
+        "  - Example: 'A student asked a question.'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'The University of Lagos admitted new students.'",
+        "  - 'A farmer in Kano grows millet.'",
+        "  - 'The market in my town is very busy.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Missing head noun",
+        "  - Incorrect: 'The tall with the red cap ran.'",
+        "  - Correct: 'The tall boy with the red cap ran.'",
+        "",
+        "• Error: Incorrect article",
+        "  - Incorrect: 'She is the honest woman.' (first mention)",
+        "  - Correct: 'She is an honest woman.'",
+        "",
+        "• Error: Misplaced modifier",
+        "  - Incorrect: 'She saw a dog on the way to school with a red collar.'",
+        "  - Correct: 'She saw a dog with a red collar on the way to school.'",
+        "",
+        "Practical Activities:",
+        "1. Noun Phrase Identification:",
+        "   • Provide sentences for students to identify noun phrases",
+        "   • Underline head nouns and circle modifiers",
+        "   • Discuss functions (subject, object, etc.)",
+        "",
+        "2. Noun Phrase Construction:",
+        "   • Students build noun phrases from given heads",
+        "   • Add determiners, adjectives, prepositional phrases",
+        "   • Share and compare phrases with classmates",
+        "",
+        "3. Sentence Expansion:",
+        "   • Start with simple sentences: 'The boy ran.'",
+        "   • Expand noun phrases: 'The tall boy with the red cap ran quickly.'",
+        "   • Focus on maintaining grammatical correctness",
+        "",
+        "Common Misconceptions:",
+        "• 'Noun phrases must be long': Even a single noun can be a noun phrase",
+        "• 'Only adjectives modify nouns': Determiners, prepositional phrases, and clauses also modify",
+        "• 'Noun phrases are only subjects': They function as objects, complements, and more",
+        "• 'Articles are optional': Correct article usage affects meaning and grammaticality",
+        "",
+        "Nigerian Context:",
+        "• Noun phrase mastery supports clear expression in academic writing and professional communication",
+        "• Understanding modifiers helps students describe Nigerian contexts accurately",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Noun phrases are essential building blocks of English sentences",
+        "• They consist of a head noun and optional modifiers",
+        "• Functions include subject, object, complement, and object of preposition",
+        "• Mastery improves writing clarity, grammatical accuracy, and expressive power"
+      ],
+      "diagramDescriptions": [
+        "Diagram of noun phrase structure: determiner + adjective + head noun + prepositional phrase",
+        "Chart of noun phrase functions with examples",
+        "Expansion exercise: simple to complex noun phrases",
+        "Nigerian context: Sample noun phrases describing local people, places, and things",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar noun phrases structure SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun phrase must contain at least:",
+          "opts": [
+            "An adjective",
+            "A determiner",
+            "A head noun or pronoun",
+            "A prepositional phrase"
+          ],
+          "ans": 2,
+          "explanation": "The core of a noun phrase is a head noun or pronoun; modifiers are optional."
+        },
+        {
+          "q": "In the noun phrase 'the tall boy with the red cap', the head noun is:",
+          "opts": [
+            "the",
+            "tall",
+            "boy",
+            "cap"
+          ],
+          "ans": 2,
+          "explanation": "The head noun is 'boy'; 'the' and 'tall' are modifiers, and 'with the red cap' is a prepositional phrase modifying 'boy'."
+        },
+        {
+          "q": "Which of the following is a noun phrase functioning as subject?",
+          "opts": [
+            "kicked the ball",
+            "the diligent student",
+            "passed the exam",
+            "very quickly"
+          ],
+          "ans": 1,
+          "explanation": "'The diligent student' is a noun phrase that can function as subject; the others are verb phrases or adverbial phrases."
+        },
+        {
+          "q": "In 'She bought a new dress', 'a new dress' is a noun phrase functioning as:",
+          "opts": [
+            "subject",
+            "object",
+            "complement",
+            "object of preposition"
+          ],
+          "ans": 1,
+          "explanation": "'A new dress' receives the action of 'bought', so it functions as the direct object."
+        },
+        {
+          "q": "Which modifier type is NOT typically part of a noun phrase?",
+          "opts": [
+            "Adjective",
+            "Determiner",
+            "Adverb",
+            "Prepositional phrase"
+          ],
+          "ans": 2,
+          "explanation": "Adverbs typically modify verbs, adjectives, or other adverbs; they do not directly modify nouns in noun phrases."
+        },
+        {
+          "q": "The noun phrase 'the book on the table' contains:",
+          "opts": [
+            "Only a head noun",
+            "A head noun and an adjective",
+            "A head noun and a prepositional phrase",
+            "A head noun and a relative clause"
+          ],
+          "ans": 2,
+          "explanation": "'The book on the table' has head noun 'book' and prepositional phrase 'on the table' modifying it."
+        },
+        {
+          "q": "Which sentence has a noun phrase error?",
+          "opts": [
+            "The tall boy ran.",
+            "She saw a dog with a red collar.",
+            "The with the red cap ran.",
+            "A student asked a question."
+          ],
+          "ans": 2,
+          "explanation": "'The with the red cap ran' lacks a head noun; it should be 'The boy with the red cap ran.'"
+        },
+        {
+          "q": "Understanding noun phrases is important for Nigerian students because it:",
+          "opts": [
+            "Only helps identify sentence parts",
+            "Improves writing clarity and grammatical accuracy",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of noun phrases enhances sentence construction, which is essential for clear academic and professional writing in Nigeria."
+        },
+        {
+          "q": "Which is a compound noun phrase?",
+          "opts": [
+            "the tall boy",
+            "bread and butter",
+            "a new dress",
+            "the book on the table"
+          ],
+          "ans": 1,
+          "explanation": "'Bread and butter' is a compound noun phrase with two nouns joined by 'and'."
+        },
+        {
+          "q": "A common misconception about noun phrases is:",
+          "opts": [
+            "They must contain a head noun",
+            "They can function as subject or object",
+            "They must be long and complex",
+            "Modifiers describe the head noun"
+          ],
+          "ans": 2,
+          "explanation": "Noun phrases can be as simple as a single noun; complexity is not required for grammatical function."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w3_su3",
+      "title": "3.3 Comprehension: Reading to Comprehend Supporting Details",
+      "notes": [
+        "Comprehension: Supporting Details",
+        "• Definition: Supporting details are facts, examples, explanations, or evidence that develop and prove the main idea",
+        "• Importance: They provide depth, credibility, and clarity to the main idea",
+        "",
+        "Types of Supporting Details:",
+        "1. Facts and Statistics:",
+        "   • Verifiable data that support claims",
+        "   • Example: 'According to NBS, unemployment in Nigeria rose to 33% in 2021.'",
+        "   • Nigerian context: Use local statistics for relevance",
+        "",
+        "2. Examples and Illustrations:",
+        "   • Specific instances that clarify general statements",
+        "   • Example: 'For example, Lagos traffic congestion wastes millions of hours yearly.'",
+        "   • Nigerian context: Local examples enhance understanding",
+        "",
+        "3. Explanations and Reasons:",
+        "   • Clarify how or why something happens",
+        "   • Example: 'Pollution harms health because toxic particles enter the lungs.'",
+        "   • Nigerian context: Explain local causes and effects",
+        "",
+        "4. Quotations and Expert Opinions:",
+        "   • Credible sources that strengthen arguments",
+        "   • Example: 'As Dr. Adeyemi states, 'Education is the key to development.''",
+        "   • Nigerian context: Cite Nigerian experts and leaders",
+        "",
+        "5. Anecdotes and Stories:",
+        "   • Brief narratives that illustrate points",
+        "   • Example: 'When Chidi started recycling, his community reduced waste by 40%.'",
+        "   • Nigerian context: Use relatable local stories",
+        "",
+        "Identifying Supporting Details:",
+        "1. Look for signal words:",
+        "   • Examples: for example, for instance, such as, including",
+        "   • Reasons: because, since, due to, as a result",
+        "   • Evidence: according to, research shows, studies indicate",
+        "",
+        "2. Ask guiding questions:",
+        "   • 'What evidence supports this claim?'",
+        "   • 'Can you give an example?'",
+        "   • 'Why is this true?'",
+        "",
+        "3. Distinguish from main ideas:",
+        "   • Main idea: Broad, general statement",
+        "   • Supporting detail: Specific, concrete information",
+        "   • Example: Main: 'Pollution is a problem.' Detail: 'Lagos air quality index reached 150 in 2023.'",
+        "",
+        "Using Supporting Details in Writing:",
+        "• Each body paragraph should develop one main point with supporting details",
+        "• Use a variety of detail types for depth and interest",
+        "• Ensure details are relevant and directly support the main idea",
+        "• Cite sources for facts and statistics to enhance credibility",
+        "",
+        "Nigerian Context in Supporting Details:",
+        "• Use local examples, statistics, and expert opinions",
+        "• Reference Nigerian policies, programmes, and challenges",
+        "• Connect global issues to Nigerian experiences",
+        "• Example: 'The Lagos State Waste Management Authority (LAWMA) has improved waste collection in some areas.'",
+        "",
+        "Practical Activities:",
+        "1. Detail Identification:",
+        "   • Read passages and underline supporting details",
+        "   • Categorize details by type (fact, example, explanation, etc.)",
+        "   • Discuss how details support the main idea",
+        "",
+        "2. Detail Generation:",
+        "   • Given a main idea, students generate supporting details",
+        "   • Use different detail types for variety",
+        "   • Share and evaluate details for relevance and strength",
+        "",
+        "3. Passage Analysis:",
+        "   • Analyze model passages for main ideas and supporting details",
+        "   • Identify signal words and detail types",
+        "   • Discuss effectiveness of detail selection",
+        "",
+        "Common Misconceptions:",
+        "• 'All details are equally important': Some details are more relevant or credible than others",
+        "• 'More details are always better': Quality and relevance matter more than quantity",
+        "• 'Supporting details can be opinions': In expository writing, details should be factual or well-sourced",
+        "• 'Details can be unrelated': All details must directly support the main idea",
+        "",
+        "Nigerian Context:",
+        "• Using local supporting details makes writing more relevant and persuasive for Nigerian audiences",
+        "• Understanding detail types helps students evaluate Nigerian media and policy documents",
+        "• Practice with Nigerian examples builds skills for academic and civic engagement",
+        "",
+        "Conclusion:",
+        "• Supporting details provide evidence, examples, and explanations for main ideas",
+        "• Types include facts, examples, explanations, quotations, and anecdotes",
+        "• Identifying and using details effectively strengthens reading and writing",
+        "• Nigerian context enhances relevance and application of comprehension skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of supporting detail types with Nigerian examples",
+        "Flowchart for identifying main ideas vs supporting details",
+        "Signal words list for different detail types",
+        "Nigerian context: Sample passage with highlighted supporting details",
+        "Detail generation exercise with local topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension supporting details reading SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Supporting details in a passage are best described as:",
+          "opts": [
+            "The main idea of the passage",
+            "Facts, examples, or explanations that develop the main idea",
+            "The author's personal opinions",
+            "Unrelated interesting facts"
+          ],
+          "ans": 1,
+          "explanation": "Supporting details provide evidence, examples, or explanations that develop and prove the main idea; they are not the main idea itself."
+        },
+        {
+          "q": "Which signal word often introduces an example?",
+          "opts": [
+            "because",
+            "for example",
+            "therefore",
+            "however"
+          ],
+          "ans": 1,
+          "explanation": "'For example' signals that an example or illustration follows; 'because' signals reason, 'therefore' signals result, 'however' signals contrast."
+        },
+        {
+          "q": "In the sentence 'According to NBS, unemployment in Nigeria rose to 33% in 2021', the detail is a:",
+          "opts": [
+            "personal opinion",
+            "fact or statistic",
+            "anecdote",
+            "hypothetical example"
+          ],
+          "ans": 1,
+          "explanation": "Citing a statistic from a credible source (NBS) is a fact or statistic, which is a strong type of supporting detail."
+        },
+        {
+          "q": "Which question helps identify supporting details?",
+          "opts": [
+            "What is the title?",
+            "What evidence supports this claim?",
+            "Who is the author?",
+            "How long is the passage?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What evidence supports this claim?' helps readers locate supporting details; the other questions are not relevant to detail identification."
+        },
+        {
+          "q": "A supporting detail should be:",
+          "opts": [
+            "Unrelated to the main idea",
+            "Relevant and directly supportive of the main idea",
+            "The author's personal story",
+            "A new main idea"
+          ],
+          "ans": 1,
+          "explanation": "Supporting details must be relevant and directly support the main idea; unrelated or new ideas belong elsewhere."
+        },
+        {
+          "q": "Which is an example of a supporting detail using a Nigerian context?",
+          "opts": [
+            "Pollution is bad.",
+            "Lagos air quality index reached 150 in 2023.",
+            "I think pollution is a problem.",
+            "Pollution affects everyone."
+          ],
+          "ans": 1,
+          "explanation": "The specific statistic about Lagos air quality is a concrete, locally relevant supporting detail; the others are general or opinion-based."
+        },
+        {
+          "q": "In expository writing, supporting details should primarily be:",
+          "opts": [
+            "Personal anecdotes",
+            "Factual or well-sourced information",
+            "Emotional appeals",
+            "Unverified claims"
+          ],
+          "ans": 1,
+          "explanation": "Expository writing relies on factual or well-sourced details for credibility; personal anecdotes and emotional appeals are more common in narrative or persuasive writing."
+        },
+        {
+          "q": "Understanding supporting details is important for Nigerian students because it:",
+          "opts": [
+            "Only helps answer comprehension questions",
+            "Enables critical evaluation of media, policies, and academic texts",
+            "Only for writing essays",
+            "Only for speaking practice"
+          ],
+          "ans": 1,
+          "explanation": "Identifying and evaluating supporting details supports critical thinking about Nigerian media, policies, and academic work."
+        },
+        {
+          "q": "Which detail type is LEAST appropriate for an expository essay?",
+          "opts": [
+            "Statistic from a government report",
+            "Expert quotation",
+            "Personal opinion without evidence",
+            "Local example"
+          ],
+          "ans": 2,
+          "explanation": "Expository essays prioritize factual, well-sourced details; unsupported personal opinions weaken objectivity and credibility."
+        },
+        {
+          "q": "A common misconception about supporting details is:",
+          "opts": [
+            "They must be relevant to the main idea",
+            "More details always make an essay better",
+            "Details can include facts, examples, and explanations",
+            "Signal words help identify details"
+          ],
+          "ans": 1,
+          "explanation": "Quality and relevance of details matter more than quantity; excessive or irrelevant details can weaken an essay."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w3_su4",
+      "title": "3.4 Writing: Mechanics – Paragraphing, Punctuation, Spelling",
+      "notes": [
+        "Writing Mechanics: Paragraphing, Punctuation, Spelling",
+        "• Definition: Mechanics are the conventions of written language that ensure clarity and correctness",
+        "• Importance: Proper mechanics enhance readability, credibility, and communication effectiveness",
+        "",
+        "Paragraphing:",
+        "• Definition: A paragraph is a group of sentences that develop one main idea",
+        "• Structure:",
+        "  a) Topic sentence: States the paragraph's main idea",
+        "  b) Supporting sentences: Provide evidence, examples, explanations",
+        "  c) Concluding sentence (optional): Summarizes or transitions",
+        "",
+        "• Paragraph Length:",
+        "  - Typically 3-8 sentences in academic writing",
+        "  - Focus on unity: One main idea per paragraph",
+        "  - Nigerian context: Avoid overly long paragraphs that confuse readers",
+        "",
+        "• Paragraph Transitions:",
+        "  - Use transitional words to connect paragraphs: 'furthermore', 'in addition', 'however'",
+        "  - Ensure logical flow between ideas",
+        "  - Example: 'Furthermore, environmental education can empower youth to take action.'",
+        "",
+        "Punctuation:",
+        "• Full Stop (.):",
+        "  - Ends declarative sentences",
+        "  - Example: 'Pollution harms health.'",
+        "",
+        "• Comma (,):",
+        "  - Separates items in a list: 'maize, rice, and sorghum'",
+        "  - Sets off introductory phrases: 'In Nigeria, agriculture is vital.'",
+        "  - Separates clauses in compound sentences: 'She studied hard, and she passed.'",
+        "",
+        "• Question Mark (?):",
+        "  - Ends interrogative sentences",
+        "  - Example: 'What causes environmental pollution?'",
+        "",
+        "• Exclamation Mark (!):",
+        "  - Shows strong emotion or emphasis (use sparingly in formal writing)",
+        "  - Example: 'We must act now!'",
+        "",
+        "• Quotation Marks (\"\"):",
+        "  - Enclose direct speech or quotations",
+        "  - Example: 'The minister said, \"We will address pollution.\"'",
+        "",
+        "• Apostrophe ('):",
+        "  - Shows possession: 'Nigeria's economy'",
+        "  - Forms contractions: 'don't', 'it's' (avoid in formal writing)",
+        "",
+        "• Semicolon (;):",
+        "  - Joins closely related independent clauses",
+        "  - Example: 'Pollution affects health; it also harms the economy.'",
+        "",
+        "• Colon (:):",
+        "  - Introduces lists, explanations, or quotations",
+        "  - Example: 'The causes are three: industry, vehicles, and waste.'",
+        "",
+        "Spelling:",
+        "• Importance: Correct spelling ensures clarity and professionalism",
+        "• Common Challenges in Nigerian English:",
+        "  a) Homophones: words that sound alike but differ in spelling/meaning",
+        "     - their/there/they're, your/you're, its/it's",
+        "     - Example: 'Their house is there, and they're happy.'",
+        "",
+        "  b) Double consonants:",
+        "     - 'beginning' (not 'begining'), 'occurring' (not 'ocuring')",
+        "     - Rule: Double final consonant when adding suffix if stress is on last syllable",
+        "",
+        "  c) Silent letters:",
+        "     - 'knowledge' (silent 'k'), 'debt' (silent 'b')",
+        "     - Practice: Memorize common words with silent letters",
+        "",
+        "  d) British vs American spelling:",
+        "     - British: 'colour', 'centre', 'defence'",
+        "     - American: 'color', 'center', 'defense'",
+        "     - Nigerian context: Both accepted; choose one style and be consistent",
+        "",
+        "• Spelling Strategies:",
+        "  - Use a dictionary or spell-checker",
+        "  - Practice with word lists and spelling drills",
+        "  - Read widely to internalize correct spellings",
+        "  - Write regularly and proofread carefully",
+        "",
+        "Practical Activities:",
+        "1. Paragraph Writing:",
+        "   • Write a paragraph on a given topic with clear topic sentence",
+        "   • Include supporting details and a concluding sentence",
+        "   • Peer review for unity, coherence, and mechanics",
+        "",
+        "2. Punctuation Practice:",
+        "   • Provide unpunctuated passages for students to punctuate",
+        "   • Focus on commas, full stops, and quotation marks",
+        "   • Discuss punctuation choices and their effects",
+        "",
+        "3. Spelling Drills:",
+        "   • List commonly misspelled words for practice",
+        "   • Use words in sentences to reinforce correct spelling",
+        "   • Play spelling games for engagement",
+        "",
+        "Common Misconceptions:",
+        "• 'Paragraphs can be any length': Effective paragraphs focus on one idea; length should serve clarity",
+        "• 'Punctuation is optional': Correct punctuation prevents ambiguity and misreading",
+        "• 'Spelling doesn't matter if meaning is clear': Incorrect spelling undermines credibility and clarity",
+        "• 'British and American spelling can be mixed': Consistency in spelling style is important",
+        "",
+        "Nigerian Context:",
+        "• Proper mechanics support academic success in Nigerian schools and universities",
+        "• Clear writing is valued in professional reports, media, and civic communication",
+        "• Awareness of Nigerian English variations helps students navigate local and global standards",
+        "",
+        "Conclusion:",
+        "• Paragraphing, punctuation, and spelling are essential writing mechanics",
+        "• They ensure clarity, coherence, and credibility in written communication",
+        "• Practice with Nigerian examples enhances relevance and mastery",
+        "• Attention to mechanics supports academic achievement and professional effectiveness"
+      ],
+      "diagramDescriptions": [
+        "Diagram of paragraph structure: topic sentence, supporting details, conclusion",
+        "Punctuation guide with examples and Nigerian context",
+        "Spelling strategies chart: homophones, double consonants, silent letters",
+        "British vs American spelling comparison with Nigerian usage notes",
+        "Sample paragraph with correct mechanics highlighted"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing mechanics paragraphing punctuation spelling SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A paragraph should primarily develop:",
+          "opts": [
+            "Multiple unrelated ideas",
+            "One main idea with supporting details",
+            "Only the author's opinion",
+            "Only examples without explanation"
+          ],
+          "ans": 1,
+          "explanation": "A paragraph focuses on one main idea, developed with supporting details; multiple ideas belong in separate paragraphs."
+        },
+        {
+          "q": "Which punctuation mark ends a declarative sentence?",
+          "opts": [
+            "Comma",
+            "Question mark",
+            "Full stop",
+            "Exclamation mark"
+          ],
+          "ans": 2,
+          "explanation": "A full stop (.) ends declarative sentences; commas separate elements, question marks end questions, exclamation marks show emphasis."
+        },
+        {
+          "q": "In the sentence 'In Nigeria, agriculture is vital', the comma is used to:",
+          "opts": [
+            "Separate items in a list",
+            "Set off an introductory phrase",
+            "Join two independent clauses",
+            "Introduce a quotation"
+          ],
+          "ans": 1,
+          "explanation": "The comma sets off the introductory phrase 'In Nigeria' from the main clause."
+        },
+        {
+          "q": "Which word pair are homophones?",
+          "opts": [
+            "their/there",
+            "begin/began",
+            "color/colour",
+            "knowledge/known"
+          ],
+          "ans": 0,
+          "explanation": "'Their' and 'there' sound alike but have different meanings and spellings; they are homophones."
+        },
+        {
+          "q": "The correct spelling of the word meaning 'to start again' is:",
+          "opts": [
+            "begining",
+            "beginning",
+            "beginnin",
+            "begginning"
+          ],
+          "ans": 1,
+          "explanation": "'Beginning' doubles the final 'n' when adding '-ing' because the stress is on the last syllable of 'begin'."
+        },
+        {
+          "q": "In formal writing, which spelling style should be used?",
+          "opts": [
+            "Mix British and American spellings",
+            "Choose one style and be consistent",
+            "Use only American spelling",
+            "Use only British spelling"
+          ],
+          "ans": 1,
+          "explanation": "Consistency in spelling style (British or American) is important for professionalism; mixing styles is discouraged."
+        },
+        {
+          "q": "Which sentence uses quotation marks correctly?",
+          "opts": [
+            "The minister said, \"We will address pollution.\"",
+            "The minister said, \"We will address pollution.",
+            "The minister said, We will address pollution.",
+            "The minister said \"We will address pollution.\""
+          ],
+          "ans": 0,
+          "explanation": "Quotation marks enclose direct speech; the comma before the quote and period inside the quotes are correct in standard usage."
+        },
+        {
+          "q": "Understanding writing mechanics is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Ensures clarity, credibility, and effectiveness in academic and professional writing",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Proper mechanics support clear communication in academic work, professional reports, and civic engagement in Nigeria."
+        },
+        {
+          "q": "A semicolon (;) is used to:",
+          "opts": [
+            "End a sentence",
+            "Join closely related independent clauses",
+            "Introduce a list",
+            "Set off an introductory phrase"
+          ],
+          "ans": 1,
+          "explanation": "A semicolon joins closely related independent clauses; colons introduce lists, commas set off introductory phrases."
+        },
+        {
+          "q": "A common misconception about punctuation is:",
+          "opts": [
+            "Punctuation prevents ambiguity",
+            "Punctuation is optional if meaning is clear",
+            "Commas separate items in lists",
+            "Quotation marks enclose direct speech"
+          ],
+          "ans": 1,
+          "explanation": "Punctuation is not optional; it clarifies meaning, prevents misreading, and follows standard conventions."
+        }
+      ]
+    }
+  ]
+}

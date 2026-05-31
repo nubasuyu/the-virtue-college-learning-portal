@@ -1,0 +1,845 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 6,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w6_su1",
+      "title": "6.1 Speech: Stress Timing",
+      "notes": [
+        "Stress Timing in English:",
+        "• Definition: Stress timing is the rhythm of English speech where stressed syllables occur at roughly equal intervals",
+        "• Importance: Helps convey meaning, emphasis, and natural flow in spoken English",
+        "",
+        "How Stress Timing Works:",
+        "• Stressed syllables: Carry more prominence, longer duration, higher pitch",
+        "• Unstressed syllables: Shorter, softer, reduced vowel sounds",
+        "• Example:",
+        "  - 'The BOY kicked the BALL' (stressed: BOY, BALL)",
+        "  - 'a CUP of TEA' (stressed: CUP, TEA)",
+        "",
+        "Rules for Stress Timing:",
+        "1. Content words are usually stressed:",
+        "   • Nouns, main verbs, adjectives, adverbs",
+        "   • Example: 'I WANT to GO to the MARket'",
+        "",
+        "2. Function words are usually unstressed:",
+        "   • Articles, prepositions, auxiliary verbs, pronouns",
+        "   • Example: 'I want to go to the market' (unstressed: to, to, the)",
+        "",
+        "3. Reduction of unstressed vowels:",
+        "   • Unstressed vowels often reduce to /ə/ (schwa)",
+        "   • Example: 'to' → /tə/, 'for' → /fə/",
+        "",
+        "Nigerian Context Examples:",
+        "• 'The PRINcipal ANnounced the REsults'",
+        "• 'I WANT to VISit the MARket toDAY'",
+        "• 'She is STUDying ENGlish at the UNIversity'",
+        "",
+        "Common Nigerian English Errors:",
+        "• Syllable-timing instead of stress-timing:",
+        "  - Giving equal weight to all syllables",
+        "  - Correction: Practice stressing content words only",
+        "",
+        "• Over-stressing function words:",
+        "  - 'I WANT to GO to the MARket' (correct)",
+        "  - 'I WANT TO GO TO THE MARket' (incorrect)",
+        "",
+        "• Not reducing unstressed vowels:",
+        "  - Pronouncing 'to' as /tu:/ instead of /tə/",
+        "  - Correction: Practice vowel reduction in unstressed syllables",
+        "",
+        "Practical Activities:",
+        "1. Rhythm Drill:",
+        "   • Teacher models sentences with correct stress timing",
+        "   • Students repeat, focusing on stressed syllables",
+        "   • Use clapping or tapping to mark stressed syllables",
+        "",
+        "2. Sentence Practice:",
+        "   • Provide sentences for students to mark stressed syllables",
+        "   • Practice reading aloud with correct rhythm",
+        "   • Peer feedback on stress placement",
+        "",
+        "3. Recording Exercise:",
+        "   • Students record themselves reading passages",
+        "   • Compare with model recordings",
+        "   • Identify and correct timing errors",
+        "",
+        "Nigerian Context:",
+        "• Correct stress timing improves clarity and naturalness in Nigerian English",
+        "• Helps avoid misunderstandings in academic, professional, and social settings",
+        "• Practice with local examples enhances retention and cultural relevance",
+        "",
+        "Conclusion:",
+        "• Stress timing is essential for natural, clear English speech",
+        "• Content words are stressed; function words are unstressed",
+        "• Unstressed vowels often reduce to schwa (/ə/)",
+        "• Mastery supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing stress timing pattern with stressed/unstressed syllables",
+        "Chart of content vs function words with stress examples",
+        "Sample sentences with stress markings for practice",
+        "Nigerian context: Sample sentences with local content and stress cues",
+        "Recording exercise instructions with self-evaluation checklist"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English stress timing pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Stress timing in English refers to:",
+          "opts": [
+            "Speaking at a constant speed",
+            "Stressed syllables occurring at roughly equal intervals",
+            "Pronouncing all syllables equally",
+            "Using only loud volume"
+          ],
+          "ans": 1,
+          "explanation": "Stress timing means stressed syllables occur at roughly equal intervals, creating the rhythm of English speech."
+        },
+        {
+          "q": "Which words are usually stressed in English?",
+          "opts": [
+            "Function words only",
+            "Content words only",
+            "All words equally",
+            "Only the first word"
+          ],
+          "ans": 1,
+          "explanation": "Content words (nouns, main verbs, adjectives, adverbs) are usually stressed in English."
+        },
+        {
+          "q": "In the sentence 'I want to go to the market', which words are stressed?",
+          "opts": [
+            "I, want, to",
+            "want, go, market",
+            "to, to, the",
+            "I, the, market"
+          ],
+          "ans": 1,
+          "explanation": "'Want', 'go', and 'market' are content words and are stressed; function words like 'to' and 'the' are unstressed."
+        },
+        {
+          "q": "Unstressed vowels in English often reduce to:",
+          "opts": [
+            "/i:/",
+            "/ə/ (schwa)",
+            "/a:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "Unstressed vowels in English often reduce to the schwa sound /ə/, e.g., 'to' → /tə/."
+        },
+        {
+          "q": "A common Nigerian English error with stress timing is:",
+          "opts": [
+            "Using stress timing correctly",
+            "Syllable-timing instead of stress-timing",
+            "Reducing unstressed vowels",
+            "Stressing content words"
+          ],
+          "ans": 1,
+          "explanation": "A common error is syllable-timing (giving equal weight to all syllables) instead of stress-timing."
+        },
+        {
+          "q": "In Nigerian context, which sentence shows correct stress timing?",
+          "opts": [
+            "The PRINcipal ANnounced the REsults",
+            "the principal announced the results",
+            "THE PRINCIPAL ANNOUNCED THE RESULTS",
+            "The principal announced the results"
+          ],
+          "ans": 0,
+          "explanation": "'The PRINcipal ANnounced the REsults' correctly stresses content words (PRINcipal, ANnounced, REsults)."
+        },
+        {
+          "q": "To practice stress timing, learners can:",
+          "opts": [
+            "Ignore stressed syllables",
+            "Use clapping or tapping to mark stressed syllables",
+            "Speak only in whispers",
+            "Read without speaking"
+          ],
+          "ans": 1,
+          "explanation": "Using clapping or tapping helps learners internalize the rhythm of stress timing."
+        },
+        {
+          "q": "Understanding stress timing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass speaking tests",
+            "Supports clear, natural communication in diverse settings",
+            "Only for listening comprehension",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Correct stress timing enhances clarity, naturalness, and effectiveness in academic, professional, and social communication."
+        },
+        {
+          "q": "Which is a function word that is usually unstressed?",
+          "opts": [
+            "boy",
+            "kicked",
+            "the",
+            "ball"
+          ],
+          "ans": 2,
+          "explanation": "'The' is a function word (article) and is usually unstressed; 'boy', 'kicked', and 'ball' are content words."
+        },
+        {
+          "q": "A common misconception about stress timing is:",
+          "opts": [
+            "Content words are usually stressed",
+            "All syllables should be pronounced equally",
+            "Unstressed vowels often reduce to schwa",
+            "Stress timing creates natural rhythm"
+          ],
+          "ans": 1,
+          "explanation": "English is stress-timed, not syllable-timed; not all syllables are pronounced equally."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w6_su2",
+      "title": "6.2 Structure: Adjunct of Manner and Reason",
+      "notes": [
+        "Structure: Adjuncts of Manner and Reason",
+        "• Definition: Adjuncts are adverbial elements that modify verbs, adjectives, or other adverbs",
+        "• Importance: Add detail, clarity, and nuance to sentences",
+        "",
+        "Adjuncts of Manner:",
+        "• Definition: Describe how an action is performed",
+        "• Often end in '-ly': quickly, slowly, carefully, happily",
+        "• Position: Usually after the verb or object",
+        "• Examples:",
+        "  - 'She sings beautifully.'",
+        "  - 'He ran quickly to school.'",
+        "  - Nigerian context: 'The teacher explained the lesson clearly.'",
+        "",
+        "Adjuncts of Reason:",
+        "• Definition: Explain why an action is performed",
+        "• Often introduced by 'because', 'since', 'as', 'due to'",
+        "• Position: Can appear at beginning, middle, or end of sentence",
+        "• Examples:",
+        "  - 'She stayed home because she was sick.'",
+        "  - 'Because it rained, the match was cancelled.'",
+        "  - Nigerian context: 'He studied hard because he wanted to pass.'",
+        "",
+        "Identifying Adjuncts:",
+        "1. Ask 'how?' for manner adjuncts:",
+        "   - 'How did she sing?' → 'beautifully'",
+        "",
+        "2. Ask 'why?' for reason adjuncts:",
+        "   - 'Why did she stay home?' → 'because she was sick'",
+        "",
+        "3. Test for optionality:",
+        "   • Adjuncts can often be removed without making the sentence ungrammatical",
+        "   • Example: 'She sings (beautifully).' → still grammatical",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Misplacing manner adjuncts",
+        "  - Incorrect: 'She beautifully sings.'",
+        "  - Correct: 'She sings beautifully.'",
+        "",
+        "• Error: Using 'because' with 'so'",
+        "  - Incorrect: 'Because it rained, so the match was cancelled.'",
+        "  - Correct: 'Because it rained, the match was cancelled.' or 'It rained, so the match was cancelled.'",
+        "",
+        "• Error: Confusing manner and reason",
+        "  - Incorrect: 'He ran because quickly.'",
+        "  - Correct: 'He ran quickly.' (manner) or 'He ran because he was late.' (reason)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'She explained the lesson because clearly.'",
+        "  - Correction: 'She explained the lesson clearly.'",
+        "",
+        "Practical Activities:",
+        "1. Adjunct Identification:",
+        "   • Provide sentences for students to identify manner and reason adjuncts",
+        "   • Underline adjuncts and discuss their functions",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using manner and reason adjuncts",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on adjunct placement",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with adjunct errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'All adverbs are adjuncts': Some adverbs are not adjuncts (e.g., sentence adverbs)",
+        "• 'Adjuncts are always necessary': Adjuncts are optional modifiers",
+        "• 'Manner and reason adjuncts are interchangeable': They answer different questions (how vs why)",
+        "• 'Adjuncts must come at the end': They can appear in different positions",
+        "",
+        "Nigerian Context:",
+        "• Understanding adjuncts supports clear, detailed communication in academic writing and professional contexts",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "• Mastery of adjuncts improves writing variety and effectiveness",
+        "",
+        "Conclusion:",
+        "• Adjuncts of manner describe how; adjuncts of reason explain why",
+        "• Manner adjuncts often end in '-ly'; reason adjuncts use 'because', 'since', etc.",
+        "• Adjuncts are optional but add valuable detail to sentences",
+        "• Mastery of adjuncts improves writing clarity and sophistication"
+      ],
+      "diagramDescriptions": [
+        "Chart of adjunct types: manner vs reason with examples",
+        "Flowchart for identifying adjuncts in sentences",
+        "Comparison of adjunct positions in sentences",
+        "Nigerian context: Sample sentences with correct/incorrect adjunct usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar adjuncts manner reason SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adjunct of manner describes:",
+          "opts": [
+            "Why an action is performed",
+            "How an action is performed",
+            "When an action is performed",
+            "Where an action is performed"
+          ],
+          "ans": 1,
+          "explanation": "Adjuncts of manner describe how an action is performed, e.g., 'quickly', 'carefully'."
+        },
+        {
+          "q": "Which is an adjunct of reason?",
+          "opts": [
+            "quickly",
+            "because",
+            "yesterday",
+            "here"
+          ],
+          "ans": 1,
+          "explanation": "'Because' introduces adjuncts of reason, explaining why an action is performed."
+        },
+        {
+          "q": "In the sentence 'She sings beautifully', 'beautifully' is an adjunct of:",
+          "opts": [
+            "reason",
+            "manner",
+            "time",
+            "place"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' describes how she sings, making it an adjunct of manner."
+        },
+        {
+          "q": "Which sentence uses a reason adjunct correctly?",
+          "opts": [
+            "She stayed home quickly.",
+            "She stayed home because she was sick.",
+            "She stayed home yesterday.",
+            "She stayed home here."
+          ],
+          "ans": 1,
+          "explanation": "'Because she was sick' explains why she stayed home, making it a correct reason adjunct."
+        },
+        {
+          "q": "A common error with adjuncts is:",
+          "opts": [
+            "Using 'because' with 'so' in the same sentence",
+            "Placing manner adjuncts after the verb",
+            "Using '-ly' words for manner",
+            "Making adjuncts optional"
+          ],
+          "ans": 0,
+          "explanation": "Using both 'because' and 'so' in the same sentence is redundant; use one or the other."
+        },
+        {
+          "q": "In Nigerian context, which is a correct manner adjunct?",
+          "opts": [
+            "She explained the lesson because clearly.",
+            "She explained the lesson clearly.",
+            "She explained because the lesson.",
+            "She explained the lesson because."
+          ],
+          "ans": 1,
+          "explanation": "'Clearly' correctly modifies 'explained' as a manner adjunct; 'because' is for reason, not manner."
+        },
+        {
+          "q": "Adjuncts are:",
+          "opts": [
+            "Always necessary for grammatical sentences",
+            "Optional modifiers that add detail",
+            "Only used in formal writing",
+            "Only used at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adjuncts are optional modifiers that add detail but are not required for grammaticality."
+        },
+        {
+          "q": "Understanding adjuncts is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing detail, clarity, and sophistication",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of adjuncts enables students to add valuable detail and nuance to their writing and speech."
+        },
+        {
+          "q": "Which word is NOT typically a manner adjunct?",
+          "opts": [
+            "quickly",
+            "carefully",
+            "because",
+            "happily"
+          ],
+          "ans": 2,
+          "explanation": "'Because' introduces reason adjuncts; 'quickly', 'carefully', and 'happily' are manner adjuncts."
+        },
+        {
+          "q": "A common misconception about adjuncts is:",
+          "opts": [
+            "They are optional modifiers",
+            "All adverbs are adjuncts",
+            "They add detail to sentences",
+            "They can appear in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all adverbs are adjuncts; some adverbs function as sentence modifiers or intensifiers."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w6_su3",
+      "title": "6.3 Continuous Writing: Record Keeping",
+      "notes": [
+        "Continuous Writing: Record Keeping",
+        "• Definition: Record keeping is the systematic documentation of information for future reference",
+        "• Importance: Supports accountability, decision-making, and historical documentation",
+        "",
+        "Types of Records:",
+        "1. Personal Records:",
+        "   • Diaries, journals, personal letters",
+        "   • Example: 'I recorded my daily expenses in a diary.'",
+        "   • Nigerian context: Personal savings records, family event logs",
+        "",
+        "2. Business Records:",
+        "   • Invoices, receipts, ledgers, inventories",
+        "   • Example: 'The shopkeeper kept records of all sales.'",
+        "   • Nigerian context: Market traders' sales records, cooperative society accounts",
+        "",
+        "3. Institutional Records:",
+        "   • School registers, hospital records, government documents",
+        "   • Example: 'The school keeps records of student attendance.'",
+        "   • Nigerian context: WAEC result records, voter registration lists",
+        "",
+        "4. Digital Records:",
+        "   • Databases, spreadsheets, cloud storage",
+        "   • Example: 'The company stores customer data in a digital database.'",
+        "   • Nigerian context: BVN records, NIN registration data",
+        "",
+        "Features of Effective Record Keeping:",
+        "1. Accuracy:",
+        "   • Information must be correct and verifiable",
+        "   • Example: 'Double-check figures before recording.'",
+        "",
+        "2. Completeness:",
+        "   • Include all relevant details",
+        "   • Example: 'Record date, amount, and purpose for each transaction.'",
+        "",
+        "3. Organization:",
+        "   • Use logical systems for easy retrieval",
+        "   • Example: 'File records by date or category.'",
+        "",
+        "4. Confidentiality:",
+        "   • Protect sensitive information",
+        "   • Example: 'Keep personal records secure and private.'",
+        "",
+        "5. Timeliness:",
+        "   • Record information promptly",
+        "   • Example: 'Enter sales data daily, not weekly.'",
+        "",
+        "Language of Record Keeping:",
+        "• Concise and clear:",
+        "  - Avoid unnecessary words",
+        "  - Example: 'Sold 10 bags of rice @ ₦25,000' instead of 'I sold ten bags of rice for the price of twenty-five thousand naira'",
+        "",
+        "• Objective and factual:",
+        "  - Avoid opinions and emotions",
+        "  - Example: 'Attendance: 45/50' instead of 'Almost everyone came'",
+        "",
+        "• Standardized format:",
+        "  - Use consistent headings, dates, and units",
+        "  - Example: 'Date: 15/10/2024 | Amount: ₦5,000 | Purpose: School fees'",
+        "",
+        "Sample Record Keeping Topics:",
+        "• Keeping a personal diary",
+        "• Recording business transactions",
+        "• Maintaining school attendance registers",
+        "• Documenting community events",
+        "• Managing digital data securely",
+        "",
+        "Practical Activities:",
+        "1. Record Creation:",
+        "   • Students create simple records (e.g., daily expenses, class attendance)",
+        "   • Focus on accuracy, completeness, and organization",
+        "   • Peer review for clarity and consistency",
+        "",
+        "2. Format Practice:",
+        "   • Provide templates for different record types",
+        "   • Students fill in sample records using correct format",
+        "   • Discuss importance of standardized formats",
+        "",
+        "3. Digital vs. Physical Records:",
+        "   • Compare advantages and disadvantages of each",
+        "   • Practice creating both types of records",
+        "   • Discuss security and accessibility considerations",
+        "",
+        "Common Misconceptions:",
+        "• 'Record keeping is only for businesses': Personal and institutional records are equally important",
+        "• 'Records must be handwritten': Digital records are valid and often more efficient",
+        "• 'More detail is always better': Conciseness and relevance matter more than quantity",
+        "• 'Records are only for the present': Good records serve future reference and historical purposes",
+        "",
+        "Nigerian Context:",
+        "• Record keeping skills support academic success, business management, and civic participation in Nigeria",
+        "• Understanding formats and language helps students navigate official documentation",
+        "• Practice with local examples enhances relevance and cultural expression",
+        "",
+        "Conclusion:",
+        "• Record keeping is essential for accountability, decision-making, and historical documentation",
+        "• Effective records are accurate, complete, organized, confidential, and timely",
+        "• Language should be concise, objective, and standardized",
+        "• In Nigeria, record keeping supports academic, business, and civic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of record types: personal, business, institutional, digital",
+        "Features of effective record keeping with examples",
+        "Sample record formats: diary, ledger, register, database",
+        "Nigerian context: Sample records on local topics",
+        "Language tips: conciseness, objectivity, standardization"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing record keeping SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Record keeping is primarily about:",
+          "opts": [
+            "Writing long essays",
+            "Systematic documentation of information for future reference",
+            "Memorizing facts",
+            "Telling stories"
+          ],
+          "ans": 1,
+          "explanation": "Record keeping involves systematic documentation of information for accountability, decision-making, and historical reference."
+        },
+        {
+          "q": "Which is a feature of effective record keeping?",
+          "opts": [
+            "Using opinions and emotions",
+            "Accuracy and completeness",
+            "Writing in long paragraphs",
+            "Avoiding dates and headings"
+          ],
+          "ans": 1,
+          "explanation": "Effective records are accurate, complete, organized, confidential, and timely."
+        },
+        {
+          "q": "The language of record keeping should be:",
+          "opts": [
+            "Emotional and subjective",
+            "Concise, clear, and objective",
+            "Long and descriptive",
+            "Full of opinions"
+          ],
+          "ans": 1,
+          "explanation": "Record keeping language should be concise, clear, and objective to ensure accuracy and ease of reference."
+        },
+        {
+          "q": "In Nigerian context, a business record might include:",
+          "opts": [
+            "Only personal feelings",
+            "Date, amount, purpose, and customer details",
+            "Only long descriptions",
+            "Only handwritten notes"
+          ],
+          "ans": 1,
+          "explanation": "Business records should include key details like date, amount, purpose, and customer information for clarity and accountability."
+        },
+        {
+          "q": "Which is NOT a type of record?",
+          "opts": [
+            "Personal diary",
+            "Business ledger",
+            "Fictional story",
+            "School register"
+          ],
+          "ans": 2,
+          "explanation": "Fictional stories are not records; records document factual information for reference."
+        },
+        {
+          "q": "Timeliness in record keeping means:",
+          "opts": [
+            "Recording information long after the event",
+            "Recording information promptly",
+            "Only recording important events",
+            "Using digital tools only"
+          ],
+          "ans": 1,
+          "explanation": "Timeliness means recording information promptly to ensure accuracy and relevance."
+        },
+        {
+          "q": "Understanding record keeping is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, business management, and civic participation",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Record keeping skills support academic work, business management, and civic engagement in Nigerian society."
+        },
+        {
+          "q": "Which is a common error in record keeping?",
+          "opts": [
+            "Using standardized formats",
+            "Including opinions and emotions",
+            "Recording information promptly",
+            "Keeping records secure"
+          ],
+          "ans": 1,
+          "explanation": "Including opinions and emotions reduces objectivity; records should be factual and neutral."
+        },
+        {
+          "q": "A digital record might be stored in:",
+          "opts": [
+            "A diary",
+            "A database or cloud storage",
+            "A ledger book",
+            "A filing cabinet"
+          ],
+          "ans": 1,
+          "explanation": "Digital records are stored in databases, spreadsheets, or cloud storage, not physical books."
+        },
+        {
+          "q": "A common misconception about record keeping is:",
+          "opts": [
+            "Records must be accurate and complete",
+            "Record keeping is only for businesses",
+            "Records should be organized for easy retrieval",
+            "Confidentiality is important for sensitive records"
+          ],
+          "ans": 1,
+          "explanation": "Record keeping is important for personal, business, and institutional purposes, not just businesses."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w6_su4",
+      "title": "6.4 Vocabulary Development: Synonyms as Words",
+      "notes": [
+        "Vocabulary Development: Synonyms",
+        "• Definition: Synonyms are words that have the same or nearly the same meaning",
+        "• Importance: Expands vocabulary, improves writing variety, and enhances precise expression",
+        "",
+        "Types of Synonyms:",
+        "1. Exact Synonyms (Absolute Synonyms):",
+        "   • Words with identical meanings in all contexts",
+        "   • Rare in English",
+        "   • Example: 'big/large' (in some contexts)",
+        "",
+        "2. Near Synonyms (Partial Synonyms):",
+        "   • Words with similar but not identical meanings",
+        "   • May differ in connotation, register, or collocation",
+        "   • Example: 'happy/glad/joyful' (similar but with subtle differences)",
+        "",
+        "Common Synonym Pairs with Examples:",
+        "• Quick/Fast:",
+        "  - 'She is a quick learner.' / 'He runs fast.'",
+        "  - Nigerian context: 'The bus was quick to arrive.' / 'The athlete ran fast.'",
+        "",
+        "• Close/Near:",
+        "  - 'The shop is close to my house.' / 'The market is near the school.'",
+        "  - Nigerian context: 'The hospital is close to the motor park.'",
+        "",
+        "• Brave/Fearless:",
+        "  - 'The brave soldier fought.' / 'She was fearless in the face of danger.'",
+        "  - Nigerian context: 'The fearless journalist reported the truth.'",
+        "",
+        "• Famous/Well-known:",
+        "  - 'He is a famous musician.' / 'She is well-known in her community.'",
+        "  - Nigerian context: 'Fela Kuti is a famous Nigerian musician.'",
+        "",
+        "• Ancient/Modern:",
+        "  - 'Ancient civilizations' vs 'Modern technology'",
+        "  - Nigerian context: 'Ancient Benin art' vs 'Modern Lagos architecture'",
+        "",
+        "Using Synonyms in Writing:",
+        "• Avoid repetition:",
+        "  - Instead of: 'The big house had a big gate and big windows.'",
+        "  - Write: 'The large house had a massive gate and enormous windows.'",
+        "",
+        "• Choose the right synonym for context:",
+        "  - 'He is cheap' (negative) vs 'He is economical' (positive)",
+        "  - Nigerian context: 'The politician is cunning' (negative) vs 'The politician is shrewd' (neutral/positive)",
+        "",
+        "• Consider register (formal/informal):",
+        "  - Formal: 'commence' vs Informal: 'start'",
+        "  - Nigerian context: Formal letter: 'I wish to commence' vs Informal: 'I want to start'",
+        "",
+        "Practical Activities:",
+        "1. Synonym Building:",
+        "   • Provide base words for students to list synonyms",
+        "   • Discuss subtle differences in meaning and usage",
+        "   • Create sentences using different synonyms",
+        "",
+        "2. Contextual Usage:",
+        "   • Provide sentences with blanks for synonym selection",
+        "   • Students choose the most appropriate synonym for context",
+        "   • Discuss why certain synonyms fit better",
+        "",
+        "3. Writing Practice:",
+        "   • Students rewrite paragraphs replacing repeated words with synonyms",
+        "   • Peer review for variety and appropriateness",
+        "   • Teacher feedback on synonym choice",
+        "",
+        "Common Misconceptions:",
+        "• 'All synonyms are interchangeable': Many synonyms have subtle differences in meaning, connotation, or usage",
+        "• 'More synonyms mean better writing': Quality and appropriateness matter more than quantity",
+        "• 'Synonyms are only for creative writing': They are useful in all types of writing and speaking",
+        "• 'Dictionary synonyms are always correct': Context determines the best synonym choice",
+        "",
+        "Nigerian Context:",
+        "• Understanding synonyms supports clear, varied communication in Nigerian English",
+        "• Local examples enhance relevance and cultural expression",
+        "• Practice with Nigerian contexts builds vocabulary for academic and professional success",
+        "",
+        "Conclusion:",
+        "• Synonyms are words with same or similar meanings that expand vocabulary",
+        "• They help avoid repetition, improve writing variety, and enable precise expression",
+        "• Context, connotation, and register determine the best synonym choice",
+        "• Mastery of synonyms supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Chart of synonym types: exact vs near synonyms with examples",
+        "Comparison of synonym pairs with usage notes and Nigerian examples",
+        "Flowchart for choosing the right synonym based on context",
+        "Nigerian context: Sample sentences showing synonym usage in local contexts",
+        "Writing practice exercise: rewriting paragraphs with synonym variety"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary synonyms SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Synonyms are words that:",
+          "opts": [
+            "Have opposite meanings",
+            "Have the same or nearly the same meaning",
+            "Sound the same but have different meanings",
+            "Are spelled the same but have different meanings"
+          ],
+          "ans": 1,
+          "explanation": "Synonyms are words with the same or nearly the same meaning, used to add variety and precision to language."
+        },
+        {
+          "q": "Which pair are synonyms?",
+          "opts": [
+            "happy/sad",
+            "quick/fast",
+            "hot/cold",
+            "big/small"
+          ],
+          "ans": 1,
+          "explanation": "'Quick' and 'fast' are synonyms; the other pairs are antonyms (opposites)."
+        },
+        {
+          "q": "In the sentence 'She is a quick learner', 'quick' could be replaced with:",
+          "opts": [
+            "slow",
+            "fast",
+            "lazy",
+            "careful"
+          ],
+          "ans": 1,
+          "explanation": "'Fast' is a synonym of 'quick' and can replace it in this context without changing the meaning."
+        },
+        {
+          "q": "Which synonym pair shows a difference in connotation?",
+          "opts": [
+            "happy/glad",
+            "cheap/economical",
+            "big/large",
+            "fast/quick"
+          ],
+          "ans": 1,
+          "explanation": "'Cheap' often has a negative connotation (poor quality), while 'economical' is more positive (wise use of resources)."
+        },
+        {
+          "q": "In Nigerian context, which is a synonym for 'famous'?",
+          "opts": [
+            "unknown",
+            "well-known",
+            "ordinary",
+            "local"
+          ],
+          "ans": 1,
+          "explanation": "'Well-known' is a synonym for 'famous'; both describe someone or something widely recognized."
+        },
+        {
+          "q": "Using synonyms in writing helps to:",
+          "opts": [
+            "Make writing longer",
+            "Avoid repetition and add variety",
+            "Confuse the reader",
+            "Use more difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Synonyms help avoid repetition and add variety to writing, making it more engaging and precise."
+        },
+        {
+          "q": "Which sentence uses synonyms appropriately?",
+          "opts": [
+            "The big house had a big gate and big windows.",
+            "The large house had a massive gate and enormous windows.",
+            "The house was big and the gate was big.",
+            "The big, big house had big windows."
+          ],
+          "ans": 1,
+          "explanation": "The second sentence uses synonyms ('large', 'massive', 'enormous') to avoid repetition and add variety."
+        },
+        {
+          "q": "Understanding synonyms is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass vocabulary tests",
+            "Supports varied, precise communication in academic and professional contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Synonym knowledge supports varied, precise expression essential for academic writing, professional communication, and effective speaking in Nigeria."
+        },
+        {
+          "q": "Which is NOT a synonym for 'brave'?",
+          "opts": [
+            "fearless",
+            "courageous",
+            "timid",
+            "bold"
+          ],
+          "ans": 2,
+          "explanation": "'Timid' is an antonym of 'brave'; the others are synonyms meaning showing courage."
+        },
+        {
+          "q": "A common misconception about synonyms is:",
+          "opts": [
+            "All synonyms are interchangeable in all contexts",
+            "Synonyms can add variety to writing",
+            "Context determines the best synonym choice",
+            "Synonyms have similar meanings"
+          ],
+          "ans": 0,
+          "explanation": "Not all synonyms are interchangeable; many have subtle differences in meaning, connotation, or usage that make them suitable for specific contexts."
+        }
+      ]
+    }
+  ]
+}

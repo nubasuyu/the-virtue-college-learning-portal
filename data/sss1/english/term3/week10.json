@@ -1,0 +1,637 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 10,
+  "topic": "Speech, Comprehension, Structure, Vocabulary, Continuous Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w10_su1",
+      "title": "10.1 Speech: Listening to Grasp Main Points or Ideas in a Speech",
+      "notes": [
+        "Listening to Grasp Main Points or Ideas in a Speech:",
+        "",
+        "Key Points:",
+        "1. Tape recorded material",
+        "2. Main points in a lecture",
+        "3. Materials of varying length",
+        "4. Use real life situations: speech, lecture, discussions",
+        "",
+        "Activities:",
+        "1. Pre-recorded material",
+        "2. Teacher asks questions to elicit the main points",
+        "3. Teacher leads students to discuss the lecture, speech",
+        "",
+        "Steps for Identifying Main Points:",
+        "1. Listen for the main proposition or thesis",
+        "2. Identify key arguments and supporting evidence",
+        "3. Note transitional words that signal main points",
+        "4. Distinguish main ideas from supporting details",
+        "5. Summarize the main points in your own words",
+        "",
+        "Tips for Effective Listening:",
+        "- Focus on the speakers main message",
+        "- Take brief notes on key points",
+        "- Listen for repetition and emphasis",
+        "- Consider the speakers purpose and audience",
+        "- Review your notes after listening"
+      ],
+      "diagramDescriptions": [
+        "Chart of main point identification strategies",
+        "Flowchart for listening comprehension process",
+        "Sample speech with highlighted main points",
+        "Note-taking template for main point extraction"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English listening main points speech comprehension SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The main proposition in a speech is:",
+          "opts": [
+            "A minor detail",
+            "The central claim or thesis",
+            "An example only",
+            "The conclusion only"
+          ],
+          "ans": 1,
+          "explanation": "The main proposition is the central claim or thesis that the speech revolves around."
+        },
+        {
+          "q": "To identify main points while listening, you should:",
+          "opts": [
+            "Focus only on the introduction",
+            "Listen for repetition and emphasis",
+            "Ignore transitional words",
+            "Write down every word"
+          ],
+          "ans": 1,
+          "explanation": "Repetition and emphasis often signal important main points in a speech."
+        },
+        {
+          "q": "Transitional words help listeners to:",
+          "opts": [
+            "Confuse the main points",
+            "Identify shifts and main ideas",
+            "Skip important information",
+            "Focus only on details"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words (firstly, however, therefore) help identify shifts and main ideas."
+        },
+        {
+          "q": "Distinguishing main ideas from details means:",
+          "opts": [
+            "Treating all information equally",
+            "Focusing on central claims over supporting examples",
+            "Ignoring all examples",
+            "Only listening to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are central claims; details support them but are not the main focus."
+        },
+        {
+          "q": "Taking brief notes while listening helps to:",
+          "opts": [
+            "Write down every word",
+            "Capture key points for later review",
+            "Ignore the speaker",
+            "Focus only on details"
+          ],
+          "ans": 1,
+          "explanation": "Brief notes help capture key points without distracting from active listening."
+        },
+        {
+          "q": "A common error in listening for main points is:",
+          "opts": [
+            "Focusing on the speakers main message",
+            "Getting distracted by minor details",
+            "Taking brief notes",
+            "Reviewing notes after listening"
+          ],
+          "ans": 1,
+          "explanation": "Getting distracted by minor details can cause listeners to miss the main points."
+        },
+        {
+          "q": "Understanding main point identification is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports critical listening and effective communication",
+            "Only for creative writing",
+            "Only for reading"
+          ],
+          "ans": 1,
+          "explanation": "Identifying main points supports critical listening, comprehension, and effective communication."
+        },
+        {
+          "q": "Which is NOT a tip for effective listening?",
+          "opts": [
+            "Focus on the main message",
+            "Write down every word spoken",
+            "Listen for repetition and emphasis",
+            "Review notes after listening"
+          ],
+          "ans": 1,
+          "explanation": "Writing down every word distracts from active listening; brief notes on key points are better."
+        },
+        {
+          "q": "Real-life situations for listening practice include:",
+          "opts": [
+            "Only fictional stories",
+            "Speeches, lectures, and discussions",
+            "Only written texts",
+            "Only silent reading"
+          ],
+          "ans": 1,
+          "explanation": "Speeches, lectures, and discussions provide authentic contexts for listening practice."
+        },
+        {
+          "q": "A common misconception about listening is:",
+          "opts": [
+            "Listening requires active engagement",
+            "Listening is passive and requires no effort",
+            "Main points can be identified with practice",
+            "Notes help with retention"
+          ],
+          "ans": 1,
+          "explanation": "Effective listening requires active engagement, not passive hearing."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w10_su2",
+      "title": "10.2 Comprehension: Reading to Extract Main Points",
+      "notes": [
+        "Reading to Extract Main Points:",
+        "",
+        "Key Points:",
+        "1. Use newspaper clippings",
+        "2. Magazine clippings",
+        "3. Students text",
+        "",
+        "Activities:",
+        "1. Teacher guides the students",
+        "",
+        "Steps for Extracting Main Points:",
+        "1. Read the passage carefully",
+        "2. Identify the topic and purpose",
+        "3. Locate topic sentences in each paragraph",
+        "4. Distinguish main ideas from supporting details",
+        "5. Summarize main points in your own words",
+        "",
+        "Characteristics of Main Points:",
+        "- Central to the passages message",
+        "- Supported by evidence and examples",
+        "- Often found in topic sentences",
+        "- Can be stated or implied",
+        "",
+        "Tips for Identifying Main Points:",
+        "- Look for repeated ideas or themes",
+        "- Note transitional words signaling importance",
+        "- Ask: What is the author trying to say?",
+        "- Consider the title and conclusion"
+      ],
+      "diagramDescriptions": [
+        "Chart of main point characteristics",
+        "Flowchart for extracting main points from text",
+        "Sample passage with highlighted topic sentences",
+        "Comparison of main ideas vs supporting details"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English reading main points extraction comprehension SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Main points in a passage are:",
+          "opts": [
+            "Minor details and examples",
+            "The central ideas the author wants to convey",
+            "Only the first sentence",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Main points are the central ideas the author wants to convey, supported by details."
+        },
+        {
+          "q": "Topic sentences often:",
+          "opts": [
+            "Appear only in the conclusion",
+            "State the main idea of a paragraph",
+            "Contain only examples",
+            "Are always questions"
+          ],
+          "ans": 1,
+          "explanation": "Topic sentences state the main idea of a paragraph and may appear at beginning, middle, or end."
+        },
+        {
+          "q": "Which is a characteristic of main points?",
+          "opts": [
+            "They are always explicitly stated",
+            "They are supported by details",
+            "They are always in the first paragraph",
+            "They include every detail"
+          ],
+          "ans": 1,
+          "explanation": "Main points are supported by details; they may be explicit or implied."
+        },
+        {
+          "q": "The first step in extracting main points is to:",
+          "opts": [
+            "Write a summary immediately",
+            "Read the passage carefully",
+            "Skip to the conclusion",
+            "Ask someone else"
+          ],
+          "ans": 1,
+          "explanation": "Reading the passage carefully is essential before attempting to extract main points."
+        },
+        {
+          "q": "To distinguish main ideas from details, ask:",
+          "opts": [
+            "Is this a fact?",
+            "Is this the central claim or supporting evidence?",
+            "Is this a question?",
+            "Is this in the first paragraph?"
+          ],
+          "ans": 1,
+          "explanation": "Asking whether information is a central claim or supporting evidence helps distinguish main ideas."
+        },
+        {
+          "q": "A common error in extracting main points is:",
+          "opts": [
+            "Focusing on central ideas",
+            "Confusing main points with minor details",
+            "Summarizing in your own words",
+            "Verifying your summary"
+          ],
+          "ans": 1,
+          "explanation": "Confusing main points with minor details leads to inaccurate summaries."
+        },
+        {
+          "q": "Understanding main point extraction is important because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports critical reading and effective communication",
+            "Only for creative writing",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Main point extraction supports critical reading, summarization, and effective communication."
+        },
+        {
+          "q": "Which is NOT a step in extracting main points?",
+          "opts": [
+            "Reading the passage carefully",
+            "Identifying topic sentences",
+            "Including every detail",
+            "Summarizing in your own words"
+          ],
+          "ans": 2,
+          "explanation": "Including every detail is not a step; summaries should focus on main points, omit minor details."
+        },
+        {
+          "q": "A common misconception about main points is:",
+          "opts": [
+            "They are central to the passage",
+            "They are always explicitly stated",
+            "They are supported by details",
+            "They can be summarized concisely"
+          ],
+          "ans": 1,
+          "explanation": "Main points are not always explicitly stated; sometimes they are implied and require inference."
+        },
+        {
+          "q": "Summarizing main points should:",
+          "opts": [
+            "Include every detail",
+            "Focus on central ideas, omit minor details",
+            "Copy the authors words",
+            "Add personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Summaries should focus on central ideas and omit minor details for conciseness and clarity."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w10_su3",
+      "title": "10.3 Structure: Determiners (Introduction)",
+      "notes": [
+        "Determiners (Introduction):",
+        "",
+        "Key Points:",
+        "1. Determiners",
+        "2. List of determiners: many, some, much, little, few, each, any",
+        "3. Use such in examples",
+        "",
+        "Activities:",
+        "1. The teacher gives sample sentences e.g.",
+        "   Any committee member can raise a motion",
+        "",
+        "Definition of Determiners:",
+        "- Words that introduce nouns and specify their reference",
+        "- Indicate definiteness, quantity, possession, or proximity",
+        "",
+        "Types of Determiners:",
+        "1. Articles: a, an, the",
+        "2. Demonstratives: this, that, these, those",
+        "3. Possessives: my, your, his, her, its, our, their",
+        "4. Quantifiers: some, any, many, much, few, little, several",
+        "5. Numbers: one, two, first, second",
+        "",
+        "Functions of Determiners:",
+        "- Specify definiteness (the vs a/an)",
+        "- Indicate quantity (many vs few)",
+        "- Show possession (my book)",
+        "- Point to specific nouns (this book)",
+        "",
+        "Common Errors to Avoid:",
+        "- Using a with uncountable nouns",
+        "- Using the with general nouns",
+        "- Confusing few and a few",
+        "- Omitting necessary determiners"
+      ],
+      "diagramDescriptions": [
+        "Chart of determiner types with examples",
+        "Flowchart for choosing the correct determiner",
+        "Comparison of definite vs indefinite articles",
+        "Sample sentences with correct determiner usage"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar determiners introduction SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Determiners are words that:",
+          "opts": [
+            "Replace nouns",
+            "Introduce nouns and specify their reference",
+            "Describe nouns",
+            "Connect clauses"
+          ],
+          "ans": 1,
+          "explanation": "Determiners introduce nouns and specify their reference, indicating definiteness, quantity, or possession."
+        },
+        {
+          "q": "Which is a definite article?",
+          "opts": [
+            "a",
+            "an",
+            "the",
+            "some"
+          ],
+          "ans": 2,
+          "explanation": "The is the definite article; a and an are indefinite articles; some is a quantifier."
+        },
+        {
+          "q": "In the sentence I saw a bird in the tree, a is a:",
+          "opts": [
+            "Definite article",
+            "Indefinite article",
+            "Demonstrative",
+            "Possessive"
+          ],
+          "ans": 1,
+          "explanation": "A is an indefinite article, indicating a non-specific bird."
+        },
+        {
+          "q": "Which determiner indicates possession?",
+          "opts": [
+            "the",
+            "this",
+            "my",
+            "many"
+          ],
+          "ans": 2,
+          "explanation": "My is a possessive determiner indicating ownership."
+        },
+        {
+          "q": "A common error with determiners is:",
+          "opts": [
+            "Using the with specific nouns",
+            "Using a with uncountable nouns",
+            "Using demonstratives to point to nouns",
+            "Using possessives to show ownership"
+          ],
+          "ans": 1,
+          "explanation": "Using a with uncountable nouns (e.g., a water) is incorrect; use some water or a cup of water."
+        },
+        {
+          "q": "The difference between few and a few is that:",
+          "opts": [
+            "Few is positive; a few is negative",
+            "Few is negative; a few is positive",
+            "They are interchangeable",
+            "Few is for countable nouns; a few is for uncountable"
+          ],
+          "ans": 1,
+          "explanation": "Few has a negative connotation (not many); a few has a positive connotation (some)."
+        },
+        {
+          "q": "Understanding determiners is important because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing clarity, precision, and accuracy",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of determiners enables students to write clearly and precisely."
+        },
+        {
+          "q": "Which is NOT a type of determiner?",
+          "opts": [
+            "Article",
+            "Demonstrative",
+            "Adjective",
+            "Quantifier"
+          ],
+          "ans": 2,
+          "explanation": "Adjectives describe nouns; determiners introduce and specify nouns."
+        },
+        {
+          "q": "A common misconception about determiners is:",
+          "opts": [
+            "All determiners are articles",
+            "Determiners introduce nouns",
+            "A is used before consonant sounds",
+            "The indicates a specific noun"
+          ],
+          "ans": 0,
+          "explanation": "Determiners include articles, demonstratives, possessives, quantifiers, and numbers; not all are articles."
+        },
+        {
+          "q": "Which sentence uses a determiner correctly?",
+          "opts": [
+            "I need a water.",
+            "I need some water.",
+            "I need water a.",
+            "I need the a water."
+          ],
+          "ans": 1,
+          "explanation": "Some water correctly uses a quantifier with an uncountable noun."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w10_su4",
+      "title": "10.4 Vocabulary: Stock Exchange",
+      "notes": [
+        "Vocabulary: Stock Exchange",
+        "",
+        "Key Points:",
+        "1. Meaning",
+        "2. Words such as:",
+        "   - Stock broker, shares, dividends, profit",
+        "   - Speculator, margin, bankruptcy",
+        "   - Customer, market",
+        "",
+        "Key Vocabulary in Stock Exchange:",
+        "1. General Terms:",
+        "   - Share/Stock: unit of ownership in a company",
+        "   - Dividend: portion of profits paid to shareholders",
+        "   - Broker: licensed professional who buys/sells shares",
+        "   - Portfolio: collection of investments",
+        "",
+        "2. Market Terms:",
+        "   - Bull market: period of rising share prices",
+        "   - Bear market: period of falling share prices",
+        "   - Volatility: degree of variation in share prices",
+        "   - Liquidity: ease of buying/selling shares",
+        "",
+        "3. Investment Terms:",
+        "   - Capital gain: profit from selling shares at higher price",
+        "   - Capital loss: loss from selling shares at lower price",
+        "   - Yield: return on investment",
+        "   - Risk: possibility of losing money",
+        "",
+        "Sample Sentences:",
+        "- The dividend from my shares was credited to my account.",
+        "- The market rose by 2 percent in a bull market.",
+        "- I made a capital gain by selling shares at a higher price.",
+        "",
+        "Activities:",
+        "1. Teacher uses the words for students to see",
+        "2. Teacher leads students to read the passage",
+        "3. Drills the class",
+        "4. Could invite an advertising practitioner to speak"
+      ],
+      "diagramDescriptions": [
+        "Chart of stock exchange vocabulary by category",
+        "Diagram of market terms: bull vs bear markets",
+        "Sample sentences using stock exchange vocabulary",
+        "Flowchart of basic investment concepts"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary stock exchange finance SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A share in the stock exchange refers to:",
+          "opts": [
+            "A loan to a company",
+            "A unit of ownership in a company",
+            "A type of bank account",
+            "A government bond"
+          ],
+          "ans": 1,
+          "explanation": "A share represents a unit of ownership in a company."
+        },
+        {
+          "q": "In a bull market, share prices are:",
+          "opts": [
+            "Falling",
+            "Rising",
+            "Stable",
+            "Unpredictable"
+          ],
+          "ans": 1,
+          "explanation": "A bull market is characterized by rising share prices and investor optimism."
+        },
+        {
+          "q": "Dividend refers to:",
+          "opts": [
+            "The price of a share",
+            "A portion of company profits paid to shareholders",
+            "The total value of a company",
+            "The cost of buying shares"
+          ],
+          "ans": 1,
+          "explanation": "A dividend is a distribution of a portion of a companys profits to its shareholders."
+        },
+        {
+          "q": "Capital gain is:",
+          "opts": [
+            "Loss from selling shares at a lower price",
+            "Profit from selling shares at a higher price than purchase",
+            "The initial investment amount",
+            "The annual dividend payment"
+          ],
+          "ans": 1,
+          "explanation": "Capital gain is the profit realized when an asset is sold for more than its purchase price."
+        },
+        {
+          "q": "Which is a trading term?",
+          "opts": [
+            "Dividend",
+            "Bid",
+            "Portfolio",
+            "Bull market"
+          ],
+          "ans": 1,
+          "explanation": "Bid is a trading term referring to the price a buyer is willing to pay for a share."
+        },
+        {
+          "q": "Understanding stock exchange vocabulary is important because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports financial literacy and informed investment decisions",
+            "Only for finance careers",
+            "Only for reading financial news"
+          ],
+          "ans": 1,
+          "explanation": "Stock exchange vocabulary supports informed financial decisions and economic participation."
+        },
+        {
+          "q": "A common misconception about the stock exchange is:",
+          "opts": [
+            "It offers investment opportunities",
+            "All stocks always go up in value",
+            "Investments carry risk",
+            "Shares represent ownership in companies"
+          ],
+          "ans": 1,
+          "explanation": "Stock prices fluctuate; investments carry risk and do not always go up in value."
+        },
+        {
+          "q": "Which sentence uses stock exchange vocabulary correctly?",
+          "opts": [
+            "I bought a dividend from the NSE.",
+            "The bull market caused share prices to rise.",
+            "My portfolio is a type of bank account.",
+            "The bid is the price sellers accept."
+          ],
+          "ans": 1,
+          "explanation": "The bull market caused share prices to rise correctly uses bull market to describe rising share prices."
+        },
+        {
+          "q": "Liquidity in the stock exchange refers to:",
+          "opts": [
+            "The total number of shares",
+            "Ease of buying/selling shares without affecting price",
+            "The annual return on investment",
+            "The companys market capitalization"
+          ],
+          "ans": 1,
+          "explanation": "Liquidity refers to the ease of buying or selling shares without significantly affecting the price."
+        },
+        {
+          "q": "A speculator in the stock market is someone who:",
+          "opts": [
+            "Only buys long-term investments",
+            "Takes high risks for potential high returns",
+            "Only invests in government bonds",
+            "Avoids all risk"
+          ],
+          "ans": 1,
+          "explanation": "A speculator takes high risks in hopes of achieving high returns, often through short-term trading."
+        }
+      ]
+    }
+  ]
+}

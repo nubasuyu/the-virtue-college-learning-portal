@@ -344,3 +344,107 @@ body {
     #content-area { margin: 0; box-shadow: none; }
     .sub-unit { break-inside: avoid; }
 }
+
+/* Quiz Toggle Button */
+.quiz-toggle-btn {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    background: linear-gradient(135deg, var(--secondary-brown) 0%, var(--primary-brown) 100%);
+    color: var(--cream-light);
+    border: none;
+    border-radius: var(--radius-md);
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+    box-shadow: var(--shadow-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    margin-bottom: 1.5rem;
+}
+
+.quiz-toggle-btn:hover {
+    background: linear-gradient(135deg, var(--accent-brown) 0%, var(--secondary-brown) 100%);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+.quiz-toggle-btn.active {
+    background: linear-gradient(135deg, var(--primary-brown) 0%, var(--secondary-brown) 100%);
+}
+
+.btn-icon {
+    font-size: 1.3rem;
+}
+
+/* Quiz Container */
+.quiz-container {
+    margin-top: 2rem;
+    padding: 2rem;
+    background: var(--cream-light);
+    border-radius: var(--radius-md);
+    border: 2px solid var(--secondary-brown);
+    animation: fadeIn 0.4s ease;
+}
+
+/* Video Placeholder */
+.video-placeholder {
+    margin: 2rem 0;
+    padding: 3rem 2rem;
+    background: linear-gradient(135deg, var(--cream-light) 0%, var(--cream-medium) 100%);
+    border: 3px dashed var(--secondary-brown);
+    border-radius: var(--radius-md);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.placeholder-icon {
+    font-size: 4rem;
+    opacity: 0.6;
+}
+
+.video-placeholder p {
+    margin: 0;
+    color: var(--text-medium);
+}
+
+.video-placeholder p:first-of-type {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--primary-brown);
+}
+
+.placeholder-note {
+    font-size: 0.95rem;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+/* Quiz Answer Buttons States */
+.options button.correct {
+    background: var(--success) !important;
+    color: white !important;
+    border-color: var(--success) !important;
+}
+
+.options button.incorrect {
+    background: var(--error) !important;
+    color: white !important;
+    border-color: var(--error) !important;
+}
+
+/* Feedback Styling */
+.feedback {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: var(--radius-sm);
+    background: var(--cream-light);
+    border-left: 4px solid var(--secondary-brown);
+    line-height: 1.6;
+}

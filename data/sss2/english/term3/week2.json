@@ -1,0 +1,827 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Speech, Reading, Vocabulary, Structure",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w2_su1",
+      "title": "2.1 Speech: Listening Comprehension - Debates for Main Points and Judgment",
+      "notes": [
+        "Listening Comprehension: Debates for Main Points and Judgment",
+        "",
+        "Key Concepts:",
+        "1. What is listening to debates?",
+        "   - The ability to understand spoken arguments in a debate format",
+        "   - Involves identifying main points, evidence, and reasoning",
+        "   - Example: Listening to a debate on 'Should female circumcision be abolished?'",
+        "",
+        "2. How to listen for main points in debates:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for signal words: 'first', 'most importantly', 'in conclusion'",
+        "   - Note key arguments and supporting evidence",
+        "   - Ask: What is the speaker's main point? What evidence supports it?",
+        "",
+        "3. Strategies for passing judgment on debates:",
+        "   - Evaluate the logic of arguments",
+        "   - Assess the quality of evidence provided",
+        "   - Consider the speaker's tone and persuasiveness",
+        "   - Form your own informed opinion based on analysis",
+        "",
+        "4. Common debate topics in Nigerian context:",
+        "   - Education: 'Should university education be free in Nigeria?'",
+        "   - Health: 'Is traditional medicine better than modern medicine?'",
+        "   - Governance: 'Is military rule better than civilian rule?'",
+        "   - Social issues: 'Should female circumcision be abolished?'",
+        "",
+        "5. Why listen to debates critically?",
+        "   - To understand different perspectives on important issues",
+        "   - To develop critical thinking and analytical skills",
+        "   - To improve your own argumentation and persuasion skills",
+        "   - To participate informedly in democratic processes",
+        "",
+        "Nigerian Context:",
+        "• Sample debate topic: 'Should female circumcision be abolished in Nigeria?'",
+        "  - Main points for abolition:",
+        "    * It violates human rights and causes health complications",
+        "    * Education and awareness can change cultural practices",
+        "    * International laws support abolition",
+        "  - Main points against abolition:",
+        "    * It is a cultural tradition that should be respected",
+        "    * Some communities believe it has social benefits",
+        "  - Judgment: Weigh evidence, consider human rights, and form an informed opinion",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how debates address sensitive cultural issues in Nigeria",
+        "  - Recognizing the role of respectful dialogue in resolving differences",
+        "  - Appreciating the importance of evidence-based argumentation",
+        "",
+        "Practical Activities:",
+        "1. Main Point Identification Practice:",
+        "   - Teacher plays a recorded debate on a Nigerian topic",
+        "   - Students listen and identify main points for each side",
+        "   - Groups share their findings and discuss evidence from the debate",
+        "",
+        "2. Judgment Practice:",
+        "   - Teacher presents arguments from both sides of a debate",
+        "   - Students evaluate logic, evidence, and persuasiveness",
+        "   - Class discusses judgments and reasoning",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare short arguments on a debate topic",
+        "   - Focus on clear main points and supporting evidence",
+        "   - Peer feedback on clarity and persuasiveness",
+        "",
+        "Common Misconceptions:",
+        "• 'Main points are always stated explicitly': Sometimes main points are implied and require inference",
+        "• 'Judgment means agreeing with one side': Judgment involves critical analysis of both sides",
+        "• 'Only experts can evaluate debates': With practice, anyone can develop debate evaluation skills",
+        "• 'Debates are only for entertainment': Debates develop critical thinking and democratic participation",
+        "",
+        "Nigerian Context:",
+        "• Listening to debates helps students understand social issues and develop critical thinking in Nigeria",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in exams and informed civic participation",
+        "",
+        "Conclusion:",
+        "• Listening to debates involves identifying main points and passing informed judgment",
+        "• Strategies include focusing on speakers, noting key arguments, and evaluating evidence",
+        "• Practice with Nigerian debate topics makes learning relevant and effective",
+        "• Mastery of these skills supports critical thinking and democratic participation"
+      ],
+      "diagramDescriptions": [
+        "Chart of debate listening strategies with examples",
+        "Flowchart for identifying main points and passing judgment",
+        "Sample debate on female circumcision with main points highlighted",
+        "Nigerian context: Sample debate topics and cultural considerations",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English listening debates main points judgment site:youtube.com",
+      "quiz": [
+        {
+          "q": "Listening to debates is:",
+          "opts": [
+            "Only hearing arguments",
+            "The ability to understand spoken arguments and evaluate them critically",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Listening to debates involves understanding arguments and evaluating them critically."
+        },
+        {
+          "q": "A strategy for listening for main points in debates is to:",
+          "opts": [
+            "Ignore the speaker",
+            "Listen for signal words and note key arguments",
+            "Only write down every word",
+            "Focus on minor details only"
+          ],
+          "ans": 1,
+          "explanation": "Listening for signal words and noting key arguments helps you identify main points."
+        },
+        {
+          "q": "In a debate on female circumcision, a main point for abolition might be:",
+          "opts": [
+            "Only about one person's opinion",
+            "It violates human rights and causes health complications",
+            "Only about foreign countries",
+            "Only about medical terms"
+          ],
+          "ans": 1,
+          "explanation": "A main point for abolition would likely be that it violates human rights and causes health complications."
+        },
+        {
+          "q": "A common mistake in debate listening is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Assuming main points are always explicit",
+            "Noting signal words",
+            "Evaluating evidence"
+          ],
+          "ans": 1,
+          "explanation": "Assuming main points are always explicit is a mistake; sometimes they are implied and require inference."
+        },
+        {
+          "q": "To pass judgment on a debate, you should:",
+          "opts": [
+            "Agree with the first speaker",
+            "Evaluate logic, evidence, and persuasiveness of both sides",
+            "Only repeat arguments exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Evaluating logic, evidence, and persuasiveness of both sides shows critical thinking."
+        },
+        {
+          "q": "Understanding debate listening is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical thinking and informed civic participation",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Debate listening helps students develop critical thinking and participate informedly in civic life."
+        },
+        {
+          "q": "Which is NOT a strategy for debate listening?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for signal words",
+            "Ignore the context",
+            "Evaluate evidence"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; noting context helps understand arguments."
+        },
+        {
+          "q": "A common misconception about debate listening is:",
+          "opts": [
+            "Debate listening involves critical evaluation",
+            "Main points are always stated explicitly",
+            "Judgment requires analysis of both sides",
+            "Practice improves debate skills"
+          ],
+          "ans": 1,
+          "explanation": "Main points are not always explicit; sometimes they are implied and require inference."
+        },
+        {
+          "q": "When listening to debates, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note signal words and evaluate arguments",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting signal words and evaluating arguments helps you identify main points and pass judgment."
+        },
+        {
+          "q": "Listening to debates helps students to:",
+          "opts": [
+            "Only pass exams",
+            "Develop critical thinking and democratic participation skills",
+            "Only write essays",
+            "Only read silently"
+          ],
+          "ans": 1,
+          "explanation": "Debate listening enables development of critical thinking and democratic participation skills."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w2_su2",
+      "title": "2.2 Reading Comprehension: Reading to Answer Questions on a Given Passage",
+      "notes": [
+        "Reading Comprehension: Reading to Answer Questions on a Given Passage",
+        "",
+        "Key Concepts:",
+        "1. What is reading comprehension?",
+        "   - The ability to understand, interpret, and respond to written text",
+        "   - Involves identifying main ideas, details, and implied meanings",
+        "   - Example: Reading a passage on commerce and answering questions about it",
+        "",
+        "2. Types of comprehension questions:",
+        "   a) Knowledge questions:",
+        "      - Ask for facts directly stated in the passage",
+        "      - Example: 'What is commerce?'",
+        "   b) Interpretation questions:",
+        "      - Ask for explanation of meaning or significance",
+        "      - Example: 'Why is commerce important for Nigeria?'",
+        "   c) Evaluation questions:",
+        "      - Ask for judgment or opinion based on the passage",
+        "      - Example: 'Do you agree with the author's view on commerce? Why?'",
+        "",
+        "3. Strategies for answering comprehension questions:",
+        "   - Read the passage carefully to understand content",
+        "   - Identify the question type (knowledge, interpretation, evaluation)",
+        "   - Locate relevant information in the passage",
+        "   - Answer in your own words, using passage evidence",
+        "   - Check that your answer addresses the question fully",
+        "",
+        "4. Common topics for practice:",
+        "   - Commerce: trade, market, buyer, seller, industry",
+        "   - Social issues: corruption, youth unemployment, environmental protection",
+        "   - Educational issues: exam malpractice, quality education, teacher training",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Role of Commerce in Nigerian Development'",
+        "  - Main idea: Commerce drives economic growth and improves living standards",
+        "  - Supporting ideas:",
+        "    * Commerce creates jobs and generates income",
+        "    * Trade connects Nigerian producers to global markets",
+        "    * Effective commerce requires good infrastructure and policies",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the importance of commerce in Nigerian economy",
+        "  - Recognizing how trade affects communities and individuals",
+        "  - Appreciating the role of commerce in national development",
+        "",
+        "Practical Activities:",
+        "1. Question Type Identification:",
+        "   - Teacher provides a short passage on commerce",
+        "   - Students work in pairs to identify question types (knowledge, interpretation, evaluation)",
+        "   - Groups share their findings and discuss strategies for each type",
+        "",
+        "2. Answer Practice:",
+        "   - Teacher reads a passage aloud",
+        "   - Students answer different types of questions",
+        "   - Class compares answers and discusses accuracy",
+        "",
+        "3. Passage Analysis:",
+        "   - Students read a passage on commerce",
+        "   - Underline main ideas in one color, supporting details in another",
+        "   - Peer review for accuracy of identification",
+        "",
+        "Common Misconceptions:",
+        "• 'Comprehension means copying the passage': Comprehension requires understanding and responding in your own words",
+        "• 'All questions are the same': Different question types require different strategies",
+        "• 'Longer answers are better': Effective answers are clear, concise, and evidence-based",
+        "• 'Comprehension is only for exams': Comprehension skills support lifelong learning and communication",
+        "",
+        "Nigerian Context:",
+        "• Reading comprehension helps students succeed in Nigerian examinations and academic work",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support academic success and effective communication in Nigerian society",
+        "",
+        "Conclusion:",
+        "• Reading comprehension is the ability to understand, interpret, and respond to written text",
+        "• Strategies include identifying question types, locating relevant information, and answering in your own words",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of comprehension supports academic success and lifelong learning"
+      ],
+      "diagramDescriptions": [
+        "Chart of comprehension question types with examples",
+        "Flowchart for answering comprehension questions",
+        "Sample passage on commerce with question types highlighted",
+        "Nigerian context: Sample passage on commerce with comprehension questions",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading comprehension answer questions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading comprehension is:",
+          "opts": [
+            "Only reading words",
+            "The ability to understand, interpret, and respond to written text",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Reading comprehension is the ability to understand, interpret, and respond to written text."
+        },
+        {
+          "q": "A knowledge question in comprehension asks for:",
+          "opts": [
+            "Your personal opinion",
+            "Facts directly stated in the passage",
+            "Explanation of meaning",
+            "Judgment based on the passage"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge questions ask for facts directly stated in the passage."
+        },
+        {
+          "q": "In a passage about commerce, an interpretation question might ask:",
+          "opts": [
+            "What is commerce?",
+            "Why is commerce important for Nigeria?",
+            "Do you agree with the author's view?",
+            "How many paragraphs are in the passage?"
+          ],
+          "ans": 1,
+          "explanation": "Interpretation questions ask for explanation of meaning or significance, such as why commerce is important."
+        },
+        {
+          "q": "A strategy for answering comprehension questions is to:",
+          "opts": [
+            "Guess randomly",
+            "Identify the question type and locate relevant information",
+            "Ignore the passage",
+            "Only focus on the title"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the question type and locating relevant information helps you answer comprehension questions accurately."
+        },
+        {
+          "q": "In Nigerian context, a comprehension passage on commerce might focus on:",
+          "opts": [
+            "Only foreign trade",
+            "The role of commerce in Nigerian economic development",
+            "Only scientific data",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian comprehension passages on commerce often focus on its role in economic development."
+        },
+        {
+          "q": "A common mistake in comprehension is:",
+          "opts": [
+            "Reading carefully",
+            "Copying the passage instead of answering in your own words",
+            "Identifying question types",
+            "Using passage evidence"
+          ],
+          "ans": 1,
+          "explanation": "Copying the passage instead of answering in your own words is a common mistake."
+        },
+        {
+          "q": "Understanding comprehension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports academic success and effective communication",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills help students succeed academically and communicate effectively in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a type of comprehension question?",
+          "opts": [
+            "Knowledge",
+            "Interpretation",
+            "Random guess",
+            "Evaluation"
+          ],
+          "ans": 2,
+          "explanation": "'Random guess' is not a type of comprehension question; knowledge, interpretation, and evaluation are."
+        },
+        {
+          "q": "A common misconception about comprehension is:",
+          "opts": [
+            "Comprehension requires understanding",
+            "All questions are the same",
+            "Different question types require different strategies",
+            "Practice improves comprehension skills"
+          ],
+          "ans": 1,
+          "explanation": "Not all questions are the same; different question types require different strategies."
+        },
+        {
+          "q": "When answering comprehension questions, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Answer in your own words using passage evidence",
+            "Make up any story",
+            "Copy the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Answering in your own words using passage evidence shows understanding and accuracy."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w2_su3",
+      "title": "2.3 Vocabulary: Words Associated with Commerce",
+      "notes": [
+        "Vocabulary: Words Associated with Commerce",
+        "",
+        "Key Concepts:",
+        "1. What is commerce?",
+        "   - The activity of buying and selling goods and services",
+        "   - Includes trade, marketing, finance, and business management",
+        "   - Example: Trading agricultural products in Nigerian markets",
+        "",
+        "2. Common vocabulary in commerce:",
+        "   a) Trade terms:",
+        "      - Buyer, seller, customer, supplier, retailer, wholesaler",
+        "      - Market, shop, store, warehouse, mall",
+        "      - Import, export, trade, transaction, deal",
+        "",
+        "   b) Financial terms:",
+        "      - Price, cost, profit, loss, revenue, expense",
+        "      - Money, currency, naira, dollar, payment, receipt",
+        "      - Bank, loan, interest, investment, savings",
+        "",
+        "   c) Business terms:",
+        "      - Company, business, enterprise, firm, corporation",
+        "      - Manager, employee, entrepreneur, customer service",
+        "      - Advertisement, promotion, brand, quality, demand",
+        "",
+        "3. How to learn commercial vocabulary effectively:",
+        "   - Use context clues to understand new words",
+        "   - Practice using new words in sentences",
+        "   - Create flashcards for difficult words",
+        "   - Visit markets or businesses to see vocabulary in action",
+        "",
+        "Nigerian Context:",
+        "• Common commercial vocabulary in Nigerian English:",
+        "  - Trade: 'bargain', 'haggle', 'wholesale', 'retail', 'market day'",
+        "  - Finance: 'naira', 'kobo', 'bank transfer', 'mobile money', 'POS'",
+        "  - Business: 'SME' (Small and Medium Enterprise), 'entrepreneur', 'start-up'",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local trading practices and terminology",
+        "  - Recognizing traditional and modern commercial methods",
+        "  - Appreciating the importance of commerce in Nigerian economy",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Hunt:",
+        "   - Teacher provides a short passage on Nigerian commerce",
+        "   - Students work in pairs to identify and define commercial terms",
+        "   - Groups share their findings and discuss word meanings",
+        "",
+        "2. Context Clue Practice:",
+        "   - Teacher writes sentences with unfamiliar commercial words",
+        "   - Students use context clues to guess word meanings",
+        "   - Class discusses how context helps understand new vocabulary",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive commercial vocabulary cards",
+        "   - In groups, they create sentences using new words correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Vocabulary is only about memorizing words': Vocabulary is best learned in context",
+        "• 'All words have one meaning': Many words have multiple meanings depending on context",
+        "• 'Dictionary is the only way to learn words': Context clues and practice are equally important",
+        "• 'Vocabulary is only for reading': Vocabulary supports speaking, writing, and listening too",
+        "",
+        "Nigerian Context:",
+        "• Identifying commercial vocabulary helps students understand Nigerian economy and business practices",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Commerce has specific vocabulary that describes trade, finance, and business practices",
+        "• Strategies include using context clues, practicing in sentences, and visiting markets",
+        "• Practice with Nigerian commercial topics makes learning relevant and effective",
+        "• Mastery of commercial vocabulary supports reading comprehension and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of commercial vocabulary with categories and examples",
+        "Flowchart for vocabulary learning strategies",
+        "Sample passage on Nigerian commerce with vocabulary highlighted",
+        "Nigerian context: Sample commercial vocabulary with cultural notes",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vocabulary commerce Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Commerce refers to:",
+          "opts": [
+            "Only buying goods",
+            "The activity of buying and selling goods and services",
+            "Only selling products",
+            "Only financial transactions"
+          ],
+          "ans": 1,
+          "explanation": "Commerce is the activity of buying and selling goods and services, including trade, marketing, and finance."
+        },
+        {
+          "q": "A strategy for learning commercial vocabulary is to:",
+          "opts": [
+            "Ignore unfamiliar words",
+            "Use context clues to guess meaning",
+            "Only use a dictionary",
+            "Skip difficult passages"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues helps you guess the meaning of unfamiliar words before checking a dictionary."
+        },
+        {
+          "q": "In a passage about trade, 'wholesaler' means:",
+          "opts": [
+            "A person who sells directly to consumers",
+            "A person who sells in large quantities to retailers",
+            "A person who buys for personal use",
+            "A person who manages a store"
+          ],
+          "ans": 1,
+          "explanation": "A wholesaler sells goods in large quantities to retailers, not directly to consumers."
+        },
+        {
+          "q": "To identify commercial vocabulary in passages, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read carefully and highlight unfamiliar words",
+            "Ignore the context",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and highlighting unfamiliar words helps you identify vocabulary to learn."
+        },
+        {
+          "q": "In Nigerian context, 'POS' is a word associated with:",
+          "opts": [
+            "Agriculture",
+            "Financial transactions (Point of Sale)",
+            "Education",
+            "Healthcare"
+          ],
+          "ans": 1,
+          "explanation": "POS (Point of Sale) is a term used in financial transactions for electronic payments."
+        },
+        {
+          "q": "A common mistake in vocabulary learning is:",
+          "opts": [
+            "Using context clues",
+            "Assuming all words have only one meaning",
+            "Checking a dictionary",
+            "Practicing with passages"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all words have only one meaning is a mistake; many words have multiple meanings depending on context."
+        },
+        {
+          "q": "Understanding commercial vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of economic and business texts about Nigerian life",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Commercial vocabulary helps students understand texts about Nigerian economy and business practices."
+        },
+        {
+          "q": "Which is NOT a commercial vocabulary word?",
+          "opts": [
+            "Wholesaler",
+            "Profit",
+            "Algorithm",
+            "Retailer"
+          ],
+          "ans": 2,
+          "explanation": "'Algorithm' is a technical term, not related to commercial vocabulary."
+        },
+        {
+          "q": "A common misconception about vocabulary is:",
+          "opts": [
+            "Vocabulary is best learned in context",
+            "Vocabulary is only about memorizing words",
+            "Context clues help understand new words",
+            "Practice improves vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Vocabulary is not only about memorizing words; it's best learned in context through practice."
+        },
+        {
+          "q": "When learning commercial vocabulary, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Use context clues and verify with a dictionary",
+            "Only memorize definitions",
+            "Skip unfamiliar words"
+          ],
+          "ans": 1,
+          "explanation": "Using context clues and verifying with a dictionary helps you accurately learn new vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w2_su4",
+      "title": "2.4 Structure: Differences Between a Phrase and a Clause",
+      "notes": [
+        "Structure: Differences Between a Phrase and a Clause",
+        "",
+        "Key Concepts:",
+        "1. What is a phrase?",
+        "   - A group of words that does not contain a finite verb",
+        "   - Cannot stand alone as a complete sentence",
+        "   - Functions as a noun, adjective, or adverb",
+        "   - Example: 'in the morning' (prepositional phrase)",
+        "",
+        "2. What is a clause?",
+        "   - A group of words containing a subject and a finite verb",
+        "   - Can function as part of a sentence or stand alone (if independent)",
+        "   - Example: 'When the rain stopped' (dependent clause)",
+        "",
+        "3. Key differences between phrases and clauses:",
+        "   a) Verb presence:",
+        "      - Phrase: No finite verb (may have non-finite verbs like 'to run')",
+        "      - Clause: Contains a finite verb (shows tense)",
+        "",
+        "   b) Completeness:",
+        "      - Phrase: Cannot express a complete thought",
+        "      - Clause: Independent clauses can express complete thoughts",
+        "",
+        "   c) Function:",
+        "      - Phrase: Functions as a single part of speech",
+        "      - Clause: Can function as subject, object, or modifier",
+        "",
+        "4. Identifying phrases and clauses in passages:",
+        "   - Look for subject + finite verb combinations for clauses",
+        "   - Ask: Can this group of words stand alone?",
+        "   - Note subordinating conjunctions that introduce dependent clauses",
+        "   - Example passage:",
+        "     'In the morning, when the sun rose, the farmers went to their fields.'",
+        "     Phrases: 'In the morning' (prepositional phrase)",
+        "     Clauses: 'when the sun rose' (dependent), 'the farmers went to their fields' (independent)",
+        "",
+        "5. Making sentences with phrases and clauses:",
+        "   - Start with a phrase for detail: 'In the morning, the students studied.'",
+        "   - Add clauses for complexity: 'When the bell rang, the students stopped studying.'",
+        "   - Combine phrases and clauses for rich expression",
+        "",
+        "Nigerian Context:",
+        "• Common phrases and clauses in Nigerian English:",
+        "  - Phrases: 'in the market', 'with great care', 'after school'",
+        "  - Clauses: 'because education is important', 'when we unite', 'if we work hard'",
+        "",
+        "• Cultural considerations:",
+        "  - Using phrases and clauses to express complex ideas in Nigerian contexts",
+        "  - Phrases and clauses for value discussions: 'with respect', 'because unity is strength'",
+        "  - Phrases and clauses for national development: 'for progress', 'so that Nigeria can advance'",
+        "",
+        "Practical Activities:",
+        "1. Phrase/Clause Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline phrases in one color, clauses in another",
+        "   - Class discusses findings and functions",
+        "",
+        "2. Sorting Game:",
+        "   - Teacher writes phrases and clauses on cards",
+        "   - Students sort into phrase and clause categories",
+        "   - Groups present their sorted items with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive phrase and clause cards",
+        "   - In groups, they create sentences using both correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All groups of words are clauses': Only groups with subject + finite verb are clauses",
+        "• 'Phrases can stand alone': Phrases cannot stand alone as complete sentences",
+        "• 'Only one phrase or clause per sentence': Sentences can have multiple phrases and clauses",
+        "• 'Phrases and clauses are not important': They are essential for expressing complex ideas",
+        "",
+        "Nigerian Context:",
+        "• Understanding phrases and clauses supports clear, complex communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of phrases and clauses is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Phrases are groups of words without finite verbs; clauses contain subject + finite verb",
+        "• Key differences include verb presence, completeness, and function",
+        "• Mastery of phrases and clauses supports clear, complex communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of phrase vs clause features with Nigerian examples",
+        "Diagram showing key differences between phrases and clauses",
+        "Sample passage with phrases and clauses highlighted",
+        "Phrase/clause sorting activity template",
+        "Nigerian context: Common phrases and clauses in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar phrase clause difference site:youtube.com",
+      "quiz": [
+        {
+          "q": "A phrase is:",
+          "opts": [
+            "A group of words with a subject and finite verb",
+            "A group of words without a finite verb",
+            "Only a complete sentence",
+            "Only a dependent clause"
+          ],
+          "ans": 1,
+          "explanation": "A phrase is a group of words that does not contain a finite verb."
+        },
+        {
+          "q": "Which is a clause?",
+          "opts": [
+            "in the morning",
+            "when the rain stopped",
+            "with great care",
+            "at the market"
+          ],
+          "ans": 1,
+          "explanation": "'When the rain stopped' is a clause; it contains a subject ('the rain') and finite verb ('stopped')."
+        },
+        {
+          "q": "In the sentence 'In the morning, the students studied', 'In the morning' is a:",
+          "opts": [
+            "Independent clause",
+            "Dependent clause",
+            "Phrase",
+            "Complete sentence"
+          ],
+          "ans": 2,
+          "explanation": "'In the morning' is a phrase; it has no finite verb and cannot stand alone."
+        },
+        {
+          "q": "Which type of word group can stand alone as a complete sentence?",
+          "opts": [
+            "Phrase",
+            "Independent clause",
+            "Dependent clause",
+            "Prepositional phrase"
+          ],
+          "ans": 1,
+          "explanation": "Independent clauses can stand alone as complete sentences; phrases and dependent clauses cannot."
+        },
+        {
+          "q": "In Nigerian context, which is a phrase?",
+          "opts": [
+            "because education is important",
+            "in the market",
+            "when we unite",
+            "if we work hard"
+          ],
+          "ans": 1,
+          "explanation": "'In the market' is a phrase; it has no finite verb and cannot stand alone."
+        },
+        {
+          "q": "Phrases and clauses can function to:",
+          "opts": [
+            "Only express complete thoughts",
+            "Add detail and complexity to sentences",
+            "Only modify nouns",
+            "Only connect words"
+          ],
+          "ans": 1,
+          "explanation": "Phrases and clauses add detail and complexity to sentences, enabling rich expression."
+        },
+        {
+          "q": "Understanding phrases and clauses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, complex communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Phrases and clauses are essential for expressing complex ideas, which is vital for academic and daily communication."
+        },
+        {
+          "q": "Which is NOT a difference between phrases and clauses?",
+          "opts": [
+            "Verb presence",
+            "Completeness",
+            "Function",
+            "Number of words"
+          ],
+          "ans": 3,
+          "explanation": "Number of words is not a reliable difference; both phrases and clauses can have varying lengths."
+        },
+        {
+          "q": "A common misconception about phrases and clauses is:",
+          "opts": [
+            "Phrases have no finite verb",
+            "All groups of words are clauses",
+            "Clauses contain subject and finite verb",
+            "Phrases and clauses add complexity"
+          ],
+          "ans": 1,
+          "explanation": "Not all groups of words are clauses; only those with subject + finite verb are clauses."
+        },
+        {
+          "q": "A good strategy for identifying phrases and clauses is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: Does this group have a subject and finite verb?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking if a group has a subject and finite verb helps identify clauses; if not, it's likely a phrase."
+        }
+      ]
+    }
+  ]
+}

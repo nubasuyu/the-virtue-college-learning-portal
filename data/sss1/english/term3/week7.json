@@ -1,0 +1,797 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 7,
+  "topic": "Speech, Structure, Comprehension, Continuous Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w7_su1",
+      "title": "7.1 Speech: Speaking to Persuade/Convince Continued",
+      "notes": [
+        "Speaking to Persuade/Convince:",
+        "1. The Skills Of Debate/Argument",
+        "2. The Two Sides To An Argument: Proposing And Opposing",
+        "3. Issues Of Current Interest:",
+        "   a. Corruption and the Nigerian state is endemic",
+        "   b. Women are better leaders",
+        "",
+        "Activities:",
+        "1. Teacher uses real clock to time participants",
+        "2. Teacher leads students to introduce themselves and their topics",
+        "3. Teaches students to use the dictionary to learn definition",
+        "4. Gathering of points to convince",
+        "",
+        "Key Points:",
+        "- Use persuasive language and logical arguments",
+        "- Present evidence and examples",
+        "- Address counterarguments",
+        "- Use rhetorical questions effectively",
+        "- Maintain proper tone and delivery"
+      ],
+      "diagramDescriptions": [
+        "Chart showing debate structure and argument types",
+        "Diagram of persuasive techniques",
+        "Sample debate topics with points for and against",
+        "Flowchart of argument construction"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English persuasive speaking debate SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The two sides to an argument are:",
+          "opts": [
+            "Right and wrong",
+            "Proposing and opposing",
+            "True and false",
+            "Good and bad"
+          ],
+          "ans": 1,
+          "explanation": "The two sides to an argument are proposing (for) and opposing (against) a motion or topic."
+        },
+        {
+          "q": "Which is a current issue for debate?",
+          "opts": [
+            "The color of the sky",
+            "Women are better leaders",
+            "Mathematics is easy",
+            "Reading is fun"
+          ],
+          "ans": 1,
+          "explanation": "Women are better leaders is a current issue suitable for debate and argument."
+        },
+        {
+          "q": "To persuade effectively, you should:",
+          "opts": [
+            "Speak very loudly",
+            "Use persuasive language and logical arguments",
+            "Ignore counterarguments",
+            "Speak very quickly"
+          ],
+          "ans": 1,
+          "explanation": "Effective persuasion requires persuasive language, logical arguments, and evidence."
+        },
+        {
+          "q": "A rhetorical question is used to:",
+          "opts": [
+            "Get a direct answer",
+            "Make a point without expecting an answer",
+            "Confuse the audience",
+            "End a speech"
+          ],
+          "ans": 1,
+          "explanation": "Rhetorical questions are used to make a point or persuade without expecting a direct answer."
+        },
+        {
+          "q": "When gathering points to convince, you should:",
+          "opts": [
+            "Use only emotional appeals",
+            "Present evidence and examples",
+            "Ignore facts",
+            "Speak without preparation"
+          ],
+          "ans": 1,
+          "explanation": "Gathering points to convince requires presenting evidence, examples, and logical arguments."
+        },
+        {
+          "q": "Which topic is suitable for persuasive speaking?",
+          "opts": [
+            "What is your name?",
+            "Corruption and the Nigerian state",
+            "Count to ten",
+            "Recite the alphabet"
+          ],
+          "ans": 1,
+          "explanation": "Corruption and the Nigerian state is a current issue suitable for persuasive speaking and debate."
+        },
+        {
+          "q": "To introduce yourself in a debate, you should:",
+          "opts": [
+            "Remain silent",
+            "State your name and topic clearly",
+            "Speak very fast",
+            "Ignore the audience"
+          ],
+          "ans": 1,
+          "explanation": "In a debate, you should introduce yourself and your topic clearly to the audience."
+        },
+        {
+          "q": "Using a dictionary in debate preparation helps to:",
+          "opts": [
+            "Waste time",
+            "Learn definitions of key terms",
+            "Avoid speaking",
+            "Confuse opponents"
+          ],
+          "ans": 1,
+          "explanation": "Using a dictionary helps you learn definitions of key terms for accurate and effective argumentation."
+        },
+        {
+          "q": "Timing participants in a debate is important to:",
+          "opts": [
+            "Make it boring",
+            "Ensure fairness and proper time management",
+            "Confuse speakers",
+            "End the debate early"
+          ],
+          "ans": 1,
+          "explanation": "Timing ensures fairness and proper time management so all participants have equal opportunity."
+        },
+        {
+          "q": "Addressing counterarguments means:",
+          "opts": [
+            "Ignoring opposing views",
+            "Responding to opposing points",
+            "Agreeing with everything",
+            "Changing the topic"
+          ],
+          "ans": 1,
+          "explanation": "Addressing counterarguments means responding to and refuting opposing points effectively."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w7_su2",
+      "title": "7.2 Structure: More on Adjectival Clauses",
+      "notes": [
+        "Adjectival Clauses (Relative Clauses):",
+        "1. Definition of Adjective Clause:",
+        "   - A dependent clause that modifies a noun or pronoun",
+        "   - Also called relative clause",
+        "",
+        "2. Adjectival clauses qualify a noun or pronoun in the sentence",
+        "",
+        "3. They are introduced by relative pronouns:",
+        "   - who (for people as subject)",
+        "   - whom (for people as object)",
+        "   - whose (for possession)",
+        "   - which (for things/animals)",
+        "   - that (for people or things)",
+        "",
+        "Examples:",
+        "1. The man whose brother was sacked has committed suicide.",
+        "   (whose brother was sacked = adjectival clause modifying man)",
+        "",
+        "2. The song which Clara sang was very melodious.",
+        "   (which Clara sang = adjectival clause modifying song)",
+        "",
+        "3. The boy who won the prize is my friend.",
+        "   (who won the prize = adjectival clause modifying boy)",
+        "",
+        "4. The car that I bought is red.",
+        "   (that I bought = adjectival clause modifying car)",
+        "",
+        "Activities:",
+        "1. Teacher defines adjective clause",
+        "2. Students identify them in sentences",
+        "3. Students make sentences with adjectival clauses",
+        "",
+        "Key Points:",
+        "- Adjectival clauses always follow the noun they modify",
+        "- They cannot stand alone as complete sentences",
+        "- They provide additional information about a noun"
+      ],
+      "diagramDescriptions": [
+        "Chart showing relative pronouns and their uses",
+        "Diagram of adjectival clause structure",
+        "Sample sentences with adjectival clauses highlighted",
+        "Flowchart for identifying adjectival clauses"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar adjectival relative clauses SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adjectival clause modifies a:",
+          "opts": [
+            "Verb",
+            "Noun or pronoun",
+            "Adverb",
+            "Preposition"
+          ],
+          "ans": 1,
+          "explanation": "An adjectival clause modifies a noun or pronoun in a sentence."
+        },
+        {
+          "q": "Which relative pronoun is used for possession?",
+          "opts": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "ans": 2,
+          "explanation": "Whose is the relative pronoun used to show possession in adjectival clauses."
+        },
+        {
+          "q": "In the sentence The song which Clara sang was melodious, the adjectival clause is:",
+          "opts": [
+            "The song",
+            "which Clara sang",
+            "was melodious",
+            "Clara sang"
+          ],
+          "ans": 1,
+          "explanation": "which Clara sang is the adjectival clause modifying the noun song."
+        },
+        {
+          "q": "Which relative pronoun is used for things?",
+          "opts": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "ans": 3,
+          "explanation": "Which is used for things or animals in adjectival clauses."
+        },
+        {
+          "q": "An adjectival clause is also called a:",
+          "opts": [
+            "Independent clause",
+            "Relative clause",
+            "Main clause",
+            "Coordinating clause"
+          ],
+          "ans": 1,
+          "explanation": "An adjectival clause is also called a relative clause because it is introduced by relative pronouns."
+        },
+        {
+          "q": "In The man whose brother was sacked, whose refers to:",
+          "opts": [
+            "The brother",
+            "The man",
+            "The sacked person",
+            "No one"
+          ],
+          "ans": 1,
+          "explanation": "Whose shows possession and refers to the man (the mans brother)."
+        },
+        {
+          "q": "Adjectival clauses are introduced by:",
+          "opts": [
+            "Coordinating conjunctions",
+            "Relative pronouns",
+            "Prepositions",
+            "Articles"
+          ],
+          "ans": 1,
+          "explanation": "Adjectival clauses are introduced by relative pronouns: who, whom, whose, which, that."
+        },
+        {
+          "q": "Which sentence contains an adjectival clause?",
+          "opts": [
+            "The boy runs fast.",
+            "The boy who won the prize is my friend.",
+            "He won the prize.",
+            "My friend is happy."
+          ],
+          "ans": 1,
+          "explanation": "who won the prize is an adjectival clause modifying boy."
+        },
+        {
+          "q": "Adjectival clauses always follow:",
+          "opts": [
+            "The verb",
+            "The noun they modify",
+            "The adverb",
+            "The preposition"
+          ],
+          "ans": 1,
+          "explanation": "Adjectival clauses always follow the noun or pronoun they modify."
+        },
+        {
+          "q": "Which relative pronoun can be used for both people and things?",
+          "opts": [
+            "who",
+            "whom",
+            "whose",
+            "that"
+          ],
+          "ans": 3,
+          "explanation": "That can be used for both people and things in adjectival clauses."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w7_su3",
+      "title": "7.3 Comprehension: Reading to Test Speed and Accuracy",
+      "notes": [
+        "Reading for Speed and Accuracy:",
+        "",
+        "Key Points:",
+        "1. Mindful of question marks",
+        "   - Questions end with question marks",
+        "   - Rising intonation for questions",
+        "",
+        "2. Mindful of full stops",
+        "   - Statements end with full stops",
+        "   - Falling intonation for statements",
+        "",
+        "3. Mindful of pauses",
+        "   - Comma: short pause",
+        "   - Semicolon: medium pause",
+        "   - Colon: pause before explanation or list",
+        "",
+        "Activities:",
+        "1. Guides students to observe punctuation marks",
+        "2. Frequent reading to increase speed",
+        "3. Practice reading with proper intonation",
+        "4. Time reading exercises for speed improvement",
+        "",
+        "Tips for Speed Reading:",
+        "- Dont subvocalize (dont say words in your head)",
+        "- Read in chunks, not word by word",
+        "- Use a pointer or finger to guide your eyes",
+        "- Practice regularly",
+        "- Expand your vocabulary",
+        "",
+        "Tips for Accuracy:",
+        "- Pay attention to punctuation",
+        "- Understand the context",
+        "- Dont skip words",
+        "- Pronounce words correctly",
+        "- Review difficult passages"
+      ],
+      "diagramDescriptions": [
+        "Chart showing punctuation marks and their functions",
+        "Diagram of reading speed techniques",
+        "Sample passage with punctuation marks highlighted",
+        "Flowchart for improving reading speed and accuracy"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English reading speed accuracy comprehension SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Question marks are used for:",
+          "opts": [
+            "Statements",
+            "Questions",
+            "Exclamations",
+            "Lists"
+          ],
+          "ans": 1,
+          "explanation": "Question marks are used at the end of questions."
+        },
+        {
+          "q": "Full stops are used for:",
+          "opts": [
+            "Questions",
+            "Statements",
+            "Exclamations",
+            "Pauses"
+          ],
+          "ans": 1,
+          "explanation": "Full stops (periods) are used at the end of statements."
+        },
+        {
+          "q": "A comma indicates:",
+          "opts": [
+            "End of sentence",
+            "Short pause",
+            "Long pause",
+            "Question"
+          ],
+          "ans": 1,
+          "explanation": "A comma indicates a short pause in a sentence."
+        },
+        {
+          "q": "A semicolon indicates:",
+          "opts": [
+            "Short pause",
+            "Medium pause",
+            "Long pause",
+            "No pause"
+          ],
+          "ans": 1,
+          "explanation": "A semicolon indicates a medium pause, longer than a comma but shorter than a full stop."
+        },
+        {
+          "q": "To increase reading speed, you should:",
+          "opts": [
+            "Read word by word",
+            "Read in chunks",
+            "Subvocalize every word",
+            "Read very slowly"
+          ],
+          "ans": 1,
+          "explanation": "Reading in chunks (groups of words) rather than word by word increases reading speed."
+        },
+        {
+          "q": "Subvocalization means:",
+          "opts": [
+            "Reading silently",
+            "Saying words in your head while reading",
+            "Reading very fast",
+            "Skipping words"
+          ],
+          "ans": 1,
+          "explanation": "Subvocalization is saying words in your head while reading, which can slow down reading speed."
+        },
+        {
+          "q": "A colon is used before:",
+          "opts": [
+            "A question",
+            "An explanation or list",
+            "A full stop",
+            "A comma"
+          ],
+          "ans": 1,
+          "explanation": "A colon is used before an explanation, list, or quotation."
+        },
+        {
+          "q": "To improve reading accuracy, you should:",
+          "opts": [
+            "Skip difficult words",
+            "Pay attention to punctuation",
+            "Read as fast as possible",
+            "Ignore context"
+          ],
+          "ans": 1,
+          "explanation": "Paying attention to punctuation helps improve reading accuracy and comprehension."
+        },
+        {
+          "q": "Using a pointer while reading helps to:",
+          "opts": [
+            "Slow down reading",
+            "Guide your eyes and maintain focus",
+            "Make reading difficult",
+            "Confuse the reader"
+          ],
+          "ans": 1,
+          "explanation": "Using a pointer or finger helps guide your eyes and maintain focus while reading."
+        },
+        {
+          "q": "Frequent reading practice helps to:",
+          "opts": [
+            "Decrease speed",
+            "Increase speed and accuracy",
+            "Make reading boring",
+            "Reduce comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Frequent reading practice improves both reading speed and accuracy over time."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w7_su4",
+      "title": "7.4 Vocabulary Development (Register): Politics",
+      "notes": [
+        "Politics - Vocabulary Development:",
+        "",
+        "Definition:",
+        "Politics refers to the activities associated with governance, decision-making, and power distribution in a society.",
+        "",
+        "Key Political Terms:",
+        "1. Party - a political organization",
+        "2. Opposition - parties not in government",
+        "3. Power - authority to govern",
+        "4. Democracy - government by the people",
+        "5. Campaign - efforts to win elections",
+        "6. Election - process of choosing leaders",
+        "7. Electorate - eligible voters",
+        "8. Polls - voting or opinion surveys",
+        "9. Booth - voting station",
+        "10. Governor - head of state government",
+        "11. Poster - campaign advertisement",
+        "12. Dividend - share of profits (in political context: benefits)",
+        "13. Independence - freedom from control",
+        "",
+        "Activities:",
+        "1. Teacher gives a story of a politician he/she knows",
+        "2. Teacher invites politician to give a talk",
+        "3. Use words in sentences and orally in discussions",
+        "",
+        "Sample Sentences:",
+        "- The opposition party criticized the government.",
+        "- Democracy allows citizens to vote.",
+        "- The campaign attracted many supporters.",
+        "- The electorate went to the polls.",
+        "- The governor announced new policies."
+      ],
+      "diagramDescriptions": [
+        "Chart of political terms and definitions",
+        "Diagram of democratic process",
+        "Sample political vocabulary in context",
+        "Flowchart of election process"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary politics government SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Democracy means:",
+          "opts": [
+            "Government by one person",
+            "Government by the people",
+            "Government by the military",
+            "Government by the rich"
+          ],
+          "ans": 1,
+          "explanation": "Democracy means government by the people, where citizens have the power to choose their leaders."
+        },
+        {
+          "q": "The opposition refers to:",
+          "opts": [
+            "The ruling party",
+            "Parties not in government",
+            "The military",
+            "The electorate"
+          ],
+          "ans": 1,
+          "explanation": "The opposition refers to political parties that are not in government."
+        },
+        {
+          "q": "A campaign is:",
+          "opts": [
+            "A war",
+            "Efforts to win elections",
+            "A celebration",
+            "A meeting"
+          ],
+          "ans": 1,
+          "explanation": "A campaign refers to organized efforts to win elections or promote a political cause."
+        },
+        {
+          "q": "The electorate refers to:",
+          "opts": [
+            "Political leaders",
+            "Eligible voters",
+            "Government officials",
+            "Party members"
+          ],
+          "ans": 1,
+          "explanation": "The electorate refers to all eligible voters in an election."
+        },
+        {
+          "q": "Polls are:",
+          "opts": [
+            "Political parties",
+            "Voting or opinion surveys",
+            "Government buildings",
+            "Campaign posters"
+          ],
+          "ans": 1,
+          "explanation": "Polls refer to voting processes or opinion surveys."
+        },
+        {
+          "q": "A booth is:",
+          "opts": [
+            "A political party",
+            "A voting station",
+            "A campaign office",
+            "A government building"
+          ],
+          "ans": 1,
+          "explanation": "A booth is a voting station where people cast their votes."
+        },
+        {
+          "q": "Independence means:",
+          "opts": [
+            "Dependence on others",
+            "Freedom from control",
+            "Government control",
+            "Party membership"
+          ],
+          "ans": 1,
+          "explanation": "Independence means freedom from control or influence by others."
+        },
+        {
+          "q": "A poster in politics is used for:",
+          "opts": [
+            "Voting",
+            "Campaign advertisement",
+            "Counting votes",
+            "Government meetings"
+          ],
+          "ans": 1,
+          "explanation": "A poster is used for campaign advertisement to promote candidates or parties."
+        },
+        {
+          "q": "Power in politics refers to:",
+          "opts": [
+            "Physical strength",
+            "Authority to govern",
+            "Money",
+            "Population"
+          ],
+          "ans": 1,
+          "explanation": "Power in politics refers to the authority to govern and make decisions."
+        },
+        {
+          "q": "A governor is:",
+          "opts": [
+            "A voter",
+            "Head of state government",
+            "A party member",
+            "An opposition leader"
+          ],
+          "ans": 1,
+          "explanation": "A governor is the head of a state government."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w7_su5",
+      "title": "7.5 Continuous Writing: Argumentative Essay",
+      "notes": [
+        "Argumentative Essay (Debate):",
+        "",
+        "Features of Debate in Writing:",
+        "1. Opening Vocatives:",
+        "   - Formal greetings",
+        "   - Address the audience appropriately",
+        "   - Example: Mr. Chairman, Panel of Judges, Co-debaters, Ladies and Gentlemen",
+        "",
+        "2. Introduction:",
+        "   - State the motion/topic clearly",
+        "   - State your position (proposing or opposing)",
+        "   - Preview your main arguments",
+        "",
+        "3. Body:",
+        "   - Present your arguments logically",
+        "   - Use evidence and examples",
+        "   - Address counterarguments",
+        "   - Use persuasive language",
+        "   - Organize points clearly (firstly, secondly, finally)",
+        "",
+        "4. Conclusion:",
+        "   - Summarize main points",
+        "   - Restate your position",
+        "   - Make a strong closing statement",
+        "   - Call to action if appropriate",
+        "",
+        "Sample Topics:",
+        "- Should female circumcision be abolished?",
+        "- Military rule is better than civilian rule",
+        "- Boarding school is better than day school",
+        "- Science has done more harm than good",
+        "",
+        "Key Points:",
+        "- Use logical reasoning",
+        "- Support arguments with facts",
+        "- Maintain respectful tone",
+        "- Use transitional words",
+        "- Practice proper grammar and punctuation"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of argumentative essay",
+        "Chart of debate features and components",
+        "Sample argumentative essay outline",
+        "Flowchart of argument construction"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing argumentative essay debate SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Opening vocatives in a debate are used to:",
+          "opts": [
+            "End the debate",
+            "Greet the audience formally",
+            "Present arguments",
+            "Summarize points"
+          ],
+          "ans": 1,
+          "explanation": "Opening vocatives are formal greetings used to address the audience at the beginning of a debate."
+        },
+        {
+          "q": "The body of an argumentative essay should:",
+          "opts": [
+            "Contain only opinions",
+            "Present arguments with evidence",
+            "Skip counterarguments",
+            "Be very short"
+          ],
+          "ans": 1,
+          "explanation": "The body should present arguments logically with evidence and examples."
+        },
+        {
+          "q": "In the conclusion, you should:",
+          "opts": [
+            "Introduce new arguments",
+            "Summarize main points",
+            "Apologize",
+            "Change your position"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion should summarize main points and restate your position."
+        },
+        {
+          "q": "Addressing counterarguments means:",
+          "opts": [
+            "Ignoring opposing views",
+            "Responding to opposing points",
+            "Agreeing with everything",
+            "Changing the topic"
+          ],
+          "ans": 1,
+          "explanation": "Addressing counterarguments means acknowledging and responding to opposing points."
+        },
+        {
+          "q": "Transitional words help to:",
+          "opts": [
+            "Confuse the reader",
+            "Connect ideas smoothly",
+            "End sentences",
+            "Start new paragraphs only"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words (firstly, secondly, moreover, however) help connect ideas smoothly."
+        },
+        {
+          "q": "A strong closing statement should:",
+          "opts": [
+            "Be weak and uncertain",
+            "Reinforce your position powerfully",
+            "Apologize for your arguments",
+            "Introduce new topics"
+          ],
+          "ans": 1,
+          "explanation": "A strong closing statement reinforces your position powerfully and leaves a lasting impression."
+        },
+        {
+          "q": "Evidence in an argumentative essay can be:",
+          "opts": [
+            "Only personal opinions",
+            "Facts, statistics, and examples",
+            "Only emotions",
+            "Only stories"
+          ],
+          "ans": 1,
+          "explanation": "Evidence includes facts, statistics, examples, and expert opinions that support your arguments."
+        },
+        {
+          "q": "The tone of an argumentative essay should be:",
+          "opts": [
+            "Disrespectful",
+            "Respectful and logical",
+            "Emotional only",
+            "Confusing"
+          ],
+          "ans": 1,
+          "explanation": "The tone should be respectful and logical, even when disagreeing with opposing views."
+        },
+        {
+          "q": "In the introduction, you should:",
+          "opts": [
+            "State your position clearly",
+            "Hide your position",
+            "Only greet the audience",
+            "Skip to the conclusion"
+          ],
+          "ans": 0,
+          "explanation": "In the introduction, you should state the topic and your position clearly."
+        },
+        {
+          "q": "Logical reasoning in debate means:",
+          "opts": [
+            "Using emotions only",
+            "Using facts and sound arguments",
+            "Ignoring evidence",
+            "Speaking loudly"
+          ],
+          "ans": 1,
+          "explanation": "Logical reasoning means using facts, evidence, and sound arguments to support your position."
+        }
+      ]
+    }
+  ]
+}

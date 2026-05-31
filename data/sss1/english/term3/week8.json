@@ -1,0 +1,603 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 8,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w8_su1",
+      "title": "8.1 Speech: Description (orally)",
+      "notes": [
+        "Description (orally):",
+        "1. Use special words to bring out descriptions in discourse",
+        "2. Involve students participation of describing real objects, events.",
+        "",
+        "Activities:",
+        "1. Teacher leads students to garnish stories with use of adjectives and adverbs",
+        "2. Describe friend, class, school, house, car etc",
+        "",
+        "Key Points:",
+        "- Use vivid adjectives and adverbs",
+        "- Paint a picture with words",
+        "- Engage the audience with sensory details",
+        "- Practice clear pronunciation and intonation"
+      ],
+      "diagramDescriptions": [
+        "Chart of descriptive words and phrases",
+        "Diagram of sensory details in description",
+        "Sample oral description with highlighted adjectives",
+        "Flowchart for structuring oral descriptions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English oral description speaking SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Oral description primarily uses:",
+          "opts": [
+            "Only facts",
+            "Adjectives and adverbs to paint a picture",
+            "Only short sentences",
+            "Technical jargon"
+          ],
+          "ans": 1,
+          "explanation": "Oral description uses adjectives and adverbs to create vivid mental images for the listener."
+        },
+        {
+          "q": "Sensory details in description include:",
+          "opts": [
+            "Only visual information",
+            "Sight, sound, smell, taste, and touch",
+            "Only written words",
+            "Only facts and figures"
+          ],
+          "ans": 1,
+          "explanation": "Effective description engages multiple senses to create a vivid experience."
+        },
+        {
+          "q": "To engage the audience in oral description, you should:",
+          "opts": [
+            "Speak very quickly",
+            "Use vivid language and vary your tone",
+            "Avoid eye contact",
+            "Use only simple words"
+          ],
+          "ans": 1,
+          "explanation": "Vivid language and varied tone help engage and maintain audience attention."
+        },
+        {
+          "q": "Which is an example of a descriptive adjective?",
+          "opts": [
+            "Run",
+            "Beautiful",
+            "Quickly",
+            "Under"
+          ],
+          "ans": 1,
+          "explanation": "Beautiful is a descriptive adjective that adds detail to a noun."
+        },
+        {
+          "q": "In oral description, intonation helps to:",
+          "opts": [
+            "Confuse the listener",
+            "Emphasize important details and maintain interest",
+            "Make the description longer",
+            "Hide the main point"
+          ],
+          "ans": 1,
+          "explanation": "Proper intonation emphasizes key details and keeps the audience engaged."
+        },
+        {
+          "q": "A common error in oral description is:",
+          "opts": [
+            "Using too many adjectives",
+            "Using vague words like nice or good",
+            "Speaking too slowly",
+            "Using only facts"
+          ],
+          "ans": 1,
+          "explanation": "Vague words like nice or good weaken description; specific, vivid words are more effective."
+        },
+        {
+          "q": "To practice oral description, you should:",
+          "opts": [
+            "Only read silently",
+            "Describe familiar objects or places aloud",
+            "Avoid using adjectives",
+            "Speak only in whispers"
+          ],
+          "ans": 1,
+          "explanation": "Practicing description of familiar things aloud builds confidence and skill."
+        },
+        {
+          "q": "Understanding oral description is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports effective communication in academic, professional, and social settings",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Oral description skills support clear, engaging communication in many contexts."
+        },
+        {
+          "q": "Which is NOT a feature of effective oral description?",
+          "opts": [
+            "Vivid adjectives",
+            "Logical organization",
+            "Monotone delivery",
+            "Sensory details"
+          ],
+          "ans": 2,
+          "explanation": "Monotone delivery reduces engagement; effective description uses varied tone and pace."
+        },
+        {
+          "q": "A common misconception about oral description is:",
+          "opts": [
+            "It requires practice",
+            "More adjectives always mean better description",
+            "Sensory details enhance description",
+            "Organization improves clarity"
+          ],
+          "ans": 1,
+          "explanation": "Quality and relevance of adjectives matter more than quantity; too many can overwhelm."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w8_su2",
+      "title": "8.2 Structure: Words Commonly Misspelt",
+      "notes": [
+        "Words Commonly Misspelt:",
+        "",
+        "Key Points:",
+        "1. Use of the dictionary",
+        "2. Words commonly misspelt:",
+        "   - conceive, thief, chief",
+        "   - grateful, beginning, decision",
+        "   - succeed, reference, accommodation",
+        "   - referred, across, occasion",
+        "   - omission, recommend, admission",
+        "   - embarrass",
+        "",
+        "Activities:",
+        "1. Guide students in activities",
+        "2. Introduce spelling games",
+        "",
+        "Tips for Correct Spelling:",
+        "- Break words into syllables",
+        "- Look for patterns and rules",
+        "- Practice writing words repeatedly",
+        "- Use mnemonic devices",
+        "- Read extensively to see words in context"
+      ],
+      "diagramDescriptions": [
+        "Chart of commonly misspelt words with correct spellings",
+        "Diagram of spelling rules and patterns",
+        "Sample spelling exercises with answers",
+        "Mnemonic devices for tricky words"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English spelling commonly misspelt words SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The correct spelling of the word meaning to imagine is:",
+          "opts": [
+            "conciev",
+            "conceive",
+            "conseeve",
+            "conceve"
+          ],
+          "ans": 1,
+          "explanation": "Conceive is the correct spelling; remember i before e except after c."
+        },
+        {
+          "q": "Which is the correct spelling?",
+          "opts": [
+            "accomodation",
+            "acommodation",
+            "accommodation",
+            "accommadation"
+          ],
+          "ans": 2,
+          "explanation": "Accommodation has two cs and two ms."
+        },
+        {
+          "q": "The word meaning to achieve success is spelled:",
+          "opts": [
+            "succed",
+            "succeed",
+            "succead",
+            "sucseed"
+          ],
+          "ans": 1,
+          "explanation": "Succeed is the correct spelling; remember double c and double e."
+        },
+        {
+          "q": "Which word is commonly misspelt?",
+          "opts": [
+            "beginning",
+            "begining",
+            "begginning",
+            "beginnig"
+          ],
+          "ans": 0,
+          "explanation": "Beginning is correct; it has double n before -ing."
+        },
+        {
+          "q": "The correct spelling of the word meaning to cause embarrassment is:",
+          "opts": [
+            "embarass",
+            "embarras",
+            "embarrass",
+            "embaras"
+          ],
+          "ans": 2,
+          "explanation": "Embarrass has two rs and two ss."
+        },
+        {
+          "q": "A helpful tip for spelling is to:",
+          "opts": [
+            "Memorize without understanding",
+            "Break words into syllables",
+            "Ignore dictionary use",
+            "Avoid reading"
+          ],
+          "ans": 1,
+          "explanation": "Breaking words into syllables makes them easier to spell and remember."
+        },
+        {
+          "q": "Which word follows the i before e rule?",
+          "opts": [
+            "thief",
+            "receive",
+            "chief",
+            "All of the above"
+          ],
+          "ans": 3,
+          "explanation": "All follow the rule: i before e except after c (receive) or when sounding like a as in neighbor."
+        },
+        {
+          "q": "Understanding correct spelling is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports clear written communication and professionalism",
+            "Only for creative writing",
+            "Only for reading"
+          ],
+          "ans": 1,
+          "explanation": "Correct spelling ensures clarity, credibility, and professionalism in written communication."
+        },
+        {
+          "q": "Which is a mnemonic for remembering accommodation?",
+          "opts": [
+            "Two cs, two ms",
+            "One c, one m",
+            "Three cs, one m",
+            "No special rule"
+          ],
+          "ans": 0,
+          "explanation": "Accommodation has two cs and two ms - a helpful mnemonic for remembering."
+        },
+        {
+          "q": "A common spelling error is:",
+          "opts": [
+            "Using the dictionary",
+            "Doubling consonants incorrectly",
+            "Breaking words into syllables",
+            "Practicing regularly"
+          ],
+          "ans": 1,
+          "explanation": "Incorrectly doubling or omitting consonants is a common spelling error."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w8_su3",
+      "title": "8.3 Comprehension: Reading for Word Meaning in Context",
+      "notes": [
+        "Reading for Word Meaning in Context:",
+        "",
+        "Key Points:",
+        "1. Connotative meaning is situational meaning",
+        "2. Denotative meaning is dictionary meaning",
+        "3. Select passage with implied meaning to bring out connotative meaning",
+        "",
+        "Activities:",
+        "1. Teacher gives dictionary meaning and situational or contextual meaning",
+        "2. Students practice identifying words in context",
+        "",
+        "Steps for Understanding Context:",
+        "1. Read the sentence containing the unfamiliar word",
+        "2. Look for clues in surrounding words",
+        "3. Consider the overall passage meaning",
+        "4. Make an educated guess",
+        "5. Verify with dictionary if needed",
+        "",
+        "Types of Context Clues:",
+        "- Definition clues: word is explained nearby",
+        "- Example clues: examples illustrate the word",
+        "- Synonym clues: similar word is used",
+        "- Antonym clues: opposite word is used",
+        "- Inference clues: meaning must be inferred"
+      ],
+      "diagramDescriptions": [
+        "Chart of context clue types with examples",
+        "Flowchart for determining word meaning in context",
+        "Sample passage with highlighted context clues",
+        "Comparison of denotative vs connotative meaning"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension context clues word meaning SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Denotative meaning refers to:",
+          "opts": [
+            "The emotional association of a word",
+            "The dictionary definition of a word",
+            "The cultural meaning of a word",
+            "The implied meaning of a word"
+          ],
+          "ans": 1,
+          "explanation": "Denotative meaning is the literal, dictionary definition of a word."
+        },
+        {
+          "q": "Connotative meaning refers to:",
+          "opts": [
+            "The dictionary definition",
+            "The emotional or cultural association of a word",
+            "The grammatical function",
+            "The pronunciation"
+          ],
+          "ans": 1,
+          "explanation": "Connotative meaning includes the emotional, cultural, or implied associations of a word."
+        },
+        {
+          "q": "A definition clue helps the reader by:",
+          "opts": [
+            "Providing an opposite word",
+            "Directly explaining the unfamiliar word",
+            "Giving an example only",
+            "Using a similar word"
+          ],
+          "ans": 1,
+          "explanation": "Definition clues directly explain or define the unfamiliar word in the text."
+        },
+        {
+          "q": "Which is an example of a synonym clue?",
+          "opts": [
+            "The arid region, or dry area, received little rain.",
+            "Unlike the fertile south, the arid north has poor soil.",
+            "Legumes, such as cowpea, fix nitrogen.",
+            "The farmer grimaced at the poor harvest."
+          ],
+          "ans": 0,
+          "explanation": "The phrase or dry area provides a synonym clue for arid."
+        },
+        {
+          "q": "To determine word meaning in context, you should first:",
+          "opts": [
+            "Look up the word immediately",
+            "Read the sentence containing the word",
+            "Skip the word and continue",
+            "Ask someone else"
+          ],
+          "ans": 1,
+          "explanation": "Reading the sentence containing the word is the first step to gather immediate context."
+        },
+        {
+          "q": "An antonym clue is signaled by words like:",
+          "opts": [
+            "for example",
+            "but, however, unlike",
+            "means, is",
+            "including"
+          ],
+          "ans": 1,
+          "explanation": "Words like but, however, unlike signal contrast and often introduce antonym clues."
+        },
+        {
+          "q": "Inference clues require the reader to:",
+          "opts": [
+            "Find a direct definition",
+            "Use logical reasoning based on context",
+            "Look up the word immediately",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Inference clues require readers to use logical reasoning based on overall context."
+        },
+        {
+          "q": "Understanding context clues is important because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Enables independent reading and comprehension",
+            "Only for vocabulary tests",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Context clue skills support independent reading and comprehension of diverse texts."
+        },
+        {
+          "q": "Which is NOT a type of context clue?",
+          "opts": [
+            "Definition",
+            "Example",
+            "Spelling",
+            "Synonym"
+          ],
+          "ans": 2,
+          "explanation": "Spelling is not a type of context clue; definition, example, synonym, antonym, and inference are."
+        },
+        {
+          "q": "A common misconception about context clues is:",
+          "opts": [
+            "They always give exact definitions",
+            "They provide approximate meanings that may need verification",
+            "They help readers infer word meaning",
+            "They are useful in reading and listening"
+          ],
+          "ans": 0,
+          "explanation": "Context clues often provide approximate meanings; dictionary verification may still be needed."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w8_su4",
+      "title": "8.4 Vocabulary Development: British and American Spellings",
+      "notes": [
+        "British and American Spellings of Common Words:",
+        "",
+        "Key Differences:",
+        "1. American Or vs British Our:",
+        "   - American: color, honor, favor",
+        "   - British: colour, honour, favour",
+        "",
+        "2. American Er vs British Re:",
+        "   - American: theater, center, meter",
+        "   - British: theatre, centre, metre",
+        "",
+        "3. American Se vs British Ce:",
+        "   - American: offense, defense, license (noun)",
+        "   - British: offence, defence, licence (noun)",
+        "",
+        "4. Other Common Differences:",
+        "   - American: traveling, canceled, jewelry",
+        "   - British: travelling, cancelled, jewellery",
+        "   - American: program (all uses)",
+        "   - British: programme (broadcast), program (computer)",
+        "",
+        "Activities:",
+        "1. Teacher guides students appropriately",
+        "2. Differentiate between the two",
+        "3. Use American books",
+        "4. Use British books",
+        "",
+        "Tips for Consistency:",
+        "- Choose one spelling convention and stick to it",
+        "- Be aware of your audience and context",
+        "- Use dictionary to verify uncertain spellings",
+        "- Note that some words have accepted variants"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing British and American spellings",
+        "Table of common spelling differences with examples",
+        "Sample text showing both spelling conventions",
+        "Flowchart for choosing appropriate spelling convention"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English British American spelling differences SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The British spelling of color is:",
+          "opts": [
+            "color",
+            "colour",
+            "coloure",
+            "culor"
+          ],
+          "ans": 1,
+          "explanation": "British English uses our ending: colour, while American uses or: color."
+        },
+        {
+          "q": "The American spelling of centre is:",
+          "opts": [
+            "centre",
+            "center",
+            "centere",
+            "centr"
+          ],
+          "ans": 1,
+          "explanation": "American English uses er ending: center, while British uses re: centre."
+        },
+        {
+          "q": "Which pair shows correct British/American spelling?",
+          "opts": [
+            "theatre (British) / theater (American)",
+            "theater (British) / theatre (American)",
+            "theatre (both)",
+            "theater (both)"
+          ],
+          "ans": 0,
+          "explanation": "Theatre is British; theater is American."
+        },
+        {
+          "q": "The British spelling of defense is:",
+          "opts": [
+            "defense",
+            "defence",
+            "defencce",
+            "defens"
+          ],
+          "ans": 1,
+          "explanation": "British English uses ce: defence; American uses se: defense."
+        },
+        {
+          "q": "Which word has the same spelling in both British and American English?",
+          "opts": [
+            "color/colour",
+            "center/centre",
+            "program",
+            "defense/defence"
+          ],
+          "ans": 2,
+          "explanation": "Program is spelled the same in both, though British English uses programme for broadcast."
+        },
+        {
+          "q": "The American spelling of travelling is:",
+          "opts": [
+            "travelling",
+            "traveling",
+            "travling",
+            "traveling"
+          ],
+          "ans": 1,
+          "explanation": "American English typically uses one l: traveling; British uses double l: travelling."
+        },
+        {
+          "q": "When writing for an international audience, you should:",
+          "opts": [
+            "Mix both spellings randomly",
+            "Choose one convention and be consistent",
+            "Always use British spelling",
+            "Always use American spelling"
+          ],
+          "ans": 1,
+          "explanation": "Consistency within one convention is more important than which convention you choose."
+        },
+        {
+          "q": "Understanding spelling differences is important because it:",
+          "opts": [
+            "Only helps in exams",
+            "Supports clear communication in global contexts",
+            "Only for creative writing",
+            "Only for reading"
+          ],
+          "ans": 1,
+          "explanation": "Awareness of spelling conventions supports clear, professional communication in diverse contexts."
+        },
+        {
+          "q": "Which is a tip for consistent spelling?",
+          "opts": [
+            "Ignore the dictionary",
+            "Choose one convention and stick to it",
+            "Use both conventions in the same document",
+            "Avoid writing altogether"
+          ],
+          "ans": 1,
+          "explanation": "Choosing and sticking to one spelling convention ensures consistency and professionalism."
+        },
+        {
+          "q": "A common error with British/American spelling is:",
+          "opts": [
+            "Using the dictionary",
+            "Mixing conventions within the same document",
+            "Being consistent",
+            "Checking uncertain words"
+          ],
+          "ans": 1,
+          "explanation": "Mixing British and American spellings in the same document appears unprofessional and inconsistent."
+        }
+      ]
+    }
+  ]
+}

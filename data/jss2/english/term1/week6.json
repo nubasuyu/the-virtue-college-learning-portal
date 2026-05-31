@@ -1,0 +1,1015 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t1_w6_su1",
+      "title": "6.1 Reading: Reading to Understand the Author's Mood - Doubts and Disappointment",
+      "notes": [
+        "Reading for Critical Evaluation: Understanding the Author's Mood",
+        "",
+        "Key Concepts:",
+        "1. What is mood in writing?",
+        "   - The emotional atmosphere or feeling created by the writer",
+        "   - Examples: doubt, disappointment, anger, happiness, excitement",
+        "   - Example: A passage expressing doubt about election results creates uncertainty",
+        "",
+        "2. How to identify the author's mood:",
+        "   - Look for emotional words and expressions",
+        "   - Ask: How does this passage make me feel?",
+        "   - Consider the tone: serious, sarcastic, hopeful, pessimistic",
+        "   - Example: Words like 'perhaps', 'maybe', 'uncertain' suggest doubt",
+        "",
+        "3. Common moods in Nigerian passages:",
+        "   - Doubt: passages questioning policies, leadership, or outcomes",
+        "   - Disappointment: articles on failed promises, corruption, or setbacks",
+        "   - Hope: passages on youth potential, national development, progress",
+        "   - Anger: editorials on injustice, inequality, or abuse of power",
+        "",
+        "4. Strategies for identifying mood:",
+        "   - Read the passage carefully and note emotional language",
+        "   - Identify the writer's attitude toward the subject",
+        "   - Consider the context: newspaper, textbook, speech, poem",
+        "   - Ask: What emotion is the writer trying to convey?",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The State of Our Roads in Nigeria'",
+        "  - Mood: Disappointment and frustration",
+        "  - Key words: 'unfortunately', 'regrettably', 'despite promises', 'still broken'",
+        "  - Tone: Critical, concerned, hopeful for change",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how Nigerian writers express emotions through indirect language",
+        "  - Recognizing the use of proverbs and metaphors to convey mood",
+        "  - Appreciating the role of media in shaping public sentiment",
+        "",
+        "Practical Activities:",
+        "1. Mood Identification Practice:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to identify the author's mood",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Emotional Word Hunt:",
+        "   - Teacher writes passages with emotional words underlined",
+        "   - Students explain how these words signal the writer's mood",
+        "   - Practice with passages on current issues: education, health, economy",
+        "",
+        "3. Mood Writing Practice:",
+        "   - Students write short paragraphs expressing different moods",
+        "   - Example: Write a paragraph expressing doubt about a new policy",
+        "   - Peer review for clarity of mood and emotional language",
+        "",
+        "Common Misconceptions:",
+        "• 'Mood is the same as tone': Mood is the feeling created; tone is the writer's attitude",
+        "• 'Only fiction has mood': Non-fiction passages also create emotional atmospheres",
+        "• 'Mood is always obvious': Sometimes mood requires careful analysis of language",
+        "• 'Mood doesn't affect meaning': Mood influences how readers interpret the message",
+        "",
+        "Nigerian Context:",
+        "• Understanding mood helps students critically engage with Nigerian media and literature",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Mood is the emotional atmosphere created by the writer through language",
+        "• Strategies include looking for emotional words, considering tone, and analyzing context",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of these skills supports critical reading and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of common moods in writing with examples",
+        "Flowchart for identifying author's mood",
+        "Sample passage with emotional words and mood highlighted",
+        "Nigerian context: Sample passages on roads, education with mood analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading author's mood doubt disappointment site:youtube.com",
+      "quiz": [
+        {
+          "q": "Mood in writing refers to:",
+          "opts": [
+            "The writer's attitude toward the subject",
+            "The emotional atmosphere or feeling created by the writer",
+            "The main idea of the passage",
+            "The number of paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "Mood is the emotional atmosphere or feeling created by the writer through language choices."
+        },
+        {
+          "q": "Which word suggests doubt in a passage?",
+          "opts": [
+            "certainly",
+            "perhaps",
+            "definitely",
+            "always"
+          ],
+          "ans": 1,
+          "explanation": "'Perhaps' suggests doubt or uncertainty about a statement or outcome."
+        },
+        {
+          "q": "To identify the author's mood, you should:",
+          "opts": [
+            "Count the number of words",
+            "Look for emotional words and consider the tone",
+            "Only read the first sentence",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Looking for emotional words and considering tone helps you understand the writer's mood."
+        },
+        {
+          "q": "In a passage about failed promises in Nigeria, the mood is likely to be:",
+          "opts": [
+            "Joyful and celebratory",
+            "Disappointed and frustrated",
+            "Neutral and factual",
+            "Excited and optimistic"
+          ],
+          "ans": 1,
+          "explanation": "A passage about failed promises would likely express disappointment and frustration."
+        },
+        {
+          "q": "A common mistake in identifying mood is:",
+          "opts": [
+            "Looking for emotional words",
+            "Confusing mood with the main idea",
+            "Considering the tone",
+            "Reading the passage carefully"
+          ],
+          "ans": 1,
+          "explanation": "Confusing mood (emotional atmosphere) with the main idea (central message) is a common mistake."
+        },
+        {
+          "q": "The tone of a passage affects:",
+          "opts": [
+            "Only the length",
+            "How the mood is perceived by readers",
+            "Only the vocabulary",
+            "Only the grammar"
+          ],
+          "ans": 1,
+          "explanation": "Tone (writer's attitude) affects how readers perceive the mood and interpret the message."
+        },
+        {
+          "q": "Understanding mood is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with media and literature",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Understanding mood helps students critically engage with Nigerian media, literature, and public discourse."
+        },
+        {
+          "q": "Which is NOT a common mood in writing?",
+          "opts": [
+            "Doubt",
+            "Disappointment",
+            "Confusion",
+            "Hope"
+          ],
+          "ans": 2,
+          "explanation": "Confusion is not a deliberate mood writers create; common moods include doubt, disappointment, hope, anger."
+        },
+        {
+          "q": "A common misconception about mood is:",
+          "opts": [
+            "Mood is the emotional atmosphere",
+            "Mood is the same as tone",
+            "Mood can be identified through analysis",
+            "Practice improves mood identification"
+          ],
+          "ans": 1,
+          "explanation": "Mood and tone are related but different: mood is the feeling created; tone is the writer's attitude."
+        },
+        {
+          "q": "When analyzing mood, you should consider:",
+          "opts": [
+            "Only the first paragraph",
+            "Emotional language, tone, and context",
+            "Only the conclusion",
+            "Only the vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Analyzing emotional language, tone, and context helps you accurately identify the author's mood."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w6_su2",
+      "title": "6.2 Writing: Writing Points in Sequential Order with Editing",
+      "notes": [
+        "Writing: Sequential Order and Editing",
+        "",
+        "Key Concepts:",
+        "1. What is sequential order?",
+        "   - Arranging ideas or points in a logical, time-based, or cause-effect order",
+        "   - Helps readers follow your thoughts clearly",
+        "   - Example: First, I woke up. Then, I brushed my teeth. Next, I ate breakfast.",
+        "",
+        "2. Types of sequence in writing:",
+        "   - Time order: first, next, then, finally",
+        "   - Cause and effect: because, therefore, as a result",
+        "   - Order of importance: most important to least, or vice versa",
+        "   - Problem and solution: problem first, then solutions",
+        "",
+        "3. Steps for writing in sequential order:",
+        "   - Step 1: List all your ideas or points",
+        "   - Step 2: Identify the logical order (time, cause-effect, importance)",
+        "   - Step 3: Use transitional words to connect ideas",
+        "   - Step 4: Review to ensure smooth flow from one idea to the next",
+        "",
+        "4. What is editing?",
+        "   - The process of reviewing and improving your writing",
+        "   - Includes checking for: grammar, punctuation, spelling, clarity, logic",
+        "   - Example: Changing 'He go to school' to 'He goes to school'",
+        "",
+        "5. Steps for effective editing:",
+        "   - Step 1: Read your writing aloud to catch errors",
+        "   - Step 2: Check for grammar, punctuation, and spelling mistakes",
+        "   - Step 3: Ensure ideas flow logically and clearly",
+        "   - Step 4: Remove unnecessary words or repetitive points",
+        "",
+        "Nigerian Context:",
+        "• Sample sequential topic: 'How to Prepare for WAEC Exams'",
+        "  - First, create a study schedule",
+        "  - Next, gather all necessary materials",
+        "  - Then, study regularly and practice past questions",
+        "  - Finally, review and rest before the exam",
+        "",
+        "• Cultural considerations:",
+        "  - Using local examples: studying in groups, using past questions",
+        "  - Addressing issues relevant to Nigerian students: exam preparation, time management",
+        "  - Using sequence structure that supports clear communication in Nigerian English",
+        "",
+        "Practical Activities:",
+        "1. Sequence Sorting:",
+        "   - Teacher provides a list of ideas in random order for a topic",
+        "   - Students work in groups to arrange ideas in logical sequence",
+        "   - Groups present their sequences and explain their organization",
+        "",
+        "2. Editing Practice:",
+        "   - Teacher provides paragraphs with errors in grammar, punctuation, or logic",
+        "   - Students work in pairs to identify and correct the errors",
+        "   - Class discusses common mistakes and editing strategies",
+        "",
+        "3. Sequential Writing with Editing:",
+        "   - Students write a short paragraph on a Nigerian topic using sequential order",
+        "   - Focus on logical order, transitional words, and clear expression",
+        "   - Peer review for sequence clarity and editing improvements",
+        "",
+        "Common Misconceptions:",
+        "• 'Sequence means only time order': Sequence can be cause-effect, importance, or problem-solution too",
+        "• 'Editing is only for experts': Everyone can learn to edit their own writing",
+        "• 'Longer writing is better': Clear, concise, well-edited writing is more effective",
+        "• 'Editing is only about spelling': Editing also checks logic, clarity, and flow",
+        "",
+        "Nigerian Context:",
+        "• Sequential arrangement and editing support clear, organized writing for school assignments and exams",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills are foundational for essay writing, report writing, and academic success",
+        "",
+        "Conclusion:",
+        "• Sequential order arranges ideas logically for clear communication",
+        "• Editing improves writing by checking grammar, punctuation, clarity, and logic",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports academic success across all subjects"
+      ],
+      "diagramDescriptions": [
+        "Chart of sequence types: time, cause-effect, importance, problem-solution",
+        "Diagram of editing steps: read aloud, check errors, ensure flow, remove repetition",
+        "Sample sequential paragraph with transitional words highlighted",
+        "Nigerian context: Sample topics and sequence examples",
+        "Common mistakes in sequencing and editing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing sequential order editing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Sequential order in writing means:",
+          "opts": [
+            "Random arrangement of ideas",
+            "Arranging ideas in logical, time-based, or cause-effect order",
+            "Only listing facts",
+            "Only writing conclusions"
+          ],
+          "ans": 1,
+          "explanation": "Sequential order arranges ideas logically so readers can follow your thoughts clearly."
+        },
+        {
+          "q": "Which is a transitional word for time order?",
+          "opts": [
+            "however",
+            "first",
+            "because",
+            "for example"
+          ],
+          "ans": 1,
+          "explanation": "'First' is a transitional word for time order; 'however' shows contrast, 'because' shows reason."
+        },
+        {
+          "q": "Editing in writing involves:",
+          "opts": [
+            "Only checking spelling",
+            "Reviewing and improving grammar, punctuation, clarity, and logic",
+            "Only adding more words",
+            "Only changing the topic"
+          ],
+          "ans": 1,
+          "explanation": "Editing involves reviewing and improving multiple aspects of writing: grammar, punctuation, clarity, and logic."
+        },
+        {
+          "q": "In a sequential paragraph about exam preparation, you might use:",
+          "opts": [
+            "Only emotional words",
+            "Transitional words like first, next, then, finally",
+            "Only complex sentences",
+            "Only questions"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words like first, next, then, finally help show the sequence of steps in exam preparation."
+        },
+        {
+          "q": "A good editing strategy is to:",
+          "opts": [
+            "Write without reviewing",
+            "Read your writing aloud to catch errors",
+            "Only check spelling",
+            "Ignore the flow of ideas"
+          ],
+          "ans": 1,
+          "explanation": "Reading your writing aloud helps you catch errors in grammar, punctuation, and flow."
+        },
+        {
+          "q": "In Nigerian context, a sequential topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'How to Prepare for WAEC Exams'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Sequential topics in Nigerian context often address practical processes like exam preparation or daily routines."
+        },
+        {
+          "q": "Understanding sequential order and editing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, organized writing for assignments, exams, and communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Sequential order and editing skills help students write clearly and logically in academic and real-life contexts."
+        },
+        {
+          "q": "Which is NOT a step in editing?",
+          "opts": [
+            "Read your writing aloud",
+            "Check for grammar and punctuation errors",
+            "Add unnecessary words",
+            "Ensure ideas flow logically"
+          ],
+          "ans": 2,
+          "explanation": "Adding unnecessary words reduces clarity; effective editing removes repetition and improves conciseness."
+        },
+        {
+          "q": "A common misconception about editing is:",
+          "opts": [
+            "Editing is only for experts",
+            "Everyone can learn to edit their writing",
+            "Editing improves clarity and logic",
+            "Editing checks grammar and punctuation"
+          ],
+          "ans": 0,
+          "explanation": "Editing is a skill everyone can learn; it's not only for experts or professional writers."
+        },
+        {
+          "q": "When arranging ideas sequentially, you should:",
+          "opts": [
+            "Keep ideas in random order",
+            "Identify the logical order and use transitional words",
+            "Only use the first idea",
+            "Ignore the topic"
+          ],
+          "ans": 1,
+          "explanation": "Identifying logical order and using transitional words creates clear, effective sequential writing."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w6_su3",
+      "title": "6.3 Grammatical Accuracy: Adjectives - Features and Functions",
+      "notes": [
+        "Grammatical Accuracy: Adjectives - Features and Functions",
+        "",
+        "Key Concepts:",
+        "1. Review: What are adjectives?",
+        "   - Adjectives describe nouns or pronouns",
+        "   - Examples: big, red, beautiful, intelligent",
+        "   - Functions: tell what kind, which one, how many",
+        "",
+        "2. Features of adjectives:",
+        "   - Can be descriptive: beautiful, intelligent, hardworking",
+        "   - Can be quantitative: many, few, some, several",
+        "   - Can be demonstrative: this, that, these, those",
+        "   - Can be possessive: my, your, his, her, our, their",
+        "",
+        "3. Functions of adjectives in sentences:",
+        "   - Describe nouns: 'The tall boy kicked the ball.'",
+        "   - Describe pronouns: 'She is beautiful.'",
+        "   - Make writing more interesting and specific",
+        "",
+        "4. Position of adjectives in sentences:",
+        "   - Before the noun: 'The red car is fast.'",
+        "   - After linking verbs: 'The car is red.'",
+        "   - Multiple adjectives: 'The big, red, fast car'",
+        "",
+        "5. Identifying adjectives in passages:",
+        "   - Look for words that describe nouns or pronouns",
+        "   - Ask: What kind? How many? Which one?",
+        "   - Example passage:",
+        "     'Aisha bought a beautiful, red dress at the busy market.'",
+        "     Adjectives: beautiful (quality), red (colour), busy (quality)",
+        "",
+        "Nigerian Context:",
+        "• Common adjectives in Nigerian English:",
+        "  - Describing people: hardworking, respectful, intelligent, friendly",
+        "  - Describing places: busy, crowded, peaceful, modern",
+        "  - Describing food: delicious, spicy, fresh, tasty",
+        "",
+        "• Cultural considerations:",
+        "  - Respectful adjectives for addressing elders: 'respected', 'honourable'",
+        "  - Descriptive adjectives for Nigerian foods: 'spicy jollof', 'fresh garri'",
+        "  - Adjectives for Nigerian landscapes: 'lush green forests', 'busy markets'",
+        "",
+        "Practical Activities:",
+        "1. Adjective Hunt:",
+        "   - Teacher provides a short passage about a Nigerian market",
+        "   - Students underline all adjectives in different colours",
+        "   - Class discusses findings and adjective functions",
+        "",
+        "2. Adjective Sorting Game:",
+        "   - Teacher writes adjectives on cards",
+        "   - Students sort into types: descriptive, quantitative, demonstrative, possessive",
+        "   - Groups present their sorted adjectives with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive noun and adjective cards",
+        "   - In groups, they create sentences using adjectives to describe nouns",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All describing words are adjectives': Some describing words are adverbs (describe verbs)",
+        "• 'Adjectives always come before nouns': Adjectives can also come after linking verbs",
+        "• 'Only one adjective per noun': Multiple adjectives can describe one noun",
+        "• 'Adjectives are not important': Adjectives make writing more vivid and specific",
+        "",
+        "Nigerian Context:",
+        "• Understanding adjectives supports clear, descriptive communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adjectives is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adjectives are describing words that tell more about nouns or pronouns",
+        "• Features include descriptive, quantitative, demonstrative, and possessive types",
+        "• Functions include describing qualities, quantities, or pointing out specific nouns",
+        "• Mastery of adjectives supports clear, vivid communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adjective types with Nigerian examples",
+        "Diagram showing adjective positions in sentences",
+        "Sample passage with adjectives highlighted by type",
+        "Adjective sorting activity template",
+        "Nigerian context: Common adjectives in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar adjectives features functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adjective is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Describes a noun or pronoun",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adjective is a describing word that tells more about a noun or pronoun."
+        },
+        {
+          "q": "Which is an adjective?",
+          "opts": [
+            "run",
+            "beautiful",
+            "quickly",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Beautiful' is an adjective; 'run' is a verb, 'quickly' is an adverb, 'and' is a conjunction."
+        },
+        {
+          "q": "In the sentence 'Aisha bought a beautiful, red dress', 'beautiful' and 'red' are:",
+          "opts": [
+            "Nouns",
+            "Adjectives",
+            "Verbs",
+            "Adverbs"
+          ],
+          "ans": 1,
+          "explanation": "'Beautiful' and 'red' are adjectives because they describe the noun 'dress'."
+        },
+        {
+          "q": "Which type of adjective shows quantity?",
+          "opts": [
+            "Descriptive",
+            "Quantitative",
+            "Demonstrative",
+            "Possessive"
+          ],
+          "ans": 1,
+          "explanation": "Quantitative adjectives show quantity (many, few, some, several)."
+        },
+        {
+          "q": "In Nigerian context, which is a descriptive adjective?",
+          "opts": [
+            "many",
+            "spicy",
+            "this",
+            "my"
+          ],
+          "ans": 1,
+          "explanation": "'Spicy' is a descriptive adjective commonly used to describe Nigerian food like jollof rice."
+        },
+        {
+          "q": "Adjectives can be placed:",
+          "opts": [
+            "Only before nouns",
+            "Before nouns or after linking verbs",
+            "Only after verbs",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives can come before nouns ('the red car') or after linking verbs ('the car is red')."
+        },
+        {
+          "q": "Which word can function as an adjective in a sentence?",
+          "opts": [
+            "happiness",
+            "tall",
+            "quickly",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Tall' is an adjective (describes height); 'happiness' is a noun, 'quickly' is an adverb, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding adjectives is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, descriptive communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives make writing and speaking more vivid and specific, which is essential for effective communication."
+        },
+        {
+          "q": "Which is NOT a type of adjective?",
+          "opts": [
+            "Descriptive",
+            "Quantitative",
+            "Action",
+            "Possessive"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adjective; descriptive, quantitative, demonstrative, and possessive are types of adjectives."
+        },
+        {
+          "q": "A common misconception about adjectives is:",
+          "opts": [
+            "Adjectives describe nouns or pronouns",
+            "Adjectives always come before nouns",
+            "Multiple adjectives can describe one noun",
+            "Adjectives make writing more vivid"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives can come before nouns OR after linking verbs; they don't always come before nouns."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w6_su4",
+      "title": "6.4 Listening/Speaking: Diphthongs /ɔɪ/ and /ʊə/",
+      "notes": [
+        "Listening and Speaking: Diphthongs /ɔɪ/ and /ʊə/",
+        "",
+        "Key Concepts:",
+        "1. Understanding diphthongs:",
+        "   - Diphthongs are vowel sounds that glide from one vowel to another",
+        "   - /ɔɪ/ as in oil, boil, foil, coin, join",
+        "   - /ʊə/ as in tour, sure, pure, cure, endure",
+        "",
+        "2. Importance of distinguishing diphthongs:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'boil' /bɔɪl/ vs 'bull' /bʊl/ - different meanings!",
+        "",
+        "3. Common word pairs for practice:",
+        "   - /ɔɪ/ vs /ʊə/: oil/ure, boil/pure, foil/cure",
+        "   - Minimal pairs help learners distinguish between similar vowel sounds",
+        "",
+        "4. Listening strategies for diphthongs:",
+        "   - Focus on the speaker: listen carefully to vowel glide",
+        "   - Listen for minimal pairs: words that differ only in diphthong sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say oil or ure?'",
+        "",
+        "5. Speaking strategies for diphthongs:",
+        "   - Practice vowel glide: /ɔɪ/ glides from /ɔ/ to /ɪ/; /ʊə/ glides from /ʊ/ to /ə/",
+        "   - Use minimal pairs for practice: oil/ure, boil/pure",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on diphthong clarity",
+        "",
+        "Nigerian Context:",
+        "• Common diphthong challenges for Nigerian speakers:",
+        "  - Confusing /ɔɪ/ and /ʊə/: 'oil' vs 'ure'",
+        "  - Difficulty with vowel glide in diphthongs",
+        "  - Influence of native language vowel systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Cooking': 'I need oil for the soup' (clear /ɔɪ/)",
+        "  - 'Health': 'This medicine will cure you' (clear /ʊə/)",
+        "  - 'Travel': 'We took a tour of the city' (clear /ʊə/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear diphthong sounds in multilingual Nigerian classrooms",
+        "  - Importance of diphthong clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar diphthong sounds",
+        "",
+        "Practical Activities:",
+        "1. Diphthong Sound Drill:",
+        "   - Teacher models /ɔɪ/ and /ʊə/ with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: oil/ure, boil/pure, foil/cure",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with /ɔɪ/ or /ʊə/",
+        "   - Students raise hands for /ɔɪ/, stand for /ʊə/",
+        "   - Practice with Nigerian-relevant words: 'oil' (cooking) vs 'cure' (medicine)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with /ɔɪ/ and /ʊə/",
+        "   - Focus on clear vowel glide",
+        "   - Peer feedback on diphthong clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Diphthongs don't matter in Nigerian English': Incorrect diphthong sounds can change word meanings",
+        "• 'All English vowels are the same as in my language': English vowel system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct diphthongs': With practice, anyone can improve diphthong pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear diphthong pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has diphthong sounds /ɔɪ/ and /ʊə/ that affect word meaning",
+        "• Listening strategies help you distinguish between similar diphthong sounds",
+        "• Speaking strategies help you pronounce diphthongs clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of diphthong sounds /ɔɪ/ and /ʊə/ with example words",
+        "Diagram of mouth positions for each diphthong sound",
+        "Sample minimal pairs practice: oil/ure, boil/pure, foil/cure",
+        "Listening strategy flowchart: Focus, Listen for vowel glide, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for diphthong practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English diphthongs /ɔɪ/ /ʊə/ pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Diphthongs are:",
+          "opts": [
+            "Single vowel sounds",
+            "Vowel sounds that glide from one vowel to another",
+            "Only consonant sounds",
+            "Only used in poetry"
+          ],
+          "ans": 1,
+          "explanation": "Diphthongs are vowel sounds that glide from one vowel position to another within the same syllable."
+        },
+        {
+          "q": "The word 'oil' has the diphthong sound:",
+          "opts": [
+            "/ʊə/",
+            "/ɔɪ/",
+            "/i:/",
+            "/a:/"
+          ],
+          "ans": 1,
+          "explanation": "'Oil' has the diphthong sound /ɔɪ/; 'cure' has /ʊə/."
+        },
+        {
+          "q": "Correct diphthong pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct diphthong sounds prevent confusion between words like 'oil' and 'cure' which have different meanings."
+        },
+        {
+          "q": "When listening for diphthongs, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for vowel glide",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for vowel glide helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common diphthong challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/ɔɪ/ and /ʊə/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /ɔɪ/ (as in 'oil') and /ʊə/ (as in 'cure')."
+        },
+        {
+          "q": "A good speaking strategy for diphthongs is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice vowel glide with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing vowel glide with minimal pairs (oil/ure) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different diphthong sounds?",
+          "opts": [
+            "oil/cure",
+            "oil/oil",
+            "cure/cure",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Oil' has /ɔɪ/; 'cure' has /ʊə/ - different diphthong sounds change the word meaning."
+        },
+        {
+          "q": "Understanding diphthongs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear diphthong pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a diphthong sound?",
+          "opts": [
+            "/a:/",
+            "/ɔɪ/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/ɔɪ/ is a diphthong sound; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about diphthongs is:",
+          "opts": [
+            "Diphthong sounds can change word meaning",
+            "All English vowels are the same as in my language",
+            "Practice improves diphthong pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English diphthong sounds are unique and may differ from vowels in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w6_su5",
+      "title": "6.5 Literature: Writing a Short Poem",
+      "notes": [
+        "Literature: Writing a Short Poem",
+        "",
+        "Key Concepts:",
+        "1. What is a poem?",
+        "   - A piece of writing that uses concise, unique, and high language",
+        "   - Often uses rhythm, rhyme, imagery, and figurative language",
+        "   - Example: A short poem about hope in difficult times",
+        "",
+        "2. Features of poetry:",
+        "   - Concise language: few words convey deep meaning",
+        "   - Unique expression: creative use of words and images",
+        "   - High language: elevated, artistic, or symbolic expression",
+        "   - Rhythm and rhyme: musical quality in some poems",
+        "",
+        "3. Types of short poems:",
+        "   - Haiku: three lines with 5-7-5 syllable pattern",
+        "   - Limerick: five lines with AABBA rhyme scheme",
+        "   - Free verse: no fixed rhyme or rhythm pattern",
+        "   - Couplet: two lines that rhyme and express a complete thought",
+        "",
+        "4. Steps for writing a short poem:",
+        "   - Step 1: Choose a topic or theme (e.g., hope, nature, family)",
+        "   - Step 2: Brainstorm images, words, and feelings related to the topic",
+        "   - Step 3: Decide on a poem type and structure",
+        "   - Step 4: Write a draft using concise, unique, and high language",
+        "   - Step 5: Revise for rhythm, imagery, and impact",
+        "",
+        "5. Tips for effective poetry writing:",
+        "   - Use sensory details: sight, sound, smell, taste, touch",
+        "   - Show, don't just tell: use images and metaphors",
+        "   - Keep it concise: every word should matter",
+        "   - Read aloud to check rhythm and flow",
+        "",
+        "Nigerian Context:",
+        "• Sample poem topics for Nigerian students:",
+        "  - 'Hope in Hard Times': resilience during economic challenges",
+        "  - 'My Village': memories of rural life and community",
+        "  - 'The Market': sights, sounds, and smells of a bustling market",
+        "  - 'Unity in Diversity': celebrating Nigeria's many cultures",
+        "",
+        "• Cultural considerations:",
+        "  - Including local imagery: markets, festivals, landscapes, proverbs",
+        "  - Using culturally appropriate expressions and metaphors",
+        "  - Addressing themes relevant to Nigerian youth: hope, identity, community",
+        "",
+        "Practical Activities:",
+        "1. Poem Analysis:",
+        "   - Teacher provides a short Nigerian poem",
+        "   - Students identify features: concise language, imagery, theme",
+        "   - Class discusses how the poem creates meaning through poetry",
+        "",
+        "2. Brainstorming Session:",
+        "   - Teacher provides a topic relevant to Nigerian life",
+        "   - Students brainstorm images, words, and feelings",
+        "   - Students choose a poem type and structure",
+        "",
+        "3. Poem Writing and Sharing:",
+        "   - Students write a short poem on a chosen topic",
+        "   - Focus on concise, unique, and high language",
+        "   - Share poems with class for feedback on imagery and impact",
+        "",
+        "Common Misconceptions:",
+        "• 'Poetry must rhyme': Many effective poems use free verse without rhyme",
+        "• 'Poetry is only for experts': Everyone can write poetry with practice",
+        "• 'Poetry is only about feelings': Poetry can also explore ideas, events, and social issues",
+        "• 'Longer poems are better': Effective poetry is often concise and powerful",
+        "",
+        "Nigerian Context:",
+        "• Writing poetry supports creative expression and cultural appreciation for Nigerian students",
+        "• Practice with local topics enhances relevance and retention",
+        "• Poetry skills develop critical thinking, imagery, and language mastery",
+        "",
+        "Conclusion:",
+        "• Poetry uses concise, unique, and high language to convey meaning",
+        "• Features include imagery, rhythm, figurative language, and emotional depth",
+        "• Nigerian poetry reflects rich cultural traditions with universal themes",
+        "• Mastery of poetry writing supports creative expression and literary appreciation"
+      ],
+      "diagramDescriptions": [
+        "Chart of poetry features: concise language, unique expression, high language",
+        "Diagram of short poem types: haiku, limerick, free verse, couplet",
+        "Sample short poem with features highlighted",
+        "Nigerian context: Sample poem topics and cultural considerations",
+        "Common mistakes in poetry writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature writing short poem site:youtube.com",
+      "quiz": [
+        {
+          "q": "A poem is:",
+          "opts": [
+            "Only a long story",
+            "A piece of writing that uses concise, unique, and high language",
+            "Only a list of facts",
+            "Only a scientific report"
+          ],
+          "ans": 1,
+          "explanation": "A poem uses concise, unique, and high language to convey meaning through imagery and emotion."
+        },
+        {
+          "q": "Which is a feature of poetry?",
+          "opts": [
+            "Only rhyming words",
+            "Concise language, unique expression, high language",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Poetry features concise language, unique expression, and high language to create meaning."
+        },
+        {
+          "q": "The first step in writing a short poem is to:",
+          "opts": [
+            "Write the conclusion",
+            "Choose a topic or theme",
+            "Start with the middle",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a topic or theme is the first step before brainstorming and writing the poem."
+        },
+        {
+          "q": "In a short poem, 'concise language' means:",
+          "opts": [
+            "Using many words",
+            "Using few words to convey deep meaning",
+            "Only using simple words",
+            "Only using complex words"
+          ],
+          "ans": 1,
+          "explanation": "Concise language in poetry means using few words to convey deep meaning effectively."
+        },
+        {
+          "q": "A good tip for poetry writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use sensory details and show, don't just tell",
+            "Only use simple words",
+            "Ignore rhythm and flow"
+          ],
+          "ans": 1,
+          "explanation": "Using sensory details and showing through images makes poetry more vivid and engaging."
+        },
+        {
+          "q": "In Nigerian context, a poem topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Hope in Hard Times' or 'My Village'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Poem topics in Nigerian context often address local experiences like hope, community, or cultural identity."
+        },
+        {
+          "q": "Understanding poetry is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports creative expression, cultural appreciation, and language mastery",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Poetry skills help students express themselves creatively, appreciate culture, and master language."
+        },
+        {
+          "q": "Which is NOT a type of short poem?",
+          "opts": [
+            "Haiku",
+            "Limerick",
+            "Scientific report",
+            "Free verse"
+          ],
+          "ans": 2,
+          "explanation": "'Scientific report' is not a type of poem; haiku, limerick, and free verse are types of short poems."
+        },
+        {
+          "q": "A common misconception about poetry is:",
+          "opts": [
+            "Poetry must rhyme",
+            "Poetry uses concise, unique language",
+            "Poetry can explore ideas and feelings",
+            "Poetry develops language skills"
+          ],
+          "ans": 0,
+          "explanation": "Many effective poems use free verse without rhyme; rhyme is not required for poetry."
+        },
+        {
+          "q": "When writing poetry, you should:",
+          "opts": [
+            "Ignore sensory details",
+            "Use images and metaphors to show meaning",
+            "Only use complex words",
+            "Skip revision"
+          ],
+          "ans": 1,
+          "explanation": "Using images and metaphors helps show meaning through poetry rather than just telling."
+        }
+      ]
+    }
+  ]
+}

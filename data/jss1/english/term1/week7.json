@@ -1,0 +1,827 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t1_w7_su1",
+      "title": "7.1 Reading: Answering Knowledge Level Questions",
+      "notes": [
+        "Reading: Answering Knowledge Level Questions",
+        "",
+        "Key Concepts:",
+        "1. What are knowledge level questions?",
+        "   - Questions that ask for facts directly stated in the passage",
+        "   - Answers can be found by looking at the text",
+        "   - Example: 'What is the capital of Nigeria?' (Answer: Abuja)",
+        "",
+        "2. Types of knowledge level questions:",
+        "   - Who questions: Ask about people",
+        "   - What questions: Ask about things or events",
+        "   - When questions: Ask about time",
+        "   - Where questions: Ask about place",
+        "   - How many/much questions: Ask about quantity",
+        "",
+        "3. How to answer knowledge level questions:",
+        "   - Read the question carefully",
+        "   - Look for keywords in the question",
+        "   - Scan the passage for those keywords",
+        "   - Find the exact answer in the text",
+        "",
+        "4. Strategies for answering knowledge questions:",
+        "   - Underline keywords in the question",
+        "   - Use the '5 Ws and H' method: Who, What, When, Where, Why, How",
+        "   - Look for direct statements in the passage",
+        "   - Copy the answer exactly as stated (if required)",
+        "",
+        "5. Common topics for practice:",
+        "   - School life and activities",
+        "   - Family and community",
+        "   - Health and safety",
+        "   - Nigerian culture and traditions",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'A Day at School in Nigeria'",
+        "  - Knowledge question: 'What time does school start?'",
+        "  - Answer in passage: 'School starts at 7:30 a.m.'",
+        "  - Practice: Students find and copy the exact answer",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local school routines and practices",
+        "  - Recognizing how knowledge questions test basic comprehension",
+        "  - Appreciating how these skills support exam preparation",
+        "",
+        "Practical Activities:",
+        "1. Keyword Hunt:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to underline keywords in questions",
+        "   - Groups scan passages to find exact answers",
+        "",
+        "2. Question Practice:",
+        "   - Teacher reads a passage aloud",
+        "   - Students answer knowledge-level questions",
+        "   - Class discusses how to find answers in the text",
+        "",
+        "3. Passage Analysis:",
+        "   - Students read a passage silently",
+        "   - Answer knowledge questions individually",
+        "   - Peer review for accuracy of answers",
+        "",
+        "Common Misconceptions:",
+        "• 'Knowledge questions require inference': Knowledge questions ask for facts directly stated",
+        "• 'All questions are knowledge level': Questions can be knowledge, translation, interpretation, etc.",
+        "• 'Answers must be in your own words': Knowledge answers can be copied exactly from text",
+        "• 'Knowledge questions are easy': They require careful reading and attention to detail",
+        "",
+        "Nigerian Context:",
+        "• Answering knowledge questions helps students succeed in Nigerian school examinations",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Knowledge level questions ask for facts directly stated in passages",
+        "• Strategies include reading carefully, looking for keywords, and finding exact answers",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of these skills supports reading comprehension and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of knowledge question types with examples",
+        "Flowchart for answering knowledge questions",
+        "Sample passage with knowledge questions and answers highlighted",
+        "Nigerian context: Sample passage on school life with knowledge questions",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading knowledge level questions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Knowledge level questions ask for:",
+          "opts": [
+            "Personal opinions",
+            "Facts directly stated in the passage",
+            "Predictions about the future",
+            "Hidden meanings"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge questions ask for facts that are directly stated in the passage and can be found by looking at the text."
+        },
+        {
+          "q": "Which is a knowledge level question?",
+          "opts": [
+            "What do you think about the story?",
+            "What is the capital of Nigeria?",
+            "How would you feel if you were the character?",
+            "What might happen next?"
+          ],
+          "ans": 1,
+          "explanation": "'What is the capital of Nigeria?' asks for a fact directly stated in a passage about Nigeria."
+        },
+        {
+          "q": "To answer a knowledge question, you should:",
+          "opts": [
+            "Guess based on your opinion",
+            "Look for the exact answer in the passage",
+            "Write whatever you think",
+            "Skip the question"
+          ],
+          "ans": 1,
+          "explanation": "Looking for the exact answer in the passage is the best strategy for knowledge questions."
+        },
+        {
+          "q": "In a passage about school in Nigeria, a knowledge answer might be:",
+          "opts": [
+            "Opinion: 'I think school is fun.'",
+            "Fact: 'School starts at 7:30 a.m.'",
+            "Prediction: 'School will end early today.'",
+            "Hidden meaning: 'The author is sad about school.'"
+          ],
+          "ans": 1,
+          "explanation": "'School starts at 7:30 a.m.' is a fact directly stated in the passage."
+        },
+        {
+          "q": "A common mistake in answering knowledge questions is:",
+          "opts": [
+            "Looking for keywords",
+            "Answering from personal opinion instead of the text",
+            "Scanning the passage",
+            "Copying the exact answer"
+          ],
+          "ans": 1,
+          "explanation": "Answering from personal opinion instead of the text is a common mistake for knowledge questions."
+        },
+        {
+          "q": "To check if your answer is correct, you should:",
+          "opts": [
+            "Make it longer",
+            "Ensure it matches the exact words in the passage",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge answers should match the exact words or facts stated in the passage."
+        },
+        {
+          "q": "Understanding knowledge questions is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in school examinations and daily comprehension",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge question skills help students succeed in school examinations and comprehend daily texts."
+        },
+        {
+          "q": "Which is NOT a type of knowledge question?",
+          "opts": [
+            "Who questions",
+            "What questions",
+            "Why do you think...?",
+            "When questions"
+          ],
+          "ans": 2,
+          "explanation": "'Why do you think...?' asks for opinion or inference, not a directly stated fact."
+        },
+        {
+          "q": "A common misconception about knowledge questions is:",
+          "opts": [
+            "Knowledge questions ask for facts directly stated",
+            "Knowledge questions require inference",
+            "Answers can be copied exactly from text",
+            "Practice improves question answering"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge questions do not require inference; they ask for facts directly stated in the passage."
+        },
+        {
+          "q": "When answering knowledge questions, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Look for keywords and find the exact answer",
+            "Make up any story",
+            "Copy the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Looking for keywords and finding the exact answer is the correct strategy for knowledge questions."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w7_su2",
+      "title": "7.2 Grammar: Adverbs - Continued Practice",
+      "notes": [
+        "Grammar: Adverbs - Continued Practice",
+        "",
+        "Key Concepts:",
+        "1. Review: What are adverbs?",
+        "   - Words that modify verbs, adjectives, or other adverbs",
+        "   - Tell how, when, where, why, or to what extent an action is done",
+        "   - Examples: quickly (how), yesterday (when), here (where), very (extent)",
+        "",
+        "2. Review: Types of adverbs:",
+        "   a) Adverbs of manner: describe how an action is done",
+        "      - Examples: carefully, respectfully, diligently, wisely",
+        "   b) Adverbs of time: describe when an action is done",
+        "      - Examples: now, then, yesterday, tomorrow, recently",
+        "   c) Adverbs of place: describe where an action is done",
+        "      - Examples: here, there, everywhere, in Nigeria, at home",
+        "   d) Adverbs of degree: describe to what extent",
+        "      - Examples: very, quite, too, extremely, almost",
+        "",
+        "3. Functions of adverbs in sentences:",
+        "   - Modify verbs: 'The boy runs quickly.'",
+        "   - Modify adjectives: 'She is very intelligent.'",
+        "   - Modify other adverbs: 'He runs extremely quickly.'",
+        "   - Add detail and precision to communication",
+        "",
+        "4. Identifying adverbs in passages:",
+        "   - Look for words ending in -ly (but not always)",
+        "   - Ask: How? When? Where? To what extent?",
+        "   - Example passage:",
+        "     'Aisha carefully crossed the busy road yesterday. She arrived very early at school.'",
+        "     Adverbs: carefully (manner), yesterday (time), very (degree), early (time)",
+        "",
+        "5. Making sentences with adverbs:",
+        "   - Start with a subject + verb: 'The students study.'",
+        "   - Add adverbs for detail: 'The students study diligently.'",
+        "   - Use multiple adverbs: 'The students study very diligently every day.'",
+        "",
+        "Nigerian Context:",
+        "• Common adverbs in Nigerian English:",
+        "  - Manner: respectfully, diligently, wisely, patriotically",
+        "  - Time: now, always, tomorrow, recently, yesterday",
+        "  - Place: here, there, in Nigeria, at school, in the community",
+        "  - Degree: very, quite, too, extremely",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbs to describe actions in Nigerian contexts",
+        "  - Adverbs for value discussions: 'respectfully', 'diligently', 'wisely'",
+        "  - Adverbs for national development: 'very important', 'extremely necessary'",
+        "",
+        "Practical Activities:",
+        "1. Adverb Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all adverbs in different colors by type",
+        "   - Class discusses findings and adverb functions",
+        "",
+        "2. Adverb Sorting Game:",
+        "   - Teacher writes adverbs on cards",
+        "   - Students sort into types: manner, time, place, degree",
+        "   - Groups present their sorted adverbs with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive verb/adjective cards and adverb cards",
+        "   - In groups, they create sentences using adverbs correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All -ly words are adverbs': Some adjectives also end in -ly (friendly, lovely)",
+        "• 'Adverbs only modify verbs': Adverbs can also modify adjectives and other adverbs",
+        "• 'Only one adverb per sentence': Sentences can have multiple adverbs",
+        "• 'Adverbs are not important': Adverbs add precision and detail to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbs supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adverbs is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbs modify verbs, adjectives, or other adverbs to add detail",
+        "• Types include manner, time, place, and degree adverbs",
+        "• Functions include describing how, when, where, or to what extent actions happen",
+        "• Mastery of adverbs supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverb types with Nigerian examples",
+        "Diagram showing adverb positions in sentences",
+        "Sample passage with adverbs highlighted by type",
+        "Adverb sorting activity template",
+        "Nigerian context: Common adverbs in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar adverbs practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverb is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverb modifies verbs, adjectives, or other adverbs to add detail about how, when, where, or to what extent."
+        },
+        {
+          "q": "Which is an adverb of manner?",
+          "opts": [
+            "yesterday",
+            "diligently",
+            "here",
+            "very"
+          ],
+          "ans": 1,
+          "explanation": "'Diligently' is an adverb of manner; 'yesterday' is time, 'here' is place, 'very' is degree."
+        },
+        {
+          "q": "In the sentence 'She sings beautifully', 'beautifully' is an adverb that modifies:",
+          "opts": [
+            "She",
+            "sings",
+            "the sentence",
+            "nothing"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' modifies the verb 'sings' by telling how she sings."
+        },
+        {
+          "q": "Which type of adverb describes to what extent?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Degree"
+          ],
+          "ans": 3,
+          "explanation": "Adverbs of degree describe to what extent (very, quite, too, extremely)."
+        },
+        {
+          "q": "In Nigerian context, which is an adverb of manner?",
+          "opts": [
+            "now",
+            "respectfully",
+            "here",
+            "very"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverb of manner commonly used in Nigerian English to describe how actions are done."
+        },
+        {
+          "q": "Adverbs can be placed:",
+          "opts": [
+            "Only after verbs",
+            "After verbs, before adjectives, or at sentence beginning/end",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs can come after verbs ('sings beautifully'), before adjectives ('very hot'), or at sentence beginning/end ('Yesterday, we went')."
+        },
+        {
+          "q": "Which word can function as an adverb in a sentence?",
+          "opts": [
+            "beauty",
+            "beautifully",
+            "beautiful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' is an adverb (modifies how an action is done); 'beauty' is a noun, 'beautiful' is an adjective, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding adverbs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs add precision and detail to communication, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverb?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Degree"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverb; manner, time, place, and degree are types of adverbs."
+        },
+        {
+          "q": "A common misconception about adverbs is:",
+          "opts": [
+            "Adverbs modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbs",
+            "Adverbs add precision to communication",
+            "Adverbs can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbs; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w7_su3",
+      "title": "7.3 Listening/Speaking: Listening to Speeches on School and Places of Worship",
+      "notes": [
+        "Listening and Speaking: Listening to Speeches on School and Places of Worship",
+        "",
+        "Key Concepts:",
+        "1. What is listening comprehension?",
+        "   - The ability to understand spoken language",
+        "   - Involves hearing, processing, and responding to speech",
+        "   - Example: Listening to a teacher's instructions and following them",
+        "",
+        "2. Topics for listening practice:",
+        "   a) The school:",
+        "      - School routines, subjects, activities",
+        "      - Teachers, students, classrooms",
+        "      - Example: 'We learn English, Mathematics, and Science at school.'",
+        "   b) Places of worship:",
+        "      - Churches, mosques, shrines",
+        "      - Religious practices, values, and community",
+        "      - Example: 'We pray at the mosque every Friday.'",
+        "",
+        "3. Strategies for listening comprehension:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for key words and main ideas",
+        "   - Note the context: What is the speech about?",
+        "   - Ask questions if you don't understand",
+        "",
+        "4. How to respond to listening comprehension:",
+        "   - Summarize the main idea in your own words",
+        "   - Answer questions about the speech",
+        "   - Connect the speech to your own experiences",
+        "   - Discuss the speech with classmates or teacher",
+        "",
+        "Nigerian Context:",
+        "• Sample listening topic: 'A Day at School in Nigeria'",
+        "  - Main idea: School life in Nigeria involves learning, discipline, and community",
+        "  - Supporting ideas:",
+        "    * Students learn subjects like English, Mathematics, and Science",
+        "    * Teachers guide students with respect and care",
+        "    * School activities include sports, clubs, and cultural events",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the importance of education in Nigerian culture",
+        "  - Recognizing the role of places of worship in community life",
+        "  - Appreciating how listening skills support academic and social success",
+        "",
+        "Practical Activities:",
+        "1. Listening Practice:",
+        "   - Teacher reads a short speech on school or places of worship",
+        "   - Students listen and identify the main idea",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "2. Key Word Identification:",
+        "   - Teacher plays a recorded speech",
+        "   - Students write down key words they hear",
+        "   - Class compares lists and discusses which words are most important",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech on 'My School' or 'My Place of Worship'",
+        "   - Focus on clear pronunciation and main ideas",
+        "   - Peer feedback on clarity and content",
+        "",
+        "Common Misconceptions:",
+        "• 'Listening means hearing every word': Listening comprehension focuses on main ideas, not every word",
+        "• 'Only native speakers understand speeches': With practice, anyone can improve listening skills",
+        "• 'Listening is passive': Active listening involves thinking, noting, and responding",
+        "• 'Listening skills are only for exams': Listening supports learning in all subjects and daily life",
+        "",
+        "Nigerian Context:",
+        "• Listening comprehension helps students understand teachers, peers, and media in Nigeria",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school and community participation",
+        "",
+        "Conclusion:",
+        "• Listening comprehension is the ability to understand spoken language",
+        "• Strategies include focusing on the speaker, noting key words, and asking questions",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports academic success and social communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of listening comprehension strategies with examples",
+        "Flowchart for listening to speeches on school and worship",
+        "Sample speech with key words and main idea highlighted",
+        "Nigerian context: Sample speeches on school and places of worship",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English listening comprehension school worship site:youtube.com",
+      "quiz": [
+        {
+          "q": "Listening comprehension is:",
+          "opts": [
+            "Only hearing sounds",
+            "The ability to understand spoken language",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension is the ability to understand spoken language, involving hearing, processing, and responding."
+        },
+        {
+          "q": "A topic for listening practice is:",
+          "opts": [
+            "Only foreign issues",
+            "The school or places of worship",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Listening practice topics in Nigerian context often address local experiences like school life and places of worship."
+        },
+        {
+          "q": "A strategy for listening comprehension is to:",
+          "opts": [
+            "Ignore the speaker",
+            "Focus on the speaker and listen for key words",
+            "Only write down every word",
+            "Focus on minor details"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for key words helps you understand the main ideas."
+        },
+        {
+          "q": "In a speech about school in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about one subject",
+            "School life in Nigeria involves learning, discipline, and community",
+            "Only about foreign schools",
+            "Only about school buildings"
+          ],
+          "ans": 1,
+          "explanation": "A speech about school in Nigeria would likely emphasize learning, discipline, and community."
+        },
+        {
+          "q": "A common mistake in listening comprehension is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Trying to hear every word instead of main ideas",
+            "Noting key words",
+            "Asking questions if unsure"
+          ],
+          "ans": 1,
+          "explanation": "Trying to hear every word instead of focusing on main ideas is a common mistake."
+        },
+        {
+          "q": "To respond to a listening comprehension speech, you should:",
+          "opts": [
+            "Ignore it",
+            "Summarize the main idea and answer questions",
+            "Only repeat it exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing the main idea and answering questions shows understanding and engagement."
+        },
+        {
+          "q": "Understanding listening comprehension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports understanding of teachers, peers, and media in Nigeria",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension helps students understand teachers, peers, and media in academic and social contexts."
+        },
+        {
+          "q": "Which is NOT a strategy for listening comprehension?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for key words",
+            "Ignore the context",
+            "Ask questions if unsure"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; noting context helps understand the speech."
+        },
+        {
+          "q": "A common misconception about listening is:",
+          "opts": [
+            "Listening comprehension is understanding spoken language",
+            "Listening means hearing every word",
+            "Active listening involves thinking and responding",
+            "Practice improves listening skills"
+          ],
+          "ans": 1,
+          "explanation": "Listening comprehension focuses on main ideas, not hearing every word."
+        },
+        {
+          "q": "When listening for main ideas, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note the speaker's emphasis and key words",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting the speaker's emphasis and key words helps you identify the main ideas."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w7_su4",
+      "title": "7.4 Literature: Features and Themes of Myths and Legends - Magic",
+      "notes": [
+        "Literature: Features and Themes of Myths and Legends - Magic",
+        "",
+        "Key Concepts:",
+        "1. What is magic in myths and legends?",
+        "   - Supernatural powers or events that cannot be explained by natural laws",
+        "   - Often used to teach moral lessons or explain natural phenomena",
+        "   - Example: A character who can change into different animals",
+        "",
+        "2. Features of magic in myths and legends:",
+        "   - Talking animals or objects",
+        "   - Supernatural powers or transformations",
+        "   - Magical helpers or enemies",
+        "   - Example: A magic object that grants wishes or causes transformations",
+        "",
+        "3. How magic serves the story:",
+        "   - Creates excitement and wonder",
+        "   - Teaches moral lessons through consequences",
+        "   - Explains natural phenomena in symbolic ways",
+        "   - Example: Magic shows that greed leads to downfall",
+        "",
+        "4. How to identify magic in myths and legends:",
+        "   - Look for supernatural elements: talking animals, magical powers",
+        "   - Note transformations: characters changing form",
+        "   - Ask: What magical events happen in the story?",
+        "   - Consider: How does magic teach a lesson?",
+        "",
+        "5. Why study magic in myths and legends?",
+        "   - To appreciate the art of storytelling",
+        "   - To understand how culture is preserved through magical tales",
+        "   - To improve your own storytelling and creative writing",
+        "   - To develop critical thinking about how stories engage audiences",
+        "",
+        "Nigerian Context:",
+        "• Magic in Nigerian myths and legends:",
+        "  - Yoruba: Stories of Orisha with supernatural powers",
+        "  - Igbo: Legends of magical beings and transformations",
+        "  - Hausa: Tales of magical helpers and enemies",
+        "",
+        "• Sample magical features in Nigerian context:",
+        "  - Talking animals: Tortoise speaking like a human",
+        "  - Magical objects: A charm that grants wishes",
+        "  - Transformations: A person changing into an animal",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for elders as keepers of oral traditions",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, identity, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Magic Feature Identification:",
+        "   - Teacher narrates a Nigerian myth or legend",
+        "   - Students work in pairs to identify magical elements",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "2. Dramatization:",
+        "   - Students work in groups to dramatize a myth/legend",
+        "   - Focus on bringing out magical elements",
+        "   - Perform for class with emphasis on engaging storytelling",
+        "",
+        "3. Creative Storytelling:",
+        "   - Students create a short myth/legend with magical features",
+        "   - Focus on magical elements and clear moral lesson",
+        "   - Share stories with class for feedback on features",
+        "",
+        "Common Misconceptions:",
+        "• 'Magic makes tales unrealistic': Magical elements help convey deeper truths in memorable ways",
+        "• 'Only African tales have magic': Myths and legends from all cultures contain magical elements",
+        "• 'Magic is only for entertainment': Magical tales also teach moral lessons and preserve culture",
+        "• 'Magic must be believed literally': Magic is symbolic and teaches through metaphor",
+        "",
+        "Nigerian Context:",
+        "• Understanding magic in myths helps students appreciate Nigerian storytelling traditions",
+        "• Practice with local tales enhances cultural pride and literary appreciation",
+        "• Analyzing magical features develops critical thinking and creative writing skills",
+        "",
+        "Conclusion:",
+        "• Magic in myths and legends includes supernatural powers, transformations, and magical objects",
+        "• Features create excitement, teach lessons, and explain phenomena symbolically",
+        "• Nigerian myths reflect rich cultural traditions with universal themes",
+        "• Mastery of feature analysis supports literary appreciation and creative expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of magical features with Nigerian examples",
+        "Diagram of how magic serves the story",
+        "Sample Nigerian myth/legend with magical features highlighted",
+        "Nigerian context: Famous Nigerian myths/legends and their magical elements",
+        "Activity template: Magic feature identification and creative storytelling"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature myths legends magic Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Magic in myths and legends is:",
+          "opts": [
+            "Only realistic events",
+            "Supernatural powers or events that cannot be explained by natural laws",
+            "Only scientific facts",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Magic in myths and legends refers to supernatural powers or events that cannot be explained by natural laws."
+        },
+        {
+          "q": "A feature of magic in myths is:",
+          "opts": [
+            "Only realistic dialogue",
+            "Talking animals or supernatural powers",
+            "Only historical accuracy",
+            "Only modern settings"
+          ],
+          "ans": 1,
+          "explanation": "Magic features include talking animals, supernatural powers, transformations, and magical objects."
+        },
+        {
+          "q": "How magic serves the story:",
+          "opts": [
+            "Only entertains",
+            "Creates excitement, teaches lessons, and explains phenomena",
+            "Only confuses the reader",
+            "Only makes stories longer"
+          ],
+          "ans": 1,
+          "explanation": "Magic creates excitement, teaches moral lessons, and explains natural phenomena in symbolic ways."
+        },
+        {
+          "q": "In Nigerian context, a magical feature might be:",
+          "opts": [
+            "Only foreign magic",
+            "Talking animals like Tortoise speaking like a human",
+            "Only scientific magic",
+            "Only historical magic"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian myths often feature talking animals like Tortoise who speak and reason like humans."
+        },
+        {
+          "q": "To identify magic in a myth, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What supernatural elements appear in the story?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking about supernatural elements helps you identify magical features in myths and legends."
+        },
+        {
+          "q": "A common feature in Nigerian myths is:",
+          "opts": [
+            "Only foreign cultures",
+            "Talking animals, magical objects, and transformations",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian myths often feature talking animals, magical objects, and transformations that reflect cultural values."
+        },
+        {
+          "q": "Understanding magic in myths is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops creativity, and improves storytelling skills",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding magic in myths helps students appreciate their heritage, develop creativity, and improve storytelling skills."
+        },
+        {
+          "q": "Which is NOT a feature of magic in myths?",
+          "opts": [
+            "Talking animals",
+            "Supernatural powers",
+            "Realistic dialogue only",
+            "Magical transformations"
+          ],
+          "ans": 2,
+          "explanation": "Realistic dialogue only is not a feature of magic; talking animals, supernatural powers, and transformations are."
+        },
+        {
+          "q": "A common misconception about magic in myths is:",
+          "opts": [
+            "Magic creates excitement and teaches lessons",
+            "Magic makes tales unrealistic",
+            "Magic can teach moral lessons",
+            "Magic is symbolic and metaphorical"
+          ],
+          "ans": 1,
+          "explanation": "Magic does not make tales unrealistic; it helps convey deeper truths in memorable and engaging ways."
+        },
+        {
+          "q": "When analyzing magic in myths, you should:",
+          "opts": [
+            "Ignore the supernatural elements",
+            "Identify magical features and consider how they teach lessons",
+            "Only focus on realistic parts",
+            "Skip the moral lesson"
+          ],
+          "ans": 1,
+          "explanation": "Identifying magical features and considering how they teach lessons helps you understand and appreciate the myth."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1070 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 1,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w1_su1",
+      "title": "1.1 Speech: Intonation Patterns – Rising and Falling Tones",
+      "notes": [
+        "Intonation Patterns in English:",
+        "• Definition: Intonation is the rise and fall of pitch in speech that conveys meaning, attitude, and emotion",
+        "• Importance: Correct intonation helps express questions, statements, surprise, and emphasis",
+        "",
+        "Rising Tone (/):",
+        "• Definition: Pitch rises at the end of a sentence or phrase",
+        "• Uses:",
+        "  a) Yes/No questions: 'Are you coming↗?'",
+        "  b) Incomplete statements: 'If you go↗, I will follow'",
+        "  c) Listing items (except the last): 'I need pen↗, paper↗, and books↘'",
+        "  d) Showing uncertainty or politeness: 'You could try↗?'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'Is this the way to the market↗?' (asking for directions)",
+        "  - 'You will attend the meeting↗?' (seeking confirmation)",
+        "  - 'She bought rice↗, beans↗, and garri↘' (listing items)",
+        "",
+        "Falling Tone (↘):",
+        "• Definition: Pitch falls at the end of a sentence or phrase",
+        "• Uses:",
+        "  a) Statements: 'I am going home↘'",
+        "  b) WH-questions: 'Where are you going↘?'",
+        "  c) Commands: 'Close the door↘'",
+        "  d) Final item in a list: 'I need pen, paper, and books↘'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'The president visited Lagos↘' (statement)",
+        "  - 'What time is the ceremony↘?' (WH-question)",
+        "  - 'Submit your assignments↘' (command)",
+        "",
+        "Combining Rising and Falling Tones:",
+        "• Fall-Rise (↘↗): Shows contrast, reservation, or politeness",
+        "  - Example: 'I like the dress↘, but not the colour↗'",
+        "  - Nigerian context: 'The food is good↘, but too spicy↗'",
+        "",
+        "• Rise-Fall (↗↘): Shows surprise, sarcasm, or strong emotion",
+        "  - Example: 'You really think↗ that's possible↘?'",
+        "  - Nigerian context: 'He actually passed↗ the exam↘?'",
+        "",
+        "Practical Activities:",
+        "1. Intonation Drill:",
+        "   • Teacher models rising and falling tones",
+        "   • Students repeat sentences with correct intonation",
+        "   • Practice with yes/no questions vs WH-questions",
+        "",
+        "2. Dialogue Practice:",
+        "   • Students role-play conversations using correct intonation",
+        "   • Focus on questions, statements, and commands",
+        "   • Peer feedback on pitch accuracy",
+        "",
+        "3. Recording Exercise:",
+        "   • Students record themselves reading passages",
+        "   • Compare with model recordings",
+        "   • Identify and correct intonation errors",
+        "",
+        "Common Misconceptions:",
+        "• 'Intonation is the same as stress': Stress is on words; intonation is on phrases/sentences",
+        "• 'All questions use rising tone': WH-questions typically use falling tone",
+        "• 'Intonation doesn't affect meaning': Wrong intonation can change meaning or cause confusion",
+        "• 'Nigerian English doesn't need intonation practice': Intonation is crucial for clear communication",
+        "",
+        "Nigerian Context:",
+        "• Correct intonation helps Nigerian speakers communicate effectively in academic, professional, and international settings",
+        "• Understanding intonation patterns supports listening comprehension of native and non-native speakers",
+        "• Practice with local examples enhances retention and cultural relevance",
+        "",
+        "Conclusion:",
+        "• Intonation patterns (rising and falling tones) convey meaning, attitude, and emotion in speech",
+        "• Rising tone is used for yes/no questions, incomplete statements, and politeness",
+        "• Falling tone is used for statements, WH-questions, commands, and final list items",
+        "• Mastery of intonation supports clear, confident, and effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing rising and falling tone patterns with pitch arrows",
+        "Chart of intonation uses: questions, statements, commands, lists",
+        "Sample dialogues with intonation markings for practice",
+        "Nigerian context: Sample sentences with local content and intonation cues",
+        "Recording exercise instructions with self-evaluation checklist"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English intonation rising falling tones SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Intonation refers to:",
+          "opts": [
+            "The stress on individual words",
+            "The rise and fall of pitch in speech",
+            "The speed of speaking",
+            "The volume of voice"
+          ],
+          "ans": 1,
+          "explanation": "Intonation is the variation of pitch in speech that conveys meaning, attitude, and emotion."
+        },
+        {
+          "q": "A rising tone is typically used for:",
+          "opts": [
+            "Statements",
+            "WH-questions",
+            "Yes/No questions",
+            "Commands"
+          ],
+          "ans": 2,
+          "explanation": "Rising tone is typically used for yes/no questions to indicate that an answer is expected."
+        },
+        {
+          "q": "In the sentence 'Where are you going↘?', the falling tone indicates:",
+          "opts": [
+            "A question expecting yes/no answer",
+            "A statement",
+            "A WH-question",
+            "Uncertainty"
+          ],
+          "ans": 2,
+          "explanation": "WH-questions (who, what, where, when, why, how) typically use falling tone in English."
+        },
+        {
+          "q": "When listing items, rising tone is used for:",
+          "opts": [
+            "The last item only",
+            "All items including the last",
+            "Items except the last",
+            "No items"
+          ],
+          "ans": 2,
+          "explanation": "In lists, rising tone is used for items except the last, which takes falling tone to signal completion."
+        },
+        {
+          "q": "A fall-rise tone (↘↗) often shows:",
+          "opts": [
+            "Certainty",
+            "Contrast or reservation",
+            "Anger",
+            "Surprise only"
+          ],
+          "ans": 1,
+          "explanation": "Fall-rise tone often shows contrast, reservation, or politeness in English intonation."
+        },
+        {
+          "q": "In Nigerian context, which sentence uses rising tone correctly?",
+          "opts": [
+            "The market is busy↘",
+            "Is this the way to the market↗?",
+            "Close the gate↘",
+            "What time is it↘?"
+          ],
+          "ans": 1,
+          "explanation": "'Is this the way to the market↗?' is a yes/no question that correctly uses rising tone."
+        },
+        {
+          "q": "Which is a common misconception about intonation?",
+          "opts": [
+            "Intonation affects meaning",
+            "All questions use rising tone",
+            "Intonation varies by context",
+            "Practice improves intonation"
+          ],
+          "ans": 1,
+          "explanation": "Not all questions use rising tone; WH-questions typically use falling tone."
+        },
+        {
+          "q": "Understanding intonation is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass speaking tests",
+            "Supports clear communication in academic, professional, and international contexts",
+            "Only for listening comprehension",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Correct intonation enhances clarity, confidence, and effectiveness in diverse communication settings."
+        },
+        {
+          "q": "A rise-fall tone (↗↘) often expresses:",
+          "opts": [
+            "Neutrality",
+            "Surprise or strong emotion",
+            "Boredom",
+            "Confusion"
+          ],
+          "ans": 1,
+          "explanation": "Rise-fall tone often expresses surprise, sarcasm, or strong emotion in English."
+        },
+        {
+          "q": "Which sentence demonstrates correct intonation for a command?",
+          "opts": [
+            "Please sit down↗",
+            "Submit your work↘",
+            "Are you ready↗?",
+            "What is your name↗?"
+          ],
+          "ans": 1,
+          "explanation": "Commands typically use falling tone to convey authority and finality: 'Submit your work↘'."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w1_su2",
+      "title": "1.2 Vocabulary: Words Associated with Religion",
+      "notes": [
+        "Vocabulary Development: Religion",
+        "• Definition: Religion refers to a system of beliefs, practices, and values related to the sacred or divine",
+        "• Importance: Understanding religious vocabulary supports cultural literacy and respectful communication",
+        "",
+        "Key Vocabulary in Religion:",
+        "1. General Religious Terms:",
+        "   • Faith: Strong belief in religious teachings",
+        "   • Worship: Acts of reverence and devotion",
+        "   • Prayer: Communication with the divine",
+        "   • Scripture: Sacred writings (e.g., Bible, Qur'an)",
+        "   • Ritual: Prescribed religious ceremony",
+        "   • Nigerian context: Terms used across Christian, Islamic, and traditional religions",
+        "",
+        "2. Christian Religious Terms:",
+        "   • Church: Place of Christian worship",
+        "   • Pastor/Priest: Religious leader",
+        "   • Sacrament: Sacred rite (e.g., baptism, communion)",
+        "   • Gospel: Teachings of Jesus Christ",
+        "   • Congregation: Group of worshippers",
+        "   • Nigerian context: 'Rev.', 'Bishop', 'Deacon', 'Choir', 'Altar'",
+        "",
+        "3. Islamic Religious Terms:",
+        "   • Mosque: Place of Islamic worship",
+        "   • Imam: Prayer leader",
+        "   • Salah: Ritual prayer",
+        "   • Qur'an: Holy book of Islam",
+        "   • Hajj: Pilgrimage to Mecca",
+        "   • Nigerian context: 'Mallam', 'Sheikh', 'Juma'at', 'Ramadan', 'Eid'",
+        "",
+        "4. Traditional Religious Terms:",
+        "   • Shrine: Sacred place for rituals",
+        "   • Diviner: One who interprets spiritual signs",
+        "   • Ancestor: Deceased family member believed to influence the living",
+        "   • Libation: Pouring of liquid as ritual offering",
+        "   • Nigerian context: 'Babalawo' (Yoruba), 'Dibia' (Igbo), 'Boka' (Hausa)",
+        "",
+        "Using Religious Vocabulary in Sentences:",
+        "• 'The congregation gathered for Sunday worship at the church.'",
+        "• 'Muslims perform salah five times a day facing Mecca.'",
+        "• 'The diviner consulted the oracle to determine the cause of the illness.'",
+        "• 'Faith and prayer provide comfort during difficult times.'",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Building:",
+        "   • List words associated with different religions",
+        "   • Categorize by religion: Christian, Islamic, Traditional",
+        "   • Create sentences using new vocabulary",
+        "",
+        "2. Cultural Exploration:",
+        "   • Research religious practices in students' communities",
+        "   • Share findings in class discussions",
+        "   • Compare practices across religions",
+        "",
+        "3. Sentence Construction:",
+        "   • Use religious vocabulary in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct errors in word usage and cultural sensitivity",
+        "",
+        "Common Misconceptions:",
+        "• 'Religious vocabulary is only for religious studies': It supports cultural literacy and respectful dialogue",
+        "• 'All religious terms are the same across religions': Practices and terms vary widely",
+        "• 'Religious vocabulary is incompatible with secular life': Many terms are used in everyday communication",
+        "• 'Understanding religious terms is unimportant': It supports intercultural understanding and respect",
+        "",
+        "Nigerian Context:",
+        "• Nigeria's religious diversity reflects its rich cultural heritage",
+        "• Understanding religious vocabulary supports respectful dialogue in a multi-faith society",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Religious vocabulary supports cultural literacy and respectful communication",
+        "• Key terms cover general, Christian, Islamic, and traditional religious concepts",
+        "• Nigerian context enriches learning with local examples and cultural sensitivity",
+        "• Mastery of this vocabulary supports academic success and intercultural understanding"
+      ],
+      "diagramDescriptions": [
+        "Chart of religious vocabulary by category: general, Christian, Islamic, traditional",
+        "Illustration of places of worship: church, mosque, shrine",
+        "Diagram of religious practitioners and their roles",
+        "Nigerian context: Examples from Christian, Islamic, and traditional religions",
+        "Sample sentences using religious vocabulary"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary religion Nigeria SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A 'shrine' in traditional religion is:",
+          "opts": [
+            "A place for secular gatherings",
+            "A sacred place for rituals and offerings",
+            "A market for religious items",
+            "A school for religious education"
+          ],
+          "ans": 1,
+          "explanation": "A shrine is a sacred place dedicated to rituals, offerings, and worship in traditional religion."
+        },
+        {
+          "q": "In Islamic religion, 'salah' refers to:",
+          "opts": [
+            "Fasting",
+            "Ritual prayer",
+            "Pilgrimage",
+            "Charity"
+          ],
+          "ans": 1,
+          "explanation": "Salah is the ritual prayer performed five times daily by Muslims."
+        },
+        {
+          "q": "'Congregation' in Christian context refers to:",
+          "opts": [
+            "A religious leader",
+            "A group of worshippers",
+            "A sacred text",
+            "A ritual offering"
+          ],
+          "ans": 1,
+          "explanation": "Congregation refers to the group of people gathered for worship in a church."
+        },
+        {
+          "q": "Which is a traditional religious term in Nigerian context?",
+          "opts": [
+            "Pastor",
+            "Imam",
+            "Babalawo",
+            "Bishop"
+          ],
+          "ans": 2,
+          "explanation": "Babalawo is a Yoruba term for a traditional diviner or priest."
+        },
+        {
+          "q": "'Libation' refers to:",
+          "opts": [
+            "A type of sacrifice",
+            "Pouring of liquid as a ritual offering",
+            "A sacred dance",
+            "A religious festival"
+          ],
+          "ans": 1,
+          "explanation": "Libation is the ritual pouring of liquid (often palm wine or water) as an offering to deities or ancestors."
+        },
+        {
+          "q": "Understanding religious vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports cultural literacy and respectful intercultural communication",
+            "Only for academic purposes",
+            "Only for religious studies"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of religious vocabulary supports cultural understanding, respectful dialogue, and intercultural communication in Nigeria's diverse society."
+        },
+        {
+          "q": "Which is a Christian religious term?",
+          "opts": [
+            "Mosque",
+            "Salah",
+            "Sacrament",
+            "Shrine"
+          ],
+          "ans": 2,
+          "explanation": "Sacrament is a Christian term for a sacred rite such as baptism or communion."
+        },
+        {
+          "q": "In Nigerian context, 'Juma'at' refers to:",
+          "opts": [
+            "Christian Sunday service",
+            "Islamic Friday prayer",
+            "Traditional festival",
+            "National holiday"
+          ],
+          "ans": 1,
+          "explanation": "Juma'at is the Islamic Friday congregational prayer."
+        },
+        {
+          "q": "A common misconception about religious vocabulary is:",
+          "opts": [
+            "It supports cultural literacy",
+            "All religious terms are the same across religions",
+            "Terms vary by religion and culture",
+            "Understanding terms supports respectful dialogue"
+          ],
+          "ans": 1,
+          "explanation": "Religious terms and practices vary widely across religions and cultures; they are not universal."
+        },
+        {
+          "q": "Which sentence uses religious vocabulary correctly?",
+          "opts": [
+            "The imam led the congregation in salah at the mosque.",
+            "The pastor performed libation at the shrine.",
+            "The babalawo preached the gospel in church.",
+            "The bishop performed hajj to Mecca."
+          ],
+          "ans": 0,
+          "explanation": "'The imam led the congregation in salah at the mosque' correctly uses Islamic religious terms in context."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w1_su3",
+      "title": "1.3 Comprehension/Summary: Reading Passages for Words' Meaning in Context",
+      "notes": [
+        "Comprehension: Word Meaning in Context",
+        "• Definition: Using surrounding words and sentences to determine the meaning of unfamiliar words",
+        "• Importance: Enables readers to understand texts without constant dictionary use",
+        "",
+        "Types of Context Clues:",
+        "1. Definition Clues:",
+        "   • The text directly defines the word",
+        "   • Signal words: is, means, refers to, that is",
+        "   • Example: 'Arable land, that is, land suitable for farming, is scarce in Lagos.'",
+        "",
+        "2. Example Clues:",
+        "   • The text provides examples that illustrate the word",
+        "   • Signal words: such as, for example, including, like",
+        "   • Example: 'Legumes, such as cowpea, groundnut, and soybean, fix nitrogen in soil.'",
+        "",
+        "3. Synonym Clues:",
+        "   • The text uses a word with similar meaning nearby",
+        "   • Signal words: or, also known as, similarly",
+        "   • Example: 'The arid region, or dry area, received little rain.'",
+        "",
+        "4. Antonym Clues:",
+        "   • The text uses a word with opposite meaning",
+        "   • Signal words: but, however, unlike, whereas",
+        "   • Example: 'Unlike the fertile south, the arid north has poor soil.'",
+        "",
+        "5. Inference Clues:",
+        "   • The meaning must be inferred from the overall context",
+        "   • No direct signal words; requires logical reasoning",
+        "   • Example: 'The farmer's grim face suggested a poor harvest.' (infer 'grim' means sad or worried)",
+        "",
+        "Steps for Using Context Clues:",
+        "1. Read the sentence containing the unknown word",
+        "   • Note the word and its immediate context",
+        "",
+        "2. Look for signal words or phrases",
+        "   • Identify definition, example, synonym, or antonym clues",
+        "",
+        "3. Consider the broader context",
+        "   • Read surrounding sentences for additional clues",
+        "",
+        "4. Make an educated guess",
+        "   • Infer the meaning based on clues",
+        "",
+        "5. Verify with dictionary if needed",
+        "   • Confirm or adjust your inferred meaning",
+        "",
+        "Nigerian Context in Comprehension Passages:",
+        "• Common themes:",
+        "  - Religious tolerance and coexistence",
+        "  - Cultural values and modern challenges",
+        "  - Education and youth development",
+        "  - Health and disease prevention",
+        "  - Environmental conservation",
+        "",
+        "• Cultural references:",
+        "  - Local religious practices and terms",
+        "  - Traditional values and proverbs",
+        "  - Urban-rural dynamics",
+        "  - Religious and ethnic diversity",
+        "",
+        "Practical Activities:",
+        "1. Context Clue Identification:",
+        "   • Provide passages with underlined unfamiliar words",
+        "   • Students identify type of context clue and infer meaning",
+        "   • Discuss inferences and verify with dictionary",
+        "",
+        "2. Vocabulary in Context:",
+        "   • Use Nigerian-themed passages on religion, culture, or current issues",
+        "   • Highlight key words and practice inference",
+        "   • Create sentences using inferred meanings",
+        "",
+        "3. Peer Discussion:",
+        "   • Work in pairs or small groups to infer word meanings",
+        "   • Share and compare inferences",
+        "   • Clarify misunderstandings through dialogue",
+        "",
+        "Common Misconceptions:",
+        "• 'Context clues always give exact definitions': They often provide approximate meanings; dictionary verification is still valuable",
+        "• 'Only difficult words need context clues': Even familiar words can have multiple meanings clarified by context",
+        "• 'Context clues are only for reading': They are also useful in listening and speaking",
+        "• 'Inference is guessing': Inference is logical reasoning based on textual evidence, not random guessing",
+        "",
+        "Nigerian Context:",
+        "• Context clue skills enable students to engage with Nigerian media, policies, and literature",
+        "• Understanding local vocabulary supports comprehension of culturally relevant texts",
+        "• Practice with Nigerian examples builds confidence and critical thinking",
+        "",
+        "Conclusion:",
+        "• Context clues are essential for determining word meaning without constant dictionary use",
+        "• Types include definition, example, synonym, antonym, and inference clues",
+        "• Steps involve reading, identifying clues, inferring, and verifying",
+        "• Nigerian context enhances relevance and application of comprehension skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of context clue types with Nigerian examples",
+        "Flowchart of steps for using context clues",
+        "Sample passage with highlighted context clues",
+        "Nigerian context: Vocabulary related to religion, culture, current issues",
+        "Inference practice exercise with local themes"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension context clues vocabulary SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Context clues help readers to:",
+          "opts": [
+            "Skip unfamiliar words",
+            "Determine word meaning from surrounding text",
+            "Memorize dictionary definitions",
+            "Ignore sentence structure"
+          ],
+          "ans": 1,
+          "explanation": "Context clues allow readers to infer the meaning of unfamiliar words based on the surrounding text."
+        },
+        {
+          "q": "Which signal word often introduces a definition clue?",
+          "opts": [
+            "however",
+            "means",
+            "but",
+            "unlike"
+          ],
+          "ans": 1,
+          "explanation": "'Means' often signals a definition clue; 'however' and 'but' signal contrast, 'unlike' signals antonym."
+        },
+        {
+          "q": "In the sentence 'Legumes, such as cowpea, groundnut, and soybean, fix nitrogen in soil', 'such as' introduces:",
+          "opts": [
+            "A definition",
+            "An example",
+            "A synonym",
+            "An antonym"
+          ],
+          "ans": 1,
+          "explanation": "'Such as' introduces examples that illustrate the meaning of 'legumes'."
+        },
+        {
+          "q": "An antonym clue is signaled by words like:",
+          "opts": [
+            "for example",
+            "but",
+            "means",
+            "including"
+          ],
+          "ans": 1,
+          "explanation": "'But' signals contrast, often introducing an antonym clue; 'for example' introduces examples."
+        },
+        {
+          "q": "Inference clues require the reader to:",
+          "opts": [
+            "Find a direct definition",
+            "Use logical reasoning based on context",
+            "Look up the word immediately",
+            "Ignore the surrounding text"
+          ],
+          "ans": 1,
+          "explanation": "Inference clues require readers to use logical reasoning based on the overall context to infer word meaning."
+        },
+        {
+          "q": "In Nigerian context, a passage on religion might include words like:",
+          "opts": [
+            "spaceship, asteroid, orbit",
+            "mosque, church, shrine, prayer",
+            "computer, software, algorithm",
+            "ocean, tide, coral, reef"
+          ],
+          "ans": 1,
+          "explanation": "Religious passages in Nigerian context often include words like mosque, church, shrine, and prayer."
+        },
+        {
+          "q": "The first step in using context clues is to:",
+          "opts": [
+            "Look up the word in a dictionary",
+            "Read the sentence containing the unknown word",
+            "Skip the word and continue reading",
+            "Ask someone for the meaning"
+          ],
+          "ans": 1,
+          "explanation": "The first step is to read the sentence containing the unknown word to gather immediate context."
+        },
+        {
+          "q": "Understanding context clues is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Enables independent reading and comprehension of diverse texts",
+            "Only for vocabulary tests",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Context clue skills support independent reading, critical thinking, and comprehension of academic, media, and cultural texts in Nigeria."
+        },
+        {
+          "q": "Which is NOT a type of context clue?",
+          "opts": [
+            "Definition",
+            "Example",
+            "Spelling",
+            "Synonym"
+          ],
+          "ans": 2,
+          "explanation": "Spelling is not a type of context clue; definition, example, synonym, antonym, and inference are common types."
+        },
+        {
+          "q": "A common misconception about context clues is:",
+          "opts": [
+            "They always give exact definitions",
+            "They provide approximate meanings that may need verification",
+            "They help readers infer word meaning",
+            "They are useful in reading and listening"
+          ],
+          "ans": 0,
+          "explanation": "Context clues often provide approximate meanings; dictionary verification is still valuable for precise understanding."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w1_su4",
+      "title": "1.4 Structure: Types of Sentences – Simple and Compound",
+      "notes": [
+        "Structure: Types of Sentences",
+        "• Definition: A sentence is a group of words that expresses a complete thought",
+        "• Importance: Understanding sentence types improves writing clarity, variety, and effectiveness",
+        "",
+        "Simple Sentences:",
+        "• Definition: A sentence with one independent clause (subject + predicate)",
+        "• Characteristics:",
+        "  - One subject and one verb (or compound subject/verb)",
+        "  - Expresses a single complete thought",
+        "  - Can be short or long",
+        "",
+        "• Examples:",
+        "  - 'The boy kicked the ball.'",
+        "  - 'Nigeria is a diverse country.'",
+        "  - 'She and her friend went to the market.'",
+        "  - Nigerian context: 'The farmer harvested his crops yesterday.'",
+        "",
+        "Compound Sentences:",
+        "• Definition: A sentence with two or more independent clauses joined by a coordinating conjunction",
+        "• Coordinating Conjunctions: FANBOYS (For, And, Nor, But, Or, Yet, So)",
+        "• Characteristics:",
+        "  - Two or more independent clauses",
+        "  - Joined by comma + coordinating conjunction",
+        "  - Expresses related but separate thoughts",
+        "",
+        "• Examples:",
+        "  - 'The boy kicked the ball, and it went into the goal.'",
+        "  - 'Nigeria is diverse, but its people share common values.'",
+        "  - 'She studied hard, so she passed the exam.'",
+        "  - Nigerian context: 'The market was busy, yet the prices were reasonable.'",
+        "",
+        "Punctuation in Compound Sentences:",
+        "• Comma before coordinating conjunction:",
+        "  - Correct: 'I like rice, but my brother prefers beans.'",
+        "  - Incorrect: 'I like rice but my brother prefers beans.' (missing comma)",
+        "",
+        "• Semicolon alternative:",
+        "  - 'I like rice; my brother prefers beans.'",
+        "  - Semicolon joins closely related independent clauses without conjunction",
+        "",
+        "Identifying Sentence Types:",
+        "1. Look for subjects and verbs:",
+        "   • Simple: One subject-verb pair (or compound)",
+        "   • Compound: Two or more subject-verb pairs",
+        "",
+        "2. Check for coordinating conjunctions:",
+        "   • FANBOYS joining independent clauses = compound",
+        "   • Conjunction joining words/phrases = still simple",
+        "",
+        "3. Test for completeness:",
+        "   • Can each clause stand alone as a sentence?",
+        "   • If yes = compound; if no = simple or complex",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Comma splice (joining independent clauses with comma only)",
+        "  - Incorrect: 'I like rice, my brother prefers beans.'",
+        "  - Correct: 'I like rice, and my brother prefers beans.' or 'I like rice; my brother prefers beans.'",
+        "",
+        "• Error: Run-on sentence (no punctuation between independent clauses)",
+        "  - Incorrect: 'I like rice my brother prefers beans.'",
+        "  - Correct: 'I like rice, and my brother prefers beans.'",
+        "",
+        "• Error: Using subordinating conjunction in compound sentence",
+        "  - Incorrect: 'I like rice, because my brother prefers beans.'",
+        "  - Correct: 'I like rice, and my brother prefers beans.' (compound) or 'I like rice because it is delicious.' (complex)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'The market was busy, the prices were high.'",
+        "  - Correction: 'The market was busy, and the prices were high.'",
+        "",
+        "Practical Activities:",
+        "1. Sentence Identification:",
+        "   • Provide sentences for students to classify as simple or compound",
+        "   • Underline subjects and circle verbs to identify clauses",
+        "   • Discuss the function of coordinating conjunctions",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write simple sentences on given topics",
+        "   • Combine simple sentences into compound sentences using FANBOYS",
+        "   • Share sentences with classmates for peer review",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with comma splices or run-ons",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'Long sentences are always compound': Length doesn't determine type; structure does",
+        "• 'Compound sentences are better than simple': Both have their place; variety is key",
+        "• 'Any conjunction makes a compound sentence': Only coordinating conjunctions (FANBOYS) join independent clauses",
+        "• 'Punctuation is optional in compound sentences': Correct punctuation is essential for clarity",
+        "",
+        "Nigerian Context:",
+        "• Understanding sentence types supports clear communication in academic writing and professional contexts",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "• Mastery of sentence structure improves writing variety and effectiveness",
+        "",
+        "Conclusion:",
+        "• Simple sentences have one independent clause; compound sentences have two or more",
+        "• Coordinating conjunctions (FANBOYS) join independent clauses in compound sentences",
+        "• Correct punctuation (comma + conjunction or semicolon) is essential for compound sentences",
+        "• Mastery of sentence types improves writing clarity, variety, and effectiveness"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing simple and compound sentences with examples",
+        "Flowchart for identifying sentence types",
+        "FANBOYS mnemonic with examples of coordinating conjunctions",
+        "Nigerian context: Sample sentences with correct/incorrect punctuation",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar simple compound sentences SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A simple sentence contains:",
+          "opts": [
+            "Two or more independent clauses",
+            "One independent clause",
+            "Only a subject",
+            "Only a verb"
+          ],
+          "ans": 1,
+          "explanation": "A simple sentence contains one independent clause (subject + predicate) that expresses a complete thought."
+        },
+        {
+          "q": "Which is a compound sentence?",
+          "opts": [
+            "The boy kicked the ball.",
+            "The boy kicked the ball, and it went into the goal.",
+            "Because the boy kicked the ball, it went into the goal.",
+            "The boy who kicked the ball scored."
+          ],
+          "ans": 1,
+          "explanation": "'The boy kicked the ball, and it went into the goal' has two independent clauses joined by 'and', making it compound."
+        },
+        {
+          "q": "Coordinating conjunctions are remembered by the acronym:",
+          "opts": [
+            "SMART",
+            "FANBOYS",
+            "PEMDAS",
+            "ROYGBIV"
+          ],
+          "ans": 1,
+          "explanation": "FANBOYS stands for For, And, Nor, But, Or, Yet, So - the coordinating conjunctions that join independent clauses."
+        },
+        {
+          "q": "Which punctuation is correct in a compound sentence?",
+          "opts": [
+            "I like rice my brother prefers beans.",
+            "I like rice, my brother prefers beans.",
+            "I like rice, and my brother prefers beans.",
+            "I like rice; and my brother prefers beans."
+          ],
+          "ans": 2,
+          "explanation": "Compound sentences require a comma before the coordinating conjunction: 'I like rice, and my brother prefers beans.'"
+        },
+        {
+          "q": "A comma splice error occurs when:",
+          "opts": [
+            "A comma is used before a coordinating conjunction",
+            "Independent clauses are joined by a comma only",
+            "A semicolon joins independent clauses",
+            "A period ends a sentence"
+          ],
+          "ans": 1,
+          "explanation": "A comma splice joins independent clauses with only a comma, which is incorrect; a conjunction or semicolon is needed."
+        },
+        {
+          "q": "In Nigerian context, which is a correct compound sentence?",
+          "opts": [
+            "The market was busy the prices were high.",
+            "The market was busy, the prices were high.",
+            "The market was busy, and the prices were high.",
+            "The market was busy; and the prices were high."
+          ],
+          "ans": 2,
+          "explanation": "'The market was busy, and the prices were high' correctly uses comma + coordinating conjunction to join independent clauses."
+        },
+        {
+          "q": "Which sentence is simple?",
+          "opts": [
+            "She studied hard, so she passed.",
+            "She studied hard and passed.",
+            "Because she studied hard, she passed.",
+            "She studied hard; she passed."
+          ],
+          "ans": 1,
+          "explanation": "'She studied hard and passed' has a compound verb but one subject, making it a simple sentence."
+        },
+        {
+          "q": "Understanding sentence types is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing clarity, variety, and effectiveness in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of sentence types enables students to write clearly, vary sentence structure, and communicate effectively."
+        },
+        {
+          "q": "Which coordinating conjunction shows contrast?",
+          "opts": [
+            "and",
+            "but",
+            "so",
+            "or"
+          ],
+          "ans": 1,
+          "explanation": "'But' shows contrast between ideas: 'I like rice, but my brother prefers beans.'"
+        },
+        {
+          "q": "A common misconception about compound sentences is:",
+          "opts": [
+            "They require coordinating conjunctions",
+            "Long sentences are always compound",
+            "Punctuation is essential for clarity",
+            "They express related but separate thoughts"
+          ],
+          "ans": 1,
+          "explanation": "Sentence length doesn't determine type; a long sentence can be simple if it has only one independent clause."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w1_su5",
+      "title": "1.5 Writing: Speech Writing – Definition and Features",
+      "notes": [
+        "Writing: Speech Writing",
+        "• Definition: A speech is a formal address delivered to an audience on a specific occasion or topic",
+        "• Purpose: To inform, persuade, entertain, or inspire listeners",
+        "",
+        "Features of a Well-Written Speech:",
+        "1. Clear Purpose:",
+        "   • Inform: Share knowledge or facts",
+        "   • Persuade: Convince audience of a viewpoint",
+        "   • Entertain: Amuse or engage listeners",
+        "   • Inspire: Motivate audience to action",
+        "   • Nigerian context: Speeches on education, unity, development, or cultural values",
+        "",
+        "2. Audience Awareness:",
+        "   • Consider audience's age, background, interests",
+        "   • Use appropriate language and examples",
+        "   • Address audience directly: 'Ladies and gentlemen', 'Dear friends'",
+        "   • Nigerian context: Respectful greetings reflecting cultural norms",
+        "",
+        "3. Logical Structure:",
+        "   a) Introduction:",
+        "      - Greeting and self-introduction",
+        "      - Hook to capture attention",
+        "      - Thesis: State purpose or main idea",
+        "      - Example: 'Good morning, respected teachers and fellow students. Today, I will discuss the importance of education in Nigeria.'",
+        "",
+        "   b) Body:",
+        "      - Develop main points with evidence, examples, explanations",
+        "      - Use transitions: 'Firstly', 'Furthermore', 'In addition'",
+        "      - Include stories, statistics, or quotes for impact",
+        "      - Nigerian context: Local examples, proverbs, or current issues",
+        "",
+        "   c) Conclusion:",
+        "      - Summarize key points",
+        "      - Restate thesis or main message",
+        "      - Call to action or final thought",
+        "      - Thank audience",
+        "      - Example: 'In conclusion, education is the key to Nigeria's development. Let us all commit to learning. Thank you.'",
+        "",
+        "4. Effective Language:",
+        "   • Clear and concise: Avoid jargon or complex words",
+        "   • Engaging: Use rhetorical questions, repetition, or vivid imagery",
+        "   • Appropriate tone: Formal but not stiff; respectful but not distant",
+        "   • Nigerian context: Incorporate local proverbs, idioms, or cultural references if appropriate",
+        "",
+        "5. Delivery Considerations:",
+        "   • Write for speaking, not reading: Use short sentences, contractions, natural phrasing",
+        "   • Include pauses, emphasis, or gestures in notes",
+        "   • Practice aloud to ensure flow and timing",
+        "",
+        "Sample Speech Topics:",
+        "• The importance of education in Nigeria",
+        "• The role of youth in national development",
+        "• Promoting religious tolerance in our society",
+        "• The benefits of hard work and honesty",
+        "• Addressing environmental challenges in our community",
+        "",
+        "Practical Activities:",
+        "1. Speech Analysis:",
+        "   • Read sample speeches on current issues",
+        "   • Identify purpose, audience, structure, and language",
+        "   • Discuss effectiveness of different elements",
+        "",
+        "2. Outline Development:",
+        "   • Choose a topic and plan speech structure",
+        "   • Draft introduction, body points, and conclusion",
+        "   • Focus on clear thesis and logical flow",
+        "",
+        "3. Speech Drafting:",
+        "   • Write full speech based on outline",
+        "   • Focus on engaging language and audience awareness",
+        "   • Peer review for clarity, structure, and impact",
+        "",
+        "Common Misconceptions:",
+        "• 'Speeches must be long to be effective': Conciseness and clarity are more important than length",
+        "• 'Speeches are only for formal occasions': Speeches can be informal, persuasive, or entertaining",
+        "• 'Speech writing is the same as essay writing': Speeches are written for speaking, with different structure and language",
+        "• 'Audience doesn't matter in speech writing': Audience awareness is crucial for effective communication",
+        "",
+        "Nigerian Context:",
+        "• Speech writing skills support academic presentations, leadership roles, and civic engagement in Nigeria",
+        "• Understanding structure and language helps students communicate effectively in diverse settings",
+        "• Practice with local topics enhances relevance and cultural expression",
+        "",
+        "Conclusion:",
+        "• Speeches are formal addresses with clear purpose, audience awareness, and logical structure",
+        "• Key features include engaging introduction, evidence-based body, and impactful conclusion",
+        "• Effective language and delivery considerations enhance speech impact",
+        "• In Nigeria, speech writing supports academic success, leadership, and informed citizenship"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of a speech: introduction, body, conclusion",
+        "Chart of speech purposes: inform, persuade, entertain, inspire",
+        "Flowchart for developing a speech outline",
+        "Language and delivery tips: clarity, engagement, tone, practice",
+        "Nigerian context: Sample speech topics on local issues"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing speech composition SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A speech is primarily written to be:",
+          "opts": [
+            "Read silently",
+            "Delivered orally to an audience",
+            "Published in a book",
+            "Posted on social media"
+          ],
+          "ans": 1,
+          "explanation": "Speeches are written to be delivered orally to an audience, with considerations for speaking and listening."
+        },
+        {
+          "q": "The introduction of a speech should include:",
+          "opts": [
+            "Only the conclusion",
+            "Greeting, hook, and thesis statement",
+            "Only statistics",
+            "Only personal stories"
+          ],
+          "ans": 1,
+          "explanation": "The introduction should greet the audience, capture attention with a hook, and state the main idea or purpose."
+        },
+        {
+          "q": "Which is a purpose of a speech?",
+          "opts": [
+            "Only to inform",
+            "To inform, persuade, entertain, or inspire",
+            "Only to entertain",
+            "Only to persuade"
+          ],
+          "ans": 1,
+          "explanation": "Speeches can have multiple purposes: to inform, persuade, entertain, or inspire the audience."
+        },
+        {
+          "q": "Audience awareness in speech writing means:",
+          "opts": [
+            "Ignoring the audience",
+            "Considering audience's background, interests, and expectations",
+            "Using complex words to impress",
+            "Writing for oneself only"
+          ],
+          "ans": 1,
+          "explanation": "Audience awareness involves tailoring language, examples, and tone to the listeners' background and expectations."
+        },
+        {
+          "q": "In the body of a speech, main points should be:",
+          "opts": [
+            "Repeated without development",
+            "Developed with evidence, examples, and explanations",
+            "Listed without transitions",
+            "Hidden from the audience"
+          ],
+          "ans": 1,
+          "explanation": "Main points in the body should be developed with evidence, examples, and explanations to support the thesis."
+        },
+        {
+          "q": "In Nigerian context, a speech on education might include:",
+          "opts": [
+            "Only global statistics",
+            "Local examples, challenges, and solutions relevant to Nigeria",
+            "Only historical facts",
+            "Only personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Speeches in Nigerian context should include local examples, challenges, and solutions to enhance relevance and impact."
+        },
+        {
+          "q": "The conclusion of a speech should:",
+          "opts": [
+            "Introduce new ideas",
+            "Summarize key points and restate the main message",
+            "Apologize for mistakes",
+            "Ask for donations only"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion should summarize key points, restate the main message, and provide a final thought or call to action."
+        },
+        {
+          "q": "Understanding speech writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports academic presentations, leadership roles, and civic engagement",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Speech writing skills support academic success, leadership development, and effective civic participation in Nigeria."
+        },
+        {
+          "q": "Which language feature is preferred in speech writing?",
+          "opts": [
+            "Complex jargon",
+            "Clear and concise language",
+            "Only passive voice",
+            "No transitions"
+          ],
+          "ans": 1,
+          "explanation": "Clear and concise language ensures the audience can easily follow and understand the speech."
+        },
+        {
+          "q": "A common misconception about speech writing is:",
+          "opts": [
+            "Speeches must be long to be effective",
+            "Speeches should be concise and audience-focused",
+            "Speeches require logical structure",
+            "Speeches benefit from practice and delivery considerations"
+          ],
+          "ans": 0,
+          "explanation": "Conciseness and clarity are more important than length; effective speeches focus on key points and audience engagement."
+        }
+      ]
+    }
+  ]
+}

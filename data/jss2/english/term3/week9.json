@@ -1,0 +1,749 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 9,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w9_su1",
+      "title": "9.1 Reading: Reading to Identify Facts and Opinions",
+      "notes": [
+        "Reading: Identifying Facts and Opinions",
+        "",
+        "Key Concepts:",
+        "1. What are Facts?",
+        "   - Statements that can be proven true or false",
+        "   - Based on evidence, data, or observation",
+        "   - Example: 'Nigeria has 36 states.' (verifiable)",
+        "",
+        "2. What are Opinions?",
+        "   - Statements that express personal beliefs, feelings, or judgments",
+        "   - Cannot be proven true or false",
+        "   - Example: 'Lagos is the most beautiful city in Nigeria.' (subjective)",
+        "",
+        "3. How to Distinguish Facts from Opinions:",
+        "   - Look for signal words: 'I think', 'in my opinion', 'believe' (opinion)",
+        "   - Check if the statement can be verified with evidence (fact)",
+        "   - Ask: Can this be proven with data or research?",
+        "",
+        "4. Strategies for Identification:",
+        "   - Read the passage carefully to understand context",
+        "   - Highlight statements that can be verified",
+        "   - Note emotional language that signals opinions",
+        "   - Use external sources to verify factual claims"
+      ],
+      "diagramDescriptions": [
+        "Chart distinguishing facts from opinions with examples",
+        "Flowchart for identifying facts and opinions in passages"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading facts opinions critical evaluation site:youtube.com",
+      "quiz": [
+        {
+          "q": "A fact is:",
+          "opts": [
+            "A personal belief or feeling",
+            "A statement that can be proven true or false",
+            "An emotional expression",
+            "A prediction about the future"
+          ],
+          "ans": 1,
+          "explanation": "A fact is a statement that can be proven true or false with evidence."
+        },
+        {
+          "q": "An opinion is:",
+          "opts": [
+            "A statement based on evidence",
+            "A statement that expresses personal beliefs or judgments",
+            "A verifiable claim",
+            "A statistical report"
+          ],
+          "ans": 1,
+          "explanation": "An opinion expresses personal beliefs, feelings, or judgments that cannot be proven."
+        },
+        {
+          "q": "Which word often signals an opinion?",
+          "opts": [
+            "according to",
+            "I believe",
+            "statistics show",
+            "research indicates"
+          ],
+          "ans": 1,
+          "explanation": "'I believe' signals a personal opinion; the others introduce factual claims."
+        },
+        {
+          "q": "In a passage on education, which is a fact?",
+          "opts": [
+            "Education is the best investment.",
+            "Nigeria spends 7% of its budget on education.",
+            "I think education should be free.",
+            "Everyone knows education is important."
+          ],
+          "ans": 1,
+          "explanation": "The budget percentage is a verifiable fact; the others are opinions."
+        },
+        {
+          "q": "A common mistake in identifying facts is:",
+          "opts": [
+            "Checking if a statement can be verified",
+            "Assuming all textbook statements are facts",
+            "Looking for signal words",
+            "Using external sources to verify claims"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all textbook statements are facts is a mistake; textbooks can contain opinions too."
+        },
+        {
+          "q": "To check if your identification is correct, you should:",
+          "opts": [
+            "Make it longer",
+            "Ensure facts are verifiable and opinions are subjective",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Facts must be verifiable; opinions express personal beliefs."
+        },
+        {
+          "q": "Understanding facts and opinions is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with media and civic participation",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students critically engage with Nigerian media and participate in civic life."
+        },
+        {
+          "q": "Which is NOT a strategy for identifying facts?",
+          "opts": [
+            "Look for signal words",
+            "Check verifiability",
+            "Ignore the context",
+            "Use external sources"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; context helps understand how facts and opinions are used."
+        },
+        {
+          "q": "A common misconception about facts is:",
+          "opts": [
+            "Facts can be proven with evidence",
+            "All statements in textbooks are facts",
+            "Facts can be selected to support opinions",
+            "Practice improves identification skills"
+          ],
+          "ans": 1,
+          "explanation": "Not all statements in textbooks are facts; textbooks can contain opinions too."
+        },
+        {
+          "q": "When analyzing a passage, you should:",
+          "opts": [
+            "Only focus on opinions",
+            "Highlight facts and opinions separately",
+            "Ignore emotional language",
+            "Only read the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Highlighting facts and opinions separately helps you analyze how they work together."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w9_su2",
+      "title": "9.2 Writing: Essay on Career Choice - Doctor or Teacher",
+      "notes": [
+        "Writing: Essay on Career Choice - Doctor or Teacher",
+        "",
+        "Key Concepts:",
+        "1. Choosing a Career Topic:",
+        "   - Select a career you are passionate about",
+        "   - Research requirements, skills, and benefits",
+        "   - Consider personal experiences or role models",
+        "",
+        "2. Structure of Career Essay:",
+        "   - Introduction: State your chosen career and why",
+        "   - Body: Discuss skills needed, training required, benefits, challenges",
+        "   - Conclusion: Summarize and express commitment",
+        "",
+        "3. Language Features:",
+        "   - Use specific vocabulary related to the career",
+        "   - Use future tense for plans: 'I will study medicine...'",
+        "   - Use persuasive language to show passion",
+        "   - Include personal anecdotes or inspirations",
+        "",
+        "4. Tips for Effective Writing:",
+        "   - Start with a strong opening statement",
+        "   - Use specific examples and details",
+        "   - Maintain consistent focus on your career choice",
+        "   - End with a motivating conclusion"
+      ],
+      "diagramDescriptions": [
+        "Chart of career essay structure with examples",
+        "Diagram of planning steps: choose, research, organize, draft, revise"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing essay career choice doctor teacher site:youtube.com",
+      "quiz": [
+        {
+          "q": "The first step in writing a career essay is to:",
+          "opts": [
+            "Write the conclusion",
+            "Choose a career and brainstorm ideas",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a career and brainstorming is the first step."
+        },
+        {
+          "q": "The introduction of a career essay should:",
+          "opts": [
+            "List all details",
+            "State your chosen career and why",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The introduction states your career choice and reasons."
+        },
+        {
+          "q": "In the body of a career essay, you should:",
+          "opts": [
+            "Only repeat the introduction",
+            "Discuss skills, training, benefits, and challenges",
+            "Only write about personal life",
+            "Only use simple words"
+          ],
+          "ans": 1,
+          "explanation": "The body develops the topic with details about the career."
+        },
+        {
+          "q": "A good tip for career essay is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain focus",
+            "Only use complex words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Specific examples and focus create clear, effective essays."
+        },
+        {
+          "q": "In Nigerian context, a career essay might discuss:",
+          "opts": [
+            "Only foreign careers",
+            "'Why I Want to Be a Teacher in Nigeria'",
+            "Only scientific careers",
+            "Only historical careers"
+          ],
+          "ans": 1,
+          "explanation": "Career essays in Nigerian context often address local professional paths."
+        },
+        {
+          "q": "Understanding career essay writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication about future plans and goals",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Career essay skills help students articulate future plans clearly."
+        },
+        {
+          "q": "Which is NOT an element of career essay?",
+          "opts": [
+            "Introduction",
+            "Body",
+            "Random thoughts",
+            "Conclusion"
+          ],
+          "ans": 2,
+          "explanation": "Random thoughts are not an element; essays need structured introduction, body, and conclusion."
+        },
+        {
+          "q": "A common misconception about career writing is:",
+          "opts": [
+            "Career writing needs clear structure",
+            "Longer writing is always better",
+            "Planning helps organization",
+            "Practice improves writing"
+          ],
+          "ans": 1,
+          "explanation": "Effective career writing is clear and focused, not just long."
+        },
+        {
+          "q": "When writing about your future career, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use specific vocabulary and maintain consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Specific vocabulary and focus create clear, effective career essays."
+        },
+        {
+          "q": "The conclusion of a career essay should:",
+          "opts": [
+            "Introduce new points",
+            "Summarize and express commitment to your career",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion summarizes key points and reinforces your commitment."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w9_su3",
+      "title": "9.3 Grammatical Accuracy: Turning Sentences into Questions",
+      "notes": [
+        "Grammatical Accuracy: Turning Sentences into Questions",
+        "",
+        "Key Concepts:",
+        "1. Types of Questions:",
+        "   - Yes/No questions: 'Are you coming?'",
+        "   - WH-questions: 'What are you doing?'",
+        "   - Tag questions: 'You are coming, aren't you?'",
+        "",
+        "2. Turning Statements into Yes/No Questions:",
+        "   - Invert subject and auxiliary verb",
+        "   - Example: 'You are coming.' → 'Are you coming?'",
+        "   - If no auxiliary, add 'do/does/did': 'He works.' → 'Does he work?'",
+        "",
+        "3. Turning Statements into WH-Questions:",
+        "   - Start with WH-word (what, where, when, why, how)",
+        "   - Invert subject and auxiliary verb",
+        "   - Example: 'She bought a book.' → 'What did she buy?'",
+        "",
+        "4. Turning Statements into Tag Questions:",
+        "   - Add short question at end",
+        "   - Positive statement + negative tag, or vice versa",
+        "   - Example: 'You are coming.' → 'You are coming, aren't you?'",
+        "",
+        "5. Practice with Nigerian Context:",
+        "   - Convert statements about Nigerian topics into questions",
+        "   - Example: 'Nigeria has many cultures.' → 'Does Nigeria have many cultures?'"
+      ],
+      "diagramDescriptions": [
+        "Chart of question types with examples",
+        "Diagram of sentence-to-question transformation steps"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar turning sentences into questions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Yes/No questions:",
+          "opts": [
+            "Start with WH-words",
+            "Can be answered with yes or no",
+            "Only use tag structure",
+            "Only use statements"
+          ],
+          "ans": 1,
+          "explanation": "Yes/No questions can be answered with yes or no."
+        },
+        {
+          "q": "To turn 'You are coming' into a question:",
+          "opts": [
+            "You coming are?",
+            "Are you coming?",
+            "Coming you are?",
+            "You are coming?"
+          ],
+          "ans": 1,
+          "explanation": "Invert subject and auxiliary: 'Are you coming?'"
+        },
+        {
+          "q": "To turn 'He works' into a question:",
+          "opts": [
+            "He works?",
+            "Works he?",
+            "Does he work?",
+            "Is he work?"
+          ],
+          "ans": 2,
+          "explanation": "Add 'does' for simple present: 'Does he work?'"
+        },
+        {
+          "q": "WH-questions start with:",
+          "opts": [
+            "Yes or no",
+            "WH-words: what, where, when, why, how",
+            "Tag structure",
+            "Only statements"
+          ],
+          "ans": 1,
+          "explanation": "WH-questions start with WH-words."
+        },
+        {
+          "q": "In Nigerian context, turning 'Nigeria has many cultures' into a question:",
+          "opts": [
+            "Nigeria has many cultures?",
+            "Has Nigeria many cultures?",
+            "Does Nigeria have many cultures?",
+            "Is Nigeria have many cultures?"
+          ],
+          "ans": 2,
+          "explanation": "Add 'does' for simple present: 'Does Nigeria have many cultures?'"
+        },
+        {
+          "q": "A common mistake in turning sentences into questions is:",
+          "opts": [
+            "Inverting subject and auxiliary",
+            "Forgetting to add 'do/does/did' when needed",
+            "Using WH-words correctly",
+            "Practicing regularly"
+          ],
+          "ans": 1,
+          "explanation": "Forgetting to add 'do/does/did' is a common error."
+        },
+        {
+          "q": "Understanding question formation is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear communication in academic and social settings",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Question formation skills help students communicate clearly in various contexts."
+        },
+        {
+          "q": "Which is NOT a type of question?",
+          "opts": [
+            "Yes/No",
+            "WH-question",
+            "Random guess",
+            "Tag question"
+          ],
+          "ans": 2,
+          "explanation": "Random guess is not a question type."
+        },
+        {
+          "q": "A common misconception about questions is:",
+          "opts": [
+            "Questions can be yes/no or WH",
+            "All questions start with WH-words",
+            "Tag questions are a type of question",
+            "Practice improves question formation"
+          ],
+          "ans": 1,
+          "explanation": "Not all questions start with WH-words; yes/no and tag questions do not."
+        },
+        {
+          "q": "When turning statements into questions, you should:",
+          "opts": [
+            "Ignore verb tenses",
+            "Invert subject and auxiliary or add do/does/did",
+            "Only use present tense",
+            "Only use past tense"
+          ],
+          "ans": 1,
+          "explanation": "Inverting subject/auxiliary or adding do/does/did ensures correct question formation."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w9_su4",
+      "title": "9.4 Listening/Speaking: Oral Comprehension",
+      "notes": [
+        "Listening/Speaking: Oral Comprehension",
+        "",
+        "Key Concepts:",
+        "1. What is Oral Comprehension?",
+        "   - The ability to understand spoken language",
+        "   - Involves hearing, processing, and responding to speech",
+        "",
+        "2. Strategies for Oral Comprehension:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for key words and main ideas",
+        "   - Note the context: What is the speech about?",
+        "   - Ask questions if you don't understand",
+        "",
+        "3. How to Respond to Oral Comprehension:",
+        "   - Summarize the main idea in your own words",
+        "   - Answer questions about the speech",
+        "   - Connect the speech to your own experiences",
+        "   - Discuss the speech with classmates or teacher",
+        "",
+        "4. Common Topics for Practice:",
+        "   - Selected speeches on national issues",
+        "   - Recorded materials on health, education, environment",
+        "   - Live discussions on current events"
+      ],
+      "diagramDescriptions": [
+        "Chart of oral comprehension strategies with examples",
+        "Flowchart for listening and responding to speeches"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English listening speaking oral comprehension site:youtube.com",
+      "quiz": [
+        {
+          "q": "Oral comprehension is:",
+          "opts": [
+            "Only hearing sounds",
+            "The ability to understand spoken language",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Oral comprehension is the ability to understand spoken language."
+        },
+        {
+          "q": "A strategy for oral comprehension is to:",
+          "opts": [
+            "Ignore the speaker",
+            "Focus on the speaker and listen for key words",
+            "Only write down every word",
+            "Focus on minor details"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and key words helps understand main ideas."
+        },
+        {
+          "q": "To respond to oral comprehension, you should:",
+          "opts": [
+            "Ignore it",
+            "Summarize the main idea and answer questions",
+            "Only repeat it exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing and answering questions shows understanding."
+        },
+        {
+          "q": "In a speech on education in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about one school",
+            "Education is essential for national development",
+            "Only about foreign education",
+            "Only about school buildings"
+          ],
+          "ans": 1,
+          "explanation": "A speech on education would likely emphasize its importance for development."
+        },
+        {
+          "q": "A common mistake in oral comprehension is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Trying to hear every word instead of main ideas",
+            "Noting key words",
+            "Asking questions if unsure"
+          ],
+          "ans": 1,
+          "explanation": "Trying to hear every word instead of focusing on main ideas is a common mistake."
+        },
+        {
+          "q": "Understanding oral comprehension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports understanding of teachers, peers, and media in Nigeria",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Oral comprehension helps students understand teachers, peers, and media."
+        },
+        {
+          "q": "Which is NOT a strategy for oral comprehension?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for key words",
+            "Ignore the context",
+            "Ask questions if unsure"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; noting context helps understand the speech."
+        },
+        {
+          "q": "A common misconception about oral comprehension is:",
+          "opts": [
+            "Oral comprehension is understanding spoken language",
+            "Oral comprehension means hearing every word",
+            "Active listening involves thinking and responding",
+            "Practice improves listening skills"
+          ],
+          "ans": 1,
+          "explanation": "Oral comprehension focuses on main ideas, not hearing every word."
+        },
+        {
+          "q": "When listening for main ideas, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note the speaker's emphasis and key words",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting emphasis and key words helps identify main ideas."
+        },
+        {
+          "q": "Oral comprehension helps students to:",
+          "opts": [
+            "Only pass exams",
+            "Understand and respond to spoken communication effectively",
+            "Only write essays",
+            "Only read silently"
+          ],
+          "ans": 1,
+          "explanation": "Oral comprehension enables effective understanding and response to spoken communication."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w9_su5",
+      "title": "9.5 Literature: Definition of Irony",
+      "notes": [
+        "Literature: Definition of Irony",
+        "",
+        "Key Concepts:",
+        "1. What is Irony?",
+        "   - A literary device where words express something opposite to their literal meaning",
+        "   - Often used for humor, emphasis, or criticism",
+        "   - Example: Calling a very tall person 'Shorty'",
+        "",
+        "2. Types of Irony:",
+        "   - Verbal irony: saying the opposite of what is meant",
+        "     Example: 'What a beautiful day!' during a storm",
+        "   - Situational irony: when outcome is opposite of expectation",
+        "     Example: A fire station burning down",
+        "   - Dramatic irony: when audience knows something characters don't",
+        "     Example: In a play, audience knows the killer's identity",
+        "",
+        "3. How to Identify Irony:",
+        "   - Look for contrast between literal meaning and intended meaning",
+        "   - Note tone, context, and audience knowledge",
+        "   - Ask: Is the speaker being sarcastic or humorous?",
+        "",
+        "4. Why Study Irony?",
+        "   - To appreciate how authors create humor or criticism",
+        "   - To understand deeper meanings in literature",
+        "   - To improve your own writing and critical thinking"
+      ],
+      "diagramDescriptions": [
+        "Chart of irony types with examples",
+        "Diagram of how irony creates meaning through contrast"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature irony definition examples site:youtube.com",
+      "quiz": [
+        {
+          "q": "Irony is:",
+          "opts": [
+            "Only literal meaning",
+            "Words expressing something opposite to their literal meaning",
+            "Only humor",
+            "Only criticism"
+          ],
+          "ans": 1,
+          "explanation": "Irony uses words to express the opposite of their literal meaning."
+        },
+        {
+          "q": "Verbal irony is:",
+          "opts": [
+            "Only situational",
+            "Saying the opposite of what is meant",
+            "Only dramatic",
+            "Only humorous"
+          ],
+          "ans": 1,
+          "explanation": "Verbal irony is saying the opposite of what is meant."
+        },
+        {
+          "q": "Situational irony occurs when:",
+          "opts": [
+            "Words mean the opposite",
+            "Outcome is opposite of expectation",
+            "Audience knows more than characters",
+            "Only in poetry"
+          ],
+          "ans": 1,
+          "explanation": "Situational irony is when the outcome is opposite of what was expected."
+        },
+        {
+          "q": "In Nigerian context, verbal irony might be:",
+          "opts": [
+            "Only foreign examples",
+            "Calling a very busy person 'lazy'",
+            "Only scientific examples",
+            "Only historical examples"
+          ],
+          "ans": 1,
+          "explanation": "Calling a busy person 'lazy' is verbal irony, opposite of the literal meaning."
+        },
+        {
+          "q": "To identify irony, you should look for:",
+          "opts": [
+            "Only literal meaning",
+            "Contrast between literal and intended meaning",
+            "Only humor",
+            "Only criticism"
+          ],
+          "ans": 1,
+          "explanation": "Irony involves contrast between literal and intended meaning."
+        },
+        {
+          "q": "Understanding irony is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Develops critical thinking and appreciation of literary techniques",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding irony helps students appreciate literary techniques and develop critical thinking."
+        },
+        {
+          "q": "Which is NOT a type of irony?",
+          "opts": [
+            "Verbal",
+            "Situational",
+            "Random",
+            "Dramatic"
+          ],
+          "ans": 2,
+          "explanation": "'Random' is not a type of irony; verbal, situational, and dramatic are."
+        },
+        {
+          "q": "A common misconception about irony is:",
+          "opts": [
+            "Irony uses contrast for effect",
+            "Irony is only for humor",
+            "Irony can be serious or humorous",
+            "Irony requires audience awareness"
+          ],
+          "ans": 1,
+          "explanation": "Irony is not only for humor; it can also be used for criticism or emphasis."
+        },
+        {
+          "q": "When analyzing irony, you should:",
+          "opts": [
+            "Ignore the context",
+            "Consider tone, context, and intended meaning",
+            "Only focus on literal meaning",
+            "Skip the audience perspective"
+          ],
+          "ans": 1,
+          "explanation": "Considering tone, context, and intended meaning helps identify irony."
+        },
+        {
+          "q": "In Nigerian literature, irony might be used to:",
+          "opts": [
+            "Only entertain",
+            "Criticize social issues or highlight contradictions",
+            "Only describe events",
+            "Only list facts"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian literature often uses irony to criticize social issues or highlight contradictions."
+        }
+      ]
+    }
+  ]
+}

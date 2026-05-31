@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const classSelect = document.getElementById('class-select');
     const subjectSelect = document.getElementById('subject-select');
-    const termSelect = document.getElementById('term-select'); // New element
+    const termSelect = document.getElementById('term-select');
     const weekSelect = document.getElementById('week-select');
     const contentArea = document.getElementById('content-area');
 
@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
         history.pushState({ path: newUrl }, '', newUrl);
 
         // Construct the JSON path: data/class/subject/term/week.json
-        // Example: data/sss1/chemistry/term1/week1.json
         const jsonPath = `data/${selectedClass}/${selectedSubject}/term${selectedTerm}/week${selectedWeek}.json`;
 
         contentArea.innerHTML = '<p class="loading">Loading content...</p>';
@@ -61,8 +60,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Function to render the JSON data to HTML
     function renderContent(data) {
-        let html = `<h2>${data.course} | Term ${data.term} | Week ${data.week}</h2>`;
-        html += `<h3>${data.topic}</h3>`;
+        let html = `<div class="content-card">
+            <h2>${data.course} | Term ${data.term} | Week ${data.week}</h2>
+            <h3>${data.topic}</h3>`;
 
         data.subUnits.forEach(unit => {
             html += `<div class="sub-unit">
@@ -80,17 +80,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
             html += `</div>`;
 
-            // Video Embed
+            // Video Section - Show placeholder if no videoId
             if (unit.videoId) {
                 html += `<div class="video-container">
                     <iframe src="https://www.youtube.com/embed/${unit.videoId}" 
                             frameborder="0" allowfullscreen></iframe>
                 </div>`;
+            } else {
+                html += `<div class="video-placeholder">
+                    <div class="placeholder-icon">🎬</div>
+                    <p>Video Coming Soon</p>
+                    <p class="placeholder-note">Educational video for this topic will be available soon.</p>
+                </div>`;
             }
 
-            // Quiz Section
+            // Quiz Section - Hidden by default with toggle button
             html += `<div class="quiz-section">
-                <h5>Quiz</h5>`;
+                <button class="quiz-toggle-btn" onclick="toggleQuiz('${unit.id}')">
+                    <span class="btn-icon">📝</span>
+                    Start Quiz
+                </button>
+                
+                <div id="quiz-${unit.id}" class="quiz-container" style="display: none;">
+                    <h5>Week ${data.week} Quiz</h5>`;
             
             unit.quiz.forEach((q, index) => {
                 html += `<div class="question" id="q-${unit.id}-${index}">
@@ -98,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="options">`;
                 
                 q.opts.forEach((opt, i) => {
-                    html += `<button onclick="checkAnswer('${unit.id}', ${index}, ${i}, ${q.ans})">${opt}</button>`;
+                    html += `<button onclick="checkAnswer('${unit.id}', ${index}, ${i}, ${q.ans}, '${q.explanation.replace(/'/g, "\\'")}')">${opt}</button>`;
                 });
 
                 html += `</div>
@@ -106,16 +118,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>`;
             });
 
-            html += `</div></div>`;
+            html += `</div></div></div>`;
         });
 
+        html += `</div>`;
         contentArea.innerHTML = html;
     }
 
     // Event Listeners
     classSelect.addEventListener('change', loadContent);
     subjectSelect.addEventListener('change', loadContent);
-    termSelect.addEventListener('change', loadContent); // Listen for term changes
+    termSelect.addEventListener('change', loadContent);
     weekSelect.addEventListener('change', loadContent);
 
     // Initial load from URL params
@@ -134,10 +147,26 @@ document.addEventListener('DOMContentLoaded', () => {
     init();
 });
 
+// Global function to toggle quiz visibility
+function toggleQuiz(unitId) {
+    const quizContainer = document.getElementById(`quiz-${unitId}`);
+    const toggleBtn = document.querySelector(`button[onclick="toggleQuiz('${unitId}')"]`);
+    
+    if (quizContainer.style.display === 'none') {
+        quizContainer.style.display = 'block';
+        toggleBtn.innerHTML = '<span class="btn-icon">📝</span> Hide Quiz';
+        toggleBtn.classList.add('active');
+    } else {
+        quizContainer.style.display = 'none';
+        toggleBtn.innerHTML = '<span class="btn-icon">📝</span> Start Quiz';
+        toggleBtn.classList.remove('active');
+    }
+}
+
 // Global function for quiz buttons
-function checkAnswer(unitId, questionIndex, selectedOptionIndex, correctAnswerIndex) {
+function checkAnswer(unitId, questionIndex, selectedOptionIndex, correctAnswerIndex, explanation) {
     const feedbackEl = document.getElementById(`fb-${unitId}-${questionIndex}`);
-    const parent = feedbackEl.parentElement;
+    const parent = document.getElementById(`q-${unitId}-${questionIndex}`);
     
     // Get all buttons in this question
     const buttons = parent.querySelectorAll('.options button');
@@ -147,40 +176,14 @@ function checkAnswer(unitId, questionIndex, selectedOptionIndex, correctAnswerIn
 
     if (selectedOptionIndex === correctAnswerIndex) {
         feedbackEl.style.display = 'block';
-        feedbackEl.style.color = 'green';
-        feedbackEl.textContent = "✅ Correct!";
-        buttons[selectedOptionIndex].style.background = '#d4edda';
+        feedbackEl.style.color = 'var(--success)';
+        feedbackEl.innerHTML = `<strong>✅ Correct!</strong><br><em>${explanation}</em>`;
+        buttons[selectedOptionIndex].classList.add('correct');
     } else {
         feedbackEl.style.display = 'block';
-        feedbackEl.style.color = 'red';
-        feedbackEl.textContent = "❌ Incorrect. Check the explanation.";
-        buttons[selectedOptionIndex].style.background = '#f8d7da';
-        buttons[correctAnswerIndex].style.background = '#d4edda';
+        feedbackEl.style.color = 'var(--error)';
+        feedbackEl.innerHTML = `<strong>❌ Incorrect.</strong><br><em>${explanation}</em>`;
+        buttons[selectedOptionIndex].classList.add('incorrect');
+        buttons[correctAnswerIndex].classList.add('correct');
     }
 }
-
-// Add these functions to your existing app.js
-
-function changeWeek(direction) {
-    const currentWeek = parseInt(weekSelect.value);
-    const newWeek = currentWeek + direction;
-    
-    if (newWeek >= 1 && newWeek <= 12) {
-        weekSelect.value = newWeek;
-        loadContent();
-        updateNavButtons();
-    }
-}
-
-function updateNavButtons() {
-    const currentWeek = parseInt(weekSelect.value);
-    const prevBtn = document.getElementById('prev-week');
-    const nextBtn = document.getElementById('next-week');
-    
-    prevBtn.disabled = currentWeek <= 1;
-    nextBtn.disabled = currentWeek >= 12;
-}
-
-// Update the loadContent function to call updateNavButtons
-// Add this line at the end of your loadContent function:
-// updateNavButtons();

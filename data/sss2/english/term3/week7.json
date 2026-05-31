@@ -1,0 +1,840 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 7,
+  "topic": "Speech, Structure, Summary, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w7_su1",
+      "title": "7.1 Speech: Consonant Sounds - Nasals /n/, /m/, /ŋ/",
+      "notes": [
+        "Speech: Consonant Sounds - Nasals /n/, /m/, /ŋ/",
+        "",
+        "Key Concepts:",
+        "1. What are nasal consonants?",
+        "   - Sounds made by allowing air to flow through the nose",
+        "   - Produced with the mouth closed or partially closed",
+        "   - Examples: /n/ as in no, /m/ as in me, /ŋ/ as in sing",
+        "",
+        "2. Nasal consonants for practice:",
+        "   - /n/ as in no, man, sun, nation, nation",
+        "   - /m/ as in me, man, sum, common, moment",
+        "   - /ŋ/ as in sing, long, thing, morning, evening",
+        "",
+        "3. Importance of distinguishing nasal sounds:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'sin' /sɪn/ vs 'sing' /sɪŋ/ - different meanings!",
+        "",
+        "4. Listening strategies for nasal sounds:",
+        "   - Focus on the speaker: listen carefully to nasal articulation",
+        "   - Listen for minimal pairs: words that differ only in nasal sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say sin or sing?'",
+        "",
+        "5. Speaking strategies for nasal sounds:",
+        "   - Practice nasal articulation: mouth and nose position",
+        "   - Use minimal pairs for practice: sin/sing, man/mang, sun/sung",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on nasal clarity",
+        "",
+        "Nigerian Context:",
+        "• Common nasal sound challenges for Nigerian speakers:",
+        "  - Confusing /n/ and /ŋ/: 'sin' vs 'sing'",
+        "  - Difficulty with final nasal sounds",
+        "  - Influence of native language consonant systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Education': 'Students learn in school' (clear /n/)",
+        "  - 'Community': 'Morning prayer is important' (clear /ŋ/)",
+        "  - 'Health': 'Wash your hands' (clear /n/ and /m/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear nasal sounds in multilingual Nigerian classrooms",
+        "  - Importance of nasal clarity in public announcements",
+        "  - Practice with local words that have similar nasal sounds",
+        "",
+        "Practical Activities:",
+        "1. Nasal Sound Drill:",
+        "   - Teacher models nasal sounds with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: sin/sing, man/mang, sun/sung",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different nasal sounds",
+        "   - Students raise hands for /n/, stand for /m/, etc.",
+        "   - Practice with Nigerian-relevant words: 'sin' (wrong) vs 'sing' (song)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target nasal sounds",
+        "   - Focus on clear nasal articulation",
+        "   - Peer feedback on nasal clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Nasal sounds don't matter in Nigerian English': Incorrect nasals can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct nasals': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear nasal pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• Nasal consonants are sounds made by allowing air to flow through the nose",
+        "• Listening strategies help you distinguish between similar nasal sounds",
+        "• Speaking strategies help you pronounce nasals clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of nasal consonant sounds with example words",
+        "Diagram of mouth and nose positions for each nasal sound",
+        "Sample minimal pairs practice: sin/sing, man/mang, sun/sung",
+        "Listening strategy flowchart: Focus, Listen for nasal articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for nasal practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English nasal consonants pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Nasal consonants are:",
+          "opts": [
+            "Sounds made with free airflow through the mouth",
+            "Sounds made by allowing air to flow through the nose",
+            "Only vowel sounds",
+            "Only used in poetry"
+          ],
+          "ans": 1,
+          "explanation": "Nasal consonants are made by allowing air to flow through the nose while the mouth is closed or partially closed."
+        },
+        {
+          "q": "The word 'sing' has the nasal sound:",
+          "opts": [
+            "/n/",
+            "/m/",
+            "/ŋ/",
+            "/l/"
+          ],
+          "ans": 2,
+          "explanation": "'Sing' has the nasal sound /ŋ/; 'sin' has /n/, 'sim' has /m/, 'sill' has /l/."
+        },
+        {
+          "q": "Correct nasal pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct nasal sounds prevent confusion between words like 'sin' and 'sing' which have different meanings."
+        },
+        {
+          "q": "When listening for nasal sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for nasal articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for nasal articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common nasal sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/n/ and /ŋ/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /n/ (as in 'sin') and /ŋ/ (as in 'sing')."
+        },
+        {
+          "q": "A good speaking strategy for nasals is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice nasal articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing nasal articulation with minimal pairs (sin/sing) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different nasal sounds?",
+          "opts": [
+            "sin/sing",
+            "sin/sin",
+            "sing/sing",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Sin' has /n/; 'sing' has /ŋ/ - different nasal sounds change the word meaning."
+        },
+        {
+          "q": "Understanding nasal sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear nasal pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a nasal consonant?",
+          "opts": [
+            "/a:/",
+            "/n/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/n/ is a nasal consonant; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about nasals is:",
+          "opts": [
+            "Nasal sounds can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English nasal sounds are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w7_su2",
+      "title": "7.2 Structure: Concord (Agreement Between Subject and Verb)",
+      "notes": [
+        "Structure: Concord (Agreement Between Subject and Verb)",
+        "",
+        "Key Concepts:",
+        "1. What is concord?",
+        "   - Agreement between the subject and verb in a sentence",
+        "   - Ensures grammatical correctness and clarity",
+        "   - Example: 'The boy runs' (singular subject + singular verb)",
+        "",
+        "2. Basic rules of subject-verb agreement:",
+        "   a) Singular subject + singular verb:",
+        "      - 'The student studies hard.'",
+        "      - 'She goes to school.'",
+        "   b) Plural subject + plural verb:",
+        "      - 'The students study hard.'",
+        "      - 'They go to school.'",
+        "   c) Compound subjects:",
+        "      - 'The boy and girl play together.' (plural verb)",
+        "      - 'Either the boy or the girl is coming.' (verb agrees with nearest subject)",
+        "",
+        "3. Special cases of concord:",
+        "   - Collective nouns: 'The team is winning.' (singular) vs 'The team are arguing.' (plural)",
+        "   - Indefinite pronouns: 'Everyone is here.' (singular)",
+        "   - Titles and names: 'Nigeria is a country.' (singular)",
+        "   - Quantities and measurements: 'Ten naira is enough.' (singular)",
+        "",
+        "4. Identifying concord in passages:",
+        "   - Look for subject and verb pairs",
+        "   - Ask: Does the verb agree with the subject in number?",
+        "   - Example passage:",
+        "     'The students who study hard pass their exams. Everyone in the class is preparing.'",
+        "     Concord: 'students...pass' (plural), 'Everyone...is' (singular)",
+        "",
+        "5. Making sentences with correct concord:",
+        "   - Identify the subject first",
+        "   - Choose the verb that agrees in number",
+        "   - Check for special cases (collective nouns, indefinite pronouns)",
+        "",
+        "Nigerian Context:",
+        "• Common concord challenges in Nigerian English:",
+        "  - Collective nouns: 'The government are...' vs 'The government is...'",
+        "  - Indefinite pronouns: 'Everybody have...' vs 'Everybody has...'",
+        "  - Compound subjects: 'The teacher and students is...' vs 'The teacher and students are...'",
+        "",
+        "• Cultural considerations:",
+        "  - Using correct concord to express ideas clearly in Nigerian contexts",
+        "  - Concord for value discussions: 'Everyone should respect elders.'",
+        "  - Concord for national development: 'Nigeria needs unity.'",
+        "",
+        "Practical Activities:",
+        "1. Concord Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline subject-verb pairs and check for agreement",
+        "   - Class discusses findings and concord rules",
+        "",
+        "2. Concord Correction Game:",
+        "   - Teacher writes sentences with concord errors",
+        "   - Students identify and correct the errors",
+        "   - Groups present their corrections with explanations",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive subject cards and verb cards",
+        "   - In groups, they create sentences with correct subject-verb agreement",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Concord is only about singular/plural': Concord also involves collective nouns, indefinite pronouns, and special cases",
+        "• 'Concord doesn't affect meaning': Incorrect concord can confuse readers and change meaning",
+        "• 'Only one rule for concord': Different rules apply to different types of subjects",
+        "• 'Concord is not important': Correct concord is essential for grammatical accuracy and clarity",
+        "",
+        "Nigerian Context:",
+        "• Understanding concord supports clear, grammatical communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of concord is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Concord is agreement between subject and verb in a sentence",
+        "• Rules include singular/plural agreement, collective nouns, indefinite pronouns, and special cases",
+        "• Functions include ensuring grammatical correctness and clarity",
+        "• Mastery of concord supports clear, grammatical communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of concord rules with Nigerian examples",
+        "Diagram showing subject-verb agreement patterns",
+        "Sample passage with concord highlighted",
+        "Concord correction activity template",
+        "Nigerian context: Common concord challenges in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar concord subject verb agreement site:youtube.com",
+      "quiz": [
+        {
+          "q": "Concord refers to:",
+          "opts": [
+            "Agreement between adjectives and nouns",
+            "Agreement between subject and verb in a sentence",
+            "Agreement between prepositions and objects",
+            "Agreement between conjunctions and clauses"
+          ],
+          "ans": 1,
+          "explanation": "Concord is agreement between the subject and verb in a sentence, ensuring grammatical correctness."
+        },
+        {
+          "q": "Which sentence shows correct concord?",
+          "opts": [
+            "The boy run fast.",
+            "The boys runs fast.",
+            "The boy runs fast.",
+            "The boys run fast."
+          ],
+          "ans": 2,
+          "explanation": "'The boy runs fast' shows correct concord: singular subject 'boy' + singular verb 'runs'."
+        },
+        {
+          "q": "In the sentence 'The students who study hard pass their exams', 'students...pass' shows:",
+          "opts": [
+            "Singular subject + singular verb",
+            "Plural subject + plural verb",
+            "Collective noun agreement",
+            "Indefinite pronoun agreement"
+          ],
+          "ans": 1,
+          "explanation": "'Students' is plural, so it takes the plural verb 'pass'."
+        },
+        {
+          "q": "Which type of subject requires special concord rules?",
+          "opts": [
+            "Only singular subjects",
+            "Collective nouns, indefinite pronouns, and compound subjects",
+            "Only plural subjects",
+            "Only proper nouns"
+          ],
+          "ans": 1,
+          "explanation": "Collective nouns, indefinite pronouns, and compound subjects have special concord rules."
+        },
+        {
+          "q": "In Nigerian context, which shows correct concord?",
+          "opts": [
+            "The government are working.",
+            "Everybody have a role.",
+            "Nigeria need unity.",
+            "Everyone should respect elders."
+          ],
+          "ans": 3,
+          "explanation": "'Everyone should respect elders' shows correct concord: indefinite pronoun 'Everyone' (singular) + singular verb 'should respect'."
+        },
+        {
+          "q": "Concord helps to:",
+          "opts": [
+            "Make sentences longer",
+            "Ensure grammatical correctness and clarity",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct concord ensures grammatical correctness and clarity in sentences."
+        },
+        {
+          "q": "Understanding concord is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, grammatical communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Concord is essential for grammatical accuracy and clarity, which is vital for academic and daily communication."
+        },
+        {
+          "q": "Which is NOT a special case of concord?",
+          "opts": [
+            "Collective nouns",
+            "Indefinite pronouns",
+            "Action verbs",
+            "Compound subjects"
+          ],
+          "ans": 2,
+          "explanation": "'Action verbs' is not a special case of concord; collective nouns, indefinite pronouns, and compound subjects are."
+        },
+        {
+          "q": "A common misconception about concord is:",
+          "opts": [
+            "Concord ensures subject-verb agreement",
+            "Concord is only about singular/plural",
+            "Concord involves special cases",
+            "Practice improves concord usage"
+          ],
+          "ans": 1,
+          "explanation": "Concord is not only about singular/plural; it also involves collective nouns, indefinite pronouns, and special cases."
+        },
+        {
+          "q": "A good strategy for checking concord is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: Does the verb agree with the subject in number?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking if the verb agrees with the subject in number helps check concord regardless of sentence complexity."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w7_su3",
+      "title": "7.3 Summary Writing: Summarizing a Given Passage in a Specific Number of Sentences",
+      "notes": [
+        "Summary Writing: Summarizing a Given Passage in a Specific Number of Sentences",
+        "",
+        "Key Concepts:",
+        "1. What is summarizing in a specific number of sentences?",
+        "   - The process of reducing a passage to a precise number of sentences",
+        "   - Requires careful selection of main ideas and concise expression",
+        "   - Example: Summarizing a 300-word passage in exactly 3 sentences",
+        "",
+        "2. Steps for summarizing in a specific number of sentences:",
+        "   - Step 1: Read the passage carefully to understand the main idea",
+        "   - Step 2: Identify the required number of sentences for the summary",
+        "   - Step 3: Select the most important main ideas and key supporting details",
+        "   - Step 4: Write one sentence per main idea, using concise language",
+        "   - Step 5: Review to ensure the summary is complete, concise, and meets the sentence requirement",
+        "",
+        "3. Features of a good summary in a specific number of sentences:",
+        "   - Uses your own words (paraphrasing)",
+        "   - Is exactly the required number of sentences",
+        "   - Includes only the most important main ideas",
+        "   - Maintains the original meaning and tone",
+        "   - Is written in complete, grammatically correct sentences",
+        "",
+        "4. Common mistakes in summarizing in a specific number of sentences:",
+        "   - Writing too many or too few sentences",
+        "   - Including minor details instead of main ideas",
+        "   - Copying sentences directly from the original",
+        "   - Changing the original meaning",
+        "",
+        "5. Strategies for effective summarizing in a specific number of sentences:",
+        "   - Count your sentences as you write to stay within the limit",
+        "   - Prioritize the most important main ideas",
+        "   - Use concise language and avoid unnecessary words",
+        "   - Practice with passages of varying lengths and sentence requirements",
+        "",
+        "Nigerian Context:",
+        "• Sample summary topic: 'The Impact of Corruption on Nigerian Development'",
+        "  - Original passage might discuss causes, effects, and solutions to corruption",
+        "  - Summary in 3 sentences should capture:",
+        "    1. Corruption undermines national development and public trust",
+        "    2. It manifests in various forms including bribery and embezzlement",
+        "    3. Collective action through education and enforcement is needed to combat it",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local issues like corruption, education, national development",
+        "  - Using summaries to communicate key points in Nigerian media and reports",
+        "  - Appreciating how summarizing skills support academic and professional success",
+        "",
+        "Practical Activities:",
+        "1. Sentence Count Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students practice summarizing in exactly 2, 3, or 4 sentences",
+        "   - Groups share their summaries and discuss sentence count and content",
+        "",
+        "2. Main Idea Prioritization:",
+        "   - Teacher reads a passage aloud",
+        "   - Students identify the top 3 main ideas for a 3-sentence summary",
+        "   - Class compares prioritized ideas and discusses which are most essential",
+        "",
+        "3. Concise Writing Practice:",
+        "   - Students receive a passage and a sentence limit",
+        "   - In groups, they write summaries within the limit",
+        "   - Summaries shared with class for feedback on conciseness and completeness",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary means copying': Summary requires paraphrasing in your own words",
+        "• 'Longer summaries are better': Effective summaries are concise and meet the sentence requirement",
+        "• 'All details are important': Only the most important main ideas should be included",
+        "• 'Sentence count doesn't matter': Meeting the specific sentence requirement is essential",
+        "",
+        "Nigerian Context:",
+        "• Summarizing in a specific number of sentences helps students succeed in Nigerian examinations",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support academic success and effective communication in Nigerian society",
+        "",
+        "Conclusion:",
+        "• Summarizing in a specific number of sentences requires careful selection of main ideas and concise expression",
+        "• Steps include reading carefully, identifying main ideas, writing concisely, and meeting the sentence requirement",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports academic success and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary writing steps for specific sentence count with examples",
+        "Flowchart for prioritizing main ideas and writing concisely",
+        "Sample passage with 3-sentence summary highlights",
+        "Nigerian context: Sample summary on corruption with sentence count",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English summary writing specific sentence count site:youtube.com",
+      "quiz": [
+        {
+          "q": "Summarizing in a specific number of sentences is:",
+          "opts": [
+            "Copying the original text",
+            "Reducing a passage to a precise number of sentences while keeping main ideas",
+            "Adding more details to a passage",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing in a specific number of sentences reduces a passage to a precise number of sentences while retaining main ideas."
+        },
+        {
+          "q": "The first step in summarizing in a specific number of sentences is to:",
+          "opts": [
+            "Write the summary immediately",
+            "Read the passage carefully to understand the main idea",
+            "Copy key sentences",
+            "Skip to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Reading the passage carefully to understand the main idea is the first step before selecting main ideas and writing concisely."
+        },
+        {
+          "q": "A feature of a good summary in a specific number of sentences is that it:",
+          "opts": [
+            "Copies sentences from the original",
+            "Is exactly the required number of sentences and uses your own words",
+            "Includes all examples and details",
+            "Is longer than the original"
+          ],
+          "ans": 1,
+          "explanation": "A good summary is exactly the required number of sentences and uses your own words to express main ideas concisely."
+        },
+        {
+          "q": "In summarizing a passage on corruption in Nigeria in 3 sentences, the main ideas might be:",
+          "opts": [
+            "Only about one case",
+            "Corruption undermines development; it manifests in various forms; collective action is needed",
+            "Only about foreign countries",
+            "Only about legal terms"
+          ],
+          "ans": 1,
+          "explanation": "The main ideas would likely be that corruption undermines development, manifests in various forms, and requires collective action."
+        },
+        {
+          "q": "A common mistake in summarizing in a specific number of sentences is:",
+          "opts": [
+            "Using your own words",
+            "Writing too many or too few sentences",
+            "Focusing on main ideas",
+            "Keeping the summary concise"
+          ],
+          "ans": 1,
+          "explanation": "Writing too many or too few sentences is a common mistake; summaries must meet the specific sentence requirement."
+        },
+        {
+          "q": "To check if your summary meets the sentence requirement, you should:",
+          "opts": [
+            "Make it longer",
+            "Count your sentences and ensure they express main ideas concisely",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Counting sentences and ensuring they express main ideas concisely helps meet the specific sentence requirement."
+        },
+        {
+          "q": "Understanding summarizing in a specific number of sentences is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in examinations and precise communication",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students succeed in WAEC, NECO, JAMB and communicate precisely in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a step in summarizing in a specific number of sentences?",
+          "opts": [
+            "Read the passage carefully",
+            "Identify the required number of sentences",
+            "Write without counting sentences",
+            "Review to ensure completeness"
+          ],
+          "ans": 2,
+          "explanation": "Writing without counting sentences is not a step; counting sentences is essential to meet the specific requirement."
+        },
+        {
+          "q": "A common misconception about summarizing in a specific number of sentences is:",
+          "opts": [
+            "Summary retains main ideas",
+            "Sentence count doesn't matter",
+            "Summary should be concise",
+            "Practice improves summarizing skills"
+          ],
+          "ans": 1,
+          "explanation": "Sentence count does matter; summaries must meet the specific sentence requirement to be effective."
+        },
+        {
+          "q": "When summarizing in a specific number of sentences, you should:",
+          "opts": [
+            "Include all examples",
+            "Prioritize main ideas and write concisely within the sentence limit",
+            "Change the original meaning",
+            "Write a longer version"
+          ],
+          "ans": 1,
+          "explanation": "Prioritizing main ideas and writing concisely within the sentence limit creates an effective summary."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w7_su4",
+      "title": "7.4 Continuous Writing: Formal Letter - Types, Features, and Language",
+      "notes": [
+        "Continuous Writing: Formal Letter - Types, Features, and Language",
+        "",
+        "Key Concepts:",
+        "1. What is a formal letter?",
+        "   - A letter written for official, business, or professional purposes",
+        "   - Uses formal, respectful language and follows a specific format",
+        "   - Example: A letter of application, complaint, or request to an organization",
+        "",
+        "2. Types of formal letters:",
+        "   a) Letter of application:",
+        "      - For jobs, admissions, opportunities",
+        "      - Example: 'Application for Teaching Position'",
+        "   b) Letter of complaint:",
+        "      - Expressing dissatisfaction respectfully",
+        "      - Example: 'Complaint about Poor Service'",
+        "   c) Letter of request:",
+        "      - Asking for something politely and formally",
+        "      - Example: 'Request for Permission to Use Facility'",
+        "   d) Letter of order:",
+        "      - Requesting goods or services formally",
+        "      - Example: 'Order for School Textbooks'",
+        "",
+        "3. Features of a formal letter:",
+        "   - Two addresses: writer's address (top right), recipient's address (left, below)",
+        "   - Formal salutation: 'Dear Sir/Madam', 'Dear Mr. Ade'",
+        "   - Clear subject line: 'Application for Teaching Position'",
+        "   - Body: Introduction, purpose, details, desired action, conclusion",
+        "   - Formal closing: 'Yours faithfully', 'Yours sincerely'",
+        "   - Signature and full name",
+        "",
+        "4. Language and tone of formal letters:",
+        "   - Formal and respectful: Avoid slang, colloquialisms, or emotional language",
+        "   - Clear and specific: State the purpose clearly with specific details",
+        "   - Polite and professional: Express requests or complaints respectfully",
+        "   - Solution-oriented: Suggest possible solutions or actions",
+        "",
+        "5. Steps for writing a formal letter:",
+        "   - Step 1: Identify the purpose and recipient",
+        "   - Step 2: Gather specific details: qualifications, reasons, order details",
+        "   - Step 3: Organize ideas: introduction, purpose, details, desired action, conclusion",
+        "   - Step 4: Write a draft with formal language and clear structure",
+        "   - Step 5: Revise for clarity, tone, and completeness",
+        "",
+        "Nigerian Context:",
+        "• Sample formal letter topics for Nigerian students:",
+        "  - Application: 'Application for Admission to University of Lagos'",
+        "  - Complaint: 'Complaint about Poor Road Conditions in Our Community'",
+        "  - Request: 'Request for Sponsorship for School Sports Day'",
+        "  - Order: 'Order for School Textbooks from Local Bookstore'",
+        "",
+        "• Cultural considerations:",
+        "  - Using formal, respectful language appropriate for Nigerian contexts",
+        "  - Including local references: institution names, community events, cultural norms",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Format Practice:",
+        "   - Teacher displays sample formal letters of different types",
+        "   - Students identify and label each part: addresses, salutation, body, closing",
+        "   - Students practice writing each part correctly",
+        "",
+        "2. Letter Writing:",
+        "   - Students choose a formal letter type and topic relevant to Nigerian life",
+        "   - Students write a formal letter following the correct format",
+        "   - Focus on formal tone, specific details, and clear structure",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange letters with partners",
+        "   - Partners check for correct format, formal tone, and clarity",
+        "   - Students revise their letters based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Formal letters are only for jobs': Formal letters are used for applications, complaints, requests, orders, and many other purposes",
+        "• 'Longer letters are better': Effective formal letters are clear and focused, not just long",
+        "• 'Formal letters don't need planning': Planning helps create logical, persuasive formal letters",
+        "• 'Only experts can write formal letters': Everyone can learn to write effective formal letters with practice",
+        "",
+        "Nigerian Context:",
+        "• Writing formal letters supports clear, respectful communication for academic and professional contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Letter writing skills are foundational for academic success and career advancement",
+        "",
+        "Conclusion:",
+        "• Formal letters express specific purposes respectfully and formally",
+        "• Features include two addresses, formal salutation, clear body, and formal closing",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of formal letter writing supports academic success and professional communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of formal letter types with Nigerian examples",
+        "Diagram of letter writing steps: identify purpose, gather details, organize, draft, revise",
+        "Sample formal letters (application, complaint, request) with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in formal letter writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing formal letter types features language site:youtube.com",
+      "quiz": [
+        {
+          "q": "A formal letter is:",
+          "opts": [
+            "Only an informal message",
+            "A letter written for official, business, or professional purposes",
+            "Only a poem",
+            "Only a list of facts"
+          ],
+          "ans": 1,
+          "explanation": "A formal letter is written for official, business, or professional purposes using formal language and structure."
+        },
+        {
+          "q": "Which is a type of formal letter?",
+          "opts": [
+            "Only application letters",
+            "Application, complaint, request, order letters",
+            "Only complaint letters",
+            "Only request letters"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters include application, complaint, request, and order letters for various official purposes."
+        },
+        {
+          "q": "Which is a feature of a formal letter?",
+          "opts": [
+            "Only the body",
+            "Two addresses, formal salutation, clear subject, body, formal closing",
+            "Only the salutation",
+            "Only the signature"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters include two addresses, formal salutation, clear subject, body, and formal closing."
+        },
+        {
+          "q": "The salutation in a formal letter is usually:",
+          "opts": [
+            "Dear friend",
+            "Dear Sir/Madam",
+            "Hello there",
+            "To whom it may concern"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters use formal salutations like 'Dear Sir/Madam' rather than informal greetings."
+        },
+        {
+          "q": "The language of a formal letter should be:",
+          "opts": [
+            "Only emotional and informal",
+            "Formal, respectful, clear, and professional",
+            "Only technical and complex",
+            "Only short and simple"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters use formal, respectful, clear, and professional language appropriate for the purpose."
+        },
+        {
+          "q": "The first step in writing a formal letter is to:",
+          "opts": [
+            "Write the body",
+            "Identify the purpose and recipient",
+            "Write the closing",
+            "Write the salutation"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the purpose and recipient is the first step before gathering details and organizing ideas."
+        },
+        {
+          "q": "In Nigerian context, a formal letter topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Application for Admission to University of Lagos'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Formal letter topics in Nigerian context often address local needs like university admission, community complaints, or sponsorship requests."
+        },
+        {
+          "q": "Understanding formal letter writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, respectful communication for academic and professional contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Formal letter writing skills help students communicate respectfully and effectively in academic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a part of a formal letter?",
+          "opts": [
+            "Two addresses",
+            "Formal salutation",
+            "Slang expressions",
+            "Clear subject line"
+          ],
+          "ans": 2,
+          "explanation": "Slang expressions are not appropriate for formal letters; they should use formal, respectful language."
+        },
+        {
+          "q": "A common misconception about formal letters is:",
+          "opts": [
+            "Formal letters should be formal and respectful",
+            "Formal letters are only for job applications",
+            "Formal letters can share specific details",
+            "Formal letters should suggest solutions"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters are not only for job applications; they are used for applications, complaints, requests, orders, and many other purposes."
+        }
+      ]
+    }
+  ]
+}

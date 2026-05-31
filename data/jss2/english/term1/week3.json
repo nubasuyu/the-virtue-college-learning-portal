@@ -1,0 +1,1022 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t1_w3_su1",
+      "title": "3.1 Reading: Understanding the Writer's Purpose to Irritate, Annoy, Please, Entertain",
+      "notes": [
+        "Reading for Critical Evaluation: Understanding the Writer's Purpose",
+        "",
+        "Key Concepts:",
+        "1. What is the writer's purpose?",
+        "   - The reason why the author wrote the passage",
+        "   - Common purposes: to persuade, inform, convince, irritate, annoy, please, entertain",
+        "   - Example: A humorous story aims to entertain; a satirical piece may irritate or annoy",
+        "",
+        "2. How to identify the writer's purpose:",
+        "   - Look for keywords and expressions that signal intention",
+        "   - Ask: What does the author want me to feel or do?",
+        "   - Consider the tone: humorous, sarcastic, serious, emotional",
+        "   - Example: Words like 'ridiculous', 'absurd', 'wonderful' suggest emotional intent",
+        "",
+        "3. Strategies for identifying purpose:",
+        "   - Read the title and first/last paragraphs carefully",
+        "   - Note repeated ideas or emphatic statements",
+        "   - Identify the target audience: students, adults, officials",
+        "   - Consider the context: newspaper, textbook, speech, advertisement",
+        "",
+        "4. Common purposes in Nigerian passages:",
+        "   - To irritate/annoy: satirical pieces on corruption, poor leadership",
+        "   - To please: passages on cultural achievements, national pride",
+        "   - To entertain: humorous stories, jokes, light-hearted essays",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Absurdity of Traffic Chaos in Lagos'",
+        "  - Purpose: To irritate readers about poor traffic management",
+        "  - Key words: 'ridiculous', 'chaotic', 'unbelievable', 'frustrating'",
+        "  - Tone: Sarcastic, critical, humorous",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding satire as a tool for social commentary in Nigeria",
+        "  - Recognizing how humor is used to address serious issues",
+        "  - Appreciating the power of language in Nigerian media",
+        "",
+        "Practical Activities:",
+        "1. Purpose Hunt:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to identify the writer's purpose",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Tone Analysis:",
+        "   - Teacher writes passages with different tones on the board",
+        "   - Students explain how tone signals the writer's purpose",
+        "   - Practice with passages on current issues: corruption, traffic, education",
+        "",
+        "3. Purpose Writing:",
+        "   - Students write short paragraphs with specific purposes",
+        "   - Example: Write a paragraph to please your teacher about class performance",
+        "   - Peer review for clarity of purpose and tone",
+        "",
+        "Common Misconceptions:",
+        "• 'The writer's purpose is always obvious': Purpose can be subtle and require careful analysis",
+        "• 'All passages have only one purpose': Some passages may have multiple purposes",
+        "• 'Purpose is the same as theme': Purpose is why the author wrote; theme is what the passage is about",
+        "• 'Only persuasive passages have a purpose': All writing has a purpose, even if it's to entertain",
+        "",
+        "Nigerian Context:",
+        "• Understanding writer's purpose helps students critically engage with Nigerian media and literature",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• The writer's purpose is the reason for writing: to persuade, inform, irritate, please, or entertain",
+        "• Strategies include looking for keywords, analyzing tone, and considering context",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of these skills supports critical reading and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of common writer's purposes with examples",
+        "Flowchart for identifying writer's purpose",
+        "Sample passage with keywords and tone highlighted",
+        "Nigerian context: Sample passages on traffic, corruption with purpose analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading writer's purpose irritation entertainment site:youtube.com",
+      "quiz": [
+        {
+          "q": "The writer's purpose is:",
+          "opts": [
+            "The main idea of the passage",
+            "The reason why the author wrote the passage",
+            "The title of the passage",
+            "The number of paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "The writer's purpose is the reason for writing: to persuade, inform, irritate, please, or entertain."
+        },
+        {
+          "q": "Which keyword suggests an irritating purpose?",
+          "opts": [
+            "wonderful",
+            "ridiculous",
+            "important",
+            "beautiful"
+          ],
+          "ans": 1,
+          "explanation": "'Ridiculous' suggests irritation because it expresses criticism or mockery."
+        },
+        {
+          "q": "To identify the writer's purpose, you should:",
+          "opts": [
+            "Count the number of words",
+            "Look for keywords and analyze the tone",
+            "Only read the first sentence",
+            "Ignore the title"
+          ],
+          "ans": 1,
+          "explanation": "Looking for keywords and analyzing tone helps you understand why the author wrote the passage."
+        },
+        {
+          "q": "In a passage about Lagos traffic, the purpose is likely to:",
+          "opts": [
+            "Entertain with a funny story",
+            "Irritate readers about poor traffic management",
+            "Describe a beautiful landscape",
+            "List historical dates"
+          ],
+          "ans": 1,
+          "explanation": "A passage about Lagos traffic is likely intended to irritate readers about poor traffic management."
+        },
+        {
+          "q": "A common mistake in identifying purpose is:",
+          "opts": [
+            "Looking for keywords",
+            "Assuming the purpose is always obvious",
+            "Considering the tone",
+            "Reading the title"
+          ],
+          "ans": 1,
+          "explanation": "Assuming the purpose is always obvious is a mistake; purpose can be subtle and require careful analysis."
+        },
+        {
+          "q": "The tone of a passage affects:",
+          "opts": [
+            "Only the length",
+            "How the writer's purpose is perceived",
+            "Only the vocabulary",
+            "Only the grammar"
+          ],
+          "ans": 1,
+          "explanation": "Tone affects how the writer's purpose is perceived and how the message is received."
+        },
+        {
+          "q": "Understanding writer's purpose is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with media and literature",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Understanding purpose helps students critically engage with Nigerian media, literature, and public discourse."
+        },
+        {
+          "q": "Which is NOT a common writer's purpose?",
+          "opts": [
+            "To persuade",
+            "To inform",
+            "To confuse",
+            "To entertain"
+          ],
+          "ans": 2,
+          "explanation": "Confusing the reader is not a legitimate writer's purpose; common purposes include persuade, inform, irritate, please, entertain."
+        },
+        {
+          "q": "A common misconception about purpose is:",
+          "opts": [
+            "Purpose is why the author wrote",
+            "All passages have only one purpose",
+            "Purpose can be identified through analysis",
+            "Practice improves purpose identification"
+          ],
+          "ans": 1,
+          "explanation": "Some passages may have multiple purposes; not all have only one."
+        },
+        {
+          "q": "When analyzing purpose, you should consider:",
+          "opts": [
+            "Only the first paragraph",
+            "The title, keywords, tone, and context",
+            "Only the conclusion",
+            "Only the vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Analyzing title, keywords, tone, and context helps you accurately identify the writer's purpose."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w3_su2",
+      "title": "3.2 Writing: Arrangement of Ideas in Logical Sequence with Introduction and Conclusion",
+      "notes": [
+        "Writing: Arrangement of Ideas in Logical Sequence",
+        "",
+        "Key Concepts:",
+        "1. What is logical sequence?",
+        "   - Arranging ideas in a clear, logical order that readers can follow",
+        "   - Helps readers understand the writer's message",
+        "   - Example: Introduction → Body → Conclusion",
+        "",
+        "2. Steps for arranging ideas logically:",
+        "   - Step 1: Brainstorm all ideas on the topic",
+        "   - Step 2: Group related ideas together",
+        "   - Step 3: Arrange groups in logical order (time, cause-effect, importance)",
+        "   - Step 4: Write introduction, body paragraphs, and conclusion",
+        "",
+        "3. Features of a good introduction:",
+        "   - Grabs the reader's attention",
+        "   - States the main idea or purpose",
+        "   - Provides background information if needed",
+        "   - Example: 'Have you ever wondered why traffic in Lagos is so chaotic?'",
+        "",
+        "4. Features of a good conclusion:",
+        "   - Summarizes main points",
+        "   - Restates the main idea in new words",
+        "   - Leaves a lasting impression or call to action",
+        "   - Example: 'Therefore, improving traffic management in Lagos requires collective effort.'",
+        "",
+        "5. Tips for effective arrangement:",
+        "   - Use transitional words: first, next, furthermore, therefore",
+        "   - Ensure each paragraph has one main idea",
+        "   - Check that ideas flow smoothly from one to the next",
+        "   - Review and revise for clarity and logic",
+        "",
+        "Nigerian Context:",
+        "• Sample topic: 'The Importance of Keeping Our Environment Clean'",
+        "  - Introduction: 'A clean environment promotes good health and national pride.'",
+        "  - Body:",
+        "    * Proper waste disposal prevents disease",
+        "    * Clean surroundings attract tourism and investment",
+        "    * Community participation in clean-up exercises builds unity",
+        "  - Conclusion: 'Therefore, every Nigerian must take responsibility for environmental cleanliness.'",
+        "",
+        "• Cultural considerations:",
+        "  - Including local examples: market cleanliness, community clean-up exercises",
+        "  - Addressing issues relevant to Nigerian students: waste management, pollution",
+        "  - Using logical structure that supports clear communication in Nigerian English",
+        "",
+        "Practical Activities:",
+        "1. Idea Sorting:",
+        "   - Teacher provides a list of ideas in random order for a topic",
+        "   - Students work in groups to arrange ideas in logical sequence",
+        "   - Groups present their sequences and explain their organization",
+        "",
+        "2. Introduction/Conclusion Practice:",
+        "   - Teacher provides body paragraphs for a topic",
+        "   - Students write appropriate introductions and conclusions",
+        "   - Peer review for effectiveness and logic",
+        "",
+        "3. Full Composition Writing:",
+        "   - Students write a short composition on a Nigerian topic",
+        "   - Focus on logical sequence, introduction, and conclusion",
+        "   - Teacher feedback on organization and clarity",
+        "",
+        "Common Misconceptions:",
+        "• 'Logical sequence means only time order': Sequence can be cause-effect, importance, or problem-solution too",
+        "• 'Introduction and conclusion are optional': They frame the writing and help readers understand the message",
+        "• 'Longer introductions are better': Effective introductions are concise and focused",
+        "• 'Conclusion must repeat the introduction': Conclusion should summarize, not just repeat",
+        "",
+        "Nigerian Context:",
+        "• Logical arrangement supports clear, organized writing for school assignments and exams",
+        "• Practice with local topics enhances relevance and retention",
+        "• Sequence skills are foundational for essay writing, storytelling, and academic success",
+        "",
+        "Conclusion:",
+        "• Logical sequence arranges ideas clearly for reader understanding",
+        "• Introduction and conclusion frame the writing effectively",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports academic success across all subjects"
+      ],
+      "diagramDescriptions": [
+        "Chart of logical sequence types: time, cause-effect, importance, problem-solution",
+        "Diagram of introduction-body-conclusion structure",
+        "Sample composition with logical sequence highlighted",
+        "Nigerian context: Sample topics and sequence examples",
+        "Common mistakes in sequencing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing logical sequence introduction conclusion site:youtube.com",
+      "quiz": [
+        {
+          "q": "Logical sequence means:",
+          "opts": [
+            "Random order of ideas",
+            "Arranging ideas in a clear, logical order",
+            "Only listing facts",
+            "Only writing conclusions"
+          ],
+          "ans": 1,
+          "explanation": "Logical sequence arranges ideas clearly so readers can follow the writer's message."
+        },
+        {
+          "q": "A good introduction should:",
+          "opts": [
+            "List all supporting details",
+            "Grab attention and state the main idea",
+            "Only give background information",
+            "Only ask questions"
+          ],
+          "ans": 1,
+          "explanation": "A good introduction grabs attention and states the main idea or purpose of the writing."
+        },
+        {
+          "q": "The first step in arranging ideas logically is to:",
+          "opts": [
+            "Write the conclusion",
+            "Brainstorm all ideas on the topic",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Brainstorming all ideas first helps you see what needs to be organized."
+        },
+        {
+          "q": "In a composition, the body should:",
+          "opts": [
+            "Only repeat the introduction",
+            "Develop main points with supporting details",
+            "Only give examples",
+            "Only list facts"
+          ],
+          "ans": 1,
+          "explanation": "The body develops main points with supporting details, examples, and explanations."
+        },
+        {
+          "q": "A good conclusion should:",
+          "opts": [
+            "Introduce new ideas",
+            "Summarize main points and restate the main idea",
+            "Only repeat the introduction",
+            "Only ask questions"
+          ],
+          "ans": 1,
+          "explanation": "A good conclusion summarizes main points and restates the main idea in new words."
+        },
+        {
+          "q": "In Nigerian context, a logical sequence topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'The Importance of Keeping Our Environment Clean'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Logical sequence topics in Nigerian context often address local issues like environment, education, or community development."
+        },
+        {
+          "q": "Understanding logical sequence is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, organized writing for assignments, exams, and communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Logical sequence skills help students write clearly and logically in all subjects and real-life communication."
+        },
+        {
+          "q": "Which is NOT a tip for effective arrangement?",
+          "opts": [
+            "Use transitional words",
+            "Ensure each paragraph has one main idea",
+            "Make ideas flow smoothly",
+            "Write without reviewing"
+          ],
+          "ans": 3,
+          "explanation": "Reviewing and revising is essential for clarity and logic; writing without reviewing is not effective."
+        },
+        {
+          "q": "A common misconception about logical sequence is:",
+          "opts": [
+            "Logical sequence means only time order",
+            "Sequence can be cause-effect or importance too",
+            "Transitional words help show sequence",
+            "Logical order helps readers follow ideas"
+          ],
+          "ans": 0,
+          "explanation": "Logical sequence can be time order, cause-effect, importance, or problem-solution; it is not only time order."
+        },
+        {
+          "q": "When arranging ideas, you should:",
+          "opts": [
+            "Keep ideas in random order",
+            "Group related ideas and arrange them logically",
+            "Only use the first idea",
+            "Ignore the topic"
+          ],
+          "ans": 1,
+          "explanation": "Grouping related ideas and arranging them logically creates clear, effective writing."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w3_su3",
+      "title": "3.3 Listening/Speaking: Consonant Sounds /t/, /g/, /k/",
+      "notes": [
+        "Listening and Speaking: Consonant Sounds /t/, /g/, /k/",
+        "",
+        "Key Concepts:",
+        "1. Understanding the consonant sounds:",
+        "   - /t/ as in telephone, seat, settle",
+        "   - /g/ as in go, get, give",
+        "   - /k/ as in key, cat, kick",
+        "",
+        "2. Importance of distinguishing consonant sounds:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'tie' /taɪ/ vs 'guy' /gaɪ/ - different meanings!",
+        "",
+        "3. Common word pairs for practice:",
+        "   - /t/ vs /g/: tie/guy, tall/gall, tin/gin",
+        "   - /t/ vs /k/: tie/kye, tall/call, tin/kin",
+        "   - /g/ vs /k/: go/co, get/cat, give/kive",
+        "",
+        "4. Listening strategies for consonant sounds:",
+        "   - Focus on the speaker: listen carefully to consonant articulation",
+        "   - Listen for minimal pairs: words that differ only in consonant sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say tie or guy?'",
+        "",
+        "5. Speaking strategies for consonant sounds:",
+        "   - Practice consonant articulation: /t/ is voiceless, /g/ and /k/ are voiceless but differ in place",
+        "   - Use minimal pairs for practice: tie/guy, tall/call",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on consonant clarity",
+        "",
+        "Nigerian Context:",
+        "• Common consonant sound challenges for Nigerian speakers:",
+        "  - Confusing /t/ and /k/: 'tie' vs 'kye'",
+        "  - Confusing /g/ and /k/: 'go' vs 'co'",
+        "  - Difficulty with /t/ in final position: 'seat' vs 'see'",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'School Life': 'I take the bus to school' (clear /t/)",
+        "  - 'Health Awareness': 'Go to the clinic' (clear /g/)",
+        "  - 'Community': 'Keep our environment clean' (clear /k/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear consonant sounds in multilingual Nigerian classrooms",
+        "  - Importance of consonant clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have these consonant sounds",
+        "",
+        "Practical Activities:",
+        "1. Consonant Sound Drill:",
+        "   - Teacher models /t/, /g/, /k/ with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: tie/guy, tall/call, tin/kin",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with /t/, /g/, or /k/",
+        "   - Students raise hands for /t/, stand for /g/, sit for /k/",
+        "   - Practice with Nigerian-relevant words: 'tie' (clothing) vs 'guy' (person)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with /t/, /g/, /k/",
+        "   - Focus on clear consonant articulation",
+        "   - Peer feedback on consonant clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Consonant sounds don't matter in Nigerian English': Incorrect consonant sounds can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct consonants': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear consonant pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has distinct consonant sounds /t/, /g/, /k/ that affect word meaning",
+        "• Listening strategies help you distinguish between similar consonant sounds",
+        "• Speaking strategies help you pronounce consonants clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of consonant sounds /t/, /g/, /k/ with example words",
+        "Diagram of mouth positions for each consonant sound",
+        "Sample minimal pairs practice: tie/guy, tall/call, tin/kin",
+        "Listening strategy flowchart: Focus, Listen for consonant articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for consonant practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English consonant sounds /t/ /g/ /k/ pronunciation site:youtube.com",
+      "quiz": [
+        {
+          "q": "The consonant sound /t/ is found in words like:",
+          "opts": [
+            "go, get, give",
+            "telephone, seat, settle",
+            "key, cat, kick",
+            "bee, be, see"
+          ],
+          "ans": 1,
+          "explanation": "/t/ is the consonant sound in words like telephone, seat, and settle."
+        },
+        {
+          "q": "The word 'go' has the consonant sound:",
+          "opts": [
+            "/t/",
+            "/g/",
+            "/k/",
+            "/p/"
+          ],
+          "ans": 1,
+          "explanation": "'Go' has the consonant sound /g/; 'to' has /t/, 'co' has /k/."
+        },
+        {
+          "q": "Correct consonant pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct consonant sounds prevent confusion between words like 'tie' and 'guy' which have different meanings."
+        },
+        {
+          "q": "When listening for consonant sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for consonant articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for consonant articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common consonant sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/t/ and /k/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /t/ (as in 'tie') and /k/ (as in 'kye')."
+        },
+        {
+          "q": "A good speaking strategy for consonants is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice consonant articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing consonant articulation with minimal pairs (tie/guy) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different consonant sounds?",
+          "opts": [
+            "tie/guy",
+            "tie/tie",
+            "guy/guy",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Tie' has /t/; 'guy' has /g/ - different consonant sounds change the word meaning."
+        },
+        {
+          "q": "Understanding consonant sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear consonant pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a voiceless consonant?",
+          "opts": [
+            "/b/",
+            "/d/",
+            "/t/",
+            "/g/"
+          ],
+          "ans": 2,
+          "explanation": "/t/ is a voiceless consonant; /b/, /d/, and /g/ are voiced consonants."
+        },
+        {
+          "q": "A common misconception about consonants is:",
+          "opts": [
+            "Consonant sounds can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English consonant sounds are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w3_su4",
+      "title": "3.4 Grammatical Accuracy: Verbs - Features and Functions",
+      "notes": [
+        "Grammatical Accuracy: Verbs - Features and Functions",
+        "",
+        "Key Concepts:",
+        "1. Review: What are verbs?",
+        "   - Verbs show action or state of being",
+        "   - Examples: run, eat, is, seem, become",
+        "   - Functions: show what the subject does or is",
+        "",
+        "2. Features of verbs:",
+        "   - Can change form to show tense: run/ran/running",
+        "   - Can be regular or irregular: walk/walked (regular), go/went (irregular)",
+        "   - Can be transitive or intransitive: eat (transitive), sleep (intransitive)",
+        "",
+        "3. Functions of verbs in sentences:",
+        "   - Show action: 'The boy runs fast.'",
+        "   - Show state of being: 'She is happy.'",
+        "   - Show time (tense): 'He will study tomorrow.'",
+        "",
+        "4. Identifying verbs in passages:",
+        "   - Look for words that show action or state of being",
+        "   - Ask: What is the subject doing or being?",
+        "   - Example passage:",
+        "     'Aisha runs to school every morning. She studies hard and plays with friends after class.'",
+        "     Verbs: runs (action), studies (action), plays (action)",
+        "",
+        "5. Making sentences with verbs:",
+        "   - Start with a subject + verb: 'The teacher teaches English.'",
+        "   - Add objects or complements: 'The teacher teaches English to the students.'",
+        "   - Use correct tense: 'She studied yesterday. She will study tomorrow.'",
+        "",
+        "Nigerian Context:",
+        "• Common verbs in Nigerian English:",
+        "  - Daily activities: fetch water, sweep compound, cook food, go to market",
+        "  - School activities: write exam, read book, answer question, raise hand",
+        "  - Social activities: greet elder, shake hands, dance at party, celebrate festival",
+        "",
+        "• Cultural considerations:",
+        "  - Respectful verbs for addressing elders: 'greet', 'bow', 'listen'",
+        "  - Community verbs: 'gather', 'celebrate', 'share', 'help'",
+        "  - Traditional activity verbs: 'weave', 'farm', 'trade', 'drum'",
+        "",
+        "Practical Activities:",
+        "1. Verb Hunt:",
+        "   - Teacher provides a short passage about a Nigerian market day",
+        "   - Students underline all verbs in different colors",
+        "   - Class discusses findings and verb functions",
+        "",
+        "2. Verb Sorting Game:",
+        "   - Teacher writes verbs on cards",
+        "   - Students sort into action/state, regular/irregular, transitive/intransitive",
+        "   - Groups present their sorted verbs with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive verb cards",
+        "   - In groups, they create sentences using at least three verbs",
+        "   - Sentences shared with class for feedback on correct usage",
+        "",
+        "Common Misconceptions:",
+        "• 'All verbs show physical action': Verbs can also show mental action (think, believe) or state of being (is, seem)",
+        "• 'Verbs never change form': Verbs change form to show tense (walk/walked/walking)",
+        "• 'Only one verb per sentence': Sentences can have multiple verbs (compound verbs)",
+        "• 'Verbs are not important': Verbs are essential to sentence structure and meaning",
+        "",
+        "Nigerian Context:",
+        "• Understanding verbs supports clear communication in academic writing and daily life",
+        "• Practice with Nigerian activities and cultural terms enhances relevance",
+        "• Mastery of verbs is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Verbs show action, state of being, or help other verbs",
+        "• Features include tense forms, regular/irregular patterns, transitive/intransitive usage",
+        "• Functions include showing what subjects do, are, or when actions happen",
+        "• Mastery of verbs supports clear, accurate communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of verb features: tense, regular/irregular, transitive/intransitive",
+        "Diagram showing verb functions in sentences (action, state, tense)",
+        "Sample passage with verbs highlighted by type",
+        "Verb sorting activity template",
+        "Nigerian context: Common action verbs in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar verbs features functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "A verb is a word that shows:",
+          "opts": [
+            "Only physical actions",
+            "Action or state of being",
+            "Only descriptions",
+            "Only places"
+          ],
+          "ans": 1,
+          "explanation": "A verb shows action (run, eat) or state of being (is, am, are)."
+        },
+        {
+          "q": "Which is an action verb?",
+          "opts": [
+            "is",
+            "run",
+            "am",
+            "were"
+          ],
+          "ans": 1,
+          "explanation": "'Run' is an action verb; 'is', 'am', and 'were' are linking verbs showing state of being."
+        },
+        {
+          "q": "In the sentence 'Aisha runs to school', 'runs' is a:",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Adverb"
+          ],
+          "ans": 1,
+          "explanation": "'Runs' is a verb because it shows the action Aisha is doing."
+        },
+        {
+          "q": "Which is a feature of verbs?",
+          "opts": [
+            "They never change form",
+            "They can change form to show tense",
+            "They only show physical action",
+            "They are not important in sentences"
+          ],
+          "ans": 1,
+          "explanation": "Verbs change form to show tense (walk/walked/walking)."
+        },
+        {
+          "q": "In Nigerian context, which is an action verb?",
+          "opts": [
+            "is",
+            "fetch",
+            "am",
+            "were"
+          ],
+          "ans": 1,
+          "explanation": "'Fetch' is an action verb commonly used in Nigerian English for activities like fetching water."
+        },
+        {
+          "q": "Which word can function as a verb in a sentence?",
+          "opts": [
+            "happiness",
+            "study",
+            "quickly",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Study' is a verb (an action); 'happiness' is a noun, 'quickly' is an adverb, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding verbs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear sentence construction and effective communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Verbs are essential to sentence structure; mastering them supports clear writing and speaking in all contexts."
+        },
+        {
+          "q": "Which is NOT a feature of verbs?",
+          "opts": [
+            "Can change form to show tense",
+            "Can be regular or irregular",
+            "Can only show physical action",
+            "Can be transitive or intransitive"
+          ],
+          "ans": 2,
+          "explanation": "Verbs can show physical action, mental action, or state of being; not only physical action."
+        },
+        {
+          "q": "A common misconception about verbs is:",
+          "opts": [
+            "Verbs can show state of being",
+            "All verbs show physical action",
+            "Verbs change form for tense",
+            "Verbs are essential to sentences"
+          ],
+          "ans": 1,
+          "explanation": "Not all verbs show physical action; some show mental action (think) or state of being (is)."
+        },
+        {
+          "q": "A good strategy for identifying verbs is to:",
+          "opts": [
+            "Only look for -ing endings",
+            "Ask what the subject is doing or being",
+            "Ignore the sentence context",
+            "Count the syllables"
+          ],
+          "ans": 1,
+          "explanation": "Asking what the subject is doing or being helps identify verbs regardless of their form."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w3_su5",
+      "title": "3.5 Literature: Short Stories/Novelettes Based on Road Crashes",
+      "notes": [
+        "Literature: Short Stories/Novelettes on Road Crashes",
+        "",
+        "Key Concepts:",
+        "1. What are short stories and novelettes?",
+        "   - Short stories: brief fictional narratives with plot, characters, setting, theme",
+        "   - Novelettes: longer than short stories but shorter than novels",
+        "   - Both use prose (ordinary language, not poetry)",
+        "",
+        "2. Road crash themes in literature:",
+        "   - Causes: reckless driving, bad roads, vehicle faults, human error",
+        "   - Consequences: loss of life, injury, trauma, economic loss",
+        "   - Prevention: road safety education, law enforcement, vehicle maintenance",
+        "   - Example: A story about a family affected by a road crash",
+        "",
+        "3. Features of road crash stories:",
+        "   - Setting: roads, hospitals, communities affected by crashes",
+        "   - Characters: drivers, victims, families, emergency responders",
+        "   - Plot: events leading to crash, aftermath, lessons learned",
+        "   - Theme: human responsibility, consequences of negligence, hope for change",
+        "",
+        "4. How to analyze road crash stories:",
+        "   - Identify the cause of the crash in the story",
+        "   - Note how characters respond: grief, anger, advocacy",
+        "   - Consider the message: what does the story teach about road safety?",
+        "   - Example: In a crash story, the message might be 'road safety saves lives'",
+        "",
+        "5. Why study road crash literature?",
+        "   - To understand road safety issues through storytelling",
+        "   - To develop empathy for victims and families",
+        "   - To inspire action for road safety improvement",
+        "   - To improve reading comprehension and critical thinking",
+        "",
+        "Nigerian Context:",
+        "• Road crash issues in Nigeria:",
+        "  - High accident rates on major highways: Lagos-Ibadan, Abuja-Kaduna",
+        "  - Causes: reckless driving, bad roads, vehicle faults, human error",
+        "  - Impact: loss of lives, injuries, economic burden on families",
+        "  - FRSC campaigns: 'Arrive Alive', 'Think Before You Drive'",
+        "",
+        "• Sample story themes:",
+        "  - A driver who learns road safety after a near-miss",
+        "  - A family rebuilding after losing a member to a crash",
+        "  - Community advocacy for better road infrastructure",
+        "  - Youth education on road safety rules",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for FRSC and other road safety agencies",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, responsibility, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Story Analysis:",
+        "   - Teacher provides a short story on road crashes in Nigeria",
+        "   - Students identify setting, characters, plot, theme",
+        "   - Class discusses how the story reflects real road safety issues",
+        "",
+        "2. Theme Discussion:",
+        "   - Teacher asks: 'What does this story teach about road safety?'",
+        "   - Students share their interpretations and evidence from the text",
+        "   - Connect story themes to real-life road safety actions",
+        "",
+        "3. Creative Writing:",
+        "   - Students write a short story about road safety in their community",
+        "   - Focus on setting, characters, and a clear road safety message",
+        "   - Share stories with class for feedback on theme and storytelling",
+        "",
+        "Common Misconceptions:",
+        "• 'Road crash stories are only for drivers': Literature makes road safety issues accessible to everyone",
+        "• 'Fiction can't teach real lessons': Stories can powerfully convey truths about real-world issues",
+        "• 'Only sad stories about road crashes': Stories can also show hope, resilience, and solutions",
+        "• 'Road crashes are only individual problems': Local stories show how road safety affects entire communities",
+        "",
+        "Nigerian Context:",
+        "• Understanding road crash literature helps students appreciate road safety challenges in Nigeria",
+        "• Practice with local stories enhances cultural pride and road safety awareness",
+        "• Analyzing stories develops critical thinking and writing skills",
+        "",
+        "Conclusion:",
+        "• Short stories and novelettes use narrative to explore road crash issues",
+        "• Features include setting, characters, plot, and road safety themes",
+        "• Nigerian stories reflect local road safety challenges with universal relevance",
+        "• Mastery of story analysis supports literary appreciation and road safety awareness"
+      ],
+      "diagramDescriptions": [
+        "Chart of road crash themes in literature with Nigerian examples",
+        "Diagram of story features: setting, characters, plot, theme",
+        "Sample road crash story with features highlighted",
+        "Nigerian context: Sample story themes on FRSC campaigns, community advocacy",
+        "Activity template: Story analysis and creative writing"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature road crash short stories Nigeria site:youtube.com",
+      "quiz": [
+        {
+          "q": "Short stories and novelettes are:",
+          "opts": [
+            "Only poetry",
+            "Brief fictional narratives in prose",
+            "Only non-fiction",
+            "Only historical documents"
+          ],
+          "ans": 1,
+          "explanation": "Short stories and novelettes are brief fictional narratives written in prose (ordinary language)."
+        },
+        {
+          "q": "A common road crash theme in literature is:",
+          "opts": [
+            "Only happy endings",
+            "Human responsibility and consequences of negligence",
+            "Only scientific facts",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Road crash literature often explores human responsibility and the consequences of negligence."
+        },
+        {
+          "q": "Which is a feature of road crash stories?",
+          "opts": [
+            "Only rhyming words",
+            "Setting on roads, characters affected by crashes, plot about prevention",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Road crash stories feature settings on roads, characters affected by crashes, and plots about prevention."
+        },
+        {
+          "q": "In Nigerian context, a road crash story might address:",
+          "opts": [
+            "Only foreign issues",
+            "High accident rates on Lagos-Ibadan expressway",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian road crash stories often address local issues like high accident rates on major highways."
+        },
+        {
+          "q": "To analyze a road crash story, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What does the story teach about road safety?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What does the story teach about road safety?' helps you analyze the story's road safety theme."
+        },
+        {
+          "q": "A common message in road crash stories is:",
+          "opts": [
+            "Only sad endings",
+            "Road safety saves lives and prevents tragedy",
+            "Only realistic events",
+            "Only modern technology"
+          ],
+          "ans": 1,
+          "explanation": "Road crash stories often teach that road safety saves lives and prevents tragedy."
+        },
+        {
+          "q": "Understanding road crash literature is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to road safety issues and develops critical thinking",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Road crash literature helps students understand road safety challenges, develop empathy, and think critically about solutions."
+        },
+        {
+          "q": "Which is NOT a feature of short stories?",
+          "opts": [
+            "Plot",
+            "Characters",
+            "Rhyming lines",
+            "Setting"
+          ],
+          "ans": 2,
+          "explanation": "Rhyming lines are a feature of poetry, not short stories which are written in prose."
+        },
+        {
+          "q": "A common misconception about road crash stories is:",
+          "opts": [
+            "Stories can teach about road safety",
+            "Road crash stories are only for drivers",
+            "Stories can show hope and solutions",
+            "Local stories reflect national issues"
+          ],
+          "ans": 1,
+          "explanation": "Road crash literature is for everyone, not just drivers; it makes road safety issues accessible through storytelling."
+        },
+        {
+          "q": "Creative writing about road safety helps to:",
+          "opts": [
+            "Only memorize facts",
+            "Express understanding and inspire action on road safety",
+            "Change the story completely",
+            "Ignore the original"
+          ],
+          "ans": 1,
+          "explanation": "Creative writing helps students express their understanding of road safety and inspire action through storytelling."
+        }
+      ]
+    }
+  ]
+}

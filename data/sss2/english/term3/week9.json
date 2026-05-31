@@ -1,0 +1,833 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 9,
+  "topic": "Speech, Structure, Reading, Vocabulary, Literature",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w9_su1",
+      "title": "9.1 Speech: Listening to Identify a Speaker's Style",
+      "notes": [
+        "Speech: Listening to Identify a Speaker's Style",
+        "",
+        "Key Concepts:",
+        "1. What is speaker's style?",
+        "   - The distinctive way a person uses language in speech",
+        "   - Includes word choice, sentence structure, tone, and rhetorical devices",
+        "   - Example: A formal speaker uses complex sentences; a casual speaker uses contractions",
+        "",
+        "2. Elements of speaking style:",
+        "   a) Word choice:",
+        "      - Formal vs informal vocabulary",
+        "      - Technical terms vs everyday language",
+        "      - Example: 'utilize' vs 'use', 'commence' vs 'start'",
+        "   b) Sentence structure:",
+        "      - Simple vs complex sentences",
+        "      - Use of questions, exclamations, or statements",
+        "      - Example: 'We must act.' vs 'Isn't it time we took action?'",
+        "   c) Tone and delivery:",
+        "      - Formal, serious, humorous, passionate",
+        "      - Pace, volume, and intonation patterns",
+        "      - Example: A passionate speaker uses emphatic stress and varied pitch",
+        "   d) Rhetorical devices:",
+        "      - Repetition, rhetorical questions, metaphors",
+        "      - Example: 'We must act. We must change. We must succeed.'",
+        "",
+        "3. How to identify speaker's style:",
+        "   - Listen for patterns in word choice and sentence structure",
+        "   - Note the tone and delivery style",
+        "   - Identify rhetorical devices and their effects",
+        "   - Ask: What is the speaker's purpose? How does style support it?",
+        "",
+        "4. Why identify speaker's style?",
+        "   - To understand the speaker's purpose and audience",
+        "   - To evaluate the effectiveness of the speech",
+        "   - To improve your own speaking and presentation skills",
+        "   - To develop critical listening and analytical skills",
+        "",
+        "Nigerian Context:",
+        "• Sample speech styles in Nigerian contexts:",
+        "  - Formal: Political speeches, official addresses",
+        "  - Informal: Community meetings, casual conversations",
+        "  - Persuasive: Campaign speeches, advocacy talks",
+        "  - Informative: Educational lectures, news reports",
+        "",
+        "• Cultural considerations:",
+        "  - Recognizing how Nigerian speakers use style to convey cultural values",
+        "  - Understanding the role of proverbs, idioms, and local expressions in style",
+        "  - Appreciating how style affects audience reception in Nigerian contexts",
+        "",
+        "Practical Activities:",
+        "1. Style Identification Practice:",
+        "   - Teacher plays recorded speeches with different styles",
+        "   - Students work in pairs to identify style elements",
+        "   - Groups share their findings and discuss how style supports purpose",
+        "",
+        "2. Style Analysis:",
+        "   - Teacher reads passages with different styles",
+        "   - Students identify word choice, sentence structure, tone, and rhetorical devices",
+        "   - Class discusses how style affects the message and audience",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a short speech in a specific style",
+        "   - Focus on word choice, sentence structure, tone, and rhetorical devices",
+        "   - Peer feedback on style consistency and effectiveness",
+        "",
+        "Common Misconceptions:",
+        "• 'Style is only about word choice': Style includes word choice, sentence structure, tone, and rhetorical devices",
+        "• 'Only experts can identify style': With practice, anyone can learn to recognize speaking styles",
+        "• 'Style doesn't affect meaning': Style significantly influences how messages are received and understood",
+        "• 'Style is only for formal speeches': Style is important in all types of speaking, formal and informal",
+        "",
+        "Nigerian Context:",
+        "• Identifying speaker's style helps students critically engage with Nigerian media and public discourse",
+        "• Practice with local speeches enhances relevance and retention",
+        "• These skills support success in exams and informed civic participation",
+        "",
+        "Conclusion:",
+        "• Speaker's style is the distinctive way a person uses language in speech",
+        "• Elements include word choice, sentence structure, tone, and rhetorical devices",
+        "• Strategies include listening for patterns, noting tone, and identifying rhetorical devices",
+        "• Mastery of style identification supports critical listening and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of speaking style elements with Nigerian examples",
+        "Flowchart for identifying speaker's style",
+        "Sample speech with style elements highlighted",
+        "Nigerian context: Sample speeches with different styles",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English listening identify speaker style site:youtube.com",
+      "quiz": [
+        {
+          "q": "Speaker's style is:",
+          "opts": [
+            "Only the words a person uses",
+            "The distinctive way a person uses language in speech",
+            "Only the tone of voice",
+            "Only for formal speeches"
+          ],
+          "ans": 1,
+          "explanation": "Speaker's style is the distinctive way a person uses language in speech, including word choice, sentence structure, tone, and rhetorical devices."
+        },
+        {
+          "q": "An element of speaking style is:",
+          "opts": [
+            "Only word choice",
+            "Word choice, sentence structure, tone, and rhetorical devices",
+            "Only sentence structure",
+            "Only rhetorical devices"
+          ],
+          "ans": 1,
+          "explanation": "Speaking style includes word choice, sentence structure, tone, and rhetorical devices."
+        },
+        {
+          "q": "To identify speaker's style, you should:",
+          "opts": [
+            "Only listen to the words",
+            "Listen for patterns in word choice, sentence structure, tone, and rhetorical devices",
+            "Ignore the context",
+            "Only focus on the title"
+          ],
+          "ans": 1,
+          "explanation": "Listening for patterns in word choice, sentence structure, tone, and rhetorical devices helps you identify speaker's style."
+        },
+        {
+          "q": "In a political speech in Nigeria, the style might be:",
+          "opts": [
+            "Only casual and informal",
+            "Formal, persuasive, with rhetorical devices",
+            "Only humorous",
+            "Only informative"
+          ],
+          "ans": 1,
+          "explanation": "Political speeches in Nigeria are often formal, persuasive, and use rhetorical devices to engage the audience."
+        },
+        {
+          "q": "A common mistake in identifying style is:",
+          "opts": [
+            "Listening for patterns",
+            "Assuming style is only about word choice",
+            "Noting tone and delivery",
+            "Identifying rhetorical devices"
+          ],
+          "ans": 1,
+          "explanation": "Assuming style is only about word choice is a mistake; style includes word choice, sentence structure, tone, and rhetorical devices."
+        },
+        {
+          "q": "Understanding speaker's style is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with Nigerian media and public discourse",
+            "Only for listening exercises",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Identifying speaker's style helps students critically engage with Nigerian media and public discourse."
+        },
+        {
+          "q": "Which is NOT an element of speaking style?",
+          "opts": [
+            "Word choice",
+            "Sentence structure",
+            "Random guessing",
+            "Tone and delivery"
+          ],
+          "ans": 2,
+          "explanation": "'Random guessing' is not an element of speaking style; word choice, sentence structure, tone, and rhetorical devices are."
+        },
+        {
+          "q": "A common misconception about speaker's style is:",
+          "opts": [
+            "Style includes word choice and sentence structure",
+            "Style is only about word choice",
+            "Style affects how messages are received",
+            "Practice improves style identification"
+          ],
+          "ans": 1,
+          "explanation": "Style is not only about word choice; it includes word choice, sentence structure, tone, and rhetorical devices."
+        },
+        {
+          "q": "When identifying speaker's style, you should:",
+          "opts": [
+            "Ignore the context",
+            "Listen for patterns in word choice, sentence structure, tone, and rhetorical devices",
+            "Only focus on the words",
+            "Skip difficult sections"
+          ],
+          "ans": 1,
+          "explanation": "Listening for patterns in word choice, sentence structure, tone, and rhetorical devices helps you accurately identify speaker's style."
+        },
+        {
+          "q": "Identifying speaker's style helps students to:",
+          "opts": [
+            "Only pass exams",
+            "Critically engage with media and improve their own speaking skills",
+            "Only write essays",
+            "Only read silently"
+          ],
+          "ans": 1,
+          "explanation": "Identifying speaker's style enables critical engagement with media and improvement of one's own speaking skills."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w9_su2",
+      "title": "9.2 Structure: Introduction to Active and Passive Voice",
+      "notes": [
+        "Structure: Introduction to Active and Passive Voice",
+        "",
+        "Key Concepts:",
+        "1. What is active voice?",
+        "   - The subject performs the action of the verb",
+        "   - Structure: Subject + Verb + Object",
+        "   - Example: 'The boy kicked the ball.'",
+        "",
+        "2. What is passive voice?",
+        "   - The subject receives the action of the verb",
+        "   - Structure: Object + be + past participle + by + subject",
+        "   - Example: 'The ball was kicked by the boy.'",
+        "",
+        "3. How to form passive voice:",
+        "   - Start with the object of the active sentence",
+        "   - Add the appropriate form of 'be' (am, is, are, was, were, been, being)",
+        "   - Add the past participle of the main verb",
+        "   - Add 'by' + the original subject (optional)",
+        "   - Example: Active: 'She writes the letter.' → Passive: 'The letter is written by her.'",
+        "",
+        "4. When to use active vs passive voice:",
+        "   - Active voice: When the doer is important or known",
+        "     Example: 'The teacher explained the lesson.'",
+        "   - Passive voice: When the receiver is more important or the doer is unknown",
+        "     Example: 'The lesson was explained.' (doer not important)",
+        "",
+        "5. Identifying active and passive voice in passages:",
+        "   - Look for 'be' + past participle for passive voice",
+        "   - Ask: Is the subject performing or receiving the action?",
+        "   - Example passage:",
+        "     'The students completed the assignment. The assignment was completed by the students.'",
+        "     Active: 'The students completed the assignment.'",
+        "     Passive: 'The assignment was completed by the students.'",
+        "",
+        "Nigerian Context:",
+        "• Common active/passive voice usage in Nigerian English:",
+        "  - Active: 'The government built the school.'",
+        "  - Passive: 'The school was built by the government.'",
+        "  - Passive for emphasis: 'The road has been repaired.' (focus on road, not who repaired it)",
+        "",
+        "• Cultural considerations:",
+        "  - Using active/passive voice to emphasize different aspects in Nigerian contexts",
+        "  - Passive voice for formal or official communication",
+        "  - Active voice for direct, personal communication",
+        "",
+        "Practical Activities:",
+        "1. Voice Identification Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline active and passive voice sentences in different colors",
+        "   - Class discusses findings and voice functions",
+        "",
+        "2. Voice Conversion Game:",
+        "   - Teacher writes active sentences on cards",
+        "   - Students convert them to passive voice (and vice versa)",
+        "   - Groups present their converted sentences with explanations",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive subject, verb, and object cards",
+        "   - In groups, they create sentences in active and passive voice",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Passive voice is always wrong': Passive voice is appropriate when the receiver is more important or the doer is unknown",
+        "• 'Active voice is always better': Both voices have their uses; choice depends on emphasis and context",
+        "• 'Passive voice is only for formal writing': Passive voice is used in all types of writing and speaking",
+        "• 'Only one voice per sentence': Sentences can mix active and passive voice for different effects",
+        "",
+        "Nigerian Context:",
+        "• Understanding active and passive voice supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of voice is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Active voice has the subject performing the action; passive voice has the subject receiving the action",
+        "• Passive voice is formed with 'be' + past participle + optional 'by' phrase",
+        "• Choice between active and passive depends on emphasis and context",
+        "• Mastery of active and passive voice supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of active vs passive voice with Nigerian examples",
+        "Diagram showing active/passive voice formation",
+        "Sample passage with active and passive voice highlighted",
+        "Voice conversion activity template",
+        "Nigerian context: Common active/passive voice usage in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar active passive voice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Active voice is when:",
+          "opts": [
+            "The subject receives the action",
+            "The subject performs the action",
+            "The object is emphasized",
+            "The verb is in past tense"
+          ],
+          "ans": 1,
+          "explanation": "In active voice, the subject performs the action of the verb."
+        },
+        {
+          "q": "Which sentence is in passive voice?",
+          "opts": [
+            "The boy kicked the ball.",
+            "The ball was kicked by the boy.",
+            "The boy kicks the ball.",
+            "The boy will kick the ball."
+          ],
+          "ans": 1,
+          "explanation": "'The ball was kicked by the boy' is passive voice; the subject 'ball' receives the action."
+        },
+        {
+          "q": "To form passive voice, you need:",
+          "opts": [
+            "Only the main verb",
+            "A form of 'be' + past participle",
+            "Only the subject",
+            "Only the object"
+          ],
+          "ans": 1,
+          "explanation": "Passive voice is formed with a form of 'be' + past participle of the main verb."
+        },
+        {
+          "q": "Passive voice is appropriate when:",
+          "opts": [
+            "The doer is important",
+            "The receiver is more important or the doer is unknown",
+            "Only in questions",
+            "Only in negative sentences"
+          ],
+          "ans": 1,
+          "explanation": "Passive voice is appropriate when the receiver is more important or the doer is unknown."
+        },
+        {
+          "q": "In Nigerian context, which is passive voice?",
+          "opts": [
+            "The government built the school.",
+            "The school was built by the government.",
+            "The government builds schools.",
+            "The government will build a school."
+          ],
+          "ans": 1,
+          "explanation": "'The school was built by the government' is passive voice; the subject 'school' receives the action."
+        },
+        {
+          "q": "Active and passive voice can be used to:",
+          "opts": [
+            "Only make sentences longer",
+            "Emphasize different aspects of the action",
+            "Only for formal writing",
+            "Only in questions"
+          ],
+          "ans": 1,
+          "explanation": "Active and passive voice can be used to emphasize different aspects of the action (doer vs receiver)."
+        },
+        {
+          "q": "Understanding active and passive voice is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Active and passive voice are essential for clear, precise communication, which is vital for academic and daily success."
+        },
+        {
+          "q": "Which is NOT a feature of passive voice?",
+          "opts": [
+            "Subject receives the action",
+            "Uses 'be' + past participle",
+            "Subject performs the action",
+            "Can include 'by' phrase"
+          ],
+          "ans": 2,
+          "explanation": "'Subject performs the action' is a feature of active voice, not passive voice."
+        },
+        {
+          "q": "A common misconception about passive voice is:",
+          "opts": [
+            "Passive voice has the subject receiving the action",
+            "Passive voice is always wrong",
+            "Passive voice is formed with 'be' + past participle",
+            "Passive voice emphasizes the receiver"
+          ],
+          "ans": 1,
+          "explanation": "Passive voice is not always wrong; it is appropriate when the receiver is more important or the doer is unknown."
+        },
+        {
+          "q": "A good strategy for identifying passive voice is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Look for 'be' + past participle and ask if the subject receives the action",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Looking for 'be' + past participle and asking if the subject receives the action helps identify passive voice."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w9_su3",
+      "title": "9.3 Reading: Reading to Answer Questions",
+      "notes": [
+        "Reading: Reading to Answer Questions",
+        "",
+        "Key Concepts:",
+        "1. What is reading to answer questions?",
+        "   - The ability to understand a passage and respond to specific questions about it",
+        "   - Involves identifying main ideas, details, and implied meanings",
+        "   - Example: Reading a passage on education and answering questions about it",
+        "",
+        "2. Types of comprehension questions:",
+        "   a) Knowledge questions:",
+        "      - Ask for facts directly stated in the passage",
+        "      - Example: 'What is the main cause of exam malpractice?'",
+        "   b) Interpretation questions:",
+        "      - Ask for explanation of meaning or significance",
+        "      - Example: 'Why is education important for Nigeria?'",
+        "   c) Evaluation questions:",
+        "      - Ask for judgment or opinion based on the passage",
+        "      - Example: 'Do you agree with the author's view on education? Why?'",
+        "",
+        "3. Strategies for answering comprehension questions:",
+        "   - Read the passage carefully to understand content",
+        "   - Identify the question type (knowledge, interpretation, evaluation)",
+        "   - Locate relevant information in the passage",
+        "   - Answer in your own words, using passage evidence",
+        "   - Check that your answer addresses the question fully",
+        "",
+        "4. Common topics for practice:",
+        "   - Educational issues: exam malpractice, quality education, teacher training",
+        "   - Social issues: corruption, youth unemployment, environmental protection",
+        "   - Health issues: disease prevention, nutrition, hygiene",
+        "",
+        "5. Why answer comprehension questions?",
+        "   - Tests understanding and retention of information",
+        "   - Develops critical thinking and analytical skills",
+        "   - Essential for academic success and effective communication",
+        "   - Prepares for examinations and real-world reading tasks",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Impact of Exam Malpractice on Nigerian Education'",
+        "  - Main idea: Exam malpractice undermines the quality of education in Nigeria",
+        "  - Supporting ideas:",
+        "    * Malpractice devalues certificates and qualifications",
+        "    * It discourages hard work and honest learning",
+        "    * Solutions include stricter supervision, moral education, and consequences",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local educational challenges in Nigeria",
+        "  - Recognizing the importance of academic integrity for national development",
+        "  - Appreciating how reading comprehension supports informed citizenship",
+        "",
+        "Practical Activities:",
+        "1. Question Type Identification:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students work in pairs to identify question types (knowledge, interpretation, evaluation)",
+        "   - Groups share their findings and discuss strategies for each type",
+        "",
+        "2. Answer Practice:",
+        "   - Teacher reads a passage aloud",
+        "   - Students answer different types of questions",
+        "   - Class compares answers and discusses accuracy",
+        "",
+        "3. Passage Analysis:",
+        "   - Students read a passage on exam malpractice",
+        "   - Underline main ideas in one color, supporting details in another",
+        "   - Peer review for accuracy of identification",
+        "",
+        "Common Misconceptions:",
+        "• 'Comprehension means copying the passage': Comprehension requires understanding and responding in your own words",
+        "• 'All questions are the same': Different question types require different strategies",
+        "• 'Longer answers are better': Effective answers are clear, concise, and evidence-based",
+        "• 'Comprehension is only for exams': Comprehension skills support lifelong learning and communication",
+        "",
+        "Nigerian Context:",
+        "• Reading comprehension helps students succeed in Nigerian examinations and academic work",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support academic success and effective communication in Nigerian society",
+        "",
+        "Conclusion:",
+        "• Reading to answer questions is the ability to understand and respond to written text",
+        "• Strategies include identifying question types, locating relevant information, and answering in your own words",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of comprehension supports academic success and lifelong learning"
+      ],
+      "diagramDescriptions": [
+        "Chart of comprehension question types with examples",
+        "Flowchart for answering comprehension questions",
+        "Sample passage on exam malpractice with question types highlighted",
+        "Nigerian context: Sample passage on educational issues with comprehension questions",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading comprehension answer questions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading to answer questions is:",
+          "opts": [
+            "Only reading words",
+            "The ability to understand and respond to written text",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Reading to answer questions is the ability to understand and respond to written text, not just reading words."
+        },
+        {
+          "q": "A knowledge question in comprehension asks for:",
+          "opts": [
+            "Your personal opinion",
+            "Facts directly stated in the passage",
+            "Explanation of meaning",
+            "Judgment based on the passage"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge questions ask for facts directly stated in the passage."
+        },
+        {
+          "q": "In a passage about exam malpractice, an interpretation question might ask:",
+          "opts": [
+            "What is exam malpractice?",
+            "Why is exam malpractice harmful to Nigerian education?",
+            "Do you agree with the author's view?",
+            "How many paragraphs are in the passage?"
+          ],
+          "ans": 1,
+          "explanation": "Interpretation questions ask for explanation of meaning or significance, such as why exam malpractice is harmful."
+        },
+        {
+          "q": "A strategy for answering comprehension questions is to:",
+          "opts": [
+            "Guess randomly",
+            "Identify the question type and locate relevant information",
+            "Ignore the passage",
+            "Only focus on the title"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the question type and locating relevant information helps you answer comprehension questions accurately."
+        },
+        {
+          "q": "In Nigerian context, a comprehension passage on education might focus on:",
+          "opts": [
+            "Only foreign education systems",
+            "The impact of exam malpractice on Nigerian education",
+            "Only scientific data",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian comprehension passages on education often focus on local issues like exam malpractice, quality, or access."
+        },
+        {
+          "q": "A common mistake in comprehension is:",
+          "opts": [
+            "Reading carefully",
+            "Copying the passage instead of answering in your own words",
+            "Identifying question types",
+            "Using passage evidence"
+          ],
+          "ans": 1,
+          "explanation": "Copying the passage instead of answering in your own words is a common mistake."
+        },
+        {
+          "q": "Understanding comprehension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports academic success and effective communication",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills help students succeed academically and communicate effectively in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a type of comprehension question?",
+          "opts": [
+            "Knowledge",
+            "Interpretation",
+            "Random guess",
+            "Evaluation"
+          ],
+          "ans": 2,
+          "explanation": "'Random guess' is not a type of comprehension question; knowledge, interpretation, and evaluation are."
+        },
+        {
+          "q": "A common misconception about comprehension is:",
+          "opts": [
+            "Comprehension requires understanding",
+            "All questions are the same",
+            "Different question types require different strategies",
+            "Practice improves comprehension skills"
+          ],
+          "ans": 1,
+          "explanation": "Not all questions are the same; different question types require different strategies."
+        },
+        {
+          "q": "When answering comprehension questions, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Answer in your own words using passage evidence",
+            "Make up any story",
+            "Copy the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Answering in your own words using passage evidence shows understanding and accuracy."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w9_su4",
+      "title": "9.4 Vocabulary: British and American Spellings of Common Words",
+      "notes": [
+        "Vocabulary: British and American Spellings of Common Words",
+        "",
+        "Key Concepts:",
+        "1. What are British and American spellings?",
+        "   - Different spelling conventions for the same words in British and American English",
+        "   - Result from historical, cultural, and linguistic developments",
+        "   - Example: 'colour' (British) vs 'color' (American)",
+        "",
+        "2. Common spelling differences:",
+        "   a) -our vs -or:",
+        "      - British: colour, flavour, humour, labour",
+        "      - American: color, flavor, humor, labor",
+        "   b) -re vs -er:",
+        "      - British: centre, metre, theatre",
+        "      - American: center, meter, theater",
+        "   c) -ise vs -ize:",
+        "      - British: realise, organise, recognise",
+        "      - American: realize, organize, recognize",
+        "   d) Double consonants:",
+        "      - British: travelled, labelled, cancelled",
+        "      - American: traveled, labeled, canceled",
+        "",
+        "3. How to learn spelling differences effectively:",
+        "   - Notice patterns in spelling differences",
+        "   - Practice writing words in both conventions",
+        "   - Use dictionaries to check preferred spelling for context",
+        "   - Be consistent within a single piece of writing",
+        "",
+        "4. Why learn spelling differences?",
+        "   - Avoid confusion in international communication",
+        "   - Meet expectations of different audiences or publications",
+        "   - Improve accuracy in academic and professional writing",
+        "   - Develop awareness of English language diversity",
+        "",
+        "Nigerian Context:",
+        "• Common British/American spelling differences in Nigerian English:",
+        "  - British influence: 'colour', 'centre', 'realise' (common in education and official documents)",
+        "  - American influence: 'color', 'center', 'realize' (common in media and technology)",
+        "  - Nigerian practice: Often follows British conventions but increasingly accepts both",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding historical ties to British English in Nigerian education",
+        "  - Recognizing American English influence through media and technology",
+        "  - Appreciating flexibility in Nigerian English usage",
+        "",
+        "Practical Activities:",
+        "1. Spelling Difference Hunt:",
+        "   - Teacher provides a list of words with British/American spellings",
+        "   - Students work in pairs to identify and categorize the differences",
+        "   - Groups share their findings and discuss patterns",
+        "",
+        "2. Spelling Practice:",
+        "   - Teacher writes words in one convention",
+        "   - Students convert them to the other convention",
+        "   - Class discusses which convention is appropriate for different contexts",
+        "",
+        "3. Writing Practice:",
+        "   - Students write short paragraphs using consistent spelling conventions",
+        "   - Focus on choosing and maintaining one convention throughout",
+        "   - Peer review for consistency and accuracy",
+        "",
+        "Common Misconceptions:",
+        "• 'One spelling is correct, the other is wrong': Both conventions are correct; choice depends on context",
+        "• 'Spelling differences don't matter': Consistency in spelling is important for clarity and professionalism",
+        "• 'Nigerian English must follow only one convention': Nigerian English can flexibly use both, with awareness",
+        "• 'Spelling is only about memorization': Understanding patterns helps learn and apply spelling conventions",
+        "",
+        "Nigerian Context:",
+        "• Understanding British/American spellings supports clear, appropriate communication in academic and professional contexts",
+        "• Practice with common words enhances relevance and retention",
+        "• Spelling awareness is foundational for academic writing and international communication",
+        "",
+        "Conclusion:",
+        "• British and American spellings are different conventions for the same words",
+        "• Common differences include -our/-or, -re/-er, -ise/-ize, and double consonants",
+        "• Strategies include noticing patterns, practicing both conventions, and being consistent",
+        "• Mastery of spelling differences supports clear, appropriate communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of British vs American spelling differences with examples",
+        "Diagram of common spelling patterns and conversions",
+        "Sample text with both spelling conventions highlighted",
+        "Nigerian context: Common spelling differences in Nigerian English",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vocabulary British American spellings site:youtube.com",
+      "quiz": [
+        {
+          "q": "British and American spellings are:",
+          "opts": [
+            "Only memorizing word lists",
+            "Different spelling conventions for the same words",
+            "Only using a dictionary",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "British and American spellings are different conventions for the same words, not just memorization."
+        },
+        {
+          "q": "A common spelling difference is:",
+          "opts": [
+            "Only -our vs -or",
+            "-our vs -or, -re vs -er, -ise vs -ize, double consonants",
+            "Only -re vs -er",
+            "Only double consonants"
+          ],
+          "ans": 1,
+          "explanation": "Common spelling differences include -our/-or, -re/-er, -ise/-ize, and double consonants."
+        },
+        {
+          "q": "In British English, 'colour' is spelled:",
+          "opts": [
+            "color",
+            "colour",
+            "coler",
+            "collor"
+          ],
+          "ans": 1,
+          "explanation": "'Colour' is the British English spelling; 'color' is American."
+        },
+        {
+          "q": "To learn spelling differences effectively, you should:",
+          "opts": [
+            "Only memorize lists",
+            "Notice patterns and practice both conventions",
+            "Ignore the differences",
+            "Only use one convention"
+          ],
+          "ans": 1,
+          "explanation": "Noticing patterns and practicing both conventions helps you learn and apply spelling differences effectively."
+        },
+        {
+          "q": "In Nigerian context, which spelling is more common in education?",
+          "opts": [
+            "Only American spellings",
+            "British spellings like 'colour', 'centre', 'realise'",
+            "Only Nigerian spellings",
+            "Only scientific terms"
+          ],
+          "ans": 1,
+          "explanation": "British spellings like 'colour', 'centre', 'realise' are more common in Nigerian education due to historical ties."
+        },
+        {
+          "q": "A common mistake in spelling is:",
+          "opts": [
+            "Noticing patterns",
+            "Mixing conventions inconsistently within one piece of writing",
+            "Using a dictionary",
+            "Practicing both conventions"
+          ],
+          "ans": 1,
+          "explanation": "Mixing conventions inconsistently within one piece of writing is a common mistake; consistency is important."
+        },
+        {
+          "q": "Understanding spelling differences is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, appropriate communication in academic and international contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Spelling awareness supports clear, appropriate communication in academic and international contexts."
+        },
+        {
+          "q": "Which is NOT a common spelling difference?",
+          "opts": [
+            "-our vs -or",
+            "-re vs -er",
+            "-ise vs -ize",
+            "-tion vs -sion"
+          ],
+          "ans": 3,
+          "explanation": "'-tion vs -sion' is not a common British/American spelling difference; -our/-or, -re/-er, -ise/-ize are."
+        },
+        {
+          "q": "A common misconception about spelling differences is:",
+          "opts": [
+            "Spelling differences are conventions",
+            "One spelling is correct, the other is wrong",
+            "Patterns help learn spelling differences",
+            "Consistency is important in writing"
+          ],
+          "ans": 1,
+          "explanation": "Both British and American spellings are correct; choice depends on context, not correctness."
+        },
+        {
+          "q": "When writing, you should:",
+          "opts": [
+            "Mix conventions randomly",
+            "Choose one convention and be consistent throughout",
+            "Only use British spellings",
+            "Only use American spellings"
+          ],
+          "ans": 1,
+          "explanation": "Choosing one convention and being consistent throughout ensures clarity and professionalism in writing."
+        }
+      ]
+    }
+  ]
+}

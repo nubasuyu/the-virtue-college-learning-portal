@@ -1,0 +1,760 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 10,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w10_su1",
+      "title": "10.1 Reading: Reading to Acquire New Words - Engineering, Law Registers",
+      "notes": [
+        "Reading: Acquiring New Words - Engineering, Law Registers",
+        "",
+        "Key Concepts:",
+        "1. Review: What is Register?",
+        "   - Specialized vocabulary used in a particular field",
+        "   - Examples: Engineering: circuit, voltage, torque; Law: plaintiff, defendant, jurisdiction",
+        "",
+        "2. Strategies for Learning Register Vocabulary:",
+        "   - Read passages from the specific field",
+        "   - Identify and note unfamiliar terms",
+        "   - Use context clues to infer meaning",
+        "   - Consult dictionaries or glossaries for definitions",
+        "",
+        "3. Engineering Register Examples:",
+        "   - Concepts: circuit, voltage, torque, algorithm",
+        "   - Tools: wrench, caliper, multimeter, software",
+        "   - Processes: design, prototype, test, implement",
+        "",
+        "4. Law Register Examples:",
+        "   - Roles: plaintiff, defendant, judge, lawyer",
+        "   - Concepts: jurisdiction, liability, precedent, verdict",
+        "   - Processes: file, sue, appeal, enforce",
+        "",
+        "5. Practice with Nigerian Context:",
+        "   - Passages on Nigerian engineering: infrastructure, technology",
+        "   - Passages on Nigerian law: constitution, human rights, justice"
+      ],
+      "diagramDescriptions": [
+        "Chart of engineering and law register vocabulary",
+        "Diagram of strategies for learning register words"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading register vocabulary engineering law site:youtube.com",
+      "quiz": [
+        {
+          "q": "Register in language refers to:",
+          "opts": [
+            "Only formal speech",
+            "Specialized vocabulary used in a particular field",
+            "Only informal slang",
+            "Only poetic language"
+          ],
+          "ans": 1,
+          "explanation": "Register is specialized vocabulary used in specific fields or professions."
+        },
+        {
+          "q": "An example of engineering register is:",
+          "opts": [
+            "plaintiff",
+            "circuit",
+            "verdict",
+            "jurisdiction"
+          ],
+          "ans": 1,
+          "explanation": "'Circuit' is a term specific to engineering."
+        },
+        {
+          "q": "A law register word is:",
+          "opts": [
+            "voltage",
+            "torque",
+            "plaintiff",
+            "prototype"
+          ],
+          "ans": 2,
+          "explanation": "'Plaintiff' is a term specific to law."
+        },
+        {
+          "q": "A good strategy for learning register words is to:",
+          "opts": [
+            "Ignore context",
+            "Read passages from the specific field and use context clues",
+            "Only memorize lists",
+            "Avoid dictionaries"
+          ],
+          "ans": 1,
+          "explanation": "Reading field-specific passages and using context clues helps learn register vocabulary."
+        },
+        {
+          "q": "In Nigerian engineering, a register word might be:",
+          "opts": [
+            "plaintiff",
+            "infrastructure",
+            "verdict",
+            "jurisdiction"
+          ],
+          "ans": 1,
+          "explanation": "'Infrastructure' is a term specific to Nigerian engineering projects."
+        },
+        {
+          "q": "In Nigerian law, a register word might be:",
+          "opts": [
+            "circuit",
+            "constitution",
+            "voltage",
+            "prototype"
+          ],
+          "ans": 1,
+          "explanation": "'Constitution' is a term specific to Nigerian law."
+        },
+        {
+          "q": "Understanding register vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of technical and professional texts",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Register vocabulary helps students understand specialized texts in various fields."
+        },
+        {
+          "q": "Which is NOT an engineering register word?",
+          "opts": [
+            "circuit",
+            "voltage",
+            "plaintiff",
+            "prototype"
+          ],
+          "ans": 2,
+          "explanation": "'Plaintiff' is a law term, not engineering."
+        },
+        {
+          "q": "A common misconception about register is:",
+          "opts": [
+            "Register is field-specific vocabulary",
+            "Register is only for experts",
+            "Register can be learned through reading",
+            "Register helps professional communication"
+          ],
+          "ans": 1,
+          "explanation": "Register is not only for experts; it can be learned through exposure and practice."
+        },
+        {
+          "q": "When learning register words, you should:",
+          "opts": [
+            "Ignore the field context",
+            "Read field-specific passages and note unfamiliar terms",
+            "Only use a dictionary",
+            "Avoid practice"
+          ],
+          "ans": 1,
+          "explanation": "Reading field-specific passages and noting terms helps build register vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w10_su2",
+      "title": "10.2 Writing: Essay on 'My School'",
+      "notes": [
+        "Writing: Essay on 'My School'",
+        "",
+        "Key Concepts:",
+        "1. Planning Your Essay:",
+        "   - Brainstorm ideas about your school",
+        "   - Consider facilities, teachers, students, activities",
+        "   - Organize ideas: introduction, body, conclusion",
+        "",
+        "2. Structure of 'My School' Essay:",
+        "   - Introduction: Name your school and give a general impression",
+        "   - Body: Describe facilities, teachers, students, activities",
+        "   - Conclusion: Summarize your feelings about the school",
+        "",
+        "3. Language Features:",
+        "   - Use descriptive language for vivid imagery",
+        "   - Use specific vocabulary related to school life",
+        "   - Use present tense for current descriptions",
+        "   - Include personal experiences and observations",
+        "",
+        "4. Tips for Effective Writing:",
+        "   - Start with a strong opening statement",
+        "   - Use specific examples and details",
+        "   - Maintain consistent focus on your school",
+        "   - End with a reflective conclusion"
+      ],
+      "diagramDescriptions": [
+        "Chart of school essay structure with examples",
+        "Diagram of planning steps: brainstorm, organize, draft, revise"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing essay my school site:youtube.com",
+      "quiz": [
+        {
+          "q": "The first step in writing a school essay is to:",
+          "opts": [
+            "Write the conclusion",
+            "Brainstorm ideas about your school",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Brainstorming helps gather ideas before organizing and writing."
+        },
+        {
+          "q": "The introduction of a school essay should:",
+          "opts": [
+            "List all details",
+            "Name your school and give a general impression",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The introduction names your school and gives a general impression."
+        },
+        {
+          "q": "In the body of a school essay, you should:",
+          "opts": [
+            "Only repeat the introduction",
+            "Describe facilities, teachers, students, activities",
+            "Only write about personal life",
+            "Only use simple words"
+          ],
+          "ans": 1,
+          "explanation": "The body develops the topic with details about school life."
+        },
+        {
+          "q": "A good tip for school essay is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain focus",
+            "Only use complex words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Specific examples and focus create clear, effective essays."
+        },
+        {
+          "q": "In Nigerian context, a school essay might describe:",
+          "opts": [
+            "Only foreign schools",
+            "'My School in Lagos'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "School essays in Nigerian context often describe local school experiences."
+        },
+        {
+          "q": "Understanding school essay writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication about personal experiences and observations",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "School essay skills help students articulate personal experiences clearly."
+        },
+        {
+          "q": "Which is NOT an element of school essay?",
+          "opts": [
+            "Introduction",
+            "Body",
+            "Random thoughts",
+            "Conclusion"
+          ],
+          "ans": 2,
+          "explanation": "Random thoughts are not an element; essays need structured introduction, body, and conclusion."
+        },
+        {
+          "q": "A common misconception about school writing is:",
+          "opts": [
+            "School writing needs clear structure",
+            "Longer writing is always better",
+            "Planning helps organization",
+            "Practice improves writing"
+          ],
+          "ans": 1,
+          "explanation": "Effective school writing is clear and focused, not just long."
+        },
+        {
+          "q": "When writing about your school, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use descriptive language and maintain consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive language and focus create clear, effective school essays."
+        },
+        {
+          "q": "The conclusion of a school essay should:",
+          "opts": [
+            "Introduce new points",
+            "Summarize and express your feelings about the school",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion summarizes key points and reinforces your feelings about the school."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w10_su3",
+      "title": "10.3 Grammatical Accuracy: Modifiers (Adverbs)",
+      "notes": [
+        "Grammatical Accuracy: Modifiers (Adverbs)",
+        "",
+        "Key Concepts:",
+        "1. What are Adverbs?",
+        "   - Words that modify verbs, adjectives, or other adverbs",
+        "   - Tell how, when, where, why, or to what extent",
+        "   - Examples: quickly (how), yesterday (when), here (where), very (extent)",
+        "",
+        "2. Types of Adverbs:",
+        "   - Manner: describe how (carefully, respectfully)",
+        "   - Time: describe when (now, yesterday, soon)",
+        "   - Place: describe where (here, there, everywhere)",
+        "   - Degree: describe extent (very, quite, too)",
+        "",
+        "3. Functions of Adverbs:",
+        "   - Modify verbs: 'He runs quickly.'",
+        "   - Modify adjectives: 'She is very intelligent.'",
+        "   - Modify other adverbs: 'He runs extremely quickly.'",
+        "",
+        "4. Position of Adverbs:",
+        "   - After the verb: 'She sings beautifully.'",
+        "   - Before the adjective: 'It is very hot.'",
+        "   - At beginning/end: 'Yesterday, we went to school.'",
+        "",
+        "5. Identifying Adverbs in Passages:",
+        "   - Look for words ending in -ly (but not always)",
+        "   - Ask: How? When? Where? To what extent?",
+        "   - Example: 'Aisha carefully crossed the road yesterday.'",
+        "     Adverbs: carefully (manner), yesterday (time)"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverb types with Nigerian examples",
+        "Diagram showing adverb positions in sentences"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar adverbs modifiers site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverb is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverb modifies verbs, adjectives, or other adverbs."
+        },
+        {
+          "q": "Which is an adverb of manner?",
+          "opts": [
+            "yesterday",
+            "carefully",
+            "here",
+            "very"
+          ],
+          "ans": 1,
+          "explanation": "'Carefully' is an adverb of manner; 'yesterday' is time, 'here' is place, 'very' is degree."
+        },
+        {
+          "q": "In 'She sings beautifully', 'beautifully' modifies:",
+          "opts": [
+            "She",
+            "sings",
+            "the sentence",
+            "nothing"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' modifies the verb 'sings'."
+        },
+        {
+          "q": "Which type of adverb describes to what extent?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Degree"
+          ],
+          "ans": 3,
+          "explanation": "Adverbs of degree describe extent (very, quite, too)."
+        },
+        {
+          "q": "In Nigerian context, an adverb of manner might be:",
+          "opts": [
+            "now",
+            "respectfully",
+            "here",
+            "very"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverb of manner commonly used in Nigerian English."
+        },
+        {
+          "q": "Adverbs can be placed:",
+          "opts": [
+            "Only after verbs",
+            "After verbs, before adjectives, or at sentence beginning/end",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs can come after verbs, before adjectives, or at sentence beginning/end."
+        },
+        {
+          "q": "Which word can function as an adverb?",
+          "opts": [
+            "beauty",
+            "beautifully",
+            "beautiful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' is an adverb; 'beauty' is a noun, 'beautiful' is an adjective."
+        },
+        {
+          "q": "Understanding adverbs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs add precision and detail to communication."
+        },
+        {
+          "q": "Which is NOT a type of adverb?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Degree"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverb; manner, time, place, and degree are."
+        },
+        {
+          "q": "A common misconception about adverbs is:",
+          "opts": [
+            "Adverbs modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbs",
+            "Adverbs add precision to communication",
+            "Adverbs can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbs; some adjectives like 'friendly' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w10_su4",
+      "title": "10.4 Listening/Speaking: Diphthongs /ia/",
+      "notes": [
+        "Listening/Speaking: Diphthongs /ia/",
+        "",
+        "Key Concepts:",
+        "1. Review: What are Diphthongs?",
+        "   - Vowel sounds that glide from one vowel to another",
+        "   - English has eight diphthongs, including /ia/",
+        "",
+        "2. The /ia/ Diphthong:",
+        "   - Glides from /i/ to /a/",
+        "   - Examples: rear, idea, here, tear, fear, clear",
+        "",
+        "3. Importance of Distinguishing /ia/:",
+        "   - Prevents confusion with similar sounds",
+        "   - Example: 'rear' /rɪə/ vs 'ray' /reɪ/ - different meanings!",
+        "",
+        "4. Listening Strategies for /ia/:",
+        "   - Focus on the glide from /i/ to /a/",
+        "   - Listen for minimal pairs: rear/ray, idea/idea (same spelling, different pronunciation)",
+        "   - Note the context: Does the word make sense?",
+        "",
+        "5. Speaking Strategies for /ia/:",
+        "   - Practice the glide: start with /i/, move to /a/",
+        "   - Use minimal pairs for practice: rear/ray, fear/fair",
+        "   - Record yourself and compare with models",
+        "   - Get feedback on pronunciation clarity"
+      ],
+      "diagramDescriptions": [
+        "Chart of /ia/ diphthong with example words",
+        "Diagram of mouth movement for /ia/ glide"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English diphthong /ia/ pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "A diphthong is:",
+          "opts": [
+            "A single vowel sound",
+            "A vowel sound that glides from one vowel to another",
+            "A consonant sound",
+            "A syllable break"
+          ],
+          "ans": 1,
+          "explanation": "A diphthong glides from one vowel sound to another within the same syllable."
+        },
+        {
+          "q": "The /ia/ diphthong glides from:",
+          "opts": [
+            "/a/ to /u/",
+            "/i/ to /a/",
+            "/e/ to /i/",
+            "/o/ to /u/"
+          ],
+          "ans": 1,
+          "explanation": "/ia/ glides from /i/ to /a/."
+        },
+        {
+          "q": "The word 'idea' has the diphthong:",
+          "opts": [
+            "/i/",
+            "/ia/",
+            "/ei/",
+            "/au/"
+          ],
+          "ans": 1,
+          "explanation": "'Idea' has the /ia/ diphthong."
+        },
+        {
+          "q": "Correct /ia/ pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct /ia/ prevents confusion between words like 'rear' and 'ray'."
+        },
+        {
+          "q": "When listening for /ia/, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the glide from /i/ to /a/",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the glide helps distinguish /ia/ from other vowel sounds."
+        },
+        {
+          "q": "In Nigerian context, a word with /ia/ might be:",
+          "opts": [
+            "ray",
+            "rear",
+            "know",
+            "knew"
+          ],
+          "ans": 1,
+          "explanation": "'Rear' has the /ia/ diphthong; 'ray' has /eɪ/."
+        },
+        {
+          "q": "A good speaking strategy for /ia/ is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice the glide from /i/ to /a/",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing the glide helps improve /ia/ pronunciation clarity."
+        },
+        {
+          "q": "Understanding /ia/ is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear /ia/ pronunciation helps students be understood in various contexts."
+        },
+        {
+          "q": "Which pair shows the /ia/ diphthong?",
+          "opts": [
+            "ray/rear",
+            "rear/ray",
+            "cow/co",
+            "how/ho"
+          ],
+          "ans": 1,
+          "explanation": "'Rear' has /ia/; 'ray' has /eɪ/ - different diphthongs."
+        },
+        {
+          "q": "A common misconception about /ia/ is:",
+          "opts": [
+            "/ia/ is a diphthong",
+            "/ia/ is the same as /eɪ/",
+            "Practice improves /ia/ pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "/ia/ and /eɪ/ are different diphthongs; practice helps distinguish them."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w10_su5",
+      "title": "10.5 Literature: Figure of Speech - Hyperbole",
+      "notes": [
+        "Literature: Figure of Speech - Hyperbole",
+        "",
+        "Key Concepts:",
+        "1. What is Hyperbole?",
+        "   - A figure of speech using deliberate exaggeration for effect",
+        "   - Not meant to be taken literally",
+        "   - Example: 'I've told you a million times!'",
+        "",
+        "2. Functions of Hyperbole:",
+        "   - Emphasize a point",
+        "   - Create humor or dramatic effect",
+        "   - Express strong emotions",
+        "   - Example: 'This bag weighs a ton!' (emphasizes heaviness)",
+        "",
+        "3. How to Identify Hyperbole:",
+        "   - Look for extreme or exaggerated statements",
+        "   - Ask: Is this meant to be taken literally?",
+        "   - Consider the context and tone",
+        "",
+        "4. Examples of Hyperbole:",
+        "   - 'I'm so hungry I could eat a horse.'",
+        "   - 'She cried a river of tears.'",
+        "   - 'He runs faster than lightning.'",
+        "",
+        "5. Why Study Hyperbole?",
+        "   - To appreciate how authors create emphasis or humor",
+        "   - To understand figurative language in literature",
+        "   - To improve your own writing and creative expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of hyperbole examples with explanations",
+        "Diagram of how hyperbole creates emphasis through exaggeration"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature hyperbole figure of speech site:youtube.com",
+      "quiz": [
+        {
+          "q": "Hyperbole is:",
+          "opts": [
+            "Only literal meaning",
+            "Deliberate exaggeration for effect",
+            "Only humor",
+            "Only criticism"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole is deliberate exaggeration not meant to be taken literally."
+        },
+        {
+          "q": "A function of hyperbole is to:",
+          "opts": [
+            "Only describe facts",
+            "Emphasize a point or create humor",
+            "Only criticize",
+            "Only list details"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole emphasizes points or creates humor through exaggeration."
+        },
+        {
+          "q": "To identify hyperbole, you should ask:",
+          "opts": [
+            "Is this literal?",
+            "Is this exaggerated for effect?",
+            "Is this a fact?",
+            "Is this a question?"
+          ],
+          "ans": 1,
+          "explanation": "Asking if a statement is exaggerated for effect helps identify hyperbole."
+        },
+        {
+          "q": "In Nigerian context, hyperbole might be:",
+          "opts": [
+            "Only foreign examples",
+            "'This market is as busy as Lagos!'",
+            "Only scientific examples",
+            "Only historical examples"
+          ],
+          "ans": 1,
+          "explanation": "Comparing a market to Lagos for busyness is hyperbole, exaggerating for effect."
+        },
+        {
+          "q": "Which is an example of hyperbole?",
+          "opts": [
+            "I have two hands.",
+            "I'm so hungry I could eat a horse.",
+            "The sky is blue.",
+            "She walked to school."
+          ],
+          "ans": 1,
+          "explanation": "'I could eat a horse' is exaggeration, not meant literally."
+        },
+        {
+          "q": "Understanding hyperbole is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Develops appreciation of figurative language and creative expression",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding hyperbole helps students appreciate figurative language and improve creative writing."
+        },
+        {
+          "q": "Which is NOT a function of hyperbole?",
+          "opts": [
+            "Emphasize a point",
+            "Create humor",
+            "State literal facts",
+            "Express strong emotions"
+          ],
+          "ans": 2,
+          "explanation": "Hyperbole does not state literal facts; it exaggerates for effect."
+        },
+        {
+          "q": "A common misconception about hyperbole is:",
+          "opts": [
+            "Hyperbole uses exaggeration",
+            "Hyperbole is meant to be taken literally",
+            "Hyperbole can create humor",
+            "Hyperbole requires audience awareness"
+          ],
+          "ans": 1,
+          "explanation": "Hyperbole is not meant to be taken literally; it's deliberate exaggeration."
+        },
+        {
+          "q": "When analyzing hyperbole, you should:",
+          "opts": [
+            "Ignore the context",
+            "Consider the exaggeration and intended effect",
+            "Only focus on literal meaning",
+            "Skip the tone"
+          ],
+          "ans": 1,
+          "explanation": "Considering exaggeration and intended effect helps identify hyperbole."
+        },
+        {
+          "q": "In Nigerian literature, hyperbole might be used to:",
+          "opts": [
+            "Only entertain",
+            "Emphasize cultural values or social issues",
+            "Only describe events",
+            "Only list facts"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian literature often uses hyperbole to emphasize cultural values or social issues."
+        }
+      ]
+    }
+  ]
+}

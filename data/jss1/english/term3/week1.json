@@ -1,0 +1,223 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "Third Term",
+  "week": 1,
+  "topic": "Resumption Test",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t3_w1_su1",
+      "title": "1.1 Resumption Test: Revision of Second Term Work",
+      "notes": [
+        "Resumption Test: Revision of Second Term Topics",
+        "",
+        "Purpose of Resumption Test:",
+        "1. To assess students' retention of Second Term work",
+        "2. To identify areas needing reinforcement",
+        "3. To prepare students for Third Term content",
+        "",
+        "Key Areas for Revision from Second Term:",
+        "1. Reading Skills:",
+        "   - Understanding writer's purpose: persuade, inform, convince, irritate, please, entertain",
+        "   - Reading for meaning: words in various contexts, alternative words",
+        "   - Critical reading: identifying facts, opinions, hidden attribution",
+        "   - Reading strategies: preview, question, review for retention and recall",
+        "   - Answering questions: knowledge, translation, interpretation, projection, conclusion",
+        "",
+        "2. Writing Skills:",
+        "   - Composition types: narrative, descriptive, argumentative, expository",
+        "   - Outlining: organizing ideas logically before writing",
+        "   - Informal letters: format, language, tone",
+        "   - Formal letters: format, language, tone",
+        "   - Editing: checking grammar, punctuation, clarity, logic",
+        "",
+        "3. Grammatical Accuracy:",
+        "   - Nouns and pronouns: types, functions, identification",
+        "   - Verbs: features, functions, regular/irregular forms, tenses",
+        "   - Adjectives: types, functions, placement",
+        "   - Adverbials: types, functions, identification in passages",
+        "   - Conjunctions: types, functions, sentence connection",
+        "   - Tenses: present, past, future; simple, continuous, perfect",
+        "",
+        "4. Listening/Speaking Skills:",
+        "   - Vowel sounds: short vs long, minimal pairs practice",
+        "   - Consonant sounds and clusters",
+        "   - Diphthongs and weak forms",
+        "   - Listening for main ideas: family, drug abuse, child labour, global warming",
+        "   - Speaking: intonation, stress, rhythm, question tags",
+        "",
+        "5. Literature:",
+        "   - Prose: types (narrative, descriptive), features (plot, characterization, style, theme)",
+        "   - Poetry: types (epic, lyric, dramatic), language (concise, unique, high)",
+        "   - Drama: origin, development, features (dialogue, stage directions, acts, characters, plot, theme)",
+        "   - Folktales, myths, legends: features, themes, moral lessons",
+        "",
+        "Practical Revision Activities:",
+        "1. Quick Recall Quiz:",
+        "   - Teacher asks rapid-fire questions on Second Term topics",
+        "   - Students respond individually or in groups",
+        "   - Focus on definitions, examples, and applications",
+        "",
+        "2. Passage Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students answer knowledge, translation, and interpretation questions",
+        "   - Discuss strategies for each question type",
+        "",
+        "3. Grammar Drills:",
+        "   - Teacher writes sentences with gaps for parts of speech",
+        "   - Students fill gaps with correct nouns, verbs, adjectives, adverbs",
+        "   - Peer review and correction",
+        "",
+        "4. Speaking Practice:",
+        "   - Students give 1-minute speeches on familiar topics",
+        "   - Focus on clear pronunciation, vowel/consonant sounds",
+        "   - Peer feedback on clarity and delivery",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Forgetting grammar rules",
+        "  - Solution: Create summary charts or flashcards for quick review",
+        "",
+        "• Challenge: Confusing question types in reading",
+        "  - Solution: Practice identifying question types and strategies for each",
+        "",
+        "• Challenge: Organizing writing ideas",
+        "  - Solution: Always start with an outline before drafting",
+        "",
+        "• Challenge: Pronouncing vowel sounds",
+        "  - Solution: Practice minimal pairs daily with recording and feedback",
+        "",
+        "Nigerian Context Integration:",
+        "• Relate English skills to Nigerian communication needs",
+        "• Use local examples: proverbs, cultural references, current issues",
+        "• Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Conclusion:",
+        "• Revision consolidates understanding of JSS1 Second Term English topics",
+        "• Key concepts include reading, writing, grammar, listening/speaking, and literature",
+        "• Practical skills and Nigerian context integration enhance learning and application",
+        "• Effective revision strategies prepare students for Third Term success",
+        "• In Nigeria, English language proficiency supports academic success, professional advancement, and civic participation"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram linking all JSS1 Second Term topics",
+        "Concept map of question types: knowledge, translation, interpretation, projection, conclusion",
+        "Comparison chart of composition types: narrative, descriptive, argumentative, expository",
+        "Flowchart of basic writing process",
+        "Nigerian examples: Local vocabulary, simple passages, writing topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English revision resumption test grammar comprehension site:youtube.com",
+      "quiz": [
+        {
+          "q": "A resumption test is used to:",
+          "opts": [
+            "Only give new work",
+            "Assess retention of previous term's work",
+            "Only test new students",
+            "Only for entertainment"
+          ],
+          "ans": 1,
+          "explanation": "A resumption test assesses students' retention of previous term's work and identifies areas needing reinforcement."
+        },
+        {
+          "q": "Which is a basic reading skill?",
+          "opts": [
+            "Only copying text",
+            "Identifying main ideas in simple passages",
+            "Only reading aloud",
+            "Only memorizing words"
+          ],
+          "ans": 1,
+          "explanation": "Identifying main ideas in simple passages is a basic reading skill for comprehension."
+        },
+        {
+          "q": "A basic writing skill is:",
+          "opts": [
+            "Only copying sentences",
+            "Simple sentence construction and basic paragraph structure",
+            "Only writing long essays",
+            "Only using complex words"
+          ],
+          "ans": 1,
+          "explanation": "Simple sentence construction and basic paragraph structure are foundational writing skills."
+        },
+        {
+          "q": "Which is a part of speech reviewed in grammar?",
+          "opts": [
+            "Only punctuation",
+            "Nouns, verbs, and adjectives",
+            "Only spelling",
+            "Only handwriting"
+          ],
+          "ans": 1,
+          "explanation": "Nouns, verbs, and adjectives are basic parts of speech reviewed in grammar."
+        },
+        {
+          "q": "A basic listening/speaking skill is:",
+          "opts": [
+            "Only reading silently",
+            "Clear pronunciation of common words",
+            "Only writing notes",
+            "Only memorizing speeches"
+          ],
+          "ans": 1,
+          "explanation": "Clear pronunciation of common words is a basic listening/speaking skill."
+        },
+        {
+          "q": "In literature, a basic skill is:",
+          "opts": [
+            "Only memorizing stories",
+            "Identifying characters and setting in simple tales",
+            "Only writing poems",
+            "Only reading long novels"
+          ],
+          "ans": 1,
+          "explanation": "Identifying characters and setting in simple tales is a basic literature skill."
+        },
+        {
+          "q": "Understanding English skills is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success and daily communication",
+            "Only for creative writing",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "English proficiency supports academic achievement and effective participation in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a key area for revision?",
+          "opts": [
+            "Reading skills",
+            "Writing skills",
+            "Advanced literary theory",
+            "Grammatical accuracy"
+          ],
+          "ans": 2,
+          "explanation": "Advanced literary theory is not a key area for JSS1 revision; basic skills are the focus."
+        },
+        {
+          "q": "A common challenge in revision is:",
+          "opts": [
+            "Forgetting grammar rules",
+            "Always remembering everything",
+            "Never needing practice",
+            "Only learning new things"
+          ],
+          "ans": 0,
+          "explanation": "Forgetting grammar rules is a common challenge; regular practice helps retention."
+        },
+        {
+          "q": "A good revision strategy is to:",
+          "opts": [
+            "Only read once",
+            "Create summary charts and practice regularly",
+            "Ignore difficult topics",
+            "Only focus on new material"
+          ],
+          "ans": 1,
+          "explanation": "Creating summary charts and practicing regularly helps consolidate learning and improve retention."
+        }
+      ]
+    }
+  ]
+}

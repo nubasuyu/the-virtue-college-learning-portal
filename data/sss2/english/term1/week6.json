@@ -1,0 +1,831 @@
+{
+  "course": "SSS2 English Language",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Speech, Reading, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t1_w6_su1",
+      "title": "6.1 Speech: Three Consonants in Initial Position",
+      "notes": [
+        "Speech: Three Consonants in Initial Position",
+        "",
+        "Key Concepts:",
+        "1. What are three-consonant clusters?",
+        "   - Three consonant sounds that occur together at the beginning of a word",
+        "   - No vowel sound between the consonants",
+        "   - Examples: /spr/ in spray, /str/ in strong, /skr/ in scream",
+        "",
+        "2. Common three-consonant clusters in initial position:",
+        "   - /spr/: spray, spring, spread, sprout, sprain",
+        "   - /str/: strong, street, strike, strain, struggle",
+        "   - /skr/: scream, screen, scrape, screw, scratch",
+        "   - /spl/: splash, split, splinter, splash, splendid",
+        "   - /skw/: square, squad, squeak, squeeze, squint",
+        "",
+        "3. Importance of pronouncing three-consonant clusters correctly:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'spray' /spreɪ/ vs 'pray' /preɪ/ - different meanings!",
+        "",
+        "4. Listening strategies for three-consonant clusters:",
+        "   - Focus on the speaker: listen carefully to the beginning of words",
+        "   - Listen for minimal pairs: words that differ only in initial cluster",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure",
+        "",
+        "5. Speaking strategies for three-consonant clusters:",
+        "   - Practice consonant articulation: tongue, teeth, lips position",
+        "   - Use minimal pairs for practice: spray/pray, strong/rong, scream/ream",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on cluster clarity",
+        "",
+        "Nigerian Context:",
+        "• Common three-consonant cluster challenges for Nigerian speakers:",
+        "  - Difficulty pronouncing three consonants together at word beginning",
+        "  - Tendency to insert vowel sounds between consonants",
+        "  - Influence of native language phonological systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Education': 'Students should strive for excellence' (clear /str/)",
+        "  - 'Health': 'Spread awareness about hygiene' (clear /spr/)",
+        "  - 'Technology': 'Screen time affects learning' (clear /skr/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear consonant clusters in multilingual Nigerian classrooms",
+        "  - Importance of cluster clarity in public announcements",
+        "  - Practice with local words that have similar consonant clusters",
+        "",
+        "Practical Activities:",
+        "1. Three-Consonant Cluster Drill:",
+        "   - Teacher models three-consonant clusters with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: spray/pray, strong/rong, scream/ream",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different initial three-consonant clusters",
+        "   - Students identify the cluster by raising hands or standing",
+        "   - Practice with Nigerian-relevant words",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target clusters",
+        "   - Focus on clear consonant articulation",
+        "   - Peer feedback on cluster clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Three-consonant clusters don't matter in Nigerian English': Incorrect clusters can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct clusters': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear three-consonant cluster pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• Three-consonant clusters are three consonant sounds that occur together at word beginning",
+        "• Listening strategies help you distinguish between similar consonant clusters",
+        "• Speaking strategies help you pronounce clusters clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of three-consonant clusters with example words",
+        "Diagram of mouth positions for each consonant cluster",
+        "Sample minimal pairs practice: spray/pray, strong/rong, scream/ream",
+        "Listening strategy flowchart: Focus, Listen for cluster articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for three-consonant cluster practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English three consonant clusters initial position pronunciation site:youtube.com",
+      "quiz": [
+        {
+          "q": "Three-consonant clusters are:",
+          "opts": [
+            "Single consonant sounds",
+            "Three consonant sounds that occur together without a vowel",
+            "Only vowel sounds",
+            "Only used in poetry"
+          ],
+          "ans": 1,
+          "explanation": "Three-consonant clusters are three consonant sounds that occur together without a vowel between them."
+        },
+        {
+          "q": "The word 'spray' has the consonant cluster:",
+          "opts": [
+            "/pr/",
+            "/spr/",
+            "/s/",
+            "/ay/"
+          ],
+          "ans": 1,
+          "explanation": "'Spray' has the three-consonant cluster /spr/ at the beginning; 'pray' has only /pr/."
+        },
+        {
+          "q": "Correct three-consonant cluster pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct three-consonant clusters prevent confusion between words like 'spray' and 'pray' which have different meanings."
+        },
+        {
+          "q": "When listening for three-consonant clusters, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for consonant articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for consonant articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common three-consonant cluster challenge is:",
+          "opts": [
+            "/a/ and /e/",
+            "Difficulty pronouncing three consonants together at word beginning",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers find it challenging to pronounce three consonants together at the beginning of words."
+        },
+        {
+          "q": "A good speaking strategy for three-consonant clusters is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice consonant articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing consonant articulation with minimal pairs (spray/pray) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different three-consonant clusters?",
+          "opts": [
+            "spray/pray",
+            "spray/spray",
+            "pray/pray",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Spray' has /spr/; 'pray' has /pr/ - different consonant clusters change the word meaning."
+        },
+        {
+          "q": "Understanding three-consonant clusters is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear three-consonant cluster pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a three-consonant cluster?",
+          "opts": [
+            "/a:/",
+            "/spr/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/spr/ is a three-consonant cluster; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about three-consonant clusters is:",
+          "opts": [
+            "Three-consonant clusters can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English three-consonant clusters are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w6_su2",
+      "title": "6.2 Reading Comprehension: Reading for Main Gist in a Prose Passage",
+      "notes": [
+        "Reading Comprehension: Reading for Main Gist in a Prose Passage",
+        "",
+        "Key Concepts:",
+        "1. What is main gist?",
+        "   - The central idea or most important point in a passage",
+        "   - Tells what the passage is mostly about",
+        "   - Example: In a passage on road safety, the main gist might be 'Road safety saves lives'",
+        "",
+        "2. How to identify main gist in a prose passage:",
+        "   - Read the passage carefully to understand all details",
+        "   - Look for the topic sentence (often at the beginning or end)",
+        "   - Ask: What is this passage mostly about?",
+        "   - Note repeated words or concepts",
+        "",
+        "3. Strategies for reading for main gist:",
+        "   - Preview the passage: Look at title, headings, pictures",
+        "   - Read actively: Ask questions, make notes, highlight key points",
+        "   - Summarize: Restate main idea in your own words",
+        "   - Review: Go over key points after reading",
+        "",
+        "4. Common topics for practice:",
+        "   - Road safety and FRSC",
+        "   - Health issues: HIV/AIDS, malaria, drug abuse",
+        "   - Environmental protection",
+        "   - Value re-orientation",
+        "",
+        "5. Why identify main gist?",
+        "   - Helps readers understand passages quickly",
+        "   - Makes writing clearer and more organized",
+        "   - Supports better comprehension and recall",
+        "   - Essential for summary writing and note-taking",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Role of FRSC in Nigerian Road Safety'",
+        "  - Main gist: The FRSC works to reduce road accidents in Nigeria",
+        "  - Supporting ideas:",
+        "    * FRSC educates drivers on safe driving practices",
+        "    * FRSC enforces traffic laws and regulations",
+        "    * FRSC conducts vehicle inspections to ensure roadworthiness",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local road safety challenges in Nigeria",
+        "  - Recognizing the importance of FRSC in protecting lives",
+        "  - Appreciating how road safety affects Nigerian communities",
+        "",
+        "Practical Activities:",
+        "1. Main Gist Identification Practice:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to identify the main gist",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Supporting Details Practice:",
+        "   - Teacher writes a main gist on the board",
+        "   - Students brainstorm supporting details in groups",
+        "   - Class discusses which details best support the main gist",
+        "",
+        "3. Passage Analysis:",
+        "   - Students read a passage on road safety",
+        "   - Underline main gist in one color, supporting details in another",
+        "   - Peer review for accuracy of identification",
+        "",
+        "Common Misconceptions:",
+        "• 'Main gist is always the first sentence': Main gist can appear anywhere in a paragraph",
+        "• 'All details are supporting ideas': Only details that directly support the main gist are supporting ideas",
+        "• 'Main gist is always obvious': Sometimes main gist requires careful analysis",
+        "• 'Supporting ideas are less important': Supporting ideas are essential for explaining and proving main gist",
+        "",
+        "Nigerian Context:",
+        "• Identifying main gist helps students comprehend Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Main gist is the central message or most important point in a passage",
+        "• Strategies include looking for topic sentences, asking key questions, and organizing ideas logically",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports reading comprehension and clear writing"
+      ],
+      "diagramDescriptions": [
+        "Chart of main gist vs supporting ideas with examples",
+        "Flowchart for identifying main gist in prose passages",
+        "Sample passage on road safety with main gist and supporting details highlighted",
+        "Nigerian context: Sample passage on FRSC with gist analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading main gist prose passage site:youtube.com",
+      "quiz": [
+        {
+          "q": "Main gist is:",
+          "opts": [
+            "A minor detail in a passage",
+            "The central idea or most important point",
+            "Only the first sentence",
+            "Only an example"
+          ],
+          "ans": 1,
+          "explanation": "Main gist is the central idea or most important point that tells what a passage is mostly about."
+        },
+        {
+          "q": "To identify main gist, you should ask:",
+          "opts": [
+            "What is the author's name?",
+            "What is this passage mostly about?",
+            "How many paragraphs are there?",
+            "What font is used?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is this passage mostly about?' helps you identify the main gist."
+        },
+        {
+          "q": "In a passage about FRSC, the main gist might be:",
+          "opts": [
+            "Only about one officer",
+            "The FRSC works to reduce road accidents in Nigeria",
+            "Only about foreign countries",
+            "Only about vehicle colors"
+          ],
+          "ans": 1,
+          "explanation": "The main gist would likely be that the FRSC works to reduce road accidents in Nigeria."
+        },
+        {
+          "q": "A supporting idea for 'Road safety saves lives' might be:",
+          "opts": [
+            "Only the author's opinion",
+            "Wearing seatbelts reduces the risk of injury in accidents",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "'Wearing seatbelts reduces the risk of injury' is a supporting detail that explains why road safety saves lives."
+        },
+        {
+          "q": "A common mistake in identifying main gist is:",
+          "opts": [
+            "Looking for the topic sentence",
+            "Assuming main gist is always the first sentence",
+            "Asking what the passage is about",
+            "Checking if details support the main point"
+          ],
+          "ans": 1,
+          "explanation": "Assuming main gist is always the first sentence is a mistake; it can appear anywhere in a paragraph."
+        },
+        {
+          "q": "Understanding main gist is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian texts and clear writing",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students comprehend Nigerian texts and write clearly in academic and daily contexts."
+        },
+        {
+          "q": "Which is NOT a supporting idea?",
+          "opts": [
+            "An example that explains the main point",
+            "A fact that proves the main point",
+            "A detail unrelated to the main point",
+            "An explanation of the main point"
+          ],
+          "ans": 2,
+          "explanation": "A detail unrelated to the main point is not a supporting idea; supporting ideas must directly relate to the main point."
+        },
+        {
+          "q": "A common misconception about main gist is:",
+          "opts": [
+            "Main gist is the central message",
+            "Main gist is always obvious",
+            "Main gist can require analysis",
+            "Practice improves identification"
+          ],
+          "ans": 1,
+          "explanation": "Main gist is not always obvious; sometimes it requires careful analysis of the passage."
+        },
+        {
+          "q": "When reading for main gist, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read carefully and ask what the passage is mostly about",
+            "Ignore supporting details",
+            "Only focus on examples"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and asking what the passage is mostly about helps you identify the main gist."
+        },
+        {
+          "q": "A strategy for reading for main gist is to:",
+          "opts": [
+            "Guess randomly",
+            "Preview, read actively, summarize, and review",
+            "Only focus on difficult words",
+            "Skip the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Previewing, reading actively, summarizing, and reviewing are effective strategies for identifying main gist."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w6_su3",
+      "title": "6.3 Structure: Adjectival Phrases and Their Grammatical Function",
+      "notes": [
+        "Structure: Adjectival Phrases and Their Grammatical Function",
+        "",
+        "Key Concepts:",
+        "1. What is an adjectival phrase?",
+        "   - A group of words that functions as an adjective in a sentence",
+        "   - Modifies a noun or pronoun by describing or limiting it",
+        "   - Example: 'The boy with the red cap' - 'with the red cap' is an adjectival phrase",
+        "",
+        "2. Structure of adjectival phrases:",
+        "   - Prepositional phrase: 'The girl in the blue dress'",
+        "   - Participial phrase: 'The man running fast'",
+        "   - Infinitive phrase: 'The book to read'",
+        "   - Relative clause: 'The student who studies hard'",
+        "",
+        "3. Functions of adjectival phrases in sentences:",
+        "   - Describe nouns: 'The house with the green roof is mine.'",
+        "   - Limit nouns: 'The book on the table is mine.'",
+        "   - Add detail and specificity to communication",
+        "",
+        "4. Position of adjectival phrases:",
+        "   - Usually comes after the noun it modifies",
+        "   - Example: 'The car parked outside belongs to my uncle.'",
+        "     'parked outside' is an adjectival phrase modifying 'car'",
+        "",
+        "5. Identifying adjectival phrases in passages:",
+        "   - Look for groups of words that describe a noun",
+        "   - Ask: What noun is being described? What additional information is added?",
+        "   - Example passage:",
+        "     'The student from Lagos who won the competition received a prize.'",
+        "     Adjectival phrases: 'from Lagos', 'who won the competition'",
+        "",
+        "Nigerian Context:",
+        "• Common adjectival phrases in Nigerian English:",
+        "  - Describing people: 'The man with the white cap', 'The girl who sings beautifully'",
+        "  - Describing places: 'The market in the city center', 'The school near the river'",
+        "  - Describing things: 'The book on the table', 'The car with the broken window'",
+        "",
+        "• Cultural considerations:",
+        "  - Using adjectival phrases to describe people, places, and things in Nigerian contexts",
+        "  - Adjectival phrases for value discussions: 'the child who respects elders', 'the leader who serves honestly'",
+        "  - Adjectival phrases for national development: 'the policy that promotes growth', 'the program that empowers youth'",
+        "",
+        "Practical Activities:",
+        "1. Adjectival Phrase Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all adjectival phrases in different colors",
+        "   - Class discusses findings and adjectival phrase functions",
+        "",
+        "2. Adjectival Phrase Sorting Game:",
+        "   - Teacher writes adjectival phrases on cards",
+        "   - Students sort into types: prepositional, participial, infinitive, relative clause",
+        "   - Groups present their sorted phrases with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive noun cards and adjectival phrase cards",
+        "   - In groups, they create sentences using adjectival phrases correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All phrases are adjectival': Only phrases that modify nouns are adjectival phrases",
+        "• 'Adjectival phrases always come before nouns': Adjectival phrases usually come after the noun they modify",
+        "• 'Only one adjectival phrase per noun': Nouns can have multiple adjectival phrases",
+        "• 'Adjectival phrases are not important': Adjectival phrases add essential detail and specificity to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adjectival phrases supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adjectival phrases is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adjectival phrases are groups of words that function as adjectives in sentences",
+        "• Types include prepositional, participial, infinitive, and relative clause phrases",
+        "• Functions include describing and limiting nouns",
+        "• Mastery of adjectival phrases supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adjectival phrase types with Nigerian examples",
+        "Diagram showing adjectival phrase positions in sentences",
+        "Sample passage with adjectival phrases highlighted by type",
+        "Adjectival phrase sorting activity template",
+        "Nigerian context: Common adjectival phrases in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar adjectival phrases functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adjectival phrase is:",
+          "opts": [
+            "A single adjective",
+            "A group of words that functions as an adjective",
+            "Only a prepositional phrase",
+            "Only a relative clause"
+          ],
+          "ans": 1,
+          "explanation": "An adjectival phrase is a group of words that functions as an adjective, modifying a noun or pronoun."
+        },
+        {
+          "q": "Which is an adjectival phrase?",
+          "opts": [
+            "run",
+            "with the red cap",
+            "beautifully",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'With the red cap' is an adjectival phrase (prepositional phrase) that modifies a noun; 'run' is a verb, 'beautifully' is an adverb, 'and' is a conjunction."
+        },
+        {
+          "q": "In the sentence 'The boy with the red cap is my friend', 'with the red cap' is an adjectival phrase that modifies:",
+          "opts": [
+            "The",
+            "boy",
+            "is",
+            "friend"
+          ],
+          "ans": 1,
+          "explanation": "'With the red cap' modifies the noun 'boy' by describing which boy is being referred to."
+        },
+        {
+          "q": "Which type of adjectival phrase uses a preposition?",
+          "opts": [
+            "Participial phrase",
+            "Prepositional phrase",
+            "Infinitive phrase",
+            "Relative clause"
+          ],
+          "ans": 1,
+          "explanation": "Prepositional phrases use prepositions to form adjectival phrases (e.g., 'with the red cap', 'in the blue dress')."
+        },
+        {
+          "q": "In Nigerian context, which is an adjectival phrase?",
+          "opts": [
+            "run",
+            "from Lagos",
+            "beautifully",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'From Lagos' is an adjectival phrase (prepositional phrase) commonly used in Nigerian English to describe origin."
+        },
+        {
+          "q": "Adjectival phrases usually come:",
+          "opts": [
+            "Only before nouns",
+            "After the noun they modify",
+            "Only at the end of sentences",
+            "Only at the beginning of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adjectival phrases usually come after the noun they modify in English sentences."
+        },
+        {
+          "q": "Which word group can function as an adjectival phrase in a sentence?",
+          "opts": [
+            "happiness",
+            "who studies hard",
+            "quickly",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Who studies hard' is a relative clause that functions as an adjectival phrase, modifying a noun like 'student'."
+        },
+        {
+          "q": "Understanding adjectival phrases is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adjectival phrases add detail and specificity to communication, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adjectival phrase?",
+          "opts": [
+            "Prepositional phrase",
+            "Participial phrase",
+            "Action phrase",
+            "Relative clause"
+          ],
+          "ans": 2,
+          "explanation": "'Action phrase' is not a type of adjectival phrase; prepositional, participial, infinitive, and relative clause are types of adjectival phrases."
+        },
+        {
+          "q": "A common misconception about adjectival phrases is:",
+          "opts": [
+            "Adjectival phrases modify nouns",
+            "Adjectival phrases always come before nouns",
+            "Adjectival phrases can be different types",
+            "Adjectival phrases add detail to sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adjectival phrases usually come after the noun they modify, not always before."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w6_su4",
+      "title": "6.4 Continuous Writing: Creative Writing - Features of Short Stories and Poems",
+      "notes": [
+        "Continuous Writing: Creative Writing - Features of Short Stories and Poems",
+        "",
+        "Key Concepts:",
+        "1. What is creative writing?",
+        "   - Writing that expresses ideas, emotions, or stories in imaginative ways",
+        "   - Includes short stories, poems, plays, and other literary forms",
+        "   - Example: A short story about a Nigerian family or a poem about hope",
+        "",
+        "2. Features of a short story:",
+        "   a) Plot: sequence of events with beginning, middle, and end",
+        "   b) Characters: people or figures in the story",
+        "   c) Setting: time and place of the story",
+        "   d) Theme: main idea or message",
+        "   e) Style: author's unique way of writing",
+        "   f) Point of view: who tells the story",
+        "",
+        "3. Features of a poem:",
+        "   a) Concise language: saying much with few words",
+        "   b) Unique language: creative word choice and expression",
+        "   c) High language: elevated, artistic expression",
+        "   d) Rhythm and rhyme: musical quality of words",
+        "   e) Imagery: creating pictures with words",
+        "   f) Figurative language: metaphors, similes, personification",
+        "",
+        "4. How to write a short story:",
+        "   - Step 1: Choose a topic and brainstorm ideas",
+        "   - Step 2: Develop characters, setting, and plot",
+        "   - Step 3: Write a draft with clear structure",
+        "   - Step 4: Revise for clarity, creativity, and impact",
+        "",
+        "5. How to write a poem:",
+        "   - Step 1: Choose a theme or emotion to express",
+        "   - Step 2: Select poetic devices: rhyme, rhythm, imagery",
+        "   - Step 3: Write a draft with concise, artistic language",
+        "   - Step 4: Revise for rhythm, imagery, and emotional impact",
+        "",
+        "Nigerian Context:",
+        "• Sample short story topics for Nigerian students:",
+        "  - 'The Day I Met a Hero in My Village'",
+        "  - 'A Journey to Lagos: My First Experience'",
+        "  - 'The Market Day That Changed My Life'",
+        "",
+        "• Sample poem topics for Nigerian students:",
+        "  - 'Hope for Nigeria's Future'",
+        "  - 'The Beauty of My Homeland'",
+        "  - 'The Strength of Our Culture'",
+        "",
+        "• Cultural considerations:",
+        "  - Including local settings, characters, and cultural references",
+        "  - Using culturally appropriate language and expressions",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Feature Identification:",
+        "   - Teacher provides a short story or poem",
+        "   - Students work in pairs to identify features: plot, characters, theme, imagery",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Creative Writing Practice:",
+        "   - Students choose a topic relevant to Nigerian life",
+        "   - Focus on features: plot, characters, setting for stories; imagery, rhythm for poems",
+        "   - Write a short story or poem draft",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange drafts with partners",
+        "   - Partners check for features, creativity, and clarity",
+        "   - Students revise their writing based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Creative writing is only for talented people': Everyone can learn to write creatively with practice",
+        "• 'Short stories must be long': Short stories are brief but complete narratives",
+        "• 'Poems must rhyme': Poems can use rhythm, imagery, and concise language without rhyme",
+        "• 'Creative writing doesn't need planning': Planning helps create logical, impactful creative writing",
+        "",
+        "Nigerian Context:",
+        "• Creative writing supports clear, expressive communication for school assignments and real-life contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Creative writing skills are foundational for literary appreciation and personal expression",
+        "",
+        "Conclusion:",
+        "• Creative writing expresses ideas, emotions, or stories in imaginative ways",
+        "• Short stories feature plot, characters, setting, theme; poems feature concise, unique, high language",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of creative writing supports literary appreciation and personal expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of short story features with Nigerian examples",
+        "Diagram of poem features: concise, unique, high language, imagery",
+        "Sample short story or poem with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in creative writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English creative writing short stories poems features site:youtube.com",
+      "quiz": [
+        {
+          "q": "Creative writing is:",
+          "opts": [
+            "Only factual reporting",
+            "Writing that expresses ideas, emotions, or stories in imaginative ways",
+            "Only copying from other sources",
+            "Only for professional writers"
+          ],
+          "ans": 1,
+          "explanation": "Creative writing expresses ideas, emotions, or stories in imaginative ways, including short stories and poems."
+        },
+        {
+          "q": "Which is a feature of a short story?",
+          "opts": [
+            "Only rhyming words",
+            "Plot, characters, setting, theme, style",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Short stories feature plot, characters, setting, theme, and style to create a complete narrative."
+        },
+        {
+          "q": "A feature of a poem is:",
+          "opts": [
+            "Only long sentences",
+            "Concise language, unique expression, and imagery",
+            "Only factual information",
+            "Only lists of facts"
+          ],
+          "ans": 1,
+          "explanation": "Poems feature concise language, unique expression, and imagery to create meaning and emotion."
+        },
+        {
+          "q": "The first step in writing a short story is to:",
+          "opts": [
+            "Write the conclusion",
+            "Choose a topic and brainstorm ideas",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a topic and brainstorming ideas is the first step before developing characters, setting, and plot."
+        },
+        {
+          "q": "In Nigerian context, a short story topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'The Day I Met a Hero in My Village'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Short story topics in Nigerian context often address local experiences like village life, journeys, or cultural events."
+        },
+        {
+          "q": "Understanding creative writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports expressive communication and literary appreciation",
+            "Only for creative writing class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Creative writing skills help students express themselves clearly and appreciate literature in academic and personal contexts."
+        },
+        {
+          "q": "Which is NOT a feature of a poem?",
+          "opts": [
+            "Concise language",
+            "Imagery",
+            "Long paragraphs",
+            "Rhythm"
+          ],
+          "ans": 2,
+          "explanation": "Long paragraphs are not a feature of poetry; concise language, imagery, and rhythm are."
+        },
+        {
+          "q": "A common misconception about creative writing is:",
+          "opts": [
+            "Creative writing expresses ideas imaginatively",
+            "Creative writing is only for talented people",
+            "Creative writing needs planning",
+            "Creative writing develops expression"
+          ],
+          "ans": 1,
+          "explanation": "Creative writing is not only for talented people; everyone can learn to write creatively with practice."
+        },
+        {
+          "q": "When writing a short story, you should:",
+          "opts": [
+            "Ignore the plot",
+            "Develop characters, setting, and plot logically",
+            "Only focus on dialogue",
+            "Skip the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Developing characters, setting, and plot logically creates a complete, engaging short story."
+        },
+        {
+          "q": "In Nigerian poetry, a common feature is:",
+          "opts": [
+            "Only foreign references",
+            "Use of local languages, proverbs, and cultural references",
+            "Only scientific terms",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian poetry often includes local languages, proverbs, and cultural references to express cultural identity."
+        }
+      ]
+    }
+  ]
+}

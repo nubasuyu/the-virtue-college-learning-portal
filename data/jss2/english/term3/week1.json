@@ -1,0 +1,218 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 1,
+  "topic": "Resumption Test",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w1_su1",
+      "title": "1.1 Resumption Test: Revision of Second Term Topics",
+      "notes": [
+        "Resumption Test: Revision of Key Topics from Second Term",
+        "",
+        "Key Concepts Reviewed:",
+        "1. Reading Skills:",
+        "   - Understanding writer's purpose: persuade, inform, convince, irritate, please, entertain",
+        "   - Reading for meaning: words in various contexts, alternative words",
+        "   - Critical reading: identifying facts, opinions, hidden attribution",
+        "   - Reading strategies: preview, question, review for retention and recall",
+        "   - Answering questions: knowledge, translation, interpretation, projection, conclusion",
+        "",
+        "2. Writing Skills:",
+        "   - Composition types: narrative, descriptive, argumentative, expository",
+        "   - Outlining: organizing ideas logically before writing",
+        "   - Informal letters: format, language, tone",
+        "   - Formal letters: format, language, tone",
+        "   - Editing: checking grammar, punctuation, clarity, logic",
+        "",
+        "3. Grammatical Accuracy:",
+        "   - Nouns and pronouns: types, functions, identification",
+        "   - Verbs: features, functions, regular/irregular forms, tenses",
+        "   - Adjectives: types, functions, placement",
+        "   - Adverbials: types, functions, identification in passages",
+        "   - Conjunctions: types, functions, sentence connection",
+        "   - Tenses: present, past, future; simple, continuous, perfect",
+        "",
+        "4. Listening/Speaking Skills:",
+        "   - Vowel sounds: short vs long, minimal pairs practice",
+        "   - Consonant sounds and clusters",
+        "   - Diphthongs and weak forms",
+        "   - Listening for main ideas: family, drug abuse, child labour, global warming",
+        "   - Speaking: intonation, stress, rhythm, question tags",
+        "",
+        "5. Literature:",
+        "   - Prose: types (narrative, descriptive), features (plot, characterization, style, theme)",
+        "   - Poetry: types (epic, lyric, dramatic), language (concise, unique, high)",
+        "   - Drama: origin, development, features (dialogue, stage directions, acts, characters, plot, theme)",
+        "   - Folktales, myths, legends: features, themes, moral lessons",
+        "",
+        "Practical Revision Activities:",
+        "1. Quick Recall Quiz:",
+        "   - Teacher asks rapid-fire questions on Second Term topics",
+        "   - Students respond individually or in groups",
+        "   - Focus on definitions, examples, and applications",
+        "",
+        "2. Passage Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students answer knowledge, translation, and interpretation questions",
+        "   - Discuss strategies for each question type",
+        "",
+        "3. Grammar Drills:",
+        "   - Teacher writes sentences with gaps for parts of speech",
+        "   - Students fill gaps with correct nouns, verbs, adjectives, adverbs",
+        "   - Peer review and correction",
+        "",
+        "4. Speaking Practice:",
+        "   - Students give 1-minute speeches on familiar topics",
+        "   - Focus on clear pronunciation, vowel/consonant sounds",
+        "   - Peer feedback on clarity and delivery",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Forgetting grammar rules",
+        "  - Solution: Create summary charts or flashcards for quick review",
+        "",
+        "• Challenge: Confusing question types in reading",
+        "  - Solution: Practice identifying question types and strategies for each",
+        "",
+        "• Challenge: Organizing writing ideas",
+        "  - Solution: Always start with an outline before drafting",
+        "",
+        "• Challenge: Pronouncing vowel sounds",
+        "  - Solution: Practice minimal pairs daily with recording and feedback",
+        "",
+        "Nigerian Context Integration:",
+        "• Relate English skills to Nigerian communication needs",
+        "• Use local examples: proverbs, cultural references, current issues",
+        "• Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Conclusion:",
+        "• Revision consolidates understanding of JSS2 Second Term English topics",
+        "• Key concepts include reading, writing, grammar, listening/speaking, and literature",
+        "• Practical skills and Nigerian context integration enhance learning and application",
+        "• Effective revision strategies prepare students for Third Term success",
+        "• In Nigeria, English language proficiency supports academic success, professional advancement, and civic participation"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram linking all JSS2 Second Term topics",
+        "Concept map of question types: knowledge, translation, interpretation, projection, conclusion",
+        "Comparison chart of composition types: narrative, descriptive, expository",
+        "Flowchart of outlining and sequential arrangement",
+        "Nigerian examples: Local vocabulary, comprehension passages, writing topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English revision second term grammar comprehension writing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Knowledge level questions ask for:",
+          "opts": [
+            "Personal opinions",
+            "Facts directly stated in the passage",
+            "Predictions about the future",
+            "Hidden meanings"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge questions ask for facts that are directly stated in the passage and can be found by looking at the text."
+        },
+        {
+          "q": "An adverbial modifies:",
+          "opts": [
+            "Only nouns",
+            "Verbs, adjectives, or other adverbs",
+            "Only prepositions",
+            "Only conjunctions"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials modify verbs, adjectives, or other adverbs to add detail about how, when, where, or to what extent."
+        },
+        {
+          "q": "A narrative prose tells:",
+          "opts": [
+            "Only facts",
+            "A story with characters, setting, and plot",
+            "Only opinions",
+            "Only descriptions"
+          ],
+          "ans": 1,
+          "explanation": "Narrative prose tells a story with characters, setting, and a sequence of events (plot)."
+        },
+        {
+          "q": "An outline helps a writer to:",
+          "opts": [
+            "Write faster without thinking",
+            "Organize ideas before writing",
+            "Make the passage longer",
+            "Copy from other sources"
+          ],
+          "ans": 1,
+          "explanation": "An outline helps organize main and supporting ideas in logical order before writing the full passage."
+        },
+        {
+          "q": "Conclusion questions ask you to:",
+          "opts": [
+            "Copy facts from the passage",
+            "Infer, deduce, or draw logical conclusions from the passage",
+            "Give your personal opinion only",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Conclusion questions require you to infer, deduce, or draw logical conclusions based on evidence in the passage."
+        },
+        {
+          "q": "Which is a long vowel sound?",
+          "opts": [
+            "/ɪ/ as in sit",
+            "/i:/ as in seat",
+            "/æ/ as in cat",
+            "/ʌ/ as in bus"
+          ],
+          "ans": 1,
+          "explanation": "/i:/ as in 'seat' is a long vowel sound; the others are short vowel sounds."
+        },
+        {
+          "q": "In Nigerian context, a formal letter might include:",
+          "opts": [
+            "Only standard English expressions",
+            "Culturally appropriate titles and references to local institutions",
+            "Only informal greetings",
+            "No personal anecdotes"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters in Nigerian context can include culturally appropriate titles and references to local institutions."
+        },
+        {
+          "q": "Understanding English language concepts is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, professional communication, and civic participation",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "English proficiency supports academic achievement, career advancement, and effective participation in Nigerian society."
+        },
+        {
+          "q": "Which is a feature of descriptive prose?",
+          "opts": [
+            "Only listing facts",
+            "Sensory details and vivid language to paint pictures with words",
+            "Only short sentences",
+            "Only technical terms"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive prose uses sensory details and vivid language to create mental images for the reader."
+        },
+        {
+          "q": "A common misconception about adverbials is:",
+          "opts": [
+            "Adverbials modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbials",
+            "Adverbials add precision to communication",
+            "Adverbials can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbials; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "course": "SSS2 English Language",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Speech, Structure, Reading, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t1_w8_su1",
+      "title": "8.1 Speech: Vowel Sounds /e/ and /ɜ:/",
+      "notes": [
+        "Speech: Vowel Sounds /e/ and /ɜ:/",
+        "",
+        "Key Concepts:",
+        "1. Understanding the vowel sounds /e/ and /ɜ:/",
+        "   - /e/ as in set, bread, head, bed, red",
+        "   - /ɜ:/ as in first, learn, bird, girl, world",
+        "   - The difference is in vowel quality and length",
+        "",
+        "2. Importance of distinguishing /e/ and /ɜ:/",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'bed' /bed/ vs 'bird' /bɜ:d/ - different meanings!",
+        "",
+        "3. Common minimal pairs for practice:",
+        "   - /e/ vs /ɜ:/: bed/bird, head/hurd, red/rid, set/sirt",
+        "   - Note: /ɜ:/ is a long vowel, /e/ is short",
+        "",
+        "4. Listening strategies for /e/ and /ɜ:/",
+        "   - Focus on the speaker: listen carefully to vowel quality",
+        "   - Listen for minimal pairs: words that differ only in vowel sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say bed or bird?'",
+        "",
+        "5. Speaking strategies for /e/ and /ɜ:/",
+        "   - Practice vowel articulation: mouth position for each sound",
+        "   - Use minimal pairs for practice: bed/bird, head/hurd",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on vowel clarity",
+        "",
+        "Nigerian Context:",
+        "• Common vowel sound challenges for Nigerian speakers:",
+        "  - Confusing /e/ and /ɜ:/: 'bed' vs 'bird'",
+        "  - Difficulty with vowel length distinction",
+        "  - Influence of native language vowel systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Education': 'Students learn in school' (clear /ɜ:/)",
+        "  - 'Health': 'The bed is clean' (clear /e/)",
+        "  - 'Environment': 'Birds sing in the morning' (clear /ɜ:/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear vowel sounds in multilingual Nigerian classrooms",
+        "  - Importance of vowel clarity in public announcements",
+        "  - Practice with local words that have similar vowel sounds",
+        "",
+        "Practical Activities:",
+        "1. Vowel Sound Drill:",
+        "   - Teacher models /e/ and /ɜ:/ with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: bed/bird, head/hurd, red/rid",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with /e/ or /ɜ:/ sounds",
+        "   - Students raise hands for /e/, stand for /ɜ:/",
+        "   - Practice with Nigerian-relevant words: 'bed' (furniture) vs 'bird' (animal)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target vowel sounds",
+        "   - Focus on clear vowel articulation",
+        "   - Peer feedback on vowel clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Vowel sounds don't matter in Nigerian English': Incorrect vowel sounds can change word meanings",
+        "• 'All English vowels are the same as in my language': English vowel system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct vowels': With practice, anyone can improve vowel pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear vowel pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has distinct vowel sounds /e/ and /ɜ:/ that affect word meaning",
+        "• Listening strategies help you distinguish between similar vowel sounds",
+        "• Speaking strategies help you pronounce vowels clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of vowel sounds /e/ and /ɜ:/ with example words",
+        "Diagram of mouth positions for each vowel sound",
+        "Sample minimal pairs practice: bed/bird, head/hurd, red/rid",
+        "Listening strategy flowchart: Focus, Listen for vowel quality, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for vowel practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vowel sounds e and ɜ: pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "The vowel sound /e/ is found in words like:",
+          "opts": [
+            "first, learn, bird",
+            "set, bread, head",
+            "sit, pin, win",
+            "pot, hot, not"
+          ],
+          "ans": 1,
+          "explanation": "/e/ is the vowel sound in words like set, bread, and head."
+        },
+        {
+          "q": "The word 'bird' has the vowel sound:",
+          "opts": [
+            "/e/",
+            "/ɜ:/",
+            "/i/",
+            "/o/"
+          ],
+          "ans": 1,
+          "explanation": "'Bird' has the vowel sound /ɜ:/; 'bed' has /e/, 'bid' has /i/, 'bod' has /o/."
+        },
+        {
+          "q": "Correct vowel pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct vowel sounds prevent confusion between words like 'bed' and 'bird' which have different meanings."
+        },
+        {
+          "q": "When listening for /e/ and /ɜ:/, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for vowel quality",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for vowel quality helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common vowel sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/e/ and /ɜ:/",
+            "/i/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /e/ (as in 'bed') and /ɜ:/ (as in 'bird')."
+        },
+        {
+          "q": "A good speaking strategy for /e/ and /ɜ:/ is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice vowel articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing vowel articulation with minimal pairs (bed/bird) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different vowel sounds?",
+          "opts": [
+            "bed/bird",
+            "bed/bed",
+            "bird/bird",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Bed' has /e/; 'bird' has /ɜ:/ - different vowel sounds change the word meaning."
+        },
+        {
+          "q": "Understanding /e/ and /ɜ:/ is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear vowel pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a vowel sound?",
+          "opts": [
+            "/a:/ as in father",
+            "/e/ as in bed",
+            "/t/ as in tap",
+            "/s/ as in sun"
+          ],
+          "ans": 1,
+          "explanation": "/e/ as in 'bed' is a vowel sound; /t/ and /s/ are consonant sounds."
+        },
+        {
+          "q": "A common misconception about /e/ and /ɜ:/ is:",
+          "opts": [
+            "Vowel sounds can change word meaning",
+            "All English vowels are the same as in my language",
+            "Practice improves vowel pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English vowel sounds are unique and may differ from vowels in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w8_su2",
+      "title": "8.2 Structure: Adverbial Phrases and Their Grammatical Functions",
+      "notes": [
+        "Structure: Adverbial Phrases and Their Grammatical Functions",
+        "",
+        "Key Concepts:",
+        "1. What are adverbial phrases?",
+        "   - Groups of words that function as adverbs in a sentence",
+        "   - Modify verbs, adjectives, or other adverbs",
+        "   - Tell how, when, where, why, or to what extent an action is done",
+        "   - Example: 'in the morning', 'with great care', 'because of the rain'",
+        "",
+        "2. Types of adverbial phrases:",
+        "   a) Adverbial phrases of manner: describe how an action is done",
+        "      - Examples: with care, in a hurry, with great enthusiasm",
+        "   b) Adverbial phrases of time: describe when an action is done",
+        "      - Examples: in the morning, after school, before dawn",
+        "   c) Adverbial phrases of place: describe where an action is done",
+        "      - Examples: in the market, at school, near the river",
+        "   d) Adverbial phrases of reason: describe why an action is done",
+        "      - Examples: because of the rain, due to illness, for safety",
+        "",
+        "3. Functions of adverbial phrases in sentences:",
+        "   - Modify verbs: 'She walked with great care.'",
+        "   - Modify adjectives: 'He is happy in his new job.'",
+        "   - Modify other adverbs: 'She ran very quickly in the morning.'",
+        "   - Add detail and precision to communication",
+        "",
+        "4. Position of adverbial phrases in sentences:",
+        "   - Can appear at the beginning, middle, or end of a sentence",
+        "   - Example: 'In the morning, she walked to school with great care.'",
+        "     'In the morning' (time), 'with great care' (manner)",
+        "",
+        "5. Identifying adverbial phrases in passages:",
+        "   - Look for groups of words that answer: How? When? Where? Why?",
+        "   - Ask: What action is being modified? What additional information is added?",
+        "   - Example passage:",
+        "     'The students studied diligently in the library because of the upcoming exam.'",
+        "     Adverbial phrases: 'diligently' (manner), 'in the library' (place), 'because of the upcoming exam' (reason)",
+        "",
+        "Nigerian Context:",
+        "• Common adverbial phrases in Nigerian English:",
+        "  - Manner: with respect, in a hurry, with great care",
+        "  - Time: in the morning, after school, before dawn",
+        "  - Place: in the market, at school, near the river",
+        "  - Reason: because of the rain, due to illness, for safety",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbial phrases to describe actions in Nigerian contexts",
+        "  - Adverbial phrases for value discussions: 'with respect', 'with honesty', 'with wisdom'",
+        "  - Adverbial phrases for national development: 'for progress', 'because of unity', 'in order to develop'",
+        "",
+        "Practical Activities:",
+        "1. Adverbial Phrase Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all adverbial phrases in different colors by type",
+        "   - Class discusses findings and adverbial phrase functions",
+        "",
+        "2. Adverbial Phrase Sorting Game:",
+        "   - Teacher writes adverbial phrases on cards",
+        "   - Students sort into types: manner, time, place, reason",
+        "   - Groups present their sorted phrases with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive verb/adjective cards and adverbial phrase cards",
+        "   - In groups, they create sentences using adverbial phrases correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All -ly words are adverbial phrases': Some adjectives also end in -ly (friendly, lovely)",
+        "• 'Adverbial phrases only modify verbs': Adverbial phrases can also modify adjectives and other adverbs",
+        "• 'Only one adverbial phrase per sentence': Sentences can have multiple adverbial phrases",
+        "• 'Adverbial phrases are not important': Adverbial phrases add essential detail and precision to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbial phrases supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adverbial phrases is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbial phrases are groups of words that function as adverbs in sentences",
+        "• Types include manner, time, place, and reason adverbial phrases",
+        "• Functions include describing how, when, where, or why actions happen",
+        "• Mastery of adverbial phrases supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverbial phrase types with Nigerian examples",
+        "Diagram showing adverbial phrase positions in sentences",
+        "Sample passage with adverbial phrases highlighted by type",
+        "Adverbial phrase sorting activity template",
+        "Nigerian context: Common adverbial phrases in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar adverbial phrases functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverbial phrase is:",
+          "opts": [
+            "A single adverb",
+            "A group of words that functions as an adverb",
+            "Only a prepositional phrase",
+            "Only a relative clause"
+          ],
+          "ans": 1,
+          "explanation": "An adverbial phrase is a group of words that functions as an adverb, modifying verbs, adjectives, or other adverbs."
+        },
+        {
+          "q": "Which is an adverbial phrase of manner?",
+          "opts": [
+            "in the morning",
+            "with great care",
+            "at school",
+            "because of the rain"
+          ],
+          "ans": 1,
+          "explanation": "'With great care' is an adverbial phrase of manner; 'in the morning' is time, 'at school' is place, 'because of the rain' is reason."
+        },
+        {
+          "q": "In the sentence 'She walked with great care', 'with great care' is an adverbial phrase that modifies:",
+          "opts": [
+            "She",
+            "walked",
+            "the sentence",
+            "nothing"
+          ],
+          "ans": 1,
+          "explanation": "'With great care' modifies the verb 'walked' by telling how she walked."
+        },
+        {
+          "q": "Which type of adverbial phrase describes why an action is done?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Reason"
+          ],
+          "ans": 3,
+          "explanation": "Adverbial phrases of reason describe why an action is done (because of the rain, due to illness, for safety)."
+        },
+        {
+          "q": "In Nigerian context, which is an adverbial phrase of manner?",
+          "opts": [
+            "in the morning",
+            "with respect",
+            "at school",
+            "because of the rain"
+          ],
+          "ans": 1,
+          "explanation": "'With respect' is an adverbial phrase of manner commonly used in Nigerian English to describe how actions are done."
+        },
+        {
+          "q": "Adverbial phrases can be placed:",
+          "opts": [
+            "Only after verbs",
+            "At the beginning, middle, or end of a sentence",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial phrases can come at the beginning, middle, or end of a sentence, depending on the context."
+        },
+        {
+          "q": "Which word group can function as an adverbial phrase in a sentence?",
+          "opts": [
+            "happiness",
+            "in the morning",
+            "beautiful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'In the morning' is an adverbial phrase of time that modifies a verb by telling when an action happens."
+        },
+        {
+          "q": "Understanding adverbial phrases is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial phrases add detail and precision to communication, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverbial phrase?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Reason"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverbial phrase; manner, time, place, and reason are types of adverbial phrases."
+        },
+        {
+          "q": "A common misconception about adverbial phrases is:",
+          "opts": [
+            "Adverbial phrases modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbial phrases",
+            "Adverbial phrases add precision to communication",
+            "Adverbial phrases can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbial phrases; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w8_su3",
+      "title": "8.3 Reading Comprehension: Reading Chapters of Books and Making Notes",
+      "notes": [
+        "Reading Comprehension: Reading Chapters of Books and Making Notes",
+        "",
+        "Key Concepts:",
+        "1. What is note-making?",
+        "   - The process of recording key information from a text in a concise, organized way",
+        "   - Helps with understanding, retention, and review",
+        "   - Example: Making notes from a chapter on road safety",
+        "",
+        "2. Steps for making notes from chapters:",
+        "   - Step 1: Preview the chapter: Look at title, headings, subheadings",
+        "   - Step 2: Read actively: Ask questions, highlight key points",
+        "   - Step 3: Identify main ideas and key supporting details",
+        "   - Step 4: Write notes in your own words using bullet points or outlines",
+        "   - Step 5: Review notes to ensure accuracy and completeness",
+        "",
+        "3. Features of effective notes:",
+        "   - Concise: Use short phrases, not full sentences",
+        "   - Organized: Use headings, subheadings, bullet points",
+        "   - Clear: Use your own words, avoid copying directly",
+        "   - Complete: Include all main ideas and key supporting details",
+        "",
+        "4. Strategies for effective note-making:",
+        "   - Use abbreviations and symbols to save time",
+        "   - Focus on main ideas and key supporting details",
+        "   - Use headings and subheadings to organize information",
+        "   - Review and revise notes after reading",
+        "",
+        "5. Why make notes?",
+        "   - Improves understanding and retention of information",
+        "   - Supports effective study and revision",
+        "   - Essential for academic success and professional communication",
+        "   - Develops critical thinking and analytical skills",
+        "",
+        "Nigerian Context:",
+        "• Sample chapter topic: 'The Role of Education in National Development'",
+        "  - Main ideas:",
+        "    * Education empowers citizens and drives economic growth",
+        "    * Quality education requires adequate funding and teacher training",
+        "    * Education promotes national unity and cultural preservation",
+        "  - Notes should capture these main ideas concisely",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the importance of education in Nigerian development",
+        "  - Recognizing how note-making supports academic success in Nigerian schools",
+        "  - Appreciating the role of critical reading in informed citizenship",
+        "",
+        "Practical Activities:",
+        "1. Note-Making Practice:",
+        "   - Teacher provides a short chapter excerpt on a Nigerian topic",
+        "   - Students practice previewing, reading actively, and making notes",
+        "   - Groups share their notes and discuss organization and completeness",
+        "",
+        "2. Note Comparison:",
+        "   - Teacher reads a chapter excerpt aloud",
+        "   - Students make notes individually",
+        "   - Class compares notes and discusses which are most effective",
+        "",
+        "3. Review and Revision:",
+        "   - Students review their notes after a short break",
+        "   - Revise notes for clarity, conciseness, and completeness",
+        "   - Peer feedback on note quality",
+        "",
+        "Common Misconceptions:",
+        "• 'Notes should copy the text exactly': Notes should paraphrase in your own words",
+        "• 'Longer notes are better': Effective notes are concise and focused",
+        "• 'Note-making is only for exams': Note-making supports learning and professional communication",
+        "• 'Notes don't need organization': Organized notes are easier to review and use",
+        "",
+        "Nigerian Context:",
+        "• Note-making skills help students succeed in Nigerian examinations and academic work",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support academic success and lifelong learning",
+        "",
+        "Conclusion:",
+        "• Note-making is the process of recording key information from a text concisely and organized",
+        "• Steps include previewing, reading actively, identifying main ideas, and writing in your own words",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of note-making supports academic success and effective learning"
+      ],
+      "diagramDescriptions": [
+        "Chart of note-making steps with examples",
+        "Flowchart for effective note-making from chapters",
+        "Sample chapter excerpt with notes highlighted",
+        "Nigerian context: Sample notes on education with key points",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading note-making chapters site:youtube.com",
+      "quiz": [
+        {
+          "q": "Note-making is:",
+          "opts": [
+            "Copying the text exactly",
+            "Recording key information from a text in a concise, organized way",
+            "Only for exams",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Note-making is the process of recording key information from a text in a concise, organized way to support understanding and retention."
+        },
+        {
+          "q": "The first step in making notes is to:",
+          "opts": [
+            "Write notes immediately",
+            "Preview the chapter: Look at title, headings, subheadings",
+            "Copy key sentences",
+            "Skip to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Previewing the chapter to understand its structure is the first step before reading and making notes."
+        },
+        {
+          "q": "A feature of effective notes is that they:",
+          "opts": [
+            "Copy sentences from the original",
+            "Are concise, organized, clear, and complete",
+            "Include all examples and details",
+            "Are longer than the original"
+          ],
+          "ans": 1,
+          "explanation": "Effective notes are concise, organized, clear, and complete, using your own words to express key information."
+        },
+        {
+          "q": "In making notes from a chapter on education in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about one school",
+            "Education empowers citizens and drives national development",
+            "Only about foreign countries",
+            "Only about legal terms"
+          ],
+          "ans": 1,
+          "explanation": "The main idea would likely be that education empowers citizens and drives national development in Nigeria."
+        },
+        {
+          "q": "A common mistake in note-making is:",
+          "opts": [
+            "Using your own words",
+            "Copying sentences directly from the original",
+            "Focusing on main ideas",
+            "Keeping notes concise"
+          ],
+          "ans": 1,
+          "explanation": "Copying sentences directly from the original is a common mistake; notes should paraphrase in your own words."
+        },
+        {
+          "q": "To check if your notes are effective, you should:",
+          "opts": [
+            "Make them longer",
+            "Ensure they are concise, organized, clear, and complete",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Effective notes are concise, organized, clear, and complete, using your own words to express key information."
+        },
+        {
+          "q": "Understanding note-making is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports academic success and effective learning",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Note-making skills help students succeed in academic work and develop effective learning habits."
+        },
+        {
+          "q": "Which is NOT a step in note-making?",
+          "opts": [
+            "Preview the chapter",
+            "Read actively and identify main ideas",
+            "Copy sentences directly",
+            "Write notes in your own words"
+          ],
+          "ans": 2,
+          "explanation": "Copying sentences directly is not a step in note-making; paraphrasing in your own words is essential."
+        },
+        {
+          "q": "A common misconception about note-making is:",
+          "opts": [
+            "Notes should paraphrase in your own words",
+            "Notes should copy the text exactly",
+            "Notes should be concise and organized",
+            "Practice improves note-making skills"
+          ],
+          "ans": 1,
+          "explanation": "Notes should not copy the text exactly; they should paraphrase main ideas in your own words."
+        },
+        {
+          "q": "When making notes, you should:",
+          "opts": [
+            "Include all examples",
+            "Focus on main ideas and paraphrase in your own words",
+            "Change the original meaning",
+            "Write a longer version"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on main ideas and paraphrasing in your own words creates effective, concise notes."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w8_su4",
+      "title": "8.4 Continuous Writing: Formal Letter - Letter of Complaint",
+      "notes": [
+        "Continuous Writing: Formal Letter - Letter of Complaint",
+        "",
+        "Key Concepts:",
+        "1. What is a formal letter of complaint?",
+        "   - A letter written to express dissatisfaction with a product, service, or situation",
+        "   - Uses formal, respectful language and follows a specific format",
+        "   - Example: Complaining about poor road conditions to local authorities",
+        "",
+        "2. Features of a formal letter of complaint:",
+        "   - Two addresses: writer's address (top right), recipient's address (left, below)",
+        "   - Formal salutation: 'Dear Sir/Madam', 'Dear Mr. Ade'",
+        "   - Clear subject line: 'Complaint about Poor Road Conditions in Our Community'",
+        "   - Body: Introduction, details of complaint, desired action, conclusion",
+        "   - Formal closing: 'Yours faithfully', 'Yours sincerely'",
+        "   - Signature and full name",
+        "",
+        "3. Language and tone of a formal letter of complaint:",
+        "   - Formal and respectful: Avoid slang, colloquialisms, or emotional language",
+        "   - Clear and specific: State the problem clearly with specific details",
+        "   - Polite but firm: Express dissatisfaction respectfully but firmly",
+        "   - Solution-oriented: Suggest possible solutions or actions",
+        "",
+        "4. Steps for writing a formal letter of complaint:",
+        "   - Step 1: Identify the problem and desired outcome",
+        "   - Step 2: Gather specific details: dates, times, names, evidence",
+        "   - Step 3: Organize ideas: introduction, details, desired action, conclusion",
+        "   - Step 4: Write a draft with formal language and clear structure",
+        "   - Step 5: Revise for clarity, tone, and completeness",
+        "",
+        "5. Tips for effective complaint letters:",
+        "   - Start with a clear statement of the problem",
+        "   - Provide specific details and evidence",
+        "   - Suggest reasonable solutions or actions",
+        "   - End with a polite request for response or action",
+        "",
+        "Nigerian Context:",
+        "• Sample complaint letter topics for Nigerian students:",
+        "  - 'Complaint about Poor Road Conditions in Our Community'",
+        "  - 'Complaint about Irregular Water Supply in Our Area'",
+        "  - 'Complaint about Exam Malpractice in Our School'",
+        "  - 'Complaint about Poor Service at a Local Business'",
+        "",
+        "• Cultural considerations:",
+        "  - Using formal, respectful language appropriate for Nigerian contexts",
+        "  - Including local references: community names, local authorities, cultural norms",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Format Practice:",
+        "   - Teacher displays a sample formal letter of complaint",
+        "   - Students identify and label each part: addresses, salutation, body, closing",
+        "   - Students practice writing each part correctly",
+        "",
+        "2. Letter Writing:",
+        "   - Students choose a complaint topic relevant to Nigerian life",
+        "   - Students write a formal letter of complaint following the correct format",
+        "   - Focus on formal tone, specific details, and clear structure",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange letters with partners",
+        "   - Partners check for correct format, formal tone, and clarity",
+        "   - Students revise their letters based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Complaint letters should be emotional': Complaint letters should be formal, respectful, and solution-oriented",
+        "• 'Longer letters are better': Effective complaint letters are clear and focused, not just long",
+        "• 'Complaint letters don't need planning': Planning helps create logical, persuasive complaint letters",
+        "• 'Only experts can write complaint letters': Everyone can learn to write effective complaint letters with practice",
+        "",
+        "Nigerian Context:",
+        "• Writing formal complaint letters supports clear, respectful communication for civic participation",
+        "• Practice with local topics enhances relevance and retention",
+        "• Letter writing skills are foundational for academic success and professional communication",
+        "",
+        "Conclusion:",
+        "• Formal letters of complaint express dissatisfaction respectfully and seek solutions",
+        "• Features include two addresses, formal salutation, clear body, and formal closing",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of formal letter writing supports civic participation and professional communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of formal letter of complaint format with labeled parts",
+        "Diagram of letter writing steps: identify problem, gather details, organize, draft, revise",
+        "Sample formal letter of complaint with features highlighted",
+        "Nigerian context: Sample complaint topics and cultural considerations",
+        "Common mistakes in formal letter writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing formal letter complaint site:youtube.com",
+      "quiz": [
+        {
+          "q": "A formal letter of complaint is:",
+          "opts": [
+            "Only an informal message",
+            "A letter written to express dissatisfaction respectfully and seek solutions",
+            "Only a poem",
+            "Only a list of facts"
+          ],
+          "ans": 1,
+          "explanation": "A formal letter of complaint expresses dissatisfaction respectfully and seeks solutions using formal language and structure."
+        },
+        {
+          "q": "Which is a feature of a formal letter of complaint?",
+          "opts": [
+            "Only the body",
+            "Two addresses, formal salutation, clear subject, body, formal closing",
+            "Only the salutation",
+            "Only the signature"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters of complaint include two addresses, formal salutation, clear subject, body, and formal closing."
+        },
+        {
+          "q": "The salutation in a formal letter of complaint is usually:",
+          "opts": [
+            "Dear friend",
+            "Dear Sir/Madam",
+            "Hello there",
+            "To whom it may concern"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters of complaint use formal salutations like 'Dear Sir/Madam' rather than informal greetings."
+        },
+        {
+          "q": "The language of a formal letter of complaint should be:",
+          "opts": [
+            "Only emotional and informal",
+            "Formal, respectful, clear, and solution-oriented",
+            "Only technical and complex",
+            "Only short and simple"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters of complaint use formal, respectful, clear, and solution-oriented language appropriate for the relationship."
+        },
+        {
+          "q": "The first step in writing a formal letter of complaint is to:",
+          "opts": [
+            "Write the body",
+            "Identify the problem and desired outcome",
+            "Write the closing",
+            "Write the salutation"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the problem and desired outcome is the first step before gathering details and organizing ideas."
+        },
+        {
+          "q": "In Nigerian context, a complaint letter topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'Complaint about Poor Road Conditions in Our Community'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Complaint letter topics in Nigerian context often address local issues like road conditions, water supply, or service quality."
+        },
+        {
+          "q": "Understanding formal complaint letters is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, respectful communication for civic participation",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Formal complaint letter writing skills help students communicate respectfully and effectively in civic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a part of a formal letter of complaint?",
+          "opts": [
+            "Two addresses",
+            "Formal salutation",
+            "Emotional language",
+            "Clear subject line"
+          ],
+          "ans": 2,
+          "explanation": "Emotional language is not appropriate for formal complaint letters; they should use formal, respectful language."
+        },
+        {
+          "q": "A common misconception about complaint letters is:",
+          "opts": [
+            "Complaint letters should be formal and respectful",
+            "Complaint letters should be emotional and informal",
+            "Complaint letters can share specific details",
+            "Complaint letters should suggest solutions"
+          ],
+          "ans": 1,
+          "explanation": "Complaint letters should not be emotional and informal; they should be formal, respectful, and solution-oriented."
+        },
+        {
+          "q": "When writing a formal letter of complaint, you should:",
+          "opts": [
+            "Ignore the format",
+            "Use formal language, specific details, and clear structure",
+            "Only write one long paragraph",
+            "Avoid suggesting solutions"
+          ],
+          "ans": 1,
+          "explanation": "Using formal language, specific details, and clear structure makes formal complaint letters clear, respectful, and effective."
+        }
+      ]
+    }
+  ]
+}

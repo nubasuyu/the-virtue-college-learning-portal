@@ -1,0 +1,916 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Speech, Summary, Structures, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w4_su1",
+      "title": "4.1 Speech: Consonants Followed by /j/",
+      "notes": [
+        "Consonant + /j/ Sound Pattern:",
+        "• Definition: Consonant sounds followed by the palatal approximant /j/ (as in 'yes')",
+        "• Examples:",
+        "  - /kj/: curious, cure, accuse, accuse",
+        "  - /hj/: human, humour, huge, hue",
+        "  - /fj/: future, few, feud, fuel",
+        "  - /nj/: new, news, nude, neutral",
+        "",
+        "Pronunciation Guide:",
+        "• /kj/: Back of tongue touches soft palate for /k/, then tongue approaches hard palate for /j/",
+        "  - Practice: 'He is a curious boy who cures diseases.'",
+        "  - Nigerian context: Often pronounced as /k/ alone - 'cure' as 'kur'",
+        "",
+        "• /hj/: Air passes through glottis for /h/, then tongue approaches hard palate for /j/",
+        "  - Practice: 'Human beings have a sense of humour.'",
+        "  - Nigerian context: May be pronounced as /h/ alone - 'huge' as 'huj'",
+        "",
+        "• /fj/: Lower lip touches upper teeth for /f/, then tongue approaches hard palate for /j/",
+        "  - Practice: 'In the future, few people will use fuel cars.'",
+        "  - Nigerian context: Often simplified to /f/ - 'future' as 'futur'",
+        "",
+        "Common Errors in Nigerian English:",
+        "• Omission of /j/ after consonant:",
+        "  - 'cure' → 'kur'",
+        "  - 'human' → 'human' (without /j/ glide)",
+        "  - 'future' → 'futur'",
+        "",
+        "• Substitution with vowel sounds:",
+        "  - 'cure' → 'cu-er' (two syllables instead of one)",
+        "  - 'new' → 'nu-ew'",
+        "",
+        "Correction Strategies:",
+        "1. Isolate the cluster:",
+        "   • Practice /kj/, /hj/, /fj/ without full words",
+        "   • Focus on smooth transition between consonants",
+        "",
+        "2. Use minimal pairs:",
+        "   • cure/cur, huge/hug, few/feu",
+        "   • Highlight the difference in meaning",
+        "",
+        "3. Practice in sentences:",
+        "   • 'The curious cure for human humour is future news.'",
+        "   • 'Few humans have a new cure for future diseases.'",
+        "",
+        "4. Record and compare:",
+        "   • Record own pronunciation",
+        "   • Compare with model pronunciation",
+        "   • Identify and correct differences",
+        "",
+        "Practical Activities:",
+        "1. Pronunciation Drill:",
+        "   • Teacher models /C+j/ clusters",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on smooth consonant transitions",
+        "",
+        "2. Word Sorting:",
+        "   • Sort words by initial cluster (/kj/, /hj/, /fj/)",
+        "   • Create word lists for each cluster",
+        "   • Practice pronunciation of sorted words",
+        "",
+        "3. Sentence Construction:",
+        "   • Use /C+j/ words in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct pronunciation errors collaboratively",
+        "",
+        "Nigerian Context:",
+        "• Correct /C+j/ pronunciation improves clarity in academic and professional settings",
+        "• Practice with local examples enhances relevance and retention",
+        "• Awareness of common errors helps self-correction and peer support",
+        "",
+        "Conclusion:",
+        "• Consonant clusters with /j/ require precise articulation",
+        "• Common Nigerian errors involve omission or substitution of /j/",
+        "• Targeted practice with minimal pairs and sentences improves accuracy",
+        "• Clear pronunciation supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue and lip positions for /C+j/ clusters",
+        "Chart of /kj/, /hj/, /fj/ words with Nigerian pronunciation notes",
+        "Minimal pairs practice: cure/cur, huge/hug, future/futur",
+        "Nigerian context: Common errors and correction strategies",
+        "Sample sentences with /C+j/ clusters for practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English consonant clusters /j/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The consonant cluster /kj/ is found in which word?",
+          "opts": [
+            "human",
+            "cure",
+            "future",
+            "new"
+          ],
+          "ans": 1,
+          "explanation": "'Cure' begins with the /kj/ cluster; 'human' has /hj/, 'future' has /fj/, and 'new' has /nj/."
+        },
+        {
+          "q": "In Nigerian English, 'future' is often mispronounced as:",
+          "opts": [
+            "futer",
+            "futur",
+            "few-chur",
+            "future"
+          ],
+          "ans": 1,
+          "explanation": "The /j/ in /fj/ is often omitted, leading to 'futur' instead of 'future'."
+        },
+        {
+          "q": "The cluster /hj/ requires air to pass through the:",
+          "opts": [
+            "alveolar ridge",
+            "glottis",
+            "teeth",
+            "lips"
+          ],
+          "ans": 1,
+          "explanation": "For /hj/, air passes through the glottis for /h/, then the tongue approaches the hard palate for /j/."
+        },
+        {
+          "q": "Which word contains the /fj/ cluster?",
+          "opts": [
+            "cure",
+            "human",
+            "few",
+            "new"
+          ],
+          "ans": 2,
+          "explanation": "'Few' begins with the /fj/ cluster; 'cure' has /kj/, 'human' has /hj/, and 'new' has /nj/."
+        },
+        {
+          "q": "A minimal pair for practicing /kj/ vs /k/ is:",
+          "opts": [
+            "cure/cur",
+            "huge/hug",
+            "future/futur",
+            "new/nu"
+          ],
+          "ans": 0,
+          "explanation": "Minimal pairs like 'cure/cur' help learners distinguish between the cluster and the single consonant."
+        },
+        {
+          "q": "The word 'human' begins with which consonant cluster?",
+          "opts": [
+            "/kj/",
+            "/hj/",
+            "/fj/",
+            "/nj/"
+          ],
+          "ans": 1,
+          "explanation": "'Human' begins with the /hj/ cluster, though spelling may mislead; pronunciation is /hjuːmən/."
+        },
+        {
+          "q": "To correct omission of /j/ in /C+j/ clusters, learners should:",
+          "opts": [
+            "Ignore the /j/ sound",
+            "Practice smooth transitions between consonants",
+            "Replace /j/ with a vowel",
+            "Pronounce only the first consonant"
+          ],
+          "ans": 1,
+          "explanation": "Practicing smooth transitions between the consonant and /j/ helps correct omission errors."
+        },
+        {
+          "q": "Understanding /C+j/ clusters is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass pronunciation tests",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading aloud",
+            "Only for listening comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct pronunciation of consonant clusters enhances communication clarity in academic, professional, and international contexts."
+        },
+        {
+          "q": "Which sentence uses /C+j/ words correctly?",
+          "opts": [
+            "The curious cure for human humour is future news.",
+            "The cur cur for human humor is futur news.",
+            "The curious cure for human humor is futur news.",
+            "The cur cure for human humour is future news."
+          ],
+          "ans": 0,
+          "explanation": "'The curious cure for human humour is future news' correctly uses /C+j/ words; other options contain pronunciation errors."
+        },
+        {
+          "q": "A common misconception about consonant clusters is:",
+          "opts": [
+            "Clusters require smooth transitions between sounds",
+            "Clusters can be pronounced as single consonants",
+            "Practice improves cluster pronunciation",
+            "Minimal pairs help distinguish clusters"
+          ],
+          "ans": 1,
+          "explanation": "Consonant clusters must be pronounced as clusters, not reduced to single consonants; omission changes word meaning."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w4_su2",
+      "title": "4.2 Summary: Introduction to Summary Through Identifying Key Words",
+      "notes": [
+        "Introduction to Summary Writing:",
+        "• Definition: Summary is a brief statement of the main points of a longer text",
+        "• Purpose: To condense information while retaining essential meaning",
+        "• Importance: Enables quick understanding of complex texts",
+        "",
+        "Key Words That Aid Summary:",
+        "• Signal Words for Addition:",
+        "  - in addition, as well as, also, furthermore, moreover",
+        "  - Function: Introduce supporting points or examples",
+        "  - Example: 'Furthermore, environmental education can empower youth.'",
+        "",
+        "• Signal Words for Sequence:",
+        "  - first, second, third, finally, subsequently",
+        "  - Function: Organize points in logical order",
+        "  - Example: 'First, we must reduce pollution. Second, we must conserve resources.'",
+        "",
+        "• Signal Words for Contrast:",
+        "  - however, despite, although, nevertheless, on the other hand",
+        "  - Function: Introduce opposing viewpoints or exceptions",
+        "  - Example: 'However, some argue that economic growth should come first.'",
+        "",
+        "• Signal Words for Conclusion:",
+        "  - in conclusion, therefore, thus, consequently, as a result",
+        "  - Function: Signal the end of an argument or summary",
+        "  - Example: 'Therefore, collective action is essential for environmental protection.'",
+        "",
+        "Steps for Identifying Key Words in Summary:",
+        "1. Read the passage carefully:",
+        "   • Read slowly and attentively",
+        "   • Note unfamiliar words and look them up",
+        "   • Underline or highlight signal words",
+        "",
+        "2. Identify topic sentences:",
+        "   • Look for sentences that state main ideas",
+        "   • Topic sentences often contain signal words",
+        "   • Example: 'First, corruption undermines national development.'",
+        "",
+        "3. Extract supporting details:",
+        "   • Note facts, examples, explanations that develop main ideas",
+        "   • Use signal words to identify supporting points",
+        "   • Example: 'Furthermore, corruption reduces foreign investment.'",
+        "",
+        "4. Paraphrase in your own words:",
+        "   • Restate main ideas concisely",
+        "   • Exclude minor details and examples",
+        "   • Ensure accuracy and completeness",
+        "",
+        "Nigerian Context in Summary Passages:",
+        "• Common themes:",
+        "  - Right to peaceful association",
+        "  - Rights of a child",
+        "  - Security issues in Nigeria",
+        "  - Service delivery and governance",
+        "",
+        "• Cultural references:",
+        "  - Traditional values and modern challenges",
+        "  - Urban-rural dynamics",
+        "  - Religious and ethnic diversity",
+        "",
+        "Practical Activities:",
+        "1. Key Word Identification:",
+        "   • Provide short passages with signal words highlighted",
+        "   • Students identify and categorize signal words",
+        "   • Discuss how signal words guide summary writing",
+        "",
+        "2. Summary Practice:",
+        "   • Read passages on topical Nigerian issues",
+        "   • Identify main points using signal words",
+        "   • Write summaries in specified number of sentences",
+        "",
+        "3. Peer Review:",
+        "   • Exchange summaries with classmates",
+        "   • Evaluate for completeness and conciseness",
+        "   • Provide constructive feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary is copying the original text': Summary requires paraphrasing in your own words",
+        "• 'All details must be included': Only main points and essential supporting details belong in summary",
+        "• 'Summary is shorter than the original': Summary is significantly shorter, typically 1/4 to 1/3 of original",
+        "• 'Signal words are unimportant': Signal words are crucial for identifying structure and main points",
+        "",
+        "Nigerian Context:",
+        "• Summary skills enable students to engage with Nigerian media, policies, and academic texts",
+        "• Understanding signal words supports critical thinking on national issues",
+        "• Practice with Nigerian-themed passages builds relevance and retention",
+        "",
+        "Conclusion:",
+        "• Summary writing condenses information while retaining essential meaning",
+        "• Signal words guide identification of main points and structure",
+        "• Practice with Nigerian contexts enhances relevance and application",
+        "• Mastery of summary skills supports academic success and informed citizenship"
+      ],
+      "diagramDescriptions": [
+        "Chart of signal words for summary: addition, sequence, contrast, conclusion",
+        "Flowchart of steps for identifying key words in summary",
+        "Diagram showing topic sentences and supporting details structure",
+        "Nigerian context: Sample passage on security issues with highlighted signal words",
+        "Summary writing exercise with local topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English summary writing key words SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A summary is best defined as:",
+          "opts": [
+            "A copy of the original text",
+            "A brief statement of the main points of a longer text",
+            "A detailed analysis of every detail",
+            "A personal opinion about the text"
+          ],
+          "ans": 1,
+          "explanation": "A summary condenses the main points of a longer text while retaining essential meaning; it is not a copy, analysis, or opinion."
+        },
+        {
+          "q": "Which signal word indicates addition?",
+          "opts": [
+            "however",
+            "furthermore",
+            "first",
+            "therefore"
+          ],
+          "ans": 1,
+          "explanation": "'Furthermore' signals addition of supporting points; 'however' signals contrast, 'first' signals sequence, 'therefore' signals conclusion."
+        },
+        {
+          "q": "In summary writing, topic sentences are important because they:",
+          "opts": [
+            "Contain minor details",
+            "State the main ideas of paragraphs",
+            "Introduce new arguments",
+            "Summarize the entire passage"
+          ],
+          "ans": 1,
+          "explanation": "Topic sentences state the main ideas of paragraphs, which are essential for identifying key points in summary writing."
+        },
+        {
+          "q": "Which signal word indicates contrast?",
+          "opts": [
+            "in addition",
+            "however",
+            "first",
+            "therefore"
+          ],
+          "ans": 1,
+          "explanation": "'However' signals contrast or opposing viewpoints; 'in addition' signals addition, 'first' signals sequence, 'therefore' signals conclusion."
+        },
+        {
+          "q": "A common error in summary writing is:",
+          "opts": [
+            "Paraphrasing in your own words",
+            "Including all details from the original text",
+            "Using signal words to identify main points",
+            "Excluding minor details and examples"
+          ],
+          "ans": 1,
+          "explanation": "Including all details from the original text makes a summary too long; only main points and essential supporting details should be included."
+        },
+        {
+          "q": "In Nigerian context, summary passages may address:",
+          "opts": [
+            "Only foreign issues",
+            "Security, governance, and rights issues in Nigeria",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian summary passages often address local issues like security, governance, rights, and service delivery."
+        },
+        {
+          "q": "The purpose of paraphrasing in summary is to:",
+          "opts": [
+            "Copy the author's words exactly",
+            "Restate main ideas in your own words",
+            "Add new information",
+            "Make the summary longer"
+          ],
+          "ans": 1,
+          "explanation": "Paraphrasing restates main ideas in your own words, which is essential for effective summary writing."
+        },
+        {
+          "q": "Understanding signal words is important for summary writing because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Enables identification of main points and text structure",
+            "Only for reading comprehension",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Signal words guide readers in identifying main points, structure, and relationships between ideas, which is crucial for effective summary writing."
+        },
+        {
+          "q": "A summary should typically be:",
+          "opts": [
+            "The same length as the original",
+            "1/4 to 1/3 the length of the original",
+            "Twice as long as the original",
+            "Only one sentence long"
+          ],
+          "ans": 1,
+          "explanation": "A good summary is significantly shorter than the original, typically 1/4 to 1/3 of the original length, while retaining essential meaning."
+        },
+        {
+          "q": "A common misconception about summary is:",
+          "opts": [
+            "Summary requires paraphrasing in your own words",
+            "Summary is copying the original text",
+            "Signal words help identify main points",
+            "Summary excludes minor details"
+          ],
+          "ans": 1,
+          "explanation": "Summary requires paraphrasing in your own words; copying the original text is plagiarism, not summary."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w4_su3",
+      "title": "4.3 Structures: Countable and Uncountable Nouns",
+      "notes": [
+        "Structures: Countable and Uncountable Nouns",
+        "• Revision of Nouns:",
+        "  - Nouns name people, places, things, or ideas",
+        "  - Types: common, proper, concrete, abstract, collective",
+        "  - Examples: boy, Lagos, table, freedom, team",
+        "",
+        "Countable Nouns:",
+        "• Definition: Nouns that can be counted (one, two, three...)",
+        "• Characteristics:",
+        "  - Have singular and plural forms",
+        "  - Can be used with indefinite articles (a/an)",
+        "  - Can be used with numbers",
+        "",
+        "• Examples:",
+        "  - Singular: book, child, city, idea",
+        "  - Plural: books, children, cities, ideas",
+        "  - With articles: a book, an idea",
+        "  - With numbers: two books, three children",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'A farmer in Kano grows millet.'",
+        "  - 'Three students passed the exam.'",
+        "  - 'Many cities in Nigeria are growing rapidly.'",
+        "",
+        "Uncountable Nouns:",
+        "• Definition: Nouns that cannot be counted",
+        "• Characteristics:",
+        "  - No plural form",
+        "  - Cannot be used with indefinite articles (a/an)",
+        "  - Cannot be used with numbers directly",
+        "  - Often refer to substances, concepts, or masses",
+        "",
+        "• Examples:",
+        "  - Substances: water, rice, sugar, sand",
+        "  - Concepts: information, advice, knowledge, happiness",
+        "  - Masses: furniture, equipment, luggage, money",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'I need some water.' (not 'a water')",
+        "  - 'She gave me good advice.' (not 'an advice')",
+        "  - 'We have much information about the project.'",
+        "",
+        "Nouns That Can Be Both Countable and Uncountable:",
+        "• Some nouns change meaning based on countability:",
+        "  - 'Water' (uncountable) vs 'a water' (a bottle of water)",
+        "  - 'Paper' (uncountable) vs 'a paper' (a newspaper or academic paper)",
+        "  - 'Time' (uncountable) vs 'a time' (an occasion)",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'I drank water.' (uncountable)",
+        "  - 'I bought a water.' (countable: a bottle of water)",
+        "  - 'She reads paper every day.' (uncountable: material)",
+        "  - 'She reads a paper every day.' (countable: newspaper)",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Using 'a/an' with uncountable nouns",
+        "  - Incorrect: 'I need an advice.'",
+        "  - Correct: 'I need some advice.' or 'I need a piece of advice.'",
+        "",
+        "• Error: Using plural forms with uncountable nouns",
+        "  - Incorrect: 'I have many informations.'",
+        "  - Correct: 'I have much information.' or 'I have many pieces of information.'",
+        "",
+        "• Error: Using numbers directly with uncountable nouns",
+        "  - Incorrect: 'I bought three rices.'",
+        "  - Correct: 'I bought three bags of rice.' or 'I bought some rice.'",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'She has many luggages.'",
+        "  - Correction: 'She has much luggage.' or 'She has many pieces of luggage.'",
+        "",
+        "Quantifiers for Countable and Uncountable Nouns:",
+        "• For Countable Nouns:",
+        "  - many, few, a few, several, a number of",
+        "  - Example: 'Many students passed the exam.'",
+        "",
+        "• For Uncountable Nouns:",
+        "  - much, little, a little, a great deal of, a bit of",
+        "  - Example: 'Much information was shared.'",
+        "",
+        "• For Both:",
+        "  - some, any, most, all, enough, a lot of, lots of",
+        "  - Example: 'Some students passed.' / 'Some information was shared.'",
+        "",
+        "Practical Activities:",
+        "1. Noun Classification:",
+        "   • Provide lists of nouns for students to classify as countable/uncountable",
+        "   • Discuss reasons for classification",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using countable and uncountable nouns correctly",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on noun usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with countable/uncountable noun errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'All nouns can be counted': Many nouns (substances, concepts) cannot be counted",
+        "• 'Uncountable nouns never have plural forms': Some uncountable nouns can be pluralized with different meanings",
+        "• 'Countable nouns always take 'a/an'': Countable nouns in plural form do not take 'a/an'",
+        "• 'Quantifiers are interchangeable': Different quantifiers are used for countable vs uncountable nouns",
+        "",
+        "Nigerian Context:",
+        "• Correct noun usage supports clear communication in academic, professional, and social contexts",
+        "• Understanding countability helps students navigate Nigerian English usage",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Countable and uncountable nouns follow different grammatical rules",
+        "• Correct usage depends on noun type, context, and intended meaning",
+        "• Practice with Nigerian examples reinforces learning and relevance",
+        "• Mastery of noun countability improves writing clarity and grammatical accuracy"
+      ],
+      "diagramDescriptions": [
+        "Chart of countable vs uncountable nouns with examples",
+        "Flowchart for choosing quantifiers based on noun type",
+        "Comparison of nouns that can be both countable and uncountable",
+        "Nigerian context: Sample sentences with correct/incorrect noun usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar countable uncountable nouns SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A countable noun is one that:",
+          "opts": [
+            "Cannot be counted",
+            "Can be counted and has plural forms",
+            "Is always abstract",
+            "Never takes an article"
+          ],
+          "ans": 1,
+          "explanation": "Countable nouns can be counted (one, two, three...) and have singular and plural forms."
+        },
+        {
+          "q": "Which of the following is an uncountable noun?",
+          "opts": [
+            "book",
+            "child",
+            "water",
+            "city"
+          ],
+          "ans": 2,
+          "explanation": "'Water' is uncountable because it refers to a substance that cannot be counted; 'book', 'child', and 'city' are countable."
+        },
+        {
+          "q": "Which sentence uses an uncountable noun correctly?",
+          "opts": [
+            "I need an advice.",
+            "She gave me good advice.",
+            "He has many informations.",
+            "We bought three rices."
+          ],
+          "ans": 1,
+          "explanation": "'Advice' is uncountable and does not take 'an' or plural form; 'She gave me good advice' is correct."
+        },
+        {
+          "q": "Which quantifier is used with countable nouns?",
+          "opts": [
+            "much",
+            "many",
+            "a little",
+            "a great deal of"
+          ],
+          "ans": 1,
+          "explanation": "'Many' is used with countable nouns; 'much', 'a little', and 'a great deal of' are used with uncountable nouns."
+        },
+        {
+          "q": "The noun 'paper' can be:",
+          "opts": [
+            "Only countable",
+            "Only uncountable",
+            "Both countable and uncountable",
+            "Neither countable nor uncountable"
+          ],
+          "ans": 2,
+          "explanation": "'Paper' can be uncountable (material) or countable (newspaper, academic paper) depending on context."
+        },
+        {
+          "q": "In the sentence 'I need some water', 'water' is:",
+          "opts": [
+            "Countable",
+            "Uncountable",
+            "Both countable and uncountable",
+            "Neither"
+          ],
+          "ans": 1,
+          "explanation": "'Water' is uncountable when referring to the substance; it does not take plural form or 'a/an'."
+        },
+        {
+          "q": "Which sentence is correct?",
+          "opts": [
+            "She has many luggages.",
+            "She has much luggage.",
+            "She has a luggage.",
+            "She has luggages."
+          ],
+          "ans": 1,
+          "explanation": "'Luggage' is uncountable; 'She has much luggage' or 'She has many pieces of luggage' is correct."
+        },
+        {
+          "q": "Understanding countable and uncountable nouns is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing clarity and grammatical accuracy in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct noun usage enhances writing clarity, which is essential for academic success and professional communication in Nigeria."
+        },
+        {
+          "q": "Which quantifier can be used with both countable and uncountable nouns?",
+          "opts": [
+            "many",
+            "much",
+            "some",
+            "few"
+          ],
+          "ans": 2,
+          "explanation": "'Some' can be used with both countable ('some books') and uncountable ('some water') nouns."
+        },
+        {
+          "q": "A common misconception about uncountable nouns is:",
+          "opts": [
+            "They cannot be counted",
+            "They never have plural forms",
+            "They can sometimes be pluralized with different meanings",
+            "They refer to substances or concepts"
+          ],
+          "ans": 1,
+          "explanation": "Some uncountable nouns can be pluralized with different meanings (e.g., 'waters' meaning different bodies of water)."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w4_su4",
+      "title": "4.4 Writing: Popular Articles for Various Reading Audiences",
+      "notes": [
+        "Writing: Popular Articles for Various Reading Audiences",
+        "• Definition: A popular article is a short, engaging piece of writing on a topic of current interest, written for a general audience",
+        "• Purpose: To inform, entertain, or persuade readers on topical issues",
+        "",
+        "Features of a Typical Newspaper Article:",
+        "1. Catchy headline:",
+        "   • Grabs reader's attention",
+        "   • Summarizes the main point",
+        "   • Example: 'Corruption Undermines Nigeria's Development'",
+        "",
+        "2. Lead paragraph:",
+        "   • Answers who, what, when, where, why, how",
+        "   • Hooks the reader to continue reading",
+        "   • Example: 'In a recent report, the EFCC revealed that corruption costs Nigeria over $10 billion annually.'",
+        "",
+        "3. Body paragraphs:",
+        "   • Develop the main point with evidence, examples, explanations",
+        "   • Use short paragraphs for readability",
+        "   • Include quotes from experts or witnesses",
+        "",
+        "4. Language and style:",
+        "   • Clear, concise, and accessible language",
+        "   • Active voice for immediacy",
+        "   • Avoid jargon unless explained",
+        "",
+        "5. Conclusion:",
+        "   • Summarizes key points",
+        "   • May include a call to action or final thought",
+        "   • Example: 'Only collective action can curb corruption and drive development.'",
+        "",
+        "Differences Between Articles, Letters, and Speeches:",
+        "• Articles:",
+        "  - Written for public consumption in newspapers/magazines",
+        "  - Objective tone, factual content",
+        "  - Structured with headline, lead, body, conclusion",
+        "",
+        "• Letters:",
+        "  - Written to specific individuals or organizations",
+        "  - Personal or formal tone depending on recipient",
+        "  - Structured with address, salutation, body, closing",
+        "",
+        "• Speeches:",
+        "  - Written to be spoken aloud to an audience",
+        "  - Persuasive or informative tone",
+        "  - Structured with introduction, body, conclusion, often with rhetorical devices",
+        "",
+        "Writing Articles on Current Issues:",
+        "• Sample Topics:",
+        "  - Bribery of public officers",
+        "  - Fraudulent acquisition of properties",
+        "  - The importance of good quality life",
+        "  - Environmental pollution in Nigerian cities",
+        "  - Youth unemployment and restiveness",
+        "",
+        "• Steps for Writing an Article:",
+        "  a) Choose a relevant, engaging topic",
+        "  b) Research the topic thoroughly",
+        "  c) Write a catchy headline",
+        "  d) Craft a strong lead paragraph",
+        "  e) Develop body paragraphs with evidence",
+        "  f) Conclude with impact",
+        "  g) Edit for clarity, grammar, and style",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'How to Curb Examination Malpractice in Nigerian Schools'",
+        "  - 'The Role of Youth in Nigeria's Democratic Process'",
+        "  - 'Tackling Plastic Pollution in Lagos: A Community Approach'",
+        "",
+        "Language and Style for Popular Articles:",
+        "• Use active voice:",
+        "  - 'The government implemented new policies.' (active)",
+        "  - 'New policies were implemented by the government.' (passive)",
+        "",
+        "• Keep sentences concise:",
+        "  - 'Corruption costs Nigeria billions.' (concise)",
+        "  - 'It is a fact that corruption is costing Nigeria a lot of money, amounting to billions of naira every year.' (wordy)",
+        "",
+        "• Use engaging vocabulary:",
+        "  - 'The epidemic of corruption...' (engaging)",
+        "  - 'Corruption is a problem...' (plain)",
+        "",
+        "• Avoid jargon or explain it:",
+        "  - 'The EFCC (Economic and Financial Crimes Commission)...' (explained)",
+        "  - 'The EFCC...' (unexplained, may confuse readers)",
+        "",
+        "Practical Activities:",
+        "1. Article Analysis:",
+        "   • Read sample newspaper articles on current issues",
+        "   • Identify headline, lead, body, conclusion",
+        "   • Discuss language, style, and structure",
+        "",
+        "2. Headline Writing:",
+        "   • Given topics, students write catchy headlines",
+        "   • Share and evaluate headlines for impact",
+        "   • Revise for clarity and engagement",
+        "",
+        "3. Article Drafting:",
+        "   • Choose a current Nigerian issue",
+        "   • Plan article with outline (headline, lead, body, conclusion)",
+        "   • Draft article focusing on clarity, evidence, and style",
+        "   • Peer review and revise",
+        "",
+        "Common Misconceptions:",
+        "• 'Articles must be long to be effective': Conciseness and clarity are more important than length",
+        "• 'Articles are the same as essays': Articles are more engaging, use active voice, and target general audiences",
+        "• 'Fancy words improve articles': Clear, accessible language is more effective than complex vocabulary",
+        "• 'Articles can include personal opinions': Popular articles should be factual and objective, not opinion pieces",
+        "",
+        "Nigerian Context:",
+        "• Writing popular articles supports civic engagement and informed citizenship in Nigeria",
+        "• Understanding article structure helps students consume and produce media critically",
+        "• Practice with local issues enhances relevance and application",
+        "",
+        "Conclusion:",
+        "• Popular articles inform, entertain, or persuade general audiences on current issues",
+        "• Key features include catchy headlines, strong leads, evidence-based body, and impactful conclusions",
+        "• Clear, concise language and active voice enhance readability and engagement",
+        "• In Nigeria, article writing skills support media literacy, civic participation, and professional communication"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of a popular article: headline, lead, body, conclusion",
+        "Comparison chart: articles vs letters vs speeches",
+        "Flowchart for writing a popular article: topic selection to final draft",
+        "Language and style tips: active voice, concise sentences, engaging vocabulary",
+        "Nigerian context: Sample article topics on local issues"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing popular articles newspaper SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A popular article is primarily written to:",
+          "opts": [
+            "Express personal opinions",
+            "Inform, entertain, or persuade a general audience",
+            "Summarize academic research",
+            "Tell a fictional story"
+          ],
+          "ans": 1,
+          "explanation": "Popular articles aim to inform, entertain, or persuade general audiences on current issues; they are not personal opinions, academic summaries, or fiction."
+        },
+        {
+          "q": "The lead paragraph of an article should:",
+          "opts": [
+            "Summarize the entire article",
+            "Answer who, what, when, where, why, how",
+            "Introduce the author's credentials",
+            "List all sources used"
+          ],
+          "ans": 1,
+          "explanation": "The lead paragraph hooks readers by answering the key questions (who, what, when, where, why, how) about the topic."
+        },
+        {
+          "q": "Which language feature is preferred in popular articles?",
+          "opts": [
+            "Passive voice",
+            "Active voice",
+            "Complex sentences",
+            "Technical jargon"
+          ],
+          "ans": 1,
+          "explanation": "Active voice is preferred in popular articles for immediacy and clarity; passive voice, complex sentences, and jargon can reduce readability."
+        },
+        {
+          "q": "A difference between articles and letters is that articles:",
+          "opts": [
+            "Are written to specific individuals",
+            "Are written for public consumption in newspapers/magazines",
+            "Always include a salutation",
+            "Use a personal tone"
+          ],
+          "ans": 1,
+          "explanation": "Articles are written for public consumption in media; letters are written to specific individuals or organizations."
+        },
+        {
+          "q": "Which is a feature of a catchy headline?",
+          "opts": [
+            "It summarizes every detail of the article",
+            "It grabs attention and summarizes the main point",
+            "It includes the author's name",
+            "It lists all sources"
+          ],
+          "ans": 1,
+          "explanation": "A catchy headline grabs attention and summarizes the main point; it does not include every detail, author name, or sources."
+        },
+        {
+          "q": "In Nigerian context, a popular article might address:",
+          "opts": [
+            "Only international issues",
+            "Current issues like corruption, environment, or youth unemployment",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Popular articles in Nigeria often address current local issues like corruption, environment, youth unemployment, and governance."
+        },
+        {
+          "q": "The body paragraphs of an article should:",
+          "opts": [
+            "Repeat the lead paragraph",
+            "Develop the main point with evidence and examples",
+            "Introduce new unrelated topics",
+            "Summarize the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Body paragraphs develop the main point with evidence, examples, and explanations; they do not repeat, introduce unrelated topics, or summarize the conclusion."
+        },
+        {
+          "q": "Understanding article writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports media literacy, civic engagement, and professional communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Article writing skills support media literacy, informed citizenship, and professional communication in Nigerian society."
+        },
+        {
+          "q": "Which sentence demonstrates concise language?",
+          "opts": [
+            "Corruption is a very big problem that is causing a lot of damage to Nigeria.",
+            "Corruption undermines Nigeria's development.",
+            "It is important to note that corruption has many negative effects on the country.",
+            "One of the major issues facing Nigeria today is the issue of corruption."
+          ],
+          "ans": 1,
+          "explanation": "'Corruption undermines Nigeria's development' is concise and clear; the other options are wordy or indirect."
+        },
+        {
+          "q": "A common misconception about popular articles is:",
+          "opts": [
+            "Articles should be concise and clear",
+            "Articles must be long to be effective",
+            "Articles use active voice for immediacy",
+            "Articles target general audiences"
+          ],
+          "ans": 1,
+          "explanation": "Conciseness and clarity are more important than length in popular articles; long articles can lose reader engagement."
+        }
+      ]
+    }
+  ]
+}

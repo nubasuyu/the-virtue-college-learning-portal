@@ -1,0 +1,761 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 8,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w8_su1",
+      "title": "8.1 Reading: Reading to Acquire New Words - Agriculture, Medicine Registers",
+      "notes": [
+        "Reading: Acquiring New Words - Agriculture, Medicine Registers",
+        "",
+        "Key Concepts:",
+        "1. What is Register?",
+        "   - Specialized vocabulary used in a particular field or profession",
+        "   - Examples: Agriculture register: soil, fertilizer, harvest; Medicine register: diagnosis, prescription, surgery",
+        "",
+        "2. Strategies for Learning Register Vocabulary:",
+        "   - Read passages from the specific field",
+        "   - Identify and note unfamiliar terms",
+        "   - Use context clues to infer meaning",
+        "   - Consult dictionaries or glossaries for definitions",
+        "",
+        "3. Agriculture Register Examples:",
+        "   - Crops: cassava, yam, maize, rice",
+        "   - Activities: planting, weeding, harvesting, irrigation",
+        "   - Tools: hoe, cutlass, tractor, silo",
+        "",
+        "4. Medicine Register Examples:",
+        "   - Conditions: malaria, hypertension, diabetes",
+        "   - Treatments: prescription, surgery, therapy",
+        "   - Personnel: doctor, nurse, pharmacist, surgeon",
+        "",
+        "5. Practice with Nigerian Context:",
+        "   - Passages on Nigerian agriculture: crop rotation, soil conservation",
+        "   - Passages on Nigerian health: disease prevention, traditional medicine"
+      ],
+      "diagramDescriptions": [
+        "Chart of agriculture and medicine register vocabulary",
+        "Diagram of strategies for learning register words"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading register vocabulary agriculture medicine site:youtube.com",
+      "quiz": [
+        {
+          "q": "Register in language refers to:",
+          "opts": [
+            "Only formal speech",
+            "Specialized vocabulary used in a particular field",
+            "Only informal slang",
+            "Only poetic language"
+          ],
+          "ans": 1,
+          "explanation": "Register is specialized vocabulary used in specific fields or professions."
+        },
+        {
+          "q": "An example of agriculture register is:",
+          "opts": [
+            "diagnosis",
+            "fertilizer",
+            "prescription",
+            "surgery"
+          ],
+          "ans": 1,
+          "explanation": "'Fertilizer' is a term specific to agriculture."
+        },
+        {
+          "q": "A medicine register word is:",
+          "opts": [
+            "harvest",
+            "irrigation",
+            "prescription",
+            "tractor"
+          ],
+          "ans": 2,
+          "explanation": "'Prescription' is a term specific to medicine."
+        },
+        {
+          "q": "A good strategy for learning register words is to:",
+          "opts": [
+            "Ignore context",
+            "Read passages from the specific field and use context clues",
+            "Only memorize lists",
+            "Avoid dictionaries"
+          ],
+          "ans": 1,
+          "explanation": "Reading field-specific passages and using context clues helps learn register vocabulary."
+        },
+        {
+          "q": "In Nigerian agriculture, a register word might be:",
+          "opts": [
+            "software",
+            "cassava",
+            "algorithm",
+            "circuit"
+          ],
+          "ans": 1,
+          "explanation": "'Cassava' is a crop term specific to Nigerian agriculture."
+        },
+        {
+          "q": "In Nigerian medicine, a register word might be:",
+          "opts": [
+            "harvest",
+            "malaria",
+            "irrigation",
+            "tractor"
+          ],
+          "ans": 1,
+          "explanation": "'Malaria' is a disease term specific to Nigerian medicine."
+        },
+        {
+          "q": "Understanding register vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of technical and professional texts",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Register vocabulary helps students understand specialized texts in various fields."
+        },
+        {
+          "q": "Which is NOT an agriculture register word?",
+          "opts": [
+            "fertilizer",
+            "harvest",
+            "prescription",
+            "irrigation"
+          ],
+          "ans": 2,
+          "explanation": "'Prescription' is a medicine term, not agriculture."
+        },
+        {
+          "q": "A common misconception about register is:",
+          "opts": [
+            "Register is field-specific vocabulary",
+            "Register is only for experts",
+            "Register can be learned through reading",
+            "Register helps professional communication"
+          ],
+          "ans": 1,
+          "explanation": "Register is not only for experts; it can be learned through exposure and practice."
+        },
+        {
+          "q": "When learning register words, you should:",
+          "opts": [
+            "Ignore the field context",
+            "Read field-specific passages and note unfamiliar terms",
+            "Only use a dictionary",
+            "Avoid practice"
+          ],
+          "ans": 1,
+          "explanation": "Reading field-specific passages and noting terms helps build register vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w8_su2",
+      "title": "8.2 Writing: Organizing Main Ideas into Paragraphs",
+      "notes": [
+        "Writing: Organizing Main Ideas into Paragraphs",
+        "",
+        "Key Concepts:",
+        "1. What is a Paragraph?",
+        "   - A group of sentences that develop one main idea",
+        "   - Has a topic sentence, supporting details, and concluding sentence",
+        "",
+        "2. Steps for Organizing Ideas into Paragraphs:",
+        "   - Step 1: Identify the main idea for each paragraph",
+        "   - Step 2: Group related supporting details under each main idea",
+        "   - Step 3: Write a topic sentence for each paragraph",
+        "   - Step 4: Add supporting details and examples",
+        "   - Step 5: Write a concluding sentence if needed",
+        "",
+        "3. Features of a Good Paragraph:",
+        "   - Unity: all sentences support the main idea",
+        "   - Coherence: sentences flow logically",
+        "   - Development: main idea is fully explained with details",
+        "",
+        "4. Tips for Effective Paragraphing:",
+        "   - Start with a clear topic sentence",
+        "   - Use transitional words to connect ideas",
+        "   - Keep paragraphs focused on one main idea",
+        "   - Vary sentence structure for interest"
+      ],
+      "diagramDescriptions": [
+        "Chart of paragraph structure: topic sentence, supporting details, conclusion",
+        "Diagram of steps for organizing ideas into paragraphs"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing organizing ideas paragraphs site:youtube.com",
+      "quiz": [
+        {
+          "q": "A paragraph is:",
+          "opts": [
+            "A single sentence",
+            "A group of sentences developing one main idea",
+            "Only a list of facts",
+            "Only a conclusion"
+          ],
+          "ans": 1,
+          "explanation": "A paragraph is a group of sentences that develop one main idea."
+        },
+        {
+          "q": "The first step in organizing ideas into paragraphs is to:",
+          "opts": [
+            "Write the conclusion",
+            "Identify the main idea for each paragraph",
+            "Start with supporting details",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the main idea for each paragraph is the first step."
+        },
+        {
+          "q": "A feature of a good paragraph is:",
+          "opts": [
+            "Only rhyming words",
+            "Unity, coherence, and development",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Good paragraphs have unity, coherence, and development."
+        },
+        {
+          "q": "A topic sentence:",
+          "opts": [
+            "Is always the last sentence",
+            "States the main idea of the paragraph",
+            "Only provides examples",
+            "Only asks questions"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence states the main idea of the paragraph."
+        },
+        {
+          "q": "A good tip for paragraphing is to:",
+          "opts": [
+            "Write without planning",
+            "Use transitional words to connect ideas",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words help connect ideas smoothly between sentences."
+        },
+        {
+          "q": "In Nigerian context, a paragraph topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'The Importance of Agriculture in Nigeria'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Paragraph topics in Nigerian context often address local issues like agriculture."
+        },
+        {
+          "q": "Understanding paragraphing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, organized writing for assignments and exams",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Paragraphing skills help students write clearly and organized in academic contexts."
+        },
+        {
+          "q": "Which is NOT a feature of a good paragraph?",
+          "opts": [
+            "Unity",
+            "Coherence",
+            "Random ideas",
+            "Development"
+          ],
+          "ans": 2,
+          "explanation": "Random ideas break paragraph unity; good paragraphs focus on one main idea."
+        },
+        {
+          "q": "A common misconception about paragraphs is:",
+          "opts": [
+            "Paragraphs develop one main idea",
+            "Paragraphs must be long",
+            "Paragraphs need topic sentences",
+            "Paragraphs improve readability"
+          ],
+          "ans": 1,
+          "explanation": "Paragraphs do not need to be long; they need to be focused and well-developed."
+        },
+        {
+          "q": "When organizing ideas into paragraphs, you should:",
+          "opts": [
+            "Ignore main ideas",
+            "Group related details under each main idea",
+            "Only use the first idea",
+            "Skip supporting details"
+          ],
+          "ans": 1,
+          "explanation": "Grouping related details under each main idea creates coherent paragraphs."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w8_su3",
+      "title": "8.3 Grammatical Accuracy: Qualifiers (Adjectives)",
+      "notes": [
+        "Grammatical Accuracy: Qualifiers (Adjectives)",
+        "",
+        "Key Concepts:",
+        "1. What are Qualifiers (Adjectives)?",
+        "   - Words that describe or modify nouns or pronouns",
+        "   - Tell what kind, which one, how many, or how much",
+        "   - Examples: big, red, beautiful, intelligent, many, few",
+        "",
+        "2. Types of Adjectives:",
+        "   - Descriptive: describe qualities (beautiful, tall, fast)",
+        "   - Quantitative: show quantity (many, few, several)",
+        "   - Demonstrative: point out specific nouns (this, that, these, those)",
+        "   - Possessive: show ownership (my, your, his, her)",
+        "",
+        "3. Functions of Adjectives:",
+        "   - Describe nouns: 'The tall boy kicked the ball.'",
+        "   - Describe pronouns: 'She is beautiful.'",
+        "   - Make writing more vivid and specific",
+        "",
+        "4. Position of Adjectives:",
+        "   - Before the noun: 'The red car is fast.'",
+        "   - After linking verbs: 'The car is red.'",
+        "   - Multiple adjectives: 'The big, red, fast car'",
+        "",
+        "5. Identifying Adjectives in Passages:",
+        "   - Look for words that describe nouns or pronouns",
+        "   - Ask: What kind? How many? Which one?",
+        "   - Example: 'Aisha bought a beautiful, red dress.'",
+        "     Adjectives: beautiful (quality), red (colour)"
+      ],
+      "diagramDescriptions": [
+        "Chart of adjective types with Nigerian examples",
+        "Diagram showing adjective positions in sentences"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar adjectives qualifiers site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adjective is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Describes a noun or pronoun",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adjective describes a noun or pronoun."
+        },
+        {
+          "q": "Which is a descriptive adjective?",
+          "opts": [
+            "many",
+            "beautiful",
+            "this",
+            "my"
+          ],
+          "ans": 1,
+          "explanation": "'Beautiful' is a descriptive adjective; 'many' is quantitative, 'this' is demonstrative, 'my' is possessive."
+        },
+        {
+          "q": "In 'The tall boy runs fast', 'tall' is an adjective that modifies:",
+          "opts": [
+            "The",
+            "boy",
+            "runs",
+            "fast"
+          ],
+          "ans": 1,
+          "explanation": "'Tall' modifies the noun 'boy' by describing his height."
+        },
+        {
+          "q": "Which type of adjective shows quantity?",
+          "opts": [
+            "Descriptive",
+            "Quantitative",
+            "Demonstrative",
+            "Possessive"
+          ],
+          "ans": 1,
+          "explanation": "Quantitative adjectives show quantity (many, few, several)."
+        },
+        {
+          "q": "In Nigerian context, a descriptive adjective might be:",
+          "opts": [
+            "many",
+            "spicy",
+            "this",
+            "my"
+          ],
+          "ans": 1,
+          "explanation": "'Spicy' is a descriptive adjective commonly used for Nigerian food."
+        },
+        {
+          "q": "Adjectives can be placed:",
+          "opts": [
+            "Only before nouns",
+            "Before nouns or after linking verbs",
+            "Only after verbs",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives can come before nouns or after linking verbs."
+        },
+        {
+          "q": "Which word can function as an adjective?",
+          "opts": [
+            "happiness",
+            "beautiful",
+            "quickly",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Beautiful' is an adjective; 'happiness' is a noun, 'quickly' is an adverb, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding adjectives is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, descriptive communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives make writing and speaking more vivid and specific."
+        },
+        {
+          "q": "Which is NOT a type of adjective?",
+          "opts": [
+            "Descriptive",
+            "Quantitative",
+            "Action",
+            "Possessive"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adjective; descriptive, quantitative, demonstrative, and possessive are."
+        },
+        {
+          "q": "A common misconception about adjectives is:",
+          "opts": [
+            "Adjectives describe nouns or pronouns",
+            "Adjectives always come before nouns",
+            "Multiple adjectives can describe one noun",
+            "Adjectives make writing more vivid"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives can come before nouns OR after linking verbs."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w8_su4",
+      "title": "8.4 Listening/Speaking: Vowel Sounds (Diphthongs) /au/",
+      "notes": [
+        "Listening/Speaking: Vowel Sounds (Diphthongs) /au/",
+        "",
+        "Key Concepts:",
+        "1. What are Diphthongs?",
+        "   - Vowel sounds that glide from one vowel to another within the same syllable",
+        "   - English has eight diphthongs, including /au/",
+        "",
+        "2. The /au/ Diphthong:",
+        "   - Glides from /a/ to /u/",
+        "   - Examples: now, how, cow, town, down, brown",
+        "",
+        "3. Importance of Distinguishing /au/:",
+        "   - Prevents confusion with similar sounds",
+        "   - Example: 'now' /naʊ/ vs 'no' /noʊ/ - different meanings!",
+        "",
+        "4. Listening Strategies for /au/:",
+        "   - Focus on the glide from /a/ to /u/",
+        "   - Listen for minimal pairs: now/no, how/ho, cow/co",
+        "   - Note the context: Does the word make sense?",
+        "",
+        "5. Speaking Strategies for /au/:",
+        "   - Practice the glide: start with /a/, move to /u/",
+        "   - Use minimal pairs for practice: now/no, how/ho",
+        "   - Record yourself and compare with models",
+        "   - Get feedback on pronunciation clarity"
+      ],
+      "diagramDescriptions": [
+        "Chart of /au/ diphthong with example words",
+        "Diagram of mouth movement for /au/ glide"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English diphthong /au/ pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "A diphthong is:",
+          "opts": [
+            "A single vowel sound",
+            "A vowel sound that glides from one vowel to another",
+            "A consonant sound",
+            "A syllable break"
+          ],
+          "ans": 1,
+          "explanation": "A diphthong glides from one vowel sound to another within the same syllable."
+        },
+        {
+          "q": "The /au/ diphthong glides from:",
+          "opts": [
+            "/i/ to /u/",
+            "/a/ to /u/",
+            "/e/ to /i/",
+            "/o/ to /u/"
+          ],
+          "ans": 1,
+          "explanation": "/au/ glides from /a/ to /u/."
+        },
+        {
+          "q": "The word 'now' has the diphthong:",
+          "opts": [
+            "/i/",
+            "/au/",
+            "/ei/",
+            "/ou/"
+          ],
+          "ans": 1,
+          "explanation": "'Now' has the /au/ diphthong."
+        },
+        {
+          "q": "Correct /au/ pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct /au/ prevents confusion between words like 'now' and 'no'."
+        },
+        {
+          "q": "When listening for /au/, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the glide from /a/ to /u/",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the glide helps distinguish /au/ from other vowel sounds."
+        },
+        {
+          "q": "In Nigerian context, a word with /au/ might be:",
+          "opts": [
+            "no",
+            "now",
+            "know",
+            "knew"
+          ],
+          "ans": 1,
+          "explanation": "'Now' has the /au/ diphthong; 'no', 'know', 'knew' have different vowel sounds."
+        },
+        {
+          "q": "A good speaking strategy for /au/ is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice the glide from /a/ to /u/",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing the glide helps improve /au/ pronunciation clarity."
+        },
+        {
+          "q": "Understanding /au/ is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear /au/ pronunciation helps students be understood in various contexts."
+        },
+        {
+          "q": "Which pair shows the /au/ diphthong?",
+          "opts": [
+            "no/now",
+            "now/know",
+            "cow/co",
+            "how/ho"
+          ],
+          "ans": 0,
+          "explanation": "'No' and 'now' contrast the /oʊ/ and /aʊ/ diphthongs."
+        },
+        {
+          "q": "A common misconception about /au/ is:",
+          "opts": [
+            "/au/ is a diphthong",
+            "/au/ is the same as /oʊ/",
+            "Practice improves /au/ pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "/au/ and /oʊ/ are different diphthongs; practice helps distinguish them."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w8_su5",
+      "title": "8.5 Literature: Drama - Short Play, Language Features, Characters",
+      "notes": [
+        "Literature: Drama - Short Play, Language Features, Characters",
+        "",
+        "Key Concepts:",
+        "1. What is a Short Play?",
+        "   - A brief dramatic work intended for performance",
+        "   - Has characters, dialogue, plot, setting, and theme",
+        "   - Example: A one-act play about school life",
+        "",
+        "2. Language Features of Drama:",
+        "   - Dialogue: words spoken by characters",
+        "   - Stage directions: instructions for actors and directors",
+        "   - Figurative language: metaphors, similes, symbolism",
+        "   - Tone and mood: emotional atmosphere created",
+        "",
+        "3. Characters in Drama:",
+        "   - Protagonist: main character",
+        "   - Antagonist: opposing force",
+        "   - Supporting characters: help develop plot and theme",
+        "   - Characterization: how characters are developed (direct/indirect)",
+        "",
+        "4. How to Identify Language Features and Characters:",
+        "   - For dialogue: Look for character names followed by speech",
+        "   - For stage directions: Look for words in brackets or italics",
+        "   - For characters: Note traits, actions, dialogue, interactions",
+        "",
+        "5. Why Study These Elements?",
+        "   - To understand how drama creates meaning through performance",
+        "   - To appreciate the craft of playwrights",
+        "   - To improve your own writing and performance skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of drama language features with examples",
+        "Diagram of character types and development"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature drama short play language characters site:youtube.com",
+      "quiz": [
+        {
+          "q": "A short play is:",
+          "opts": [
+            "Only a poem",
+            "A brief dramatic work intended for performance",
+            "Only a novel",
+            "Only a historical document"
+          ],
+          "ans": 1,
+          "explanation": "A short play is a brief dramatic work for performance."
+        },
+        {
+          "q": "Dialogue in drama is:",
+          "opts": [
+            "Only stage directions",
+            "Words spoken by characters",
+            "Only the plot",
+            "Only the theme"
+          ],
+          "ans": 1,
+          "explanation": "Dialogue is the words spoken by characters."
+        },
+        {
+          "q": "Stage directions in drama are:",
+          "opts": [
+            "Only the dialogue",
+            "Instructions for actors and directors",
+            "Only the characters",
+            "Only the setting"
+          ],
+          "ans": 1,
+          "explanation": "Stage directions are instructions for performance."
+        },
+        {
+          "q": "In Nigerian drama, dialogue might include:",
+          "opts": [
+            "Only English",
+            "Local languages, proverbs, cultural references",
+            "Only scientific terms",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian drama dialogue often includes local languages and cultural references."
+        },
+        {
+          "q": "To identify characters in drama, you should look for:",
+          "opts": [
+            "Only physical description",
+            "Traits, actions, dialogue, and interactions",
+            "Only the setting",
+            "Only the plot"
+          ],
+          "ans": 1,
+          "explanation": "Characterization includes traits, actions, dialogue, and interactions."
+        },
+        {
+          "q": "A common feature in Nigerian drama is:",
+          "opts": [
+            "Only foreign cultures",
+            "Use of local languages, proverbs, and cultural references",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian drama often includes local languages and cultural references."
+        },
+        {
+          "q": "Understanding drama elements is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding drama elements helps students appreciate their heritage and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a language feature of drama?",
+          "opts": [
+            "Dialogue",
+            "Stage directions",
+            "Scientific data",
+            "Figurative language"
+          ],
+          "ans": 2,
+          "explanation": "Scientific data is not a drama language feature."
+        },
+        {
+          "q": "A common misconception about drama is:",
+          "opts": [
+            "Drama uses dialogue and action",
+            "Drama is only for entertainment",
+            "Drama can teach moral lessons",
+            "Drama reflects cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Drama is not only for entertainment; it also teaches lessons and preserves culture."
+        },
+        {
+          "q": "When analyzing drama, you should:",
+          "opts": [
+            "Ignore the dialogue",
+            "Identify language features and character development",
+            "Only focus on setting",
+            "Skip the theme"
+          ],
+          "ans": 1,
+          "explanation": "Identifying language features and character development helps you understand the drama."
+        }
+      ]
+    }
+  ]
+}

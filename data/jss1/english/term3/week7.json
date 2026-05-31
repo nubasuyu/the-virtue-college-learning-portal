@@ -1,0 +1,816 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "Third Term",
+  "week": 7,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t3_w7_su1",
+      "title": "7.1 Reading: Understanding the Author's Mood",
+      "notes": [
+        "Reading: Understanding the Author's Mood",
+        "",
+        "Key Concepts:",
+        "1. What is author's mood?",
+        "   - The emotional atmosphere or feeling created by the writer",
+        "   - Examples: anger, happiness, doubt, suspicion, excitement",
+        "   - Example: A passage expressing hope about Nigeria's future creates an optimistic mood",
+        "",
+        "2. How to identify author's mood:",
+        "   - Look for emotional words and expressions",
+        "   - Ask: How does this passage make me feel?",
+        "   - Consider the tone: is it serious, hopeful, angry, etc.?",
+        "   - Note the context: what is the passage about?",
+        "",
+        "3. Common moods in passages:",
+        "   - Suspicion: words like 'doubt', 'question', 'uncertain'",
+        "   - Excitement: words like 'thrilled', 'eager', 'anticipate'",
+        "   - Anger: words like 'furious', 'outraged', 'condemn'",
+        "   - Happiness: words like 'joyful', 'delighted', 'celebrate'",
+        "",
+        "4. Why study author's mood?",
+        "   - To understand the writer's emotional intent",
+        "   - To better comprehend the passage's message",
+        "   - To improve your own writing and expression",
+        "   - To develop critical thinking about how language creates emotion",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Excitement of Independence Day in Nigeria'",
+        "  - Mood: Excitement, pride, hope",
+        "  - Key words: 'celebrate', 'proud', 'unity', 'progress'",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how Nigerian writers express emotions about national issues",
+        "  - Recognizing how mood affects the message about local topics",
+        "  - Appreciating the role of literature in shaping public sentiment",
+        "",
+        "Practical Activities:",
+        "1. Mood Identification Practice:",
+        "   - Teacher provides short passages with different moods",
+        "   - Students work in pairs to identify the mood of each passage",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Emotional Word Hunt:",
+        "   - Teacher reads passages aloud",
+        "   - Students identify emotional words that create the mood",
+        "   - Class discusses how word choice affects the reader's response",
+        "",
+        "3. Creative Writing:",
+        "   - Students write a short paragraph with a specific mood",
+        "   - Example: Write a hopeful paragraph about your community",
+        "   - Peer review for clarity of mood and emotional language",
+        "",
+        "Common Misconceptions:",
+        "• 'Mood is the same as tone': Mood is the feeling created; tone is the writer's attitude",
+        "• 'Only fiction has mood': Non-fiction passages also create mood",
+        "• 'Mood doesn't affect meaning': Mood significantly influences how readers interpret the message",
+        "• 'Mood is always obvious': Sometimes mood requires careful analysis",
+        "",
+        "Nigerian Context:",
+        "• Understanding author's mood helps students critically engage with Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Author's mood is the emotional atmosphere created by the writer",
+        "• Strategies include analyzing emotional words, considering tone, and noting context",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of these skills supports critical reading and literary appreciation"
+      ],
+      "diagramDescriptions": [
+        "Chart of common moods with Nigerian examples",
+        "Diagram of mood identification strategies",
+        "Sample passage with mood elements highlighted",
+        "Nigerian context: Sample passages on national issues with mood analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading author mood tone site:youtube.com",
+      "quiz": [
+        {
+          "q": "Author's mood is:",
+          "opts": [
+            "The writer's attitude toward the subject",
+            "The emotional atmosphere or feeling created by the writer",
+            "The main idea of the passage",
+            "The number of paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "Mood is the emotional atmosphere or feeling created by the writer through language choices."
+        },
+        {
+          "q": "To identify author's mood, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Look for emotional words and consider the tone",
+            "Ignore the context",
+            "Only focus on the title"
+          ],
+          "ans": 1,
+          "explanation": "Looking for emotional words and considering the tone helps you identify the author's mood."
+        },
+        {
+          "q": "In a passage about Nigeria's Independence Day, the mood might be:",
+          "opts": [
+            "Angry and frustrated",
+            "Excited, proud, and hopeful",
+            "Neutral and factual",
+            "Sad and disappointed"
+          ],
+          "ans": 1,
+          "explanation": "A passage about Independence Day would likely express excitement, pride, and hope."
+        },
+        {
+          "q": "A common mistake in identifying mood is:",
+          "opts": [
+            "Looking for emotional words",
+            "Confusing mood with the main idea",
+            "Considering the tone",
+            "Reading the passage carefully"
+          ],
+          "ans": 1,
+          "explanation": "Confusing mood (emotional atmosphere) with the main idea (central message) is a common mistake."
+        },
+        {
+          "q": "Mood and tone work together to:",
+          "opts": [
+            "Only list facts",
+            "Shape how readers interpret the message",
+            "Only provide historical data",
+            "Only entertain without meaning"
+          ],
+          "ans": 1,
+          "explanation": "Mood and tone work together to shape how readers interpret and respond to the message."
+        },
+        {
+          "q": "Understanding author's mood is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with Nigerian texts and media",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Understanding mood helps students critically engage with Nigerian literature, media, and public discourse."
+        },
+        {
+          "q": "Which is NOT an element of mood?",
+          "opts": [
+            "Emotional words",
+            "Tone",
+            "Main idea",
+            "Context"
+          ],
+          "ans": 2,
+          "explanation": "Main idea is not an element of mood; emotional words, tone, and context help create mood."
+        },
+        {
+          "q": "A common misconception about mood is:",
+          "opts": [
+            "Mood is the emotional atmosphere",
+            "Mood is the same as tone",
+            "Mood can be identified through analysis",
+            "Practice improves mood identification"
+          ],
+          "ans": 1,
+          "explanation": "Mood and tone are related but different: mood is the feeling created; tone is the writer's attitude."
+        },
+        {
+          "q": "When analyzing mood, you should consider:",
+          "opts": [
+            "Only the first paragraph",
+            "Emotional words, tone, and context",
+            "Only the conclusion",
+            "Only the vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Analyzing emotional words, tone, and context helps you accurately identify the author's mood."
+        },
+        {
+          "q": "In Nigerian context, a passage on national issues might have a mood of:",
+          "opts": [
+            "Only foreign concerns",
+            "Hope, pride, or concern about national development",
+            "Only scientific data",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian passages on national issues often express hope, pride, or concern about development."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w7_su2",
+      "title": "7.2 Grammatical Accuracy: Adverbials in Passages on Peace and Dialogue",
+      "notes": [
+        "Grammatical Accuracy: Adverbials in Passages on Peace and Dialogue",
+        "",
+        "Key Concepts:",
+        "1. Review: What are adverbials?",
+        "   - Adverbials are words or phrases that modify verbs, adjectives, or other adverbs",
+        "   - They tell how, when, where, why, or to what extent an action is done",
+        "   - Examples: respectfully (how), yesterday (when), in Nigeria (where), because (why)",
+        "",
+        "2. Types of adverbials:",
+        "   a) Adverbials of manner: describe how an action is done",
+        "      - Examples: respectfully, honestly, diligently, wisely",
+        "   b) Adverbials of time: describe when an action is done",
+        "      - Examples: now, then, yesterday, tomorrow, recently",
+        "   c) Adverbials of place: describe where an action is done",
+        "      - Examples: here, there, in Nigeria, at school, in the community",
+        "   d) Adverbials of reason: describe why an action is done",
+        "      - Examples: because, therefore, consequently, as a result",
+        "",
+        "3. Functions of adverbials in passages on peace and dialogue:",
+        "   - Describe how peace is achieved: 'Citizens must act respectfully.'",
+        "   - Describe when dialogue happens: 'Dialogue is needed now.'",
+        "   - Describe where peace matters: 'Peace is important in Nigeria.'",
+        "   - Describe why dialogue matters: 'Because unity is strength.'",
+        "",
+        "4. Identifying adverbials in passages on peace and dialogue:",
+        "   - Look for words that answer: How? When? Where? Why?",
+        "   - Example passage:",
+        "     'Nigerian citizens should act respectfully in their communities because respect builds unity. They must work diligently today to build a better tomorrow.'",
+        "     Adverbials: respectfully (manner), in their communities (place), because (reason), diligently (manner), today (time), tomorrow (time)",
+        "",
+        "5. Making sentences with adverbials about peace and dialogue:",
+        "   - Start with a subject + verb: 'Citizens should act.'",
+        "   - Add adverbials for detail: 'Citizens should act respectfully in their communities.'",
+        "   - Use adverbials of reason: 'Because unity is strength, citizens should act respectfully.'",
+        "",
+        "Nigerian Context:",
+        "• Common adverbials in Nigerian English about peace and dialogue:",
+        "  - Manner: respectfully, honestly, diligently, wisely, patriotically",
+        "  - Time: now, always, tomorrow, in the future, recently",
+        "  - Place: in Nigeria, in our communities, at school, in the family",
+        "  - Reason: because, therefore, consequently, as a result of our values",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbials to describe how peace is practiced in Nigeria",
+        "  - Adverbials for peace discussions: 'respectfully', 'honestly', 'wisely'",
+        "  - Adverbials for national development: 'because unity is strength', 'therefore we must act'",
+        "",
+        "Practical Activities:",
+        "1. Adverbial Hunt in Peace Passages:",
+        "   - Teacher provides a short passage on peace and dialogue in Nigeria",
+        "   - Students underline all adverbials and label their type (manner, time, place, reason)",
+        "   - Class discusses findings and adverbial functions",
+        "",
+        "2. Adverbial Sorting Game:",
+        "   - Teacher writes adverbials on cards",
+        "   - Students sort into types: manner, time, place, reason",
+        "   - Groups present their sorted adverbials with example sentences about peace",
+        "",
+        "3. Sentence Building for Peace:",
+        "   - Students receive verb cards and adverbial cards",
+        "   - In groups, they create sentences about Nigerian peace using adverbials correctly",
+        "   - Sentences shared with class for feedback on adverbial usage",
+        "",
+        "Common Misconceptions:",
+        "• 'All -ly words are adverbials': Some adjectives also end in -ly (friendly, lovely)",
+        "• 'Adverbials only modify verbs': Adverbials can also modify adjectives and other adverbs",
+        "• 'Only one adverbial per sentence': Sentences can have multiple adverbials",
+        "• 'Adverbials are not important': Adverbials add precision and detail to communication about peace",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbials supports clear, precise communication about Nigerian peace and dialogue",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adverbials is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbials modify verbs, adjectives, or other adverbs to add detail",
+        "• Types include manner, time, place, and reason adverbials",
+        "• Functions include describing how, when, where, or why actions happen",
+        "• Mastery of adverbials supports clear, precise communication about Nigerian peace and dialogue"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverbial types with Nigerian peace examples",
+        "Diagram showing adverbial positions in sentences",
+        "Sample passage on peace with adverbials highlighted by type",
+        "Adverbial sorting activity template",
+        "Nigerian context: Common adverbials in peace discussions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar adverbials peace dialogue site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverbial is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverbial modifies verbs, adjectives, or other adverbs to add detail about how, when, where, or why."
+        },
+        {
+          "q": "Which is an adverbial of manner?",
+          "opts": [
+            "yesterday",
+            "respectfully",
+            "here",
+            "because"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverbial of manner; 'yesterday' is time, 'here' is place, 'because' is reason."
+        },
+        {
+          "q": "In the sentence 'Citizens should act respectfully in Nigeria', 'respectfully' is an adverbial that modifies:",
+          "opts": [
+            "Citizens",
+            "act",
+            "Nigeria",
+            "the sentence"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' modifies the verb 'act' by telling how citizens should act."
+        },
+        {
+          "q": "Which type of adverbial describes why an action is done?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Reason"
+          ],
+          "ans": 3,
+          "explanation": "Adverbials of reason describe why an action is done (because, therefore, consequently)."
+        },
+        {
+          "q": "In Nigerian context, which is an adverbial of manner about peace?",
+          "opts": [
+            "now",
+            "honestly",
+            "here",
+            "because"
+          ],
+          "ans": 1,
+          "explanation": "'Honestly' is an adverbial of manner commonly used in Nigerian English to describe how peace is practiced."
+        },
+        {
+          "q": "Adverbials can be placed:",
+          "opts": [
+            "Only after verbs",
+            "After verbs, before adjectives, or at sentence beginning/end",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials can come after verbs ('act respectfully'), before adjectives ('very honest'), or at sentence beginning/end ('Yesterday, they acted')."
+        },
+        {
+          "q": "Which word can function as an adverbial in a sentence?",
+          "opts": [
+            "peace",
+            "respectfully",
+            "respectful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverbial (modifies how an action is done); 'peace' is a noun, 'respectful' is an adjective, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding adverbials is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication about Nigerian peace and dialogue",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials add precision and detail to communication about peace, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverbial?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Reason"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverbial; manner, time, place, and reason are types of adverbials."
+        },
+        {
+          "q": "A common misconception about adverbials is:",
+          "opts": [
+            "Adverbials modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbials",
+            "Adverbials add precision to communication",
+            "Adverbials can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbials; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w7_su3",
+      "title": "7.3 Listening/Speaking: Weak Forms",
+      "notes": [
+        "Listening and Speaking: Weak Forms",
+        "",
+        "Key Concepts:",
+        "1. Understanding weak forms:",
+        "   - Reduced pronunciation of certain words in connected speech",
+        "   - Common in function words: prepositions, articles, auxiliary verbs",
+        "   - Examples: 'to' /tə/ instead of /tu:/, 'and' /ən/ instead of /ænd/",
+        "",
+        "2. Importance of weak forms:",
+        "   - Makes speech sound more natural and fluent",
+        "   - Helps listeners understand connected speech",
+        "   - Example: 'I want to go' sounds like 'I wanna go' in natural speech",
+        "",
+        "3. Common weak forms for practice:",
+        "   - /ə/ as in 'a' /ə/, 'the' /ðə/, 'to' /tə/",
+        "   - /ən/ as in 'and' /ən/, 'can' /kən/",
+        "   - /əm/ as in 'them' /ðəm/, 'am' /əm/",
+        "",
+        "4. Listening strategies for weak forms:",
+        "   - Focus on the speaker: listen carefully to reduced sounds",
+        "   - Listen for function words in connected speech",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say to or too?'",
+        "",
+        "5. Speaking strategies for weak forms:",
+        "   - Practice reduced pronunciation of function words",
+        "   - Use connected speech in practice sentences",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on fluency",
+        "",
+        "Nigerian Context:",
+        "• Common weak form challenges for Nigerian speakers:",
+        "  - Difficulty with reduced pronunciation of function words",
+        "  - Tendency to pronounce all words fully",
+        "  - Influence of native language pronunciation patterns",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Peace Education': 'We need to talk about peace' (weak 'to')",
+        "  - 'Family Values': 'A family is important' (weak 'a')",
+        "  - 'School Life': 'I can study hard' (weak 'can')",
+        "",
+        "• Cultural considerations:",
+        "  - Use of natural speech patterns in multilingual Nigerian classrooms",
+        "  - Importance of fluency in public speaking and daily communication",
+        "  - Practice with local sentences that use weak forms",
+        "",
+        "Practical Activities:",
+        "1. Weak Form Drill:",
+        "   - Teacher models weak forms with function words",
+        "   - Students repeat in chorus and individually",
+        "   - Practice connected speech: 'I want to go to school'",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says sentences with strong and weak forms",
+        "   - Students identify weak forms in connected speech",
+        "   - Practice with Nigerian-relevant sentences: 'We can build peace'",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using weak forms",
+        "   - Focus on natural, fluent pronunciation",
+        "   - Peer feedback on fluency and connected speech",
+        "",
+        "Common Misconceptions:",
+        "• 'Weak forms are incorrect': Weak forms are natural in fluent English speech",
+        "• 'All words should be pronounced fully': Function words are often reduced in natural speech",
+        "• 'Speaking slowly is better than speaking fluently': Fluency with weak forms sounds more natural",
+        "• 'Only native speakers use weak forms': With practice, anyone can use weak forms naturally",
+        "",
+        "Nigerian Context:",
+        "• Using weak forms supports natural, fluent communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• Weak forms are reduced pronunciations of function words in connected speech",
+        "• Listening strategies help you identify weak forms in natural speech",
+        "• Speaking strategies help you use weak forms for fluent, natural pronunciation",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of common weak forms with example words",
+        "Diagram of connected speech with weak forms highlighted",
+        "Sample sentences with weak forms practice",
+        "Listening strategy flowchart: Focus, Listen for reduced sounds, Note context, Ask for clarification",
+        "Nigerian context: Sample sentences with local relevance for weak form practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English weak forms pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Weak forms are:",
+          "opts": [
+            "Full pronunciation of all words",
+            "Reduced pronunciation of function words in connected speech",
+            "Only used in poetry",
+            "Only for formal speech"
+          ],
+          "ans": 1,
+          "explanation": "Weak forms are reduced pronunciations of function words that make speech sound more natural and fluent."
+        },
+        {
+          "q": "The word 'to' in connected speech often sounds like:",
+          "opts": [
+            "/tu:/",
+            "/tə/",
+            "/ta:/",
+            "/ti:/"
+          ],
+          "ans": 1,
+          "explanation": "'To' is often pronounced /tə/ in connected speech, not the full /tu:/."
+        },
+        {
+          "q": "Using weak forms helps to:",
+          "opts": [
+            "Make speech slower",
+            "Make speech sound more natural and fluent",
+            "Use more vocabulary",
+            "Speak louder"
+          ],
+          "ans": 1,
+          "explanation": "Weak forms make connected speech sound more natural and fluent, like native speakers."
+        },
+        {
+          "q": "When listening for weak forms, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for reduced sounds",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for reduced sounds helps you understand connected speech."
+        },
+        {
+          "q": "In Nigerian context, a common weak form challenge is:",
+          "opts": [
+            "/a/ and /e/",
+            "Difficulty with reduced pronunciation of function words",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers find it challenging to use reduced pronunciations for function words."
+        },
+        {
+          "q": "A good speaking strategy for weak forms is to:",
+          "opts": [
+            "Speak as slowly as possible",
+            "Practice reduced pronunciation of function words",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing reduced pronunciation of function words helps improve fluency and natural speech."
+        },
+        {
+          "q": "Which pair shows weak form usage?",
+          "opts": [
+            "I want to go /tu:/",
+            "I want to go /tə/",
+            "I want too go",
+            "I wont to go"
+          ],
+          "ans": 1,
+          "explanation": "'I want to go' with /tə/ shows the weak form of 'to' in connected speech."
+        },
+        {
+          "q": "Understanding weak forms is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports natural, fluent communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Using weak forms helps students sound more natural and fluent in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a common weak form?",
+          "opts": [
+            "/a:/ as in father",
+            "/ə/ as in 'a' or 'the'",
+            "/i:/ as in seat",
+            "/u:/ as in food"
+          ],
+          "ans": 1,
+          "explanation": "/ə/ (schwa) is a common weak form used in function words like 'a' and 'the'."
+        },
+        {
+          "q": "A common misconception about weak forms is:",
+          "opts": [
+            "Weak forms make speech sound natural",
+            "Weak forms are incorrect pronunciation",
+            "Practice improves weak form usage",
+            "Weak forms are common in connected speech"
+          ],
+          "ans": 1,
+          "explanation": "Weak forms are not incorrect; they are natural reduced pronunciations used in fluent English speech."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w7_su4",
+      "title": "7.4 Literature: Reading Poems",
+      "notes": [
+        "Literature: Reading Poems",
+        "",
+        "Key Concepts:",
+        "1. What is poetry?",
+        "   - Writing that uses rhythm, rhyme, imagery, and concise language",
+        "   - Often expresses emotions, ideas, or experiences creatively",
+        "   - Example: A poem about hope in difficult times",
+        "",
+        "2. Features of poetry:",
+        "   - Concise language: saying much with few words",
+        "   - Unique language: creative word choice and expression",
+        "   - High language: elevated, artistic expression",
+        "   - Rhythm and rhyme: musical quality of words",
+        "   - Imagery: creating pictures with words",
+        "",
+        "3. How to read poems:",
+        "   - Read aloud to hear the rhythm and rhyme",
+        "   - Look for imagery and figurative language",
+        "   - Ask: What is the poem about? What emotions does it express?",
+        "   - Consider the context: what is the poem's message?",
+        "",
+        "4. Why study poetry?",
+        "   - To appreciate the art of creative expression",
+        "   - To understand how language creates emotion and imagery",
+        "   - To improve your own writing and appreciation of literature",
+        "   - To develop critical thinking about how poems create meaning",
+        "",
+        "Nigerian Context:",
+        "• Poetry in Nigerian literature:",
+        "  - Poems about Nigerian culture, history, and social issues",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of identity, community, and national pride",
+        "",
+        "• Sample poetry themes in Nigerian context:",
+        "  - Hope for Nigeria's future",
+        "  - Celebration of cultural heritage",
+        "  - Reflection on social challenges and solutions",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for traditional poetic forms and oral poetry",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, identity, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Poem Reading Practice:",
+        "   - Teacher provides a short Nigerian poem",
+        "   - Students read the poem aloud in pairs",
+        "   - Groups discuss the poem's meaning, imagery, and emotions",
+        "",
+        "2. Imagery Hunt:",
+        "   - Teacher reads a poem aloud",
+        "   - Students identify imagery and figurative language",
+        "   - Class discusses how imagery creates meaning and emotion",
+        "",
+        "3. Creative Poetry:",
+        "   - Students write a short poem on a Nigerian topic",
+        "   - Focus on concise language, imagery, and rhythm",
+        "   - Share poems with class for feedback on features and style",
+        "",
+        "Common Misconceptions:",
+        "• 'Poetry is only about rhyme': Poetry can use rhythm, imagery, and concise language without rhyme",
+        "• 'Poetry is only for experts': Everyone can learn to read and appreciate poetry",
+        "• 'Poetry is only about feelings': Poetry can also express ideas, tell stories, and address social issues",
+        "• 'Poetry is difficult to understand': With practice, anyone can learn to read and analyze poetry",
+        "",
+        "Nigerian Context:",
+        "• Understanding poetry helps students appreciate Nigerian literary traditions",
+        "• Practice with local poems enhances cultural pride and literary appreciation",
+        "• Analyzing poetry develops critical thinking and creative writing skills",
+        "",
+        "Conclusion:",
+        "• Poetry uses concise, unique, and high language to express ideas and emotions",
+        "• Features include rhythm, rhyme, imagery, and figurative language",
+        "• Nigerian poetry reflects rich cultural traditions with universal themes",
+        "• Mastery of poetry analysis supports literary appreciation and creative expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of poetry features with Nigerian examples",
+        "Diagram of how to read and analyze poems",
+        "Sample Nigerian poem with features highlighted",
+        "Nigerian context: Famous Nigerian poets and their themes",
+        "Activity template: Poem reading and creative poetry"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature poetry reading Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Poetry is:",
+          "opts": [
+            "Only rhyming words",
+            "Writing that uses rhythm, rhyme, imagery, and concise language",
+            "Only long stories",
+            "Only factual information"
+          ],
+          "ans": 1,
+          "explanation": "Poetry uses rhythm, rhyme, imagery, and concise language to express ideas and emotions creatively."
+        },
+        {
+          "q": "A feature of poetry is:",
+          "opts": [
+            "Only long sentences",
+            "Concise language, unique expression, and imagery",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Poetry features concise language, unique expression, and imagery to create meaning and emotion."
+        },
+        {
+          "q": "To read a poem, you should:",
+          "opts": [
+            "Only read silently",
+            "Read aloud to hear the rhythm and rhyme",
+            "Only focus on the title",
+            "Ignore the imagery"
+          ],
+          "ans": 1,
+          "explanation": "Reading aloud helps you hear the rhythm and rhyme that are important features of poetry."
+        },
+        {
+          "q": "In Nigerian context, a poetry theme might be:",
+          "opts": [
+            "Only foreign issues",
+            "Hope for Nigeria's future and cultural heritage",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian poetry often explores themes like hope, cultural heritage, and social issues."
+        },
+        {
+          "q": "A common feature in Nigerian poetry is:",
+          "opts": [
+            "Only foreign references",
+            "Use of local languages, proverbs, and cultural references",
+            "Only scientific terms",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian poetry often includes local languages, proverbs, and cultural references."
+        },
+        {
+          "q": "Understanding poetry is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops creativity, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding poetry helps students appreciate their heritage, develop creativity, and improve literary skills."
+        },
+        {
+          "q": "Which is NOT a feature of poetry?",
+          "opts": [
+            "Concise language",
+            "Imagery",
+            "Long paragraphs",
+            "Rhythm"
+          ],
+          "ans": 2,
+          "explanation": "Long paragraphs are not a feature of poetry; concise language, imagery, and rhythm are."
+        },
+        {
+          "q": "A common misconception about poetry is:",
+          "opts": [
+            "Poetry uses concise language",
+            "Poetry is only about rhyme",
+            "Poetry can express ideas and emotions",
+            "Poetry develops creativity"
+          ],
+          "ans": 1,
+          "explanation": "Poetry is not only about rhyme; it can use rhythm, imagery, and concise language without rhyme."
+        },
+        {
+          "q": "When analyzing a poem, you should:",
+          "opts": [
+            "Ignore the imagery",
+            "Identify imagery, rhythm, and theme",
+            "Only focus on rhyme",
+            "Skip the context"
+          ],
+          "ans": 1,
+          "explanation": "Identifying imagery, rhythm, and theme helps you understand and appreciate the poem."
+        },
+        {
+          "q": "In Nigerian poetry, a common theme is:",
+          "opts": [
+            "Only foreign cultures",
+            "Celebration of cultural heritage and hope for the future",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian poetry often celebrates cultural heritage and expresses hope for the future."
+        }
+      ]
+    }
+  ]
+}

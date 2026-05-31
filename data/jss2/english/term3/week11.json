@@ -1,0 +1,752 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 11,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w11_su1",
+      "title": "11.1 Reading: Reading to Obtain Main Substance - Speed Reading",
+      "notes": [
+        "Reading: Speed Reading for Main Substance",
+        "",
+        "Key Concepts:",
+        "1. What is Speed Reading?",
+        "   - Reading quickly while maintaining comprehension",
+        "   - Not just reading fast, but reading efficiently",
+        "",
+        "2. Techniques for Speed Reading:",
+        "   - Surveying: Quick glance at title, headings, pictures",
+        "   - Scanning: Looking for specific information quickly",
+        "   - Skimming: Reading quickly to get the main idea",
+        "   - Chunking: Reading groups of words instead of word-by-word",
+        "",
+        "3. Conditions for Effective Speed Reading:",
+        "   - Good lighting and comfortable reading position",
+        "   - Minimize distractions",
+        "   - Use a pointer or finger to guide your eyes",
+        "   - Practice regularly to build speed and comprehension",
+        "",
+        "4. Strategies for Practice:",
+        "   - Set a timer and read a passage, then check comprehension",
+        "   - Gradually increase reading speed while maintaining understanding",
+        "   - Use varied materials: newspapers, textbooks, magazines",
+        "   - Practice with passages on familiar topics first"
+      ],
+      "diagramDescriptions": [
+        "Chart of speed reading techniques with examples",
+        "Flowchart for applying surveying, scanning, skimming"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading speed reading techniques site:youtube.com",
+      "quiz": [
+        {
+          "q": "Speed reading means:",
+          "opts": [
+            "Reading as fast as possible without understanding",
+            "Reading quickly while maintaining comprehension",
+            "Only reading the first sentence",
+            "Skipping difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Speed reading means reading efficiently while maintaining comprehension."
+        },
+        {
+          "q": "Surveying a passage means:",
+          "opts": [
+            "Reading every word carefully",
+            "A quick glance at title, headings, and structure",
+            "Skipping to the questions",
+            "Only reading the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Surveying involves a quick glance at title, headings, pictures, and structure."
+        },
+        {
+          "q": "Scanning a passage means:",
+          "opts": [
+            "Reading slowly for details",
+            "Looking for specific information quickly",
+            "Only reading the first sentence",
+            "Ignoring the topic"
+          ],
+          "ans": 1,
+          "explanation": "Scanning is looking for specific information quickly by moving eyes rapidly."
+        },
+        {
+          "q": "Skimming a passage means:",
+          "opts": [
+            "Reading every word slowly",
+            "Reading quickly to get the main idea",
+            "Only reading the conclusion",
+            "Ignoring the topic sentences"
+          ],
+          "ans": 1,
+          "explanation": "Skimming is reading quickly to get the main idea, focusing on topic sentences."
+        },
+        {
+          "q": "A good condition for speed reading is:",
+          "opts": [
+            "Reading in a noisy environment",
+            "Good lighting and comfortable position",
+            "Reading while multitasking",
+            "Using a small font size"
+          ],
+          "ans": 1,
+          "explanation": "Good lighting and comfortable position help maintain focus and efficiency."
+        },
+        {
+          "q": "In a passage on education, scanning might help you find:",
+          "opts": [
+            "Every detail about education",
+            "Keywords like 'curriculum', 'exams', 'teachers'",
+            "Only the author's name",
+            "Only the publication date"
+          ],
+          "ans": 1,
+          "explanation": "Scanning helps you find specific keywords quickly."
+        },
+        {
+          "q": "Understanding speed reading is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in timed examinations and lifelong learning",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Speed reading techniques help students succeed in timed exams and support lifelong learning."
+        },
+        {
+          "q": "Which is NOT a speed reading technique?",
+          "opts": [
+            "Surveying",
+            "Scanning",
+            "Memorizing",
+            "Skimming"
+          ],
+          "ans": 2,
+          "explanation": "Memorizing is not a speed reading technique."
+        },
+        {
+          "q": "A common misconception about speed reading is:",
+          "opts": [
+            "Speed reading maintains comprehension",
+            "Speed reading means sacrificing understanding",
+            "Practice improves reading speed",
+            "Different techniques work for different materials"
+          ],
+          "ans": 1,
+          "explanation": "Effective speed reading maintains comprehension; it doesn't mean sacrificing understanding."
+        },
+        {
+          "q": "When practicing speed reading, you should:",
+          "opts": [
+            "Only read easy passages",
+            "Gradually increase speed while checking comprehension",
+            "Ignore difficult words",
+            "Only focus on the first paragraph"
+          ],
+          "ans": 1,
+          "explanation": "Gradually increasing speed while checking comprehension helps build both speed and understanding."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w11_su2",
+      "title": "11.2 Writing: Formal vs Informal Letter Requirements",
+      "notes": [
+        "Writing: Formal vs Informal Letter Requirements",
+        "",
+        "Key Concepts:",
+        "1. Formal Letters:",
+        "   - Written to officials, organizations, or people you don't know well",
+        "   - Format: two addresses, formal salutation, formal language",
+        "   - Example: Letter to the Principal, application for employment",
+        "",
+        "2. Informal Letters:",
+        "   - Written to friends, family, or people you know well",
+        "   - Format: one address, informal salutation, friendly language",
+        "   - Example: Letter to a friend about school experiences",
+        "",
+        "3. Key Differences:",
+        "   - Address: Formal has two addresses; informal has one",
+        "   - Salutation: Formal uses 'Dear Sir/Madam'; informal uses 'Dear [Name]'",
+        "   - Language: Formal is respectful and precise; informal is relaxed and personal",
+        "   - Closing: Formal uses 'Yours faithfully/sincerely'; informal uses 'Love', 'Best regards'",
+        "",
+        "4. Tips for Writing Both Types:",
+        "   - Know your audience and purpose",
+        "   - Use appropriate format and language",
+        "   - Be clear and organized",
+        "   - Proofread for grammar and punctuation"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing formal and informal letter formats",
+        "Diagram of letter writing steps for both types"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing formal informal letters site:youtube.com",
+      "quiz": [
+        {
+          "q": "A formal letter is written to:",
+          "opts": [
+            "Only friends",
+            "Officials, organizations, or people you don't know well",
+            "Only family",
+            "Only strangers"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters are for official or unfamiliar recipients."
+        },
+        {
+          "q": "An informal letter is written to:",
+          "opts": [
+            "Only government officials",
+            "Friends, family, or people you know well",
+            "Only business partners",
+            "Only strangers"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters are for friends, family, or familiar people."
+        },
+        {
+          "q": "A key difference between formal and informal letters is:",
+          "opts": [
+            "Only the length",
+            "Number of addresses and salutation style",
+            "Only the closing",
+            "Only the topic"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters have two addresses and formal salutation; informal have one address and informal salutation."
+        },
+        {
+          "q": "The salutation in a formal letter is usually:",
+          "opts": [
+            "Dear [Name],",
+            "Dear Sir/Madam",
+            "Hello friend",
+            "Hi there"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters use 'Dear Sir/Madam' or similar formal salutations."
+        },
+        {
+          "q": "The language of an informal letter should be:",
+          "opts": [
+            "Only formal and stiff",
+            "Friendly, conversational, and personal",
+            "Only technical and complex",
+            "Only short and simple"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters use friendly, conversational language."
+        },
+        {
+          "q": "In Nigerian context, a formal letter might be:",
+          "opts": [
+            "Only to friends",
+            "A letter to the Principal requesting permission",
+            "Only to family",
+            "Only to strangers"
+          ],
+          "ans": 1,
+          "explanation": "Formal letters in Nigerian context often address school officials or organizations."
+        },
+        {
+          "q": "Understanding letter writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication for academic and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Letter writing skills help students communicate clearly in academic and professional contexts."
+        },
+        {
+          "q": "Which is NOT a feature of formal letters?",
+          "opts": [
+            "Two addresses",
+            "Formal salutation",
+            "Slang and colloquial language",
+            "Respectful tone"
+          ],
+          "ans": 2,
+          "explanation": "Formal letters avoid slang and colloquial language."
+        },
+        {
+          "q": "A common misconception about letters is:",
+          "opts": [
+            "Formal letters need two addresses",
+            "Informal letters don't need structure",
+            "Both types need clear organization",
+            "Practice improves letter writing"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters still need clear structure and organization."
+        },
+        {
+          "q": "When writing a letter, you should:",
+          "opts": [
+            "Ignore the audience",
+            "Use appropriate format and language for the recipient",
+            "Only use formal language",
+            "Only use informal language"
+          ],
+          "ans": 1,
+          "explanation": "Using appropriate format and language for the recipient ensures effective communication."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w11_su3",
+      "title": "11.3 Grammatical Accuracy: Direct and Indirect Statements",
+      "notes": [
+        "Grammatical Accuracy: Direct and Indirect Statements",
+        "",
+        "Key Concepts:",
+        "1. What are Direct Statements?",
+        "   - Exact words spoken by someone, in quotation marks",
+        "   - Example: She said, 'I am coming.'",
+        "",
+        "2. What are Indirect Statements?",
+        "   - Reported speech, not in quotation marks",
+        "   - Example: She said that she was coming.",
+        "",
+        "3. Changes from Direct to Indirect:",
+        "   - Pronouns change: 'I' → 'he/she'",
+        "   - Tenses backshift: present → past, past → past perfect",
+        "   - Time/place words change: 'now' → 'then', 'here' → 'there'",
+        "",
+        "4. Rules for Conversion:",
+        "   - Remove quotation marks",
+        "   - Add 'that' (optional)",
+        "   - Change pronouns, tenses, time/place words as needed",
+        "   - Example: Direct: 'I will go tomorrow.' → Indirect: He said that he would go the next day.",
+        "",
+        "5. Practice with Nigerian Context:",
+        "   - Convert statements about Nigerian topics",
+        "   - Example: Direct: 'Nigeria is beautiful.' → Indirect: She said that Nigeria was beautiful."
+      ],
+      "diagramDescriptions": [
+        "Chart of direct vs indirect statement conversion rules",
+        "Diagram of pronoun, tense, and time/place changes"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar direct indirect statements site:youtube.com",
+      "quiz": [
+        {
+          "q": "Direct statements are:",
+          "opts": [
+            "Reported speech without quotes",
+            "Exact words spoken, in quotation marks",
+            "Only questions",
+            "Only commands"
+          ],
+          "ans": 1,
+          "explanation": "Direct statements are exact words spoken, in quotation marks."
+        },
+        {
+          "q": "Indirect statements are:",
+          "opts": [
+            "Exact words in quotes",
+            "Reported speech without quotes",
+            "Only questions",
+            "Only commands"
+          ],
+          "ans": 1,
+          "explanation": "Indirect statements are reported speech without quotation marks."
+        },
+        {
+          "q": "In converting direct to indirect, pronouns change:",
+          "opts": [
+            "Never",
+            "To match the reporting speaker",
+            "Only for questions",
+            "Only for commands"
+          ],
+          "ans": 1,
+          "explanation": "Pronouns change to match the perspective of the reporting speaker."
+        },
+        {
+          "q": "In converting direct to indirect, tenses usually:",
+          "opts": [
+            "Stay the same",
+            "Backshift (present → past, etc.)",
+            "Only change for questions",
+            "Only change for commands"
+          ],
+          "ans": 1,
+          "explanation": "Tenses usually backshift in indirect speech."
+        },
+        {
+          "q": "In Nigerian context, converting 'Nigeria is beautiful' to indirect:",
+          "opts": [
+            "He said Nigeria is beautiful.",
+            "He said that Nigeria was beautiful.",
+            "He said Nigeria beautiful.",
+            "He said that Nigeria beautiful."
+          ],
+          "ans": 1,
+          "explanation": "Tense backshifts: 'is' → 'was' in indirect speech."
+        },
+        {
+          "q": "A common mistake in indirect speech is:",
+          "opts": [
+            "Changing pronouns correctly",
+            "Forgetting to backshift tenses",
+            "Using 'that' correctly",
+            "Practicing regularly"
+          ],
+          "ans": 1,
+          "explanation": "Forgetting to backshift tenses is a common error."
+        },
+        {
+          "q": "Understanding direct/indirect speech is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear reporting of speech in academic and daily contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Direct/indirect speech skills help students report speech clearly in various contexts."
+        },
+        {
+          "q": "Which is NOT a change in indirect speech?",
+          "opts": [
+            "Pronoun change",
+            "Tense backshift",
+            "Adding quotation marks",
+            "Time/place word change"
+          ],
+          "ans": 2,
+          "explanation": "Indirect speech removes quotation marks, not adds them."
+        },
+        {
+          "q": "A common misconception about indirect speech is:",
+          "opts": [
+            "Indirect speech reports speech",
+            "Indirect speech always uses 'that'",
+            "Indirect speech changes pronouns and tenses",
+            "Practice improves conversion skills"
+          ],
+          "ans": 1,
+          "explanation": "'That' is optional in indirect speech; it can be omitted."
+        },
+        {
+          "q": "When converting to indirect speech, you should:",
+          "opts": [
+            "Ignore pronouns",
+            "Change pronouns, tenses, and time/place words as needed",
+            "Only change tenses",
+            "Only change pronouns"
+          ],
+          "ans": 1,
+          "explanation": "Changing pronouns, tenses, and time/place words ensures accurate indirect speech."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w11_su4",
+      "title": "11.4 Listening/Speaking: Contrasting Sounds /f/ and /p/, /r/ and /l/, /ch/ and /s/",
+      "notes": [
+        "Listening/Speaking: Contrasting Sounds",
+        "",
+        "Key Concepts:",
+        "1. Contrasting /f/ and /p/:",
+        "   - /f/: voiceless labiodental fricative (e.g., fan, phone)",
+        "   - /p/: voiceless bilabial plosive (e.g., pan, phone)",
+        "   - Minimal pairs: fan/pan, fine/pine, ferry/very",
+        "",
+        "2. Contrasting /r/ and /l/:",
+        "   - /r/: alveolar approximant (e.g., red, right)",
+        "   - /l/: alveolar lateral approximant (e.g., led, light)",
+        "   - Minimal pairs: red/led, right/light, fry/fly",
+        "",
+        "3. Contrasting /ch/ and /s/:",
+        "   - /ch/: voiceless palato-alveolar affricate (e.g., church, chair)",
+        "   - /s/: voiceless alveolar fricative (e.g., church vs. surch)",
+        "   - Minimal pairs: chip/ship, choose/sue, cheap/sheep",
+        "",
+        "4. Listening Strategies:",
+        "   - Focus on the speaker's articulation",
+        "   - Listen for minimal pairs",
+        "   - Note the context: Does the word make sense?",
+        "",
+        "5. Speaking Strategies:",
+        "   - Practice minimal pairs for each contrast",
+        "   - Record yourself and compare with models",
+        "   - Get feedback on pronunciation clarity"
+      ],
+      "diagramDescriptions": [
+        "Chart of contrasting sounds with minimal pairs",
+        "Diagram of mouth positions for each sound contrast"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English contrasting sounds f p r l ch s site:youtube.com",
+      "quiz": [
+        {
+          "q": "The sound /f/ is:",
+          "opts": [
+            "Voiced labiodental fricative",
+            "Voiceless labiodental fricative",
+            "Voiceless bilabial plosive",
+            "Voiced bilabial plosive"
+          ],
+          "ans": 1,
+          "explanation": "/f/ is a voiceless labiodental fricative."
+        },
+        {
+          "q": "The sound /p/ is:",
+          "opts": [
+            "Voiced labiodental fricative",
+            "Voiceless labiodental fricative",
+            "Voiceless bilabial plosive",
+            "Voiced bilabial plosive"
+          ],
+          "ans": 2,
+          "explanation": "/p/ is a voiceless bilabial plosive."
+        },
+        {
+          "q": "A minimal pair for /f/ and /p/ is:",
+          "opts": [
+            "fan/pan",
+            "fan/man",
+            "fan/van",
+            "fan/ban"
+          ],
+          "ans": 0,
+          "explanation": "'Fan' and 'pan' differ only in /f/ vs /p/."
+        },
+        {
+          "q": "The sound /r/ is:",
+          "opts": [
+            "Alveolar lateral approximant",
+            "Alveolar approximant",
+            "Palato-alveolar affricate",
+            "Alveolar fricative"
+          ],
+          "ans": 1,
+          "explanation": "/r/ is an alveolar approximant."
+        },
+        {
+          "q": "The sound /l/ is:",
+          "opts": [
+            "Alveolar lateral approximant",
+            "Alveolar approximant",
+            "Palato-alveolar affricate",
+            "Alveolar fricative"
+          ],
+          "ans": 0,
+          "explanation": "/l/ is an alveolar lateral approximant."
+        },
+        {
+          "q": "A minimal pair for /r/ and /l/ is:",
+          "opts": [
+            "red/led",
+            "red/read",
+            "red/rid",
+            "red/rod"
+          ],
+          "ans": 0,
+          "explanation": "'Red' and 'led' differ only in /r/ vs /l/."
+        },
+        {
+          "q": "The sound /ch/ is:",
+          "opts": [
+            "Voiceless alveolar fricative",
+            "Voiceless palato-alveolar affricate",
+            "Voiced palato-alveolar affricate",
+            "Voiceless bilabial plosive"
+          ],
+          "ans": 1,
+          "explanation": "/ch/ is a voiceless palato-alveolar affricate."
+        },
+        {
+          "q": "Understanding sound contrasts is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear pronunciation of contrasting sounds helps students be understood."
+        },
+        {
+          "q": "Which pair shows /ch/ and /s/ contrast?",
+          "opts": [
+            "chip/ship",
+            "chip/rip",
+            "chip/lip",
+            "chip/zip"
+          ],
+          "ans": 0,
+          "explanation": "'Chip' and 'ship' contrast /ch/ and /sh/ (similar to /s/ contrast)."
+        },
+        {
+          "q": "A good strategy for practicing sound contrasts is to:",
+          "opts": [
+            "Ignore minimal pairs",
+            "Practice minimal pairs and get feedback",
+            "Only listen, not speak",
+            "Only speak, not listen"
+          ],
+          "ans": 1,
+          "explanation": "Practicing minimal pairs and getting feedback improves pronunciation clarity."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w11_su5",
+      "title": "11.5 Literature: Characterization and Summary of Texts",
+      "notes": [
+        "Literature: Characterization and Summary of Texts",
+        "",
+        "Key Concepts:",
+        "1. What is Characterization?",
+        "   - How an author creates and develops characters",
+        "   - Includes physical description, actions, thoughts, dialogue",
+        "   - Example: A character who is brave, kind, and wise",
+        "",
+        "2. Types of Characterization:",
+        "   - Direct: Author tells us about the character directly",
+        "     Example: 'Aisha was a kind and generous girl.'",
+        "   - Indirect: Author shows us through actions, dialogue, thoughts",
+        "     Example: 'Aisha shared her lunch with a hungry classmate.'",
+        "",
+        "3. How to Summarize a Text:",
+        "   - Identify the main idea or theme",
+        "   - Note key events or points",
+        "   - Restate in your own words, concisely",
+        "   - Ensure your summary captures the essence without details",
+        "",
+        "4. Why Study Characterization and Summary?",
+        "   - To understand how authors create memorable characters",
+        "   - To improve your ability to condense information",
+        "   - To enhance your own writing and critical reading skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of characterization types with examples",
+        "Diagram of summary writing steps"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature characterization summary site:youtube.com",
+      "quiz": [
+        {
+          "q": "Characterization is:",
+          "opts": [
+            "Only physical description",
+            "How an author creates and develops characters",
+            "Only the plot",
+            "Only the setting"
+          ],
+          "ans": 1,
+          "explanation": "Characterization is how authors create and develop characters."
+        },
+        {
+          "q": "Direct characterization is when:",
+          "opts": [
+            "The author shows us through actions",
+            "The author tells us about the character directly",
+            "The character describes themselves",
+            "The setting describes the character"
+          ],
+          "ans": 1,
+          "explanation": "Direct characterization is when the author explicitly states character traits."
+        },
+        {
+          "q": "Indirect characterization is when:",
+          "opts": [
+            "The author tells us directly",
+            "The author shows us through actions, dialogue, thoughts",
+            "The character describes themselves",
+            "The setting describes the character"
+          ],
+          "ans": 1,
+          "explanation": "Indirect characterization shows character traits through actions, dialogue, or thoughts."
+        },
+        {
+          "q": "To summarize a text, you should:",
+          "opts": [
+            "Copy the text exactly",
+            "Identify main idea and restate concisely in your own words",
+            "Only list details",
+            "Only write the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing involves identifying the main idea and restating it concisely."
+        },
+        {
+          "q": "In Nigerian context, a character might be characterized by:",
+          "opts": [
+            "Only foreign traits",
+            "Cultural values like respect, hard work, community",
+            "Only scientific traits",
+            "Only historical traits"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian literature often characterizes people by cultural values."
+        },
+        {
+          "q": "Understanding characterization is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Develops appreciation of character development and cultural values",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding characterization helps students appreciate character development and cultural values."
+        },
+        {
+          "q": "Which is NOT a method of characterization?",
+          "opts": [
+            "Direct description",
+            "Actions and dialogue",
+            "Random guessing",
+            "Thoughts and interactions"
+          ],
+          "ans": 2,
+          "explanation": "Random guessing is not a method of characterization."
+        },
+        {
+          "q": "A common misconception about summary is:",
+          "opts": [
+            "Summary captures the main idea",
+            "Summary must include all details",
+            "Summary should be concise",
+            "Summary uses your own words"
+          ],
+          "ans": 1,
+          "explanation": "Summary should not include all details; it should be concise and focused on main ideas."
+        },
+        {
+          "q": "When summarizing, you should:",
+          "opts": [
+            "Copy the text",
+            "Restate main ideas concisely in your own words",
+            "Only list details",
+            "Only write the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing involves restating main ideas concisely in your own words."
+        },
+        {
+          "q": "In Nigerian literature, characterization might reflect:",
+          "opts": [
+            "Only foreign values",
+            "Cultural values like respect, community, and tradition",
+            "Only scientific values",
+            "Only historical values"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian literature often reflects cultural values in character development."
+        }
+      ]
+    }
+  ]
+}

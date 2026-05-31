@@ -1,0 +1,1045 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w2_su1",
+      "title": "2.1 Reading: Identifying Topic Sentences, Key Ideas, and Expressions",
+      "notes": [
+        "Reading: Identifying Topic Sentences and Key Ideas",
+        "",
+        "Key Concepts:",
+        "1. What is a topic sentence?",
+        "   - The sentence that states the main idea of a paragraph",
+        "   - Usually appears at the beginning, middle, or end of a paragraph",
+        "   - Example: 'Road safety is essential for all Nigerians.'",
+        "",
+        "2. What are key ideas?",
+        "   - The most important points that support the topic sentence",
+        "   - Provide details, examples, or explanations",
+        "   - Example: Key ideas supporting road safety:",
+        "     * Following traffic rules prevents accidents",
+        "     * Wearing seatbelts saves lives",
+        "     * Avoiding phone use while driving reduces distractions",
+        "",
+        "3. What are expressions that redirect attention?",
+        "   - Words or phrases that signal important points",
+        "   - Examples: 'most importantly', 'in addition', 'furthermore', 'however'",
+        "   - Help readers identify main points in paragraphs",
+        "",
+        "4. Strategies for identifying topic sentences and key ideas:",
+        "   - Read the first and last sentences of paragraphs carefully",
+        "   - Look for repeated words or ideas",
+        "   - Note signal words that indicate main points",
+        "   - Ask: What is this paragraph mostly about?",
+        "",
+        "5. Common topics for practice:",
+        "   - Population explosion in Nigeria",
+        "   - Youth unemployment and restiveness",
+        "   - Environmental pollution",
+        "   - Value re-orientation",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Challenges of Youth Unemployment in Nigeria'",
+        "  - Topic sentence: 'Youth unemployment remains one of Nigeria's most pressing challenges.'",
+        "  - Key ideas:",
+        "    * Lack of skills and education limits job opportunities",
+        "    * Economic instability reduces employment creation",
+        "    * Youth restiveness threatens national security",
+        "  - Expressions: 'most importantly', 'in addition', 'consequently'",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local issues like unemployment, education, national development",
+        "  - Using passages that reflect Nigerian experiences and values",
+        "  - Practicing identification with culturally relevant content",
+        "",
+        "Practical Activities:",
+        "1. Topic Sentence Hunt:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to identify topic sentences",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "2. Key Idea Identification:",
+        "   - Teacher reads a paragraph aloud",
+        "   - Students list the key ideas that support the topic sentence",
+        "   - Class discusses which ideas are most important",
+        "",
+        "3. Expression Recognition:",
+        "   - Teacher writes passages with signal words underlined",
+        "   - Students explain how these words redirect attention to main points",
+        "   - Practice with passages on current Nigerian issues",
+        "",
+        "Common Misconceptions:",
+        "• 'Topic sentences are always first': Topic sentences can appear anywhere in a paragraph",
+        "• 'All details are key ideas': Only the most important supporting points are key ideas",
+        "• 'Signal words are always obvious': Sometimes signal words require careful attention",
+        "• 'Identifying topic sentences is only for exams': These skills support comprehension in all reading",
+        "",
+        "Nigerian Context:",
+        "• Identifying topic sentences and key ideas helps students comprehend Nigerian media and literature",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Topic sentences state the main idea of paragraphs",
+        "• Key ideas support topic sentences with important details",
+        "• Signal words help readers identify main points",
+        "• Mastery of these skills supports reading comprehension and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of topic sentence positions with examples",
+        "Diagram of key idea identification strategies",
+        "Sample passage with topic sentence and key ideas highlighted",
+        "Nigerian context: Sample passage on youth unemployment with analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading topic sentences key ideas site:youtube.com",
+      "quiz": [
+        {
+          "q": "A topic sentence is:",
+          "opts": [
+            "The longest sentence in a paragraph",
+            "The sentence that states the main idea of a paragraph",
+            "The first sentence in every paragraph",
+            "The last sentence in every paragraph"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence states the main idea of a paragraph and can appear at the beginning, middle, or end."
+        },
+        {
+          "q": "Key ideas in a paragraph:",
+          "opts": [
+            "Are all the details mentioned",
+            "Support the topic sentence with important points",
+            "Are always at the end of the paragraph",
+            "Are only examples"
+          ],
+          "ans": 1,
+          "explanation": "Key ideas are the most important points that support the topic sentence with details, examples, or explanations."
+        },
+        {
+          "q": "Which word signals an important point?",
+          "opts": [
+            "and",
+            "most importantly",
+            "the",
+            "a"
+          ],
+          "ans": 1,
+          "explanation": "'Most importantly' is a signal word that redirects attention to a main point."
+        },
+        {
+          "q": "In a passage about youth unemployment in Nigeria, a topic sentence might be:",
+          "opts": [
+            "Nigeria has many young people.",
+            "Youth unemployment remains one of Nigeria's most pressing challenges.",
+            "Some young people are unemployed.",
+            "Unemployment is a problem."
+          ],
+          "ans": 1,
+          "explanation": "The topic sentence should clearly state the main idea: that youth unemployment is a pressing challenge in Nigeria."
+        },
+        {
+          "q": "A common mistake in identifying topic sentences is:",
+          "opts": [
+            "Reading the first sentence carefully",
+            "Assuming topic sentences are always first",
+            "Looking for repeated ideas",
+            "Asking what the paragraph is about"
+          ],
+          "ans": 1,
+          "explanation": "Assuming topic sentences are always first is a mistake; they can appear anywhere in a paragraph."
+        },
+        {
+          "q": "To identify key ideas, you should:",
+          "opts": [
+            "List every detail mentioned",
+            "Focus on points that support the topic sentence",
+            "Only look at the conclusion",
+            "Ignore the topic sentence"
+          ],
+          "ans": 1,
+          "explanation": "Key ideas are the important points that support the topic sentence, not every detail mentioned."
+        },
+        {
+          "q": "Understanding topic sentences is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian media and literature",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Identifying topic sentences helps students comprehend Nigerian media, literature, and academic texts."
+        },
+        {
+          "q": "Which is NOT a signal word for main points?",
+          "opts": [
+            "most importantly",
+            "in addition",
+            "the",
+            "furthermore"
+          ],
+          "ans": 2,
+          "explanation": "'The' is an article, not a signal word; 'most importantly', 'in addition', and 'furthermore' signal main points."
+        },
+        {
+          "q": "A common misconception about topic sentences is:",
+          "opts": [
+            "Topic sentences state the main idea",
+            "Topic sentences are always first",
+            "Topic sentences can appear anywhere",
+            "Practice improves identification skills"
+          ],
+          "ans": 1,
+          "explanation": "Topic sentences are not always first; they can appear at the beginning, middle, or end of a paragraph."
+        },
+        {
+          "q": "When identifying topic sentences, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read the whole paragraph and ask what it's mostly about",
+            "Ignore signal words",
+            "Only focus on examples"
+          ],
+          "ans": 1,
+          "explanation": "Reading the whole paragraph and asking what it's mostly about helps you identify the topic sentence accurately."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w2_su2",
+      "title": "2.2 Writing: Summary Writing on Selected Passages",
+      "notes": [
+        "Writing: Summary Writing on Selected Passages",
+        "",
+        "Key Concepts:",
+        "1. What is a summary?",
+        "   - A brief restatement of the main points of a passage in your own words",
+        "   - Shorter than the original but retains the essential meaning",
+        "   - Example: Summarizing a passage on consumer roles in 3-5 sentences",
+        "",
+        "2. Steps for writing a summary:",
+        "   - Step 1: Read the passage carefully to understand the main idea",
+        "   - Step 2: Identify topic sentences and key ideas",
+        "   - Step 3: Note important details that support key ideas",
+        "   - Step 4: Write the summary in your own words",
+        "   - Step 5: Review to ensure accuracy and conciseness",
+        "",
+        "3. Features of a good summary:",
+        "   - Includes only main points, not minor details",
+        "   - Uses your own words, not copied phrases",
+        "   - Is shorter than the original passage",
+        "   - Maintains the original meaning and tone",
+        "",
+        "4. Common topics for summary practice:",
+        "   - The roles of consumers in the market",
+        "   - Buying goods and services",
+        "   - Providing feedback on goods and services",
+        "   - Consumer decision-making process",
+        "",
+        "5. Tips for effective summary writing:",
+        "   - Focus on main ideas, not examples or details",
+        "   - Use concise language and avoid repetition",
+        "   - Check that your summary makes sense on its own",
+        "   - Ensure your summary answers: What is the passage about?",
+        "",
+        "Nigerian Context:",
+        "• Sample summary topic: 'The Roles of Consumers in the Nigerian Market'",
+        "  - Original passage main points:",
+        "    * Consumers buy goods and services",
+        "    * Consumers provide feedback to improve products",
+        "    * Consumer choices influence market trends",
+        "  - Summary: 'Nigerian consumers play vital roles by purchasing goods, providing feedback for improvement, and influencing market trends through their choices.'",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local market practices and consumer behavior",
+        "  - Using passages that reflect Nigerian economic experiences",
+        "  - Practicing summary with culturally relevant content",
+        "",
+        "Practical Activities:",
+        "1. Summary Practice with Nigerian Passages:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students identify main points and write a 3-sentence summary",
+        "   - Groups share summaries and discuss accuracy",
+        "",
+        "2. Key Point Identification:",
+        "   - Teacher reads a passage aloud",
+        "   - Students list the main points before summarizing",
+        "   - Class compares lists and discusses which points are most important",
+        "",
+        "3. Peer Review of Summaries:",
+        "   - Students exchange summaries with partners",
+        "   - Partners check for inclusion of main points and conciseness",
+        "   - Students revise summaries based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary means copying the passage': Summaries must use your own words",
+        "• 'Longer summaries are better': Effective summaries are concise and focused",
+        "• 'All details must be included': Only main points belong in a summary",
+        "• 'Summary is only for exams': Summary skills support comprehension in all reading",
+        "",
+        "Nigerian Context:",
+        "• Summary writing helps students comprehend Nigerian media, reports, and academic texts",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• A summary briefly restates main points in your own words",
+        "• Steps include reading carefully, identifying key ideas, and writing concisely",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of summary writing supports academic success across all subjects"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary writing steps with examples",
+        "Flowchart for identifying main points and writing summaries",
+        "Sample passage with main points highlighted and summary below",
+        "Nigerian context: Sample passage on consumer roles with summary",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing summary writing skills site:youtube.com",
+      "quiz": [
+        {
+          "q": "A summary is:",
+          "opts": [
+            "A copy of the original passage",
+            "A brief restatement of main points in your own words",
+            "A list of all details in the passage",
+            "A longer version of the passage"
+          ],
+          "ans": 1,
+          "explanation": "A summary briefly restates the main points of a passage in your own words, shorter than the original."
+        },
+        {
+          "q": "The first step in writing a summary is to:",
+          "opts": [
+            "Write your opinion",
+            "Read the passage carefully to understand the main idea",
+            "Copy the first sentence",
+            "List every detail"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully to understand the main idea is essential before writing a summary."
+        },
+        {
+          "q": "A good summary should:",
+          "opts": [
+            "Include all examples from the passage",
+            "Use your own words and focus on main points",
+            "Be longer than the original",
+            "Copy phrases from the passage"
+          ],
+          "ans": 1,
+          "explanation": "A good summary uses your own words and focuses on main points, not examples or copied phrases."
+        },
+        {
+          "q": "In a passage about consumer roles in Nigeria, a summary might include:",
+          "opts": [
+            "Every example of consumer behavior",
+            "Main points: buying goods, providing feedback, influencing markets",
+            "Only the conclusion of the passage",
+            "Only the introduction of the passage"
+          ],
+          "ans": 1,
+          "explanation": "A summary should include main points like buying goods, providing feedback, and influencing markets."
+        },
+        {
+          "q": "A common mistake in summary writing is:",
+          "opts": [
+            "Focusing on main points",
+            "Copying phrases from the passage",
+            "Using your own words",
+            "Reviewing for conciseness"
+          ],
+          "ans": 1,
+          "explanation": "Copying phrases from the passage instead of using your own words is a common mistake."
+        },
+        {
+          "q": "To check if your summary is effective, you should:",
+          "opts": [
+            "Make it as long as possible",
+            "Ensure it includes main points and is concise",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "An effective summary includes main points and is concise, not long or opinionated."
+        },
+        {
+          "q": "Understanding summary writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian media, reports, and academic texts",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Summary skills help students comprehend Nigerian media, reports, and academic texts effectively."
+        },
+        {
+          "q": "Which is NOT a feature of a good summary?",
+          "opts": [
+            "Includes only main points",
+            "Uses your own words",
+            "Is shorter than the original",
+            "Includes all examples from the passage"
+          ],
+          "ans": 3,
+          "explanation": "Including all examples is not a feature of a good summary; summaries focus on main points, not details."
+        },
+        {
+          "q": "A common misconception about summaries is:",
+          "opts": [
+            "Summaries restate main points in your own words",
+            "Summaries must copy the passage",
+            "Summaries are shorter than originals",
+            "Practice improves summary skills"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must use your own words; copying the passage is not summarizing."
+        },
+        {
+          "q": "When writing a summary, you should:",
+          "opts": [
+            "List every detail mentioned",
+            "Focus on main ideas and use concise language",
+            "Add your personal opinion",
+            "Copy the topic sentence exactly"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on main ideas and using concise language creates an effective summary."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w2_su3",
+      "title": "2.3 Grammatical Accuracy: Adverbial Clauses of Purpose",
+      "notes": [
+        "Grammatical Accuracy: Adverbial Clauses of Purpose",
+        "",
+        "Key Concepts:",
+        "1. Review: What are adverbial clauses?",
+        "   - Clauses that function as adverbs in a sentence",
+        "   - They tell how, when, where, why, or to what extent an action is done",
+        "   - Example: 'He studied hard so that he could pass the exam.'",
+        "",
+        "2. Adverbial clauses of purpose:",
+        "   - Explain why an action is done",
+        "   - Introduced by: so that, in order that, so as to, in order to",
+        "   - Example: 'She saved money so that she could buy a car.'",
+        "",
+        "3. Features of adverbial clauses of purpose:",
+        "   - Always contain a subject and a verb",
+        "   - Cannot stand alone as a complete sentence",
+        "   - Answer the question: Why was this action done?",
+        "",
+        "4. Identifying adverbial clauses of purpose in passages:",
+        "   - Look for signal words: so that, in order that, so as to",
+        "   - Ask: Why was this action done?",
+        "   - Example passage:",
+        "     'Nigerian youths study hard so that they can secure good jobs. They save money in order that they can start businesses.'",
+        "     Adverbial clauses of purpose: 'so that they can secure good jobs', 'in order that they can start businesses'",
+        "",
+        "5. Making sentences with adverbial clauses of purpose:",
+        "   - Start with a main clause: 'Students study hard.'",
+        "   - Add a purpose clause: 'Students study hard so that they can pass exams.'",
+        "   - Use appropriate signal words: so that, in order that",
+        "",
+        "Nigerian Context:",
+        "• Common adverbial clauses of purpose in Nigerian English:",
+        "  - Purpose: so that, in order that, so as to, in order to",
+        "  - Examples:",
+        "    * 'Farmers work hard so that they can feed their families.'",
+        "    * 'Students attend school in order that they can gain knowledge.'",
+        "    * 'Citizens vote so as to choose good leaders.'",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbial clauses to describe purpose in Nigerian contexts",
+        "  - Adverbial clauses for education, development, and national goals",
+        "  - Adverbial clauses for personal and community aspirations",
+        "",
+        "Practical Activities:",
+        "1. Adverbial Clause Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline adverbial clauses of purpose",
+        "   - Class discusses findings and clause functions",
+        "",
+        "2. Clause Completion:",
+        "   - Teacher writes main clauses on the board",
+        "   - Students add purpose clauses using so that, in order that",
+        "   - Examples: 'Nigerian youths work hard...'",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive main clause cards and purpose clause cards",
+        "   - In groups, they create sentences using adverbial clauses of purpose",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All clauses with 'that' are purpose clauses': Only clauses answering 'why' are purpose clauses",
+        "• 'Purpose clauses can stand alone': Purpose clauses are dependent and need main clauses",
+        "• 'Only 'so that' introduces purpose': Other words like 'in order that' also introduce purpose",
+        "• 'Purpose clauses are not important': They add clarity and detail to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbial clauses of purpose supports clear communication about goals and intentions",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of these clauses is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbial clauses of purpose explain why an action is done",
+        "• They are introduced by so that, in order that, so as to, in order to",
+        "• Functions include describing goals, intentions, and reasons for actions",
+        "• Mastery of these clauses supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverbial clause types with Nigerian examples",
+        "Diagram showing purpose clause structure and signal words",
+        "Sample passage with purpose clauses highlighted",
+        "Clause completion activity template",
+        "Nigerian context: Common purpose clauses in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar adverbial clauses purpose site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverbial clause of purpose:",
+          "opts": [
+            "Tells when an action happens",
+            "Explains why an action is done",
+            "Describes how an action is done",
+            "Shows where an action happens"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial clauses of purpose explain why an action is done."
+        },
+        {
+          "q": "Which word introduces an adverbial clause of purpose?",
+          "opts": [
+            "because",
+            "so that",
+            "when",
+            "where"
+          ],
+          "ans": 1,
+          "explanation": "'So that' introduces an adverbial clause of purpose; 'because' introduces reason, 'when' introduces time, 'where' introduces place."
+        },
+        {
+          "q": "In the sentence 'She saved money so that she could buy a car', the purpose clause is:",
+          "opts": [
+            "She saved money",
+            "so that she could buy a car",
+            "she could buy",
+            "buy a car"
+          ],
+          "ans": 1,
+          "explanation": "'So that she could buy a car' is the purpose clause explaining why she saved money."
+        },
+        {
+          "q": "Which is a feature of adverbial clauses of purpose?",
+          "opts": [
+            "They can stand alone as complete sentences",
+            "They always contain a subject and a verb",
+            "They answer the question 'when?'",
+            "They never use signal words"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial clauses of purpose always contain a subject and a verb and cannot stand alone."
+        },
+        {
+          "q": "In Nigerian context, which is an adverbial clause of purpose?",
+          "opts": [
+            "because they want to succeed",
+            "so that they can secure good jobs",
+            "when they finish school",
+            "where they live"
+          ],
+          "ans": 1,
+          "explanation": "'So that they can secure good jobs' is a purpose clause commonly used in Nigerian English."
+        },
+        {
+          "q": "Adverbial clauses of purpose can be introduced by:",
+          "opts": [
+            "Only 'so that'",
+            "'so that', 'in order that', 'so as to', 'in order to'",
+            "Only 'because'",
+            "Only 'when'"
+          ],
+          "ans": 1,
+          "explanation": "Purpose clauses can be introduced by 'so that', 'in order that', 'so as to', or 'in order to'."
+        },
+        {
+          "q": "Which word can function as a signal for purpose?",
+          "opts": [
+            "because",
+            "so that",
+            "and",
+            "but"
+          ],
+          "ans": 1,
+          "explanation": "'So that' signals purpose; 'because' signals reason, 'and' and 'but' are conjunctions."
+        },
+        {
+          "q": "Understanding adverbial clauses of purpose is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear communication about goals and intentions",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Purpose clauses help students communicate goals and intentions clearly, essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a signal word for purpose?",
+          "opts": [
+            "so that",
+            "in order that",
+            "because",
+            "so as to"
+          ],
+          "ans": 2,
+          "explanation": "'Because' introduces reason, not purpose; 'so that', 'in order that', and 'so as to' introduce purpose."
+        },
+        {
+          "q": "A common misconception about purpose clauses is:",
+          "opts": [
+            "Purpose clauses explain why an action is done",
+            "All clauses with 'that' are purpose clauses",
+            "Purpose clauses need main clauses",
+            "Purpose clauses add clarity to communication"
+          ],
+          "ans": 1,
+          "explanation": "Not all clauses with 'that' are purpose clauses; only those answering 'why' are purpose clauses."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w2_su4",
+      "title": "2.4 Listening/Speaking: Vowel Sounds /ʌ/ and /ə/",
+      "notes": [
+        "Listening and Speaking: Vowel Sounds /ʌ/ and /ə/",
+        "",
+        "Key Concepts:",
+        "1. Understanding the vowel sounds:",
+        "   - /ʌ/ as in bus, cup, sun, money, come (short vowel)",
+        "   - /ə/ as in away, tattoo, neither, about, sofa (schwa, unstressed vowel)",
+        "",
+        "2. Importance of distinguishing /ʌ/ and /ə/",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'bus' /bʌs/ vs 'because' /bɪˈkəz/ - different vowel sounds!",
+        "",
+        "3. Common word pairs for practice:",
+        "   - /ʌ/ vs /ə/: cup/copa (in some accents), sun/sofa, money/sofa",
+        "   - Minimal pairs help learners distinguish between similar vowel sounds",
+        "",
+        "4. Listening strategies for vowel sounds:",
+        "   - Focus on the speaker: listen carefully to vowel quality and stress",
+        "   - Listen for minimal pairs: words that differ only in vowel sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say bus or because?'",
+        "",
+        "5. Speaking strategies for vowel sounds:",
+        "   - Practice vowel quality: /ʌ/ is a short, central vowel; /ə/ is unstressed and reduced",
+        "   - Use minimal pairs for practice: bus/because, sun/sofa",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on vowel clarity",
+        "",
+        "Nigerian Context:",
+        "• Common vowel sound challenges for Nigerian speakers:",
+        "  - Confusing /ʌ/ and /ə/: 'bus' vs 'because'",
+        "  - Difficulty with unstressed /ə/ in function words",
+        "  - Influence of native language vowel systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'School Life': 'I take the bus to school' (clear /ʌ/)",
+        "  - 'Health Awareness': 'This medicine is for you' (clear /ə/ in 'for')",
+        "  - 'Community': 'About the meeting' (clear /ə/ in 'about')",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear vowel sounds in multilingual Nigerian classrooms",
+        "  - Importance of vowel clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar vowel sounds",
+        "",
+        "Practical Activities:",
+        "1. Vowel Sound Drill:",
+        "   - Teacher models /ʌ/ and /ə/ with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: bus/because, sun/sofa, money/sofa",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with /ʌ/ or /ə/",
+        "   - Students raise hands for /ʌ/, stand for /ə/",
+        "   - Practice with Nigerian-relevant words: 'bus' (transport) vs 'because' (reason)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with /ʌ/ and /ə/",
+        "   - Focus on clear vowel quality and stress",
+        "   - Peer feedback on vowel clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Vowel quality doesn't matter in Nigerian English': Incorrect vowel sounds can change word meanings",
+        "• 'All English vowels are the same as in my language': English vowel system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct vowels': With practice, anyone can improve vowel pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear vowel pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has distinct vowel sounds /ʌ/ and /ə/ that affect word meaning",
+        "• Listening strategies help you distinguish between similar vowel sounds",
+        "• Speaking strategies help you pronounce vowels clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of vowel sounds /ʌ/ and /ə/ with example words",
+        "Diagram of mouth positions for each vowel sound",
+        "Sample minimal pairs practice: bus/because, sun/sofa, money/sofa",
+        "Listening strategy flowchart: Focus, Listen for vowel quality, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for vowel practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English vowel sounds /ʌ/ /ə/ pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "The vowel sound /ʌ/ is found in words like:",
+          "opts": [
+            "away, tattoo, neither",
+            "bus, cup, sun",
+            "father, cart, chart",
+            "seat, beat, heat"
+          ],
+          "ans": 1,
+          "explanation": "/ʌ/ is the vowel sound in words like bus, cup, and sun."
+        },
+        {
+          "q": "The word 'because' has the vowel sound:",
+          "opts": [
+            "/ʌ/",
+            "/ə/",
+            "/i:/",
+            "/a:/"
+          ],
+          "ans": 1,
+          "explanation": "'Because' has the schwa sound /ə/ in its unstressed syllable."
+        },
+        {
+          "q": "Correct vowel pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct vowel sounds prevent confusion between words like 'bus' and 'because' which have different meanings."
+        },
+        {
+          "q": "When listening for vowel sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for vowel quality",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for vowel quality helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common vowel sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/ʌ/ and /ə/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /ʌ/ (as in 'bus') and /ə/ (as in 'because')."
+        },
+        {
+          "q": "A good speaking strategy for vowels is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice vowel quality with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing vowel quality with minimal pairs (bus/because) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different vowel sounds?",
+          "opts": [
+            "bus/because",
+            "bus/bus",
+            "because/because",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Bus' has /ʌ/; 'because' has /ə/ - different vowel sounds change the word meaning."
+        },
+        {
+          "q": "Understanding vowel sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear vowel pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a schwa sound?",
+          "opts": [
+            "/ʌ/ as in bus",
+            "/ə/ as in about",
+            "/i:/ as in seat",
+            "/a:/ as in father"
+          ],
+          "ans": 1,
+          "explanation": "/ə/ as in 'about' is the schwa sound, an unstressed, reduced vowel."
+        },
+        {
+          "q": "A common misconception about vowels is:",
+          "opts": [
+            "Vowel quality can change word meaning",
+            "All English vowels are the same as in my language",
+            "Practice improves vowel pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English vowel sounds are unique and may differ from vowels in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w2_su5",
+      "title": "2.5 Literature: Types of Poetry - Epic, Lyric, Ballads, Dirge",
+      "notes": [
+        "Literature: Types of Poetry",
+        "",
+        "Key Concepts:",
+        "1. What is poetry?",
+        "   - A type of literature that uses concise, unique, and high language",
+        "   - Often uses rhythm, rhyme, imagery, and figurative language",
+        "   - Example: A poem about hope in difficult times",
+        "",
+        "2. Types of poetry:",
+        "   a) Epic poetry:",
+        "      - Long poems about great events or exciting adventures",
+        "      - Often about heroes, gods, or historical events",
+        "      - Example: 'The Odyssey' by Homer",
+        "   b) Lyric poetry:",
+        "      - Short poems that express personal feelings or thoughts",
+        "      - Often song-like with musical quality",
+        "      - Example: Love poems, nature poems",
+        "   c) Ballad poetry:",
+        "      - Narrative poems that tell a story",
+        "      - Often set to music with a regular rhythm and rhyme",
+        "      - Example: Folk ballads about love, adventure, or tragedy",
+        "   d) Dirge poetry:",
+        "      - Sad poems written to mourn the dead",
+        "      - Express grief, loss, or sorrow",
+        "      - Example: Poems written for funerals or memorials",
+        "",
+        "3. Features of poetry:",
+        "   - Concise language: few words convey deep meaning",
+        "   - Unique expression: creative use of words and images",
+        "   - High language: elevated, artistic, or symbolic expression",
+        "   - Rhythm and rhyme: musical quality in some poems",
+        "",
+        "4. How to identify types of poetry:",
+        "   - For epic: Look for long narratives about heroes or great events",
+        "   - For lyric: Look for personal feelings and musical quality",
+        "   - For ballad: Look for storytelling with regular rhythm and rhyme",
+        "   - For dirge: Look for expressions of grief and mourning",
+        "",
+        "5. Why study poetry types?",
+        "   - To appreciate different forms of poetic expression",
+        "   - To understand how poets use language for different purposes",
+        "   - To improve your own writing and appreciation of literature",
+        "   - To develop critical thinking about how poems create meaning",
+        "",
+        "Nigerian Context:",
+        "• Poetry in Nigerian literature:",
+        "  - Epic: Traditional praise poetry for kings and heroes",
+        "  - Lyric: Modern poems expressing personal feelings about Nigeria",
+        "  - Ballad: Folk poems telling stories of community life",
+        "  - Dirge: Poems mourning loss of loved ones or national tragedies",
+        "",
+        "• Sample poetry themes in Nigerian context:",
+        "  - Epic: Poems about historical figures like Moremi Ajasoro",
+        "  - Lyric: Poems about love for Nigeria or personal struggles",
+        "  - Ballad: Poems telling stories of village life or historical events",
+        "  - Dirge: Poems mourning loss during conflicts or disasters",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for oral poetry traditions and elders as poets",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, identity, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Poetry Type Identification:",
+        "   - Teacher provides short poems of different types",
+        "   - Students work in pairs to identify the type of each poem",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "2. Feature Hunt:",
+        "   - Teacher reads poems with different features",
+        "   - Students identify features: rhythm, rhyme, imagery, theme",
+        "   - Create a class chart of poetry features",
+        "",
+        "3. Creative Poetry Writing:",
+        "   - Students write a short poem of a chosen type",
+        "   - Focus on features of the chosen type",
+        "   - Share poems with class for feedback on type and features",
+        "",
+        "Common Misconceptions:",
+        "• 'All poetry must rhyme': Many effective poems use free verse without rhyme",
+        "• 'Poetry is only about feelings': Poetry can also tell stories, express ideas, or mourn loss",
+        "• 'Only experts can write poetry': Everyone can learn to write poetry with practice",
+        "• 'Poetry types are fixed': Poets often blend types for creative effect",
+        "",
+        "Nigerian Context:",
+        "• Understanding poetry types helps students appreciate Nigerian literary traditions",
+        "• Practice with local poems enhances cultural pride and literary appreciation",
+        "• Analyzing poetry types develops critical thinking and writing skills",
+        "",
+        "Conclusion:",
+        "• Poetry uses concise, unique, and high language to convey meaning",
+        "• Types include epic, lyric, ballad, and dirge with distinct features",
+        "• Nigerian poetry reflects rich cultural traditions with universal themes",
+        "• Mastery of poetry types supports literary appreciation and creative expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of poetry types with Nigerian examples",
+        "Diagram of poetry features: concise language, unique expression, high language",
+        "Sample poems of each type with features highlighted",
+        "Nigerian context: Famous Nigerian poets and their poetry types",
+        "Activity template: Poetry type identification and creative writing"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature poetry types epic lyric ballad dirge site:youtube.com",
+      "quiz": [
+        {
+          "q": "Poetry is:",
+          "opts": [
+            "Only a long story",
+            "A type of literature that uses concise, unique, and high language",
+            "Only a list of facts",
+            "Only a scientific report"
+          ],
+          "ans": 1,
+          "explanation": "Poetry uses concise, unique, and high language to convey meaning through imagery and emotion."
+        },
+        {
+          "q": "Epic poetry is:",
+          "opts": [
+            "Short poems about personal feelings",
+            "Long poems about great events or exciting adventures",
+            "Only poems that rhyme",
+            "Only poems about love"
+          ],
+          "ans": 1,
+          "explanation": "Epic poetry is long poems about great events, heroes, or exciting adventures."
+        },
+        {
+          "q": "Lyric poetry is:",
+          "opts": [
+            "Long narratives about heroes",
+            "Short poems that express personal feelings or thoughts",
+            "Only poems that tell stories",
+            "Only poems about death"
+          ],
+          "ans": 1,
+          "explanation": "Lyric poetry is short poems that express personal feelings or thoughts, often song-like."
+        },
+        {
+          "q": "Ballad poetry is:",
+          "opts": [
+            "Only poems about personal feelings",
+            "Narrative poems that tell a story with regular rhythm and rhyme",
+            "Only poems that don't rhyme",
+            "Only poems about nature"
+          ],
+          "ans": 1,
+          "explanation": "Ballad poetry is narrative poems that tell a story, often set to music with regular rhythm and rhyme."
+        },
+        {
+          "q": "Dirge poetry is:",
+          "opts": [
+            "Poems about happy events",
+            "Sad poems written to mourn the dead",
+            "Only poems that rhyme",
+            "Only poems about nature"
+          ],
+          "ans": 1,
+          "explanation": "Dirge poetry is sad poems written to mourn the dead, expressing grief, loss, or sorrow."
+        },
+        {
+          "q": "In Nigerian context, a dirge poem might be about:",
+          "opts": [
+            "A wedding celebration",
+            "Mourning the loss of a loved one",
+            "A happy festival",
+            "A successful harvest"
+          ],
+          "ans": 1,
+          "explanation": "Dirge poems in Nigerian context often mourn the loss of loved ones or national tragedies."
+        },
+        {
+          "q": "Understanding poetry types is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding poetry types helps students appreciate their heritage, understand poetic expression, and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a type of poetry?",
+          "opts": [
+            "Epic",
+            "Lyric",
+            "Scientific report",
+            "Ballad"
+          ],
+          "ans": 2,
+          "explanation": "'Scientific report' is not a type of poetry; epic, lyric, and ballad are types of poetry."
+        },
+        {
+          "q": "A common misconception about poetry is:",
+          "opts": [
+            "All poetry must rhyme",
+            "Poetry uses concise, unique language",
+            "Poetry can express feelings or tell stories",
+            "Poetry develops language skills"
+          ],
+          "ans": 0,
+          "explanation": "Not all poetry must rhyme; many effective poems use free verse without rhyme."
+        },
+        {
+          "q": "When identifying poetry types, you should:",
+          "opts": [
+            "Only look at the title",
+            "Consider the poem's purpose, structure, and features",
+            "Only focus on rhyme",
+            "Ignore the theme"
+          ],
+          "ans": 1,
+          "explanation": "Considering the poem's purpose, structure, and features helps you identify its type accurately."
+        }
+      ]
+    }
+  ]
+}

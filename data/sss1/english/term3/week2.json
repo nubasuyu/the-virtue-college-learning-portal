@@ -1,0 +1,1088 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w2_su1",
+      "title": "2.1 Speech: Oral Composition – Narrating Stories",
+      "notes": [
+        "Oral Composition: Narrating Stories",
+        "• Definition: Oral composition is the art of expressing ideas, experiences, or stories verbally in a clear, coherent, and engaging manner",
+        "• Importance: Develops confidence, fluency, and effective communication skills",
+        "",
+        "Features of Effective Oral Composition:",
+        "1. Clear Introduction:",
+        "   • Capture attention with a hook or interesting opening",
+        "   • State the purpose or theme of the story",
+        "   • Example: 'Let me tell you about the day I almost missed my WAEC exam.'",
+        "",
+        "2. Logical Sequence:",
+        "   • Present events in chronological order",
+        "   • Use transitional words: 'first', 'then', 'afterwards', 'finally'",
+        "   • Ensure smooth flow between ideas",
+        "",
+        "3. Vivid Description:",
+        "   • Use sensory details: sight, sound, smell, touch, taste",
+        "   • Paint a picture with words for the listener",
+        "   • Example: 'The market buzzed with shouts, the scent of fresh pepper filled the air.'",
+        "",
+        "4. Appropriate Tone and Pace:",
+        "   • Vary tone to match the mood: serious, humorous, suspenseful",
+        "   • Adjust pace: slow for emphasis, fast for excitement",
+        "   • Use pauses for dramatic effect",
+        "",
+        "5. Engaging Conclusion:",
+        "   • Summarize the main point or lesson",
+        "   • End with a memorable statement or question",
+        "   • Example: 'That day taught me the value of punctuality.'",
+        "",
+        "Steps for Preparing an Oral Composition:",
+        "1. Choose a relevant topic:",
+        "   • Personal experience, cultural event, current issue",
+        "   • Nigerian context: 'My first day at secondary school', 'A festival in my community'",
+        "",
+        "2. Plan the structure:",
+        "   • Introduction, body (main events), conclusion",
+        "   • Note key points for each section",
+        "",
+        "3. Practice delivery:",
+        "   • Rehearse aloud to improve fluency",
+        "   • Record and listen to identify areas for improvement",
+        "   • Practice with peers for feedback",
+        "",
+        "4. Use appropriate language:",
+        "   • Clear, simple sentences for easy understanding",
+        "   • Avoid complex jargon unless explained",
+        "   • Nigerian context: Incorporate local proverbs or expressions if appropriate",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Nervousness or stage fright",
+        "  - Solution: Practice regularly, breathe deeply, focus on the message",
+        "",
+        "• Challenge: Forgetting points during delivery",
+        "  - Solution: Use brief notes or mental cues, practice transitions",
+        "",
+        "• Challenge: Monotone delivery",
+        "  - Solution: Vary pitch, pace, and volume; use gestures naturally",
+        "",
+        "Practical Activities:",
+        "1. Storytelling Practice:",
+        "   • Students prepare short oral compositions on given topics",
+        "   • Deliver to class with focus on clarity and engagement",
+        "   • Peer feedback on content, delivery, and language",
+        "",
+        "2. Listening and Evaluation:",
+        "   • Listen to classmates' oral compositions",
+        "   • Identify strengths and areas for improvement",
+        "   • Discuss effective storytelling techniques",
+        "",
+        "3. Recording and Self-Assessment:",
+        "   • Record oral compositions for self-review",
+        "   • Identify pronunciation, pace, and clarity issues",
+        "   • Set goals for improvement",
+        "",
+        "Nigerian Context:",
+        "• Oral composition skills support academic presentations, leadership roles, and community engagement in Nigeria",
+        "• Storytelling is a valued cultural tradition; mastering oral composition preserves and enhances this heritage",
+        "• Practice with local topics enhances relevance and cultural expression",
+        "",
+        "Conclusion:",
+        "• Oral composition is the art of expressing ideas verbally in a clear, engaging manner",
+        "• Key features include clear introduction, logical sequence, vivid description, appropriate tone, and engaging conclusion",
+        "• Preparation involves topic selection, planning, practice, and language choice",
+        "• In Nigeria, oral composition supports academic success, cultural preservation, and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Flowchart of steps for preparing an oral composition",
+        "Chart of features of effective oral composition with examples",
+        "Sample oral composition structure: introduction, body, conclusion",
+        "Nigerian context: Sample topics for oral composition on local experiences",
+        "Self-assessment checklist for oral delivery"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English oral composition storytelling SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Oral composition is primarily about:",
+          "opts": [
+            "Writing essays silently",
+            "Expressing ideas verbally in a clear, engaging manner",
+            "Reading passages aloud",
+            "Memorizing poems"
+          ],
+          "ans": 1,
+          "explanation": "Oral composition focuses on verbal expression of ideas, stories, or experiences in a clear and engaging way."
+        },
+        {
+          "q": "A clear introduction in oral composition should:",
+          "opts": [
+            "Summarize the entire story",
+            "Capture attention and state the purpose",
+            "List all details immediately",
+            "Apologize for mistakes"
+          ],
+          "ans": 1,
+          "explanation": "The introduction should hook the listener and state the purpose or theme of the story."
+        },
+        {
+          "q": "Transitional words in oral composition help to:",
+          "opts": [
+            "Confuse the listener",
+            "Ensure smooth flow between ideas",
+            "Make the story longer",
+            "Repeat the same point"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words like 'first', 'then', 'finally' ensure logical flow and coherence in oral composition."
+        },
+        {
+          "q": "Vivid description in oral composition involves:",
+          "opts": [
+            "Using only facts without details",
+            "Using sensory details to paint a picture with words",
+            "Speaking very quickly",
+            "Avoiding adjectives"
+          ],
+          "ans": 1,
+          "explanation": "Vivid description uses sensory details (sight, sound, smell, etc.) to create a mental image for the listener."
+        },
+        {
+          "q": "An engaging conclusion in oral composition should:",
+          "opts": [
+            "Introduce new ideas",
+            "Summarize the main point and end memorably",
+            "Apologize for any errors",
+            "Ask for donations"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion should summarize the main point or lesson and end with a memorable statement."
+        },
+        {
+          "q": "In Nigerian context, a suitable topic for oral composition might be:",
+          "opts": [
+            "Only foreign experiences",
+            "Personal experiences or cultural events in Nigeria",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Oral compositions in Nigerian context often draw from personal experiences, cultural events, or local issues."
+        },
+        {
+          "q": "A common challenge in oral composition is:",
+          "opts": [
+            "Being too confident",
+            "Nervousness or stage fright",
+            "Speaking too slowly",
+            "Using too many gestures"
+          ],
+          "ans": 1,
+          "explanation": "Nervousness or stage fright is a common challenge; practice and preparation help overcome it."
+        },
+        {
+          "q": "Understanding oral composition is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass speaking tests",
+            "Supports academic presentations, leadership, and cultural expression",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Oral composition skills support academic success, leadership development, and cultural preservation in Nigeria."
+        },
+        {
+          "q": "Which is NOT a feature of effective oral composition?",
+          "opts": [
+            "Clear introduction",
+            "Logical sequence",
+            "Monotone delivery",
+            "Engaging conclusion"
+          ],
+          "ans": 2,
+          "explanation": "Monotone delivery reduces engagement; effective oral composition uses varied tone, pace, and volume."
+        },
+        {
+          "q": "A common misconception about oral composition is:",
+          "opts": [
+            "It requires practice and preparation",
+            "It is only for extroverts",
+            "It can be improved with feedback",
+            "It supports effective communication"
+          ],
+          "ans": 1,
+          "explanation": "Oral composition is a skill that anyone can develop with practice; it is not limited to extroverts."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w2_su2",
+      "title": "2.2 Vocabulary: Words Associated with Advertising",
+      "notes": [
+        "Vocabulary Development: Advertising",
+        "• Definition: Advertising is the practice of promoting products, services, or ideas to attract customers or support a cause",
+        "• Importance: Understanding advertising vocabulary supports media literacy, critical thinking, and effective communication",
+        "",
+        "Key Vocabulary in Advertising:",
+        "1. General Advertising Terms:",
+        "   • Advertisement/Ad: A public notice promoting something",
+        "   • Campaign: A series of coordinated ads for a purpose",
+        "   • Target audience: The specific group an ad aims to reach",
+        "   • Slogan: A catchy phrase that represents a brand",
+        "   • Nigerian context: 'Buy Naija', 'Made in Nigeria' campaigns",
+        "",
+        "2. Media Channels:",
+        "   • Print: Newspapers, magazines, flyers",
+        "   • Broadcast: Radio, television",
+        "   • Digital: Social media, websites, email",
+        "   • Outdoor: Billboards, posters, transit ads",
+        "   • Nigerian context: 'NTA', 'Channels TV', 'Instagram ads', 'Lagos billboards'",
+        "",
+        "3. Persuasive Techniques:",
+        "   • Testimonial: Endorsement by a satisfied customer or celebrity",
+        "   • Bandwagon: 'Everyone is using it, so you should too'",
+        "   • Scarcity: 'Limited time offer', 'While stocks last'",
+        "   • Emotional appeal: Ads that evoke happiness, fear, or nostalgia",
+        "   • Nigerian context: Celebrity endorsements by Nigerian actors or musicians",
+        "",
+        "4. Product-Related Terms:",
+        "   • Brand: The name, logo, or identity of a product",
+        "   • Feature: A specific characteristic of a product",
+        "   • Benefit: The advantage a customer gains from a product",
+        "   • USP (Unique Selling Proposition): What makes a product stand out",
+        "   • Nigerian context: 'Dangote Cement', 'GTBank', 'Infinix phones'",
+        "",
+        "Using Advertising Vocabulary in Sentences:",
+        "• 'The new campaign targets young Nigerians through social media.'",
+        "• 'The slogan 'Naija no dey carry last' promotes national pride.'",
+        "• 'The ad uses emotional appeal to connect with viewers.'",
+        "• 'The brand's USP is its affordability and durability.'",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Building:",
+        "   • List words associated with advertising from newspapers, TV, or online",
+        "   • Categorize by media channel, technique, or product type",
+        "   • Create sentences using new vocabulary",
+        "",
+        "2. Ad Analysis:",
+        "   • Analyze sample advertisements from Nigerian media",
+        "   • Identify target audience, persuasive techniques, and key vocabulary",
+        "   • Discuss effectiveness and cultural relevance",
+        "",
+        "3. Creative Exercise:",
+        "   • Students create a simple ad for a local product or service",
+        "   • Use appropriate advertising vocabulary and persuasive techniques",
+        "   • Present to class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Advertising is only about selling products': It can also promote ideas, causes, or behaviors",
+        "• 'All ads are truthful': Some ads may exaggerate or use persuasive techniques that require critical evaluation",
+        "• 'Advertising vocabulary is only for marketers': Understanding ads supports media literacy for all consumers",
+        "• 'Local ads are less effective than international ones': Local context and cultural relevance enhance ad effectiveness",
+        "",
+        "Nigerian Context:",
+        "• Nigeria's diverse media landscape offers rich examples of advertising in multiple languages and formats",
+        "• Understanding advertising vocabulary supports critical engagement with media and consumer decisions",
+        "• Practice with local examples enhances relevance and cultural expression",
+        "",
+        "Conclusion:",
+        "• Advertising vocabulary supports media literacy and critical thinking",
+        "• Key terms cover general concepts, media channels, persuasive techniques, and product-related language",
+        "• Nigerian context enriches learning with local examples and cultural relevance",
+        "• Mastery of this vocabulary supports academic success and informed citizenship"
+      ],
+      "diagramDescriptions": [
+        "Chart of advertising vocabulary by category: general, media, techniques, product",
+        "Illustration of media channels: print, broadcast, digital, outdoor",
+        "Diagram of persuasive techniques with Nigerian examples",
+        "Nigerian context: Sample advertisements from local media",
+        "Sample sentences using advertising vocabulary"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary advertising marketing SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Advertising is primarily about:",
+          "opts": [
+            "Only selling products",
+            "Promoting products, services, or ideas to attract customers",
+            "Only creating logos",
+            "Only writing slogans"
+          ],
+          "ans": 1,
+          "explanation": "Advertising promotes products, services, or ideas through various media to attract customers or support a cause."
+        },
+        {
+          "q": "A 'slogan' in advertising is:",
+          "opts": [
+            "A long essay about a product",
+            "A catchy phrase that represents a brand",
+            "A legal document",
+            "A financial report"
+          ],
+          "ans": 1,
+          "explanation": "A slogan is a short, memorable phrase that represents a brand or product, e.g., 'Naija no dey carry last'."
+        },
+        {
+          "q": "Which is a digital media channel for advertising?",
+          "opts": [
+            "Newspaper",
+            "Radio",
+            "Social media",
+            "Billboard"
+          ],
+          "ans": 2,
+          "explanation": "Social media is a digital channel; newspapers are print, radio is broadcast, billboards are outdoor."
+        },
+        {
+          "q": "A 'testimonial' in advertising is:",
+          "opts": [
+            "A scientific study",
+            "An endorsement by a satisfied customer or celebrity",
+            "A legal contract",
+            "A financial projection"
+          ],
+          "ans": 1,
+          "explanation": "A testimonial is an endorsement by a satisfied customer or celebrity to build trust and credibility."
+        },
+        {
+          "q": "In Nigerian context, 'Buy Naija' is an example of:",
+          "opts": [
+            "A product feature",
+            "A campaign slogan promoting local products",
+            "A financial term",
+            "A legal requirement"
+          ],
+          "ans": 1,
+          "explanation": "'Buy Naija' is a campaign slogan promoting the purchase of locally made Nigerian products."
+        },
+        {
+          "q": "Understanding advertising vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports media literacy, critical thinking, and informed consumer decisions",
+            "Only for marketing careers",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Advertising vocabulary supports critical engagement with media, informed consumer choices, and effective communication in Nigeria."
+        },
+        {
+          "q": "Which persuasive technique uses 'Limited time offer'?",
+          "opts": [
+            "Testimonial",
+            "Bandwagon",
+            "Scarcity",
+            "Emotional appeal"
+          ],
+          "ans": 2,
+          "explanation": "Scarcity creates urgency by suggesting limited availability, e.g., 'Limited time offer'."
+        },
+        {
+          "q": "A 'brand' in advertising refers to:",
+          "opts": [
+            "Only the product name",
+            "The name, logo, or identity that represents a product or company",
+            "Only the price",
+            "Only the packaging"
+          ],
+          "ans": 1,
+          "explanation": "A brand includes the name, logo, design, and overall identity that distinguishes a product or company."
+        },
+        {
+          "q": "Which is NOT a media channel for advertising?",
+          "opts": [
+            "Television",
+            "Social media",
+            "Dreams",
+            "Billboard"
+          ],
+          "ans": 2,
+          "explanation": "Dreams are not a media channel; television, social media, and billboards are common advertising channels."
+        },
+        {
+          "q": "A common misconception about advertising is:",
+          "opts": [
+            "It can promote ideas and causes",
+            "All ads are always truthful",
+            "It uses persuasive techniques",
+            "It targets specific audiences"
+          ],
+          "ans": 1,
+          "explanation": "Not all ads are always truthful; some may exaggerate or use persuasive techniques that require critical evaluation."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w2_su3",
+      "title": "2.3 Comprehension/Summary: Summarising a Given Passage",
+      "notes": [
+        "Comprehension/Summary: Summarising a Given Passage",
+        "• Definition: Summarising is the process of condensing a longer text into a shorter version while retaining the main ideas and essential information",
+        "• Importance: Develops critical reading, concise writing, and ability to distill complex information",
+        "",
+        "Characteristics of an Effective Summary:",
+        "1. Concise:",
+        "   • Uses fewer words than the original",
+        "   • Omits minor details, examples, and repetitions",
+        "   • Example: A 500-word passage summarized in 100 words",
+        "",
+        "2. Complete:",
+        "   • Includes all main ideas and essential supporting points",
+        "   • Maintains the original meaning and purpose",
+        "   • Example: A summary of a passage on corruption should include causes, effects, and solutions if they are main points",
+        "",
+        "3. Accurate:",
+        "   • Faithfully represents the original passage's meaning",
+        "   • Avoids adding personal opinions or interpretations",
+        "   • Example: If the passage states 'Corruption undermines development', the summary should not say 'Corruption is good'",
+        "",
+        "4. Coherent:",
+        "   • Sentences flow logically from one to the next",
+        "   • Uses appropriate transitions and connectors",
+        "   • Example: 'Firstly... Secondly... Finally...' or 'Furthermore... However... Therefore...'",
+        "",
+        "Steps for Summarising a Passage:",
+        "1. Read the passage carefully:",
+        "   • Identify the main idea and key supporting points",
+        "   • Note the passage's purpose and structure",
+        "",
+        "2. Identify topic sentences:",
+        "   • Topic sentences often state the main idea of each paragraph",
+        "   • Underline or highlight them for reference",
+        "",
+        "3. Extract key points:",
+        "   • Restate main ideas in your own words",
+        "   • Combine related points into single sentences where possible",
+        "   • Avoid copying phrases verbatim from the original",
+        "",
+        "4. Write the summary:",
+        "   • Start with a sentence stating the main idea",
+        "   • Develop with sentences covering essential supporting points",
+        "   • End with a sentence that concludes or emphasizes significance",
+        "",
+        "5. Revise and edit:",
+        "   • Check for conciseness, completeness, accuracy, and coherence",
+        "   • Ensure the summary is significantly shorter than the original",
+        "   • Revise to meet all criteria",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Including too many details",
+        "  - Solution: Focus only on main ideas; omit examples and minor points",
+        "",
+        "• Challenge: Copying the original text",
+        "  - Solution: Paraphrase in your own words; use synonyms and different sentence structures",
+        "",
+        "• Challenge: Losing the original meaning",
+        "  - Solution: After writing, compare your summary to the original to ensure accuracy",
+        "",
+        "• Challenge: Making the summary too long",
+        "  - Solution: Count words or sentences; revise to meet length requirements",
+        "",
+        "Nigerian Context in Summary Writing:",
+        "• Common themes for summary practice:",
+        "  - Corruption and governance",
+        "  - Environmental conservation",
+        "  - Education and youth empowerment",
+        "  - Health and disease prevention",
+        "  - Cultural values and modernization",
+        "",
+        "• Cultural considerations:",
+        "  - Use of local examples and proverbs in original passages",
+        "  - Sensitivity to ethnic, religious, or political issues",
+        "  - Clarity for diverse Nigerian audiences",
+        "",
+        "Practical Activities:",
+        "1. Summary Practice:",
+        "   • Provide short passages on Nigerian issues",
+        "   • Students read and write summaries in specified length",
+        "   • Compare summaries with classmates for completeness and conciseness",
+        "",
+        "2. Paraphrasing Exercises:",
+        "   • Give sentences from passages for students to paraphrase",
+        "   • Focus on changing structure and vocabulary while keeping meaning",
+        "   • Compare original and paraphrased versions for accuracy",
+        "",
+        "3. Model Summary Analysis:",
+        "   • Analyze model summaries of Nigerian-themed passages",
+        "   • Identify how main ideas are condensed into concise sentences",
+        "   • Discuss effectiveness of paraphrasing and sentence allocation",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary length doesn't matter': The summary must be significantly shorter than the original",
+        "• 'Summaries can include personal opinions': Summaries must be objective and faithful to the original",
+        "• 'More sentences are better if they add detail': Extra sentences violate the requirement for conciseness",
+        "• 'Paraphrasing means changing the meaning': Paraphrasing restates meaning in different words",
+        "",
+        "Nigerian Context:",
+        "• Summary writing skills support academic success in Nigerian schools and universities",
+        "• Understanding local themes enhances relevance and application",
+        "• Practice with Nigerian examples builds precision and critical thinking",
+        "",
+        "Conclusion:",
+        "• Effective summaries are concise, complete, accurate, and coherent",
+        "• Steps include reading, identifying topic sentences, extracting key points, writing, and revising",
+        "• Nigerian context enriches learning with local themes and cultural considerations",
+        "• Mastery of summary writing supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary characteristics: concise, complete, accurate, coherent",
+        "Flowchart of steps for summarising a passage",
+        "Sample passage with model summary highlighting key points",
+        "Nigerian context: Sample summary topics on local issues",
+        "Paraphrasing exercise with before/after examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English summary writing comprehension SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Summarising a passage means:",
+          "opts": [
+            "Copying the original text word for word",
+            "Condensing the text while retaining main ideas",
+            "Adding personal opinions to the original",
+            "Writing a longer version of the passage"
+          ],
+          "ans": 1,
+          "explanation": "Summarising involves condensing a longer text into a shorter version while retaining the main ideas and essential information."
+        },
+        {
+          "q": "An effective summary should be:",
+          "opts": [
+            "Longer than the original passage",
+            "A copy of the original text",
+            "Concise, complete, accurate, and coherent",
+            "Filled with personal opinions"
+          ],
+          "ans": 2,
+          "explanation": "Effective summaries are concise (brief), complete (include main ideas), accurate (faithful to original), and coherent (logical flow)."
+        },
+        {
+          "q": "The first step in summarising is to:",
+          "opts": [
+            "Start writing immediately",
+            "Read the passage carefully to identify main ideas",
+            "Count the words in the passage",
+            "Ask someone else to summarise it"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully to identify main ideas is essential before attempting to summarise."
+        },
+        {
+          "q": "Paraphrasing in summary writing means:",
+          "opts": [
+            "Copying the original text word for word",
+            "Restating ideas in your own words while keeping the meaning",
+            "Adding your own opinions to the original",
+            "Shortening the passage by deleting sentences"
+          ],
+          "ans": 1,
+          "explanation": "Paraphrasing restates the original meaning using different words and sentence structures."
+        },
+        {
+          "q": "If a passage is about corruption in Nigeria and you must summarise it, you should:",
+          "opts": [
+            "Include every example of corruption mentioned",
+            "Focus on the main causes, effects, and solutions if they are key points",
+            "Write 4 sentences to be safe",
+            "Copy the first and last sentences of the passage"
+          ],
+          "ans": 1,
+          "explanation": "A good summary focuses on main ideas (causes, effects, solutions) and omits minor details and examples."
+        },
+        {
+          "q": "Which is a common error in summary writing?",
+          "opts": [
+            "Using your own words",
+            "Including personal opinions",
+            "Counting sentences",
+            "Focusing on main ideas"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must be objective; including personal opinions distorts the original meaning."
+        },
+        {
+          "q": "In Nigerian context, a summary on education might focus on:",
+          "opts": [
+            "Only global education issues",
+            "Local challenges like funding, access, and quality",
+            "Only historical education systems",
+            "Only theoretical definitions"
+          ],
+          "ans": 1,
+          "explanation": "Summaries in Nigerian context should focus on locally relevant issues like funding, access, and quality of education."
+        },
+        {
+          "q": "Understanding summary writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, critical thinking, and effective communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Summary writing skills support academic work, critical analysis, and clear communication in Nigerian educational and professional contexts."
+        },
+        {
+          "q": "Which is NOT a characteristic of an effective summary?",
+          "opts": [
+            "Concise",
+            "Complete",
+            "Copied verbatim",
+            "Accurate"
+          ],
+          "ans": 2,
+          "explanation": "Effective summaries paraphrase in your own words; copying verbatim is plagiarism, not summarising."
+        },
+        {
+          "q": "A common misconception about summary writing is:",
+          "opts": [
+            "Summaries must be concise",
+            "Summaries can include personal opinions",
+            "Summaries should be accurate",
+            "Summaries must be coherent"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must be objective and faithful to the original; personal opinions have no place in a summary."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w2_su4",
+      "title": "2.4 Structure: Types of Sentences Continued – Simple and Compound",
+      "notes": [
+        "Structure: Types of Sentences Continued",
+        "• Revision: A sentence is a group of words that expresses a complete thought",
+        "• Importance: Understanding sentence types improves writing clarity, variety, and effectiveness",
+        "",
+        "Simple Sentences (Revision):",
+        "• Definition: A sentence with one independent clause (subject + predicate)",
+        "• Characteristics:",
+        "  - One subject and one verb (or compound subject/verb)",
+        "  - Expresses a single complete thought",
+        "  - Can be short or long",
+        "",
+        "• Examples:",
+        "  - 'The boy kicked the ball.'",
+        "  - 'Nigeria is a diverse country.'",
+        "  - 'She and her friend went to the market.'",
+        "  - Nigerian context: 'The farmer harvested his crops yesterday.'",
+        "",
+        "Compound Sentences (Revision):",
+        "• Definition: A sentence with two or more independent clauses joined by a coordinating conjunction",
+        "• Coordinating Conjunctions: FANBOYS (For, And, Nor, But, Or, Yet, So)",
+        "• Characteristics:",
+        "  - Two or more independent clauses",
+        "  - Joined by comma + coordinating conjunction",
+        "  - Expresses related but separate thoughts",
+        "",
+        "• Examples:",
+        "  - 'The boy kicked the ball, and it went into the goal.'",
+        "  - 'Nigeria is diverse, but its people share common values.'",
+        "  - 'She studied hard, so she passed the exam.'",
+        "  - Nigerian context: 'The market was busy, yet the prices were reasonable.'",
+        "",
+        "Advanced Practice: Identifying and Constructing Compound Sentences",
+        "1. Identify independent clauses:",
+        "   • Each clause must have a subject and verb and express a complete thought",
+        "   • Example: 'I like rice' (independent) + 'my brother prefers beans' (independent)",
+        "",
+        "2. Choose appropriate conjunction:",
+        "   • 'And' for addition: 'I like rice, and my brother prefers beans.'",
+        "   • 'But' for contrast: 'I like rice, but my brother prefers beans.'",
+        "   • 'So' for result: 'I studied hard, so I passed the exam.'",
+        "",
+        "3. Use correct punctuation:",
+        "   • Comma before coordinating conjunction: 'I like rice, and my brother prefers beans.'",
+        "   • Semicolon alternative: 'I like rice; my brother prefers beans.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Comma splice (joining independent clauses with comma only)",
+        "  - Incorrect: 'I like rice, my brother prefers beans.'",
+        "  - Correct: 'I like rice, and my brother prefers beans.' or 'I like rice; my brother prefers beans.'",
+        "",
+        "• Error: Run-on sentence (no punctuation between independent clauses)",
+        "  - Incorrect: 'I like rice my brother prefers beans.'",
+        "  - Correct: 'I like rice, and my brother prefers beans.'",
+        "",
+        "• Error: Using subordinating conjunction in compound sentence",
+        "  - Incorrect: 'I like rice, because my brother prefers beans.'",
+        "  - Correct: 'I like rice, and my brother prefers beans.' (compound) or 'I like rice because it is delicious.' (complex)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'The market was busy, the prices were high.'",
+        "  - Correction: 'The market was busy, and the prices were high.'",
+        "",
+        "Practical Activities:",
+        "1. Sentence Identification:",
+        "   • Provide sentences for students to classify as simple or compound",
+        "   • Underline subjects and circle verbs to identify clauses",
+        "   • Discuss the function of coordinating conjunctions",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write simple sentences on given topics",
+        "   • Combine simple sentences into compound sentences using FANBOYS",
+        "   • Share sentences with classmates for peer review",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with comma splices or run-ons",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'Long sentences are always compound': Length doesn't determine type; structure does",
+        "• 'Compound sentences are better than simple': Both have their place; variety is key",
+        "• 'Any conjunction makes a compound sentence': Only coordinating conjunctions (FANBOYS) join independent clauses",
+        "• 'Punctuation is optional in compound sentences': Correct punctuation is essential for clarity",
+        "",
+        "Nigerian Context:",
+        "• Understanding sentence types supports clear communication in academic writing and professional contexts",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "• Mastery of sentence structure improves writing variety and effectiveness",
+        "",
+        "Conclusion:",
+        "• Simple sentences have one independent clause; compound sentences have two or more",
+        "• Coordinating conjunctions (FANBOYS) join independent clauses in compound sentences",
+        "• Correct punctuation (comma + conjunction or semicolon) is essential for compound sentences",
+        "• Mastery of sentence types improves writing clarity, variety, and effectiveness"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing simple and compound sentences with examples",
+        "Flowchart for identifying sentence types",
+        "FANBOYS mnemonic with examples of coordinating conjunctions",
+        "Nigerian context: Sample sentences with correct/incorrect punctuation",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar simple compound sentences SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A simple sentence contains:",
+          "opts": [
+            "Two or more independent clauses",
+            "One independent clause",
+            "Only a subject",
+            "Only a verb"
+          ],
+          "ans": 1,
+          "explanation": "A simple sentence contains one independent clause (subject + predicate) that expresses a complete thought."
+        },
+        {
+          "q": "Which is a compound sentence?",
+          "opts": [
+            "The boy kicked the ball.",
+            "The boy kicked the ball, and it went into the goal.",
+            "Because the boy kicked the ball, it went into the goal.",
+            "The boy who kicked the ball scored."
+          ],
+          "ans": 1,
+          "explanation": "'The boy kicked the ball, and it went into the goal' has two independent clauses joined by 'and', making it compound."
+        },
+        {
+          "q": "Coordinating conjunctions are remembered by the acronym:",
+          "opts": [
+            "SMART",
+            "FANBOYS",
+            "PEMDAS",
+            "ROYGBIV"
+          ],
+          "ans": 1,
+          "explanation": "FANBOYS stands for For, And, Nor, But, Or, Yet, So - the coordinating conjunctions that join independent clauses."
+        },
+        {
+          "q": "Which punctuation is correct in a compound sentence?",
+          "opts": [
+            "I like rice my brother prefers beans.",
+            "I like rice, my brother prefers beans.",
+            "I like rice, and my brother prefers beans.",
+            "I like rice; and my brother prefers beans."
+          ],
+          "ans": 2,
+          "explanation": "Compound sentences require a comma before the coordinating conjunction: 'I like rice, and my brother prefers beans.'"
+        },
+        {
+          "q": "A comma splice error occurs when:",
+          "opts": [
+            "A comma is used before a coordinating conjunction",
+            "Independent clauses are joined by a comma only",
+            "A semicolon joins independent clauses",
+            "A period ends a sentence"
+          ],
+          "ans": 1,
+          "explanation": "A comma splice joins independent clauses with only a comma, which is incorrect; a conjunction or semicolon is needed."
+        },
+        {
+          "q": "In Nigerian context, which is a correct compound sentence?",
+          "opts": [
+            "The market was busy the prices were high.",
+            "The market was busy, the prices were high.",
+            "The market was busy, and the prices were high.",
+            "The market was busy; and the prices were high."
+          ],
+          "ans": 2,
+          "explanation": "'The market was busy, and the prices were high' correctly uses comma + coordinating conjunction to join independent clauses."
+        },
+        {
+          "q": "Which sentence is simple?",
+          "opts": [
+            "She studied hard, so she passed.",
+            "She studied hard and passed.",
+            "Because she studied hard, she passed.",
+            "She studied hard; she passed."
+          ],
+          "ans": 1,
+          "explanation": "'She studied hard and passed' has a compound verb but one subject, making it a simple sentence."
+        },
+        {
+          "q": "Understanding sentence types is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing clarity, variety, and effectiveness in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of sentence types enables students to write clearly, vary sentence structure, and communicate effectively."
+        },
+        {
+          "q": "Which coordinating conjunction shows contrast?",
+          "opts": [
+            "and",
+            "but",
+            "so",
+            "or"
+          ],
+          "ans": 1,
+          "explanation": "'But' shows contrast between ideas: 'I like rice, but my brother prefers beans.'"
+        },
+        {
+          "q": "A common misconception about compound sentences is:",
+          "opts": [
+            "They require coordinating conjunctions",
+            "Long sentences are always compound",
+            "Punctuation is essential for clarity",
+            "They express related but separate thoughts"
+          ],
+          "ans": 1,
+          "explanation": "Sentence length doesn't determine type; a long sentence can be simple if it has only one independent clause."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w2_su5",
+      "title": "2.5 Continuous Writing: Oral Composition of a Descriptive Essay",
+      "notes": [
+        "Continuous Writing: Oral Composition of a Descriptive Essay",
+        "• Definition: A descriptive essay paints a vivid picture of a person, place, object, or event using sensory details",
+        "• Oral composition: Expressing descriptive ideas verbally before writing",
+        "",
+        "Features of a Descriptive Essay:",
+        "1. Vivid Imagery:",
+        "   • Use of sensory details: sight, sound, smell, taste, touch",
+        "   • Example: 'The market buzzed with the shouts of vendors, the scent of fresh produce, and the vibrant colors of fabrics.'",
+        "   • Nigerian context: Describe local markets, festivals, or landscapes with sensory richness",
+        "",
+        "2. Organized Structure:",
+        "   • Introduction: Introduce the subject and set the scene",
+        "   • Body: Develop description with sensory details and spatial order",
+        "   • Conclusion: Summarize impression or reflect on significance",
+        "",
+        "3. Figurative Language:",
+        "   • Simile: 'The river flowed like a silver ribbon.'",
+        "   • Metaphor: 'The market was a beehive of activity.'",
+        "   • Personification: 'The wind whispered through the trees.'",
+        "   • Nigerian context: Use local metaphors, proverbs, or cultural imagery",
+        "",
+        "4. Precise Vocabulary:",
+        "   • Choose specific, evocative words",
+        "   • Avoid vague terms: 'nice', 'good', 'bad'",
+        "   • Example: Instead of 'The food was good', write 'The jollof rice was fragrant, spicy, and perfectly cooked.'",
+        "",
+        "5. Appropriate Tense:",
+        "   • Present tense for immediate, vivid description",
+        "   • Past tense for recounting a past experience",
+        "   • Nigerian context: Use tense consistently based on the essay's purpose",
+        "",
+        "Oral Composition Process:",
+        "a) Planning:",
+        "   • Choose a topic: 'My school', 'A market day', 'A festival in my community'",
+        "   • Brainstorm sensory details and key features",
+        "   • Organize ideas: spatial order (near to far), order of importance",
+        "",
+        "b) Oral Practice:",
+        "   • Describe the subject aloud to a partner or small group",
+        "   • Focus on vivid imagery, precise vocabulary, and logical flow",
+        "   • Receive feedback on clarity, engagement, and language use",
+        "",
+        "c) Written Draft:",
+        "   • Transfer oral description to written form",
+        "   • Refine language, add transitions, and ensure coherence",
+        "   • Revise for vividness, correctness, and impact",
+        "",
+        "Sample Descriptive Topics:",
+        "• My school",
+        "• The petrol station in times of fuel scarcity",
+        "• The principal's house",
+        "• A fire incident in my street",
+        "• The aftermath of students' riot in a school/town",
+        "• A funeral ceremony",
+        "• A flood disaster caused by blocked drains",
+        "",
+        "Practical Activities:",
+        "1. Sensory Observation:",
+        "   • Observe a person, place, or object in detail",
+        "   • Record sensory details in a chart",
+        "   • Share observations with classmates",
+        "",
+        "2. Oral Description Practice:",
+        "   • Describe a familiar place or event to a partner",
+        "   • Focus on sensory details and vivid language",
+        "   • Peer feedback on clarity and engagement",
+        "",
+        "3. Written Drafting:",
+        "   • Plan essay with outline (introduction, body, conclusion)",
+        "   • Draft essay focusing on sensory details and organization",
+        "   • Revise for vividness, coherence, and correctness",
+        "",
+        "Common Misconceptions:",
+        "• 'Descriptive essays are just lists of details': They require organization, focus, and a central impression",
+        "• 'More adjectives mean better description': Precision and specificity are more important than quantity",
+        "• 'Descriptive essays don't need a thesis': A clear focus or impression guides the description",
+        "• 'Figurative language is only for poetry': It enhances description in essays too",
+        "",
+        "Nigerian Context:",
+        "• Descriptive writing skills support academic success in Nigerian schools and universities",
+        "• Understanding local themes enhances relevance and cultural expression",
+        "• Practice with Nigerian examples builds confidence and creativity",
+        "",
+        "Conclusion:",
+        "• Descriptive essays create vivid impressions through sensory details and figurative language",
+        "• Structure includes introduction, body paragraphs with sensory details, and conclusion",
+        "• Precise vocabulary and appropriate tense enhance effectiveness",
+        "• In Nigeria, descriptive writing supports academic achievement and cultural expression"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of descriptive essay: introduction, body, conclusion",
+        "Chart of sensory details with examples (sight, sound, smell, taste, touch)",
+        "Examples of figurative language: simile, metaphor, personification",
+        "Nigerian context: Sample descriptive topics on local scenes, events, or objects",
+        "Sensory observation chart for descriptive writing practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing descriptive essay oral composition SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A descriptive essay primarily aims to:",
+          "opts": [
+            "Argue a point",
+            "Paint a vivid picture using sensory details",
+            "Tell a story",
+            "Explain a process"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive essays focus on creating a vivid impression through sensory details and figurative language."
+        },
+        {
+          "q": "Which is an example of sensory detail?",
+          "opts": [
+            "The market was busy.",
+            "The market buzzed with shouts, scents, and vibrant colors.",
+            "The market is important.",
+            "The market has many vendors."
+          ],
+          "ans": 1,
+          "explanation": "'The market buzzed with shouts, scents, and vibrant colors' uses sensory details (sound, smell, sight) to create a vivid image."
+        },
+        {
+          "q": "Figurative language in descriptive writing includes:",
+          "opts": [
+            "Only adjectives",
+            "Simile, metaphor, personification",
+            "Only nouns",
+            "Only verbs"
+          ],
+          "ans": 1,
+          "explanation": "Figurative language includes simile, metaphor, and personification to enhance description."
+        },
+        {
+          "q": "In a descriptive essay, the introduction should:",
+          "opts": [
+            "List all details",
+            "Introduce the subject and overall impression",
+            "Summarize the conclusion",
+            "Provide only facts"
+          ],
+          "ans": 1,
+          "explanation": "The introduction introduces the subject and states the overall impression or focus of the description."
+        },
+        {
+          "q": "Which tense is often used for immediate, vivid description?",
+          "opts": [
+            "Past simple",
+            "Present simple",
+            "Future simple",
+            "Past perfect"
+          ],
+          "ans": 1,
+          "explanation": "Present tense creates immediacy and vividness in descriptive writing."
+        },
+        {
+          "q": "In Nigerian context, a descriptive essay might focus on:",
+          "opts": [
+            "Only foreign landscapes",
+            "Local markets, festivals, or community events",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive essays in Nigerian context often focus on local scenes, events, or objects to enhance cultural relevance."
+        },
+        {
+          "q": "A common error in descriptive writing is:",
+          "opts": [
+            "Using sensory details",
+            "Using vague terms like 'nice' or 'good'",
+            "Organizing details logically",
+            "Using figurative language"
+          ],
+          "ans": 1,
+          "explanation": "Vague terms like 'nice' or 'good' weaken description; precise, specific vocabulary is more effective."
+        },
+        {
+          "q": "Understanding descriptive writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports academic writing, cultural expression, and creative communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive writing skills support academic success, cultural expression, and effective communication in Nigerian contexts."
+        },
+        {
+          "q": "Which is NOT a feature of a descriptive essay?",
+          "opts": [
+            "Vivid imagery",
+            "Organized structure",
+            "Argumentative thesis",
+            "Figurative language"
+          ],
+          "ans": 2,
+          "explanation": "Descriptive essays focus on description, not argument; an argumentative thesis is for persuasive essays."
+        },
+        {
+          "q": "A common misconception about descriptive essays is:",
+          "opts": [
+            "They require sensory details",
+            "They are just lists of details without organization",
+            "They use figurative language",
+            "They have a clear focus or impression"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive essays require organization and a central impression; they are not just random lists of details."
+        }
+      ]
+    }
+  ]
+}

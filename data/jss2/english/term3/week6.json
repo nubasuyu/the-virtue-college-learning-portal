@@ -1,0 +1,744 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 6,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w6_su1",
+      "title": "6.1 Reading: Reading to Answer Questions - Conclusion, Projection, Opinion",
+      "notes": [
+        "Reading: Answering Questions - Conclusion, Projection, Opinion",
+        "",
+        "Key Concepts:",
+        "1. Conclusion Questions:",
+        "   - Ask you to infer or deduce based on passage evidence",
+        "   - Example: 'Based on the passage, what can you conclude about road safety?'",
+        "",
+        "2. Projection Questions:",
+        "   - Ask you to predict what might happen",
+        "   - Example: 'What might happen if drivers ignore traffic rules?'",
+        "",
+        "3. Opinion Questions:",
+        "   - Ask for your personal view based on the passage",
+        "   - Example: 'What is your opinion on youth unemployment?'",
+        "",
+        "4. Strategies for Answering:",
+        "   - Read the passage carefully",
+        "   - Identify key evidence",
+        "   - Use logical reasoning for conclusions/projections",
+        "   - Support opinions with passage-based reasons"
+      ],
+      "diagramDescriptions": [
+        "Chart showing conclusion vs projection vs opinion questions",
+        "Flowchart for answering each question type"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading comprehension conclusion projection opinion site:youtube.com",
+      "quiz": [
+        {
+          "q": "Conclusion questions require you to:",
+          "opts": [
+            "Copy facts directly",
+            "Infer or deduce based on passage evidence",
+            "Give random guesses",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Conclusion questions require logical inference based on passage evidence."
+        },
+        {
+          "q": "Projection questions ask you to:",
+          "opts": [
+            "Summarize the text",
+            "Predict what might happen based on the passage",
+            "Define vocabulary",
+            "List characters"
+          ],
+          "ans": 1,
+          "explanation": "Projection questions ask for predictions based on passage information."
+        },
+        {
+          "q": "Opinion questions allow you to:",
+          "opts": [
+            "Only copy the author",
+            "Express your personal view supported by passage evidence",
+            "Ignore the topic",
+            "Write nonsense"
+          ],
+          "ans": 1,
+          "explanation": "Opinion questions combine personal perspective with text-based support."
+        },
+        {
+          "q": "A good strategy for conclusion questions is to:",
+          "opts": [
+            "Guess randomly",
+            "Identify evidence and use logical reasoning",
+            "Write whatever comes to mind",
+            "Skip the question"
+          ],
+          "ans": 1,
+          "explanation": "Logical reasoning based on evidence is essential for conclusion questions."
+        },
+        {
+          "q": "In a passage on road safety, a projection might be:",
+          "opts": [
+            "The driver is named Musa",
+            "If rules are ignored, accidents may increase",
+            "The story is set in Lagos",
+            "The title is 'Safety First'"
+          ],
+          "ans": 1,
+          "explanation": "Predicting increased accidents from rule-breaking is a logical projection."
+        },
+        {
+          "q": "A common mistake in opinion questions is:",
+          "opts": [
+            "Using passage evidence",
+            "Giving opinions without text support",
+            "Thinking logically",
+            "Writing clearly"
+          ],
+          "ans": 1,
+          "explanation": "Opinions must be supported by passage evidence, not just personal feelings."
+        },
+        {
+          "q": "Understanding these question types helps Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in BECE, WAEC, and NECO examinations",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These question types are common in national exams; mastering them supports exam success."
+        },
+        {
+          "q": "Which is NOT a type of comprehension question?",
+          "opts": [
+            "Conclusion",
+            "Projection",
+            "Random guess",
+            "Opinion"
+          ],
+          "ans": 2,
+          "explanation": "Random guess is not a valid question type; answers must be evidence-based."
+        },
+        {
+          "q": "A common misconception about projection questions is:",
+          "opts": [
+            "They ask for predictions based on evidence",
+            "Projection means guessing randomly",
+            "Answers must be logical",
+            "Practice improves skills"
+          ],
+          "ans": 1,
+          "explanation": "Projection requires logical reasoning, not random guessing."
+        },
+        {
+          "q": "When answering opinion questions, you should:",
+          "opts": [
+            "Ignore the passage",
+            "State your view and support it with passage evidence",
+            "Make up any story",
+            "Copy the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Opinion answers must combine personal perspective with text-based support."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w6_su2",
+      "title": "6.2 Writing: Composition on My Favorite Subject or Teacher",
+      "notes": [
+        "Writing: Composition on My Favorite Subject or Teacher",
+        "",
+        "Key Concepts:",
+        "1. Types of Composition:",
+        "   - Narrative: tells a story",
+        "   - Descriptive: paints a picture with words",
+        "   - Expository: explains or informs",
+        "   - Argumentative: persuades or argues a point",
+        "",
+        "2. Elements of Composition:",
+        "   - Introduction: states the topic and purpose",
+        "   - Body: develops main points with details",
+        "   - Conclusion: summarizes and reinforces the message",
+        "",
+        "3. Steps for Writing:",
+        "   - Step 1: Choose a topic and brainstorm ideas",
+        "   - Step 2: Organize ideas in logical sequence",
+        "   - Step 3: Write a draft with clear paragraphs",
+        "   - Step 4: Revise for clarity, grammar, and punctuation",
+        "",
+        "4. Language Features:",
+        "   - Use specific vocabulary related to the topic",
+        "   - Use descriptive language for vivid imagery",
+        "   - Use transitional words for smooth flow",
+        "   - Maintain consistent tense and tone"
+      ],
+      "diagramDescriptions": [
+        "Chart of composition types with examples",
+        "Diagram of essay structure: Introduction, Body, Conclusion"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing composition favorite subject teacher site:youtube.com",
+      "quiz": [
+        {
+          "q": "A narrative composition:",
+          "opts": [
+            "Only lists facts",
+            "Tells a story with characters and events",
+            "Only explains processes",
+            "Only argues a point"
+          ],
+          "ans": 1,
+          "explanation": "Narrative compositions tell stories with characters, setting, and plot."
+        },
+        {
+          "q": "The introduction of a composition should:",
+          "opts": [
+            "List all details",
+            "State the topic and purpose",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The introduction states the topic and sets the context for the reader."
+        },
+        {
+          "q": "A good tip for composition writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain focus",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Specific examples and consistent focus create clear, effective compositions."
+        },
+        {
+          "q": "In Nigerian context, a composition topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'My Favorite Subject in School'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Composition topics in Nigerian context often address local school experiences."
+        },
+        {
+          "q": "Which is NOT an element of composition?",
+          "opts": [
+            "Introduction",
+            "Body",
+            "Random thoughts",
+            "Conclusion"
+          ],
+          "ans": 2,
+          "explanation": "Random thoughts are not an element; compositions need structured introduction, body, and conclusion."
+        },
+        {
+          "q": "Understanding composition writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication for assignments, exams, and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Composition skills help students communicate clearly in academic and real-life contexts."
+        },
+        {
+          "q": "A common misconception about composition is:",
+          "opts": [
+            "Compositions need clear structure",
+            "Longer writing is always better",
+            "Planning helps organization",
+            "Practice improves writing"
+          ],
+          "ans": 1,
+          "explanation": "Effective compositions are clear and focused, not just long."
+        },
+        {
+          "q": "When writing a composition, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use specific vocabulary and maintain consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Specific vocabulary and consistent focus create clear, effective compositions."
+        },
+        {
+          "q": "Transitional words help to:",
+          "opts": [
+            "Confuse the reader",
+            "Connect ideas smoothly",
+            "Make writing longer",
+            "Replace punctuation"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words like 'first', 'next', 'finally' help connect ideas smoothly."
+        },
+        {
+          "q": "The body of a composition should:",
+          "opts": [
+            "Repeat the introduction",
+            "Develop main points with details and examples",
+            "Be shorter than the conclusion",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The body develops main points with supporting details and examples."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w6_su3",
+      "title": "6.3 Grammatical Accuracy: Present Continuous Tense",
+      "notes": [
+        "Grammatical Accuracy: Present Continuous Tense",
+        "",
+        "Key Concepts:",
+        "1. What is Present Continuous Tense?",
+        "   - Shows actions happening now or around now",
+        "   - Form: am/is/are + verb + ing",
+        "   - Examples: I am talking, you are studying, he is working",
+        "",
+        "2. Functions of Present Continuous:",
+        "   - Actions happening now: 'She is reading a book.'",
+        "   - Temporary situations: 'He is staying with his uncle.'",
+        "   - Future arrangements: 'We are traveling tomorrow.'",
+        "",
+        "3. Identifying Present Continuous in Passages:",
+        "   - Look for am/is/are + verb + ing",
+        "   - Note time words: now, at the moment, currently",
+        "   - Example: 'Students are studying for their exams.'",
+        "",
+        "4. Making Sentences with Present Continuous:",
+        "   - Start with subject + am/is/are",
+        "   - Add verb + ing",
+        "   - Include time/context words if needed",
+        "   - Example: 'Nigerian youths are working hard for a better future.'"
+      ],
+      "diagramDescriptions": [
+        "Chart of present continuous tense form and examples",
+        "Diagram showing present continuous usage contexts"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar present continuous tense site:youtube.com",
+      "quiz": [
+        {
+          "q": "Present continuous tense shows:",
+          "opts": [
+            "Only past actions",
+            "Actions happening now or around now",
+            "Only future actions",
+            "Only completed actions"
+          ],
+          "ans": 1,
+          "explanation": "Present continuous shows actions happening now or around the present time."
+        },
+        {
+          "q": "The form of present continuous is:",
+          "opts": [
+            "Base verb only",
+            "am/is/are + verb + ing",
+            "have/has + past participle",
+            "will + base verb"
+          ],
+          "ans": 1,
+          "explanation": "Present continuous uses am/is/are + verb + ing."
+        },
+        {
+          "q": "In 'Students are studying', 'are studying' is:",
+          "opts": [
+            "Simple present",
+            "Present continuous",
+            "Present perfect",
+            "Past continuous"
+          ],
+          "ans": 1,
+          "explanation": "'Are studying' is present continuous, showing an action happening now."
+        },
+        {
+          "q": "Which time word often signals present continuous?",
+          "opts": [
+            "yesterday",
+            "now",
+            "last week",
+            "tomorrow"
+          ],
+          "ans": 1,
+          "explanation": "'Now' often signals present continuous tense."
+        },
+        {
+          "q": "In Nigerian context, present continuous might be:",
+          "opts": [
+            "They studied hard",
+            "They are studying hard",
+            "They will study hard",
+            "They have studied hard"
+          ],
+          "ans": 1,
+          "explanation": "'They are studying hard' is present continuous, commonly used in Nigerian English."
+        },
+        {
+          "q": "Present continuous can also express:",
+          "opts": [
+            "Only current actions",
+            "Temporary situations and future arrangements",
+            "Only past habits",
+            "Only completed actions"
+          ],
+          "ans": 1,
+          "explanation": "Present continuous can express temporary situations and planned future actions."
+        },
+        {
+          "q": "Understanding present continuous is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear communication about current actions and plans",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Present continuous helps communicate current actions and future plans clearly."
+        },
+        {
+          "q": "Which is NOT a use of present continuous?",
+          "opts": [
+            "Actions happening now",
+            "Temporary situations",
+            "Permanent facts",
+            "Future arrangements"
+          ],
+          "ans": 2,
+          "explanation": "Permanent facts use simple present, not present continuous."
+        },
+        {
+          "q": "A common misconception about present continuous is:",
+          "opts": [
+            "It shows actions happening now",
+            "It is only for current actions",
+            "It can express future arrangements",
+            "Practice improves usage"
+          ],
+          "ans": 1,
+          "explanation": "Present continuous is not only for current actions; it can also express temporary situations and future plans."
+        },
+        {
+          "q": "When using present continuous, you should:",
+          "opts": [
+            "Use base verb only",
+            "Use am/is/are + verb + ing",
+            "Use have/has + past participle",
+            "Use will + base verb"
+          ],
+          "ans": 1,
+          "explanation": "Present continuous requires am/is/are + verb + ing."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w6_su4",
+      "title": "6.4 Listening/Speaking: Question Tags",
+      "notes": [
+        "Listening/Speaking: Question Tags",
+        "",
+        "Key Concepts:",
+        "1. What are Question Tags?",
+        "   - Short questions added to the end of statements",
+        "   - Used to confirm information or seek agreement",
+        "   - Example: 'You are coming, aren't you?'",
+        "",
+        "2. Structure of Question Tags:",
+        "   - Positive statement + negative tag: 'She is here, isn't she?'",
+        "   - Negative statement + positive tag: 'He isn't coming, is he?'",
+        "   - Tag uses same auxiliary verb and subject pronoun",
+        "",
+        "3. Functions of Question Tags:",
+        "   - Seeking confirmation: 'This is correct, isn't it?'",
+        "   - Encouraging response: 'You understand, don't you?'",
+        "   - Expressing surprise: 'You didn't finish, did you?'",
+        "",
+        "4. Listening and Speaking Strategies:",
+        "   - Listen for auxiliary verb and subject in tag",
+        "   - Note intonation: rising for questions, falling for confirmation",
+        "   - Practice with minimal pairs and real-life contexts"
+      ],
+      "diagramDescriptions": [
+        "Chart of question tag structure with examples",
+        "Diagram of intonation patterns for question tags"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English question tags pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Question tags are:",
+          "opts": [
+            "Long questions at the beginning",
+            "Short questions added to the end of statements",
+            "Only used in writing",
+            "Only for formal speech"
+          ],
+          "ans": 1,
+          "explanation": "Question tags are short questions added to statements for confirmation or response."
+        },
+        {
+          "q": "The structure of a question tag is:",
+          "opts": [
+            "Positive + positive",
+            "Positive + negative, or negative + positive",
+            "Only negative statements",
+            "Only questions without statements"
+          ],
+          "ans": 1,
+          "explanation": "Question tags follow: positive statement + negative tag, or negative + positive."
+        },
+        {
+          "q": "In 'You are coming, aren't you?', the tag is:",
+          "opts": [
+            "You are coming",
+            "aren't you?",
+            "you",
+            "coming"
+          ],
+          "ans": 1,
+          "explanation": "'Aren't you?' is the question tag confirming the statement."
+        },
+        {
+          "q": "Which is a function of question tags?",
+          "opts": [
+            "Only asking questions",
+            "Seeking confirmation, encouraging response, expressing surprise",
+            "Only making statements",
+            "Only giving commands"
+          ],
+          "ans": 1,
+          "explanation": "Question tags seek confirmation, encourage response, or express surprise."
+        },
+        {
+          "q": "In Nigerian context, a question tag might be:",
+          "opts": [
+            "Only in English",
+            "'This is the way, isn't it?'",
+            "Only in formal speech",
+            "Only in writing"
+          ],
+          "ans": 1,
+          "explanation": "Question tags like 'isn't it?' are commonly used in Nigerian English."
+        },
+        {
+          "q": "A good speaking strategy for question tags is to:",
+          "opts": [
+            "Use same intonation for all",
+            "Match auxiliary verb and subject pronoun correctly",
+            "Only use tags in questions",
+            "Avoid using tags"
+          ],
+          "ans": 1,
+          "explanation": "Matching auxiliary verb and subject pronoun is essential for proper tag usage."
+        },
+        {
+          "q": "Which pair shows correct tag structure?",
+          "opts": [
+            "She is here, is she?",
+            "She is here, isn't she?",
+            "She isn't here, isn't she?",
+            "She is here, doesn't she?"
+          ],
+          "ans": 1,
+          "explanation": "'She is here, isn't she?' follows correct structure: positive + negative tag."
+        },
+        {
+          "q": "Understanding question tags is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear tag usage helps students be understood in classrooms and daily conversations."
+        },
+        {
+          "q": "Which is a question tag example?",
+          "opts": [
+            "/a:/ as in father",
+            "You are coming, aren't you?",
+            "/i:/ as in seat",
+            "/u:/ as in food"
+          ],
+          "ans": 1,
+          "explanation": "'You are coming, aren't you?' is a question tag example."
+        },
+        {
+          "q": "A common misconception about question tags is:",
+          "opts": [
+            "Tags seek confirmation",
+            "All tags use same intonation",
+            "Tags can encourage response",
+            "Practice improves tag usage"
+          ],
+          "ans": 1,
+          "explanation": "Not all tags use same intonation; rising for questions, falling for confirmation."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w6_su5",
+      "title": "6.5 Literature: Drama Text - Message, Props, Costumes",
+      "notes": [
+        "Literature: Drama Text - Message, Props, Costumes",
+        "",
+        "Key Concepts:",
+        "1. What is Drama?",
+        "   - A type of literature written to be performed on stage",
+        "   - Uses dialogue, action, and stage directions to tell a story",
+        "   - Example: A play about Nigerian family life",
+        "",
+        "2. Message (Theme) of Drama:",
+        "   - The main idea or moral lesson of the play",
+        "   - Example: 'Unity is strength' or 'Honesty brings success'",
+        "",
+        "3. Props and Costumes:",
+        "   - Props: Objects used by actors on stage (e.g., books, tools)",
+        "   - Costumes: Clothing worn by actors to show character, time, or setting",
+        "   - Example: Traditional attire for a cultural festival scene",
+        "",
+        "4. How to Identify Message, Props, Costumes:",
+        "   - For message: Ask 'What is the play really about?'",
+        "   - For props: Look for objects mentioned in stage directions",
+        "   - For costumes: Note descriptions of characters' clothing",
+        "",
+        "5. Why Study These Elements?",
+        "   - To understand how drama creates meaning through performance",
+        "   - To appreciate the craft of playwrights and directors",
+        "   - To improve your own writing and performance skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of drama elements: message, props, costumes with examples",
+        "Diagram of how props and costumes support the message"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature drama message props costumes site:youtube.com",
+      "quiz": [
+        {
+          "q": "Drama is:",
+          "opts": [
+            "Only poetry",
+            "Literature written to be performed on stage",
+            "Only non-fiction",
+            "Only historical documents"
+          ],
+          "ans": 1,
+          "explanation": "Drama is literature written for performance, using dialogue and action."
+        },
+        {
+          "q": "The message of a drama is:",
+          "opts": [
+            "Only the plot",
+            "The main idea or moral lesson of the play",
+            "Only the setting",
+            "Only the characters"
+          ],
+          "ans": 1,
+          "explanation": "The message (theme) is the main idea or moral lesson the play conveys."
+        },
+        {
+          "q": "Props in drama are:",
+          "opts": [
+            "Only the dialogue",
+            "Objects used by actors on stage",
+            "Only the costumes",
+            "Only the stage directions"
+          ],
+          "ans": 1,
+          "explanation": "Props are objects used by actors to support the story and setting."
+        },
+        {
+          "q": "Costumes in drama help to:",
+          "opts": [
+            "Only entertain the audience",
+            "Show character, time period, or setting",
+            "Only make actors look nice",
+            "Only follow fashion trends"
+          ],
+          "ans": 1,
+          "explanation": "Costumes help show character traits, time period, or cultural setting."
+        },
+        {
+          "q": "In Nigerian drama, a prop might be:",
+          "opts": [
+            "Only foreign items",
+            "A traditional calabash or farming tool",
+            "Only modern technology",
+            "Only historical artifacts"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian drama often uses traditional items like calabash or farming tools as props."
+        },
+        {
+          "q": "Understanding drama elements is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding drama elements helps students appreciate their heritage and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a drama element?",
+          "opts": [
+            "Message",
+            "Props",
+            "Scientific data",
+            "Costumes"
+          ],
+          "ans": 2,
+          "explanation": "Scientific data is not a drama element; message, props, and costumes are."
+        },
+        {
+          "q": "A common misconception about drama is:",
+          "opts": [
+            "Drama uses dialogue and action",
+            "Drama is only for entertainment",
+            "Drama can teach moral lessons",
+            "Drama reflects cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Drama is not only for entertainment; it also teaches lessons and preserves culture."
+        },
+        {
+          "q": "When analyzing drama, you should:",
+          "opts": [
+            "Ignore the message",
+            "Identify message, props, and costumes",
+            "Only focus on dialogue",
+            "Skip the setting"
+          ],
+          "ans": 1,
+          "explanation": "Identifying message, props, and costumes helps you understand and appreciate the drama."
+        },
+        {
+          "q": "In Nigerian drama, costumes might include:",
+          "opts": [
+            "Only Western attire",
+            "Traditional attire like agbada or gele",
+            "Only modern fashion",
+            "Only historical costumes"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian drama often features traditional attire like agbada or gele to show cultural setting."
+        }
+      ]
+    }
+  ]
+}

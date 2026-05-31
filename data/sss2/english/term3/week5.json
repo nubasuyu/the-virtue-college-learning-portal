@@ -1,0 +1,845 @@
+{
+  "course": "SSS2 English Language",
+  "term": "Third Term",
+  "week": 5,
+  "topic": "Speech, Structure, Reading, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t3_w5_su1",
+      "title": "5.1 Speech: Consonant Sounds - Plosives /b/ and /p/, /t/ and /d/, /k/ and /g/",
+      "notes": [
+        "Speech: Consonant Sounds - Plosives /b/ and /p/, /t/ and /d/, /k/ and /g/",
+        "",
+        "Key Concepts:",
+        "1. What are plosive consonants?",
+        "   - Sounds made by completely blocking airflow then releasing it suddenly",
+        "   - Also called stop consonants",
+        "   - Examples: /b/ as in bat, /p/ as in pat, /t/ as in tap, /d/ as in dad",
+        "",
+        "2. Plosive pairs for practice:",
+        "   - /b/ vs /p/: bat/pat, bin/pin, cab/cap",
+        "   - /t/ vs /d/: tap/dap, ten/den, bet/bed",
+        "   - /k/ vs /g/: cat/gat, kin/gin, back/bag",
+        "",
+        "3. Importance of distinguishing plosive sounds:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'bat' /bæt/ vs 'pat' /pæt/ - different meanings!",
+        "",
+        "4. Listening strategies for plosive sounds:",
+        "   - Focus on the speaker: listen carefully to consonant articulation",
+        "   - Listen for minimal pairs: words that differ only in plosive sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say bat or pat?'",
+        "",
+        "5. Speaking strategies for plosive sounds:",
+        "   - Practice consonant articulation: lips, tongue, vocal cords position",
+        "   - Use minimal pairs for practice: bat/pat, tap/dap, cat/gat",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on consonant clarity",
+        "",
+        "Nigerian Context:",
+        "• Common plosive challenges for Nigerian speakers:",
+        "  - Confusing /b/ and /p/: 'bat' vs 'pat'",
+        "  - Difficulty with /t/ and /d/: 'ten' vs 'den'",
+        "  - Influence of native language consonant systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Education': 'Students should study hard' (clear /t/ and /d/)",
+        "  - 'Health': 'Take your medicine' (clear /t/ and /d/)",
+        "  - 'Community': 'Build a better Nigeria' (clear /b/ and /g/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear plosive sounds in multilingual Nigerian classrooms",
+        "  - Importance of consonant clarity in public announcements",
+        "  - Practice with local words that have similar plosive sounds",
+        "",
+        "Practical Activities:",
+        "1. Plosive Sound Drill:",
+        "   - Teacher models plosive pairs with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: bat/pat, tap/dap, cat/gat",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different plosive sounds",
+        "   - Students raise hands for /b/, stand for /p/, etc.",
+        "   - Practice with Nigerian-relevant words: 'bat' (animal) vs 'pat' (touch)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target plosive sounds",
+        "   - Focus on clear consonant articulation",
+        "   - Peer feedback on consonant clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Plosive sounds don't matter in Nigerian English': Incorrect plosives can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct plosives': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear plosive pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• Plosive consonants are sounds made by blocking then releasing airflow",
+        "• Listening strategies help you distinguish between similar plosive sounds",
+        "• Speaking strategies help you pronounce plosives clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of plosive consonant pairs with example words",
+        "Diagram of mouth positions for each plosive sound",
+        "Sample minimal pairs practice: bat/pat, tap/dap, cat/gat",
+        "Listening strategy flowchart: Focus, Listen for consonant articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for plosive practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English plosive consonants pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Plosive consonants are:",
+          "opts": [
+            "Sounds made with free airflow",
+            "Sounds made by blocking then releasing airflow suddenly",
+            "Only vowel sounds",
+            "Only used in poetry"
+          ],
+          "ans": 1,
+          "explanation": "Plosive consonants are made by completely blocking airflow then releasing it suddenly."
+        },
+        {
+          "q": "The word 'bat' has the plosive sound:",
+          "opts": [
+            "/p/",
+            "/b/",
+            "/t/",
+            "/d/"
+          ],
+          "ans": 1,
+          "explanation": "'Bat' has the plosive sound /b/; 'pat' has /p/, 'tap' has /t/, 'dad' has /d/."
+        },
+        {
+          "q": "Correct plosive pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct plosive sounds prevent confusion between words like 'bat' and 'pat' which have different meanings."
+        },
+        {
+          "q": "When listening for plosive sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for consonant articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for consonant articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common plosive challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/b/ and /p/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /b/ (as in 'bat') and /p/ (as in 'pat')."
+        },
+        {
+          "q": "A good speaking strategy for plosives is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice consonant articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing consonant articulation with minimal pairs (bat/pat) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different plosive sounds?",
+          "opts": [
+            "bat/pat",
+            "bat/bat",
+            "pat/pat",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Bat' has /b/; 'pat' has /p/ - different plosive sounds change the word meaning."
+        },
+        {
+          "q": "Understanding plosive sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear plosive pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a plosive consonant?",
+          "opts": [
+            "/a:/",
+            "/b/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/b/ is a plosive consonant; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about plosives is:",
+          "opts": [
+            "Plosive sounds can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English plosive sounds are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w5_su2",
+      "title": "5.2 Structure: Adverbial Clauses - Types and Functions",
+      "notes": [
+        "Structure: Adverbial Clauses - Types and Functions",
+        "",
+        "Key Concepts:",
+        "1. What is an adverbial clause?",
+        "   - A dependent clause that functions as an adverb in a sentence",
+        "   - Modifies verbs, adjectives, or other adverbs",
+        "   - Tells how, when, where, why, or to what extent an action is done",
+        "   - Example: 'When the rain stopped, we went outside.'",
+        "",
+        "2. Types of adverbial clauses:",
+        "   a) Adverbial clause of time:",
+        "      - Tells when an action happens",
+        "      - Introduced by: when, while, before, after, since, until",
+        "      - Example: 'When the bell rings, we will leave.'",
+        "   b) Adverbial clause of reason:",
+        "      - Tells why an action happens",
+        "      - Introduced by: because, since, as",
+        "      - Example: 'We stayed inside because it was raining.'",
+        "   c) Adverbial clause of condition:",
+        "      - Tells under what condition an action happens",
+        "      - Introduced by: if, unless, provided that",
+        "      - Example: 'If you study hard, you will pass.'",
+        "   d) Adverbial clause of contrast:",
+        "      - Shows contrast or unexpected result",
+        "      - Introduced by: although, though, even though",
+        "      - Example: 'Although it was raining, we went out.'",
+        "",
+        "3. Functions of adverbial clauses in sentences:",
+        "   - Modify verbs: 'She left when the meeting ended.'",
+        "   - Modify adjectives: 'He is happy because he passed.'",
+        "   - Modify other adverbs: 'She runs faster than I do.'",
+        "   - Add detail and precision to communication",
+        "",
+        "4. Position of adverbial clauses in sentences:",
+        "   - Can appear at the beginning, middle, or end of a sentence",
+        "   - Example: 'When the rain stopped, we went outside.'",
+        "     'We went outside when the rain stopped.'",
+        "",
+        "5. Identifying adverbial clauses in passages:",
+        "   - Look for subordinating conjunctions: when, because, if, although",
+        "   - Ask: What action is being modified? What additional information is added?",
+        "   - Example passage:",
+        "     'If you study hard, you will succeed because knowledge is power.'",
+        "     Adverbial clauses: 'If you study hard' (condition), 'because knowledge is power' (reason)",
+        "",
+        "Nigerian Context:",
+        "• Common adverbial clauses in Nigerian English:",
+        "  - Time: 'When the market opens, we will buy food.'",
+        "  - Reason: 'We stayed home because of the rain.'",
+        "  - Condition: 'If we work together, Nigeria will progress.'",
+        "  - Contrast: 'Although it is difficult, we must try.'",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbial clauses to express complex ideas in Nigerian contexts",
+        "  - Adverbial clauses for value discussions: 'because respect is important', 'if we unite'",
+        "  - Adverbial clauses for national development: 'if we work hard', 'so that Nigeria can advance'",
+        "",
+        "Practical Activities:",
+        "1. Adverbial Clause Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all adverbial clauses in different colors by type",
+        "   - Class discusses findings and adverbial clause functions",
+        "",
+        "2. Clause Sorting Game:",
+        "   - Teacher writes adverbial clauses on cards",
+        "   - Students sort into types: time, reason, condition, contrast",
+        "   - Groups present their sorted clauses with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive main clause cards and adverbial clause cards",
+        "   - In groups, they create sentences using adverbial clauses correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All clauses are adverbial': Only clauses functioning as adverbs are adverbial clauses",
+        "• 'Adverbial clauses always come first': Adverbial clauses can appear in various positions",
+        "• 'Only one adverbial clause per sentence': Sentences can have multiple adverbial clauses",
+        "• 'Adverbial clauses are not important': Adverbial clauses add essential detail and precision to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbial clauses supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adverbial clauses is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbial clauses are dependent clauses that function as adverbs in sentences",
+        "• Types include time, reason, condition, and contrast adverbial clauses",
+        "• Functions include modifying verbs, adjectives, or other adverbs",
+        "• Mastery of adverbial clauses supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverbial clause types with Nigerian examples",
+        "Diagram showing adverbial clause positions in sentences",
+        "Sample passage with adverbial clauses highlighted by type",
+        "Adverbial clause sorting activity template",
+        "Nigerian context: Common adverbial clauses in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English grammar adverbial clauses types functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverbial clause is:",
+          "opts": [
+            "A group of words that functions as a noun",
+            "A dependent clause that functions as an adverb",
+            "Only a prepositional phrase",
+            "Only a relative clause"
+          ],
+          "ans": 1,
+          "explanation": "An adverbial clause is a dependent clause that functions as an adverb, modifying verbs, adjectives, or other adverbs."
+        },
+        {
+          "q": "Which is an adverbial clause of time?",
+          "opts": [
+            "because he was late",
+            "when the bell rang",
+            "if you study hard",
+            "although it was difficult"
+          ],
+          "ans": 1,
+          "explanation": "'When the bell rang' is an adverbial clause of time; 'because' is reason, 'if' is condition, 'although' is contrast."
+        },
+        {
+          "q": "In the sentence 'We stayed inside because it was raining', 'because it was raining' is an adverbial clause that modifies:",
+          "opts": [
+            "We",
+            "stayed",
+            "inside",
+            "the sentence"
+          ],
+          "ans": 1,
+          "explanation": "'Because it was raining' modifies the verb 'stayed' by telling why we stayed inside."
+        },
+        {
+          "q": "Which type of adverbial clause tells under what condition an action happens?",
+          "opts": [
+            "Time",
+            "Reason",
+            "Condition",
+            "Contrast"
+          ],
+          "ans": 2,
+          "explanation": "Adverbial clauses of condition tell under what condition an action happens (if, unless, provided that)."
+        },
+        {
+          "q": "In Nigerian context, which is an adverbial clause of reason?",
+          "opts": [
+            "when the market opens",
+            "because of the rain",
+            "if we work together",
+            "although it is difficult"
+          ],
+          "ans": 1,
+          "explanation": "'Because of the rain' is an adverbial clause of reason commonly used in Nigerian English to explain why actions happen."
+        },
+        {
+          "q": "Adverbial clauses can be placed:",
+          "opts": [
+            "Only after verbs",
+            "At the beginning, middle, or end of a sentence",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial clauses can come at the beginning, middle, or end of a sentence, depending on the context."
+        },
+        {
+          "q": "Which word can introduce an adverbial clause?",
+          "opts": [
+            "happiness",
+            "when",
+            "beautiful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'When' is a subordinating conjunction that can introduce an adverbial clause of time."
+        },
+        {
+          "q": "Understanding adverbial clauses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial clauses add detail and precision to communication, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverbial clause?",
+          "opts": [
+            "Time",
+            "Reason",
+            "Action",
+            "Condition"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverbial clause; time, reason, condition, and contrast are types of adverbial clauses."
+        },
+        {
+          "q": "A common misconception about adverbial clauses is:",
+          "opts": [
+            "Adverbial clauses modify verbs, adjectives, or other adverbs",
+            "Adverbial clauses always come first",
+            "Adverbial clauses can be different types",
+            "Adverbial clauses add precision to sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbial clauses do not always come first; they can appear at the beginning, middle, or end of a sentence."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w5_su3",
+      "title": "5.3 Reading: Reading for Meaning in Context",
+      "notes": [
+        "Reading: Reading for Meaning in Context",
+        "",
+        "Key Concepts:",
+        "1. What is reading for meaning in context?",
+        "   - Understanding words and phrases based on their surrounding text",
+        "   - Using context clues to determine meaning",
+        "   - Example: 'The arid land needed water' - 'arid' means dry based on context",
+        "",
+        "2. Types of context clues:",
+        "   a) Definition clues:",
+        "      - The text directly defines the word",
+        "      - Example: 'Photosynthesis, the process by which plants make food, is essential.'",
+        "   b) Synonym clues:",
+        "      - A similar word is used nearby",
+        "      - Example: 'He was happy, joyful, and content.'",
+        "   c) Antonym clues:",
+        "      - An opposite word is used for contrast",
+        "      - Example: 'Unlike his lazy brother, he was diligent.'",
+        "   d) Example clues:",
+        "      - Examples illustrate the word's meaning",
+        "      - Example: 'Citrus fruits, such as oranges and lemons, are rich in vitamin C.'",
+        "",
+        "3. How to use context clues:",
+        "   - Read the entire sentence or paragraph",
+        "   - Look for definition, synonym, antonym, or example clues",
+        "   - Ask: What word would make sense here?",
+        "   - Test your guess by substituting it in the sentence",
+        "",
+        "4. Strategies for reading for meaning in context:",
+        "   - Read the passage carefully to understand overall meaning",
+        "   - Identify unfamiliar words and look for context clues",
+        "   - Make logical guesses based on surrounding text",
+        "   - Verify your understanding with a dictionary if needed",
+        "",
+        "5. Why read for meaning in context?",
+        "   - Expands vocabulary without constant dictionary use",
+        "   - Improves reading comprehension and speed",
+        "   - Helps understand nuanced meanings of words",
+        "   - Essential for academic success and effective communication",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Importance of Agriculture in Nigeria'",
+        "  - Context clue example:",
+        "    * 'The arid regions of northern Nigeria need irrigation.'",
+        "    * 'Arid' means dry, based on context of needing irrigation",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how Nigerian writers use context to convey meaning",
+        "  - Recognizing cultural references that provide context clues",
+        "  - Appreciating how context helps understand local issues and terminology",
+        "",
+        "Practical Activities:",
+        "1. Context Clue Practice:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students work in pairs to identify unfamiliar words and context clues",
+        "   - Groups share their findings and discuss word meanings",
+        "",
+        "2. Word Substitution:",
+        "   - Teacher writes sentences with underlined target words",
+        "   - Students use context clues to guess meanings and suggest synonyms",
+        "   - Class discusses how context helps understand new vocabulary",
+        "",
+        "3. Passage Analysis:",
+        "   - Students read a passage on a Nigerian issue",
+        "   - Identify context clues for key vocabulary",
+        "   - Peer review for accuracy of word meaning identification",
+        "",
+        "Common Misconceptions:",
+        "• 'Context clues always give exact definitions': Context clues often suggest meaning, not exact definitions",
+        "• 'Only experts can use context clues': With practice, anyone can learn to use context clues effectively",
+        "• 'Context clues are only for difficult words': Context clues help understand all types of unfamiliar words",
+        "• 'Dictionary is always needed': Context clues often provide sufficient understanding without a dictionary",
+        "",
+        "Nigerian Context:",
+        "• Reading for meaning in context helps students understand Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Reading for meaning in context uses surrounding text to understand unfamiliar words",
+        "• Strategies include identifying definition, synonym, antonym, and example clues",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of context clue skills supports reading comprehension and vocabulary growth"
+      ],
+      "diagramDescriptions": [
+        "Chart of context clue types with examples",
+        "Flowchart for using context clues to determine meaning",
+        "Sample passage on agriculture with context clues highlighted",
+        "Nigerian context: Sample passage on Nigerian issues with context clue practice",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English reading context clues meaning site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading for meaning in context is:",
+          "opts": [
+            "Only memorizing word definitions",
+            "Understanding words based on their surrounding text",
+            "Only using a dictionary",
+            "Only reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Reading for meaning in context uses surrounding text to understand unfamiliar words, not just memorizing definitions."
+        },
+        {
+          "q": "A type of context clue is:",
+          "opts": [
+            "Only definition",
+            "Definition, synonym, antonym, or example",
+            "Only synonym",
+            "Only example"
+          ],
+          "ans": 1,
+          "explanation": "Context clues include definition, synonym, antonym, and example clues that help determine word meaning."
+        },
+        {
+          "q": "In the sentence 'The arid land needed water', 'arid' means:",
+          "opts": [
+            "Fertile",
+            "Dry",
+            "Wet",
+            "Rocky"
+          ],
+          "ans": 1,
+          "explanation": "'Arid' means dry, based on the context clue that the land 'needed water'."
+        },
+        {
+          "q": "To use context clues, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read the entire sentence or paragraph and look for clues",
+            "Ignore the context",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Reading the entire sentence or paragraph and looking for clues helps you understand word meaning in context."
+        },
+        {
+          "q": "In Nigerian context, a passage on agriculture might use context clues to explain:",
+          "opts": [
+            "Only foreign terms",
+            "Local farming terms like 'arid', 'irrigation', 'harvest'",
+            "Only scientific data",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian passages on agriculture often use context clues to explain local farming terms."
+        },
+        {
+          "q": "A common mistake in using context clues is:",
+          "opts": [
+            "Reading the entire sentence",
+            "Assuming context clues always give exact definitions",
+            "Looking for synonym clues",
+            "Testing your guess in the sentence"
+          ],
+          "ans": 1,
+          "explanation": "Assuming context clues always give exact definitions is a mistake; they often suggest meaning, not exact definitions."
+        },
+        {
+          "q": "Understanding context clues is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian texts and media",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Context clue skills help students understand Nigerian texts and media without constant dictionary use."
+        },
+        {
+          "q": "Which is NOT a type of context clue?",
+          "opts": [
+            "Definition",
+            "Synonym",
+            "Random guess",
+            "Example"
+          ],
+          "ans": 2,
+          "explanation": "'Random guess' is not a type of context clue; definition, synonym, antonym, and example are types of context clues."
+        },
+        {
+          "q": "A common misconception about context clues is:",
+          "opts": [
+            "Context clues help understand word meaning",
+            "Context clues always give exact definitions",
+            "Context clues require practice",
+            "Context clues support vocabulary growth"
+          ],
+          "ans": 1,
+          "explanation": "Context clues often suggest meaning, not exact definitions; they are helpful but not always precise."
+        },
+        {
+          "q": "When reading for meaning in context, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Read carefully and look for definition, synonym, antonym, or example clues",
+            "Only focus on difficult words",
+            "Skip unfamiliar words"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and looking for context clues helps you accurately understand word meaning."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t3_w5_su4",
+      "title": "5.4 Continuous Writing: Informal Letter - Features and Language",
+      "notes": [
+        "Continuous Writing: Informal Letter - Features and Language",
+        "",
+        "Key Concepts:",
+        "1. What is an informal letter?",
+        "   - A letter written to friends, family, or people you know well",
+        "   - Uses relaxed, friendly, and personal language",
+        "   - Example: A letter to your cousin about your school experiences",
+        "",
+        "2. Features of an informal letter:",
+        "   - Writer's address (top right corner)",
+        "   - Date (below address)",
+        "   - Salutation: Dear [Name],",
+        "   - Body: Introduction, main content, conclusion",
+        "   - Closing: Yours sincerely, Best regards, Love, etc.",
+        "   - Signature: First name or nickname",
+        "",
+        "3. Language and tone of informal letters:",
+        "   - Friendly and conversational",
+        "   - Can use contractions: I'm, you're, don't",
+        "   - Can use colloquial expressions and slang (appropriately)",
+        "   - Can share personal feelings and experiences",
+        "",
+        "4. Steps for writing an informal letter:",
+        "   - Step 1: Write your address and date",
+        "   - Step 2: Write the salutation",
+        "   - Step 3: Write the introduction (greeting, reason for writing)",
+        "   - Step 4: Write the body (main content, details, stories)",
+        "   - Step 5: Write the conclusion (closing remarks, questions)",
+        "   - Step 6: Write the closing and signature",
+        "",
+        "5. Tips for effective informal letters:",
+        "   - Be clear and organized",
+        "   - Use paragraphs for different topics",
+        "   - Include personal details and feelings",
+        "   - Ask questions to engage the reader",
+        "",
+        "Nigerian Context:",
+        "• Sample informal letter topics for Nigerian students:",
+        "  - 'A Letter to My Friend About My First Day at Secondary School'",
+        "  - 'A Letter to My Uncle Describing a Festival in My Village'",
+        "  - 'A Letter to My Sister About Preparing for WAEC Exams'",
+        "",
+        "• Cultural considerations:",
+        "  - Using culturally appropriate greetings and expressions",
+        "  - Including local references: markets, festivals, family events",
+        "  - Addressing elders with respect even in informal letters",
+        "",
+        "Practical Activities:",
+        "1. Format Practice:",
+        "   - Teacher displays a sample informal letter",
+        "   - Students identify and label each part: address, date, salutation, etc.",
+        "   - Students practice writing each part correctly",
+        "",
+        "2. Letter Writing:",
+        "   - Students choose a topic relevant to Nigerian life",
+        "   - Students write an informal letter following the correct format",
+        "   - Focus on friendly tone, personal details, and clear organization",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange letters with partners",
+        "   - Partners check for correct format, friendly tone, and clarity",
+        "   - Students revise their letters based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Informal letters don't need structure': Informal letters still need clear format and organization",
+        "• 'Informal means careless writing': Informal letters should be friendly but still clear and well-written",
+        "• 'Only friends receive informal letters': Informal letters can be written to family, close relatives, or mentors",
+        "• 'Informal letters can use any language': Even informal letters should use appropriate language and avoid offensive slang",
+        "",
+        "Nigerian Context:",
+        "• Writing informal letters supports clear, personal communication for Nigerian students",
+        "• Practice with local topics enhances relevance and retention",
+        "• Letter writing skills are foundational for academic success and real-life communication",
+        "",
+        "Conclusion:",
+        "• Informal letters are written to friends and family using friendly, personal language",
+        "• Features include address, date, salutation, body, closing, and signature",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of informal letter writing supports personal communication and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of informal letter format with labeled parts",
+        "Diagram of steps for writing an informal letter",
+        "Sample informal letter with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in informal letter writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing informal letter features language site:youtube.com",
+      "quiz": [
+        {
+          "q": "An informal letter is written to:",
+          "opts": [
+            "Only government officials",
+            "Friends, family, or people you know well",
+            "Only business partners",
+            "Only strangers"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters are written to friends, family, or people you know well, using friendly and personal language."
+        },
+        {
+          "q": "Which is a feature of an informal letter?",
+          "opts": [
+            "Only the body",
+            "Address, date, salutation, body, closing, signature",
+            "Only the salutation",
+            "Only the signature"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters include address, date, salutation, body, closing, and signature."
+        },
+        {
+          "q": "The salutation in an informal letter is usually:",
+          "opts": [
+            "Dear Sir/Madam",
+            "Dear [Name],",
+            "To Whom It May Concern",
+            "Attention:"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters use friendly salutations like 'Dear [Name],' rather than formal titles."
+        },
+        {
+          "q": "The language of an informal letter should be:",
+          "opts": [
+            "Only formal and stiff",
+            "Friendly, conversational, and personal",
+            "Only technical and complex",
+            "Only short and simple"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters use friendly, conversational, and personal language appropriate for the relationship."
+        },
+        {
+          "q": "The first step in writing an informal letter is to:",
+          "opts": [
+            "Write the body",
+            "Write your address and date",
+            "Write the closing",
+            "Write the salutation"
+          ],
+          "ans": 1,
+          "explanation": "The first step is to write your address and date at the top right corner."
+        },
+        {
+          "q": "In Nigerian context, an informal letter topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'A Letter to My Friend About My First Day at Secondary School'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Informal letter topics in Nigerian context often address personal experiences like school, festivals, or family events."
+        },
+        {
+          "q": "Understanding informal letter writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, personal communication for academic and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Informal letter writing skills help students communicate clearly and personally in academic and real-life situations."
+        },
+        {
+          "q": "Which is NOT a part of an informal letter?",
+          "opts": [
+            "Address",
+            "Date",
+            "Recipient's official title",
+            "Salutation"
+          ],
+          "ans": 2,
+          "explanation": "Informal letters do not require the recipient's official title; they use friendly salutations."
+        },
+        {
+          "q": "A common misconception about informal letters is:",
+          "opts": [
+            "Informal letters need clear format",
+            "Informal means careless writing",
+            "Informal letters can share personal feelings",
+            "Informal letters should be well-organized"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters should be friendly but still clear, well-written, and organized."
+        },
+        {
+          "q": "When writing an informal letter, you should:",
+          "opts": [
+            "Ignore the format",
+            "Use paragraphs for different topics and include personal details",
+            "Only write one long paragraph",
+            "Avoid asking questions"
+          ],
+          "ans": 1,
+          "explanation": "Using paragraphs and including personal details makes informal letters clear, engaging, and effective."
+        }
+      ]
+    }
+  ]
+}

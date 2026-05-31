@@ -1,0 +1,836 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Speech, Structure, Writing, Vocabulary",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w6_su1",
+      "title": "6.1 Speech: Syllabic Consonants /n/",
+      "notes": [
+        "Syllabic Consonant /n/:",
+        "• Definition: A consonant that functions as the nucleus of a syllable",
+        "• In English: /n/ can be syllabic in certain positions",
+        "• Examples: soften, sudden, ripen, certain, listen, garden",
+        "",
+        "Pronunciation Guide:",
+        "• /n/ in word-final position after consonants:",
+        "  - Tongue tip touches alveolar ridge",
+        "  - Air flows through the nose",
+        "  - No vowel sound between consonant and /n/",
+        "  - Practice: 'It is certain that the garden will ripen suddenly.'",
+        "",
+        "• Common Nigerian English Errors:",
+        "  - Inserting vowel sounds: 'sudden' → 'sud-den'",
+        "  - Omitting /n/: 'listen' → 'liste'",
+        "  - Substituting with other sounds: 'certain' → 'certai'",
+        "",
+        "Correction Strategies:",
+        "1. Isolate the syllabic /n/:",
+        "   • Practice /n/ without full words",
+        "   • Focus on tongue position and nasal airflow",
+        "",
+        "2. Use minimal pairs:",
+        "   • sudden/sud-den, certain/cer-tain",
+        "   • Highlight the difference in syllable count",
+        "",
+        "3. Practice in sentences:",
+        "   • 'It is certain that the garden will ripen.'",
+        "   • 'Listen to the sudden sound.'",
+        "",
+        "4. Record and compare:",
+        "   • Record own pronunciation",
+        "   • Compare with model pronunciation",
+        "   • Identify and correct differences",
+        "",
+        "Practical Activities:",
+        "1. Pronunciation Drill:",
+        "   • Teacher models syllabic /n/",
+        "   • Students repeat in chorus and individually",
+        "   • Focus on syllable count and tongue position",
+        "",
+        "2. Word Sorting:",
+        "   • Sort words with syllabic /n/ vs non-syllabic /n/",
+        "   • Create word lists for practice",
+        "   • Practice pronunciation of sorted words",
+        "",
+        "3. Sentence Construction:",
+        "   • Use syllabic /n/ words in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct pronunciation errors collaboratively",
+        "",
+        "Nigerian Context:",
+        "• Correct syllabic /n/ pronunciation improves clarity in academic and professional settings",
+        "• Practice with local examples enhances relevance and retention",
+        "• Awareness of common errors helps self-correction and peer support",
+        "",
+        "Conclusion:",
+        "• Syllabic /n/ requires precise articulation as a syllable nucleus",
+        "• Common Nigerian errors involve vowel insertion or /n/ omission",
+        "• Targeted practice with minimal pairs and sentences improves accuracy",
+        "• Clear pronunciation supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue position for syllabic /n/",
+        "Chart of words with syllabic /n/ vs non-syllabic /n/",
+        "Minimal pairs practice: sudden/sud-den, certain/cer-tain",
+        "Nigerian context: Common errors and correction strategies",
+        "Sample sentences with syllabic /n/ for practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English syllabic consonant /n/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A syllabic consonant is one that:",
+          "opts": [
+            "Cannot form a syllable",
+            "Functions as the nucleus of a syllable",
+            "Is always at the beginning of a word",
+            "Is always a vowel sound"
+          ],
+          "ans": 1,
+          "explanation": "A syllabic consonant functions as the nucleus of a syllable, like /n/ in 'sudden' or /l/ in 'little'."
+        },
+        {
+          "q": "In the word 'sudden', the /n/ is:",
+          "opts": [
+            "Non-syllabic",
+            "Syllabic",
+            "A vowel",
+            "Omitted in pronunciation"
+          ],
+          "ans": 1,
+          "explanation": "In 'sudden', the final /n/ is syllabic, forming the nucleus of the second syllable without a vowel."
+        },
+        {
+          "q": "A common Nigerian English error with syllabic /n/ is:",
+          "opts": [
+            "Pronouncing it correctly",
+            "Inserting a vowel sound",
+            "Omitting the consonant",
+            "Using it in all words"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian English speakers often insert vowel sounds in syllabic consonants, e.g., 'sudden' → 'sud-den'."
+        },
+        {
+          "q": "Which word contains a syllabic /n/?",
+          "opts": [
+            "listen",
+            "light",
+            "love",
+            "large"
+          ],
+          "ans": 0,
+          "explanation": "'Listen' contains a syllabic /n/ in the final position; 'light', 'love', and 'large' have non-syllabic consonants."
+        },
+        {
+          "q": "To pronounce syllabic /n/ correctly, the tongue should:",
+          "opts": [
+            "Touch the roof of the mouth",
+            "Touch the alveolar ridge with air flowing through the nose",
+            "Curl back in the mouth",
+            "Touch the lower teeth only"
+          ],
+          "ans": 1,
+          "explanation": "For syllabic /n/, the tongue tip touches the alveolar ridge, and air flows through the nose."
+        },
+        {
+          "q": "A minimal pair for practicing syllabic /n/ is:",
+          "opts": [
+            "light/night",
+            "sudden/sud-den",
+            "love/love",
+            "large/large"
+          ],
+          "ans": 1,
+          "explanation": "Minimal pairs like 'sudden/sud-den' help learners distinguish between syllabic /n/ and vowel-inserted pronunciation."
+        },
+        {
+          "q": "The word 'certain' has how many syllables?",
+          "opts": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "ans": 1,
+          "explanation": "'Certain' has two syllables: /ˈsɜː.tn/, with the final /n/ being syllabic."
+        },
+        {
+          "q": "Understanding syllabic consonants is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass pronunciation tests",
+            "Improves spoken English clarity and reduces accent barriers",
+            "Only for reading aloud",
+            "Only for listening comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct pronunciation of syllabic consonants enhances communication clarity in academic, professional, and international contexts."
+        },
+        {
+          "q": "Which sentence uses syllabic /n/ words correctly?",
+          "opts": [
+            "It is cer-tain that the gar-den will rip-en.",
+            "It is certain that the garden will ripen.",
+            "It is certain that the garden will ripe.",
+            "It is cer-tain that the garden will ripen."
+          ],
+          "ans": 1,
+          "explanation": "'It is certain that the garden will ripen' correctly pronounces syllabic /n/; other options contain vowel insertion errors."
+        },
+        {
+          "q": "A common misconception about syllabic consonants is:",
+          "opts": [
+            "They require precise tongue position",
+            "They can be pronounced with inserted vowels",
+            "Practice improves pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "Syllabic consonants should not have inserted vowels; they function as syllable nuclei without vowel sounds."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w6_su2",
+      "title": "6.2 Structure: Pronouns – Relative Pronouns",
+      "notes": [
+        "Pronouns: Relative Pronouns",
+        "• Definition: Relative pronouns introduce relative clauses that modify nouns",
+        "• Common Relative Pronouns: who, whom, whose, which, that",
+        "",
+        "Functions of Relative Pronouns:",
+        "• Who: Refers to people as subject",
+        "  - Example: 'The man who came yesterday is my uncle.'",
+        "  - Nigerian context: 'The teacher who taught us English is retiring.'",
+        "",
+        "• Whom: Refers to people as object",
+        "  - Example: 'The woman whom I met is a doctor.'",
+        "  - Nigerian context: 'The student whom the principal praised won a prize.'",
+        "",
+        "• Whose: Shows possession for people or things",
+        "  - Example: 'The boy whose book was lost is crying.'",
+        "  - Nigerian context: 'The farmer whose crops failed needs help.'",
+        "",
+        "• Which: Refers to animals or things",
+        "  - Example: 'The car which broke down is being repaired.'",
+        "  - Nigerian context: 'The school which won the competition is in Lagos.'",
+        "",
+        "• That: Refers to people, animals, or things (restrictive clauses)",
+        "  - Example: 'The book that I borrowed is interesting.'",
+        "  - Nigerian context: 'The market that sells fresh fish is near the river.'",
+        "",
+        "Position of Relative Pronouns:",
+        "• Placed immediately after the noun they modify",
+        "• Introduce clauses that provide additional information",
+        "• Can be omitted in informal English when they are objects",
+        "  - Example: 'The man (whom) I saw was tall.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Using 'who' for things",
+        "  - Incorrect: 'The book who I read was good.'",
+        "  - Correct: 'The book which/that I read was good.'",
+        "",
+        "• Error: Using 'which' for people",
+        "  - Incorrect: 'The girl which won the prize is my sister.'",
+        "  - Correct: 'The girl who won the prize is my sister.'",
+        "",
+        "• Error: Omitting necessary relative pronouns",
+        "  - Incorrect: 'The man I saw him was tall.'",
+        "  - Correct: 'The man whom I saw was tall.'",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'The school which I go there is far.'",
+        "  - Correction: 'The school which I go to is far.' or 'The school I go to is far.'",
+        "",
+        "Practical Activities:",
+        "1. Pronoun Identification:",
+        "   • Provide sentences for students to identify relative pronouns",
+        "   • Discuss the function of each pronoun in context",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using relative pronouns correctly",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on pronoun usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with relative pronoun errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'Who' can be used for things: 'Who' is only for people; 'which' or 'that' for things",
+        "• Relative pronouns are always necessary: They can be omitted in informal English when they are objects",
+        "• 'That' and 'which' are interchangeable: 'That' is for restrictive clauses; 'which' for non-restrictive",
+        "• Relative pronouns always start sentences: They usually follow the noun they modify",
+        "",
+        "Nigerian Context:",
+        "• Correct relative pronoun usage supports clear communication in academic writing and professional contexts",
+        "• Understanding pronoun functions helps students construct complex sentences accurately",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Relative pronouns introduce clauses that modify nouns",
+        "• Common relative pronouns include who, whom, whose, which, and that",
+        "• Correct usage depends on whether the pronoun refers to people or things, and its function in the clause",
+        "• Mastery improves sentence complexity, writing clarity, and grammatical accuracy"
+      ],
+      "diagramDescriptions": [
+        "Chart of relative pronouns with examples and functions",
+        "Flowchart for choosing the correct relative pronoun",
+        "Comparison of restrictive vs non-restrictive clauses",
+        "Nigerian context: Sample sentences with correct/incorrect relative pronoun usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar relative pronouns SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Relative pronouns are used to:",
+          "opts": [
+            "Replace nouns in sentences",
+            "Introduce clauses that modify nouns",
+            "Show possession only",
+            "Connect two independent clauses"
+          ],
+          "ans": 1,
+          "explanation": "Relative pronouns introduce relative clauses that provide additional information about a noun."
+        },
+        {
+          "q": "Which relative pronoun is used for people as the subject of a clause?",
+          "opts": [
+            "whom",
+            "who",
+            "which",
+            "that"
+          ],
+          "ans": 1,
+          "explanation": "'Who' is used for people when they are the subject of the relative clause."
+        },
+        {
+          "q": "In the sentence 'The book which I read was interesting', 'which' refers to:",
+          "opts": [
+            "a person",
+            "a thing",
+            "an animal",
+            "a place"
+          ],
+          "ans": 1,
+          "explanation": "'Which' is used for things or animals; in this sentence, it refers to 'book', which is a thing."
+        },
+        {
+          "q": "Which sentence uses a relative pronoun correctly?",
+          "opts": [
+            "The man who book was lost is crying.",
+            "The man whose book was lost is crying.",
+            "The man which book was lost is crying.",
+            "The man that book was lost is crying."
+          ],
+          "ans": 1,
+          "explanation": "'Whose' shows possession; 'The man whose book was lost' correctly indicates that the book belongs to the man."
+        },
+        {
+          "q": "In Nigerian context, which is a correct use of 'that'?",
+          "opts": [
+            "The school that I go there is far.",
+            "The school that I go to is far.",
+            "The school who I go to is far.",
+            "The school which I go there is far."
+          ],
+          "ans": 1,
+          "explanation": "'The school that I go to is far' correctly uses 'that' for a restrictive clause referring to a thing."
+        },
+        {
+          "q": "Relative pronouns can be omitted when:",
+          "opts": [
+            "They are subjects of the clause",
+            "They are objects of the clause in informal English",
+            "They refer to people",
+            "They start a sentence"
+          ],
+          "ans": 1,
+          "explanation": "In informal English, relative pronouns can be omitted when they function as objects of the clause."
+        },
+        {
+          "q": "Which is a common error with relative pronouns?",
+          "opts": [
+            "Using 'who' for people",
+            "Using 'which' for things",
+            "Using 'who' for things",
+            "Using 'that' for restrictive clauses"
+          ],
+          "ans": 2,
+          "explanation": "A common error is using 'who' for things; 'who' should only refer to people."
+        },
+        {
+          "q": "Understanding relative pronouns is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves sentence complexity and writing clarity in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of relative pronouns enables students to construct complex, clear sentences essential for academic and professional communication in Nigeria."
+        },
+        {
+          "q": "Which relative pronoun shows possession?",
+          "opts": [
+            "who",
+            "whom",
+            "whose",
+            "which"
+          ],
+          "ans": 2,
+          "explanation": "'Whose' is the possessive form of relative pronouns, used for both people and things."
+        },
+        {
+          "q": "A common misconception about relative pronouns is:",
+          "opts": [
+            "'Who' is only for people",
+            "'Which' is only for things",
+            "Relative pronouns are always necessary",
+            "'That' can be used for restrictive clauses"
+          ],
+          "ans": 2,
+          "explanation": "Relative pronouns can be omitted in informal English when they function as objects; they are not always necessary."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w6_su3",
+      "title": "6.3 Writing: Letter Writing – Informal Letter",
+      "notes": [
+        "Writing: Informal Letter",
+        "• Definition: An informal letter is a personal letter written to friends, family, or acquaintances",
+        "• Purpose: To share news, express feelings, make requests, or maintain relationships",
+        "",
+        "Features of an Informal Letter:",
+        "1. Sender's address and date:",
+        "   • Placed at the top right corner",
+        "   • Example: '12, Adeola Street, Lagos. 15th October, 2024.'",
+        "   • Nigerian context: Include local address format",
+        "",
+        "2. Salutation:",
+        "   • Informal greetings: 'Dear Tunde,', 'Hello Aisha,', 'Hi Mama,',",
+        "   • Followed by a comma",
+        "   • Nigerian context: Use culturally appropriate terms like 'Dear Uncle,', 'Dear Sister,'",
+        "",
+        "3. Introduction:",
+        "   • Brief opening: 'I hope this letter meets you well.'",
+        "   • State the purpose of the letter",
+        "   • Example: 'I am writing to tell you about my new school.'",
+        "",
+        "4. Body:",
+        "   • Develop the main message in paragraphs",
+        "   • Use informal, conversational language",
+        "   • Include personal anecdotes, feelings, and details",
+        "   • Nigerian context: Reference local events, culture, or shared experiences",
+        "",
+        "5. Conclusion:",
+        "   • Summarize or express hope for a response",
+        "   • Example: 'I look forward to hearing from you soon.'",
+        "",
+        "6. Closing (Subscription):",
+        "   • Informal closings: 'Yours sincerely,', 'Best regards,', 'Love,',",
+        "   • Followed by sender's first name or nickname",
+        "   • Nigerian context: Use culturally appropriate closings like 'Yours faithfully,', 'With love,'",
+        "",
+        "Language and Tone of Informal Letters:",
+        "• Informal, conversational style",
+        "• Use of contractions: 'I'm', 'don't', 'can't'",
+        "• Personal pronouns: 'I', 'you', 'we'",
+        "• Colloquial expressions and slang (if appropriate)",
+        "• Nigerian context: Incorporate local expressions, proverbs, or pidgin English if suitable",
+        "",
+        "Sample Informal Letter Topics:",
+        "• Writing to a friend about your first day at a new school",
+        "• Telling a relative about a family event or celebration",
+        "• Requesting advice from an elder or mentor",
+        "• Sharing news about academic achievements or challenges",
+        "• Nigerian context: Letters about local festivals, family gatherings, or community events",
+        "",
+        "Practical Activities:",
+        "1. Letter Analysis:",
+        "   • Read sample informal letters",
+        "   • Identify features: address, salutation, body, closing",
+        "   • Discuss language, tone, and structure",
+        "",
+        "2. Letter Writing Practice:",
+        "   • Choose a topic and plan the letter",
+        "   • Draft introduction, body, and conclusion",
+        "   • Focus on informal tone and personal voice",
+        "",
+        "3. Peer Review:",
+        "   • Exchange letters with classmates",
+        "   • Evaluate for completeness, tone, and correctness",
+        "   • Provide constructive feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Informal letters don't need structure': They still require clear organization and proper format",
+        "• 'Informal language means careless writing': Informal letters should still be clear, coherent, and grammatically correct",
+        "• 'All informal letters are the same': Tone and content vary based on relationship and purpose",
+        "• 'Informal letters can't be serious': They can address serious topics in a personal, conversational way",
+        "",
+        "Nigerian Context:",
+        "• Informal letter writing supports personal communication in Nigerian society",
+        "• Understanding format and tone helps students maintain relationships across distances",
+        "• Practice with local examples enhances relevance and cultural appropriateness",
+        "",
+        "Conclusion:",
+        "• Informal letters are personal communications with specific format and tone",
+        "• Key features include sender's address, salutation, body, and closing",
+        "• Informal language and conversational style enhance personal connection",
+        "• In Nigeria, informal letter writing supports family ties, friendship, and community communication"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of an informal letter: address, salutation, body, closing",
+        "Chart of informal letter language features: contractions, personal pronouns, colloquialisms",
+        "Sample informal letter with Nigerian context highlighted",
+        "Comparison of formal vs informal letter features",
+        "Nigerian context: Sample topics for informal letters"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing informal letter SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "An informal letter is primarily written to:",
+          "opts": [
+            "Government officials",
+            "Friends, family, or acquaintances",
+            "Business partners",
+            "Academic institutions"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters are personal communications written to friends, family, or acquaintances, not formal or official recipients."
+        },
+        {
+          "q": "The salutation in an informal letter might be:",
+          "opts": [
+            "Dear Sir/Madam,",
+            "To Whom It May Concern,",
+            "Dear Tunde,",
+            "Attention: The Manager,"
+          ],
+          "ans": 2,
+          "explanation": "Informal letters use personal salutations like 'Dear Tunde,'; formal letters use 'Dear Sir/Madam,' or similar."
+        },
+        {
+          "q": "The body of an informal letter should use:",
+          "opts": [
+            "Formal, technical language",
+            "Informal, conversational language",
+            "Only short sentences",
+            "No personal pronouns"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters use conversational, personal language to maintain a friendly, personal tone."
+        },
+        {
+          "q": "Which closing is appropriate for an informal letter?",
+          "opts": [
+            "Yours faithfully,",
+            "Respectfully,",
+            "Best regards,",
+            "Sincerely yours,"
+          ],
+          "ans": 2,
+          "explanation": "'Best regards,' is an informal closing; 'Yours faithfully,' and 'Respectfully,' are more formal."
+        },
+        {
+          "q": "In Nigerian context, an informal letter might include:",
+          "opts": [
+            "Only standard English expressions",
+            "Local proverbs, expressions, or cultural references",
+            "Only formal greetings",
+            "No personal anecdotes"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters in Nigerian context can include local proverbs, expressions, or cultural references to enhance personal connection."
+        },
+        {
+          "q": "The sender's address in an informal letter is placed:",
+          "opts": [
+            "At the bottom left",
+            "At the top right",
+            "In the middle",
+            "After the salutation"
+          ],
+          "ans": 1,
+          "explanation": "The sender's address and date are typically placed at the top right corner of an informal letter."
+        },
+        {
+          "q": "A common feature of informal letters is the use of:",
+          "opts": [
+            "Passive voice",
+            "Contractions like 'I'm', 'don't'",
+            "Complex sentences only",
+            "No punctuation"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters often use contractions to create a conversational, relaxed tone."
+        },
+        {
+          "q": "Understanding informal letter writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports personal communication, relationship maintenance, and cultural expression",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Informal letter writing skills support personal communication, family ties, and cultural expression in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a feature of an informal letter?",
+          "opts": [
+            "Personal tone",
+            "Formal salutation",
+            "Conversational language",
+            "Personal anecdotes"
+          ],
+          "ans": 1,
+          "explanation": "Formal salutations like 'Dear Sir/Madam' are features of formal letters, not informal ones."
+        },
+        {
+          "q": "A common misconception about informal letters is:",
+          "opts": [
+            "They require clear organization",
+            "Informal language means careless writing",
+            "They can address serious topics",
+            "They use personal pronouns"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters should still be clear, coherent, and grammatically correct; informal language does not mean careless writing."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w6_su4",
+      "title": "6.4 Vocabulary Development: Words Associated with Animal Husbandry",
+      "notes": [
+        "Vocabulary Development: Animal Husbandry",
+        "• Definition: Animal husbandry is the branch of agriculture concerned with the care and breeding of domestic animals",
+        "• Importance: Provides food, income, employment, and raw materials",
+        "",
+        "Types of Animal Husbandry:",
+        "1. Poultry Farming:",
+        "   • Animals: Chickens, ducks, turkeys, guinea fowl",
+        "   • Products: Eggs, meat, feathers",
+        "   • Nigerian context: Major source of protein and income in rural and urban areas",
+        "",
+        "2. Cattle Rearing:",
+        "   • Animals: Cows, bulls, calves",
+        "   • Products: Milk, meat, leather, manure",
+        "   • Nigerian context: Important in Northern Nigeria; Fulani herders practice transhumance",
+        "",
+        "3. Sheep and Goat Rearing:",
+        "   • Animals: Sheep, goats, rams",
+        "   • Products: Meat, milk, wool, skin",
+        "   • Nigerian context: Common in both rural and urban settings; used for ceremonies and food",
+        "",
+        "4. Pig Farming:",
+        "   • Animals: Pigs, boars, piglets",
+        "   • Products: Meat (pork), skin, manure",
+        "   • Nigerian context: Growing industry in Southern Nigeria; cultural considerations in some regions",
+        "",
+        "5. Fish Farming (Aquaculture):",
+        "   • Animals: Catfish, tilapia, carp",
+        "   • Products: Fish for food, ornamental fish",
+        "   • Nigerian context: Important for protein supply; practiced in ponds, tanks, and cages",
+        "",
+        "Key Vocabulary in Animal Husbandry:",
+        "• General Terms:",
+        "  - Livestock: Domesticated animals raised for products",
+        "  - Herd: Group of cattle, sheep, or goats",
+        "  - Flock: Group of birds (chickens, ducks)",
+        "  - Pen: Enclosure for animals",
+        "  - Feed: Food given to animals",
+        "  - Vaccination: Administration of vaccines to prevent disease",
+        "",
+        "• Poultry Terms:",
+        "  - Broiler: Chicken raised for meat",
+        "  - Layer: Chicken raised for eggs",
+        "  - Incubator: Device for hatching eggs",
+        "  - Coop: Enclosure for chickens",
+        "  - Nigerian context: 'Point-of-lay' birds are young hens ready to start laying eggs",
+        "",
+        "• Cattle Terms:",
+        "  - Calving: Giving birth to a calf",
+        "  - Milking: Extracting milk from cows",
+        "  - Grazing: Feeding on grass in open fields",
+        "  - Ranch: Large farm for raising cattle",
+        "  - Nigerian context: 'Transhumance' is the seasonal movement of herds in search of pasture",
+        "",
+        "• Health and Management Terms:",
+        "  - Veterinary: Relating to animal health care",
+        "  - Deworming: Removing parasitic worms from animals",
+        "  - Quarantine: Isolating animals to prevent disease spread",
+        "  - Breeding: Controlled mating to produce desired traits",
+        "  - Nigerian context: 'Extension services' provide farmers with technical advice on animal care",
+        "",
+        "Using Animal Husbandry Vocabulary in Sentences:",
+        "• 'The farmer vaccinated his flock against Newcastle disease.'",
+        "• 'Transhumance allows Fulani herders to find fresh pasture for their cattle.'",
+        "• 'Broilers are ready for market in six to eight weeks.'",
+        "• 'Deworming improves the health and productivity of livestock.'",
+        "",
+        "Practical Activities:",
+        "1. Vocabulary Building:",
+        "   • List animals and products in different types of animal husbandry",
+        "   • Identify farming activities for each type",
+        "   • Create sentences using new animal husbandry words",
+        "",
+        "2. Field Observation:",
+        "   • Visit a local poultry farm, cattle ranch, or fish pond",
+        "   • Observe and name equipment, activities, and products",
+        "   • Record observations and discuss with classmates",
+        "",
+        "3. Sentence Construction:",
+        "   • Use animal husbandry vocabulary in meaningful sentences",
+        "   • Share sentences for peer feedback",
+        "   • Correct errors in word usage and grammar",
+        "",
+        "Common Misconceptions:",
+        "• 'Animal husbandry only means raising cows': It includes poultry, fish, sheep, goats, pigs, and more",
+        "• 'All animal products are the same': Different animals provide different products (milk, eggs, meat, wool)",
+        "• 'Animal husbandry is only for rural areas': It is practiced in urban and peri-urban settings too",
+        "• 'Traditional methods are always outdated': Many traditional practices are sustainable and can be improved with modern knowledge",
+        "",
+        "Nigerian Context:",
+        "• Animal husbandry is a major source of protein, income, and employment in Nigeria",
+        "• Understanding vocabulary supports communication in farming, veterinary services, and agribusiness",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Animal husbandry vocabulary supports effective communication in agriculture and related fields",
+        "• Key terms cover types of animals, products, health management, and farming practices",
+        "• Nigerian context enriches learning with local examples and cultural relevance",
+        "• Mastery of this vocabulary supports academic success and practical application in Nigerian agriculture"
+      ],
+      "diagramDescriptions": [
+        "Chart of animal husbandry types: poultry, cattle, sheep/goats, pigs, fish",
+        "Illustration of poultry farming terms: broiler, layer, incubator, coop",
+        "Diagram of cattle rearing terms: calving, milking, grazing, ranch",
+        "Nigerian context: Transhumance, extension services, local farming practices",
+        "Sample sentences using animal husbandry vocabulary"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary animal husbandry farming SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Animal husbandry primarily involves:",
+          "opts": [
+            "Growing crops",
+            "Caring for and breeding domestic animals",
+            "Fishing in oceans",
+            "Hunting wild animals"
+          ],
+          "ans": 1,
+          "explanation": "Animal husbandry is the branch of agriculture focused on the care, breeding, and management of domestic animals."
+        },
+        {
+          "q": "A 'broiler' in poultry farming is a chicken raised for:",
+          "opts": [
+            "Eggs",
+            "Meat",
+            "Feathers",
+            "Manure"
+          ],
+          "ans": 1,
+          "explanation": "Broilers are chickens specifically bred and raised for meat production."
+        },
+        {
+          "q": "In Nigerian context, 'transhumance' refers to:",
+          "opts": [
+            "Building fences for animals",
+            "Seasonal movement of herds in search of pasture",
+            "Vaccinating animals against disease",
+            "Selling animal products in markets"
+          ],
+          "ans": 1,
+          "explanation": "Transhumance is the seasonal migration of herders and their livestock to find fresh pasture and water, common among Fulani herders in Nigeria."
+        },
+        {
+          "q": "Which term refers to a group of chickens?",
+          "opts": [
+            "Herd",
+            "Flock",
+            "Pack",
+            "School"
+          ],
+          "ans": 1,
+          "explanation": "A 'flock' is the term for a group of birds, including chickens."
+        },
+        {
+          "q": "Deworming in animal husbandry is important because it:",
+          "opts": [
+            "Increases feed costs",
+            "Removes parasitic worms to improve animal health",
+            "Makes animals grow slower",
+            "Reduces the need for vaccination"
+          ],
+          "ans": 1,
+          "explanation": "Deworming removes internal parasites that can reduce animal health, growth, and productivity."
+        },
+        {
+          "q": "A 'layer' in poultry farming is a chicken raised for:",
+          "opts": [
+            "Meat",
+            "Eggs",
+            "Feathers",
+            "Manure"
+          ],
+          "ans": 1,
+          "explanation": "Layers are chickens specifically bred and managed for egg production."
+        },
+        {
+          "q": "In Nigerian animal husbandry, 'extension services' refer to:",
+          "opts": [
+            "Selling animals in markets",
+            "Providing farmers with technical advice and support",
+            "Building fences for animals",
+            "Importing animal breeds from other countries"
+          ],
+          "ans": 1,
+          "explanation": "Extension services provide farmers with education, training, and technical support to improve animal husbandry practices."
+        },
+        {
+          "q": "Understanding animal husbandry vocabulary is important for Nigerian students because it:",
+          "opts": [
+            "Only helps name animals",
+            "Supports communication in farming, veterinary services, and agribusiness",
+            "Only for academic purposes",
+            "Only for reading textbooks"
+          ],
+          "ans": 1,
+          "explanation": "Animal husbandry vocabulary supports effective communication in agriculture, veterinary care, and related industries in Nigeria."
+        },
+        {
+          "q": "Which is a product of cattle rearing?",
+          "opts": [
+            "Eggs",
+            "Milk",
+            "Feathers",
+            "Honey"
+          ],
+          "ans": 1,
+          "explanation": "Cattle provide milk, meat, leather, and manure; eggs come from poultry, feathers from birds, and honey from bees."
+        },
+        {
+          "q": "A common misconception about animal husbandry is:",
+          "opts": [
+            "It includes poultry, fish, and livestock",
+            "Animal husbandry only means raising cows",
+            "Different animals provide different products",
+            "Traditional methods can be improved with modern knowledge"
+          ],
+          "ans": 1,
+          "explanation": "Animal husbandry encompasses various domestic animals, not just cows; it includes poultry, fish, sheep, goats, and more."
+        }
+      ]
+    }
+  ]
+}

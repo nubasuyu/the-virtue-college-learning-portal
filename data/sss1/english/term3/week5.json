@@ -1,0 +1,1085 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 5,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w5_su1",
+      "title": "5.1 Speech: Simple Polite Requests and Simple Greetings",
+      "notes": [
+        "Speech: Simple Polite Requests and Simple Greetings",
+        "• Definition: Polite requests and greetings are essential social language skills for effective communication",
+        "• Importance: Build rapport, show respect, and facilitate smooth interactions in academic, professional, and social settings",
+        "",
+        "Simple Polite Requests:",
+        "• Definition: Asking for something in a courteous, respectful manner",
+        "• Common Phrases:",
+        "  a) 'May I...?' - 'May I borrow your pen?'",
+        "  b) 'Could you...?' - 'Could you help me with this?'",
+        "  c) 'Would you mind...?' - 'Would you mind closing the window?'",
+        "  d) 'Please' - 'Please pass the salt.'",
+        "  e) 'Excuse me' - 'Excuse me, could you repeat that?'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'May I enter the classroom, sir?'",
+        "  - 'Could you please explain this again?'",
+        "  - 'Would you mind sharing your notes?'",
+        "  - 'Please, can I use your phone?'",
+        "",
+        "• Levels of Politeness:",
+        "  - Direct: 'Pass the book.' (less polite)",
+        "  - Polite: 'Please pass the book.'",
+        "  - Very polite: 'Could you please pass the book?'",
+        "  - Nigerian context: Adjust politeness based on relationship (elder, peer, junior)",
+        "",
+        "Simple Greetings:",
+        "• Definition: Words or phrases used to acknowledge someone's presence or begin a conversation",
+        "• Common Greetings:",
+        "  a) Time-based: 'Good morning', 'Good afternoon', 'Good evening'",
+        "  b) General: 'Hello', 'Hi', 'How are you?'",
+        "  c) Formal: 'Good day, sir/ma', 'How do you do?'",
+        "  d) Informal: 'Hey', 'What's up?'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'Good morning, Mr. Ade.' (formal, to teacher)",
+        "  - 'Hello, how are you?' (general, to peer)",
+        "  - 'Good evening, ma.' (formal, to elder)",
+        "  - 'Hey, what's up?' (informal, to friend)",
+        "",
+        "• Cultural Considerations:",
+        "  - Respect for elders: Use formal greetings and titles",
+        "  - Gender sensitivity: 'Sir' for males, 'Ma' for females",
+        "  - Religious greetings: 'Assalamu alaikum', 'God bless you'",
+        "",
+        "Practical Activities:",
+        "1. Role-Play Practice:",
+        "   • Students practice polite requests in pairs",
+        "   • Focus on tone, body language, and appropriate phrases",
+        "   • Teacher provides feedback on politeness and clarity",
+        "",
+        "2. Greeting Drills:",
+        "   • Practice greetings for different times of day and contexts",
+        "   • Role-play greetings with elders, peers, and juniors",
+        "   • Discuss cultural variations in greetings",
+        "",
+        "3. Scenario-Based Exercises:",
+        "   • Provide scenarios (e.g., asking for help, meeting a new person)",
+        "   • Students formulate appropriate polite requests or greetings",
+        "   • Peer feedback on appropriateness and effectiveness",
+        "",
+        "Common Nigerian English Errors:",
+        "• Overly direct requests:",
+        "  - 'Give me that book.' (impolite)",
+        "  - Correction: 'Could you please give me that book?'",
+        "",
+        "• Inappropriate greetings:",
+        "  - Using informal greetings with elders or in formal settings",
+        "  - Correction: Adjust greeting based on context and relationship",
+        "",
+        "• Missing please/thank you:",
+        "  - 'I need your help.'",
+        "  - Correction: 'Could you please help me? Thank you.'",
+        "",
+        "Nigerian Context:",
+        "• Polite requests and greetings reflect cultural values of respect and hospitality",
+        "• Mastery supports effective communication in diverse Nigerian settings",
+        "• Practice with local examples enhances relevance and retention",
+        "",
+        "Conclusion:",
+        "• Simple polite requests and greetings are fundamental social language skills",
+        "• They build rapport, show respect, and facilitate smooth interactions",
+        "• Cultural context determines appropriate levels of formality and phrasing",
+        "• Mastery supports effective communication in Nigerian academic, professional, and social settings"
+      ],
+      "diagramDescriptions": [
+        "Chart of polite request phrases with examples and Nigerian context",
+        "Flowchart for choosing appropriate greetings based on context",
+        "Sample dialogues showing polite requests and greetings in Nigerian settings",
+        "Cultural considerations: Respect for elders, gender sensitivity, religious greetings",
+        "Role-play scenario cards for practice exercises"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English polite requests greetings SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A polite request is one that:",
+          "opts": [
+            "Demands something directly",
+            "Asks for something in a courteous, respectful manner",
+            "Uses only formal language",
+            "Avoids the word 'please'"
+          ],
+          "ans": 1,
+          "explanation": "A polite request asks for something courteously and respectfully, often using phrases like 'Could you' or 'Please'."
+        },
+        {
+          "q": "Which is a polite way to ask for help?",
+          "opts": [
+            "Help me now.",
+            "Could you please help me?",
+            "I need your help.",
+            "You must help me."
+          ],
+          "ans": 1,
+          "explanation": "'Could you please help me?' is polite; it uses a courteous phrase and the word 'please'."
+        },
+        {
+          "q": "In Nigerian context, which greeting is appropriate for an elder?",
+          "opts": [
+            "Hey, what's up?",
+            "Good morning, sir/ma.",
+            "Hi there!",
+            "Yo!"
+          ],
+          "ans": 1,
+          "explanation": "'Good morning, sir/ma' is a formal, respectful greeting appropriate for elders in Nigerian culture."
+        },
+        {
+          "q": "Which phrase is LEAST polite?",
+          "opts": [
+            "May I borrow your pen?",
+            "Could you pass the salt?",
+            "Give me that book.",
+            "Would you mind helping me?"
+          ],
+          "ans": 2,
+          "explanation": "'Give me that book' is a direct command without polite modifiers; the others use courteous phrases."
+        },
+        {
+          "q": "In Nigerian culture, greetings often reflect:",
+          "opts": [
+            "Only the time of day",
+            "Respect for age, gender, and social status",
+            "Only religious beliefs",
+            "Only personal preferences"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian greetings often reflect cultural values of respect for age, gender, and social status."
+        },
+        {
+          "q": "Which is a time-based greeting?",
+          "opts": [
+            "Hello",
+            "Good afternoon",
+            "How are you?",
+            "Hey"
+          ],
+          "ans": 1,
+          "explanation": "'Good afternoon' is a time-based greeting; 'Hello', 'How are you?', and 'Hey' are general greetings."
+        },
+        {
+          "q": "A common error in polite requests is:",
+          "opts": [
+            "Using 'please' and 'thank you'",
+            "Being overly direct without polite modifiers",
+            "Adjusting politeness based on context",
+            "Using appropriate titles"
+          ],
+          "ans": 1,
+          "explanation": "Being overly direct without polite modifiers (e.g., 'Give me that') is impolite; polite requests use courteous phrases."
+        },
+        {
+          "q": "Understanding polite requests and greetings is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass speaking tests",
+            "Supports effective communication and cultural respect in diverse settings",
+            "Only for formal occasions",
+            "Only for written communication"
+          ],
+          "ans": 1,
+          "explanation": "Polite requests and greetings support effective communication and reflect cultural values of respect in Nigerian academic, professional, and social settings."
+        },
+        {
+          "q": "Which greeting is appropriate for a peer in an informal setting?",
+          "opts": [
+            "Good day, sir.",
+            "Hello, how are you?",
+            "Good evening, ma.",
+            "How do you do?"
+          ],
+          "ans": 1,
+          "explanation": "'Hello, how are you?' is appropriate for peers in informal settings; the others are more formal."
+        },
+        {
+          "q": "A common misconception about polite requests is:",
+          "opts": [
+            "They build rapport and show respect",
+            "They are only necessary in formal settings",
+            "They facilitate smooth interactions",
+            "They reflect cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Polite requests are important in all settings, not just formal ones; they build rapport and show respect in everyday interactions."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w5_su2",
+      "title": "5.2 Vocabulary: Antonyms of Words",
+      "notes": [
+        "Vocabulary Development: Antonyms",
+        "• Definition: Antonyms are words that have opposite or nearly opposite meanings",
+        "• Importance: Expands vocabulary, improves precision in expression, and enhances understanding of word relationships",
+        "",
+        "Types of Antonyms:",
+        "1. Gradable Antonyms:",
+        "   • Opposites on a spectrum with intermediate values",
+        "   • Example: hot/cold (with warm, cool in between)",
+        "   • Nigerian context: rich/poor (with middle-class in between)",
+        "",
+        "2. Complementary Antonyms:",
+        "   • Binary opposites with no middle ground",
+        "   • Example: alive/dead, on/off",
+        "   • Nigerian context: pass/fail (in exams)",
+        "",
+        "3. Relational Antonyms:",
+        "   • Opposites that define a relationship",
+        "   • Example: teacher/student, buy/sell",
+        "   • Nigerian context: employer/employee, buyer/seller",
+        "",
+        "Common Antonym Pairs with Examples:",
+        "• Good/Bad:",
+        "  - 'She is a good student.' / 'He made a bad decision.'",
+        "  - Nigerian context: 'Good governance' vs 'bad leadership'",
+        "",
+        "• Happy/Sad:",
+        "  - 'The children were happy.' / 'She felt sad after the loss.'",
+        "  - Nigerian context: 'Happy celebrations' vs 'sad news'",
+        "",
+        "• Big/Small:",
+        "  - 'The big house' / 'A small room'",
+        "  - Nigerian context: 'Big market' vs 'small shop'",
+        "",
+        "• Fast/Slow:",
+        "  - 'The fast car' / 'A slow journey'",
+        "  - Nigerian context: 'Fast internet' vs 'slow network'",
+        "",
+        "• Ancient/Modern:",
+        "  - 'Ancient traditions' / 'Modern technology'",
+        "  - Nigerian context: 'Ancient Benin art' vs 'modern Lagos architecture'",
+        "",
+        "Using Antonyms in Writing:",
+        "• To show contrast:",
+        "  - 'While some students are diligent, others are lazy.'",
+        "  - Nigerian context: 'While some leaders are honest, others are corrupt.'",
+        "",
+        "• To clarify meaning:",
+        "  - 'The room was not big; it was small.'",
+        "  - Nigerian context: 'The policy was not effective; it was counterproductive.'",
+        "",
+        "• To create balance in arguments:",
+        "  - 'The benefits are many, but the drawbacks are few.'",
+        "  - Nigerian context: 'The advantages of urbanization are clear, but the challenges are significant.'",
+        "",
+        "Practical Activities:",
+        "1. Antonym Building:",
+        "   • Provide base words for students to list antonyms",
+        "   • Discuss types of antonyms and their usage",
+        "   • Create sentences using antonym pairs",
+        "",
+        "2. Contextual Usage:",
+        "   • Provide sentences with blanks for antonym selection",
+        "   • Students choose the appropriate antonym for context",
+        "   • Discuss why certain antonyms fit better",
+        "",
+        "3. Writing Practice:",
+        "   • Students write paragraphs using antonym pairs to show contrast",
+        "   • Peer review for clarity and effectiveness",
+        "   • Teacher feedback on antonym choice",
+        "",
+        "Common Misconceptions:",
+        "• 'All words have direct antonyms': Some words lack clear opposites or have multiple antonyms depending on context",
+        "• 'Antonyms are always single words': Some antonyms are phrases (e.g., 'give up' vs 'persist')",
+        "• 'Antonyms are only for creative writing': They are useful in all types of writing and speaking",
+        "• 'Antonyms are interchangeable with synonyms': Antonyms express opposites; synonyms express similarities",
+        "",
+        "Nigerian Context:",
+        "• Understanding antonyms supports precise, varied communication in Nigerian English",
+        "• Local examples enhance relevance and cultural expression",
+        "• Practice with Nigerian contexts builds vocabulary for academic and professional success",
+        "",
+        "Conclusion:",
+        "• Antonyms are words with opposite meanings that expand vocabulary",
+        "• They help show contrast, clarify meaning, and create balance in arguments",
+        "• Context determines the appropriate antonym choice",
+        "• Mastery of antonyms supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Chart of antonym types: gradable, complementary, relational with examples",
+        "Comparison of antonym pairs with usage notes and Nigerian examples",
+        "Flowchart for choosing the right antonym based on context",
+        "Nigerian context: Sample sentences showing antonym usage in local contexts",
+        "Writing practice exercise: using antonyms to show contrast"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary antonyms SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Antonyms are words that:",
+          "opts": [
+            "Have the same meaning",
+            "Have opposite or nearly opposite meanings",
+            "Sound the same but have different meanings",
+            "Are spelled the same but have different meanings"
+          ],
+          "ans": 1,
+          "explanation": "Antonyms are words with opposite or nearly opposite meanings, used to show contrast and clarify meaning."
+        },
+        {
+          "q": "Which pair are antonyms?",
+          "opts": [
+            "happy/glad",
+            "big/small",
+            "quick/fast",
+            "famous/well-known"
+          ],
+          "ans": 1,
+          "explanation": "'Big' and 'small' are antonyms; the other pairs are synonyms (similar meanings)."
+        },
+        {
+          "q": "In the sentence 'The room was not big; it was small', 'big' and 'small' are:",
+          "opts": [
+            "Synonyms",
+            "Antonyms",
+            "Homophones",
+            "Homographs"
+          ],
+          "ans": 1,
+          "explanation": "'Big' and 'small' are antonyms; they have opposite meanings."
+        },
+        {
+          "q": "Which antonym pair shows a gradable relationship?",
+          "opts": [
+            "alive/dead",
+            "hot/cold",
+            "teacher/student",
+            "buy/sell"
+          ],
+          "ans": 1,
+          "explanation": "'Hot/cold' are gradable antonyms with intermediate values (warm, cool); the others are complementary or relational."
+        },
+        {
+          "q": "In Nigerian context, which is an antonym for 'honest'?",
+          "opts": [
+            "truthful",
+            "corrupt",
+            "sincere",
+            "reliable"
+          ],
+          "ans": 1,
+          "explanation": "'Corrupt' is an antonym for 'honest'; the others are synonyms or related positive traits."
+        },
+        {
+          "q": "Using antonyms in writing helps to:",
+          "opts": [
+            "Make writing longer",
+            "Show contrast and clarify meaning",
+            "Confuse the reader",
+            "Use more difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Antonyms help show contrast, clarify meaning, and create balance in arguments."
+        },
+        {
+          "q": "Which sentence uses antonyms appropriately?",
+          "opts": [
+            "The big house had a big gate and big windows.",
+            "While some students are diligent, others are lazy.",
+            "The house was big and the gate was big.",
+            "The big, big house had big windows."
+          ],
+          "ans": 1,
+          "explanation": "The second sentence uses antonyms ('diligent/lazy') to show contrast between two groups."
+        },
+        {
+          "q": "Understanding antonyms is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass vocabulary tests",
+            "Supports precise, varied communication in academic and professional contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Antonym knowledge supports precise, varied expression essential for academic writing, professional communication, and effective speaking in Nigeria."
+        },
+        {
+          "q": "Which is NOT an antonym for 'fast'?",
+          "opts": [
+            "slow",
+            "sluggish",
+            "quick",
+            "leisurely"
+          ],
+          "ans": 2,
+          "explanation": "'Quick' is a synonym for 'fast'; the others are antonyms meaning not fast."
+        },
+        {
+          "q": "A common misconception about antonyms is:",
+          "opts": [
+            "All words have direct antonyms",
+            "Antonyms can show contrast",
+            "Context determines antonym choice",
+            "Antonyms have opposite meanings"
+          ],
+          "ans": 0,
+          "explanation": "Not all words have direct antonyms; some lack clear opposites or have multiple antonyms depending on context."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w5_su3",
+      "title": "5.3 Comprehension/Summary: Listening to Tell the Meaning of Words in Sentence Context",
+      "notes": [
+        "Comprehension/Summary: Listening for Word Meaning in Context",
+        "• Definition: Using listening skills to determine the meaning of unfamiliar words based on surrounding speech",
+        "• Importance: Enables understanding of spoken language without constant dictionary use",
+        "",
+        "Types of Context Clues in Listening:",
+        "1. Definition Clues:",
+        "   • The speaker directly defines the word",
+        "   • Signal phrases: 'that is', 'means', 'refers to'",
+        "   • Example: 'Arable land, that is, land suitable for farming, is scarce in Lagos.'",
+        "",
+        "2. Example Clues:",
+        "   • The speaker provides examples that illustrate the word",
+        "   • Signal phrases: 'such as', 'for example', 'including'",
+        "   • Example: 'Legumes, such as cowpea, groundnut, and soybean, fix nitrogen in soil.'",
+        "",
+        "3. Synonym Clues:",
+        "   • The speaker uses a word with similar meaning nearby",
+        "   • Signal phrases: 'or', 'also known as', 'similarly'",
+        "   • Example: 'The arid region, or dry area, received little rain.'",
+        "",
+        "4. Antonym Clues:",
+        "   • The speaker uses a word with opposite meaning",
+        "   • Signal phrases: 'but', 'however', 'unlike', 'whereas'",
+        "   • Example: 'Unlike the fertile south, the arid north has poor soil.'",
+        "",
+        "5. Inference Clues:",
+        "   • The meaning must be inferred from the overall context",
+        "   • No direct signal words; requires logical reasoning",
+        "   • Example: 'The farmer's grim face suggested a poor harvest.' (infer 'grim' means sad or worried)",
+        "",
+        "Steps for Using Context Clues in Listening:",
+        "1. Listen attentively to the sentence containing the unknown word",
+        "   • Focus on the word and its immediate context",
+        "",
+        "2. Identify signal words or phrases",
+        "   • Listen for definition, example, synonym, or antonym clues",
+        "",
+        "3. Consider the broader context",
+        "   • Listen to surrounding sentences for additional clues",
+        "",
+        "4. Make an educated guess",
+        "   • Infer the meaning based on clues",
+        "",
+        "5. Verify if possible",
+        "   • Ask for clarification or check later with a dictionary",
+        "",
+        "Nigerian Context in Listening Comprehension:",
+        "• Common themes in spoken passages:",
+        "  - Religious tolerance and coexistence",
+        "  - Cultural values and modern challenges",
+        "  - Education and youth development",
+        "  - Health and disease prevention",
+        "  - Environmental conservation",
+        "",
+        "• Cultural references:",
+        "  - Local religious practices and terms",
+        "  - Traditional values and proverbs",
+        "  - Urban-rural dynamics",
+        "  - Religious and ethnic diversity",
+        "",
+        "Practical Activities:",
+        "1. Context Clue Identification:",
+        "   • Teacher reads passages with underlined unfamiliar words",
+        "   • Students listen and identify type of context clue",
+        "   • Discuss inferences and verify with dictionary",
+        "",
+        "2. Vocabulary in Listening:",
+        "   • Use Nigerian-themed spoken passages on religion, culture, or current issues",
+        "   • Highlight key words and practice inference",
+        "   • Create sentences using inferred meanings",
+        "",
+        "3. Peer Discussion:",
+        "   • Work in pairs or small groups to infer word meanings",
+        "   • Share and compare inferences",
+        "   • Clarify misunderstandings through dialogue",
+        "",
+        "Common Misconceptions:",
+        "• 'Context clues always give exact definitions': They often provide approximate meanings; dictionary verification is still valuable",
+        "• 'Only difficult words need context clues': Even familiar words can have multiple meanings clarified by context",
+        "• 'Context clues are only for reading': They are equally useful in listening and speaking",
+        "• 'Inference is guessing': Inference is logical reasoning based on contextual evidence, not random guessing",
+        "",
+        "Nigerian Context:",
+        "• Context clue skills in listening enable students to engage with Nigerian media, speeches, and conversations",
+        "• Understanding local vocabulary supports comprehension of culturally relevant spoken texts",
+        "• Practice with Nigerian examples builds confidence and critical listening skills",
+        "",
+        "Conclusion:",
+        "• Context clues in listening are essential for determining word meaning without constant dictionary use",
+        "• Types include definition, example, synonym, antonym, and inference clues",
+        "• Steps involve listening, identifying clues, inferring, and verifying",
+        "• Nigerian context enhances relevance and application of listening comprehension skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of context clue types in listening with Nigerian examples",
+        "Flowchart of steps for using context clues in listening",
+        "Sample spoken passage with highlighted context clues",
+        "Nigerian context: Vocabulary related to religion, culture, current issues",
+        "Inference practice exercise with local themes"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English listening comprehension context clues SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Context clues in listening help listeners to:",
+          "opts": [
+            "Skip unfamiliar words",
+            "Determine word meaning from surrounding speech",
+            "Memorize dictionary definitions",
+            "Ignore sentence structure"
+          ],
+          "ans": 1,
+          "explanation": "Context clues in listening allow listeners to infer the meaning of unfamiliar words based on the surrounding speech."
+        },
+        {
+          "q": "Which signal phrase often introduces a definition clue in listening?",
+          "opts": [
+            "however",
+            "means",
+            "but",
+            "unlike"
+          ],
+          "ans": 1,
+          "explanation": "'Means' often signals a definition clue in spoken language; 'however' and 'but' signal contrast, 'unlike' signals antonym."
+        },
+        {
+          "q": "In the spoken sentence 'Legumes, such as cowpea, groundnut, and soybean, fix nitrogen in soil', 'such as' introduces:",
+          "opts": [
+            "A definition",
+            "An example",
+            "A synonym",
+            "An antonym"
+          ],
+          "ans": 1,
+          "explanation": "'Such as' introduces examples that illustrate the meaning of 'legumes' in spoken context."
+        },
+        {
+          "q": "An antonym clue in listening is signaled by words like:",
+          "opts": [
+            "for example",
+            "but",
+            "means",
+            "including"
+          ],
+          "ans": 1,
+          "explanation": "'But' signals contrast, often introducing an antonym clue in spoken language; 'for example' introduces examples."
+        },
+        {
+          "q": "Inference clues in listening require the listener to:",
+          "opts": [
+            "Find a direct definition",
+            "Use logical reasoning based on context",
+            "Look up the word immediately",
+            "Ignore the surrounding speech"
+          ],
+          "ans": 1,
+          "explanation": "Inference clues in listening require listeners to use logical reasoning based on the overall context to infer word meaning."
+        },
+        {
+          "q": "In Nigerian context, a spoken passage on religion might include words like:",
+          "opts": [
+            "spaceship, asteroid, orbit",
+            "mosque, church, shrine, prayer",
+            "computer, software, algorithm",
+            "ocean, tide, coral, reef"
+          ],
+          "ans": 1,
+          "explanation": "Religious passages in Nigerian context often include words like mosque, church, shrine, and prayer."
+        },
+        {
+          "q": "The first step in using context clues in listening is to:",
+          "opts": [
+            "Look up the word in a dictionary",
+            "Listen to the sentence containing the unknown word",
+            "Skip the word and continue listening",
+            "Ask someone for the meaning"
+          ],
+          "ans": 1,
+          "explanation": "The first step is to listen carefully to the sentence containing the unknown word to gather immediate context."
+        },
+        {
+          "q": "Understanding context clues in listening is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Enables independent listening and comprehension of diverse spoken texts",
+            "Only for vocabulary tests",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Context clue skills in listening support independent comprehension of academic, media, and conversational texts in Nigeria."
+        },
+        {
+          "q": "Which is NOT a type of context clue in listening?",
+          "opts": [
+            "Definition",
+            "Example",
+            "Spelling",
+            "Synonym"
+          ],
+          "ans": 2,
+          "explanation": "Spelling is not a type of context clue in listening; definition, example, synonym, antonym, and inference are common types."
+        },
+        {
+          "q": "A common misconception about context clues in listening is:",
+          "opts": [
+            "They always give exact definitions",
+            "They provide approximate meanings that may need verification",
+            "They help listeners infer word meaning",
+            "They are useful in listening and speaking"
+          ],
+          "ans": 0,
+          "explanation": "Context clues in listening often provide approximate meanings; verification through questioning or dictionary use is still valuable."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w5_su4",
+      "title": "5.4 Structure: Noun Clauses",
+      "notes": [
+        "Structure: Noun Clauses",
+        "• Definition: A noun clause is a dependent clause that functions as a noun in a sentence",
+        "• Importance: Enables expression of complex ideas, indirect speech, and nuanced meaning",
+        "",
+        "Functions of Noun Clauses:",
+        "1. As Subject:",
+        "   • Example: 'What she said surprised everyone.'",
+        "   • Nigerian context: 'That he passed the exam delighted his family.'",
+        "",
+        "2. As Object:",
+        "   • Example: 'I know that he is honest.'",
+        "   • Nigerian context: 'She believes that education is important.'",
+        "",
+        "3. As Complement:",
+        "   • Example: 'The truth is that he lied.'",
+        "   • Nigerian context: 'The problem is that we lack resources.'",
+        "",
+        "4. After Prepositions:",
+        "   • Example: 'We talked about what happened.'",
+        "   • Nigerian context: 'They discussed how to improve the school.'",
+        "",
+        "Introducing Noun Clauses:",
+        "• Common Introducers:",
+        "  a) That: 'I think that he is right.'",
+        "  b) Wh-words: what, when, where, why, who, whom, which, how",
+        "     - 'I don't know what he wants.'",
+        "     - 'She asked where we were going.'",
+        "  c) If/Whether: 'I wonder if he will come.'",
+        "     - 'She asked whether we had finished.'",
+        "",
+        "• Nigerian Context Examples:",
+        "  - 'The principal announced that the exams would start next week.'",
+        "  - 'I don't know why he left early.'",
+        "  - 'She asked if we had completed the assignment.'",
+        "",
+        "Identifying Noun Clauses:",
+        "1. Look for introducers:",
+        "   • Words like 'that', 'what', 'when', 'where', 'why', 'who', 'if', 'whether'",
+        "",
+        "2. Test for noun function:",
+        "   • Can the clause replace a noun in the sentence?",
+        "   • Example: 'What she said' (subject) = 'Her statement' (noun)",
+        "",
+        "3. Check for completeness:",
+        "   • Noun clauses cannot stand alone; they depend on a main clause",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Using noun clause as independent sentence",
+        "  - Incorrect: 'That he passed the exam.'",
+        "  - Correct: 'I am glad that he passed the exam.'",
+        "",
+        "• Error: Omitting necessary introducer",
+        "  - Incorrect: 'I know he is honest.' (acceptable in informal speech)",
+        "  - Formal: 'I know that he is honest.'",
+        "",
+        "• Error: Using wrong introducer",
+        "  - Incorrect: 'I don't know if he is coming or not.' (when 'whether' is preferred)",
+        "  - Correct: 'I don't know whether he is coming or not.'",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'That he passed the exam made his parents happy.' (awkward)",
+        "  - Correction: 'The fact that he passed the exam made his parents happy.'",
+        "",
+        "Practical Activities:",
+        "1. Clause Identification:",
+        "   • Provide sentences for students to identify noun clauses",
+        "   • Underline introducers and discuss functions",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write sentences using noun clauses in different functions",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on structure and usage",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with noun clause errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'Noun clauses can stand alone': They are dependent clauses and require a main clause",
+        "• 'All clauses starting with 'that' are noun clauses': 'That' can also introduce adjectival or adverbial clauses",
+        "• 'Noun clauses are only for formal writing': They are used in all registers of English",
+        "• 'Introducers are always necessary': 'That' can be omitted in informal speech when the noun clause is an object",
+        "",
+        "Nigerian Context:",
+        "• Understanding noun clauses supports clear communication in academic writing and professional contexts",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "• Mastery of noun clause structure improves writing variety and effectiveness",
+        "",
+        "Conclusion:",
+        "• Noun clauses function as nouns in sentences",
+        "• They can serve as subject, object, complement, or after prepositions",
+        "• Common introducers include 'that', wh-words, and 'if/whether'",
+        "• Mastery of noun clauses improves writing sophistication and communication effectiveness"
+      ],
+      "diagramDescriptions": [
+        "Chart of noun clause functions with examples",
+        "Flowchart for identifying noun clauses",
+        "Comparison of noun clauses with other clause types",
+        "Nigerian context: Sample sentences with correct/incorrect noun clause usage",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar noun clauses SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun clause functions as:",
+          "opts": [
+            "A verb in a sentence",
+            "A noun in a sentence",
+            "An adjective in a sentence",
+            "An adverb in a sentence"
+          ],
+          "ans": 1,
+          "explanation": "A noun clause functions as a noun in a sentence, serving as subject, object, complement, or after prepositions."
+        },
+        {
+          "q": "Which is a noun clause?",
+          "opts": [
+            "The boy kicked the ball.",
+            "What she said surprised everyone.",
+            "Because he was late.",
+            "Running quickly."
+          ],
+          "ans": 1,
+          "explanation": "'What she said surprised everyone' contains the noun clause 'What she said' functioning as the subject."
+        },
+        {
+          "q": "Noun clauses are often introduced by:",
+          "opts": [
+            "Coordinating conjunctions",
+            "Subordinating conjunctions like 'that', 'what', 'if'",
+            "Prepositions",
+            "Articles"
+          ],
+          "ans": 1,
+          "explanation": "Noun clauses are often introduced by subordinating conjunctions like 'that', 'what', 'when', 'if', 'whether'."
+        },
+        {
+          "q": "In the sentence 'I know that he is honest', 'that he is honest' is a:",
+          "opts": [
+            "Independent clause",
+            "Noun clause",
+            "Adjectival clause",
+            "Adverbial clause"
+          ],
+          "ans": 1,
+          "explanation": "'That he is honest' is a noun clause functioning as the object of the verb 'know'."
+        },
+        {
+          "q": "Which sentence uses a noun clause as subject?",
+          "opts": [
+            "I know that he is honest.",
+            "What she said surprised everyone.",
+            "He is honest, which is good.",
+            "Because he is honest, we trust him."
+          ],
+          "ans": 1,
+          "explanation": "'What she said' is a noun clause functioning as the subject of 'surprised'."
+        },
+        {
+          "q": "In Nigerian context, which is a correct noun clause?",
+          "opts": [
+            "That he passed the exam.",
+            "I am glad that he passed the exam.",
+            "He passed the exam that.",
+            "That passed the exam he."
+          ],
+          "ans": 1,
+          "explanation": "'I am glad that he passed the exam' correctly uses the noun clause 'that he passed the exam' as object of 'glad'."
+        },
+        {
+          "q": "A common error with noun clauses is:",
+          "opts": [
+            "Using them as objects",
+            "Using them as independent sentences",
+            "Introducing them with 'that'",
+            "Using them after prepositions"
+          ],
+          "ans": 1,
+          "explanation": "A common error is using a noun clause as an independent sentence; noun clauses are dependent and require a main clause."
+        },
+        {
+          "q": "Understanding noun clauses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing sophistication and communication effectiveness in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of noun clauses enables students to express complex ideas clearly and effectively in academic and professional writing."
+        },
+        {
+          "q": "Which introducer is used for yes/no questions in noun clauses?",
+          "opts": [
+            "that",
+            "what",
+            "if/whether",
+            "when"
+          ],
+          "ans": 2,
+          "explanation": "'If' or 'whether' introduce noun clauses based on yes/no questions: 'I wonder if he will come.'"
+        },
+        {
+          "q": "A common misconception about noun clauses is:",
+          "opts": [
+            "They can function as nouns",
+            "They can stand alone as sentences",
+            "They are introduced by subordinating conjunctions",
+            "They can serve as subject or object"
+          ],
+          "ans": 1,
+          "explanation": "Noun clauses cannot stand alone as sentences; they are dependent clauses that require a main clause."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w5_su5",
+      "title": "5.5 Continuous Writing: Writing Articles Continued",
+      "notes": [
+        "Continuous Writing: Writing Articles Continued",
+        "• Focus: Refining article writing skills with emphasis on structure, language, and audience awareness",
+        "• Importance: Develops ability to communicate effectively on current issues in public forums",
+        "",
+        "Refining Article Structure:",
+        "1. Headline Refinement:",
+        "   • Make it catchy but accurate",
+        "   • Use strong verbs and specific nouns",
+        "   • Example: 'Nigeria's Youth: The Key to Sustainable Development'",
+        "",
+        "2. Introduction Enhancement:",
+        "   • Start with a hook: question, quote, startling fact",
+        "   • Clearly state the article's purpose",
+        "   • Example: 'In a nation where over 60% of the population is under 25, how can we harness youth potential for development?'",
+        "",
+        "3. Body Development:",
+        "   • Use topic sentences for each paragraph",
+        "   • Support points with evidence: statistics, examples, quotes",
+        "   • Use transitions for smooth flow: 'Furthermore', 'However', 'In addition'",
+        "   • Nigerian context: Local examples, data, or cultural references",
+        "",
+        "4. Conclusion Strengthening:",
+        "   • Summarize key points without repetition",
+        "   • End with a call to action or memorable thought",
+        "   • Example: 'Investing in youth education today is investing in Nigeria's tomorrow.'",
+        "",
+        "Language and Style for Articles:",
+        "• Clarity and Conciseness:",
+        "  - Use simple, direct language",
+        "  - Avoid jargon unless explained",
+        "  - Example: 'Corruption undermines development' (clear) vs 'Corruption has deleterious effects on developmental trajectories' (jargon)",
+        "",
+        "• Active Voice:",
+        "  - 'The government implemented new policies.' (active)",
+        "  - 'New policies were implemented by the government.' (passive)",
+        "",
+        "• Engaging Vocabulary:",
+        "  - Choose precise, vivid words",
+        "  - Avoid clichés and overused phrases",
+        "  - Nigerian context: Use local proverbs or idioms if appropriate",
+        "",
+        "• Audience Awareness:",
+        "  - Consider readers' knowledge, interests, and expectations",
+        "  - Adjust tone and complexity accordingly",
+        "  - Nigerian context: Balance formality with accessibility for diverse audiences",
+        "",
+        "Sample Article Topics for Practice:",
+        "• The role of technology in Nigerian education",
+        "• Combating climate change in Nigerian cities",
+        "• The importance of civic education for youth",
+        "• Promoting gender equality in Nigerian society",
+        "• The impact of social media on political participation",
+        "",
+        "Practical Activities:",
+        "1. Article Revision:",
+        "   • Provide draft articles for students to revise",
+        "   • Focus on structure, language, and audience awareness",
+        "   • Peer feedback on clarity, coherence, and impact",
+        "",
+        "2. Headline and Introduction Practice:",
+        "   • Given topics, students write multiple headline options",
+        "   • Craft engaging introductions with hooks",
+        "   • Share and evaluate for effectiveness",
+        "",
+        "3. Full Article Drafting:",
+        "   • Choose a current Nigerian issue",
+        "   • Plan article with outline (headline, introduction, body, conclusion)",
+        "   • Draft article focusing on structure, evidence, and style",
+        "   • Revise based on peer and teacher feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Articles must be long to be effective': Conciseness and clarity are more important than length",
+        "• 'Articles are only for newspapers': They appear in magazines, online platforms, and academic journals",
+        "• 'Fancy words improve articles': Clear, precise language is more effective than complex vocabulary",
+        "• 'Articles can ignore audience': Audience awareness is crucial for effective communication",
+        "",
+        "Nigerian Context:",
+        "• Article writing skills support civic engagement and informed citizenship in Nigeria",
+        "• Understanding structure and language helps students communicate effectively in diverse settings",
+        "• Practice with local topics enhances relevance and cultural expression",
+        "",
+        "Conclusion:",
+        "• Effective articles have clear structure, engaging language, and audience awareness",
+        "• Refinement involves headline, introduction, body, and conclusion enhancement",
+        "• Clarity, active voice, and precise vocabulary improve article quality",
+        "• In Nigeria, article writing supports academic success, civic participation, and professional communication"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of article refinement: headline, introduction, body, conclusion",
+        "Chart of language and style tips: clarity, active voice, vocabulary, audience",
+        "Flowchart for revising articles: draft to final version",
+        "Nigerian context: Sample article topics on local issues",
+        "Revision checklist for article writing"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing article revision SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "A well-written article should have:",
+          "opts": [
+            "Only a catchy headline",
+            "Clear structure, engaging language, and audience awareness",
+            "Only personal opinions",
+            "Only long paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "Effective articles combine clear structure, engaging language, and audience awareness to communicate effectively."
+        },
+        {
+          "q": "The introduction of an article should:",
+          "opts": [
+            "Summarize the entire article",
+            "Hook the reader and state the purpose",
+            "List all sources used",
+            "Apologize for any errors"
+          ],
+          "ans": 1,
+          "explanation": "The introduction should hook the reader with a question, quote, or fact and state the article's purpose."
+        },
+        {
+          "q": "Which language feature is preferred in articles?",
+          "opts": [
+            "Passive voice",
+            "Active voice",
+            "Complex sentences only",
+            "Technical jargon"
+          ],
+          "ans": 1,
+          "explanation": "Active voice is preferred in articles for immediacy and clarity; passive voice, complex sentences, and jargon can reduce readability."
+        },
+        {
+          "q": "In article writing, audience awareness means:",
+          "opts": [
+            "Ignoring the reader",
+            "Considering readers' knowledge, interests, and expectations",
+            "Using complex words to impress",
+            "Writing for oneself only"
+          ],
+          "ans": 1,
+          "explanation": "Audience awareness involves tailoring language, examples, and tone to the readers' background and expectations."
+        },
+        {
+          "q": "A strong conclusion in an article should:",
+          "opts": [
+            "Introduce new ideas",
+            "Summarize key points and end memorably",
+            "Apologize for mistakes",
+            "Ask for donations only"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion should summarize key points and end with a call to action or memorable thought."
+        },
+        {
+          "q": "In Nigerian context, an article on education might include:",
+          "opts": [
+            "Only global statistics",
+            "Local examples, challenges, and solutions relevant to Nigeria",
+            "Only historical facts",
+            "Only personal opinions"
+          ],
+          "ans": 1,
+          "explanation": "Articles in Nigerian context should include local examples, challenges, and solutions to enhance relevance and impact."
+        },
+        {
+          "q": "A common error in article writing is:",
+          "opts": [
+            "Using clear language",
+            "Using vague terms like 'nice' or 'good'",
+            "Organizing ideas logically",
+            "Using active voice"
+          ],
+          "ans": 1,
+          "explanation": "Vague terms like 'nice' or 'good' weaken articles; precise, specific vocabulary is more effective."
+        },
+        {
+          "q": "Understanding article writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports civic engagement, informed citizenship, and professional communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Article writing skills support civic engagement, informed citizenship, and effective communication in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a feature of an effective article?",
+          "opts": [
+            "Clear structure",
+            "Engaging language",
+            "Ignoring audience",
+            "Audience awareness"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring audience reduces effectiveness; effective articles consider readers' knowledge, interests, and expectations."
+        },
+        {
+          "q": "A common misconception about article writing is:",
+          "opts": [
+            "Articles should be concise and clear",
+            "Articles must be long to be effective",
+            "Articles use active voice for immediacy",
+            "Articles benefit from audience awareness"
+          ],
+          "ans": 1,
+          "explanation": "Conciseness and clarity are more important than length; effective articles focus on key points and reader engagement."
+        }
+      ]
+    }
+  ]
+}

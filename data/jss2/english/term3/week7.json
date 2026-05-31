@@ -1,0 +1,752 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "Third Term",
+  "week": 7,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t3_w7_su1",
+      "title": "7.1 Reading: Reading for Meanings of Words in Context",
+      "notes": [
+        "Reading: Word Meaning in Context",
+        "",
+        "Key Concepts:",
+        "1. What is Context?",
+        "   - The words, sentences, or passages surrounding a target word",
+        "   - Helps determine the meaning of unfamiliar words",
+        "",
+        "2. Strategies for Finding Meaning in Context:",
+        "   - Look at surrounding words and sentences",
+        "   - Identify synonyms or antonyms nearby",
+        "   - Note the topic and tone of the passage",
+        "   - Use prior knowledge and experience",
+        "",
+        "3. Types of Context Clues:",
+        "   - Definition clues: 'X, which means Y'",
+        "   - Example clues: 'such as', 'for example'",
+        "   - Contrast clues: 'but', 'however', 'unlike'",
+        "   - Inference clues: meaning must be deduced from overall context",
+        "",
+        "4. Practice with Nigerian Topics:",
+        "   - Passages on agriculture, medicine, technology, etc.",
+        "   - Identify register-specific vocabulary and infer meanings"
+      ],
+      "diagramDescriptions": [
+        "Chart of context clue types with examples",
+        "Flowchart for using context to determine word meaning"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading context clues word meaning site:youtube.com",
+      "quiz": [
+        {
+          "q": "Context in reading refers to:",
+          "opts": [
+            "Only the target word",
+            "The words and sentences surrounding a target word",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Context is the surrounding text that helps determine a word's meaning."
+        },
+        {
+          "q": "A definition context clue might be:",
+          "opts": [
+            "A synonym nearby",
+            "'X, which means Y'",
+            "A contrast word",
+            "An example list"
+          ],
+          "ans": 1,
+          "explanation": "Definition clues directly explain the target word's meaning."
+        },
+        {
+          "q": "An example context clue uses words like:",
+          "opts": [
+            "but, however",
+            "such as, for example",
+            "therefore, thus",
+            "because, since"
+          ],
+          "ans": 1,
+          "explanation": "Example clues use 'such as' or 'for example' to illustrate meaning."
+        },
+        {
+          "q": "In a passage on agriculture, a context clue for 'fertilizer' might be:",
+          "opts": [
+            "Only the word itself",
+            "Words like 'soil', 'crops', 'nutrients' nearby",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Surrounding words like 'soil' and 'crops' help infer the meaning of 'fertilizer'."
+        },
+        {
+          "q": "A contrast context clue uses words like:",
+          "opts": [
+            "and, also",
+            "but, however, unlike",
+            "because, since",
+            "for example, such as"
+          ],
+          "ans": 1,
+          "explanation": "Contrast clues use words like 'but' or 'however' to show difference."
+        },
+        {
+          "q": "A common mistake in using context is:",
+          "opts": [
+            "Looking at surrounding words",
+            "Ignoring the overall passage topic",
+            "Using prior knowledge",
+            "Noting tone and style"
+          ],
+          "ans": 1,
+          "explanation": "Ignoring the overall topic can lead to incorrect meaning inference."
+        },
+        {
+          "q": "Understanding context clues is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of technical and academic texts",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Context clues help students understand specialized vocabulary in academic and technical texts."
+        },
+        {
+          "q": "Which is NOT a type of context clue?",
+          "opts": [
+            "Definition",
+            "Example",
+            "Random guess",
+            "Contrast"
+          ],
+          "ans": 2,
+          "explanation": "Random guess is not a valid context clue strategy."
+        },
+        {
+          "q": "A common misconception about context is:",
+          "opts": [
+            "Context helps determine word meaning",
+            "Context is only the sentence with the word",
+            "Context includes surrounding sentences",
+            "Practice improves context use"
+          ],
+          "ans": 1,
+          "explanation": "Context includes not just the sentence but surrounding sentences and overall passage."
+        },
+        {
+          "q": "When using context clues, you should:",
+          "opts": [
+            "Only look at the target word",
+            "Consider surrounding words, topic, and tone",
+            "Ignore the passage",
+            "Only use a dictionary"
+          ],
+          "ans": 1,
+          "explanation": "Effective context use considers surrounding words, topic, and tone."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w7_su2",
+      "title": "7.2 Writing: Composition on 'My Future Career'",
+      "notes": [
+        "Writing: Composition on 'My Future Career'",
+        "",
+        "Key Concepts:",
+        "1. Planning Your Composition:",
+        "   - Brainstorm ideas about your chosen career",
+        "   - Research requirements, skills, and benefits",
+        "   - Organize ideas: introduction, body, conclusion",
+        "",
+        "2. Structure of Career Composition:",
+        "   - Introduction: State your chosen career and why",
+        "   - Body: Discuss skills needed, training required, benefits",
+        "   - Conclusion: Summarize and express commitment",
+        "",
+        "3. Language Features:",
+        "   - Use specific vocabulary related to the career",
+        "   - Use future tense for plans: 'I will study...'",
+        "   - Use persuasive language to show passion",
+        "   - Include personal experiences or role models",
+        "",
+        "4. Tips for Effective Writing:",
+        "   - Start with a strong opening statement",
+        "   - Use specific examples and details",
+        "   - Maintain consistent focus on your career choice",
+        "   - End with a motivating conclusion"
+      ],
+      "diagramDescriptions": [
+        "Chart of career composition structure with examples",
+        "Diagram of planning steps: brainstorm, research, organize, draft, revise"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing composition future career site:youtube.com",
+      "quiz": [
+        {
+          "q": "The first step in writing a career composition is to:",
+          "opts": [
+            "Write the conclusion",
+            "Brainstorm ideas about your chosen career",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Brainstorming helps gather ideas before organizing and writing."
+        },
+        {
+          "q": "The introduction of a career composition should:",
+          "opts": [
+            "List all details",
+            "State your chosen career and why",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The introduction states your career choice and reasons for choosing it."
+        },
+        {
+          "q": "In the body of a career composition, you should:",
+          "opts": [
+            "Only repeat the introduction",
+            "Discuss skills, training, and benefits of the career",
+            "Only write about personal life",
+            "Only use simple words"
+          ],
+          "ans": 1,
+          "explanation": "The body develops the topic with details about skills, training, and benefits."
+        },
+        {
+          "q": "A good tip for career composition is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific examples and maintain focus",
+            "Only use complex words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Specific examples and consistent focus create clear, effective compositions."
+        },
+        {
+          "q": "In Nigerian context, a career topic might be:",
+          "opts": [
+            "Only foreign careers",
+            "'My Future Career as a Teacher in Nigeria'",
+            "Only scientific careers",
+            "Only historical careers"
+          ],
+          "ans": 1,
+          "explanation": "Career topics in Nigerian context often address local professional paths."
+        },
+        {
+          "q": "Understanding career composition is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear communication about future plans and goals",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Career composition skills help students articulate future plans clearly."
+        },
+        {
+          "q": "Which is NOT an element of career composition?",
+          "opts": [
+            "Introduction",
+            "Body",
+            "Random thoughts",
+            "Conclusion"
+          ],
+          "ans": 2,
+          "explanation": "Random thoughts are not an element; compositions need structured introduction, body, and conclusion."
+        },
+        {
+          "q": "A common misconception about career writing is:",
+          "opts": [
+            "Career writing needs clear structure",
+            "Longer writing is always better",
+            "Planning helps organization",
+            "Practice improves writing"
+          ],
+          "ans": 1,
+          "explanation": "Effective career writing is clear and focused, not just long."
+        },
+        {
+          "q": "When writing about your future career, you should:",
+          "opts": [
+            "Ignore specific details",
+            "Use specific vocabulary and maintain consistent focus",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Specific vocabulary and consistent focus create clear, effective career compositions."
+        },
+        {
+          "q": "The conclusion of a career composition should:",
+          "opts": [
+            "Introduce new points",
+            "Summarize and express commitment to your career",
+            "Be empty",
+            "Only contain questions"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion summarizes key points and reinforces your commitment."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w7_su3",
+      "title": "7.3 Grammatical Accuracy: Conditional Statements",
+      "notes": [
+        "Grammatical Accuracy: Conditional Statements",
+        "",
+        "Key Concepts:",
+        "1. What are Conditional Statements?",
+        "   - Sentences that express a condition and its possible result",
+        "   - Often use 'if', 'unless', 'provided that'",
+        "   - Example: 'If you study hard, you will pass.'",
+        "",
+        "2. Types of Conditionals:",
+        "   - Type 1 (Real possibility): If + present, will + base verb",
+        "     Example: 'If it rains, we will stay home.'",
+        "   - Type 2 (Unreal present): If + past, would + base verb",
+        "     Example: 'If I were rich, I would travel.'",
+        "   - Type 3 (Unreal past): If + past perfect, would have + past participle",
+        "     Example: 'If I had studied, I would have passed.'",
+        "",
+        "3. Identifying Conditionals in Passages:",
+        "   - Look for signal words: if, unless, provided that",
+        "   - Note the condition and result clauses",
+        "   - Example: 'If Nigerian youths work hard, they will succeed.'",
+        "",
+        "4. Making Conditional Sentences:",
+        "   - Start with condition clause: 'If you practice...'",
+        "   - Add result clause: '...you will improve.'",
+        "   - Ensure verb tenses match the conditional type"
+      ],
+      "diagramDescriptions": [
+        "Chart of conditional types with Nigerian examples",
+        "Diagram showing condition and result clause structure"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar conditional statements site:youtube.com",
+      "quiz": [
+        {
+          "q": "Conditional statements express:",
+          "opts": [
+            "Only facts",
+            "A condition and its possible result",
+            "Only questions",
+            "Only commands"
+          ],
+          "ans": 1,
+          "explanation": "Conditionals express a condition and its possible result."
+        },
+        {
+          "q": "Which word often introduces a condition?",
+          "opts": [
+            "because",
+            "if",
+            "and",
+            "but"
+          ],
+          "ans": 1,
+          "explanation": "'If' commonly introduces conditional statements."
+        },
+        {
+          "q": "In 'If you study, you will pass', the condition is:",
+          "opts": [
+            "you will pass",
+            "If you study",
+            "you study",
+            "study"
+          ],
+          "ans": 1,
+          "explanation": "'If you study' is the condition clause."
+        },
+        {
+          "q": "Type 1 conditional uses:",
+          "opts": [
+            "If + past, would + base verb",
+            "If + present, will + base verb",
+            "If + past perfect, would have + past participle",
+            "Only base verbs"
+          ],
+          "ans": 1,
+          "explanation": "Type 1 conditional uses if + present, will + base verb for real possibilities."
+        },
+        {
+          "q": "In Nigerian context, a conditional might be:",
+          "opts": [
+            "If you work hard, you succeed",
+            "If you work hard, you will succeed",
+            "If you worked hard, you would succeed",
+            "If you had worked hard, you would have succeeded"
+          ],
+          "ans": 1,
+          "explanation": "'If you work hard, you will succeed' is a Type 1 conditional commonly used."
+        },
+        {
+          "q": "A common mistake in conditionals is:",
+          "opts": [
+            "Using correct signal words",
+            "Mixing tenses incorrectly",
+            "Matching condition and result",
+            "Practicing regularly"
+          ],
+          "ans": 1,
+          "explanation": "Mixing tenses incorrectly is a common error in conditional sentences."
+        },
+        {
+          "q": "Understanding conditionals is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear communication about possibilities and plans",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Conditionals help communicate possibilities, plans, and hypothetical situations clearly."
+        },
+        {
+          "q": "Which is NOT a conditional type?",
+          "opts": [
+            "Type 1",
+            "Type 2",
+            "Type 4",
+            "Type 3"
+          ],
+          "ans": 2,
+          "explanation": "There are three main conditional types; Type 4 is not standard."
+        },
+        {
+          "q": "A common misconception about conditionals is:",
+          "opts": [
+            "Conditionals express conditions",
+            "All conditionals use 'if'",
+            "Conditionals can use 'unless'",
+            "Practice improves usage"
+          ],
+          "ans": 1,
+          "explanation": "Not all conditionals use 'if'; 'unless', 'provided that' also introduce conditions."
+        },
+        {
+          "q": "When making conditional sentences, you should:",
+          "opts": [
+            "Ignore verb tenses",
+            "Match tenses to the conditional type",
+            "Only use present tense",
+            "Only use past tense"
+          ],
+          "ans": 1,
+          "explanation": "Matching verb tenses to the conditional type ensures grammatical accuracy."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w7_su4",
+      "title": "7.4 Listening/Speaking: Question Tags with Stress and Intonation",
+      "notes": [
+        "Listening/Speaking: Question Tags with Stress and Intonation",
+        "",
+        "Key Concepts:",
+        "1. Review: Question Tags",
+        "   - Short questions added to statements for confirmation",
+        "   - Structure: positive statement + negative tag, or vice versa",
+        "",
+        "2. Stress in Question Tags:",
+        "   - Stress the auxiliary verb in the tag for emphasis",
+        "   - Example: 'You ARE coming, aren't you?' (stress on 'are')",
+        "",
+        "3. Intonation in Question Tags:",
+        "   - Rising tone: for genuine questions seeking information",
+        "   - Falling tone: for confirmation or agreement",
+        "   - Example: 'It's hot today, isn't it? ↗' (rising) vs '↘' (falling)",
+        "",
+        "4. Listening and Speaking Strategies:",
+        "   - Listen for stress on auxiliary verbs",
+        "   - Note intonation patterns to determine speaker intent",
+        "   - Practice with minimal pairs and real-life dialogues",
+        "",
+        "5. Nigerian Context:",
+        "   - Common tag usage in Nigerian English",
+        "   - Practice with local topics and expressions"
+      ],
+      "diagramDescriptions": [
+        "Chart of stress and intonation patterns in question tags",
+        "Diagram of rising vs falling tone examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English question tags stress intonation site:youtube.com",
+      "quiz": [
+        {
+          "q": "In question tags, stress is often placed on:",
+          "opts": [
+            "The subject pronoun",
+            "The auxiliary verb",
+            "The main verb",
+            "The noun"
+          ],
+          "ans": 1,
+          "explanation": "Stress is often placed on the auxiliary verb in the tag for emphasis."
+        },
+        {
+          "q": "Rising intonation in question tags indicates:",
+          "opts": [
+            "Confirmation",
+            "A genuine question seeking information",
+            "A statement",
+            "A command"
+          ],
+          "ans": 1,
+          "explanation": "Rising intonation indicates a genuine question seeking information."
+        },
+        {
+          "q": "Falling intonation in question tags indicates:",
+          "opts": [
+            "A genuine question",
+            "Confirmation or agreement",
+            "Surprise",
+            "Anger"
+          ],
+          "ans": 1,
+          "explanation": "Falling intonation indicates the speaker expects confirmation or agreement."
+        },
+        {
+          "q": "In 'You are coming, aren't you? ↗', the rising tone suggests:",
+          "opts": [
+            "The speaker knows you are coming",
+            "The speaker is unsure and seeking confirmation",
+            "The speaker is commanding you",
+            "The speaker is stating a fact"
+          ],
+          "ans": 1,
+          "explanation": "Rising tone suggests the speaker is unsure and seeking information."
+        },
+        {
+          "q": "In Nigerian context, a question tag with stress might be:",
+          "opts": [
+            "You are coming, aren't you?",
+            "You ARE coming, aren't you?",
+            "You are coming, AREN'T you?",
+            "You are COMING, aren't you?"
+          ],
+          "ans": 1,
+          "explanation": "Stress on 'ARE' emphasizes the auxiliary verb for confirmation."
+        },
+        {
+          "q": "A good speaking strategy for question tags is to:",
+          "opts": [
+            "Use same intonation for all",
+            "Vary intonation based on intent",
+            "Only use rising tone",
+            "Only use falling tone"
+          ],
+          "ans": 1,
+          "explanation": "Varying intonation based on intent helps convey the correct meaning."
+        },
+        {
+          "q": "Understanding stress and intonation in tags is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication of intent in conversations",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Correct stress and intonation help convey whether a tag is a question or confirmation."
+        },
+        {
+          "q": "Which is a question tag example with falling tone?",
+          "opts": [
+            "You are coming, aren't you? ↗",
+            "You are coming, aren't you? ↘",
+            "Are you coming?",
+            "You are coming."
+          ],
+          "ans": 1,
+          "explanation": "Falling tone (↘) indicates expectation of agreement or confirmation."
+        },
+        {
+          "q": "A common misconception about question tags is:",
+          "opts": [
+            "Tags seek confirmation",
+            "All tags use rising intonation",
+            "Tags can use falling intonation",
+            "Practice improves usage"
+          ],
+          "ans": 1,
+          "explanation": "Not all tags use rising intonation; falling tone is used for confirmation."
+        },
+        {
+          "q": "When using question tags, you should:",
+          "opts": [
+            "Ignore intonation",
+            "Match intonation to your communicative intent",
+            "Only use rising tone",
+            "Only use falling tone"
+          ],
+          "ans": 1,
+          "explanation": "Matching intonation to intent ensures your message is understood correctly."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t3_w7_su5",
+      "title": "7.5 Literature: Prose - Type and Features",
+      "notes": [
+        "Literature: Prose - Type and Features",
+        "",
+        "Key Concepts:",
+        "1. What is Prose?",
+        "   - Ordinary written or spoken language without metrical structure",
+        "   - Includes novels, short stories, essays, biographies",
+        "",
+        "2. Types of Prose:",
+        "   - Narrative: tells a story with characters, plot, setting",
+        "   - Descriptive: paints a picture with sensory details",
+        "   - Expository: explains or informs about a topic",
+        "   - Argumentative: persuades or argues a point",
+        "",
+        "3. Features of Prose:",
+        "   - Plot: sequence of events in narrative",
+        "   - Character: people or figures in the story",
+        "   - Setting: time and place of the story",
+        "   - Theme: main idea or message",
+        "   - Style: author's unique way of writing",
+        "",
+        "4. How to Identify Prose Type and Features:",
+        "   - For type: Ask 'Is this telling a story, describing, explaining, or arguing?'",
+        "   - For features: Look for plot elements, character descriptions, setting details",
+        "   - Ask: 'What is the main message? How is it conveyed?'",
+        "",
+        "5. Why Study Prose?",
+        "   - To understand different forms of written expression",
+        "   - To appreciate how authors create meaning through language",
+        "   - To improve your own reading and writing skills"
+      ],
+      "diagramDescriptions": [
+        "Chart of prose types with Nigerian examples",
+        "Diagram of prose features: plot, character, setting, theme, style"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature prose types features site:youtube.com",
+      "quiz": [
+        {
+          "q": "Prose is:",
+          "opts": [
+            "Only poetry",
+            "Ordinary language without metrical structure",
+            "Only non-fiction",
+            "Only historical documents"
+          ],
+          "ans": 1,
+          "explanation": "Prose is ordinary written or spoken language, unlike poetry."
+        },
+        {
+          "q": "Narrative prose:",
+          "opts": [
+            "Only describes",
+            "Tells a story with characters, plot, setting",
+            "Only explains",
+            "Only argues"
+          ],
+          "ans": 1,
+          "explanation": "Narrative prose tells a story with characters, plot, and setting."
+        },
+        {
+          "q": "A feature of prose is:",
+          "opts": [
+            "Only rhyming words",
+            "Plot, character, setting, theme, style",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Prose features include plot, character, setting, theme, and style."
+        },
+        {
+          "q": "In Nigerian context, a prose theme might be:",
+          "opts": [
+            "Only foreign issues",
+            "Cultural identity, social justice, family",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian prose often explores themes like cultural identity and social justice."
+        },
+        {
+          "q": "To identify prose type, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "Is this telling a story, describing, explaining, or arguing?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking about the purpose helps identify the prose type."
+        },
+        {
+          "q": "A common feature in Nigerian prose is:",
+          "opts": [
+            "Only foreign references",
+            "Use of local languages, proverbs, cultural references",
+            "Only scientific terms",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian prose often includes local languages and cultural references."
+        },
+        {
+          "q": "Understanding prose is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding prose helps students appreciate their heritage and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a type of prose?",
+          "opts": [
+            "Narrative",
+            "Descriptive",
+            "Poetic",
+            "Expository"
+          ],
+          "ans": 2,
+          "explanation": "'Poetic' is not a prose type; narrative, descriptive, and expository are."
+        },
+        {
+          "q": "A common misconception about prose is:",
+          "opts": [
+            "Prose includes fiction and non-fiction",
+            "Prose is only fiction",
+            "Prose can be analyzed for features",
+            "Prose develops critical thinking"
+          ],
+          "ans": 1,
+          "explanation": "Prose includes both fiction and non-fiction."
+        },
+        {
+          "q": "When analyzing prose, you should:",
+          "opts": [
+            "Ignore the plot",
+            "Identify type, features, and theme",
+            "Only focus on language",
+            "Skip the theme"
+          ],
+          "ans": 1,
+          "explanation": "Identifying type, features, and theme helps you understand and appreciate the prose."
+        }
+      ]
+    }
+  ]
+}

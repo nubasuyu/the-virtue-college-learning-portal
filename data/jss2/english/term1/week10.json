@@ -1,0 +1,826 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t1_w10_su1",
+      "title": "10.1 Reading: Reading Between Lines to Highlight Hidden Attribution",
+      "notes": [
+        "Reading: Reading Between Lines to Highlight Hidden Attribution",
+        "",
+        "Key Concepts:",
+        "1. What is reading between the lines?",
+        "   - Understanding implied meanings, attitudes, or intentions not directly stated",
+        "   - Also called inference or critical reading",
+        "   - Example: A passage criticizing corruption without naming anyone implies criticism of specific practices",
+        "",
+        "2. What is hidden attribution?",
+        "   - When an author suggests a source or opinion without directly stating it",
+        "   - Example: 'Some people say...' or 'It is believed that...' without naming who",
+        "   - Often used to express controversial opinions or avoid direct responsibility",
+        "",
+        "3. How to read between the lines:",
+        "   - Look for words that suggest attitude: 'allegedly', 'rumored', 'supposedly'",
+        "   - Consider the author's tone: sarcastic, critical, hopeful, neutral",
+        "   - Ask: What is the author implying but not saying directly?",
+        "   - Note what is omitted or emphasized",
+        "",
+        "4. Strategies for identifying hidden attribution:",
+        "   - Identify vague references: 'some experts', 'many people', 'it is said'",
+        "   - Ask: Who is the source? Why is it not named?",
+        "   - Consider the context: political, social, cultural",
+        "   - Evaluate the evidence: is the claim supported?",
+        "",
+        "5. Why read between the lines?",
+        "   - To understand the author's true message or intention",
+        "   - To detect bias, persuasion, or manipulation",
+        "   - To develop critical thinking and media literacy",
+        "   - To engage more deeply with texts and discussions",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'Challenges Facing Nigerian Democracy'",
+        "  - Hidden attribution: 'Some observers believe that corruption undermines elections'",
+        "  - Reading between lines: The author implies criticism of electoral practices without naming specific individuals",
+        "  - Critical question: Who are 'some observers'? What evidence supports this claim?",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding how Nigerian writers use indirect language for sensitive topics",
+        "  - Recognizing the role of media in shaping public opinion through implied messages",
+        "  - Appreciating the importance of critical reading in a democratic society",
+        "",
+        "Practical Activities:",
+        "1. Inference Practice with Nigerian Passages:",
+        "   - Teacher provides short passages on Nigerian issues with hidden attribution",
+        "   - Students work in pairs to identify implied meanings and hidden sources",
+        "   - Groups share their inferences and discuss evidence from the text",
+        "",
+        "2. Hidden Attribution Hunt:",
+        "   - Teacher writes passages with vague references on the board",
+        "   - Students identify phrases like 'some say', 'it is believed', 'many think'",
+        "   - Discuss why authors might use hidden attribution",
+        "",
+        "3. Critical Response Writing:",
+        "   - Students write a short response to a passage with hidden attribution",
+        "   - Focus on identifying implied messages and evaluating evidence",
+        "   - Peer review for clarity of analysis and critical thinking",
+        "",
+        "Common Misconceptions:",
+        "• 'Reading between lines means making things up': Inference must be based on evidence in the text",
+        "• 'Hidden attribution is always bad': Sometimes it's used for legitimate reasons like protecting sources",
+        "• 'Only experts can read between lines': With practice, anyone can develop critical reading skills",
+        "• 'Implied meanings are not important': Implied meanings often carry the author's true message",
+        "",
+        "Nigerian Context:",
+        "• Reading between lines helps students critically engage with Nigerian media, politics, and literature",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Reading between lines means understanding implied meanings and hidden attribution",
+        "• Strategies include looking for attitude words, considering tone, and evaluating evidence",
+        "• Practice with Nigerian passages makes learning relevant and effective",
+        "• Mastery of these skills supports critical thinking and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of reading between lines strategies with examples",
+        "Flowchart for identifying hidden attribution",
+        "Sample passage with hidden attribution highlighted",
+        "Nigerian context: Sample passages on democracy with inference practice",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading between lines hidden attribution site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading between the lines means:",
+          "opts": [
+            "Only reading the words",
+            "Understanding implied meanings not directly stated",
+            "Only reading the title",
+            "Only reading the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Reading between the lines means understanding implied meanings, attitudes, or intentions not directly stated."
+        },
+        {
+          "q": "Hidden attribution is when:",
+          "opts": [
+            "The author names all sources",
+            "The author suggests a source without directly stating it",
+            "The author uses only facts",
+            "The author avoids all opinions"
+          ],
+          "ans": 1,
+          "explanation": "Hidden attribution is when an author suggests a source or opinion without directly stating it."
+        },
+        {
+          "q": "To read between the lines, you should:",
+          "opts": [
+            "Only read the words",
+            "Look for words that suggest attitude and consider the tone",
+            "Ignore the context",
+            "Only focus on facts"
+          ],
+          "ans": 1,
+          "explanation": "Looking for attitude words and considering tone helps you understand implied meanings."
+        },
+        {
+          "q": "In a passage about Nigerian democracy, hidden attribution might be:",
+          "opts": [
+            "Naming all sources",
+            "'Some observers believe that corruption undermines elections'",
+            "Only stating facts",
+            "Avoiding all opinions"
+          ],
+          "ans": 1,
+          "explanation": "'Some observers believe...' is hidden attribution because it suggests a source without naming it."
+        },
+        {
+          "q": "A common mistake in reading between lines is:",
+          "opts": [
+            "Looking for evidence",
+            "Making things up without text support",
+            "Considering the tone",
+            "Asking critical questions"
+          ],
+          "ans": 1,
+          "explanation": "Making things up without text support is a mistake; inference must be based on evidence in the text."
+        },
+        {
+          "q": "Why read between the lines?",
+          "opts": [
+            "Only to pass exams",
+            "To understand the author's true message and detect bias",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Reading between lines helps you understand the author's true message and detect bias or manipulation."
+        },
+        {
+          "q": "Understanding hidden attribution is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports critical engagement with media, politics, and literature",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Understanding hidden attribution helps students critically engage with Nigerian media, politics, and literature."
+        },
+        {
+          "q": "Which is NOT a strategy for identifying hidden attribution?",
+          "opts": [
+            "Identify vague references",
+            "Ask who the source is",
+            "Ignore the context",
+            "Evaluate the evidence"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; considering context helps identify hidden attribution."
+        },
+        {
+          "q": "A common misconception about reading between lines is:",
+          "opts": [
+            "Reading between lines means making things up",
+            "Inference must be based on evidence in the text",
+            "Implied meanings often carry the author's true message",
+            "Practice improves critical reading"
+          ],
+          "ans": 0,
+          "explanation": "Reading between lines does not mean making things up; inference must be based on evidence in the text."
+        },
+        {
+          "q": "When reading between lines, you should:",
+          "opts": [
+            "Only read the words",
+            "Consider the author's tone and what is implied",
+            "Ignore the context",
+            "Only focus on facts"
+          ],
+          "ans": 1,
+          "explanation": "Considering the author's tone and what is implied helps you understand the true message."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w10_su2",
+      "title": "10.2 Grammatical Accuracy: Identifying Features of Tenses from Passage on Peace and Dialogue",
+      "notes": [
+        "Grammatical Accuracy: Identifying Tenses in Passages on Peace and Dialogue",
+        "",
+        "Key Concepts:",
+        "1. Review: What are tenses?",
+        "   - Tenses show the time of an action or state",
+        "   - Main tenses: present, past, future",
+        "   - Examples: I talk (present), I talked (past), I will talk (future)",
+        "",
+        "2. Types of tenses:",
+        "   a) Simple tenses: show basic time",
+        "      - Present: I talk, you talk, he/she talks",
+        "      - Past: I talked, you talked, he/she talked",
+        "      - Future: I will talk, you will talk, he/she will talk",
+        "   b) Continuous tenses: show ongoing actions",
+        "      - Present continuous: I am talking",
+        "      - Past continuous: I was talking",
+        "      - Future continuous: I will be talking",
+        "   c) Perfect tenses: show completed actions",
+        "      - Present perfect: I have talked",
+        "      - Past perfect: I had talked",
+        "      - Future perfect: I will have talked",
+        "",
+        "3. Functions of tenses in passages on peace and dialogue:",
+        "   - Present tense: describes current peace efforts: 'Communities dialogue regularly.'",
+        "   - Past tense: describes past conflicts: 'They fought last year.'",
+        "   - Future tense: describes hoped-for outcomes: 'Peace will bring prosperity.'",
+        "",
+        "4. Identifying tenses in passages on peace and dialogue:",
+        "   - Look for time words: now, yesterday, tomorrow, always, recently",
+        "   - Note verb forms: talk/talks/talked/will talk",
+        "   - Ask: When does this action happen?",
+        "   - Example passage:",
+        "     'Communities in Nigeria dialogue regularly to resolve conflicts. Last year, they held a peace summit. Next month, they will meet again to build unity.'",
+        "     Tenses: dialogue (present), held (past), will meet (future)",
+        "",
+        "5. Making sentences with tenses about peace and dialogue:",
+        "   - Start with a subject + verb: 'Communities dialogue.'",
+        "   - Add time words for clarity: 'Communities dialogue regularly.'",
+        "   - Use different tenses for different times: 'They held a summit last year. They will meet again next month.'",
+        "",
+        "Nigerian Context:",
+        "• Common tenses in Nigerian English about peace and dialogue:",
+        "  - Present: dialogue, negotiate, resolve, build",
+        "  - Past: held, discussed, agreed, resolved",
+        "  - Future: will meet, will build, will resolve, will unite",
+        "",
+        "• Cultural considerations:",
+        "  - Using tenses to describe peace processes in Nigerian communities",
+        "  - Tenses for dialogue discussions: 'we dialogue', 'we held talks', 'we will meet'",
+        "  - Tenses for peacebuilding: 'because unity is strength', 'therefore we must act'",
+        "",
+        "Practical Activities:",
+        "1. Tense Hunt in Peace Passages:",
+        "   - Teacher provides a short passage on peace and dialogue in Nigeria",
+        "   - Students underline all verbs and label their tense (present, past, future)",
+        "   - Class discusses findings and tense functions",
+        "",
+        "2. Tense Sorting Game:",
+        "   - Teacher writes verbs on cards",
+        "   - Students sort into present, past, future categories",
+        "   - Groups present their sorted verbs with example sentences about peace",
+        "",
+        "3. Sentence Building for Peace:",
+        "   - Students receive verb cards and time word cards",
+        "   - In groups, they create sentences about peace using correct tenses",
+        "   - Sentences shared with class for feedback on tense usage",
+        "",
+        "Common Misconceptions:",
+        "• 'Tenses are only about time': Tenses also show aspect (completed, ongoing) and mood",
+        "• 'Only one tense per passage': Passages can use multiple tenses to show different times",
+        "• 'Tenses don't affect meaning': Tenses significantly affect how readers understand time and sequence",
+        "• 'Only verbs show tense': Time words and context also help show tense",
+        "",
+        "Nigerian Context:",
+        "• Understanding tenses supports clear, precise communication about peace and dialogue",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of tenses is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Tenses show the time of actions or states: present, past, future",
+        "• Types include simple, continuous, and perfect tenses",
+        "• Functions include describing current efforts, past events, and future hopes",
+        "• Mastery of tenses supports clear, precise communication about peace and dialogue"
+      ],
+      "diagramDescriptions": [
+        "Chart of tense types with Nigerian peace examples",
+        "Diagram showing tense forms and functions",
+        "Sample passage on peace with tenses highlighted by type",
+        "Tense sorting activity template",
+        "Nigerian context: Common tenses in peace and dialogue discussions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar tenses peace dialogue site:youtube.com",
+      "quiz": [
+        {
+          "q": "Tenses show:",
+          "opts": [
+            "Only the subject",
+            "The time of an action or state",
+            "Only the object",
+            "Only the verb"
+          ],
+          "ans": 1,
+          "explanation": "Tenses show the time of an action or state: present, past, or future."
+        },
+        {
+          "q": "Which is a present tense verb?",
+          "opts": [
+            "talked",
+            "talk",
+            "will talk",
+            "has talked"
+          ],
+          "ans": 1,
+          "explanation": "'Talk' is a present tense verb; 'talked' is past, 'will talk' is future, 'has talked' is present perfect."
+        },
+        {
+          "q": "In the sentence 'Communities dialogue regularly', 'dialogue' is in the:",
+          "opts": [
+            "Past tense",
+            "Present tense",
+            "Future tense",
+            "Perfect tense"
+          ],
+          "ans": 1,
+          "explanation": "'Dialogue' is in the present tense, describing a current, regular action."
+        },
+        {
+          "q": "Which type of tense shows ongoing actions?",
+          "opts": [
+            "Simple",
+            "Continuous",
+            "Perfect",
+            "None"
+          ],
+          "ans": 1,
+          "explanation": "Continuous tenses show ongoing actions (I am talking, I was talking, I will be talking)."
+        },
+        {
+          "q": "In Nigerian context, which is a past tense verb about peace?",
+          "opts": [
+            "dialogue",
+            "held",
+            "will meet",
+            "is building"
+          ],
+          "ans": 1,
+          "explanation": "'Held' is a past tense verb commonly used in Nigerian English to describe past peace events."
+        },
+        {
+          "q": "Tenses can be identified by:",
+          "opts": [
+            "Only the subject",
+            "Looking for time words and noting verb forms",
+            "Only the object",
+            "Only the context"
+          ],
+          "ans": 1,
+          "explanation": "Looking for time words (now, yesterday, tomorrow) and noting verb forms helps identify tenses."
+        },
+        {
+          "q": "Which word can function as a time word for tense?",
+          "opts": [
+            "peace",
+            "yesterday",
+            "dialogue",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Yesterday' is a time word that helps show past tense; 'peace' is a noun, 'dialogue' is a verb, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding tenses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication about peace and dialogue",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Tenses add precision and detail to communication about peace and dialogue, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of tense?",
+          "opts": [
+            "Simple",
+            "Continuous",
+            "Action",
+            "Perfect"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of tense; simple, continuous, and perfect are types of tenses."
+        },
+        {
+          "q": "A common misconception about tenses is:",
+          "opts": [
+            "Tenses show the time of actions",
+            "Tenses are only about time",
+            "Tenses can show aspect and mood",
+            "Tenses affect how readers understand sequence"
+          ],
+          "ans": 1,
+          "explanation": "Tenses are not only about time; they also show aspect (completed, ongoing) and mood."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w10_su3",
+      "title": "10.3 Listening/Speaking: Listening for Main Ideas from Passages on Child Labour and Trafficking",
+      "notes": [
+        "Listening and Speaking: Listening for Main Ideas on Child Labour and Trafficking",
+        "",
+        "Key Concepts:",
+        "1. What are main ideas?",
+        "   - The central message or most important point in a passage",
+        "   - Tells what the passage is mostly about",
+        "   - Example: In a passage on child labour, the main idea might be 'Child labour denies children education and a safe childhood'",
+        "",
+        "2. How to identify main ideas while listening:",
+        "   - Listen for repeated words or ideas",
+        "   - Note the speaker's emphasis or tone",
+        "   - Ask: What is the speaker mostly talking about?",
+        "   - Look for signal words: 'most importantly', 'the key point is', 'in summary'",
+        "",
+        "3. Strategies for listening for main ideas:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for the topic sentence or opening statement",
+        "   - Note key words and phrases",
+        "   - Summarize in your own words after listening",
+        "",
+        "4. Common topics about child labour and trafficking in Nigerian context:",
+        "   - Causes: poverty, lack of education, family pressure, deception",
+        "   - Effects: lost education, health problems, trauma, exploitation",
+        "   - Solutions: education, laws, community action, rehabilitation",
+        "   - Prevention: awareness, reporting, support for vulnerable families",
+        "",
+        "5. How to respond to main ideas about child labour and trafficking:",
+        "   - Summarize the main idea in your own words",
+        "   - Ask clarifying questions if needed",
+        "   - Connect the main idea to your own experiences or observations",
+        "   - Discuss the main idea with classmates or teacher",
+        "",
+        "Nigerian Context:",
+        "• Sample listening passage topic: 'Protecting Nigerian Children from Labour and Trafficking'",
+        "  - Main idea: Child labour and trafficking deny Nigerian children their rights and future",
+        "  - Supporting ideas:",
+        "    * Poverty and lack of education drive child labour",
+        "    * Trafficking exploits children for labour, sex, or begging",
+        "    * Laws, education, and community action can protect children",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the impact of child labour on Nigerian families and communities",
+        "  - Recognizing the role of poverty and lack of education in child exploitation",
+        "  - Appreciating the importance of community action and legal protection",
+        "",
+        "Practical Activities:",
+        "1. Main Idea Identification Practice:",
+        "   - Teacher reads a short passage on child labour in Nigerian context",
+        "   - Students listen and identify the main idea",
+        "   - Groups share their findings and discuss evidence from the passage",
+        "",
+        "2. Listening and Summarizing:",
+        "   - Teacher plays a recorded speech on child trafficking prevention",
+        "   - Students listen and write a one-sentence summary of the main idea",
+        "   - Class compares summaries and discusses accuracy",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech on 'Protecting Children in My Community'",
+        "   - Focus on stating a clear main idea and supporting details",
+        "   - Peer feedback on clarity of main idea and delivery",
+        "",
+        "Common Misconceptions:",
+        "• 'Main ideas are always stated explicitly': Sometimes main ideas are implied and require inference",
+        "• 'Listening for main ideas means ignoring details': Main ideas are supported by details; both are important",
+        "• 'Only one main idea per passage': Some passages may have multiple main ideas or sub-themes",
+        "• 'Main ideas are only for reading': Listening for main ideas is equally important for comprehension",
+        "",
+        "Nigerian Context:",
+        "• Listening for main ideas helps students understand child labour and trafficking issues in Nigeria",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, and NECO examinations",
+        "",
+        "Conclusion:",
+        "• Main ideas are the central messages in passages about child labour and trafficking",
+        "• Strategies include focusing on the speaker, noting key words, and summarizing",
+        "• Practice with Nigerian contexts makes learning relevant and effective",
+        "• Mastery of these skills supports listening comprehension and academic success"
+      ],
+      "diagramDescriptions": [
+        "Chart of main idea identification strategies with child labour examples",
+        "Flowchart for listening for main ideas",
+        "Sample passage on child labour with main idea highlighted",
+        "Nigerian context: Sample listening passages on child protection",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English listening main ideas child labour trafficking Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Main ideas in a passage about child labour are:",
+          "opts": [
+            "Minor details",
+            "The central message about the dangers and prevention of child labour",
+            "Only the first sentence",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are the central messages about the dangers and prevention of child labour."
+        },
+        {
+          "q": "To identify main ideas while listening to a passage on child labour, you should:",
+          "opts": [
+            "Ignore the speaker",
+            "Listen for repeated words and the speaker's emphasis",
+            "Only write down every word",
+            "Focus on minor details"
+          ],
+          "ans": 1,
+          "explanation": "Listening for repeated words and the speaker's emphasis helps you identify main ideas."
+        },
+        {
+          "q": "A signal word for main ideas might be:",
+          "opts": [
+            "for example",
+            "most importantly",
+            "also",
+            "however"
+          ],
+          "ans": 1,
+          "explanation": "'Most importantly' signals that a main idea or key point is being presented."
+        },
+        {
+          "q": "In a passage about child labour in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about types of work",
+            "Child labour denies Nigerian children their rights and future",
+            "Only about history",
+            "Only about foreign countries"
+          ],
+          "ans": 1,
+          "explanation": "A passage about child labour in Nigeria would likely emphasize the denial of children's rights and future."
+        },
+        {
+          "q": "A common mistake in listening for main ideas is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Assuming main ideas are always stated explicitly",
+            "Noting key words",
+            "Summarizing after listening"
+          ],
+          "ans": 1,
+          "explanation": "Assuming main ideas are always explicit is a mistake; sometimes they are implied and require inference."
+        },
+        {
+          "q": "To respond to a main idea about child labour, you should:",
+          "opts": [
+            "Ignore it",
+            "Summarize it in your own words and ask clarifying questions",
+            "Only repeat it exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing in your own words and asking questions shows understanding and engagement."
+        },
+        {
+          "q": "Understanding main ideas about child labour is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports awareness and protection of children in Nigerian society",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Identifying main ideas helps students understand child labour issues and support protection efforts."
+        },
+        {
+          "q": "Which is NOT a strategy for listening for main ideas?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for the topic sentence",
+            "Ignore key words",
+            "Summarize after listening"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring key words is not helpful; noting key words helps identify main ideas."
+        },
+        {
+          "q": "A common misconception about main ideas is:",
+          "opts": [
+            "Main ideas are central messages",
+            "Main ideas are always stated explicitly",
+            "Main ideas can be implied",
+            "Practice improves main idea identification"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are not always explicit; sometimes they are implied and require inference."
+        },
+        {
+          "q": "When listening for main ideas about child labour, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note the speaker's emphasis and repeated ideas",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting the speaker's emphasis and repeated ideas helps you identify the main ideas."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w10_su4",
+      "title": "10.4 Literature: Theme and Plot of Plays (Selected Text)",
+      "notes": [
+        "Literature: Theme and Plot of Plays (Selected Text)",
+        "",
+        "Key Concepts:",
+        "1. What is theme in drama?",
+        "   - The main idea or message of the play",
+        "   - What the play is really about beyond the story",
+        "   - Example: A play about a Nigerian family might have the theme 'Tradition vs modernity'",
+        "",
+        "2. What is plot in drama?",
+        "   - The sequence of events that make up the story",
+        "   - Includes: exposition (introduction), rising action, climax, falling action, resolution",
+        "   - Example: A play might start with a family conflict (exposition), build to a crisis (climax), and end with reconciliation (resolution)",
+        "",
+        "3. How to identify theme:",
+        "   - Ask: What is the play really about?",
+        "   - Look for repeated ideas or messages",
+        "   - Consider the characters' journeys and lessons learned",
+        "   - Example: If a play shows characters overcoming prejudice, the theme might be 'Unity in diversity'",
+        "",
+        "4. How to identify plot:",
+        "   - Identify the main events in order",
+        "   - Note the conflict or problem that drives the story",
+        "   - Ask: What happens first? Next? Last?",
+        "   - Example: In a play about a stolen item, the plot might be: theft discovered → investigation → truth revealed → justice served",
+        "",
+        "5. How theme and plot work together:",
+        "   - Plot events illustrate the theme",
+        "   - Theme gives meaning to the plot",
+        "   - Example: A plot about a family conflict (events) might illustrate the theme of forgiveness (message)",
+        "",
+        "Nigerian Context:",
+        "• Sample play topic: 'A Family Divided by Modern Choices'",
+        "  - Theme: Balancing tradition and modernity in Nigerian families",
+        "  - Plot:",
+        "    * Exposition: A traditional family faces modern challenges",
+        "    * Rising action: Conflicts arise over education, marriage, careers",
+        "    * Climax: A crisis forces the family to choose between tradition and change",
+        "    * Resolution: The family finds a way to honor both tradition and progress",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for traditional values and elders in Nigerian drama",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, identity, and cultural pride",
+        "",
+        "Practical Activities:",
+        "1. Theme Identification Practice:",
+        "   - Teacher provides a short excerpt from a Nigerian play",
+        "   - Students work in pairs to identify the theme",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "2. Plot Mapping:",
+        "   - Teacher reads a short play or excerpt",
+        "   - Students map the plot: exposition, rising action, climax, falling action, resolution",
+        "   - Discuss how plot events illustrate the theme",
+        "",
+        "3. Creative Drama:",
+        "   - Students work in groups to create a short scene with a clear theme and plot",
+        "   - Focus on conflict, character, and message",
+        "   - Perform scenes for class feedback on theme and plot clarity",
+        "",
+        "Common Misconceptions:",
+        "• 'Theme is the same as plot': Theme is the message; plot is the sequence of events",
+        "• 'Only one theme per play': Plays can have multiple themes or sub-themes",
+        "• 'Plot is only about action': Plot includes character development, conflict, and resolution",
+        "• 'Theme and plot are separate': Theme and plot work together to create meaning",
+        "",
+        "Nigerian Context:",
+        "• Understanding theme and plot helps students appreciate Nigerian drama and literary traditions",
+        "• Practice with local plays enhances cultural pride and literary appreciation",
+        "• Analyzing theme and plot develops critical thinking and writing skills",
+        "",
+        "Conclusion:",
+        "• Theme is the main message; plot is the sequence of events in a play",
+        "• Strategies include asking what the play is about, mapping events, and connecting theme to plot",
+        "• Nigerian plays reflect rich cultural traditions with universal themes",
+        "• Mastery of theme and plot analysis supports literary appreciation and critical thinking"
+      ],
+      "diagramDescriptions": [
+        "Chart of theme and plot elements with Nigerian drama examples",
+        "Diagram of plot structure: exposition, rising action, climax, falling action, resolution",
+        "Sample Nigerian play excerpt with theme and plot highlighted",
+        "Nigerian context: Famous Nigerian plays and their themes",
+        "Activity template: Theme identification and plot mapping"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature theme plot plays Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Theme in drama is:",
+          "opts": [
+            "Only the plot",
+            "The main idea or message of the play",
+            "Only the setting",
+            "Only the characters"
+          ],
+          "ans": 1,
+          "explanation": "Theme is the main idea or message of the play, what it is really about beyond the story."
+        },
+        {
+          "q": "Plot in drama is:",
+          "opts": [
+            "Only the theme",
+            "The sequence of events that make up the story",
+            "Only the characters",
+            "Only the dialogue"
+          ],
+          "ans": 1,
+          "explanation": "Plot is the sequence of events that make up the story, including exposition, rising action, climax, falling action, resolution."
+        },
+        {
+          "q": "To identify theme, you should ask:",
+          "opts": [
+            "What happens first?",
+            "What is the play really about?",
+            "Who are the characters?",
+            "Where is the setting?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is the play really about?' helps you identify the theme."
+        },
+        {
+          "q": "In a Nigerian play about family conflict, the theme might be:",
+          "opts": [
+            "Only about food",
+            "Balancing tradition and modernity in Nigerian families",
+            "Only about school",
+            "Only about history"
+          ],
+          "ans": 1,
+          "explanation": "A Nigerian play about family conflict would likely explore the theme of balancing tradition and modernity."
+        },
+        {
+          "q": "A common mistake in identifying plot is:",
+          "opts": [
+            "Identifying events in order",
+            "Confusing plot with theme",
+            "Noting the conflict",
+            "Asking what happens first"
+          ],
+          "ans": 1,
+          "explanation": "Confusing plot (sequence of events) with theme (message) is a common mistake."
+        },
+        {
+          "q": "Theme and plot work together to:",
+          "opts": [
+            "Only list facts",
+            "Create meaning and illustrate the message through events",
+            "Only provide historical data",
+            "Only entertain without meaning"
+          ],
+          "ans": 1,
+          "explanation": "Theme and plot work together to create meaning and illustrate the message through events."
+        },
+        {
+          "q": "Understanding theme and plot is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding theme and plot helps students appreciate their heritage, understand human experiences, and develop literary skills."
+        },
+        {
+          "q": "Which is NOT a part of plot structure?",
+          "opts": [
+            "Exposition",
+            "Climax",
+            "Theme",
+            "Resolution"
+          ],
+          "ans": 2,
+          "explanation": "'Theme' is not a part of plot structure; exposition, climax, and resolution are parts of plot."
+        },
+        {
+          "q": "A common misconception about theme is:",
+          "opts": [
+            "Theme is the main message",
+            "Theme is the same as plot",
+            "Theme can be identified through analysis",
+            "Practice improves theme identification"
+          ],
+          "ans": 1,
+          "explanation": "Theme is not the same as plot; theme is the message, plot is the sequence of events."
+        },
+        {
+          "q": "When analyzing plot, you should:",
+          "opts": [
+            "Ignore the events",
+            "Identify events in order and note the conflict",
+            "Only focus on the ending",
+            "Skip the exposition"
+          ],
+          "ans": 1,
+          "explanation": "Identifying events in order and noting the conflict helps you understand the plot."
+        }
+      ]
+    }
+  ]
+}

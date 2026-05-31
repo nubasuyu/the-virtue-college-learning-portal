@@ -1,0 +1,1028 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t1_w3_su1",
+      "title": "3.1 Reading: Reading from Passages for Maximum Recall on Safety of Packaged Water",
+      "notes": [
+        "Reading: Safety of Packaged Water for Maximum Recall",
+        "",
+        "Key Concepts:",
+        "1. What is reading for maximum recall?",
+        "   - Reading with the purpose of remembering key information",
+        "   - Using strategies to retain and retrieve information",
+        "   - Example: Reading about packaged water safety to remember health guidelines",
+        "",
+        "2. Strategies for reading for maximum recall:",
+        "   - Preview the passage: Look at title, headings, pictures",
+        "   - Read actively: Ask questions, make notes, highlight key points",
+        "   - Summarize: Restate main ideas in your own words",
+        "   - Review: Go over key points after reading",
+        "",
+        "3. Topics on safety of packaged water:",
+        "   - Checking NAFDAC registration number",
+        "   - Expiry dates and storage conditions",
+        "   - Signs of contamination: discoloration, strange smell, broken seal",
+        "   - Proper disposal of plastic bottles",
+        "",
+        "4. How to identify key information in passages:",
+        "   - Look for topic sentences that state main ideas",
+        "   - Note repeated words or concepts",
+        "   - Identify examples that support main points",
+        "   - Ask: What is the most important information here?",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'How to Choose Safe Packaged Water in Nigeria'",
+        "  - Key points:",
+        "    * Always check for NAFDAC registration number on the label",
+        "    * Ensure the seal is intact before purchasing",
+        "    * Check expiry date and store in cool, dry place",
+        "    * Avoid buying from unhygienic roadside vendors",
+        "  - Recall strategy: Summarize each safety step and its importance",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local challenges with water quality and regulation",
+        "  - Recognizing the role of NAFDAC in consumer protection",
+        "  - Appreciating how safe water practices affect community health",
+        "",
+        "Practical Activities:",
+        "1. Preview and Question:",
+        "   - Teacher provides a short passage on packaged water safety",
+        "   - Students preview the passage and write questions they want answered",
+        "   - Read the passage to answer their questions",
+        "",
+        "2. Key Point Identification:",
+        "   - Teacher reads a passage aloud",
+        "   - Students list the main ideas and supporting details",
+        "   - Class compares lists and discusses which points are most important",
+        "",
+        "3. Recall Practice:",
+        "   - Students read a passage silently",
+        "   - Close the passage and write down everything they remember",
+        "   - Compare notes with the original passage to check accuracy",
+        "",
+        "Common Misconceptions:",
+        "• 'Reading once is enough': Multiple readings with different purposes improve recall",
+        "• 'All details are equally important': Focus on main ideas and key supporting details",
+        "• 'Recall means memorizing word-for-word': Recall means understanding and restating ideas",
+        "• 'Water safety is only about packaging': Water safety also involves source, handling, and storage",
+        "",
+        "Nigerian Context:",
+        "• Reading for maximum recall helps students understand health information in Nigerian media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily life decisions",
+        "",
+        "Conclusion:",
+        "• Reading for maximum recall uses strategies to remember key information",
+        "• Previewing, active reading, summarizing, and reviewing improve retention",
+        "• Practice with Nigerian water safety topics makes learning relevant",
+        "• Mastery of these skills supports academic success and healthy living"
+      ],
+      "diagramDescriptions": [
+        "Chart of reading strategies for maximum recall with examples",
+        "Flowchart for previewing, reading, summarizing, reviewing",
+        "Sample passage on packaged water safety with key points highlighted",
+        "Nigerian context: Sample passage on NAFDAC guidelines with recall practice",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading comprehension water safety recall site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading for maximum recall means:",
+          "opts": [
+            "Reading as fast as possible",
+            "Reading with the purpose of remembering key information",
+            "Only reading the first paragraph",
+            "Only reading for entertainment"
+          ],
+          "ans": 1,
+          "explanation": "Reading for maximum recall means reading with the purpose of remembering key information using specific strategies."
+        },
+        {
+          "q": "A strategy for reading for maximum recall is to:",
+          "opts": [
+            "Read without thinking",
+            "Preview the passage and ask questions",
+            "Only read the conclusion",
+            "Ignore the title"
+          ],
+          "ans": 1,
+          "explanation": "Previewing the passage and asking questions helps focus attention on key information for better recall."
+        },
+        {
+          "q": "In a passage about packaged water safety, a key point might be:",
+          "opts": [
+            "Only the brand name",
+            "Always check for NAFDAC registration number on the label",
+            "Only the price of water",
+            "Only the color of the bottle"
+          ],
+          "ans": 1,
+          "explanation": "Checking for NAFDAC registration is key safety information to remember from a packaged water passage."
+        },
+        {
+          "q": "To identify key information, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Look for topic sentences and repeated concepts",
+            "Ignore examples",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Looking for topic sentences and repeated concepts helps identify the most important information."
+        },
+        {
+          "q": "In Nigerian context, safe packaged water practices include:",
+          "opts": [
+            "Only buying the cheapest water",
+            "Checking NAFDAC number, seal integrity, and expiry date",
+            "Only buying from roadside vendors",
+            "Only drinking from plastic bottles"
+          ],
+          "ans": 1,
+          "explanation": "Safe water practices in Nigeria include checking NAFDAC number, seal integrity, and expiry date."
+        },
+        {
+          "q": "A common mistake in reading for recall is:",
+          "opts": [
+            "Previewing the passage",
+            "Assuming all details are equally important",
+            "Asking questions while reading",
+            "Summarizing after reading"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all details are equally important is a mistake; focus on main ideas and key supporting details."
+        },
+        {
+          "q": "Understanding water safety is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in science class",
+            "Supports healthy living and prevents water-borne diseases",
+            "Only for buying water",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding water safety supports healthy living and helps prevent water-borne diseases in Nigerian communities."
+        },
+        {
+          "q": "Which is NOT a strategy for maximum recall?",
+          "opts": [
+            "Preview the passage",
+            "Read actively and ask questions",
+            "Read only once without review",
+            "Summarize main ideas"
+          ],
+          "ans": 2,
+          "explanation": "Reading only once without review is not effective for maximum recall; multiple readings with different purposes help."
+        },
+        {
+          "q": "A common misconception about recall is:",
+          "opts": [
+            "Recall means understanding and restating ideas",
+            "Recall means memorizing word-for-word",
+            "Practice improves recall",
+            "Summarizing helps retention"
+          ],
+          "ans": 1,
+          "explanation": "Recall means understanding and restating ideas in your own words, not memorizing word-for-word."
+        },
+        {
+          "q": "When reading for maximum recall, you should:",
+          "opts": [
+            "Ignore the title",
+            "Preview, read actively, summarize, and review",
+            "Only focus on examples",
+            "Skip difficult sections"
+          ],
+          "ans": 1,
+          "explanation": "Previewing, reading actively, summarizing, and reviewing are effective strategies for maximum recall."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w3_su2",
+      "title": "3.2 Writing: Story or Passage Highlighting Supporting Ideas",
+      "notes": [
+        "Writing: Highlighting Supporting Ideas",
+        "",
+        "Key Concepts:",
+        "1. What are supporting ideas?",
+        "   - Details, examples, or explanations that support the main idea",
+        "   - Provide evidence or reasons for the main point",
+        "   - Example: Supporting ideas for water safety:",
+        "     * NAFDAC registration ensures quality control",
+        "     * Intact seals prevent contamination",
+        "     * Expiry dates ensure water is safe to drink",
+        "",
+        "2. How to identify supporting ideas:",
+        "   - Look for details that explain or give examples of the main point",
+        "   - Note facts, statistics, or stories that support the main idea",
+        "   - Ask: How does this detail support the main point?",
+        "   - Check if removing a sentence weakens the main argument",
+        "",
+        "3. How to highlight supporting ideas in writing:",
+        "   - Start with a clear main idea or topic sentence",
+        "   - Use supporting details: facts, examples, explanations",
+        "   - Organize ideas logically: main idea first, then supporting points",
+        "   - Use transition words: for example, also, because, therefore",
+        "",
+        "4. Arrangement of ideas in logical sequence:",
+        "   - Introduction: State the main idea",
+        "   - Body: Present supporting ideas in logical order",
+        "   - Conclusion: Summarize and reinforce the main point",
+        "",
+        "5. Why identify supporting ideas?",
+        "   - Helps readers understand and believe the main point",
+        "   - Makes writing clearer and more persuasive",
+        "   - Supports better comprehension and recall",
+        "   - Essential for summary writing and note-taking",
+        "",
+        "Nigerian Context:",
+        "• Sample story topic: 'The Importance of Safe Water in My Community'",
+        "  - Main idea: Safe packaged water prevents diseases in Nigerian communities",
+        "  - Supporting ideas:",
+        "    * Contaminated water causes cholera and typhoid",
+        "    * NAFDAC-regulated water undergoes quality testing",
+        "    * Proper storage prevents re-contamination",
+        "    * Community education improves water safety practices",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local water challenges and solutions",
+        "  - Recognizing community efforts to ensure water safety",
+        "  - Appreciating cultural practices related to water use",
+        "",
+        "Practical Activities:",
+        "1. Supporting Details Practice:",
+        "   - Teacher writes a main idea on the board",
+        "   - Students brainstorm supporting details in groups",
+        "   - Class discusses which details best support the main idea",
+        "",
+        "2. Logical Sequence Exercise:",
+        "   - Teacher provides scrambled supporting ideas",
+        "   - Students work in pairs to arrange them in logical order",
+        "   - Groups present their sequences and explain their reasoning",
+        "",
+        "3. Writing Practice:",
+        "   - Students write a short paragraph with a clear main idea",
+        "   - Include at least three supporting details",
+        "   - Peer review for clarity of main idea and relevance of supporting details",
+        "",
+        "Common Misconceptions:",
+        "• 'All details are supporting ideas': Only details that directly support the main point are supporting ideas",
+        "• 'Supporting ideas are less important': Supporting ideas are essential for explaining and proving main points",
+        "• 'Supporting ideas can be in any order': Logical sequence helps readers follow the argument",
+        "• 'Only facts can be supporting ideas': Examples, explanations, and stories can also support main ideas",
+        "",
+        "Nigerian Context:",
+        "• Identifying supporting ideas helps students comprehend Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Supporting ideas provide details and examples that explain the main point",
+        "• Strategies include looking for explanatory details, organizing logically, and using transitions",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports reading comprehension and clear writing"
+      ],
+      "diagramDescriptions": [
+        "Chart of main vs supporting ideas with examples",
+        "Flowchart for identifying and arranging supporting ideas",
+        "Sample passage with main idea and supporting details highlighted",
+        "Nigerian context: Sample story on water safety with idea analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English writing supporting ideas logical sequence site:youtube.com",
+      "quiz": [
+        {
+          "q": "Supporting ideas are:",
+          "opts": [
+            "The main message of a passage",
+            "Details, examples, or explanations that support the main idea",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Supporting ideas provide details, examples, or explanations that support and explain the main idea."
+        },
+        {
+          "q": "To identify supporting ideas, you should ask:",
+          "opts": [
+            "What is the author's name?",
+            "How does this detail support the main point?",
+            "How many paragraphs are there?",
+            "What font is used?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'How does this detail support the main point?' helps you identify supporting ideas."
+        },
+        {
+          "q": "In a passage about water safety, a supporting idea might be:",
+          "opts": [
+            "Only about one brand",
+            "NAFDAC registration ensures quality control",
+            "Only about foreign water",
+            "Only about bottle colors"
+          ],
+          "ans": 1,
+          "explanation": "'NAFDAC registration ensures quality control' is a supporting detail that explains why regulated water is safe."
+        },
+        {
+          "q": "A supporting idea for 'Safe water prevents diseases' might be:",
+          "opts": [
+            "Only the author's opinion",
+            "Contaminated water causes cholera and typhoid",
+            "Only the title",
+            "Only the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "'Contaminated water causes cholera and typhoid' is a supporting detail that explains why safe water prevents diseases."
+        },
+        {
+          "q": "A common mistake in identifying supporting ideas is:",
+          "opts": [
+            "Looking for explanatory details",
+            "Assuming all details are equally important",
+            "Asking how details support the main point",
+            "Checking if details strengthen the argument"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all details are equally important is a mistake; only details that directly support the main point are supporting ideas."
+        },
+        {
+          "q": "Understanding supporting ideas is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian texts and clear writing",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students comprehend Nigerian texts and write clearly in academic and daily contexts."
+        },
+        {
+          "q": "Which is NOT a supporting idea?",
+          "opts": [
+            "An example that explains the main point",
+            "A fact that proves the main point",
+            "A detail unrelated to the main point",
+            "An explanation of the main point"
+          ],
+          "ans": 2,
+          "explanation": "A detail unrelated to the main point is not a supporting idea; supporting ideas must directly relate to the main point."
+        },
+        {
+          "q": "A common misconception about supporting ideas is:",
+          "opts": [
+            "Supporting ideas explain the main point",
+            "Supporting ideas are less important than main ideas",
+            "Supporting ideas can include examples",
+            "Practice improves identification"
+          ],
+          "ans": 1,
+          "explanation": "Supporting ideas are not less important; they are essential for explaining and proving main points."
+        },
+        {
+          "q": "When writing to highlight supporting ideas, you should:",
+          "opts": [
+            "Start with a clear main idea",
+            "Only use examples",
+            "Ignore logical sequence",
+            "Only write one sentence"
+          ],
+          "ans": 0,
+          "explanation": "Starting with a clear main idea helps readers immediately understand what the supporting details will explain."
+        },
+        {
+          "q": "Arranging ideas in logical sequence means:",
+          "opts": [
+            "Putting ideas in random order",
+            "Organizing supporting ideas to build on the main point",
+            "Only listing facts",
+            "Only writing conclusions"
+          ],
+          "ans": 1,
+          "explanation": "Logical sequence organizes supporting ideas to build on the main point, helping readers follow the argument."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w3_su3",
+      "title": "3.3 Grammatical Accuracy: Nouns",
+      "notes": [
+        "Grammatical Accuracy: Nouns",
+        "",
+        "Key Concepts:",
+        "1. What are nouns?",
+        "   - Words that name people, places, things, or ideas",
+        "   - Examples: boy, Lagos, book, happiness",
+        "   - Functions: subject of sentence, object of verb, object of preposition",
+        "",
+        "2. Types of nouns:",
+        "   a) Common nouns: general names for people, places, things",
+        "      - Examples: teacher, city, book, emotion",
+        "   b) Proper nouns: specific names of people, places, things",
+        "      - Examples: Mr. Ade, Abuja, 'Things Fall Apart', Monday",
+        "   c) Concrete nouns: things you can perceive with senses",
+        "      - Examples: table, music, perfume, sand",
+        "   d) Abstract nouns: ideas, qualities, states you cannot perceive",
+        "      - Examples: love, courage, freedom, childhood",
+        "",
+        "3. Functions of nouns in sentences:",
+        "   - Subject: 'The boy kicked the ball.' (boy = subject)",
+        "   - Object: 'She read the book.' (book = object)",
+        "   - Object of preposition: 'He went to school.' (school = object of 'to')",
+        "",
+        "4. Identifying nouns in passages:",
+        "   - Look for words that name people, places, things, or ideas",
+        "   - Ask: What is this word naming?",
+        "   - Example passage:",
+        "     'Aisha bought safe water from the market in Lagos. She checked the NAFDAC number.'",
+        "     Nouns: Aisha (proper), water (common), market (common), Lagos (proper), NAFDAC (proper), number (common)",
+        "",
+        "5. Making sentences with nouns:",
+        "   - Start with a subject noun: 'The teacher explains grammar.'",
+        "   - Add object nouns: 'The teacher explains grammar to the students.'",
+        "   - Use proper nouns for specific references: 'Mr. Bello teaches English at Government Secondary School.'",
+        "",
+        "Nigerian Context:",
+        "• Common nouns in Nigerian English:",
+        "  - People: student, teacher, farmer, trader, parent",
+        "  - Places: village, city, market, school, mosque, church",
+        "  - Things: water, garri, book, car, phone, uniform",
+        "  - Ideas: respect, hard work, community, education",
+        "",
+        "• Cultural considerations:",
+        "  - Using proper nouns for Nigerian places and people",
+        "  - Recognizing abstract nouns important in Nigerian culture: respect, hospitality, unity",
+        "  - Understanding how nouns function in Nigerian English sentences",
+        "",
+        "Practical Activities:",
+        "1. Noun Hunt:",
+        "   - Teacher provides a short passage about water safety",
+        "   - Students underline all nouns in different colors by type",
+        "   - Class discusses findings and noun functions",
+        "",
+        "2. Noun Sorting Game:",
+        "   - Teacher writes nouns on cards",
+        "   - Students sort into common/proper, concrete/abstract categories",
+        "   - Groups present their sorted nouns with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive noun cards",
+        "   - In groups, they create sentences using nouns as subjects and objects",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All nouns are things': Nouns can name people, places, ideas, not just things",
+        "• 'Proper nouns are always capitalized': Proper nouns must always be capitalized",
+        "• 'Abstract nouns are not real': Abstract nouns name real concepts like love and courage",
+        "• 'Nouns are only subjects': Nouns can function as subjects, objects, or objects of prepositions",
+        "",
+        "Nigerian Context:",
+        "• Understanding nouns supports clear communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of nouns is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Nouns name people, places, things, or ideas",
+        "• Types include common, proper, concrete, and abstract nouns",
+        "• Functions include subject, object, and object of preposition",
+        "• Mastery of nouns supports clear, accurate communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of noun types with Nigerian examples",
+        "Diagram showing noun functions in sentences",
+        "Sample passage with nouns highlighted by type",
+        "Noun sorting activity template",
+        "Nigerian context: Common nouns in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar nouns types functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun is a word that:",
+          "opts": [
+            "Shows action",
+            "Names a person, place, thing, or idea",
+            "Describes a noun",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "A noun names a person, place, thing, or idea."
+        },
+        {
+          "q": "Which is a proper noun?",
+          "opts": [
+            "city",
+            "Lagos",
+            "book",
+            "happiness"
+          ],
+          "ans": 1,
+          "explanation": "'Lagos' is a proper noun because it names a specific place; 'city', 'book', and 'happiness' are common nouns."
+        },
+        {
+          "q": "In the sentence 'Aisha bought safe water', 'Aisha' is a:",
+          "opts": [
+            "Verb",
+            "Noun",
+            "Adjective",
+            "Adverb"
+          ],
+          "ans": 1,
+          "explanation": "'Aisha' is a noun because it names a specific person."
+        },
+        {
+          "q": "Which type of noun names an idea you cannot perceive with senses?",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Concrete noun",
+            "Abstract noun"
+          ],
+          "ans": 3,
+          "explanation": "Abstract nouns name ideas, qualities, or states you cannot perceive with senses (love, courage, freedom)."
+        },
+        {
+          "q": "In Nigerian context, which is an abstract noun?",
+          "opts": [
+            "market",
+            "respect",
+            "water",
+            "Lagos"
+          ],
+          "ans": 1,
+          "explanation": "'Respect' is an abstract noun important in Nigerian culture; the others are concrete or proper nouns."
+        },
+        {
+          "q": "Nouns can function as:",
+          "opts": [
+            "Only subjects",
+            "Subjects, objects, or objects of prepositions",
+            "Only objects",
+            "Only proper nouns"
+          ],
+          "ans": 1,
+          "explanation": "Nouns can function as subjects ('The boy ran'), objects ('She read the book'), or objects of prepositions ('He went to school')."
+        },
+        {
+          "q": "Understanding nouns is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear sentence construction and communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Nouns are essential to sentence structure; mastering them supports clear writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of noun?",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Action noun",
+            "Abstract noun"
+          ],
+          "ans": 2,
+          "explanation": "'Action noun' is not a type of noun; common, proper, concrete, and abstract are types of nouns."
+        },
+        {
+          "q": "A common misconception about nouns is:",
+          "opts": [
+            "Nouns name people, places, things, or ideas",
+            "All nouns are things",
+            "Proper nouns are always capitalized",
+            "Nouns can function in different ways"
+          ],
+          "ans": 1,
+          "explanation": "Not all nouns are things; nouns can name people, places, ideas, not just physical things."
+        },
+        {
+          "q": "A good strategy for identifying nouns is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: What is this word naming?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is this word naming?' helps identify nouns regardless of their form or position."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w3_su4",
+      "title": "3.4 Listening/Speaking: Consonant Sounds",
+      "notes": [
+        "Listening and Speaking: Consonant Sounds",
+        "",
+        "Key Concepts:",
+        "1. Understanding consonant sounds:",
+        "   - Speech sounds made with some blockage of airflow",
+        "   - English has many consonant sounds with different articulations",
+        "   - Examples: /t/ as in tap, /k/ as in cat, /s/ as in sun",
+        "",
+        "2. Importance of distinguishing consonant sounds:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'tap' /tæp/ vs 'cap' /kæp/ - different consonant sounds!",
+        "",
+        "3. Common consonant sounds for practice:",
+        "   - /t/ as in tap, top, tin, town",
+        "   - /k/ as in cat, cup, kin, town",
+        "   - /s/ as in sun, sit, soon, safe",
+        "   - /f/ as in fan, fun, fine, safe",
+        "",
+        "4. Listening strategies for consonant sounds:",
+        "   - Focus on the speaker: listen carefully to consonant articulation",
+        "   - Listen for minimal pairs: words that differ only in consonant sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say tap or cap?'",
+        "",
+        "5. Speaking strategies for consonant sounds:",
+        "   - Practice consonant articulation: tongue, teeth, lips position",
+        "   - Use minimal pairs for practice: tap/cap, sun/fun, tin/kin",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on consonant clarity",
+        "",
+        "Nigerian Context:",
+        "• Common consonant sound challenges for Nigerian speakers:",
+        "  - Confusing /t/ and /k/: 'tap' vs 'cap'",
+        "  - Difficulty with /s/ vs /ʃ/: 'sun' vs 'shun'",
+        "  - Influence of native language consonant systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Health Awareness': 'Drink safe water' (clear /s/)",
+        "  - 'Transportation': 'Take the bus to town' (clear /t/)",
+        "  - 'Safety': 'Keep the seal intact' (clear /k/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear consonant sounds in multilingual Nigerian classrooms",
+        "  - Importance of consonant clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar consonant sounds",
+        "",
+        "Practical Activities:",
+        "1. Consonant Sound Drill:",
+        "   - Teacher models consonant sounds with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: tap/cap, sun/fun, tin/kin",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different consonant sounds",
+        "   - Students raise hands for /t/, stand for /k/, etc.",
+        "   - Practice with Nigerian-relevant words: 'tap' (water) vs 'cap' (bottle)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target consonant sounds",
+        "   - Focus on clear consonant articulation",
+        "   - Peer feedback on consonant clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Consonant sounds don't matter in Nigerian English': Incorrect consonant sounds can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct consonants': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear consonant pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has distinct consonant sounds that affect word meaning",
+        "• Listening strategies help you distinguish between similar consonant sounds",
+        "• Speaking strategies help you pronounce consonants clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of consonant sounds with example words",
+        "Diagram of mouth positions for each consonant sound",
+        "Sample minimal pairs practice: tap/cap, sun/fun, tin/kin",
+        "Listening strategy flowchart: Focus, Listen for consonant articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for consonant practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English consonant sounds pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Consonant sounds are made with:",
+          "opts": [
+            "Free airflow through the mouth",
+            "Some blockage of airflow",
+            "Only the lips",
+            "Only the tongue"
+          ],
+          "ans": 1,
+          "explanation": "Consonant sounds are made with some blockage of airflow, unlike vowels which have free airflow."
+        },
+        {
+          "q": "The word 'tap' has the consonant sound:",
+          "opts": [
+            "/k/",
+            "/t/",
+            "/s/",
+            "/f/"
+          ],
+          "ans": 1,
+          "explanation": "'Tap' has the consonant sound /t/; 'cap' has /k/, 'sap' has /s/, 'fap' has /f/."
+        },
+        {
+          "q": "Correct consonant pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct consonant sounds prevent confusion between words like 'tap' and 'cap' which have different meanings."
+        },
+        {
+          "q": "When listening for consonant sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for consonant articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for consonant articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common consonant sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/t/ and /k/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /t/ (as in 'tap') and /k/ (as in 'cap')."
+        },
+        {
+          "q": "A good speaking strategy for consonants is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice consonant articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing consonant articulation with minimal pairs (tap/cap) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different consonant sounds?",
+          "opts": [
+            "tap/cap",
+            "tap/tap",
+            "cap/cap",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Tap' has /t/; 'cap' has /k/ - different consonant sounds change the word meaning."
+        },
+        {
+          "q": "Understanding consonant sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear consonant pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a consonant sound?",
+          "opts": [
+            "/a:/",
+            "/t/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/t/ is a consonant sound; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about consonants is:",
+          "opts": [
+            "Consonant sounds can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English consonant sounds are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w3_su5",
+      "title": "3.5 Literature: African and Non-African Tales",
+      "notes": [
+        "Literature: African and Non-African Tales",
+        "",
+        "Key Concepts:",
+        "1. What are tales?",
+        "   - Traditional stories passed down orally through generations",
+        "   - Often feature animals, magical elements, and moral lessons",
+        "   - Example: 'Why the Tortoise Has a Cracked Shell' (African tale)",
+        "",
+        "2. Features of tales:",
+        "   - Simple language and clear plot",
+        "   - Characters often represent good or evil, wisdom or foolishness",
+        "   - Magical elements or talking animals in many tales",
+        "   - Moral lessons at the end: 'Slow and steady wins the race'",
+        "",
+        "3. Types of tales:",
+        "   - Didactic: teach moral lessons",
+        "   - Entertaining: amuse and engage listeners",
+        "   - Magical: feature supernatural elements or transformations",
+        "   - Archaic: use old-fashioned language or settings",
+        "",
+        "4. Common themes in African and non-African tales:",
+        "   - Wisdom over strength or speed",
+        "   - Consequences of greed or dishonesty",
+        "   - Respect for elders and community",
+        "   - Example: 'The Tortoise and the Birds' teaches about greed",
+        "",
+        "5. How to analyze tales:",
+        "   - Identify the moral lesson",
+        "   - Note the characters and their traits",
+        "   - Consider the setting and cultural context",
+        "   - Ask: What does this tale teach about life?",
+        "",
+        "Nigerian Context:",
+        "• Rich tradition of tales in Nigerian cultures:",
+        "  - Yoruba: 'Ijapa the Tortoise' tales about wisdom and trickery",
+        "  - Igbo: 'Eze the Rabbit' stories teaching cleverness",
+        "  - Hausa: 'Gizo the Spider' tales about wit and survival",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for elders as keepers of oral traditions",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, family, and cultural identity",
+        "",
+        "Practical Activities:",
+        "1. Tale Sharing:",
+        "   - Students share a tale from their community",
+        "   - Class identifies features: characters, plot, moral lesson",
+        "   - Discuss how the tale reflects cultural values",
+        "",
+        "2. Feature Hunt:",
+        "   - Teacher reads short tales with different features",
+        "   - Students identify didactic, entertaining, magical, or archaic elements",
+        "   - Create a class chart of tale features",
+        "",
+        "3. Moral Lesson Discussion:",
+        "   - Students discuss the moral lessons in tales",
+        "   - Connect lessons to real-life situations in Nigerian society",
+        "   - Practice retelling tales with emphasis on moral lessons",
+        "",
+        "Common Misconceptions:",
+        "• 'Tales are only for children': Tales teach valuable lessons to people of all ages",
+        "• 'Tales are not important': Tales preserve culture, history, and wisdom",
+        "• 'Magical features make tales unrealistic': Magical elements help convey deeper truths in memorable ways",
+        "• 'Only African tales have lessons': Tales from all cultures contain didactic elements",
+        "",
+        "Nigerian Context:",
+        "• Understanding tales helps students appreciate Nigerian culture and storytelling traditions",
+        "• Practice with local tales enhances cultural pride and literary appreciation",
+        "• Analyzing tales develops critical thinking and moral reasoning",
+        "",
+        "Conclusion:",
+        "• Tales are traditional stories with features like simple language, magical elements, and moral lessons",
+        "• Types include didactic, entertaining, magical, and archaic tales",
+        "• Nigerian tales reflect rich cultural traditions with universal themes",
+        "• Mastery of tale analysis supports literary appreciation and cultural understanding"
+      ],
+      "diagramDescriptions": [
+        "Chart of tale features: didactic, entertaining, magical, archaic",
+        "Diagram of common themes in African and non-African tales",
+        "Sample tale with features highlighted",
+        "Nigerian context: Famous Nigerian tales and their moral lessons",
+        "Activity template: Tale sharing and feature hunt"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature tales African non-African site:youtube.com",
+      "quiz": [
+        {
+          "q": "Tales are:",
+          "opts": [
+            "Only written books",
+            "Traditional stories passed down orally through generations",
+            "Only poems",
+            "Only true stories"
+          ],
+          "ans": 1,
+          "explanation": "Tales are traditional stories shared orally across generations, often teaching moral lessons."
+        },
+        {
+          "q": "Which is a feature of tales?",
+          "opts": [
+            "Only complex language",
+            "Simple language, clear plot, moral lessons",
+            "Only scientific facts",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Tales often use simple language, clear plots, and teach moral lessons."
+        },
+        {
+          "q": "A didactic tale is one that:",
+          "opts": [
+            "Only entertains",
+            "Teaches a moral lesson",
+            "Only uses magical elements",
+            "Only uses old-fashioned language"
+          ],
+          "ans": 1,
+          "explanation": "Didactic tales are intended to teach moral lessons."
+        },
+        {
+          "q": "In Nigerian context, 'Ijapa the Tortoise' is a character from:",
+          "opts": [
+            "European fairy tales",
+            "Yoruba tales",
+            "Asian fables",
+            "American legends"
+          ],
+          "ans": 1,
+          "explanation": "Ijapa the Tortoise is a famous trickster character in Yoruba tales."
+        },
+        {
+          "q": "A common theme in African tales is:",
+          "opts": [
+            "Only foreign cultures",
+            "Wisdom over strength, consequences of greed, respect for elders",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "African tales often teach cultural values like wisdom, consequences of actions, and respect for elders."
+        },
+        {
+          "q": "To analyze a tale, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What does this tale teach about life?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What does this tale teach about life?' helps you identify the moral lesson of the tale."
+        },
+        {
+          "q": "Understanding tales is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, values, and storytelling traditions",
+            "Only for English class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Tales help students appreciate their heritage, understand cultural values, and develop literary appreciation."
+        },
+        {
+          "q": "Which is NOT a type of tale?",
+          "opts": [
+            "Didactic",
+            "Entertaining",
+            "Scientific",
+            "Magical"
+          ],
+          "ans": 2,
+          "explanation": "'Scientific' is not a type of tale; didactic, entertaining, magical, and archaic are types of tales."
+        },
+        {
+          "q": "A common misconception about tales is:",
+          "opts": [
+            "Tales teach moral lessons",
+            "Tales are only for children",
+            "Tales can have magical elements",
+            "Tales reflect cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Tales are valuable for people of all ages; they teach lessons and preserve culture beyond childhood."
+        },
+        {
+          "q": "Magical features in tales help to:",
+          "opts": [
+            "Confuse the reader",
+            "Make lessons more memorable and engaging",
+            "Replace moral lessons",
+            "Make stories longer"
+          ],
+          "ans": 1,
+          "explanation": "Magical features help convey deeper truths in memorable and engaging ways."
+        }
+      ]
+    }
+  ]
+}

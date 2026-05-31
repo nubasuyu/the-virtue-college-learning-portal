@@ -1,0 +1,1103 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Speech, Vocabulary, Comprehension, Structure, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w4_su1",
+      "title": "4.1 Speech: Emphatic Stress",
+      "notes": [
+        "Emphatic Stress in English:",
+        "• Definition: Emphatic stress is the use of extra emphasis on a particular word in a sentence to change or highlight its meaning",
+        "• Importance: Helps convey contrast, correction, or strong emotion in speech",
+        "",
+        "How Emphatic Stress Works:",
+        "• Normal stress: Follows the natural rhythm of the sentence",
+        "• Emphatic stress: Places extra emphasis on a specific word to change meaning",
+        "• Example:",
+        "  - 'JAMES borrowed the novel.' (James, not anyone else)",
+        "  - 'James BORROWED the novel.' (He borrowed it, didn't buy it)",
+        "  - 'James borrowed THE novel.' (That specific novel, not another)",
+        "  - 'James borrowed the NOVEL.' (The novel, not a textbook)",
+        "",
+        "Uses of Emphatic Stress:",
+        "1. To correct a misunderstanding:",
+        "   - 'I said MONDAY, not Tuesday.'",
+        "   - Nigerian context: 'I said LAGOS, not Abuja.'",
+        "",
+        "2. To show contrast:",
+        "   - 'SHE passed the exam, not her brother.'",
+        "   - Nigerian context: 'CHIDI passed WAEC, not Emeka.'",
+        "",
+        "3. To express strong emotion:",
+        "   - 'I absolutely LOVE this song!'",
+        "   - Nigerian context: 'I really ENJOY jollof rice!'",
+        "",
+        "4. To highlight new or important information:",
+        "   - 'The MEETING is at 3pm, not 2pm.'",
+        "   - Nigerian context: 'The EXAM starts at 9am, not 8am.'",
+        "",
+        "Practical Activities:",
+        "1. Stress Pattern Drill:",
+        "   • Teacher models sentences with normal and emphatic stress",
+        "   • Students repeat, focusing on the emphasized word",
+        "   • Practice with minimal pairs showing meaning change",
+        "",
+        "2. Dialogue Practice:",
+        "   • Students role-play conversations using emphatic stress",
+        "   • Focus on correction, contrast, and emphasis",
+        "   • Peer feedback on stress placement",
+        "",
+        "3. Recording Exercise:",
+        "   • Students record themselves using emphatic stress",
+        "   • Compare with model recordings",
+        "   • Identify and correct errors",
+        "",
+        "Common Nigerian English Errors:",
+        "• Placing stress on the wrong word:",
+        "  - 'I WANT to go to market' (when meaning 'I want to go to MARKET')",
+        "  - Correction: Practice with context to determine correct emphasis",
+        "",
+        "• Using flat intonation throughout:",
+        "  - All words spoken with equal stress",
+        "  - Correction: Practice varying pitch and volume for emphasis",
+        "",
+        "Nigerian Context:",
+        "• Correct emphatic stress improves clarity in Nigerian English communication",
+        "• Helps avoid misunderstandings in academic, professional, and social settings",
+        "• Practice with local examples enhances retention and cultural relevance",
+        "",
+        "Conclusion:",
+        "• Emphatic stress is a powerful tool for conveying meaning in speech",
+        "• It can correct, contrast, emphasize, or express emotion",
+        "• Mastery supports clear, confident, and effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing stress patterns with pitch arrows for emphatic stress",
+        "Chart of emphatic stress uses: correction, contrast, emotion, emphasis",
+        "Sample dialogues with emphatic stress markings for practice",
+        "Nigerian context: Sample sentences with local content and stress cues",
+        "Recording exercise instructions with self-evaluation checklist"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English emphatic stress pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Emphatic stress is used to:",
+          "opts": [
+            "Speak faster",
+            "Highlight or change the meaning of a word in a sentence",
+            "Speak more softly",
+            "Use more vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Emphatic stress places extra emphasis on a particular word to highlight or change its meaning in a sentence."
+        },
+        {
+          "q": "In the sentence 'JAMES borrowed the novel', the emphatic stress on 'James' indicates:",
+          "opts": [
+            "James borrowed a novel",
+            "James, not someone else, borrowed the novel",
+            "James borrowed the novel yesterday",
+            "James borrowed a textbook"
+          ],
+          "ans": 1,
+          "explanation": "Emphatic stress on 'James' indicates that James, and not another person, performed the action."
+        },
+        {
+          "q": "Which sentence uses emphatic stress to show contrast?",
+          "opts": [
+            "I like rice and beans.",
+            "I LIKE rice, not beans.",
+            "I like rice and beans very much.",
+            "I like rice."
+          ],
+          "ans": 1,
+          "explanation": "'I LIKE rice, not beans' uses emphatic stress on 'LIKE' to contrast rice with beans."
+        },
+        {
+          "q": "In Nigerian context, which sentence correctly uses emphatic stress?",
+          "opts": [
+            "I said LAGOS, not Abuja.",
+            "I said Lagos, not Abuja.",
+            "I said lagos, not abuja.",
+            "I said Lagos not Abuja."
+          ],
+          "ans": 0,
+          "explanation": "'I said LAGOS, not Abuja' correctly uses emphatic stress on 'LAGOS' to correct a misunderstanding about location."
+        },
+        {
+          "q": "Emphatic stress can be used to:",
+          "opts": [
+            "Only correct mistakes",
+            "Correct, contrast, emphasize, or express emotion",
+            "Only show emotion",
+            "Only highlight new information"
+          ],
+          "ans": 1,
+          "explanation": "Emphatic stress has multiple uses: correction, contrast, emphasis, and expressing strong emotion."
+        },
+        {
+          "q": "A common Nigerian English error with emphatic stress is:",
+          "opts": [
+            "Using it too frequently",
+            "Placing stress on the wrong word or using flat intonation",
+            "Using it only in formal speech",
+            "Avoiding it completely"
+          ],
+          "ans": 1,
+          "explanation": "Common errors include placing stress on the wrong word or speaking with flat intonation, which reduces clarity."
+        },
+        {
+          "q": "To practice emphatic stress, learners can:",
+          "opts": [
+            "Ignore stress patterns",
+            "Record themselves and compare with model pronunciations",
+            "Speak only in whispers",
+            "Read without speaking"
+          ],
+          "ans": 1,
+          "explanation": "Recording and comparing with models helps learners identify and correct their stress placement."
+        },
+        {
+          "q": "Understanding emphatic stress is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass speaking tests",
+            "Supports clear communication and avoids misunderstandings in diverse settings",
+            "Only for listening comprehension",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Correct emphatic stress enhances clarity, prevents misunderstandings, and supports effective communication in academic, professional, and social contexts."
+        },
+        {
+          "q": "Which sentence demonstrates emphatic stress to express strong emotion?",
+          "opts": [
+            "I like this song.",
+            "I absolutely LOVE this song!",
+            "This song is nice.",
+            "I enjoy music."
+          ],
+          "ans": 1,
+          "explanation": "'I absolutely LOVE this song!' uses emphatic stress on 'LOVE' to express strong positive emotion."
+        },
+        {
+          "q": "A common misconception about emphatic stress is:",
+          "opts": [
+            "It can change the meaning of a sentence",
+            "It is only used in formal speech",
+            "It helps convey contrast and correction",
+            "Practice improves stress placement"
+          ],
+          "ans": 1,
+          "explanation": "Emphatic stress is used in all registers of speech, not just formal contexts; it is a natural part of effective communication."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w4_su2",
+      "title": "4.2 Vocabulary: Synonyms of Words",
+      "notes": [
+        "Vocabulary Development: Synonyms",
+        "• Definition: Synonyms are words that have the same or nearly the same meaning",
+        "• Importance: Expands vocabulary, improves writing variety, and enhances precise expression",
+        "",
+        "Types of Synonyms:",
+        "1. Exact Synonyms (Absolute Synonyms):",
+        "   • Words with identical meanings in all contexts",
+        "   • Rare in English",
+        "   • Example: 'big/large' (in some contexts)",
+        "",
+        "2. Near Synonyms (Partial Synonyms):",
+        "   • Words with similar but not identical meanings",
+        "   • May differ in connotation, register, or collocation",
+        "   • Example: 'happy/glad/joyful' (similar but with subtle differences)",
+        "",
+        "Common Synonym Pairs with Examples:",
+        "• Quick/Fast:",
+        "  - 'She is a quick learner.' / 'He runs fast.'",
+        "  - Nigerian context: 'The bus was quick to arrive.' / 'The athlete ran fast.'",
+        "",
+        "• Close/Near:",
+        "  - 'The shop is close to my house.' / 'The market is near the school.'",
+        "  - Nigerian context: 'The hospital is close to the motor park.'",
+        "",
+        "• Brave/Fearless:",
+        "  - 'The brave soldier fought.' / 'She was fearless in the face of danger.'",
+        "  - Nigerian context: 'The fearless journalist reported the truth.'",
+        "",
+        "• Famous/Well-known:",
+        "  - 'He is a famous musician.' / 'She is well-known in her community.'",
+        "  - Nigerian context: 'Fela Kuti is a famous Nigerian musician.'",
+        "",
+        "• Ancient/Modern:",
+        "  - 'Ancient civilizations' vs 'Modern technology'",
+        "  - Nigerian context: 'Ancient Benin art' vs 'Modern Lagos architecture'",
+        "",
+        "Using Synonyms in Writing:",
+        "• Avoid repetition:",
+        "  - Instead of: 'The big house had a big gate and big windows.'",
+        "  - Write: 'The large house had a massive gate and enormous windows.'",
+        "",
+        "• Choose the right synonym for context:",
+        "  - 'He is cheap' (negative) vs 'He is economical' (positive)",
+        "  - Nigerian context: 'The politician is cunning' (negative) vs 'The politician is shrewd' (neutral/positive)",
+        "",
+        "• Consider register (formal/informal):",
+        "  - Formal: 'commence' vs Informal: 'start'",
+        "  - Nigerian context: Formal letter: 'I wish to commence' vs Informal: 'I want to start'",
+        "",
+        "Practical Activities:",
+        "1. Synonym Building:",
+        "   • Provide base words for students to list synonyms",
+        "   • Discuss subtle differences in meaning and usage",
+        "   • Create sentences using different synonyms",
+        "",
+        "2. Contextual Usage:",
+        "   • Provide sentences with blanks for synonym selection",
+        "   • Students choose the most appropriate synonym for context",
+        "   • Discuss why certain synonyms fit better",
+        "",
+        "3. Writing Practice:",
+        "   • Students rewrite paragraphs replacing repeated words with synonyms",
+        "   • Peer review for variety and appropriateness",
+        "   • Teacher feedback on synonym choice",
+        "",
+        "Common Misconceptions:",
+        "• 'All synonyms are interchangeable': Many synonyms have subtle differences in meaning, connotation, or usage",
+        "• 'More synonyms mean better writing': Quality and appropriateness matter more than quantity",
+        "• 'Synonyms are only for creative writing': They are useful in all types of writing and speaking",
+        "• 'Dictionary synonyms are always correct': Context determines the best synonym choice",
+        "",
+        "Nigerian Context:",
+        "• Understanding synonyms supports clear, varied communication in Nigerian English",
+        "• Local examples enhance relevance and cultural expression",
+        "• Practice with Nigerian contexts builds vocabulary for academic and professional success",
+        "",
+        "Conclusion:",
+        "• Synonyms are words with same or similar meanings that expand vocabulary",
+        "• They help avoid repetition, improve writing variety, and enable precise expression",
+        "• Context, connotation, and register determine the best synonym choice",
+        "• Mastery of synonyms supports effective communication in Nigerian English"
+      ],
+      "diagramDescriptions": [
+        "Chart of synonym types: exact vs near synonyms with examples",
+        "Comparison of synonym pairs with usage notes and Nigerian examples",
+        "Flowchart for choosing the right synonym based on context",
+        "Nigerian context: Sample sentences showing synonym usage in local contexts",
+        "Writing practice exercise: rewriting paragraphs with synonym variety"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary synonyms SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Synonyms are words that:",
+          "opts": [
+            "Have opposite meanings",
+            "Have the same or nearly the same meaning",
+            "Sound the same but have different meanings",
+            "Are spelled the same but have different meanings"
+          ],
+          "ans": 1,
+          "explanation": "Synonyms are words with the same or nearly the same meaning, used to add variety and precision to language."
+        },
+        {
+          "q": "Which pair are synonyms?",
+          "opts": [
+            "happy/sad",
+            "quick/fast",
+            "hot/cold",
+            "big/small"
+          ],
+          "ans": 1,
+          "explanation": "'Quick' and 'fast' are synonyms; the other pairs are antonyms (opposites)."
+        },
+        {
+          "q": "In the sentence 'She is a quick learner', 'quick' could be replaced with:",
+          "opts": [
+            "slow",
+            "fast",
+            "lazy",
+            "careful"
+          ],
+          "ans": 1,
+          "explanation": "'Fast' is a synonym of 'quick' and can replace it in this context without changing the meaning."
+        },
+        {
+          "q": "Which synonym pair shows a difference in connotation?",
+          "opts": [
+            "happy/glad",
+            "cheap/economical",
+            "big/large",
+            "fast/quick"
+          ],
+          "ans": 1,
+          "explanation": "'Cheap' often has a negative connotation (poor quality), while 'economical' is more positive (wise use of resources)."
+        },
+        {
+          "q": "In Nigerian context, which is a synonym for 'famous'?",
+          "opts": [
+            "unknown",
+            "well-known",
+            "ordinary",
+            "local"
+          ],
+          "ans": 1,
+          "explanation": "'Well-known' is a synonym for 'famous'; both describe someone or something widely recognized."
+        },
+        {
+          "q": "Using synonyms in writing helps to:",
+          "opts": [
+            "Make writing longer",
+            "Avoid repetition and add variety",
+            "Confuse the reader",
+            "Use more difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Synonyms help avoid repetition and add variety to writing, making it more engaging and precise."
+        },
+        {
+          "q": "Which sentence uses synonyms appropriately?",
+          "opts": [
+            "The big house had a big gate and big windows.",
+            "The large house had a massive gate and enormous windows.",
+            "The house was big and the gate was big.",
+            "The big, big house had big windows."
+          ],
+          "ans": 1,
+          "explanation": "The second sentence uses synonyms ('large', 'massive', 'enormous') to avoid repetition and add variety."
+        },
+        {
+          "q": "Understanding synonyms is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass vocabulary tests",
+            "Supports varied, precise communication in academic and professional contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Synonym knowledge supports varied, precise expression essential for academic writing, professional communication, and effective speaking in Nigeria."
+        },
+        {
+          "q": "Which is NOT a synonym for 'brave'?",
+          "opts": [
+            "fearless",
+            "courageous",
+            "timid",
+            "bold"
+          ],
+          "ans": 2,
+          "explanation": "'Timid' is an antonym of 'brave'; the others are synonyms meaning showing courage."
+        },
+        {
+          "q": "A common misconception about synonyms is:",
+          "opts": [
+            "All synonyms are interchangeable in all contexts",
+            "Synonyms can add variety to writing",
+            "Context determines the best synonym choice",
+            "Synonyms have similar meanings"
+          ],
+          "ans": 0,
+          "explanation": "Not all synonyms are interchangeable; many have subtle differences in meaning, connotation, or usage that make them suitable for specific contexts."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w4_su3",
+      "title": "4.3 Comprehension/Summary: Reading for Summary",
+      "notes": [
+        "Comprehension/Summary: Reading for Summary",
+        "• Definition: Reading for summary involves identifying main ideas and condensing them into a shorter form while retaining essential meaning",
+        "• Importance: Develops critical reading, concise writing, and ability to distill complex information",
+        "",
+        "Characteristics of an Effective Summary:",
+        "1. Concise:",
+        "   • Uses fewer words than the original",
+        "   • Omits minor details, examples, and repetitions",
+        "   • Example: A 500-word passage summarized in 100 words",
+        "",
+        "2. Complete:",
+        "   • Includes all main ideas and essential supporting points",
+        "   • Maintains the original meaning and purpose",
+        "   • Example: A summary of a passage on corruption should include causes, effects, and solutions if they are main points",
+        "",
+        "3. Accurate:",
+        "   • Faithfully represents the original passage's meaning",
+        "   • Avoids adding personal opinions or interpretations",
+        "   • Example: If the passage states 'Corruption undermines development', the summary should not say 'Corruption is good'",
+        "",
+        "4. Coherent:",
+        "   • Sentences flow logically from one to the next",
+        "   • Uses appropriate transitions and connectors",
+        "   • Example: 'Firstly... Secondly... Finally...' or 'Furthermore... However... Therefore...'",
+        "",
+        "Steps for Reading for Summary:",
+        "1. Read the passage carefully:",
+        "   • Identify the main idea and key supporting points",
+        "   • Note the passage's purpose and structure",
+        "",
+        "2. Identify topic sentences:",
+        "   • Topic sentences often state the main idea of each paragraph",
+        "   • Underline or highlight them for reference",
+        "",
+        "3. Extract key points:",
+        "   • Restate main ideas in your own words",
+        "   • Combine related points into single sentences where possible",
+        "   • Avoid copying phrases verbatim from the original",
+        "",
+        "4. Write the summary:",
+        "   • Start with a sentence stating the main idea",
+        "   • Develop with sentences covering essential supporting points",
+        "   • End with a sentence that concludes or emphasizes significance",
+        "",
+        "5. Revise and edit:",
+        "   • Check for conciseness, completeness, accuracy, and coherence",
+        "   • Ensure the summary is significantly shorter than the original",
+        "   • Revise to meet all criteria",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Including too many details",
+        "  - Solution: Focus only on main ideas; omit examples and minor points",
+        "",
+        "• Challenge: Copying the original text",
+        "  - Solution: Paraphrase in your own words; use synonyms and different sentence structures",
+        "",
+        "• Challenge: Losing the original meaning",
+        "  - Solution: After writing, compare your summary to the original to ensure accuracy",
+        "",
+        "• Challenge: Making the summary too long",
+        "  - Solution: Count words or sentences; revise to meet length requirements",
+        "",
+        "Nigerian Context in Summary Writing:",
+        "• Common themes for summary practice:",
+        "  - Corruption and governance",
+        "  - Environmental conservation",
+        "  - Education and youth empowerment",
+        "  - Health and disease prevention",
+        "  - Cultural values and modernization",
+        "",
+        "• Cultural considerations:",
+        "  - Use of local examples and proverbs in original passages",
+        "  - Sensitivity to ethnic, religious, or political issues",
+        "  - Clarity for diverse Nigerian audiences",
+        "",
+        "Practical Activities:",
+        "1. Summary Practice:",
+        "   • Provide short passages on Nigerian issues",
+        "   • Students read and write summaries in specified length",
+        "   • Compare summaries with classmates for completeness and conciseness",
+        "",
+        "2. Paraphrasing Exercises:",
+        "   • Give sentences from passages for students to paraphrase",
+        "   • Focus on changing structure and vocabulary while keeping meaning",
+        "   • Compare original and paraphrased versions for accuracy",
+        "",
+        "3. Model Summary Analysis:",
+        "   • Analyze model summaries of Nigerian-themed passages",
+        "   • Identify how main ideas are condensed into concise sentences",
+        "   • Discuss effectiveness of paraphrasing and sentence allocation",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary length doesn't matter': The summary must be significantly shorter than the original",
+        "• 'Summaries can include personal opinions': Summaries must be objective and faithful to the original",
+        "• 'More sentences are better if they add detail': Extra sentences violate the requirement for conciseness",
+        "• 'Paraphrasing means changing the meaning': Paraphrasing restates meaning in different words",
+        "",
+        "Nigerian Context:",
+        "• Summary writing skills support academic success in Nigerian schools and universities",
+        "• Understanding local themes enhances relevance and application",
+        "• Practice with Nigerian examples builds precision and critical thinking",
+        "",
+        "Conclusion:",
+        "• Effective summaries are concise, complete, accurate, and coherent",
+        "• Steps include reading, identifying topic sentences, extracting key points, writing, and revising",
+        "• Nigerian context enriches learning with local themes and cultural considerations",
+        "• Mastery of summary writing supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary characteristics: concise, complete, accurate, coherent",
+        "Flowchart of steps for reading for summary",
+        "Sample passage with model summary highlighting key points",
+        "Nigerian context: Sample summary topics on local issues",
+        "Paraphrasing exercise with before/after examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English summary writing comprehension SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Reading for summary means:",
+          "opts": [
+            "Copying the original text word for word",
+            "Identifying main ideas and condensing them into a shorter form",
+            "Adding personal opinions to the original",
+            "Writing a longer version of the passage"
+          ],
+          "ans": 1,
+          "explanation": "Reading for summary involves identifying main ideas and condensing them into a shorter form while retaining essential meaning."
+        },
+        {
+          "q": "An effective summary should be:",
+          "opts": [
+            "Longer than the original passage",
+            "A copy of the original text",
+            "Concise, complete, accurate, and coherent",
+            "Filled with personal opinions"
+          ],
+          "ans": 2,
+          "explanation": "Effective summaries are concise (brief), complete (include main ideas), accurate (faithful to original), and coherent (logical flow)."
+        },
+        {
+          "q": "The first step in reading for summary is to:",
+          "opts": [
+            "Start writing immediately",
+            "Read the passage carefully to identify main ideas",
+            "Count the words in the passage",
+            "Ask someone else to summarise it"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully to identify main ideas is essential before attempting to summarise."
+        },
+        {
+          "q": "Paraphrasing in summary writing means:",
+          "opts": [
+            "Copying the original text word for word",
+            "Restating ideas in your own words while keeping the meaning",
+            "Adding your own opinions to the original",
+            "Shortening the passage by deleting sentences"
+          ],
+          "ans": 1,
+          "explanation": "Paraphrasing restates the original meaning using different words and sentence structures."
+        },
+        {
+          "q": "If a passage is about corruption in Nigeria and you must summarise it, you should:",
+          "opts": [
+            "Include every example of corruption mentioned",
+            "Focus on the main causes, effects, and solutions if they are key points",
+            "Write 4 sentences to be safe",
+            "Copy the first and last sentences of the passage"
+          ],
+          "ans": 1,
+          "explanation": "A good summary focuses on main ideas (causes, effects, solutions) and omits minor details and examples."
+        },
+        {
+          "q": "Which is a common error in summary writing?",
+          "opts": [
+            "Using your own words",
+            "Including personal opinions",
+            "Counting sentences",
+            "Focusing on main ideas"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must be objective; including personal opinions distorts the original meaning."
+        },
+        {
+          "q": "In Nigerian context, a summary on education might focus on:",
+          "opts": [
+            "Only global education issues",
+            "Local challenges like funding, access, and quality",
+            "Only historical education systems",
+            "Only theoretical definitions"
+          ],
+          "ans": 1,
+          "explanation": "Summaries in Nigerian context should focus on locally relevant issues like funding, access, and quality of education."
+        },
+        {
+          "q": "Understanding summary writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, critical thinking, and effective communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Summary writing skills support academic work, critical analysis, and clear communication in Nigerian educational and professional contexts."
+        },
+        {
+          "q": "Which is NOT a characteristic of an effective summary?",
+          "opts": [
+            "Concise",
+            "Complete",
+            "Copied verbatim",
+            "Accurate"
+          ],
+          "ans": 2,
+          "explanation": "Effective summaries paraphrase in your own words; copying verbatim is plagiarism, not summarising."
+        },
+        {
+          "q": "A common misconception about summary writing is:",
+          "opts": [
+            "Summaries must be concise",
+            "Summaries can include personal opinions",
+            "Summaries should be accurate",
+            "Summaries must be coherent"
+          ],
+          "ans": 1,
+          "explanation": "Summaries must be objective and faithful to the original; personal opinions have no place in a summary."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w4_su4",
+      "title": "4.4 Structure: Clauses – Independent and Dependent Clauses",
+      "notes": [
+        "Structure: Clauses – Independent and Dependent",
+        "• Definition: A clause is a group of words containing a subject and a finite verb",
+        "• Importance: Understanding clauses improves sentence construction, analysis, and writing clarity",
+        "",
+        "Types of Clauses:",
+        "1. Independent Clause:",
+        "   • Contains a subject and finite verb",
+        "   • Expresses a complete thought",
+        "   • Can stand alone as a sentence",
+        "   • Example: 'The boy kicked the ball.'",
+        "   • Nigerian context: 'The farmer harvested his crops.'",
+        "",
+        "2. Dependent (Subordinate) Clause:",
+        "   • Contains a subject and finite verb",
+        "   • Does NOT express a complete thought",
+        "   • Cannot stand alone; depends on an independent clause",
+        "   • Introduced by subordinating conjunctions: because, although, when, if, etc.",
+        "   • Example: 'because he was hungry' (needs main clause)",
+        "   • Nigerian context: 'when the rain stopped' (needs main clause)",
+        "",
+        "Identifying Clauses:",
+        "1. Look for subject and finite verb:",
+        "   • Both independent and dependent clauses have these",
+        "   • Example: 'The boy [subject] kicked [finite verb] the ball.'",
+        "",
+        "2. Test for completeness:",
+        "   • Can the clause stand alone as a sentence?",
+        "   • If yes = independent; if no = dependent",
+        "",
+        "3. Check for subordinating conjunctions:",
+        "   • Words like 'because', 'although', 'if', 'when' often introduce dependent clauses",
+        "   • Example: 'Although the market is busy, traders remain optimistic.'",
+        "",
+        "Functions of Dependent Clauses:",
+        "• Adverbial clauses: Modify verbs, adjectives, or adverbs",
+        "  - Example: 'He invested cautiously [verb] because he was risk-averse [reason].'",
+        "",
+        "• Adjectival (relative) clauses: Modify nouns",
+        "  - Example: 'The company [noun] that announced record profits [clause] saw its share price rise.'",
+        "",
+        "• Noun clauses: Function as subjects, objects, or complements",
+        "  - Example: 'What matters most [subject] is long-term growth.'",
+        "",
+        "Common Errors and Corrections:",
+        "• Error: Sentence fragment (dependent clause alone)",
+        "  - Incorrect: 'Because the market is volatile.'",
+        "  - Correct: 'Because the market is volatile, investors should diversify.'",
+        "",
+        "• Error: Comma misuse",
+        "  - Incorrect: 'Investors buy shares, when the market is bullish.'",
+        "  - Correct: 'Investors buy shares when the market is bullish.' (no comma when independent clause first)",
+        "",
+        "• Error: Using coordinating conjunction instead of subordinating",
+        "  - Incorrect: 'I like stocks, and bonds are safer.'",
+        "  - Correct: 'I like stocks, although bonds are safer.' (contrast requires subordinating conjunction)",
+        "",
+        "• Nigerian Context Errors:",
+        "  - Error: 'If you invest early. You may benefit.'",
+        "  - Correction: 'If you invest early, you may benefit.'",
+        "",
+        "Practical Activities:",
+        "1. Clause Identification:",
+        "   • Provide sentences for students to identify independent and dependent clauses",
+        "   • Underline subordinating conjunctions and discuss their functions",
+        "   • Correct common errors in usage",
+        "",
+        "2. Sentence Construction:",
+        "   • Students write complex sentences using given subordinating conjunctions",
+        "   • Share sentences with classmates for peer review",
+        "   • Teacher provides feedback on structure and punctuation",
+        "",
+        "3. Error Correction Exercise:",
+        "   • Provide sentences with clause errors",
+        "   • Students identify and correct the errors",
+        "   • Discuss reasons for corrections",
+        "",
+        "Common Misconceptions:",
+        "• 'All clauses can stand alone': Only independent clauses can stand alone; dependent clauses cannot",
+        "• 'Subordinating conjunctions are interchangeable': Each conjunction expresses a specific relationship",
+        "• 'Dependent clauses are unimportant': They add crucial information and complexity to sentences",
+        "• 'Commas are optional in complex sentences': Correct punctuation is essential for clarity",
+        "",
+        "Nigerian Context:",
+        "• Understanding clauses supports clear communication in academic writing and professional contexts",
+        "• Practice with Nigerian examples enhances relevance and retention",
+        "• Mastery of clause structure improves writing variety and effectiveness",
+        "",
+        "Conclusion:",
+        "• Independent clauses express complete thoughts; dependent clauses do not",
+        "• Subordinating conjunctions introduce dependent clauses and show relationships",
+        "• Correct structure and punctuation are essential for clarity",
+        "• Mastery of clauses improves writing sophistication and communication effectiveness"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing independent and dependent clauses with examples",
+        "Flowchart for identifying clause types",
+        "Comparison of simple, compound, and complex sentences",
+        "Nigerian context: Sample sentences with correct/incorrect clause structure",
+        "Error correction examples with explanations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar independent dependent clauses SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "An independent clause is one that:",
+          "opts": [
+            "Cannot stand alone as a sentence",
+            "Can stand alone as a complete sentence",
+            "Always begins with a subordinating conjunction",
+            "Contains no subject or verb"
+          ],
+          "ans": 1,
+          "explanation": "An independent clause contains a subject, finite verb, and complete thought, so it can stand alone as a sentence."
+        },
+        {
+          "q": "Which is a dependent clause?",
+          "opts": [
+            "The boy kicked the ball.",
+            "Because the boy kicked the ball.",
+            "The boy who kicked the ball.",
+            "Kicking the ball."
+          ],
+          "ans": 1,
+          "explanation": "'Because the boy kicked the ball' is a dependent clause; it has a subject and verb but cannot stand alone due to the subordinating conjunction 'because'."
+        },
+        {
+          "q": "Dependent clauses are introduced by:",
+          "opts": [
+            "Coordinating conjunctions",
+            "Subordinating conjunctions",
+            "Prepositions",
+            "Articles"
+          ],
+          "ans": 1,
+          "explanation": "Dependent clauses are often introduced by subordinating conjunctions like 'because', 'although', 'if', 'when'."
+        },
+        {
+          "q": "Which sentence contains a dependent clause?",
+          "opts": [
+            "The market was busy.",
+            "Because the market was busy, traders worked hard.",
+            "Traders worked hard.",
+            "The busy market."
+          ],
+          "ans": 1,
+          "explanation": "'Because the market was busy' is a dependent clause; it cannot stand alone and depends on the independent clause 'traders worked hard'."
+        },
+        {
+          "q": "A dependent clause cannot:",
+          "opts": [
+            "Contain a subject and verb",
+            "Express a complete thought",
+            "Be introduced by a subordinating conjunction",
+            "Modify an independent clause"
+          ],
+          "ans": 1,
+          "explanation": "A dependent clause has a subject and verb but cannot express a complete thought; it depends on an independent clause."
+        },
+        {
+          "q": "In Nigerian context, which is a correct complex sentence?",
+          "opts": [
+            "If you invest early. You may benefit.",
+            "If you invest early, you may benefit.",
+            "You may benefit if you invest early.",
+            "Both B and C"
+          ],
+          "ans": 3,
+          "explanation": "Both 'If you invest early, you may benefit.' (dependent first) and 'You may benefit if you invest early.' (independent first) are correct complex sentences."
+        },
+        {
+          "q": "Which subordinating conjunction shows contrast?",
+          "opts": [
+            "because",
+            "although",
+            "if",
+            "when"
+          ],
+          "ans": 1,
+          "explanation": "'Although' introduces a dependent clause showing contrast: 'Although the market is volatile, investors remain optimistic.'"
+        },
+        {
+          "q": "Understanding clauses is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Improves writing sophistication and communication effectiveness in academic and professional contexts",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Mastery of clause structure enables students to express complex ideas clearly and effectively in academic and professional writing."
+        },
+        {
+          "q": "Which is a sentence fragment?",
+          "opts": [
+            "The boy kicked the ball.",
+            "Because the boy kicked the ball.",
+            "The boy who kicked the ball scored.",
+            "Kicking the ball is fun."
+          ],
+          "ans": 1,
+          "explanation": "'Because the boy kicked the ball' is a fragment; it is a dependent clause that cannot stand alone as a complete sentence."
+        },
+        {
+          "q": "A common misconception about clauses is:",
+          "opts": [
+            "Independent clauses can stand alone",
+            "All clauses can stand alone as sentences",
+            "Dependent clauses need independent clauses",
+            "Subordinating conjunctions introduce dependent clauses"
+          ],
+          "ans": 1,
+          "explanation": "Only independent clauses can stand alone; dependent clauses require independent clauses to form complete sentences."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t3_w4_su5",
+      "title": "4.5 Continuous Writing: Composition on Articles",
+      "notes": [
+        "Continuous Writing: Composition on Articles",
+        "• Definition: An article is a piece of writing on a specific topic, published in newspapers, magazines, or online platforms",
+        "• Purpose: To inform, persuade, entertain, or raise awareness on current issues",
+        "",
+        "Features of a Well-Written Article:",
+        "1. Catchy Headline:",
+        "   • Grabs reader's attention",
+        "   • Summarizes the main point",
+        "   • Example: 'Corruption Undermines Nigeria's Development'",
+        "",
+        "2. Engaging Introduction:",
+        "   • Hooks the reader with a question, quote, or striking fact",
+        "   • States the purpose or main idea",
+        "   • Example: 'In a recent report, the EFCC revealed that corruption costs Nigeria over $10 billion annually.'",
+        "",
+        "3. Well-Structured Body:",
+        "   • Develops main points with evidence, examples, explanations",
+        "   • Uses short paragraphs for readability",
+        "   • Includes quotes from experts or witnesses",
+        "   • Nigerian context: Local examples, statistics, or cultural references",
+        "",
+        "4. Clear Language and Style:",
+        "   • Clear, concise, and accessible language",
+        "   • Active voice for immediacy",
+        "   • Avoid jargon unless explained",
+        "   • Nigerian context: Balance formal tone with relatable examples",
+        "",
+        "5. Impactful Conclusion:",
+        "   • Summarizes key points",
+        "   • May include a call to action or final thought",
+        "   • Example: 'Only collective action can curb corruption and drive development.'",
+        "",
+        "Types of Articles:",
+        "• News Articles:",
+        "  - Report current events factually",
+        "  - Answer who, what, when, where, why, how",
+        "  - Example: 'Lagos State Launches New Waste Management Initiative'",
+        "",
+        "• Feature Articles:",
+        "  - In-depth exploration of a topic",
+        "  - More descriptive and narrative",
+        "  - Example: 'The Life of a Market Woman in Onitsha'",
+        "",
+        "• Opinion/Editorial Articles:",
+        "  - Express the writer's viewpoint",
+        "  - Use persuasive language and evidence",
+        "  - Example: 'Why Nigeria Must Invest in Renewable Energy'",
+        "",
+        "• How-to/Instructional Articles:",
+        "  - Provide step-by-step guidance",
+        "  - Clear, practical language",
+        "  - Example: 'How to Start a Small Business in Nigeria'",
+        "",
+        "Steps for Writing an Article:",
+        "1. Choose a relevant, engaging topic:",
+        "   • Current issues, local relevance, audience interest",
+        "   • Nigerian context: Education, corruption, environment, youth empowerment",
+        "",
+        "2. Research the topic thoroughly:",
+        "   • Gather facts, statistics, quotes, examples",
+        "   • Verify information from credible sources",
+        "",
+        "3. Plan the structure:",
+        "   • Outline headline, introduction, body points, conclusion",
+        "   • Decide on tone and style",
+        "",
+        "4. Write the draft:",
+        "   • Start with a strong headline and hook",
+        "   • Develop body with evidence and examples",
+        "   • End with a memorable conclusion",
+        "",
+        "5. Revise and edit:",
+        "   • Check for clarity, coherence, correctness",
+        "   • Ensure appropriate length and style",
+        "   • Proofread for grammar and spelling",
+        "",
+        "Sample Article Topics:",
+        "• The impact of social media on Nigerian youth",
+        "• Combating examination malpractice in schools",
+        "• The role of women in Nigeria's development",
+        "• Environmental challenges in Nigerian cities",
+        "• The benefits of vocational education",
+        "",
+        "Practical Activities:",
+        "1. Article Analysis:",
+        "   • Read sample articles from Nigerian newspapers or magazines",
+        "   • Identify headline, introduction, body, conclusion",
+        "   • Discuss language, style, and structure",
+        "",
+        "2. Headline Writing:",
+        "   • Given topics, students write catchy headlines",
+        "   • Share and evaluate headlines for impact",
+        "   • Revise for clarity and engagement",
+        "",
+        "3. Article Drafting:",
+        "   • Choose a current Nigerian issue",
+        "   • Plan article with outline (headline, introduction, body, conclusion)",
+        "   • Draft article focusing on clarity, evidence, and style",
+        "   • Peer review and revise",
+        "",
+        "Common Misconceptions:",
+        "• 'Articles must be long to be effective': Conciseness and clarity are more important than length",
+        "• 'Articles are the same as essays': Articles are more engaging, use active voice, and target general audiences",
+        "• 'Fancy words improve articles': Clear, accessible language is more effective than complex vocabulary",
+        "• 'Articles can include personal opinions without evidence': Opinion articles still require evidence and logical reasoning",
+        "",
+        "Nigerian Context:",
+        "• Article writing skills support civic engagement and informed citizenship in Nigeria",
+        "• Understanding article structure helps students consume and produce media critically",
+        "• Practice with local issues enhances relevance and application",
+        "",
+        "Conclusion:",
+        "• Articles inform, persuade, entertain, or raise awareness on current issues",
+        "• Key features include catchy headlines, engaging introductions, evidence-based body, and impactful conclusions",
+        "• Clear, concise language and appropriate style enhance readability and impact",
+        "• In Nigeria, article writing supports media literacy, civic participation, and professional communication"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of an article: headline, introduction, body, conclusion",
+        "Chart of article types: news, feature, opinion, how-to",
+        "Flowchart for writing an article: topic selection to final draft",
+        "Language and style tips: active voice, concise sentences, engaging vocabulary",
+        "Nigerian context: Sample article topics on local issues"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English writing article composition SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "An article is primarily written to:",
+          "opts": [
+            "Express personal opinions only",
+            "Inform, persuade, entertain, or raise awareness on current issues",
+            "Summarize academic research",
+            "Tell a fictional story"
+          ],
+          "ans": 1,
+          "explanation": "Articles aim to inform, persuade, entertain, or raise awareness on current issues for a general audience."
+        },
+        {
+          "q": "The introduction of an article should:",
+          "opts": [
+            "Summarize the entire article",
+            "Hook the reader and state the main idea",
+            "Introduce the author's credentials",
+            "List all sources used"
+          ],
+          "ans": 1,
+          "explanation": "The introduction hooks readers with a question, quote, or fact and states the main idea or purpose."
+        },
+        {
+          "q": "Which language feature is preferred in articles?",
+          "opts": [
+            "Passive voice",
+            "Active voice",
+            "Complex sentences only",
+            "Technical jargon"
+          ],
+          "ans": 1,
+          "explanation": "Active voice is preferred in articles for immediacy and clarity; passive voice, complex sentences, and jargon can reduce readability."
+        },
+        {
+          "q": "A difference between news articles and opinion articles is that news articles:",
+          "opts": [
+            "Express the writer's personal viewpoint",
+            "Report current events factually",
+            "Always include personal anecdotes",
+            "Use persuasive language only"
+          ],
+          "ans": 1,
+          "explanation": "News articles report current events factually; opinion articles express the writer's viewpoint with persuasive language."
+        },
+        {
+          "q": "Which is a feature of a catchy headline?",
+          "opts": [
+            "It summarizes every detail of the article",
+            "It grabs attention and summarizes the main point",
+            "It includes the author's name",
+            "It lists all sources"
+          ],
+          "ans": 1,
+          "explanation": "A catchy headline grabs attention and summarizes the main point; it does not include every detail, author name, or sources."
+        },
+        {
+          "q": "In Nigerian context, an article might address:",
+          "opts": [
+            "Only international issues",
+            "Current local issues like corruption, environment, or youth empowerment",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Articles in Nigerian context often address current local issues like corruption, environment, youth empowerment, and governance."
+        },
+        {
+          "q": "The body paragraphs of an article should:",
+          "opts": [
+            "Repeat the introduction",
+            "Develop main points with evidence and examples",
+            "Introduce new unrelated topics",
+            "Summarize the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Body paragraphs develop main points with evidence, examples, and explanations; they do not repeat, introduce unrelated topics, or summarize the conclusion."
+        },
+        {
+          "q": "Understanding article writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass English exams",
+            "Supports media literacy, civic engagement, and professional communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Article writing skills support media literacy, informed citizenship, and professional communication in Nigerian society."
+        },
+        {
+          "q": "Which sentence demonstrates concise language?",
+          "opts": [
+            "Corruption is a very big problem that is causing a lot of damage to Nigeria.",
+            "Corruption undermines Nigeria's development.",
+            "It is important to note that corruption has many negative effects on the country.",
+            "One of the major issues facing Nigeria today is the issue of corruption."
+          ],
+          "ans": 1,
+          "explanation": "'Corruption undermines Nigeria's development' is concise and clear; the other options are wordy or indirect."
+        },
+        {
+          "q": "A common misconception about article writing is:",
+          "opts": [
+            "Articles should be concise and clear",
+            "Articles must be long to be effective",
+            "Articles use active voice for immediacy",
+            "Articles target general audiences"
+          ],
+          "ans": 1,
+          "explanation": "Conciseness and clarity are more important than length in articles; long articles can lose reader engagement."
+        }
+      ]
+    }
+  ]
+}

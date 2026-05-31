@@ -1,0 +1,822 @@
+{
+  "course": "SSS2 English Language",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Speech, Vocabulary, Summary, Writing",
+  "subUnits": [
+    {
+      "id": "sss2_eng_t1_w7_su1",
+      "title": "7.1 Speech: Listening Comprehension - Listening for Details/Examples",
+      "notes": [
+        "Listening Comprehension: Listening for Details/Examples",
+        "",
+        "Key Concepts:",
+        "1. What is listening for details/examples?",
+        "   - The ability to identify specific information, examples, or supporting details in spoken language",
+        "   - Goes beyond understanding main ideas to grasp supporting evidence",
+        "   - Example: Listening to a speech on drug abuse and noting specific examples of prevention strategies",
+        "",
+        "2. How to listen for details/examples:",
+        "   - Focus on the speaker: avoid distractions",
+        "   - Listen for signal words: 'for example', 'such as', 'specifically', 'in particular'",
+        "   - Note specific names, dates, numbers, or facts",
+        "   - Ask: What examples support the main point?",
+        "",
+        "3. Strategies for listening for details/examples:",
+        "   - Preview the topic: What is the speech about?",
+        "   - Listen actively: Take notes on key details",
+        "   - Identify examples: What specific evidence is provided?",
+        "   - Review: Go over notes after listening to confirm understanding",
+        "",
+        "4. Common topics for practice:",
+        "   - Health issues: HIV/AIDS prevention, malaria treatment, drug abuse rehabilitation",
+        "   - Social issues: corruption, youth unemployment, environmental protection",
+        "   - Educational issues: exam malpractice, quality education, teacher training",
+        "",
+        "5. Why listen for details/examples?",
+        "   - Helps readers understand passages more deeply",
+        "   - Supports better note-taking and study skills",
+        "   - Essential for academic success and professional communication",
+        "   - Develops critical listening and analytical skills",
+        "",
+        "Nigerian Context:",
+        "• Sample listening passage topic: 'Preventing Drug Abuse Among Nigerian Youths'",
+        "  - Main idea: Drug abuse threatens the future of Nigerian youths",
+        "  - Supporting details/examples:",
+        "    * Example 1: Peer pressure leads many youths to experiment with drugs",
+        "    * Example 2: Lack of recreational facilities pushes youths toward substance abuse",
+        "    * Example 3: Education and counseling programs have reduced drug use in some communities",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding the impact of drug abuse on Nigerian families and communities",
+        "  - Recognizing the role of education and community action in prevention",
+        "  - Appreciating the importance of listening skills in Nigerian educational and professional contexts",
+        "",
+        "Practical Activities:",
+        "1. Detail Identification Practice:",
+        "   - Teacher reads a short passage on a Nigerian topic",
+        "   - Students listen and note specific details or examples",
+        "   - Groups share their findings and discuss evidence from the passage",
+        "",
+        "2. Note-Taking Practice:",
+        "   - Teacher plays a recorded speech on a social issue",
+        "   - Students take notes on key details and examples",
+        "   - Class compares notes and discusses accuracy",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech with specific examples",
+        "   - Focus on providing clear details to support main points",
+        "   - Peer feedback on clarity of examples and delivery",
+        "",
+        "Common Misconceptions:",
+        "• 'Details are less important than main ideas': Details support and prove main ideas; both are important",
+        "• 'Listening for details means ignoring main ideas': Main ideas provide context for details; both are essential",
+        "• 'Only one detail per passage': Passages often contain multiple supporting details",
+        "• 'Details are always explicit': Sometimes details require inference and careful listening",
+        "",
+        "Nigerian Context:",
+        "• Listening for details helps students understand health, social, and educational issues in Nigeria",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in BECE, WAEC, NECO, and professional communication",
+        "",
+        "Conclusion:",
+        "• Listening for details/examples is the ability to identify specific information in spoken language",
+        "• Strategies include focusing on the speaker, noting signal words, and taking notes",
+        "• Practice with Nigerian contexts makes learning relevant and effective",
+        "• Mastery of these skills supports academic success and effective communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of listening for details strategies with examples",
+        "Flowchart for identifying details and examples in speeches",
+        "Sample passage on drug abuse with details highlighted",
+        "Nigerian context: Sample listening passages on social issues with detail analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English listening comprehension details examples site:youtube.com",
+      "quiz": [
+        {
+          "q": "Listening for details/examples is:",
+          "opts": [
+            "Only hearing the main idea",
+            "The ability to identify specific information or supporting evidence in spoken language",
+            "Only for native speakers",
+            "Only for exams"
+          ],
+          "ans": 1,
+          "explanation": "Listening for details/examples is the ability to identify specific information or supporting evidence in spoken language."
+        },
+        {
+          "q": "A strategy for listening for details is to:",
+          "opts": [
+            "Ignore the speaker",
+            "Listen for signal words like 'for example' and take notes",
+            "Only write down every word",
+            "Focus on minor details only"
+          ],
+          "ans": 1,
+          "explanation": "Listening for signal words and taking notes helps you identify specific details and examples."
+        },
+        {
+          "q": "In a speech on drug abuse in Nigeria, a supporting detail might be:",
+          "opts": [
+            "Only the main idea",
+            "Peer pressure leads many youths to experiment with drugs",
+            "Only about foreign countries",
+            "Only about medical terms"
+          ],
+          "ans": 1,
+          "explanation": "A supporting detail would provide specific evidence, such as how peer pressure leads youths to experiment with drugs."
+        },
+        {
+          "q": "A common mistake in listening for details is:",
+          "opts": [
+            "Focusing on the speaker",
+            "Assuming details are less important than main ideas",
+            "Noting signal words",
+            "Taking notes"
+          ],
+          "ans": 1,
+          "explanation": "Assuming details are less important than main ideas is a mistake; details support and prove main ideas."
+        },
+        {
+          "q": "To respond to details in a speech, you should:",
+          "opts": [
+            "Ignore them",
+            "Note them and connect them to the main idea",
+            "Only repeat them exactly",
+            "Change the topic"
+          ],
+          "ans": 1,
+          "explanation": "Noting details and connecting them to the main idea shows understanding and engagement."
+        },
+        {
+          "q": "Understanding details is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of health, social, and educational issues in Nigeria",
+            "Only for listening exercises",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Identifying details helps students understand specific issues and support main ideas in Nigerian contexts."
+        },
+        {
+          "q": "Which is NOT a strategy for listening for details?",
+          "opts": [
+            "Focus on the speaker",
+            "Listen for signal words",
+            "Ignore the context",
+            "Take notes"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; noting context helps understand how details relate to main ideas."
+        },
+        {
+          "q": "A common misconception about details is:",
+          "opts": [
+            "Details support main ideas",
+            "Details are less important than main ideas",
+            "Details can require inference",
+            "Practice improves detail identification"
+          ],
+          "ans": 1,
+          "explanation": "Details are not less important; they support and prove main ideas, making both essential."
+        },
+        {
+          "q": "When listening for details, you should:",
+          "opts": [
+            "Focus on minor details only",
+            "Note signal words and specific examples",
+            "Ignore the topic",
+            "Only listen to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Noting signal words and specific examples helps you identify the details that support main ideas."
+        },
+        {
+          "q": "Listening for details helps students to:",
+          "opts": [
+            "Only pass exams",
+            "Understand and analyze spoken communication effectively",
+            "Only write essays",
+            "Only read silently"
+          ],
+          "ans": 1,
+          "explanation": "Listening for details enables effective understanding and analysis of spoken communication."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w7_su2",
+      "title": "7.2 Vocabulary: Spelling of Words - Commonly Misspelt Words",
+      "notes": [
+        "Vocabulary: Spelling of Words - Commonly Misspelt Words",
+        "",
+        "Key Concepts:",
+        "1. What is spelling?",
+        "   - The correct arrangement of letters to form words",
+        "   - Essential for clear written communication",
+        "   - Example: 'accommodation' not 'acommodation'",
+        "",
+        "2. Commonly misspelt words in English:",
+        "   - Double letters: accommodation, beginning, committee, embarrass",
+        "   - Silent letters: knowledge, knight, psychology, Wednesday",
+        "   - Confusing homophones: their/there/they're, your/you're, its/it's",
+        "   - Irregular patterns: receive, believe, foreign, seize",
+        "",
+        "3. Strategies for improving spelling:",
+        "   - Use the dictionary: Look up words you're unsure about",
+        "   - Practice regularly: Write words repeatedly to build muscle memory",
+        "   - Learn spelling rules: 'i before e except after c'",
+        "   - Break words into parts: ac-com-mod-a-tion",
+        "",
+        "4. How to identify commonly misspelt words:",
+        "   - Look for words with double letters or silent letters",
+        "   - Note words that sound similar but are spelled differently",
+        "   - Ask: Is this word spelled correctly? Check the dictionary",
+        "",
+        "5. Why improve spelling?",
+        "   - Ensures clear, professional written communication",
+        "   - Builds confidence in writing",
+        "   - Essential for academic success and professional advancement",
+        "   - Shows attention to detail and care for language",
+        "",
+        "Nigerian Context:",
+        "• Commonly misspelt words in Nigerian English:",
+        "  - Double letters: accommodation, beginning, committee, embarrass",
+        "  - Silent letters: knowledge, knight, psychology, Wednesday",
+        "  - Confusing homophones: their/there/they're, your/you're, its/it's",
+        "  - Nigerian-specific: neighbourhood, behaviour, colour (British spelling)",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding British vs American spelling conventions",
+        "  - Recognizing how spelling affects professional communication in Nigeria",
+        "  - Appreciating the importance of correct spelling in academic and official documents",
+        "",
+        "Practical Activities:",
+        "1. Spelling Drill:",
+        "   - Teacher provides a list of commonly misspelt words",
+        "   - Students practice spelling words aloud and in writing",
+        "   - Focus on words with double letters, silent letters, or irregular patterns",
+        "",
+        "2. Dictation Exercise:",
+        "   - Teacher dictates sentences containing commonly misspelt words",
+        "   - Students write the sentences, focusing on correct spelling",
+        "   - Class reviews and corrects errors together",
+        "",
+        "3. Dictionary Practice:",
+        "   - Students receive a list of words they find difficult to spell",
+        "   - In groups, they look up words in the dictionary and practice spelling",
+        "   - Words shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Spelling doesn't matter in Nigerian English': Incorrect spelling can confuse readers and undermine credibility",
+        "• 'Only talented people spell well': Spelling is a skill that improves with practice",
+        "• 'Spelling rules are too complex': Basic rules and regular practice make spelling manageable",
+        "• 'Dictionary is only for experts': Everyone can and should use the dictionary to check spelling",
+        "",
+        "Nigerian Context:",
+        "• Correct spelling supports clear, professional communication in Nigerian academic and professional contexts",
+        "• Practice with commonly misspelt words enhances confidence and accuracy",
+        "• Spelling skills are foundational for academic success and career advancement",
+        "",
+        "Conclusion:",
+        "• Spelling is the correct arrangement of letters to form words",
+        "• Commonly misspelt words include those with double letters, silent letters, and irregular patterns",
+        "• Strategies include using the dictionary, practicing regularly, and learning spelling rules",
+        "• Mastery of spelling supports clear, professional communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of commonly misspelt words with examples",
+        "Diagram of spelling strategies: dictionary, practice, rules, word parts",
+        "Sample dictation exercise with commonly misspelt words",
+        "Nigerian context: Commonly misspelt words in Nigerian English",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English vocabulary spelling commonly misspelt words site:youtube.com",
+      "quiz": [
+        {
+          "q": "Spelling is:",
+          "opts": [
+            "Only memorizing word lists",
+            "The correct arrangement of letters to form words",
+            "Only using a dictionary",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Spelling is the correct arrangement of letters to form words, essential for clear written communication."
+        },
+        {
+          "q": "A strategy for improving spelling is to:",
+          "opts": [
+            "Ignore difficult words",
+            "Use the dictionary and practice regularly",
+            "Only memorize definitions",
+            "Skip spelling practice"
+          ],
+          "ans": 1,
+          "explanation": "Using the dictionary and practicing regularly helps you learn correct spelling."
+        },
+        {
+          "q": "Which word is commonly misspelt?",
+          "opts": [
+            "cat",
+            "accommodation",
+            "run",
+            "happy"
+          ],
+          "ans": 1,
+          "explanation": "'Accommodation' is commonly misspelt due to its double letters; many write 'acommodation' incorrectly."
+        },
+        {
+          "q": "To identify commonly misspelt words, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Look for words with double letters, silent letters, or irregular patterns",
+            "Ignore the context",
+            "Only focus on difficult words"
+          ],
+          "ans": 1,
+          "explanation": "Looking for words with double letters, silent letters, or irregular patterns helps you identify commonly misspelt words."
+        },
+        {
+          "q": "In Nigerian context, which is a commonly misspelt word?",
+          "opts": [
+            "cat",
+            "neighbourhood",
+            "run",
+            "happy"
+          ],
+          "ans": 1,
+          "explanation": "'Neighbourhood' is commonly misspelt in Nigerian English due to British spelling conventions; many write 'neighborhood' (American) incorrectly."
+        },
+        {
+          "q": "A common mistake in spelling is:",
+          "opts": [
+            "Using the dictionary",
+            "Assuming all words follow simple rules",
+            "Practicing regularly",
+            "Breaking words into parts"
+          ],
+          "ans": 1,
+          "explanation": "Assuming all words follow simple rules is a mistake; many words have irregular spelling patterns."
+        },
+        {
+          "q": "Understanding spelling is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, professional communication in academic and professional contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Correct spelling supports clear, professional communication essential for academic and career success in Nigeria."
+        },
+        {
+          "q": "Which is NOT a commonly misspelt word?",
+          "opts": [
+            "accommodation",
+            "beginning",
+            "committee",
+            "cat"
+          ],
+          "ans": 3,
+          "explanation": "'Cat' is not commonly misspelt; accommodation, beginning, and committee are frequently misspelt due to double letters."
+        },
+        {
+          "q": "A common misconception about spelling is:",
+          "opts": [
+            "Spelling is the correct arrangement of letters",
+            "Spelling doesn't matter in Nigerian English",
+            "Spelling improves with practice",
+            "Dictionary use helps spelling"
+          ],
+          "ans": 1,
+          "explanation": "Spelling does matter in Nigerian English; incorrect spelling can confuse readers and undermine credibility."
+        },
+        {
+          "q": "When improving spelling, you should:",
+          "opts": [
+            "Ignore difficult words",
+            "Use the dictionary, practice regularly, and learn spelling rules",
+            "Only memorize definitions",
+            "Skip spelling practice"
+          ],
+          "ans": 1,
+          "explanation": "Using the dictionary, practicing regularly, and learning spelling rules helps you improve spelling effectively."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w7_su3",
+      "title": "7.3 Summary Writing: Reading to Summarize Longer Selections",
+      "notes": [
+        "Summary Writing: Reading to Summarize Longer Selections",
+        "",
+        "Key Concepts:",
+        "1. What is summarizing longer selections?",
+        "   - The process of reducing a longer text (paragraphs, passages, articles) to a shorter version",
+        "   - Retains the main ideas while omitting unnecessary details",
+        "   - Example: Summarizing a 500-word article into 50-100 words",
+        "",
+        "2. Steps for summarizing longer selections:",
+        "   - Step 1: Read the passage carefully to understand the main idea",
+        "   - Step 2: Identify topic sentences and key supporting details",
+        "   - Step 3: Remove examples, repetitions, and minor details",
+        "   - Step 4: Rewrite the main points in your own words",
+        "   - Step 5: Check that your summary is clear, concise, and complete",
+        "",
+        "3. Features of a good summary of longer selections:",
+        "   - Uses your own words (paraphrasing)",
+        "   - Is significantly shorter than the original text",
+        "   - Includes only the main ideas and key supporting details",
+        "   - Maintains the original meaning and tone",
+        "   - Is written in complete, grammatically correct sentences",
+        "",
+        "4. Common mistakes in summarizing longer selections:",
+        "   - Copying sentences directly from the original",
+        "   - Including too many details or examples",
+        "   - Missing the main idea or key points",
+        "   - Changing the original meaning",
+        "   - Writing a summary that is too long or too short",
+        "",
+        "5. Strategies for effective summarizing of longer selections:",
+        "   - Underline or highlight key words and phrases",
+        "   - Ask: What is the most important information here?",
+        "   - Use transitional words to connect ideas smoothly",
+        "   - Practice with passages of varying lengths and topics",
+        "",
+        "Nigerian Context:",
+        "• Sample summary topic: 'The Impact of Corruption on Nigerian Development'",
+        "  - Original passage might discuss causes, effects, and solutions to corruption",
+        "  - Summary should capture: Corruption undermines development; collective action is needed; education and enforcement are key",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local issues like corruption, education, national development",
+        "  - Using summaries to communicate key points in Nigerian media and reports",
+        "  - Appreciating how summarizing skills support academic and professional success",
+        "",
+        "Practical Activities:",
+        "1. Key Point Identification:",
+        "   - Teacher provides a longer passage on a Nigerian topic",
+        "   - Students work in pairs to identify main ideas and key details",
+        "   - Groups share their findings and discuss which points are essential",
+        "",
+        "2. Summary Practice:",
+        "   - Teacher reads a longer passage aloud",
+        "   - Students write a one-paragraph summary of the main ideas",
+        "   - Class compares summaries and discusses accuracy",
+        "",
+        "3. Paraphrasing Exercise:",
+        "   - Students receive paragraphs from a longer passage",
+        "   - In groups, they rewrite paragraphs in their own words",
+        "   - Paragraphs shared with class for feedback on paraphrasing",
+        "",
+        "Common Misconceptions:",
+        "• 'Summary means copying': Summary requires paraphrasing in your own words",
+        "• 'Longer summaries are better': Effective summaries are concise and focused",
+        "• 'All details are important': Only main ideas and key supporting details should be included",
+        "• 'Summary is only for exams': Summarizing skills are useful in daily life and professional contexts",
+        "",
+        "Nigerian Context:",
+        "• Summarizing longer selections helps students succeed in Nigerian examinations (WAEC, NECO, JAMB)",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support academic success and effective communication in Nigerian society",
+        "",
+        "Conclusion:",
+        "• Summarizing longer selections reduces texts to shorter versions while retaining main ideas",
+        "• Steps include reading carefully, identifying key points, removing details, and paraphrasing",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of summarizing supports academic success and clear communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of summary writing steps for longer selections with examples",
+        "Flowchart for identifying main ideas and key details in longer texts",
+        "Sample longer passage with summary highlights",
+        "Nigerian context: Sample summary on corruption with key points",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English summary writing longer selections site:youtube.com",
+      "quiz": [
+        {
+          "q": "Summarizing longer selections is:",
+          "opts": [
+            "Copying the original text",
+            "Reducing a longer text to a shorter version while keeping main ideas",
+            "Adding more details to a passage",
+            "Only for creative writing"
+          ],
+          "ans": 1,
+          "explanation": "Summarizing longer selections reduces a longer text to a shorter version while retaining the main ideas and omitting unnecessary details."
+        },
+        {
+          "q": "The first step in summarizing longer selections is to:",
+          "opts": [
+            "Write the summary immediately",
+            "Read the passage carefully to understand the main idea",
+            "Copy key sentences",
+            "Skip to the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Reading the passage carefully to understand the main idea is the first step before identifying key points."
+        },
+        {
+          "q": "A feature of a good summary of longer selections is that it:",
+          "opts": [
+            "Copies sentences from the original",
+            "Uses your own words to express the main ideas",
+            "Includes all examples and details",
+            "Is longer than the original"
+          ],
+          "ans": 1,
+          "explanation": "A good summary uses your own words (paraphrasing) to express the main ideas concisely."
+        },
+        {
+          "q": "In summarizing a passage on corruption in Nigeria, the main idea might be:",
+          "opts": [
+            "Only about one case",
+            "Corruption undermines development and requires collective action",
+            "Only about foreign countries",
+            "Only about legal terms"
+          ],
+          "ans": 1,
+          "explanation": "The main idea would likely be that corruption undermines development and requires collective action from all Nigerians."
+        },
+        {
+          "q": "A common mistake in summarizing longer selections is:",
+          "opts": [
+            "Using your own words",
+            "Copying sentences directly from the original",
+            "Focusing on main ideas",
+            "Keeping the summary concise"
+          ],
+          "ans": 1,
+          "explanation": "Copying sentences directly from the original is a common mistake; summaries should paraphrase in your own words."
+        },
+        {
+          "q": "To check if your summary of a longer selection is effective, you should:",
+          "opts": [
+            "Make it longer",
+            "Ensure it includes main ideas and is written in your own words",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "An effective summary includes main ideas and is written in your own words while maintaining the original meaning."
+        },
+        {
+          "q": "Understanding summary writing of longer selections is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in examinations and effective communication",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Summary writing skills help students succeed in WAEC, NECO, JAMB and communicate effectively in Nigerian society."
+        },
+        {
+          "q": "Which is NOT a step in summarizing longer selections?",
+          "opts": [
+            "Read the passage carefully",
+            "Identify key points",
+            "Copy sentences directly",
+            "Paraphrase in your own words"
+          ],
+          "ans": 2,
+          "explanation": "Copying sentences directly is not a step in summary writing; paraphrasing in your own words is essential."
+        },
+        {
+          "q": "A common misconception about summary of longer selections is:",
+          "opts": [
+            "Summary retains main ideas",
+            "Summary means copying the original",
+            "Summary should be concise",
+            "Practice improves summarizing skills"
+          ],
+          "ans": 1,
+          "explanation": "Summary does not mean copying the original; it requires paraphrasing main ideas in your own words."
+        },
+        {
+          "q": "When summarizing longer selections, you should:",
+          "opts": [
+            "Include all examples",
+            "Focus on main ideas and paraphrase in your own words",
+            "Change the original meaning",
+            "Write a longer version"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on main ideas and paraphrasing in your own words creates an effective summary of longer selections."
+        }
+      ]
+    },
+    {
+      "id": "sss2_eng_t1_w7_su4",
+      "title": "7.4 Continuous Writing: Narrative Essay",
+      "notes": [
+        "Continuous Writing: Narrative Essay",
+        "",
+        "Key Concepts:",
+        "1. What is a narrative essay?",
+        "   - Writing that tells a story with a clear sequence of events",
+        "   - Includes characters, setting, plot, and theme",
+        "   - Example: 'A Day I Will Never Forget' or 'My First Day at School'",
+        "",
+        "2. Features of a narrative essay:",
+        "   - Clear sequence of events: beginning, middle, end",
+        "   - Characters: people or figures in the story",
+        "   - Setting: time and place of the story",
+        "   - Plot: sequence of events with conflict and resolution",
+        "   - Theme: main idea or message of the story",
+        "   - Descriptive language: vivid details to engage readers",
+        "",
+        "3. Steps for writing a narrative essay:",
+        "   - Step 1: Choose a topic and brainstorm ideas",
+        "   - Step 2: Develop characters, setting, and plot",
+        "   - Step 3: Write a draft with clear sequence and descriptive language",
+        "   - Step 4: Revise for clarity, creativity, and impact",
+        "",
+        "4. Language features for narrative writing:",
+        "   - Use past tense for completed actions",
+        "   - Use descriptive language: 'The bright sun shone on the dusty road'",
+        "   - Use dialogue to bring characters to life",
+        "   - Use transitional words: 'first', 'then', 'finally' to show sequence",
+        "",
+        "5. Tips for effective narrative writing:",
+        "   - Start with an engaging opening",
+        "   - Use specific details and examples",
+        "   - Maintain a consistent point of view",
+        "   - End with a meaningful conclusion or lesson",
+        "",
+        "Nigerian Context:",
+        "• Sample narrative essay topics for Nigerian students:",
+        "  - 'My First Day at Secondary School'",
+        "  - 'A Day I Will Never Forget'",
+        "  - 'The Day I Met a Hero in My Village'",
+        "  - 'A Journey to Lagos: My First Experience'",
+        "",
+        "• Cultural considerations:",
+        "  - Including local settings, characters, and cultural references",
+        "  - Using culturally appropriate language and expressions",
+        "  - Addressing issues relevant to Nigerian youth and society",
+        "",
+        "Practical Activities:",
+        "1. Topic Selection and Brainstorming:",
+        "   - Teacher provides narrative topics relevant to Nigerian life",
+        "   - Students choose a topic and brainstorm ideas",
+        "   - Focus on personal experiences or culturally relevant stories",
+        "",
+        "2. Draft Writing:",
+        "   - Students write a first draft of their narrative essay",
+        "   - Focus on clear sequence, descriptive language, and engaging details",
+        "   - Teacher provides feedback on organization and language",
+        "",
+        "3. Peer Review:",
+        "   - Students exchange drafts with partners",
+        "   - Partners check for sequence, description, and engagement",
+        "   - Students revise their essays based on feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'Narrative essays are only fictional': Narrative essays can be based on real experiences or fictional stories",
+        "• 'Longer narratives are better': Effective narratives are clear and focused, not just long",
+        "• 'Narrative essays don't need planning': Planning helps create logical, engaging narratives",
+        "• 'Only experts can write narratives': Everyone can learn to write effective narratives with practice",
+        "",
+        "Nigerian Context:",
+        "• Writing narrative essays supports clear, engaging communication for school assignments and real-life contexts",
+        "• Practice with local topics enhances relevance and retention",
+        "• Narrative writing skills are foundational for academic success and personal expression",
+        "",
+        "Conclusion:",
+        "• Narrative essays tell a story with a clear sequence of events",
+        "• Features include characters, setting, plot, theme, and descriptive language",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of narrative writing supports academic success and personal expression"
+      ],
+      "diagramDescriptions": [
+        "Chart of narrative essay features with Nigerian examples",
+        "Diagram of narrative writing steps: choose topic, brainstorm, draft, revise",
+        "Sample narrative essay on 'My First Day at School' with features highlighted",
+        "Nigerian context: Sample topics and cultural considerations",
+        "Common mistakes in narrative writing and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS2 English writing narrative essay features site:youtube.com",
+      "quiz": [
+        {
+          "q": "A narrative essay is:",
+          "opts": [
+            "Only a factual report",
+            "Writing that tells a story with a clear sequence of events",
+            "Only a poem",
+            "Only a list of facts"
+          ],
+          "ans": 1,
+          "explanation": "A narrative essay tells a story with a clear sequence of events, including characters, setting, and plot."
+        },
+        {
+          "q": "Which is a feature of a narrative essay?",
+          "opts": [
+            "Only rhyming words",
+            "Clear sequence, characters, setting, plot, theme",
+            "Only scientific data",
+            "Only lists of information"
+          ],
+          "ans": 1,
+          "explanation": "Narrative essays feature clear sequence, characters, setting, plot, and theme to tell a complete story."
+        },
+        {
+          "q": "The first step in writing a narrative essay is to:",
+          "opts": [
+            "Write the conclusion",
+            "Choose a topic and brainstorm ideas",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Choosing a topic and brainstorming ideas is the first step before developing characters, setting, and plot."
+        },
+        {
+          "q": "In a narrative about school life, you might use:",
+          "opts": [
+            "Only emotional words",
+            "Past tense and descriptive language",
+            "Only complex sentences",
+            "Only questions"
+          ],
+          "ans": 1,
+          "explanation": "Past tense and descriptive language help tell a clear, engaging narrative about school life."
+        },
+        {
+          "q": "A good tip for narrative writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use specific details and maintain a consistent point of view",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Using specific details and maintaining a consistent point of view creates clear, engaging narratives."
+        },
+        {
+          "q": "In Nigerian context, a narrative essay topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "'My First Day at Secondary School'",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Narrative topics in Nigerian context often address personal experiences like school, journeys, or cultural events."
+        },
+        {
+          "q": "Understanding narrative writing is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, engaging communication for academic and personal expression",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Narrative writing skills help students communicate clearly and express themselves in academic and personal contexts."
+        },
+        {
+          "q": "Which is NOT a feature of a narrative essay?",
+          "opts": [
+            "Clear sequence",
+            "Characters",
+            "Scientific data",
+            "Descriptive language"
+          ],
+          "ans": 2,
+          "explanation": "Scientific data is not a feature of narrative essays; clear sequence, characters, and descriptive language are."
+        },
+        {
+          "q": "A common misconception about narrative essays is:",
+          "opts": [
+            "Narrative essays tell stories",
+            "Narrative essays are only fictional",
+            "Narrative essays need planning",
+            "Narrative essays use descriptive language"
+          ],
+          "ans": 1,
+          "explanation": "Narrative essays are not only fictional; they can be based on real experiences or fictional stories."
+        },
+        {
+          "q": "When writing a narrative essay, you should:",
+          "opts": [
+            "Ignore the sequence",
+            "Use past tense, descriptive language, and maintain a consistent point of view",
+            "Only use complex words",
+            "Skip the introduction"
+          ],
+          "ans": 1,
+          "explanation": "Using past tense, descriptive language, and maintaining a consistent point of view creates clear, engaging narratives."
+        }
+      ]
+    }
+  ]
+}

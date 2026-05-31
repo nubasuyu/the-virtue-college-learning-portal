@@ -1,0 +1,250 @@
+{
+  "course": "SSS1 English Language",
+  "term": "Third Term",
+  "week": 12,
+  "topic": "Revision",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t3_w12_su1",
+      "title": "12.1 Final Revision and Examination Preparation",
+      "notes": [
+        "Final Revision and Examination Preparation",
+        "• Purpose: Consolidate learning, address gaps, and prepare for end-of-term examination",
+        "• Approach: Review key concepts, practice application, and build confidence",
+        "",
+        "Key Topics for Revision:",
+        "1. Speech:",
+        "   • Stress timing: Content vs function words, vowel reduction",
+        "   • Listening skills: Directions, debates, persuasion",
+        "   • Dialogue: Direct/indirect, punctuation, natural flow",
+        "",
+        "2. Vocabulary:",
+        "   • Synonyms: Same/near-same meaning, contextual usage",
+        "   • Antonyms: Opposite meanings, types (gradable, complementary, relational)",
+        "   • Advertising: Campaigns, slogans, persuasive techniques",
+        "   • Stock exchange: Shares, dividends, market terms",
+        "",
+        "3. Comprehension:",
+        "   • Question types: Literal, inferential, evaluative, applied",
+        "   • Main point extraction: Topic sentences, summarization",
+        "   • Strategies: Careful reading, keyword identification, answer formulation",
+        "",
+        "4. Structure:",
+        "   • Adjuncts: Manner (how), reason (why), punctuation",
+        "   • Concord: Subject-verb agreement, special cases",
+        "   • Determiners: Articles, demonstratives, possessives, quantifiers",
+        "   • Adverbial clauses: Types, introducers, position, punctuation",
+        "",
+        "5. Continuous Writing:",
+        "   • Record keeping: Accuracy, completeness, organization",
+        "   • Articles: Headline, introduction, body, conclusion",
+        "   • Formal letters: Structure, language, tone",
+        "   • Persuasive speeches: Thesis, arguments, evidence, call to action",
+        "",
+        "Examination Format and Expectations:",
+        "1. Section A: Objective Questions (Multiple Choice)",
+        "   • Vocabulary: Synonyms, antonyms, advertising, stock exchange",
+        "   • Structure: Concord, determiners, adjuncts, clauses",
+        "   • Comprehension: Short passage with questions",
+        "",
+        "2. Section B: Theory Questions",
+        "   • Definitions and explanations",
+        "   • Comparisons and contrasts",
+        "   • Application and analysis",
+        "",
+        "3. Section C: Continuous Writing",
+        "   • Article writing: Current issues, structure, language",
+        "   • Formal letter: Purpose, structure, tone",
+        "   • Persuasive speech: Thesis, arguments, evidence",
+        "",
+        "Revision Strategies:",
+        "1. Active Recall:",
+        "   • Test yourself on definitions, rules, and examples",
+        "   • Use flashcards for vocabulary and grammar terms",
+        "   • Practice without notes to strengthen memory",
+        "",
+        "2. Spaced Repetition:",
+        "   • Review topics at increasing intervals",
+        "   • Focus on weak areas more frequently",
+        "   • Use past questions to identify patterns",
+        "",
+        "3. Practice Application:",
+        "   • Write sample answers to past exam questions",
+        "   • Time yourself to build speed and accuracy",
+        "   • Get feedback from teachers or peers",
+        "",
+        "4. Group Study:",
+        "   • Discuss concepts with classmates",
+        "   • Teach each other to reinforce understanding",
+        "   • Clarify misconceptions through dialogue",
+        "",
+        "Common Pitfalls to Avoid:",
+        "1. Cramming:",
+        "   • Last-minute studying leads to stress and poor retention",
+        "   • Solution: Start revision early, review regularly",
+        "",
+        "2. Passive Reading:",
+        "   • Simply reading notes is not enough",
+        "   • Solution: Engage actively with material through practice and application",
+        "",
+        "3. Ignoring Weak Areas:",
+        "   • Avoiding difficult topics leads to gaps in knowledge",
+        "   • Solution: Identify weaknesses early and seek help",
+        "",
+        "4. Neglecting Practice:",
+        "   • Understanding concepts is not enough; application is key",
+        "   • Solution: Practice with past questions and sample answers",
+        "",
+        "Nigerian Context Integration:",
+        "• Relate English concepts to Nigerian communication needs",
+        "• Use local examples: proverbs, cultural references, current issues",
+        "• Consider applications in Nigerian education, media, and professional contexts",
+        "",
+        "Examination Tips:",
+        "1. Before the Exam:",
+        "   • Get adequate rest and nutrition",
+        "   • Review key formulas, rules, and definitions",
+        "   • Prepare materials: pens, pencils, eraser, ruler",
+        "",
+        "2. During the Exam:",
+        "   • Read instructions carefully",
+        "   • Manage time: allocate time per section",
+        "   • Answer easy questions first, then tackle difficult ones",
+        "   • Review answers if time permits",
+        "",
+        "3. After the Exam:",
+        "   • Reflect on performance: what went well, what to improve",
+        "   • Seek feedback from teachers",
+        "   • Use insights to prepare for future exams",
+        "",
+        "Conclusion:",
+        "• Revision consolidates learning and prepares students for examination success",
+        "• Key strategies include active recall, spaced repetition, practice application, and group study",
+        "• Avoid common pitfalls: cramming, passive reading, ignoring weak areas",
+        "• Nigerian context integration enhances relevance and application",
+        "• Effective examination preparation supports academic achievement and future success"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram of all third term topics with key concepts",
+        "Examination format chart: sections, question types, time allocation",
+        "Revision strategy flowchart: active recall, spaced repetition, practice",
+        "Common pitfalls and solutions table",
+        "Nigerian context examples: local vocabulary, passages, writing topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English exam preparation revision SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "The primary purpose of revision is to:",
+          "opts": [
+            "Memorize facts without understanding",
+            "Consolidate learning and prepare for examination",
+            "Avoid studying new topics",
+            "Focus only on weak areas"
+          ],
+          "ans": 1,
+          "explanation": "Revision consolidates learning, addresses gaps, and prepares students for examination success."
+        },
+        {
+          "q": "Which is a key topic for revision in speech?",
+          "opts": [
+            "Spelling rules",
+            "Stress timing and listening skills",
+            "Punctuation only",
+            "Vocabulary lists"
+          ],
+          "ans": 1,
+          "explanation": "Speech revision includes stress timing, listening skills, and dialogue techniques."
+        },
+        {
+          "q": "In vocabulary revision, synonyms are words that:",
+          "opts": [
+            "Have opposite meanings",
+            "Have the same or nearly the same meaning",
+            "Sound the same but have different meanings",
+            "Are spelled the same but have different meanings"
+          ],
+          "ans": 1,
+          "explanation": "Synonyms are words with the same or nearly the same meaning, used to add variety and precision."
+        },
+        {
+          "q": "A common pitfall in revision is:",
+          "opts": [
+            "Active recall",
+            "Cramming at the last minute",
+            "Spaced repetition",
+            "Practice application"
+          ],
+          "ans": 1,
+          "explanation": "Cramming at the last minute leads to stress and poor retention; start revision early."
+        },
+        {
+          "q": "During an exam, you should:",
+          "opts": [
+            "Answer difficult questions first",
+            "Read instructions carefully and manage time",
+            "Skip easy questions",
+            "Ignore time limits"
+          ],
+          "ans": 1,
+          "explanation": "Reading instructions carefully and managing time ensures you answer all questions effectively."
+        },
+        {
+          "q": "In Nigerian context, a comprehension passage might address:",
+          "opts": [
+            "Only foreign issues",
+            "Local issues like corruption, environment, or education",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension passages in Nigerian context often address local issues relevant to students' experiences."
+        },
+        {
+          "q": "Understanding concord is important because it:",
+          "opts": [
+            "Only helps pass grammar tests",
+            "Ensures subject-verb agreement for grammatical correctness",
+            "Only for speaking practice",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Concord ensures subject-verb agreement, which is essential for grammatical correctness and clarity."
+        },
+        {
+          "q": "Which is NOT a type of adverbial clause?",
+          "opts": [
+            "Time",
+            "Reason",
+            "Spelling",
+            "Condition"
+          ],
+          "ans": 2,
+          "explanation": "Spelling is not a type of adverbial clause; time, reason, condition, contrast, purpose, and result are common types."
+        },
+        {
+          "q": "A good revision strategy is:",
+          "opts": [
+            "Passive reading of notes",
+            "Active recall and practice application",
+            "Ignoring weak areas",
+            "Cramming the night before"
+          ],
+          "ans": 1,
+          "explanation": "Active recall and practice application strengthen memory and understanding more than passive reading."
+        },
+        {
+          "q": "After an exam, you should:",
+          "opts": [
+            "Forget about it immediately",
+            "Reflect on performance and seek feedback",
+            "Blame external factors",
+            "Avoid reviewing mistakes"
+          ],
+          "ans": 1,
+          "explanation": "Reflecting on performance and seeking feedback helps identify strengths and areas for improvement."
+        }
+      ]
+    }
+  ]
+}

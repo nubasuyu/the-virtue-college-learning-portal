@@ -1,0 +1,233 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "Third Term",
+  "week": 12,
+  "topic": "Revision",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t3_w12_su1",
+      "title": "12.1 Comprehensive Revision of Third Term Topics",
+      "notes": [
+        "Revision of Key Topics from Third Term",
+        "",
+        "Key Concepts Reviewed:",
+        "1. Reading Skills:",
+        "   - Understanding author's mood and tone",
+        "   - Reading strategies: preview, question, review",
+        "   - Identifying vocabulary in context",
+        "   - Reading between lines for hidden attribution",
+        "   - Answering conclusion questions",
+        "",
+        "2. Writing Skills:",
+        "   - Informal letter format and language",
+        "   - Composition types: narrative, descriptive, argumentative, expository",
+        "   - Organizing ideas logically",
+        "   - Writing on topics: road transport, family, values",
+        "",
+        "3. Grammatical Accuracy:",
+        "   - Adverbials: types, functions, identification",
+        "   - Tenses: present, past, future forms",
+        "   - Parts of speech review",
+        "",
+        "4. Listening/Speaking Skills:",
+        "   - Weak forms and connected speech",
+        "   - Listening for main ideas on various topics",
+        "   - Speaking with clear pronunciation and intonation",
+        "",
+        "5. Literature:",
+        "   - Poetry: features, language, types",
+        "   - Drama: origin, development, features",
+        "   - Prose: types, features, analysis",
+        "   - Folktales, myths, legends: features, themes, moral lessons",
+        "",
+        "Practical Revision Activities:",
+        "1. Topic Review Stations:",
+        "   - Set up stations for reading, writing, grammar, listening, literature",
+        "   - Students rotate through stations, reviewing key concepts",
+        "   - Each station has practice exercises and answer keys",
+        "",
+        "2. Group Quiz Games:",
+        "   - Teacher prepares quiz questions from all topics",
+        "   - Students work in teams to answer questions",
+        "   - Points awarded for correct answers; review explanations",
+        "",
+        "3. Skill Application Practice:",
+        "   - Students apply skills to new passages or topics",
+        "   - Example: Read a new passage, answer different question types",
+        "   - Write a short composition using outline and sequence",
+        "",
+        "4. Peer Teaching:",
+        "   - Students teach a topic to a partner or small group",
+        "   - Teaching reinforces understanding and identifies gaps",
+        "   - Class shares key takeaways from peer teaching",
+        "",
+        "Common Challenges and Solutions:",
+        "• Challenge: Forgetting grammar rules",
+        "  - Solution: Create summary charts or flashcards for quick review",
+        "",
+        "• Challenge: Confusing question types in reading",
+        "  - Solution: Practice identifying question types and strategies for each",
+        "",
+        "• Challenge: Organizing writing ideas",
+        "  - Solution: Always start with an outline before drafting",
+        "",
+        "• Challenge: Pronouncing vowel sounds",
+        "  - Solution: Practice minimal pairs daily with recording and feedback",
+        "",
+        "Nigerian Context Integration:",
+        "• Relate English skills to Nigerian communication needs",
+        "• Use local examples: proverbs, cultural references, current issues",
+        "• Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Exam Preparation Tips:",
+        "1. Review Notes and Diagrams:",
+        "   - Summarize key points from each topic",
+        "   - Redraw and label important diagrams",
+        "   - Use flashcards for definitions and terms",
+        "",
+        "2. Practice Questions:",
+        "   - Answer past exam questions or teacher-provided practice",
+        "   - Create and answer your own questions",
+        "   - Focus on application and analysis, not just recall",
+        "",
+        "3. Group Study:",
+        "   - Discuss concepts with peers",
+        "   - Teach each other to reinforce understanding",
+        "   - Clarify misconceptions through discussion",
+        "",
+        "4. Nigerian Context Emphasis:",
+        "   - Relate English concepts to Nigerian communication needs",
+        "   - Consider local examples: proverbs, cultural references, current issues",
+        "   - Think about applications in Nigerian education, media, and professional contexts",
+        "",
+        "Conclusion:",
+        "• Revision consolidates understanding of JSS1 Third Term English topics",
+        "• Key concepts include reading, writing, grammar, listening/speaking, and literature",
+        "• Practical skills and Nigerian context integration enhance learning and application",
+        "• Effective revision strategies prepare students for exams and real-world communication",
+        "• In Nigeria, English language proficiency supports academic success, professional advancement, and civic participation"
+      ],
+      "diagramDescriptions": [
+        "Summary diagram linking all JSS1 Third Term topics: reading, writing, grammar, listening/speaking, literature",
+        "Concept map of question types: knowledge, interpretation, projection, conclusion",
+        "Comparison chart of composition types: narrative, descriptive, expository",
+        "Flowchart of outlining and sequential arrangement",
+        "Nigerian examples: Local vocabulary, comprehension passages, writing topics"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English revision third term grammar comprehension writing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Author's mood is:",
+          "opts": [
+            "The writer's attitude toward the subject",
+            "The emotional atmosphere or feeling created by the writer",
+            "The main idea of the passage",
+            "The number of paragraphs"
+          ],
+          "ans": 1,
+          "explanation": "Mood is the emotional atmosphere or feeling created by the writer through language choices."
+        },
+        {
+          "q": "An adverbial modifies:",
+          "opts": [
+            "Only nouns",
+            "Verbs, adjectives, or other adverbs",
+            "Only prepositions",
+            "Only conjunctions"
+          ],
+          "ans": 1,
+          "explanation": "Adverbials modify verbs, adjectives, or other adverbs to add detail about how, when, where, or why."
+        },
+        {
+          "q": "A narrative prose tells:",
+          "opts": [
+            "Only facts",
+            "A story with characters, setting, and plot",
+            "Only opinions",
+            "Only descriptions"
+          ],
+          "ans": 1,
+          "explanation": "Narrative prose tells a story with characters, setting, and a sequence of events (plot)."
+        },
+        {
+          "q": "An outline helps a writer to:",
+          "opts": [
+            "Write faster without thinking",
+            "Organize ideas before writing",
+            "Make the passage longer",
+            "Copy from other sources"
+          ],
+          "ans": 1,
+          "explanation": "An outline helps organize main and supporting ideas in logical order before writing the full passage."
+        },
+        {
+          "q": "Conclusion questions ask you to:",
+          "opts": [
+            "Copy facts from the passage",
+            "Infer, deduce, or draw logical conclusions from the passage",
+            "Give your personal opinion only",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Conclusion questions require you to infer, deduce, or draw logical conclusions based on evidence in the passage."
+        },
+        {
+          "q": "Which is a present continuous tense verb?",
+          "opts": [
+            "/i/ as in sit",
+            "am talking",
+            "/æ/ as in cat",
+            "/ʌ/ as in bus"
+          ],
+          "ans": 1,
+          "explanation": "'Am talking' is present continuous; the others are vowel sounds."
+        },
+        {
+          "q": "In Nigerian context, an informal letter might include:",
+          "opts": [
+            "Only standard English expressions",
+            "Culturally appropriate greetings and local references",
+            "Only formal language",
+            "No personal anecdotes"
+          ],
+          "ans": 1,
+          "explanation": "Informal letters in Nigerian context can include culturally appropriate greetings and local references."
+        },
+        {
+          "q": "Understanding English language concepts is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports academic success, professional communication, and civic participation",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "English proficiency supports academic achievement, career advancement, and effective participation in Nigerian society."
+        },
+        {
+          "q": "Which is a feature of descriptive prose?",
+          "opts": [
+            "Only listing facts",
+            "Sensory details and vivid language to paint pictures with words",
+            "Only short sentences",
+            "Only technical terms"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive prose uses sensory details and vivid language to create mental images for the reader."
+        },
+        {
+          "q": "A common misconception about adverbials is:",
+          "opts": [
+            "Adverbials modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbials",
+            "Adverbials add precision to communication",
+            "Adverbials can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbials; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    }
+  ]
+}

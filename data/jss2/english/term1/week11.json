@@ -1,0 +1,688 @@
+{
+  "course": "JSS2 English Studies",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss2_eng_t1_w11_su1",
+      "title": "11.1 Reading: Projection Questions",
+      "notes": [
+        "Reading: Answering Projection Questions",
+        "",
+        "Key Concepts:",
+        "1. What are projection questions?",
+        "   - Questions that ask you to predict or suggest what might happen",
+        "   - Answers require using information from the passage to make logical predictions",
+        "   - Example: What might happen if drivers ignore traffic rules?",
+        "",
+        "2. How to answer projection questions:",
+        "   - Read the passage carefully to understand the situation",
+        "   - Identify key facts and evidence in the text",
+        "   - Ask: What is likely to happen based on this information?",
+        "   - Support your prediction with specific evidence from the passage",
+        "",
+        "3. Common topics for practice:",
+        "   - Road safety and FRSC",
+        "   - Youth unemployment",
+        "   - Environmental protection",
+        "   - Value re-orientation",
+        "",
+        "Nigerian Context:",
+        "Sample passage topic: The Impact of Corruption on Nigerian Development",
+        "  - Projection question: What might happen if corruption continues unchecked?",
+        "  - Answer: If corruption continues, national development may slow, public trust may decline, and poverty may increase.",
+        "",
+        "Practical Activities:",
+        "1. Projection Practice with Nigerian Passages:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to answer projection questions",
+        "   - Groups share their predictions and discuss evidence from the text",
+        "",
+        "Common Misconceptions:",
+        "   - Projection means guessing: Projection requires logical reasoning based on passage evidence",
+        "   - Any prediction is correct: Projections must be supported by passage information",
+        "",
+        "Conclusion:",
+        "   - Projection questions ask you to predict or suggest what might happen based on a passage",
+        "   - Strategies include reading carefully, identifying evidence, and using logical reasoning",
+        "   - Mastery of these skills supports academic success across all subjects"
+      ],
+      "diagramDescriptions": [
+        "Chart of projection question types with examples",
+        "Flowchart for answering projection questions",
+        "Sample passage with projection questions and model answers"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English reading comprehension projection questions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Projection questions ask you to:",
+          "opts": [
+            "Copy facts from the passage",
+            "Predict or suggest what might happen based on the passage",
+            "Give your personal opinion only",
+            "Ignore the passage"
+          ],
+          "ans": 1,
+          "explanation": "Projection questions require you to use information from the passage to make logical predictions."
+        },
+        {
+          "q": "Which is an example of a projection question?",
+          "opts": [
+            "What is the main character's name?",
+            "What might happen if drivers ignore traffic rules?",
+            "What color is the sky?",
+            "How many paragraphs are in the passage?"
+          ],
+          "ans": 1,
+          "explanation": "What might happen if drivers ignore traffic rules? asks you to make a prediction based on the passage."
+        },
+        {
+          "q": "A good strategy for projection questions is to:",
+          "opts": [
+            "Guess without reading",
+            "Identify key evidence and use logical reasoning",
+            "Write whatever you think",
+            "Skip the question"
+          ],
+          "ans": 1,
+          "explanation": "Identifying key evidence and using logical reasoning is the best strategy for projection questions."
+        },
+        {
+          "q": "In a passage about corruption in Nigeria, a projection answer might be:",
+          "opts": [
+            "Copying: Corruption is bad.",
+            "Predicting: If corruption continues, national development may slow.",
+            "Opinion: I think corruption is wrong.",
+            "Fact: Nigeria has many problems."
+          ],
+          "ans": 1,
+          "explanation": "Predicting uses passage evidence to make a logical prediction about what might happen."
+        },
+        {
+          "q": "A common mistake in projection questions is:",
+          "opts": [
+            "Using passage evidence",
+            "Making predictions not supported by the text",
+            "Thinking logically",
+            "Writing clear answers"
+          ],
+          "ans": 1,
+          "explanation": "Making predictions not supported by the text is a common mistake; projections must be based on passage evidence."
+        },
+        {
+          "q": "To check if your projection is correct, you should:",
+          "opts": [
+            "Make it longer",
+            "Ensure it is supported by passage evidence and logical reasoning",
+            "Add your personal opinion",
+            "Use complex vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Good projections are supported by specific evidence from the passage and logical reasoning."
+        },
+        {
+          "q": "Understanding projection questions is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports success in national examinations like BECE and WAEC",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "Projection questions are common in national exams; mastering them supports exam success."
+        },
+        {
+          "q": "Which is NOT a type of projection question?",
+          "opts": [
+            "Prediction",
+            "Suggestion",
+            "Fact recall",
+            "Consequence"
+          ],
+          "ans": 2,
+          "explanation": "Fact recall is a knowledge-level question, not a projection question."
+        },
+        {
+          "q": "A common misconception about projection questions is:",
+          "opts": [
+            "They ask you to predict based on evidence",
+            "Projection means guessing randomly",
+            "Answers must be evidence-based",
+            "Practice improves projection skills"
+          ],
+          "ans": 1,
+          "explanation": "Projection requires logical reasoning based on passage evidence, not random guessing."
+        },
+        {
+          "q": "When answering projection questions, you should:",
+          "opts": [
+            "Ignore the passage",
+            "Use logical reasoning based on passage information",
+            "Make up any story",
+            "Copy the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Projection answers must use logical reasoning based on evidence from the passage."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w11_su2",
+      "title": "11.2 Writing: Sequential Arrangement of Ideas",
+      "notes": [
+        "Writing: Sequential Arrangement of Ideas",
+        "",
+        "Key Concepts:",
+        "1. What is sequential arrangement?",
+        "   - Putting ideas in a logical, time-based, or cause-effect order",
+        "   - Helps readers follow your thoughts clearly",
+        "   - Example: First, I woke up. Then, I brushed my teeth. Next, I ate breakfast.",
+        "",
+        "2. Types of sequence in writing:",
+        "   - Time order: first, next, then, finally",
+        "   - Cause and effect: because, therefore, as a result",
+        "   - Order of importance: most important to least, or vice versa",
+        "   - Problem and solution: problem first, then solutions",
+        "",
+        "3. Steps for arranging ideas in sequence:",
+        "   - Step 1: List all your ideas or points",
+        "   - Step 2: Identify the logical order time, cause-effect, importance",
+        "   - Step 3: Use transitional words to connect ideas",
+        "   - Step 4: Review to ensure smooth flow from one idea to the next",
+        "",
+        "Nigerian Context:",
+        "Sample sequential topic: How to Prepare for WAEC Exams",
+        "  - First, create a study schedule",
+        "  - Next, gather all necessary materials",
+        "  - Then, study regularly and practice past questions",
+        "  - Finally, review and rest before the exam",
+        "",
+        "Practical Activities:",
+        "1. Sequence Sorting:",
+        "   - Teacher provides a list of ideas in random order for a topic",
+        "   - Students work in groups to arrange ideas in logical sequence",
+        "   - Groups present their sequences and explain their organization",
+        "",
+        "Common Misconceptions:",
+        "   - Sequence means only time order: Sequence can be cause-effect, importance, or problem-solution too",
+        "   - Longer writing is better: Clear, concise, well-organized writing is more effective",
+        "",
+        "Conclusion:",
+        "   - Sequential arrangement organizes ideas logically for clear communication",
+        "   - Steps include listing ideas, identifying logical order, using transitional words, and reviewing",
+        "   - Mastery of sequential writing supports academic success and real-life communication"
+      ],
+      "diagramDescriptions": [
+        "Chart of sequence types: time, cause-effect, importance, problem-solution",
+        "Diagram of sequential writing steps",
+        "Sample sequential paragraph with transitional words highlighted"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English writing sequential arrangement site:youtube.com",
+      "quiz": [
+        {
+          "q": "Sequential arrangement means:",
+          "opts": [
+            "Random arrangement of ideas",
+            "Organizing ideas in logical, time-based, or cause-effect order",
+            "Only listing facts",
+            "Only writing conclusions"
+          ],
+          "ans": 1,
+          "explanation": "Sequential arrangement organizes ideas logically so readers can follow your thoughts clearly."
+        },
+        {
+          "q": "Which is a transitional word for time order?",
+          "opts": [
+            "however",
+            "first",
+            "because",
+            "for example"
+          ],
+          "ans": 1,
+          "explanation": "First is a transitional word for time order; however shows contrast, because shows reason."
+        },
+        {
+          "q": "The first step in sequential writing is to:",
+          "opts": [
+            "Write the conclusion",
+            "List all your ideas or points",
+            "Start with the body",
+            "Skip to the end"
+          ],
+          "ans": 1,
+          "explanation": "Listing all your ideas or points is the first step before organizing and writing."
+        },
+        {
+          "q": "In a sequential paragraph about exam preparation, you might use:",
+          "opts": [
+            "Only emotional words",
+            "Transitional words like first, next, then, finally",
+            "Only complex sentences",
+            "Only questions"
+          ],
+          "ans": 1,
+          "explanation": "Transitional words like first, next, then, finally help show the sequence of steps in exam preparation."
+        },
+        {
+          "q": "A good tip for sequential writing is to:",
+          "opts": [
+            "Write without planning",
+            "Use transitional words to connect ideas",
+            "Only use simple words",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Using transitional words helps connect ideas clearly in sequential writing."
+        },
+        {
+          "q": "In Nigerian context, a sequential topic might be:",
+          "opts": [
+            "Only foreign issues",
+            "How to Prepare for WAEC Exams",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Sequential topics in Nigerian context often address practical processes like exam preparation or daily routines."
+        },
+        {
+          "q": "Understanding sequential arrangement is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports clear, organized writing for assignments, exams, and real-life contexts",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Sequential arrangement skills help students write clearly and logically in academic and real-life contexts."
+        },
+        {
+          "q": "Which is NOT a type of sequence?",
+          "opts": [
+            "Time order",
+            "Cause and effect",
+            "Random order",
+            "Order of importance"
+          ],
+          "ans": 2,
+          "explanation": "Random order is not a type of sequence; time order, cause-effect, and importance are types of sequence."
+        },
+        {
+          "q": "A common misconception about sequential writing is:",
+          "opts": [
+            "Sequential arrangement organizes ideas logically",
+            "Sequence means only time order",
+            "Transitional words connect ideas",
+            "Practice improves sequential writing"
+          ],
+          "ans": 1,
+          "explanation": "Sequence can be cause-effect, importance, or problem-solution too, not only time order."
+        },
+        {
+          "q": "When arranging ideas sequentially, you should:",
+          "opts": [
+            "Keep ideas in random order",
+            "Identify the logical order and use transitional words",
+            "Only use the first idea",
+            "Ignore the topic"
+          ],
+          "ans": 1,
+          "explanation": "Identifying logical order and using transitional words creates clear, effective sequential writing."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w11_su3",
+      "title": "11.3 Grammatical Accuracy: Parts of Speech - Nouns, Verbs, Adjectives",
+      "notes": [
+        "Grammar: Parts of Speech - Nouns, Verbs, Adjectives",
+        "",
+        "Key Concepts:",
+        "1. Review: What are nouns?",
+        "   - Words that name people, places, things, or ideas",
+        "   - Examples: boy, Lagos, book, happiness",
+        "   - Functions: subject of sentence, object of verb, object of preposition",
+        "",
+        "2. Review: What are verbs?",
+        "   - Words that show action or state of being",
+        "   - Examples: run, eat, is, have, think",
+        "   - Functions: express action, state, or occurrence",
+        "",
+        "3. Review: What are adjectives?",
+        "   - Words that describe nouns or pronouns",
+        "   - Examples: big, red, beautiful, intelligent",
+        "   - Functions: tell what kind, which one, how many",
+        "",
+        "4. How to identify parts of speech in passages:",
+        "   - For nouns: Look for words that name people, places, things, or ideas",
+        "   - For verbs: Look for words that show action or state",
+        "   - For adjectives: Look for words that describe nouns or pronouns",
+        "   - Ask: What is this word doing in the sentence?",
+        "",
+        "5. Making sentences with parts of speech:",
+        "   - Start with a subject noun: The boy runs.",
+        "   - Add a verb: The boy runs quickly.",
+        "   - Add an adjective: The tall boy runs quickly.",
+        "   - Build complete sentences using all three parts of speech",
+        "",
+        "Nigerian Context:",
+        "Common nouns in Nigerian English:",
+        "  - People: student, teacher, farmer, trader, parent",
+        "  - Places: village, city, market, school, mosque, church",
+        "  - Things: garri, yam, book, car, phone, uniform",
+        "  - Ideas: respect, hard work, community, education",
+        "",
+        "Practical Activities:",
+        "1. Parts of Speech Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline nouns in one color, verbs in another, adjectives in a third",
+        "   - Class discusses findings and functions",
+        "",
+        "Common Misconceptions:",
+        "   - All nouns are things: Nouns can name people, places, ideas, not just things",
+        "   - Verbs are only action words: Verbs can also show state of being is, are, was",
+        "",
+        "Conclusion:",
+        "   - Nouns name people, places, things, or ideas",
+        "   - Verbs show action or state of being",
+        "   - Adjectives describe nouns or pronouns",
+        "   - Mastery of parts of speech supports clear, accurate communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of parts of speech with Nigerian examples",
+        "Diagram showing functions of nouns, verbs, adjectives in sentences",
+        "Sample passage with parts of speech highlighted by type"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English grammar parts of speech nouns verbs adjectives site:youtube.com",
+      "quiz": [
+        {
+          "q": "A noun is a word that:",
+          "opts": [
+            "Shows action",
+            "Names a person, place, thing, or idea",
+            "Describes a noun",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "A noun names a person, place, thing, or idea."
+        },
+        {
+          "q": "A verb is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Shows action or state of being",
+            "Describes a noun",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "A verb shows action or state of being."
+        },
+        {
+          "q": "An adjective is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Shows action",
+            "Describes a noun or pronoun",
+            "Connects words"
+          ],
+          "ans": 2,
+          "explanation": "An adjective describes a noun or pronoun."
+        },
+        {
+          "q": "In the sentence The tall boy runs quickly, tall is a:",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Adverb"
+          ],
+          "ans": 2,
+          "explanation": "Tall is an adjective because it describes the noun boy."
+        },
+        {
+          "q": "In Nigerian context, which is a noun?",
+          "opts": [
+            "run",
+            "Lagos",
+            "beautiful",
+            "quickly"
+          ],
+          "ans": 1,
+          "explanation": "Lagos is a noun because it names a specific place."
+        },
+        {
+          "q": "Which word can function as a verb in a sentence?",
+          "opts": [
+            "happiness",
+            "run",
+            "beautiful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "Run is a verb shows action; happiness is a noun, beautiful is an adjective, and is a conjunction."
+        },
+        {
+          "q": "Understanding parts of speech is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear sentence construction and communication",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Parts of speech are essential to sentence structure; mastering them supports clear writing and speaking."
+        },
+        {
+          "q": "Which is NOT a part of speech?",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Action",
+            "Adjective"
+          ],
+          "ans": 2,
+          "explanation": "Action is not a part of speech; noun, verb, and adjective are parts of speech."
+        },
+        {
+          "q": "A common misconception about verbs is:",
+          "opts": [
+            "Verbs show action or state of being",
+            "Verbs are only action words",
+            "Verbs can be regular or irregular",
+            "Verbs are essential to sentences"
+          ],
+          "ans": 1,
+          "explanation": "Verbs are not only action words; they can also show state of being is, are, was."
+        },
+        {
+          "q": "A good strategy for identifying parts of speech is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: What is this word doing in the sentence?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking What is this word doing in the sentence? helps identify the part of speech regardless of form or position."
+        }
+      ]
+    },
+    {
+      "id": "jss2_eng_t1_w11_su4",
+      "title": "11.4 Literature: Prose Features - Characterization and Style",
+      "notes": [
+        "Literature: Prose Features - Characterization and Style",
+        "",
+        "Key Concepts:",
+        "1. What is characterization?",
+        "   - The way an author creates and develops characters in a story",
+        "   - Includes physical description, actions, thoughts, dialogue, and interactions",
+        "   - Example: A character who is brave, kind, and wise",
+        "",
+        "2. Types of characterization:",
+        "   - Direct characterization: Author tells us about the character directly",
+        "     Example: Aisha was a kind and generous girl.",
+        "   - Indirect characterization: Author shows us through actions, dialogue, thoughts",
+        "     Example: Aisha shared her lunch with a hungry classmate.",
+        "",
+        "3. What is style in prose?",
+        "   - The author's unique way of writing",
+        "   - Includes word choice, sentence structure, tone, and figurative language",
+        "   - Example: Simple, direct style vs elaborate, descriptive style",
+        "",
+        "4. How to identify characterization and style:",
+        "   - For characterization: Look for descriptions, actions, dialogue, thoughts",
+        "   - For style: Look at word choice, sentence structure, tone, figurative language",
+        "   - Ask: What do I learn about the character? How does the author write?",
+        "",
+        "Nigerian Context:",
+        "Characterization in Nigerian prose:",
+        "  - Characters who reflect Nigerian values: respect, hard work, community",
+        "  - Characters who face Nigerian challenges: poverty, education, corruption",
+        "",
+        "Style in Nigerian prose:",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Simple, direct style for clarity and accessibility",
+        "",
+        "Practical Activities:",
+        "1. Character Analysis:",
+        "   - Teacher provides a short Nigerian prose excerpt",
+        "   - Students work in pairs to analyze a character: traits, actions, dialogue",
+        "   - Groups share their findings and discuss evidence from the text",
+        "",
+        "Common Misconceptions:",
+        "   - Characterization is only about physical description: Characterization includes actions, thoughts, dialogue too",
+        "   - Style is only about fancy words: Style includes word choice, sentence structure, tone, and figurative language",
+        "",
+        "Conclusion:",
+        "   - Characterization is how authors create and develop characters",
+        "   - Style is the author's unique way of writing",
+        "   - Nigerian prose reflects rich cultural traditions with universal themes",
+        "   - Mastery of characterization and style analysis supports literary appreciation and critical thinking"
+      ],
+      "diagramDescriptions": [
+        "Chart of characterization types with Nigerian examples",
+        "Diagram of style elements: word choice, sentence structure, tone, figurative language",
+        "Sample Nigerian prose excerpt with characterization and style highlighted"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 English literature prose characterization style Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Characterization is:",
+          "opts": [
+            "Only physical description of characters",
+            "The way an author creates and develops characters in a story",
+            "Only the plot of a story",
+            "Only the setting of a story"
+          ],
+          "ans": 1,
+          "explanation": "Characterization is the way an author creates and develops characters through description, actions, dialogue, and thoughts."
+        },
+        {
+          "q": "Direct characterization is when:",
+          "opts": [
+            "The author shows us through actions and dialogue",
+            "The author tells us about the character directly",
+            "The character describes themselves",
+            "The setting describes the character"
+          ],
+          "ans": 1,
+          "explanation": "Direct characterization is when the author tells us about the character directly."
+        },
+        {
+          "q": "Style in prose is:",
+          "opts": [
+            "Only the plot",
+            "The author's unique way of writing",
+            "Only the setting",
+            "Only the theme"
+          ],
+          "ans": 1,
+          "explanation": "Style is the author's unique way of writing, including word choice, sentence structure, tone, and figurative language."
+        },
+        {
+          "q": "To identify characterization, you should look for:",
+          "opts": [
+            "Only physical description",
+            "Descriptions, actions, dialogue, and thoughts of characters",
+            "Only the setting",
+            "Only the plot"
+          ],
+          "ans": 1,
+          "explanation": "Characterization includes descriptions, actions, dialogue, and thoughts that reveal character traits."
+        },
+        {
+          "q": "In Nigerian context, a character might reflect:",
+          "opts": [
+            "Only foreign values",
+            "Nigerian values like respect, hard work, community",
+            "Only scientific principles",
+            "Only historical facts"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian prose often features characters who reflect cultural values like respect, hard work, and community."
+        },
+        {
+          "q": "Understanding characterization and style is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops critical thinking, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding characterization and style helps students appreciate their heritage, understand human experiences, and develop literary skills."
+        },
+        {
+          "q": "Which is NOT an element of style?",
+          "opts": [
+            "Word choice",
+            "Sentence structure",
+            "Main idea",
+            "Figurative language"
+          ],
+          "ans": 2,
+          "explanation": "Main idea is not an element of style; word choice, sentence structure, and figurative language are."
+        },
+        {
+          "q": "A common misconception about characterization is:",
+          "opts": [
+            "Characterization includes actions and dialogue",
+            "Characterization is only about physical description",
+            "Characterization reveals character traits",
+            "Characterization helps readers connect with characters"
+          ],
+          "ans": 1,
+          "explanation": "Characterization is not only about physical description; it includes actions, dialogue, thoughts, and interactions too."
+        },
+        {
+          "q": "When analyzing style, you should consider:",
+          "opts": [
+            "Only the first paragraph",
+            "Word choice, sentence structure, tone, and figurative language",
+            "Only the conclusion",
+            "Only the vocabulary"
+          ],
+          "ans": 1,
+          "explanation": "Analyzing word choice, sentence structure, tone, and figurative language helps you accurately identify style."
+        },
+        {
+          "q": "In Nigerian prose, style might include:",
+          "opts": [
+            "Only English words",
+            "Use of local languages, proverbs, and cultural references",
+            "Only foreign references",
+            "Only scientific terms"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian prose style often includes local languages, proverbs, and cultural references."
+        }
+      ]
+    }
+  ]
+}

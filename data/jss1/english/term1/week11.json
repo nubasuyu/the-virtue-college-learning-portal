@@ -1,0 +1,556 @@
+{
+  "course": "JSS1 English Language",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Reading, Writing, Grammar, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t1_w11_su1",
+      "title": "11.1 Reading: Projection Questions",
+      "notes": [
+        "Reading: Projection Questions",
+        "",
+        "Key Concepts:",
+        "1. What is Projection?",
+        "   - Looking forward based on the text.",
+        "   - Predicting consequences, solutions, or future events.",
+        "",
+        "2. How to Answer:",
+        "   - Read the situation carefully.",
+        "   - Identify the problem or trend.",
+        "   - Predict a logical outcome based on evidence.",
+        "   - Use phrases like 'I think...', 'It is likely that...', 'If... then...'.",
+        "",
+        "3. Example:",
+        "   - Text: 'The sky is dark and thunder is rumbling.'",
+        "   - Projection: 'It is likely to rain soon.'"
+      ],
+      "diagramDescriptions": [
+        "Diagram showing the process of Projection: Text Evidence -> Logical Prediction"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading projection questions site:youtube.com",
+      "quiz": [
+        {
+          "q": "Projection questions ask you to:",
+          "opts": [
+            "Copy the text",
+            "Predict outcomes based on the text",
+            "Summarize the text",
+            "Define words"
+          ],
+          "ans": 1,
+          "explanation": "Projection is about predicting logical outcomes."
+        },
+        {
+          "q": "To make a projection, you need:",
+          "opts": [
+            "Only your imagination",
+            "Evidence from the text",
+            "A dictionary",
+            "A calculator"
+          ],
+          "ans": 1,
+          "explanation": "Projections must be supported by text evidence."
+        },
+        {
+          "q": "If a character is very lazy, a projection might be:",
+          "opts": [
+            "He will win a race",
+            "He will fail to complete his work",
+            "He will become a runner",
+            "He will help everyone"
+          ],
+          "ans": 1,
+          "explanation": "Laziness logically leads to incomplete work."
+        },
+        {
+          "q": "Projection involves:",
+          "opts": [
+            "Looking backward",
+            "Looking forward",
+            "Looking sideways",
+            "Looking down"
+          ],
+          "ans": 1,
+          "explanation": "It involves looking forward to what might happen."
+        },
+        {
+          "q": "Which phrase is suitable for a projection answer?",
+          "opts": [
+            "In the past...",
+            "It is likely that...",
+            "Yesterday...",
+            "Last week..."
+          ],
+          "ans": 1,
+          "explanation": "'It is likely that' indicates a future prediction."
+        },
+        {
+          "q": "Projection helps the reader to:",
+          "opts": [
+            "Understand consequences",
+            "Memorize facts",
+            "Spell words",
+            "Count sentences"
+          ],
+          "ans": 0,
+          "explanation": "It helps understand the consequences of actions or events."
+        },
+        {
+          "q": "If the text says 'It hasn't rained for months', a projection is:",
+          "opts": [
+            "There will be floods",
+            "There will be a drought",
+            "People will swim",
+            "Fish will fly"
+          ],
+          "ans": 1,
+          "explanation": "Lack of rain leads to drought."
+        },
+        {
+          "q": "Is a projection a random guess?",
+          "opts": [
+            "Yes",
+            "No, it must be logical",
+            "Sometimes",
+            "Always"
+          ],
+          "ans": 1,
+          "explanation": "It must be a logical deduction, not a random guess."
+        },
+        {
+          "q": "Projection questions often start with:",
+          "opts": [
+            "What happened?",
+            "What do you think will happen?",
+            "Who is the character?",
+            "Where is the setting?"
+          ],
+          "ans": 1,
+          "explanation": "They ask about future possibilities."
+        },
+        {
+          "q": "Projection requires:",
+          "opts": [
+            "Critical thinking",
+            "Sleeping",
+            "Eating",
+            "Running"
+          ],
+          "ans": 0,
+          "explanation": "It requires critical thinking to connect evidence to a likely outcome."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w11_su2",
+      "title": "11.2 Writing: Sequential Arrangement of Ideas",
+      "notes": [
+        "Writing: Sequential Arrangement of Ideas",
+        "",
+        "Key Concepts:",
+        "1. What is Sequential Arrangement?",
+        "   - Putting ideas in a logical order.",
+        "   - Chronological order (Time sequence): First, Next, Then, Finally.",
+        "",
+        "2. Importance:",
+        "   - Helps the reader follow your thoughts.",
+        "   - Makes the writing coherent and easy to understand.",
+        "",
+        "3. Connectors/Transitional Words:",
+        "   - First, Secondly, Moreover, However, Therefore, In conclusion."
+      ],
+      "diagramDescriptions": [
+        "Flowchart showing Chronological Order: Start -> Middle -> End",
+        "List of common Transition Words"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English writing sequential arrangement site:youtube.com",
+      "quiz": [
+        {
+          "q": "Sequential arrangement means:",
+          "opts": [
+            "Random order",
+            "Logical order",
+            "Reverse order",
+            "No order"
+          ],
+          "ans": 1,
+          "explanation": "It means arranging ideas logically so they flow well."
+        },
+        {
+          "q": "Chronological order refers to:",
+          "opts": [
+            "Alphabetical order",
+            "Time sequence",
+            "Size order",
+            "Color order"
+          ],
+          "ans": 1,
+          "explanation": "Chronological means following the order of time."
+        },
+        {
+          "q": "Which word indicates sequence?",
+          "opts": [
+            "However",
+            "Firstly",
+            "But",
+            "Although"
+          ],
+          "ans": 1,
+          "explanation": "'Firstly' marks the beginning of a sequence."
+        },
+        {
+          "q": "Why is logical order important?",
+          "opts": [
+            "To confuse the reader",
+            "To help the reader understand easily",
+            "To make the essay longer",
+            "To waste time"
+          ],
+          "ans": 1,
+          "explanation": "Logical order ensures clarity and comprehension."
+        },
+        {
+          "q": "The word 'Finally' is used to signal:",
+          "opts": [
+            "The beginning",
+            "The middle",
+            "The end",
+            "A mistake"
+          ],
+          "ans": 2,
+          "explanation": "'Finally' indicates the last point or conclusion."
+        },
+        {
+          "q": "In a narrative, events should be arranged:",
+          "opts": [
+            "Randomly",
+            "In the order they happened",
+            "Backwards",
+            "By length of sentence"
+          ],
+          "ans": 1,
+          "explanation": "Narratives follow the chronological order of events."
+        },
+        {
+          "q": "Which is a transitional word?",
+          "opts": [
+            "Table",
+            "Therefore",
+            "Blue",
+            "Run"
+          ],
+          "ans": 1,
+          "explanation": "'Therefore' connects ideas logically."
+        },
+        {
+          "q": "If you mix up the order of events in a story, the reader will be:",
+          "opts": [
+            "Happy",
+            "Confused",
+            "Asleep",
+            "Hungry"
+          ],
+          "ans": 1,
+          "explanation": "Poor sequencing leads to confusion."
+        },
+        {
+          "q": "Which word connects two similar ideas?",
+          "opts": [
+            "But",
+            "And",
+            "Or",
+            "Unless"
+          ],
+          "ans": 1,
+          "explanation": "'And' adds information, connecting similar ideas."
+        },
+        {
+          "q": "Sequencing makes writing:",
+          "opts": [
+            "Coherent",
+            "Incoherent",
+            "Short",
+            "Boring"
+          ],
+          "ans": 0,
+          "explanation": "Good sequencing creates coherence."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w11_su3",
+      "title": "11.3 Grammatical Accuracy: Nouns, Verbs, Adjectives",
+      "notes": [
+        "Grammar: Parts of Speech Review",
+        "",
+        "Key Concepts:",
+        "1. Nouns:",
+        "   - Naming words (Person, Place, Thing, Idea).",
+        "   - Example: Musa, Lagos, Book, Happiness.",
+        "",
+        "2. Verbs:",
+        "   - Action or state of being words.",
+        "   - Example: Run, Eat, Is, Have.",
+        "",
+        "3. Adjectives:",
+        "   - Describing words (Modifies Nouns/Pronouns).",
+        "   - Example: Tall, Beautiful, Red, Fast."
+      ],
+      "diagramDescriptions": [
+        "Chart comparing Nouns, Verbs, and Adjectives with examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar nouns verbs adjectives site:youtube.com",
+      "quiz": [
+        {
+          "q": "A Noun is a word that names a:",
+          "opts": [
+            "Action",
+            "Description",
+            "Person, Place, or Thing",
+            "Connection"
+          ],
+          "ans": 2,
+          "explanation": "Nouns are naming words."
+        },
+        {
+          "q": "A Verb is a word that shows:",
+          "opts": [
+            "Action or State",
+            "Description",
+            "Name",
+            "Place"
+          ],
+          "ans": 0,
+          "explanation": "Verbs show action or state of being."
+        },
+        {
+          "q": "An Adjective is a word that describes a:",
+          "opts": [
+            "Verb",
+            "Noun or Pronoun",
+            "Adverb",
+            "Preposition"
+          ],
+          "ans": 1,
+          "explanation": "Adjectives modify nouns or pronouns."
+        },
+        {
+          "q": "In 'The tall boy runs fast', 'tall' is an:",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Adverb"
+          ],
+          "ans": 2,
+          "explanation": "'Tall' describes the noun 'boy'."
+        },
+        {
+          "q": "In 'She sings beautifully', 'sings' is a:",
+          "opts": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Pronoun"
+          ],
+          "ans": 1,
+          "explanation": "'Sings' is the action verb."
+        },
+        {
+          "q": "Which word is a Noun?",
+          "opts": [
+            "Happy",
+            "Run",
+            "School",
+            "Quickly"
+          ],
+          "ans": 2,
+          "explanation": "'School' is a place (Noun)."
+        },
+        {
+          "q": "Which word is an Adjective?",
+          "opts": [
+            "Eat",
+            "Table",
+            "Beautiful",
+            "There"
+          ],
+          "ans": 2,
+          "explanation": "'Beautiful' is an adjective."
+        },
+        {
+          "q": "Verbs express:",
+          "opts": [
+            "Names",
+            "Qualities",
+            "Actions",
+            "Relations"
+          ],
+          "ans": 2,
+          "explanation": "Verbs express actions."
+        },
+        {
+          "q": "In 'The red car', 'red' is an:",
+          "opts": [
+            "Adjective",
+            "Noun",
+            "Verb",
+            "Adverb"
+          ],
+          "ans": 0,
+          "explanation": "'Red' describes the noun 'car'."
+        },
+        {
+          "q": "Identify the Verb: 'He eats rice.'",
+          "opts": [
+            "He",
+            "Eats",
+            "Rice",
+            "None"
+          ],
+          "ans": 1,
+          "explanation": "'Eats' is the action verb."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w11_su4",
+      "title": "11.4 Literature: Prose Features (Characterization and Style)",
+      "notes": [
+        "Literature: Prose Features - Characterization and Style",
+        "",
+        "Key Concepts:",
+        "1. Characterization:",
+        "   - How the author presents characters.",
+        "   - Direct: Author tells us (e.g., 'He was brave').",
+        "   - Indirect: We learn through actions/dialogue (e.g., He ran into the fire).",
+        "",
+        "2. Style:",
+        "   - The author's unique way of writing.",
+        "   - Includes word choice, sentence structure, and tone."
+      ],
+      "diagramDescriptions": [
+        "Chart showing Direct vs Indirect Characterization",
+        "List of Style elements: Diction, Syntax, Tone"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature characterization style site:youtube.com",
+      "quiz": [
+        {
+          "q": "Characterization refers to:",
+          "opts": [
+            "The setting of the story",
+            "How characters are presented",
+            "The plot structure",
+            "The author's name"
+          ],
+          "ans": 1,
+          "explanation": "Characterization is the portrayal of characters."
+        },
+        {
+          "q": "If the author says 'He was a kind man', this is _______ characterization.",
+          "opts": [
+            "Indirect",
+            "Direct",
+            "Hidden",
+            "Complex"
+          ],
+          "ans": 1,
+          "explanation": "When the author explicitly states the trait, it is Direct."
+        },
+        {
+          "q": "If a character helps an old lady cross the road, this shows _______ characterization.",
+          "opts": [
+            "Direct",
+            "Indirect",
+            "Negative",
+            "None"
+          ],
+          "ans": 1,
+          "explanation": "We infer kindness from the action (Indirect)."
+        },
+        {
+          "q": "Style in literature refers to:",
+          "opts": [
+            "The plot",
+            "The author's unique way of writing",
+            "The title",
+            "The setting"
+          ],
+          "ans": 1,
+          "explanation": "Style is the distinctive manner of expression."
+        },
+        {
+          "q": "Which is NOT an element of style?",
+          "opts": [
+            "Word Choice",
+            "Sentence Structure",
+            "Tone",
+            "Plot"
+          ],
+          "ans": 3,
+          "explanation": "Plot is a structural element, not a style element."
+        },
+        {
+          "q": "Tone refers to:",
+          "opts": [
+            "The author's attitude toward the subject",
+            "The setting",
+            "The characters",
+            "The length of the book"
+          ],
+          "ans": 0,
+          "explanation": "Tone is the attitude (e.g., serious, humorous, sad)."
+        },
+        {
+          "q": "Diction refers to:",
+          "opts": [
+            "The choice of words",
+            "The plot",
+            "The theme",
+            "The setting"
+          ],
+          "ans": 0,
+          "explanation": "Diction is the selection of words."
+        },
+        {
+          "q": "Indirect characterization requires the reader to:",
+          "opts": [
+            "Be told directly",
+            "Infer traits from actions/words",
+            "Ignore the character",
+            "Skip the book"
+          ],
+          "ans": 1,
+          "explanation": "Indirect characterization requires inference."
+        },
+        {
+          "q": "A humorous style makes the reader feel:",
+          "opts": [
+            "Sad",
+            "Amused",
+            "Angry",
+            "Scared"
+          ],
+          "ans": 1,
+          "explanation": "Humorous style causes amusement."
+        },
+        {
+          "q": "Characterization helps us understand:",
+          "opts": [
+            "The setting",
+            "The characters' personalities",
+            "The author's life",
+            "The publisher"
+          ],
+          "ans": 1,
+          "explanation": "It reveals who the characters are."
+        }
+      ]
+    }
+  ]
+}

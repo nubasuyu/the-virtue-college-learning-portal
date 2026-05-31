@@ -1,0 +1,846 @@
+{
+  "course": "SSS1 English Language",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Speech, Vocabulary, Structures, Comprehension, Writing",
+  "subUnits": [
+    {
+      "id": "sss1_eng_t1_w1_su1",
+      "title": "1.1 Speech: Selected Consonant Sounds /j/, /z/, /ʒ/",
+      "notes": [
+        "Consonant Sound /j/:",
+        "• Definition: Voiced palato-alveolar affricate sound",
+        "• Examples: view, yam, beauty, yet, young, yard",
+        "• Pronunciation: Tongue tip touches alveolar ridge, then releases with friction",
+        "• Practice: Repeat after teacher - 'Yes, I view the beautiful yam'",
+        "• Nigerian context: Common in Nigerian English pronunciation of words like 'yam', 'youth'",
+        "",
+        "Consonant Sound /z/:",
+        "• Definition: Voiced alveolar fricative sound",
+        "• Examples: beds, goes, buzz, zoo, zero, please",
+        "• Pronunciation: Tongue tip near alveolar ridge, voiced vibration",
+        "• Practice: 'The bees buzz around the roses'",
+        "• Nigerian context: Distinguish from /s/ sound - 'zoo' vs 'soo'",
+        "",
+        "Consonant Sound /ʒ/:",
+        "• Definition: Voiced palato-alveolar fricative sound",
+        "• Examples: vision, television, occasion, measure, pleasure",
+        "• Pronunciation: Tongue blade near palate, voiced vibration",
+        "• Practice: 'Television brings vision and pleasure'",
+        "• Nigerian context: Often confused with /ʃ/ - 'vision' vs 'fission'",
+        "",
+        "Pronunciation Tips:",
+        "• Listen carefully to teacher's model pronunciation",
+        "• Repeat words after the teacher",
+        "• Use the words in sentences",
+        "• Practice with classmates",
+        "• Record yourself and compare with correct pronunciation"
+      ],
+      "diagramDescriptions": [
+        "Articulation diagram showing tongue position for /j/, /z/, /ʒ/ sounds",
+        "Chart of words containing each consonant sound",
+        "Nigerian context: Common words with these sounds in Nigerian English"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English consonant sounds /j/ /z/ /ʒ/ pronunciation SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Which consonant sound is found in the word 'yam'?",
+          "opts": [
+            "/z/",
+            "/j/",
+            "/ʒ/",
+            "/s/"
+          ],
+          "ans": 1,
+          "explanation": "The word 'yam' contains the consonant sound /j/, which is a voiced palato-alveolar affricate."
+        },
+        {
+          "q": "The consonant sound /z/ is found in which of the following words?",
+          "opts": [
+            "vision",
+            "buzz",
+            "yam",
+            "measure"
+          ],
+          "ans": 1,
+          "explanation": "The word 'buzz' contains the consonant sound /z/, which is a voiced alveolar fricative."
+        },
+        {
+          "q": "Which sound is often confused with /ʒ/ in Nigerian English?",
+          "opts": [
+            "/j/",
+            "/z/",
+            "/ʃ/",
+            "/s/"
+          ],
+          "ans": 2,
+          "explanation": "The sound /ʒ/ (as in 'vision') is often confused with /ʃ/ (as in 'fission') in Nigerian English pronunciation."
+        },
+        {
+          "q": "The word 'television' contains which consonant sound?",
+          "opts": [
+            "/j/",
+            "/z/",
+            "/ʒ/",
+            "/s/"
+          ],
+          "ans": 2,
+          "explanation": "The word 'television' contains the consonant sound /ʒ/ in the middle of the word."
+        },
+        {
+          "q": "Which of the following words contains the /z/ sound?",
+          "opts": [
+            "beauty",
+            "please",
+            "vision",
+            "yam"
+          ],
+          "ans": 1,
+          "explanation": "The word 'please' contains the consonant sound /z/ at the end."
+        },
+        {
+          "q": "The consonant sound /j/ is a:",
+          "opts": [
+            "Voiced alveolar fricative",
+            "Voiced palato-alveolar affricate",
+            "Voiceless palato-alveolar fricative",
+            "Voiced bilabial plosive"
+          ],
+          "ans": 1,
+          "explanation": "The consonant sound /j/ is a voiced palato-alveolar affricate, produced with the tongue tip touching the alveolar ridge."
+        },
+        {
+          "q": "Which practice method is recommended for mastering these consonant sounds?",
+          "opts": [
+            "Only reading silently",
+            "Repeating words after the teacher and using them in sentences",
+            "Writing without speaking",
+            "Listening without practicing"
+          ],
+          "ans": 1,
+          "explanation": "The recommended practice method is to repeat words after the teacher and use them in sentences for better pronunciation."
+        },
+        {
+          "q": "The word 'measure' contains which consonant sound?",
+          "opts": [
+            "/j/",
+            "/z/",
+            "/ʒ/",
+            "/s/"
+          ],
+          "ans": 2,
+          "explanation": "The word 'measure' contains the consonant sound /ʒ/ in the middle."
+        },
+        {
+          "q": "In Nigerian English, the word 'zero' is pronounced with which sound?",
+          "opts": [
+            "/j/",
+            "/z/",
+            "/ʒ/",
+            "/s/"
+          ],
+          "ans": 1,
+          "explanation": "The word 'zero' in Nigerian English is pronounced with the consonant sound /z/."
+        },
+        {
+          "q": "Which of the following is NOT an example of words with /ʒ/ sound?",
+          "opts": [
+            "vision",
+            "television",
+            "occasion",
+            "yam"
+          ],
+          "ans": 3,
+          "explanation": "The word 'yam' contains the /j/ sound, not the /ʒ/ sound. Vision, television, and occasion all contain /ʒ/."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w1_su2",
+      "title": "1.2 Vocabulary: Words Associated with Home and Family",
+      "notes": [
+        "Family Members:",
+        "• Nuclear family: father, mother, son, daughter, sibling",
+        "• Extended family: uncle, aunt, cousin, nephew, niece",
+        "• In-laws: father-in-law, mother-in-law, brother-in-law, sister-in-law",
+        "• Grandparents: grandfather, grandmother",
+        "• Nigerian context: Extended family system is central to Nigerian culture",
+        "",
+        "Home Environment:",
+        "• Rooms: parlour, bedroom, kitchen, bathroom, dining room, store",
+        "• Furniture: chair, table, bed, cupboard, sofa, wardrobe",
+        "• Kitchen utensils: pot, pan, spoon, fork, knife, plate, bowl",
+        "• Nigerian context: Traditional homes may have compound, veranda, outdoor kitchen",
+        "",
+        "Common Nouns:",
+        "• Definition: Names of general people, places, or things",
+        "• Examples: country, city, man, river, festival, house, car",
+        "• Not capitalized unless beginning a sentence",
+        "",
+        "Proper Nouns:",
+        "• Definition: Names of specific people, places, or things",
+        "• Examples: Nigeria, Lagos, Mr. Ade, River Niger, Christmas",
+        "• Always begin with capital letter",
+        "• Nigerian context: Names of Nigerian states, cities, festivals",
+        "",
+        "Use of Capital Letters:",
+        "• Capitalize names of people: Chinedu, Aisha, Ibrahim",
+        "• Capitalize names of places: Abuja, Kano, Port Harcourt",
+        "• Capitalize names of institutions: University of Lagos, NNPC",
+        "• Capitalize days, months, festivals: Monday, December, Eid-el-Kabir",
+        "• Nigerian context: Proper capitalization shows respect and clarity"
+      ],
+      "diagramDescriptions": [
+        "Family tree diagram illustrating nuclear and extended family terms",
+        "Chart of home environment vocabulary: rooms, furniture, utensils",
+        "Comparison of common nouns vs proper nouns with Nigerian examples",
+        "Capital letter usage rules with examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English vocabulary home family nouns SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Which of the following is a proper noun?",
+          "opts": [
+            "city",
+            "Lagos",
+            "river",
+            "festival"
+          ],
+          "ans": 1,
+          "explanation": "'Lagos' is a proper noun because it names a specific place. 'City', 'river', and 'festival' are common nouns."
+        },
+        {
+          "q": "Which of the following is an example of a common noun?",
+          "opts": [
+            "Nigeria",
+            "Mr. Ade",
+            "country",
+            "Christmas"
+          ],
+          "ans": 2,
+          "explanation": "'Country' is a common noun because it names a general thing. 'Nigeria', 'Mr. Ade', and 'Christmas' are proper nouns."
+        },
+        {
+          "q": "Which word should be capitalized?",
+          "opts": [
+            "uncle",
+            "aunt",
+            "Abuja",
+            "cousin"
+          ],
+          "ans": 2,
+          "explanation": "'Abuja' should be capitalized because it is a proper noun (name of a specific place). 'Uncle', 'aunt', and 'cousin' are common nouns."
+        },
+        {
+          "q": "In Nigerian culture, which family system is central?",
+          "opts": [
+            "Nuclear family only",
+            "Extended family system",
+            "Single-parent family",
+            "Childless family"
+          ],
+          "ans": 1,
+          "explanation": "The extended family system is central to Nigerian culture, including uncles, aunts, cousins, and other relatives."
+        },
+        {
+          "q": "Which of the following is a kitchen utensil?",
+          "opts": [
+            "bed",
+            "spoon",
+            "sofa",
+            "wardrobe"
+          ],
+          "ans": 1,
+          "explanation": "'Spoon' is a kitchen utensil. 'Bed', 'sofa', and 'wardrobe' are furniture items."
+        },
+        {
+          "q": "Which of the following should be capitalized?",
+          "opts": [
+            "monday",
+            "december",
+            "eid-el-kabir",
+            "All of the above"
+          ],
+          "ans": 3,
+          "explanation": "All of the above should be capitalized: 'Monday' (day), 'December' (month), and 'Eid-el-Kabir' (festival) are proper nouns."
+        },
+        {
+          "q": "Which of the following is NOT a room in a house?",
+          "opts": [
+            "parlour",
+            "kitchen",
+            "bathroom",
+            "compound"
+          ],
+          "ans": 3,
+          "explanation": "'Compound' is an outdoor area, not a room. 'Parlour', 'kitchen', and 'bathroom' are rooms in a house."
+        },
+        {
+          "q": "The word 'father-in-law' refers to:",
+          "opts": [
+            "Your father's brother",
+            "Your spouse's father",
+            "Your mother's father",
+            "Your uncle"
+          ],
+          "ans": 1,
+          "explanation": "'Father-in-law' refers to your spouse's father, which is a relationship by marriage (in-law)."
+        },
+        {
+          "q": "Which of the following is a proper noun in Nigerian context?",
+          "opts": [
+            "university",
+            "University of Lagos",
+            "school",
+            "college"
+          ],
+          "ans": 1,
+          "explanation": "'University of Lagos' is a proper noun because it names a specific institution. 'University', 'school', and 'college' are common nouns."
+        },
+        {
+          "q": "In traditional Nigerian homes, which feature might be found?",
+          "opts": [
+            "Only indoor kitchen",
+            "Compound and veranda",
+            "Only bedrooms",
+            "No outdoor spaces"
+          ],
+          "ans": 1,
+          "explanation": "Traditional Nigerian homes may have compound and veranda, which are outdoor spaces common in Nigerian architecture."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w1_su3",
+      "title": "1.3 Structures: Nouns – Types of Nouns",
+      "notes": [
+        "Definition of Noun:",
+        "• A noun is a word that names a person, place, thing, or idea",
+        "• Examples: boy, Lagos, table, freedom",
+        "",
+        "Types of Nouns:",
+        "1. Common Nouns:",
+        "   • Names general people, places, or things",
+        "   • Not capitalized unless beginning a sentence",
+        "   • Examples: country, city, man, river, festival",
+        "",
+        "2. Proper Nouns:",
+        "   • Names specific people, places, or things",
+        "   • Always begin with capital letter",
+        "   • Examples: Nigeria, Lagos, Mr. Ade, River Niger, Christmas",
+        "   • Nigerian context: Names of Nigerian states, cities, festivals",
+        "",
+        "3. Concrete Nouns:",
+        "   • Names things that can be perceived by the senses",
+        "   • Can be seen, touched, heard, smelled, or tasted",
+        "   • Examples: table, water, music, perfume",
+        "",
+        "4. Abstract Nouns:",
+        "   • Names ideas, qualities, or states that cannot be touched",
+        "   • Cannot be perceived by the senses",
+        "   • Examples: love, honesty, freedom, happiness",
+        "",
+        "5. Collective Nouns:",
+        "   • Names groups of people or things",
+        "   • Examples: team, family, flock, committee, class",
+        "   • Nigerian context: 'A crowd of worshippers', 'a troupe of dancers'",
+        "",
+        "6. Countable Nouns:",
+        "   • Can be counted (one, two, three...)",
+        "   • Have singular and plural forms",
+        "   • Examples: book/books, child/children, city/cities",
+        "",
+        "7. Uncountable Nouns:",
+        "   • Cannot be counted",
+        "   • No plural form",
+        "   • Examples: water, rice, information, advice",
+        "   • Nigerian context: 'a cup of water', 'two cups of sugar'"
+      ],
+      "diagramDescriptions": [
+        "Chart of noun types with Nigerian examples",
+        "Comparison of concrete vs abstract nouns",
+        "Examples of collective nouns in Nigerian context",
+        "Countable vs uncountable nouns with examples"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English grammar types of nouns SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "Which type of noun names a specific person, place, or thing?",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Abstract noun",
+            "Collective noun"
+          ],
+          "ans": 1,
+          "explanation": "A proper noun names a specific person, place, or thing and is always capitalized, e.g., 'Nigeria', 'Lagos'."
+        },
+        {
+          "q": "Which of the following is an abstract noun?",
+          "opts": [
+            "table",
+            "water",
+            "honesty",
+            "music"
+          ],
+          "ans": 2,
+          "explanation": "'Honesty' is an abstract noun because it names a quality that cannot be perceived by the senses. 'Table', 'water', and 'music' are concrete nouns."
+        },
+        {
+          "q": "Which of the following is a collective noun?",
+          "opts": [
+            "boy",
+            "team",
+            "Lagos",
+            "freedom"
+          ],
+          "ans": 1,
+          "explanation": "'Team' is a collective noun because it names a group of people. 'Boy' is a common noun, 'Lagos' is a proper noun, and 'freedom' is an abstract noun."
+        },
+        {
+          "q": "Which type of noun can be perceived by the senses?",
+          "opts": [
+            "Abstract noun",
+            "Concrete noun",
+            "Proper noun",
+            "Collective noun"
+          ],
+          "ans": 1,
+          "explanation": "Concrete nouns name things that can be perceived by the senses (seen, touched, heard, smelled, or tasted)."
+        },
+        {
+          "q": "Which of the following is an uncountable noun?",
+          "opts": [
+            "book",
+            "child",
+            "water",
+            "city"
+          ],
+          "ans": 2,
+          "explanation": "'Water' is an uncountable noun because it cannot be counted. 'Book', 'child', and 'city' are countable nouns."
+        },
+        {
+          "q": "In Nigerian context, which is a proper noun?",
+          "opts": [
+            "river",
+            "River Niger",
+            "festival",
+            "city"
+          ],
+          "ans": 1,
+          "explanation": "'River Niger' is a proper noun because it names a specific river. 'River', 'festival', and 'city' are common nouns."
+        },
+        {
+          "q": "Which of the following is a countable noun?",
+          "opts": [
+            "rice",
+            "information",
+            "book",
+            "advice"
+          ],
+          "ans": 2,
+          "explanation": "'Book' is a countable noun because it can be counted (one book, two books). 'Rice', 'information', and 'advice' are uncountable."
+        },
+        {
+          "q": "A noun that names an idea or quality is called:",
+          "opts": [
+            "Concrete noun",
+            "Abstract noun",
+            "Proper noun",
+            "Collective noun"
+          ],
+          "ans": 1,
+          "explanation": "An abstract noun names ideas, qualities, or states that cannot be touched or perceived by the senses, e.g., 'love', 'freedom'."
+        },
+        {
+          "q": "Which of the following is NOT a type of noun?",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Adjective noun",
+            "Collective noun"
+          ],
+          "ans": 2,
+          "explanation": "'Adjective noun' is not a type of noun. The main types are common, proper, concrete, abstract, collective, countable, and uncountable nouns."
+        },
+        {
+          "q": "In Nigerian context, 'a crowd of worshippers' is an example of:",
+          "opts": [
+            "Common noun",
+            "Proper noun",
+            "Collective noun",
+            "Abstract noun"
+          ],
+          "ans": 2,
+          "explanation": "'A crowd of worshippers' is a collective noun because it names a group of people."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w1_su4",
+      "title": "1.4 Comprehension: Reading to Comprehend Main or Story Line",
+      "notes": [
+        "Definition of Comprehension:",
+        "• Reading to understand the main idea or story line",
+        "• Identifying key points and supporting details",
+        "• Making inferences from the text",
+        "",
+        "Steps for Effective Comprehension:",
+        "1. Read the passage carefully",
+        "   • Read slowly and attentively",
+        "   • Note unfamiliar words",
+        "   • Underline or highlight key points",
+        "",
+        "2. Identify the main idea",
+        "   • What is the passage mainly about?",
+        "   • What is the central theme or message?",
+        "   • Look for topic sentences",
+        "",
+        "3. Note supporting details",
+        "   • Facts that support the main idea",
+        "   • Examples and explanations",
+        "   • Evidence and arguments",
+        "",
+        "4. Answer questions based on the text",
+        "   • Use information from the passage",
+        "   • Make inferences where necessary",
+        "   • Use context clues for word meanings",
+        "",
+        "5. Summarize key points",
+        "   • Restate the main idea in your own words",
+        "   • Include important supporting details",
+        "   • Keep it brief and clear",
+        "",
+        "Skills Developed:",
+        "• Identifying topic sentences",
+        "• Distinguishing fact from opinion",
+        "• Making inferences from text",
+        "• Understanding vocabulary in context",
+        "• Summarizing key points",
+        "",
+        "Nigerian Context:",
+        "• Passages may reflect Nigerian culture, values, and social issues",
+        "• Examples: family life, education, community development, national unity",
+        "• Understanding local context helps comprehension"
+      ],
+      "diagramDescriptions": [
+        "Steps for effective comprehension with examples",
+        "Diagram showing main idea vs supporting details",
+        "Chart of comprehension skills: identifying, inferring, summarizing",
+        "Nigerian context: Sample passage on home life with comprehension questions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English comprehension reading skills SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "What is the first step in effective comprehension?",
+          "opts": [
+            "Answer questions",
+            "Read the passage carefully",
+            "Summarize key points",
+            "Make inferences"
+          ],
+          "ans": 1,
+          "explanation": "The first step in effective comprehension is to read the passage carefully, noting unfamiliar words and underlining key points."
+        },
+        {
+          "q": "What is the main idea of a passage?",
+          "opts": [
+            "A minor detail",
+            "The central theme or message",
+            "An example",
+            "A supporting fact"
+          ],
+          "ans": 1,
+          "explanation": "The main idea is the central theme or message of the passage - what the passage is mainly about."
+        },
+        {
+          "q": "Which skill involves distinguishing fact from opinion?",
+          "opts": [
+            "Summarizing",
+            "Comprehension",
+            "Vocabulary",
+            "Pronunciation"
+          ],
+          "ans": 1,
+          "explanation": "Comprehension skills include distinguishing fact from opinion, identifying topic sentences, and making inferences."
+        },
+        {
+          "q": "What are supporting details?",
+          "opts": [
+            "The main idea",
+            "Facts that support the main idea",
+            "Unfamiliar words",
+            "The title"
+          ],
+          "ans": 1,
+          "explanation": "Supporting details are facts, examples, and explanations that support the main idea of the passage."
+        },
+        {
+          "q": "What should you do with unfamiliar words in a passage?",
+          "opts": [
+            "Ignore them",
+            "Note them and use context clues",
+            "Skip the passage",
+            "Ask someone immediately"
+          ],
+          "ans": 1,
+          "explanation": "You should note unfamiliar words and use context clues to determine their meanings while reading."
+        },
+        {
+          "q": "What is a topic sentence?",
+          "opts": [
+            "The last sentence",
+            "A sentence that states the main idea of a paragraph",
+            "A question",
+            "A supporting detail"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence is a sentence that states the main idea of a paragraph, usually found at the beginning."
+        },
+        {
+          "q": "In Nigerian context, comprehension passages may reflect:",
+          "opts": [
+            "Only foreign cultures",
+            "Nigerian culture, values, and social issues",
+            "Only scientific topics",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "In Nigerian context, comprehension passages may reflect Nigerian culture, values, and social issues like family life, education, and community development."
+        },
+        {
+          "q": "What is the purpose of summarizing?",
+          "opts": [
+            "To make the passage longer",
+            "To restate the main idea in your own words",
+            "To copy the passage exactly",
+            "To add new information"
+          ],
+          "ans": 1,
+          "explanation": "The purpose of summarizing is to restate the main idea and important supporting details in your own words, keeping it brief and clear."
+        },
+        {
+          "q": "What are context clues?",
+          "opts": [
+            "Dictionary definitions",
+            "Hints in the text that help determine word meanings",
+            "Pictures",
+            "Footnotes"
+          ],
+          "ans": 1,
+          "explanation": "Context clues are hints in the surrounding text that help you determine the meaning of unfamiliar words."
+        },
+        {
+          "q": "Which of the following is NOT a comprehension skill?",
+          "opts": [
+            "Identifying topic sentences",
+            "Making inferences",
+            "Pronouncing words correctly",
+            "Summarizing key points"
+          ],
+          "ans": 2,
+          "explanation": "Pronouncing words correctly is a speech skill, not a comprehension skill. Comprehension skills include identifying topic sentences, making inferences, and summarizing."
+        }
+      ]
+    },
+    {
+      "id": "sss1_eng_t1_w1_su5",
+      "title": "1.5 Writing: Narrative Composition",
+      "notes": [
+        "Definition of Narrative Composition:",
+        "• A narrative essay tells a story, either real or imagined",
+        "• It recounts events in a logical, chronological order",
+        "• Uses descriptive language to create vivid images",
+        "",
+        "Features of Narrative Composition:",
+        "1. Clear sequence of events",
+        "   • Beginning: Introduction and setting",
+        "   • Middle: Development of plot through events",
+        "   • End: Resolution or conclusion",
+        "",
+        "2. Use of past tense",
+        "   • Past simple: 'I went to school yesterday'",
+        "   • Past continuous: 'I was walking when it started to rain'",
+        "   • Past perfect: 'I had finished my homework before dinner'",
+        "",
+        "3. Descriptive language",
+        "   • Use of adjectives to describe people, places, things",
+        "   • Use of adverbs to describe actions",
+        "   • Create vivid images for the reader",
+        "",
+        "4. Dialogue",
+        "   • Direct speech to develop characters",
+        "   • Advance the plot through conversation",
+        "   • Use quotation marks correctly",
+        "",
+        "Structure of Narrative Essay:",
+        "a) Introduction:",
+        "   • Hook to capture reader's interest",
+        "   • Setting: time and place of the story",
+        "   • Introduction of main characters",
+        "",
+        "b) Body:",
+        "   • Development of plot through events",
+        "   • Use of transitional words: first, then, suddenly, finally",
+        "   • Description of actions, thoughts, feelings",
+        "",
+        "c) Conclusion:",
+        "   • Resolution of the story",
+        "   • Reflection on the experience or lesson learned",
+        "",
+        "Sample Narrative Topics:",
+        "• My first day at school",
+        "• A day I will never forget",
+        "• The day I met an AIDS patient",
+        "• A kidnapping incident I witnessed",
+        "• The day Chukwu was sentenced to prison for stealing a car",
+        "",
+        "Developing Topic Sentences:",
+        "• Each paragraph should begin with a clear topic sentence",
+        "• Topic sentence states the main idea of the paragraph",
+        "• Supporting sentences provide details, examples, explanations",
+        "• Example: 'My first day at school was both exciting and frightening.'",
+        "",
+        "Appropriate Sentence Types:",
+        "• Simple sentences: One independent clause",
+        "  Example: 'The sun rose.'",
+        "• Compound sentences: Two independent clauses joined by conjunction",
+        "  Example: 'The sun rose, and the birds began to sing.'",
+        "• Complex sentences: One independent clause + one or more dependent clauses",
+        "  Example: 'When the sun rose, the birds began to sing.'",
+        "",
+        "Punctuation for Effective Communication:",
+        "• Full stop (.) ends declarative sentences",
+        "• Comma (,) separates items in a list or clauses",
+        "• Question mark (?) ends interrogative sentences",
+        "• Exclamation mark (!) shows strong emotion",
+        "• Quotation marks (\"\") enclose direct speech"
+      ],
+      "diagramDescriptions": [
+        "Structure diagram of narrative essay: introduction, body, conclusion",
+        "Chart of tense forms for narrative essays",
+        "Examples of topic sentences for different paragraphs",
+        "Comparison of simple, compound, and complex sentences",
+        "Nigerian context: Sample narrative topics reflecting local experiences"
+      ],
+      "videoId": "",
+      "youtubeQuery": "English narrative composition writing SS1 site:youtube.com",
+      "quiz": [
+        {
+          "q": "What is the main purpose of a narrative composition?",
+          "opts": [
+            "To argue a point",
+            "To tell a story",
+            "To describe a place",
+            "To explain a process"
+          ],
+          "ans": 1,
+          "explanation": "The main purpose of a narrative composition is to tell a story, either real or imagined, in a logical sequence."
+        },
+        {
+          "q": "Which tense is most commonly used in narrative essays?",
+          "opts": [
+            "Present tense",
+            "Future tense",
+            "Past tense",
+            "Present perfect tense"
+          ],
+          "ans": 2,
+          "explanation": "Narrative essays typically use past tense to recount events that have already happened."
+        },
+        {
+          "q": "What should the introduction of a narrative essay include?",
+          "opts": [
+            "Only the conclusion",
+            "Hook, setting, and introduction of characters",
+            "Only the main event",
+            "Only dialogue"
+          ],
+          "ans": 1,
+          "explanation": "The introduction should include a hook to capture interest, the setting (time and place), and introduction of main characters."
+        },
+        {
+          "q": "Which of the following is a transitional word?",
+          "opts": [
+            "beautiful",
+            "then",
+            "quickly",
+            "happy"
+          ],
+          "ans": 1,
+          "explanation": "'Then' is a transitional word used to show sequence of events. Other transitional words include 'first', 'suddenly', 'finally'."
+        },
+        {
+          "q": "What is a topic sentence?",
+          "opts": [
+            "The last sentence of a paragraph",
+            "A sentence that states the main idea of a paragraph",
+            "A question",
+            "A dialogue"
+          ],
+          "ans": 1,
+          "explanation": "A topic sentence states the main idea of a paragraph and is usually found at the beginning."
+        },
+        {
+          "q": "Which sentence type has one independent clause?",
+          "opts": [
+            "Compound sentence",
+            "Complex sentence",
+            "Simple sentence",
+            "Compound-complex sentence"
+          ],
+          "ans": 2,
+          "explanation": "A simple sentence has one independent clause. Example: 'The sun rose.'"
+        },
+        {
+          "q": "What punctuation mark encloses direct speech?",
+          "opts": [
+            "Comma",
+            "Full stop",
+            "Quotation marks",
+            "Exclamation mark"
+          ],
+          "ans": 2,
+          "explanation": "Quotation marks (\"\") are used to enclose direct speech or dialogue in writing."
+        },
+        {
+          "q": "Which of the following is NOT a feature of narrative composition?",
+          "opts": [
+            "Clear sequence of events",
+            "Use of past tense",
+            "Descriptive language",
+            "Statistical data"
+          ],
+          "ans": 3,
+          "explanation": "Statistical data is not a feature of narrative composition. Narratives use clear sequence, past tense, descriptive language, and dialogue."
+        },
+        {
+          "q": "What should the conclusion of a narrative essay include?",
+          "opts": [
+            "New characters",
+            "Resolution and reflection",
+            "Only dialogue",
+            "Only setting"
+          ],
+          "ans": 1,
+          "explanation": "The conclusion should include the resolution of the story and reflection on the experience or lesson learned."
+        },
+        {
+          "q": "Which of the following is an example of a compound sentence?",
+          "opts": [
+            "The sun rose.",
+            "The sun rose, and the birds began to sing.",
+            "When the sun rose, the birds began to sing.",
+            "The birds began to sing."
+          ],
+          "ans": 1,
+          "explanation": "'The sun rose, and the birds began to sing.' is a compound sentence because it has two independent clauses joined by a conjunction."
+        }
+      ]
+    }
+  ]
+}
