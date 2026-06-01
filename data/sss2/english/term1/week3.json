@@ -361,4 +361,439 @@
       ]
     }
   ]
+}te, and abstract are types of nouns."
+        },
+        {
+          "q": "A common misconception about nouns is:",
+          "opts": [
+            "Nouns name people, places, things, or ideas",
+            "All nouns are things",
+            "Proper nouns are always capitalized",
+            "Nouns can function in different ways"
+          ],
+          "ans": 1,
+          "explanation": "Not all nouns are things; nouns can name people, places, ideas, not just physical things."
+        },
+        {
+          "q": "A good strategy for identifying nouns is to:",
+          "opts": [
+            "Only look for capitalized words",
+            "Ask: What is this word naming?",
+            "Ignore the sentence context",
+            "Only focus on the first word"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What is this word naming?' helps identify nouns regardless of their form or position."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w3_su4",
+      "title": "3.4 Listening/Speaking: Consonant Sounds",
+      "notes": [
+        "Listening and Speaking: Consonant Sounds",
+        "",
+        "Key Concepts:",
+        "1. Understanding consonant sounds:",
+        "   - Speech sounds made with some blockage of airflow",
+        "   - English has many consonant sounds with different articulations",
+        "   - Examples: /t/ as in tap, /k/ as in cat, /s/ as in sun",
+        "",
+        "2. Importance of distinguishing consonant sounds:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'tap' /tæp/ vs 'cap' /kæp/ - different consonant sounds!",
+        "",
+        "3. Common consonant sounds for practice:",
+        "   - /t/ as in tap, top, tin, town",
+        "   - /k/ as in cat, cup, kin, town",
+        "   - /s/ as in sun, sit, soon, safe",
+        "   - /f/ as in fan, fun, fine, safe",
+        "",
+        "4. Listening strategies for consonant sounds:",
+        "   - Focus on the speaker: listen carefully to consonant articulation",
+        "   - Listen for minimal pairs: words that differ only in consonant sound",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say tap or cap?'",
+        "",
+        "5. Speaking strategies for consonant sounds:",
+        "   - Practice consonant articulation: tongue, teeth, lips position",
+        "   - Use minimal pairs for practice: tap/cap, sun/fun, tin/kin",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on consonant clarity",
+        "",
+        "Nigerian Context:",
+        "• Common consonant sound challenges for Nigerian speakers:",
+        "  - Confusing /t/ and /k/: 'tap' vs 'cap'",
+        "  - Difficulty with /s/ vs /ʃ/: 'sun' vs 'shun'",
+        "  - Influence of native language consonant systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'Health Awareness': 'Drink safe water' (clear /s/)",
+        "  - 'Transportation': 'Take the bus to town' (clear /t/)",
+        "  - 'Safety': 'Keep the seal intact' (clear /k/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear consonant sounds in multilingual Nigerian classrooms",
+        "  - Importance of consonant clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar consonant sounds",
+        "",
+        "Practical Activities:",
+        "1. Consonant Sound Drill:",
+        "   - Teacher models consonant sounds with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: tap/cap, sun/fun, tin/kin",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different consonant sounds",
+        "   - Students raise hands for /t/, stand for /k/, etc.",
+        "   - Practice with Nigerian-relevant words: 'tap' (water) vs 'cap' (bottle)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target consonant sounds",
+        "   - Focus on clear consonant articulation",
+        "   - Peer feedback on consonant clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Consonant sounds don't matter in Nigerian English': Incorrect consonant sounds can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct consonants': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear consonant pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• English has distinct consonant sounds that affect word meaning",
+        "• Listening strategies help you distinguish between similar consonant sounds",
+        "• Speaking strategies help you pronounce consonants clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of consonant sounds with example words",
+        "Diagram of mouth positions for each consonant sound",
+        "Sample minimal pairs practice: tap/cap, sun/fun, tin/kin",
+        "Listening strategy flowchart: Focus, Listen for consonant articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for consonant practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English consonant sounds pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Consonant sounds are made with:",
+          "opts": [
+            "Free airflow through the mouth",
+            "Some blockage of airflow",
+            "Only the lips",
+            "Only the tongue"
+          ],
+          "ans": 1,
+          "explanation": "Consonant sounds are made with some blockage of airflow, unlike vowels which have free airflow."
+        },
+        {
+          "q": "The word 'tap' has the consonant sound:",
+          "opts": [
+            "/k/",
+            "/t/",
+            "/s/",
+            "/f/"
+          ],
+          "ans": 1,
+          "explanation": "'Tap' has the consonant sound /t/; 'cap' has /k/, 'sap' has /s/, 'fap' has /f/."
+        },
+        {
+          "q": "Correct consonant pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct consonant sounds prevent confusion between words like 'tap' and 'cap' which have different meanings."
+        },
+        {
+          "q": "When listening for consonant sounds, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for consonant articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for consonant articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common consonant sound challenge is confusing:",
+          "opts": [
+            "/a/ and /e/",
+            "/t/ and /k/",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers confuse /t/ (as in 'tap') and /k/ (as in 'cap')."
+        },
+        {
+          "q": "A good speaking strategy for consonants is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice consonant articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing consonant articulation with minimal pairs (tap/cap) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different consonant sounds?",
+          "opts": [
+            "tap/cap",
+            "tap/tap",
+            "cap/cap",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Tap' has /t/; 'cap' has /k/ - different consonant sounds change the word meaning."
+        },
+        {
+          "q": "Understanding consonant sounds is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear consonant pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a consonant sound?",
+          "opts": [
+            "/a:/",
+            "/t/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/t/ is a consonant sound; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about consonants is:",
+          "opts": [
+            "Consonant sounds can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English consonant sounds are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t1_w3_su5",
+      "title": "3.5 Literature: African and Non-African Tales",
+      "notes": [
+        "Literature: African and Non-African Tales",
+        "",
+        "Key Concepts:",
+        "1. What are tales?",
+        "   - Traditional stories passed down orally through generations",
+        "   - Often feature animals, magical elements, and moral lessons",
+        "   - Example: 'Why the Tortoise Has a Cracked Shell' (African tale)",
+        "",
+        "2. Features of tales:",
+        "   - Simple language and clear plot",
+        "   - Characters often represent good or evil, wisdom or foolishness",
+        "   - Magical elements or talking animals in many tales",
+        "   - Moral lessons at the end: 'Slow and steady wins the race'",
+        "",
+        "3. Types of tales:",
+        "   - Didactic: teach moral lessons",
+        "   - Entertaining: amuse and engage listeners",
+        "   - Magical: feature supernatural elements or transformations",
+        "   - Archaic: use old-fashioned language or settings",
+        "",
+        "4. Common themes in African and non-African tales:",
+        "   - Wisdom over strength or speed",
+        "   - Consequences of greed or dishonesty",
+        "   - Respect for elders and community",
+        "   - Example: 'The Tortoise and the Birds' teaches about greed",
+        "",
+        "5. How to analyze tales:",
+        "   - Identify the moral lesson",
+        "   - Note the characters and their traits",
+        "   - Consider the setting and cultural context",
+        "   - Ask: What does this tale teach about life?",
+        "",
+        "Nigerian Context:",
+        "• Rich tradition of tales in Nigerian cultures:",
+        "  - Yoruba: 'Ijapa the Tortoise' tales about wisdom and trickery",
+        "  - Igbo: 'Eze the Rabbit' stories teaching cleverness",
+        "  - Hausa: 'Gizo the Spider' tales about wit and survival",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for elders as keepers of oral traditions",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, family, and cultural identity",
+        "",
+        "Practical Activities:",
+        "1. Tale Sharing:",
+        "   - Students share a tale from their community",
+        "   - Class identifies features: characters, plot, moral lesson",
+        "   - Discuss how the tale reflects cultural values",
+        "",
+        "2. Feature Hunt:",
+        "   - Teacher reads short tales with different features",
+        "   - Students identify didactic, entertaining, magical, or archaic elements",
+        "   - Create a class chart of tale features",
+        "",
+        "3. Moral Lesson Discussion:",
+        "   - Students discuss the moral lessons in tales",
+        "   - Connect lessons to real-life situations in Nigerian society",
+        "   - Practice retelling tales with emphasis on moral lessons",
+        "",
+        "Common Misconceptions:",
+        "• 'Tales are only for children': Tales teach valuable lessons to people of all ages",
+        "• 'Tales are not important': Tales preserve culture, history, and wisdom",
+        "• 'Magical features make tales unrealistic': Magical elements help convey deeper truths in memorable ways",
+        "• 'Only African tales have lessons': Tales from all cultures contain didactic elements",
+        "",
+        "Nigerian Context:",
+        "• Understanding tales helps students appreciate Nigerian culture and storytelling traditions",
+        "• Practice with local tales enhances cultural pride and literary appreciation",
+        "• Analyzing tales develops critical thinking and moral reasoning",
+        "",
+        "Conclusion:",
+        "• Tales are traditional stories with features like simple language, magical elements, and moral lessons",
+        "• Types include didactic, entertaining, magical, and archaic tales",
+        "• Nigerian tales reflect rich cultural traditions with universal themes",
+        "• Mastery of tale analysis supports literary appreciation and cultural understanding"
+      ],
+      "diagramDescriptions": [
+        "Chart of tale features: didactic, entertaining, magical, archaic",
+        "Diagram of common themes in African and non-African tales",
+        "Sample tale with features highlighted",
+        "Nigerian context: Famous Nigerian tales and their moral lessons",
+        "Activity template: Tale sharing and feature hunt"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature tales African non-African site:youtube.com",
+      "quiz": [
+        {
+          "q": "Tales are:",
+          "opts": [
+            "Only written books",
+            "Traditional stories passed down orally through generations",
+            "Only poems",
+            "Only true stories"
+          ],
+          "ans": 1,
+          "explanation": "Tales are traditional stories shared orally across generations, often teaching moral lessons."
+        },
+        {
+          "q": "Which is a feature of tales?",
+          "opts": [
+            "Only complex language",
+            "Simple language, clear plot, moral lessons",
+            "Only scientific facts",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Tales often use simple language, clear plots, and teach moral lessons."
+        },
+        {
+          "q": "A didactic tale is one that:",
+          "opts": [
+            "Only entertains",
+            "Teaches a moral lesson",
+            "Only uses magical elements",
+            "Only uses old-fashioned language"
+          ],
+          "ans": 1,
+          "explanation": "Didactic tales are intended to teach moral lessons."
+        },
+        {
+          "q": "In Nigerian context, 'Ijapa the Tortoise' is a character from:",
+          "opts": [
+            "European fairy tales",
+            "Yoruba tales",
+            "Asian fables",
+            "American legends"
+          ],
+          "ans": 1,
+          "explanation": "Ijapa the Tortoise is a famous trickster character in Yoruba tales."
+        },
+        {
+          "q": "A common theme in African tales is:",
+          "opts": [
+            "Only foreign cultures",
+            "Wisdom over strength, consequences of greed, respect for elders",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "African tales often teach cultural values like wisdom, consequences of actions, and respect for elders."
+        },
+        {
+          "q": "To analyze a tale, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What does this tale teach about life?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What does this tale teach about life?' helps you identify the moral lesson of the tale."
+        },
+        {
+          "q": "Understanding tales is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, values, and storytelling traditions",
+            "Only for English class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Tales help students appreciate their heritage, understand cultural values, and develop literary appreciation."
+        },
+        {
+          "q": "Which is NOT a type of tale?",
+          "opts": [
+            "Didactic",
+            "Entertaining",
+            "Scientific",
+            "Magical"
+          ],
+          "ans": 2,
+          "explanation": "'Scientific' is not a type of tale; didactic, entertaining, magical, and archaic are types of tales."
+        },
+        {
+          "q": "A common misconception about tales is:",
+          "opts": [
+            "Tales teach moral lessons",
+            "Tales are only for children",
+            "Tales can have magical elements",
+            "Tales reflect cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Tales are valuable for people of all ages; they teach lessons and preserve culture beyond childhood."
+        },
+        {
+          "q": "Magical features in tales help to:",
+          "opts": [
+            "Confuse the reader",
+            "Make lessons more memorable and engaging",
+            "Replace moral lessons",
+            "Make stories longer"
+          ],
+          "ans": 1,
+          "explanation": "Magical features help convey deeper truths in memorable and engaging ways."
+        }
+      ]
+    }
+  ]
 }

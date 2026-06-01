@@ -1,0 +1,420 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Motion",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w4_su1",
+      "title": "4.1 Types of Motion",
+      "notes": [
+        "Types of Motion",
+        "",
+        "Key Concepts:",
+        "1. What is motion?",
+        "   - Motion is the change in position of an object with time",
+        "   - Described using distance, displacement, speed, velocity, acceleration",
+        "   - Example: A car moving on a road, a pendulum swinging",
+        "",
+        "2. Types of motion:",
+        "   a) Random motion:",
+        "      - Irregular, unpredictable movement",
+        "      - Example: Motion of gas molecules, Brownian motion",
+        "      - No fixed path or direction",
+        "",
+        "   b) Oscillatory/Vibrational motion:",
+        "      - Repetitive back-and-forth movement about a fixed point",
+        "      - Example: Simple pendulum, vibrating guitar string",
+        "      - Characterized by amplitude, frequency, period",
+        "",
+        "   c) Translational/Rectilinear motion:",
+        "      - Movement along a straight line",
+        "      - Example: Car moving on a straight road, falling object",
+        "      - Can be uniform (constant speed) or non-uniform",
+        "",
+        "   d) Rotational motion:",
+        "      - Movement about a fixed axis",
+        "      - Example: Rotating fan, Earth's rotation",
+        "      - Characterized by angular displacement, velocity, acceleration",
+        "",
+        "3. Identifying types of motion in real life:",
+        "   - Observe the path and pattern of movement",
+        "   - Note if motion is repetitive, straight, or circular",
+        "   - Consider the forces causing the motion",
+        "",
+        "4. Importance of classifying motion:",
+        "   - Helps in analyzing and predicting motion",
+        "   - Essential for designing machines and vehicles",
+        "   - Foundation for understanding mechanics",
+        "",
+        "Nigerian Context:",
+        "• Motion in Nigerian contexts:",
+        "  - Random: Dust particles in harmattan wind",
+        "  - Oscillatory: Traditional drums, pendulum clocks",
+        "  - Translational: Vehicles on Nigerian roads, trains",
+        "  - Rotational: Ceiling fans, grinding machines, car wheels",
+        "",
+        "• Local examples:",
+        "  - Farmers observing random motion of birds in fields",
+        "  - Artisans using rotational motion in pottery wheels",
+        "  - Drivers experiencing translational motion on highways",
+        "",
+        "Practical Activities:",
+        "1. Motion Observation:",
+        "   - Teacher demonstrates different types of motion using simple equipment",
+        "   - Students observe and classify the motion type",
+        "   - Examples: pendulum (oscillatory), toy car (translational), spinning top (rotational)",
+        "",
+        "2. Real-Life Identification:",
+        "   - Students identify types of motion in their environment",
+        "   - Examples: swinging door (oscillatory), elevator (translational), ceiling fan (rotational)",
+        "   - Discuss and classify observations in groups",
+        "",
+        "3. Simple Experiments:",
+        "   - Students create simple pendulum and observe oscillatory motion",
+        "   - Roll a ball on a straight track for translational motion",
+        "   - Spin a top or use a rotating fan for rotational motion",
+        "",
+        "Common Misconceptions:",
+        "• 'All motion is in a straight line': Motion can be straight, circular, or irregular",
+        "• 'Oscillatory motion is the same as rotational': Oscillatory is back-and-forth; rotational is circular about an axis",
+        "• 'Random motion has no pattern': Random motion has no predictable pattern, but can be statistically analyzed",
+        "",
+        "Nigerian Context:",
+        "• Understanding types of motion supports analysis of everyday phenomena in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for mechanics, engineering, and technology",
+        "",
+        "Conclusion:",
+        "• Motion is change in position with time",
+        "• Types include random, oscillatory, translational, and rotational",
+        "• Classifying motion helps in analysis and prediction",
+        "• Mastery of motion types supports understanding of mechanics and real-world applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of motion types with examples and characteristics",
+        "Diagram showing path of each motion type",
+        "Sample real-life examples of each motion type",
+        "Nigerian context: Local examples of motion types",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics types of motion random oscillatory translational rotational site:youtube.com",
+      "quiz": [
+        {
+          "q": "Motion is:",
+          "opts": [
+            "The total path length travelled",
+            "The change in position of an object with time",
+            "A scalar quantity",
+            "Only in a straight line"
+          ],
+          "ans": 1,
+          "explanation": "Motion is the change in position of an object with time."
+        },
+        {
+          "q": "Which is an example of oscillatory motion?",
+          "opts": [
+            "Car moving on a straight road",
+            "Simple pendulum swinging",
+            "Gas molecules moving",
+            "Earth rotating on its axis"
+          ],
+          "ans": 1,
+          "explanation": "Simple pendulum swinging is oscillatory motion (back-and-forth about a fixed point)."
+        },
+        {
+          "q": "Translational motion is:",
+          "opts": [
+            "Movement about a fixed axis",
+            "Movement along a straight line",
+            "Irregular unpredictable movement",
+            "Repetitive back-and-forth movement"
+          ],
+          "ans": 1,
+          "explanation": "Translational motion is movement along a straight line."
+        },
+        {
+          "q": "Random motion is characterized by:",
+          "opts": [
+            "Fixed path and direction",
+            "Repetitive back-and-forth movement",
+            "Irregular, unpredictable movement",
+            "Circular movement about an axis"
+          ],
+          "ans": 2,
+          "explanation": "Random motion is irregular and unpredictable, with no fixed path or direction."
+        },
+        {
+          "q": "In Nigerian context, which is an example of rotational motion?",
+          "opts": [
+            "Car on a straight road",
+            "Pendulum clock",
+            "Ceiling fan",
+            "Dust particles in wind"
+          ],
+          "ans": 2,
+          "explanation": "Ceiling fan exhibits rotational motion (movement about a fixed axis)."
+        },
+        {
+          "q": "Which motion type has a fixed axis?",
+          "opts": [
+            "Random",
+            "Oscillatory",
+            "Translational",
+            "Rotational"
+          ],
+          "ans": 3,
+          "explanation": "Rotational motion is movement about a fixed axis."
+        },
+        {
+          "q": "Understanding types of motion is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports analysis of everyday phenomena, engineering, and technology",
+            "Only for observing nature",
+            "Only for designing machines"
+          ],
+          "ans": 1,
+          "explanation": "Understanding motion types supports analysis of everyday phenomena, engineering, and technology in Nigeria."
+        },
+        {
+          "q": "Which is NOT a type of motion?",
+          "opts": [
+            "Random",
+            "Oscillatory",
+            "Translational",
+            "Static"
+          ],
+          "ans": 3,
+          "explanation": "'Static' means no motion; random, oscillatory, translational, and rotational are types of motion."
+        },
+        {
+          "q": "A common misconception about motion is:",
+          "opts": [
+            "Motion is change in position with time",
+            "All motion is in a straight line",
+            "Oscillatory motion is back-and-forth",
+            "Rotational motion is about an axis"
+          ],
+          "ans": 1,
+          "explanation": "Not all motion is in a straight line; motion can be straight, circular, or irregular."
+        },
+        {
+          "q": "When observing motion, you should:",
+          "opts": [
+            "Only note the speed",
+            "Observe the path, pattern, and forces causing motion",
+            "Ignore the direction",
+            "Only classify as fast or slow"
+          ],
+          "ans": 1,
+          "explanation": "Observing the path, pattern, and forces helps classify and understand the type of motion."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w4_su2",
+      "title": "4.2 Relative Motion",
+      "notes": [
+        "Relative Motion",
+        "",
+        "Key Concepts:",
+        "1. What is relative motion?",
+        "   - Motion of an object as observed from a particular reference frame",
+        "   - Depends on the observer's state of motion",
+        "   - Example: A passenger in a moving bus sees trees moving backward",
+        "",
+        "2. Reference frames:",
+        "   a) Inertial frame:",
+        "      - Frame at rest or moving with constant velocity",
+        "      - Newton's laws hold true",
+        "      - Example: Stationary platform, car moving at constant speed",
+        "",
+        "   b) Non-inertial frame:",
+        "      - Frame accelerating or rotating",
+        "      - Fictitious forces appear (centrifugal, Coriolis)",
+        "      - Example: Car taking a sharp turn, rotating merry-go-round",
+        "",
+        "3. Relative velocity:",
+        "   - Velocity of object A relative to object B: v_AB = v_A - v_B",
+        "   - Example: Car A moving at 60 km/h, Car B at 40 km/h in same direction",
+        "     Relative velocity of A w.r.t. B = 60 - 40 = 20 km/h",
+        "",
+        "4. Examples of relative motion:",
+        "   - Two cars moving in same direction: relative speed is difference",
+        "   - Two cars moving in opposite directions: relative speed is sum",
+        "   - Boat in river: velocity relative to water + water velocity relative to ground",
+        "",
+        "5. Importance of relative motion:",
+        "   - Essential for navigation (air, sea, land)",
+        "   - Critical for collision avoidance",
+        "   - Foundation for understanding mechanics and relativity",
+        "",
+        "Nigerian Context:",
+        "• Relative motion in Nigeria:",
+        "  - Traffic on Lagos-Ibadan expressway: cars moving at different speeds",
+        "  - Boats on Niger River: velocity relative to water and current",
+        "  - Aircraft navigation: accounting for wind speed and direction",
+        "",
+        "• Local examples:",
+        "  - Passenger in danfo bus sees stationary objects moving backward",
+        "  - Cyclist overtaking another: relative speed calculation",
+        "  - Fisherman accounting for river current when rowing",
+        "",
+        "Practical Activities:",
+        "1. Relative Motion Demonstration:",
+        "   - Teacher uses two toy cars on a track to demonstrate relative motion",
+        "   - Students observe motion from different reference points",
+        "   - Calculate relative velocities using given speeds",
+        "",
+        "2. Real-Life Scenario Analysis:",
+        "   - Students analyze traffic scenarios on Nigerian roads",
+        "   - Calculate relative speeds of vehicles moving in same/opposite directions",
+        "   - Discuss implications for safe driving",
+        "",
+        "3. Boat and River Simulation:",
+        "   - Use simple model to simulate boat moving in river",
+        "   - Calculate resultant velocity considering current",
+        "   - Discuss how fishermen account for relative motion",
+        "",
+        "Common Misconceptions:",
+        "• 'Motion is absolute': Motion is relative to the observer's reference frame",
+        "• 'Relative velocity is always the difference': Relative velocity depends on direction (add for opposite directions)",
+        "• 'Reference frame doesn't matter': Observations depend critically on the reference frame",
+        "",
+        "Nigerian Context:",
+        "• Understanding relative motion supports safe driving, navigation, and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for mechanics, transportation, and technology",
+        "",
+        "Conclusion:",
+        "• Relative motion is motion observed from a particular reference frame",
+        "• Reference frames can be inertial or non-inertial",
+        "• Relative velocity depends on the motion of both observer and object",
+        "• Mastery of relative motion supports navigation, safety, and understanding of mechanics"
+      ],
+      "diagramDescriptions": [
+        "Chart of relative motion examples with reference frames",
+        "Diagram showing relative velocity calculations",
+        "Sample scenarios: cars on road, boat in river",
+        "Nigerian context: Relative motion in local transportation",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics relative motion reference frames site:youtube.com",
+      "quiz": [
+        {
+          "q": "Relative motion is:",
+          "opts": [
+            "Motion that is absolute",
+            "Motion as observed from a particular reference frame",
+            "Only motion in a straight line",
+            "Only motion at constant speed"
+          ],
+          "ans": 1,
+          "explanation": "Relative motion is the motion of an object as observed from a particular reference frame."
+        },
+        {
+          "q": "An inertial reference frame is:",
+          "opts": [
+            "Accelerating or rotating",
+            "At rest or moving with constant velocity",
+            "Only on Earth",
+            "Only in space"
+          ],
+          "ans": 1,
+          "explanation": "An inertial frame is at rest or moving with constant velocity; Newton's laws hold true."
+        },
+        {
+          "q": "If Car A moves at 60 km/h and Car B at 40 km/h in the same direction, the relative velocity of A w.r.t. B is:",
+          "opts": [
+            "100 km/h",
+            "20 km/h",
+            "60 km/h",
+            "40 km/h"
+          ],
+          "ans": 1,
+          "explanation": "Relative velocity = v_A - v_B = 60 - 40 = 20 km/h in the same direction."
+        },
+        {
+          "q": "When two objects move in opposite directions, their relative speed is:",
+          "opts": [
+            "The difference of their speeds",
+            "The sum of their speeds",
+            "The average of their speeds",
+            "Zero"
+          ],
+          "ans": 1,
+          "explanation": "When moving in opposite directions, relative speed is the sum of their speeds."
+        },
+        {
+          "q": "In Nigerian context, relative motion is important for:",
+          "opts": [
+            "Only physics exams",
+            "Traffic safety, river navigation, and aircraft navigation",
+            "Only driving cars",
+            "Only boating"
+          ],
+          "ans": 1,
+          "explanation": "Relative motion is important for traffic safety, river navigation, and aircraft navigation in Nigeria."
+        },
+        {
+          "q": "A passenger in a moving bus sees trees moving backward. This is an example of:",
+          "opts": [
+            "Absolute motion",
+            "Relative motion",
+            "Rotational motion",
+            "Random motion"
+          ],
+          "ans": 1,
+          "explanation": "The passenger's observation is relative motion; trees appear to move backward relative to the moving bus."
+        },
+        {
+          "q": "Understanding relative motion is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics",
+            "Supports safe driving, navigation, and understanding of mechanics",
+            "Only for calculating speeds",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Relative motion concepts support safe driving, navigation, and understanding of mechanics in Nigeria."
+        },
+        {
+          "q": "Which is a non-inertial reference frame?",
+          "opts": [
+            "Stationary platform",
+            "Car moving at constant speed",
+            "Car taking a sharp turn",
+            "Train on straight track at constant speed"
+          ],
+          "ans": 2,
+          "explanation": "A car taking a sharp turn is accelerating (changing direction), so it is a non-inertial frame."
+        },
+        {
+          "q": "A common misconception about relative motion is:",
+          "opts": [
+            "Motion is relative to reference frame",
+            "Motion is absolute and the same for all observers",
+            "Relative velocity depends on direction",
+            "Reference frames affect observations"
+          ],
+          "ans": 1,
+          "explanation": "Motion is not absolute; it is relative to the observer's reference frame."
+        },
+        {
+          "q": "When calculating relative velocity, you should:",
+          "opts": [
+            "Only subtract speeds",
+            "Consider direction: subtract for same direction, add for opposite",
+            "Always add speeds",
+            "Ignore the reference frame"
+          ],
+          "ans": 1,
+          "explanation": "Relative velocity calculation depends on direction: subtract for same direction, add for opposite directions."
+        }
+      ]
+    }
+  ]
+}

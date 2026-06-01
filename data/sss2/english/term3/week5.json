@@ -814,32 +814,4 @@
             "Recipient's official title",
             "Salutation"
           ],
-          "ans": 2,
-          "explanation": "Informal letters do not require the recipient's official title; they use friendly salutations."
-        },
-        {
-          "q": "A common misconception about informal letters is:",
-          "opts": [
-            "Informal letters need clear format",
-            "Informal means careless writing",
-            "Informal letters can share personal feelings",
-            "Informal letters should be well-organized"
-          ],
-          "ans": 1,
-          "explanation": "Informal letters should be friendly but still clear, well-written, and organized."
-        },
-        {
-          "q": "When writing an informal letter, you should:",
-          "opts": [
-            "Ignore the format",
-            "Use paragraphs for different topics and include personal details",
-            "Only write one long paragraph",
-            "Avoid asking questions"
-          ],
-          "ans": 1,
-          "explanation": "Using paragraphs and including personal details makes informal letters clear, engaging, and effective."
-        }
-      ]
-    }
-  ]
-}
+          "ans

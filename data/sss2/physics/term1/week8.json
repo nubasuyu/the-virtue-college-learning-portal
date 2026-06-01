@@ -1,0 +1,68 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Light Waves (Reflection)",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w8_su1",
+      "title": "8.1 Reflection of Light, Laws, Image Formation by Mirrors & Applications",
+      "notes": [
+        "Reflection of Light and Image Formation by Mirrors",
+        "",
+        "Key Concepts:",
+        "1. Laws of Reflection:",
+        "   - Incident ray, reflected ray, and normal lie in the same plane",
+        "   - Angle of incidence (i) = Angle of reflection (r)",
+        "",
+        "2. Plane Mirrors:",
+        "   - Image characteristics: virtual, upright, same size, laterally inverted, same distance behind mirror",
+        "   - Used in periscopes, dressing mirrors, kaleidoscopes",
+        "",
+        "3. Curved Mirrors:",
+        "   a) Concave (Converging):",
+        "      - Real/inverted images (object beyond focus), virtual/upright (object within focus)",
+        "      - Used in shaving mirrors, car headlights, solar concentrators",
+        "   b) Convex (Diverging):",
+        "      - Always virtual, upright, diminished images",
+        "      - Wide field of view: used in car side mirrors, security mirrors",
+        "",
+        "4. Mirror Formula & Magnification:",
+        "   - 1/f = 1/u + 1/v (f = focal length, u = object distance, v = image distance)",
+        "   - Magnification m = v/u = image height/object height",
+        "",
+        "5. Nigerian Context:",
+        "   - Convex mirrors on Nigerian roads for blind corners",
+        "   - Periscope construction projects in SS2 Physics labs",
+        "   - Shaving/makeup mirrors in Nigerian households",
+        "",
+        "Conclusion:",
+        "   - Reflection follows i = r and coplanar rays",
+        "   - Plane mirrors produce virtual, upright, laterally inverted images",
+        "   - Curved mirrors produce real/virtual images depending on object position",
+        "   - Mastery supports optics, safety engineering, and daily applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of laws of reflection",
+        "Ray diagrams for plane, concave, and convex mirrors",
+        "Mirror formula and magnification calculations",
+        "Nigerian context: Road mirrors, periscopes, shaving mirrors",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics reflection laws mirrors image formation site:youtube.com",
+      "quiz": [
+        {"q": "The law of reflection states that:", "opts": ["i > r", "i = r", "i < r", "i + r = 90°"], "ans": 1, "explanation": "Angle of incidence equals angle of reflection (i = r)."},
+        {"q": "Images formed by plane mirrors are:", "opts": ["Real and inverted", "Virtual, upright, and laterally inverted", "Real and diminished", "Virtual and magnified"], "ans": 1, "explanation": "Plane mirrors produce virtual, upright, laterally inverted images of the same size."},
+        {"q": "A convex mirror always forms images that are:", "opts": ["Real and inverted", "Virtual, upright, and diminished", "Real and magnified", "Virtual and inverted"], "ans": 1, "explanation": "Convex mirrors always produce virtual, upright, diminished images with a wide field of view."},
+        {"q": "The mirror formula is:", "opts": ["1/f = 1/u + 1/v", "f = u + v", "1/f = 1/u - 1/v", "f = uv"], "ans": 0, "explanation": "Mirror formula: 1/f = 1/u + 1/v (with sign conventions)."},
+        {"q": "In Nigerian context, convex mirrors are commonly used on roads for:", "opts": ["Focusing sunlight", "Wide-angle visibility at blind corners", "Magnifying objects", "Measuring distances"], "ans": 1, "explanation": "Convex mirrors provide wide-angle visibility, making them ideal for road safety at blind corners."},
+        {"q": "Magnification (m) is calculated as:", "opts": ["u/v", "v/u", "f/u", "u/f"], "ans": 1, "explanation": "Magnification m = v/u = image height / object height."},
+        {"q": "A common misconception about concave mirrors is:", "opts": ["They always form real images", "They can form virtual images if object is within focus", "They diverge light", "They are used in car side mirrors"], "ans": 0, "explanation": "Concave mirrors form virtual, upright images when the object is placed within the focal length."},
+        {"q": "Lateral inversion means:", "opts": ["Top and bottom are reversed", "Left and right are reversed", "Image is magnified", "Image is real"], "ans": 1, "explanation": "Lateral inversion means left and right sides are reversed in the mirror image."},
+        {"q": "To construct a periscope, you should use:", "opts": ["Two convex mirrors", "Two plane mirrors at 45°", "One concave mirror", "Two lenses"], "ans": 1, "explanation": "Periscopes use two plane mirrors angled at 45° to reflect light and allow viewing over obstacles."},
+        {"q": "When object distance equals focal length in a concave mirror, image is:", "opts": ["At center of curvature", "At infinity", "At focus", "At pole"], "ans": 1, "explanation": "When object is at focus (u = f), reflected rays are parallel and image forms at infinity."}
+      ]
+    }
+  ]
+}

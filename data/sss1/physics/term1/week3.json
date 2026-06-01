@@ -1,0 +1,422 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Time",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w3_su1",
+      "title": "3.1 Concept of Time",
+      "notes": [
+        "Concept of Time",
+        "",
+        "Key Concepts:",
+        "1. What is time?",
+        "   - Time is the duration between two events",
+        "   - It is a fundamental quantity in physics",
+        "   - SI unit: second (s)",
+        "",
+        "2. Importance of time in physics:",
+        "   - Essential for measuring motion, speed, and acceleration",
+        "   - Used in calculating rates of change",
+        "   - Critical for experiments and observations",
+        "",
+        "3. Units of time:",
+        "   - Second (s): SI base unit",
+        "   - Minute (min): 1 min = 60 s",
+        "   - Hour (h): 1 h = 60 min = 3600 s",
+        "   - Day: 1 day = 24 h = 86400 s",
+        "   - Year: 1 year ≈ 365.25 days",
+        "",
+        "4. Measuring time intervals:",
+        "   - Short intervals: stopwatch, digital timer",
+        "   - Long intervals: clock, calendar",
+        "   - Very short intervals: atomic clocks, oscilloscopes",
+        "",
+        "5. Accuracy in time measurement:",
+        "   - Use calibrated instruments",
+        "   - Avoid human reaction time errors",
+        "   - Take multiple readings and average",
+        "   - Record with correct units and precision",
+        "",
+        "Nigerian Context:",
+        "• Time in Nigerian daily life:",
+        "  - Prayer times in Islamic and Christian traditions",
+        "  - School schedules and work hours",
+        "  - Transportation timetables (buses, trains, flights)",
+        "",
+        "• Local examples:",
+        "  - Market opening and closing times",
+        "  - Agricultural activities timed with seasons",
+        "  - Cultural events scheduled by traditional calendars",
+        "",
+        "Practical Activities:",
+        "1. Time Measurement Practice:",
+        "   - Students use stopwatches to measure time intervals",
+        "   - Practice timing simple events (e.g., pendulum swing)",
+        "   - Record measurements with correct units",
+        "",
+        "2. Unit Conversion Exercises:",
+        "   - Teacher provides problems for converting between time units",
+        "   - Students practice converting hours to seconds, minutes to hours, etc.",
+        "",
+        "3. Real-Life Application:",
+        "   - Students time daily activities (e.g., walking to class)",
+        "   - Calculate average speed using time and distance",
+        "",
+        "Common Misconceptions:",
+        "• 'Time is absolute': Time is relative and depends on reference frame (Einstein)",
+        "• 'All clocks are equally accurate': Different clocks have different levels of precision",
+        "• 'Time measurement is easy': Human reaction time introduces errors in manual timing",
+        "",
+        "Nigerian Context:",
+        "• Understanding time measurement supports accuracy in science, industry, and daily life",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and technology",
+        "",
+        "Conclusion:",
+        "• Time is the duration between two events",
+        "• SI unit is second; other units are derived from it",
+        "• Accurate time measurement is essential for physics experiments",
+        "• Mastery of time concepts supports understanding of motion and rates"
+      ],
+      "diagramDescriptions": [
+        "Chart of time units and conversions",
+        "Diagram showing different time-measuring instruments",
+        "Sample time measurement exercises",
+        "Nigerian context: Time in daily life and industry",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics concept of time measurement site:youtube.com",
+      "quiz": [
+        {
+          "q": "Time is:",
+          "opts": [
+            "The total path length travelled",
+            "The duration between two events",
+            "A vector quantity",
+            "Only measured in hours"
+          ],
+          "ans": 1,
+          "explanation": "Time is the duration between two events; it is a fundamental scalar quantity."
+        },
+        {
+          "q": "The SI unit of time is:",
+          "opts": [
+            "Minute",
+            "Hour",
+            "Second",
+            "Day"
+          ],
+          "ans": 2,
+          "explanation": "The SI unit of time is the second (s)."
+        },
+        {
+          "q": "Which conversion is correct?",
+          "opts": [
+            "1 min = 100 s",
+            "1 h = 60 s",
+            "1 h = 3600 s",
+            "1 day = 100 h"
+          ],
+          "ans": 2,
+          "explanation": "1 hour = 60 minutes = 3600 seconds."
+        },
+        {
+          "q": "To measure short time intervals accurately, you should use:",
+          "opts": [
+            "Wall clock",
+            "Stopwatch or digital timer",
+            "Calendar",
+            "Sundial"
+          ],
+          "ans": 1,
+          "explanation": "Stopwatch or digital timer is used for measuring short time intervals accurately."
+        },
+        {
+          "q": "In Nigerian context, time measurement is important for:",
+          "opts": [
+            "Only school schedules",
+            "Prayer times, transportation, agriculture, and cultural events",
+            "Only physics exams",
+            "Only industrial work"
+          ],
+          "ans": 1,
+          "explanation": "Time measurement is important for prayer times, transportation, agriculture, and cultural events in Nigeria."
+        },
+        {
+          "q": "Which is NOT a unit of time?",
+          "opts": [
+            "Second",
+            "Meter",
+            "Minute",
+            "Hour"
+          ],
+          "ans": 1,
+          "explanation": "Meter is a unit of distance, not time."
+        },
+        {
+          "q": "Understanding time is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics",
+            "Supports accuracy in science, industry, transportation, and daily life",
+            "Only for timing sports",
+            "Only for using clocks"
+          ],
+          "ans": 1,
+          "explanation": "Time concepts support accuracy in science, industry, transportation, and daily life in Nigeria."
+        },
+        {
+          "q": "A common misconception about time is:",
+          "opts": [
+            "Time is the duration between events",
+            "Time is absolute and the same everywhere",
+            "Time is measured in seconds",
+            "Time is a fundamental quantity"
+          ],
+          "ans": 1,
+          "explanation": "Time is not absolute; it is relative and depends on reference frame (Einstein's theory of relativity)."
+        },
+        {
+          "q": "When measuring time intervals, you should:",
+          "opts": [
+            "Use any clock",
+            "Use calibrated instruments and avoid reaction time errors",
+            "Only measure once",
+            "Ignore units"
+          ],
+          "ans": 1,
+          "explanation": "Using calibrated instruments and avoiding reaction time errors ensures accurate time measurement."
+        },
+        {
+          "q": "Which instrument is best for measuring very short time intervals?",
+          "opts": [
+            "Wall clock",
+            "Stopwatch",
+            "Atomic clock",
+            "Sundial"
+          ],
+          "ans": 2,
+          "explanation": "Atomic clocks are used for measuring very short time intervals with extreme precision."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w3_su2",
+      "title": "3.2 Ways of Measuring Time",
+      "notes": [
+        "Ways of Measuring Time",
+        "",
+        "Key Concepts:",
+        "1. Traditional methods of measuring time:",
+        "   a) Sundial:",
+        "      - Uses shadow of a stick to indicate time",
+        "      - Works only in sunlight",
+        "      - Historical use in ancient civilizations",
+        "",
+        "   b) Water clock (clepsydra):",
+        "      - Measures time by flow of water",
+        "      - Used in ancient Egypt and Greece",
+        "      - Less accurate than modern methods",
+        "",
+        "   c) Hourglass:",
+        "      - Uses flow of sand through narrow opening",
+        "      - Used for short, fixed time intervals",
+        "      - Still used in games and cooking",
+        "",
+        "2. Modern methods of measuring time:",
+        "   a) Mechanical clock:",
+        "      - Uses pendulum or balance wheel",
+        "      - Accuracy: ±1 second per day",
+        "      - Common in homes and offices",
+        "",
+        "   b) Quartz clock:",
+        "      - Uses vibration of quartz crystal",
+        "      - Accuracy: ±1 second per month",
+        "      - Used in watches and digital clocks",
+        "",
+        "   c) Atomic clock:",
+        "      - Uses vibration of atoms (cesium)",
+        "      - Accuracy: ±1 second in millions of years",
+        "      - Used in GPS, scientific research",
+        "",
+        "3. Using stopwatches and timers:",
+        "   - Start/stop button for timing events",
+        "   - Digital display for precise reading",
+        "   - Lap time function for multiple intervals",
+        "   - Avoid parallax error when reading analog stopwatches",
+        "",
+        "4. Factors affecting time measurement accuracy:",
+        "   - Human reaction time (≈0.2 s)",
+        "   - Instrument calibration",
+        "   - Environmental conditions (temperature, humidity)",
+        "   - Proper technique in starting/stopping timer",
+        "",
+        "Nigerian Context:",
+        "• Time measurement in Nigeria:",
+        "  - Traditional methods: sun position, moon phases",
+        "  - Modern methods: digital watches, phone timers, atomic clocks for GPS",
+        "  - Religious practices: prayer times based on sun position",
+        "",
+        "• Local examples:",
+        "  - Farmers using sun position to time planting/harvesting",
+        "  - Market traders using clocks for business hours",
+        "  - Schools using timetables for class schedules",
+        "",
+        "Practical Activities:",
+        "1. Stopwatch Practice:",
+        "   - Students time simple events (e.g., dropping a ball)",
+        "   - Practice starting/stopping stopwatch accurately",
+        "   - Compare manual timing with automatic sensors",
+        "",
+        "2. Reaction Time Experiment:",
+        "   - Students measure their reaction time using ruler drop test",
+        "   - Discuss how reaction time affects manual timing",
+        "   - Calculate average reaction time for the class",
+        "",
+        "3. Instrument Comparison:",
+        "   - Compare time readings from different clocks (wall clock, phone, stopwatch)",
+        "   - Discuss accuracy and precision of each instrument",
+        "   - Identify best instrument for different time intervals",
+        "",
+        "Common Misconceptions:",
+        "• 'All clocks are equally accurate': Different clocks have different levels of precision",
+        "• 'Human timing is always accurate': Reaction time introduces errors in manual timing",
+        "• 'Time measurement is simple': Accurate timing requires proper technique and calibrated instruments",
+        "",
+        "Nigerian Context:",
+        "• Understanding time measurement methods supports accuracy in science and daily life",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and technology",
+        "",
+        "Conclusion:",
+        "• Time can be measured using traditional and modern methods",
+        "• Modern instruments (quartz, atomic) offer higher accuracy",
+        "• Proper technique and calibrated instruments ensure accurate measurements",
+        "• Mastery of time measurement supports scientific experiments and daily activities"
+      ],
+      "diagramDescriptions": [
+        "Chart of traditional and modern time-measuring instruments",
+        "Diagram showing how sundial, water clock, and atomic clock work",
+        "Sample stopwatch reading exercises",
+        "Nigerian context: Time measurement in local practices",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics measuring time instruments site:youtube.com",
+      "quiz": [
+        {
+          "q": "A sundial measures time using:",
+          "opts": [
+            "Flow of water",
+            "Shadow of a stick",
+            "Vibration of quartz",
+            "Flow of sand"
+          ],
+          "ans": 1,
+          "explanation": "A sundial uses the shadow of a stick to indicate time based on the sun's position."
+        },
+        {
+          "q": "Which instrument has the highest accuracy?",
+          "opts": [
+            "Mechanical clock",
+            "Quartz clock",
+            "Atomic clock",
+            "Hourglass"
+          ],
+          "ans": 2,
+          "explanation": "Atomic clock has the highest accuracy (±1 second in millions of years)."
+        },
+        {
+          "q": "Human reaction time is approximately:",
+          "opts": [
+            "0.02 s",
+            "0.2 s",
+            "2 s",
+            "20 s"
+          ],
+          "ans": 1,
+          "explanation": "Human reaction time is approximately 0.2 seconds, which affects manual timing accuracy."
+        },
+        {
+          "q": "To minimize error when using a stopwatch, you should:",
+          "opts": [
+            "Start/stop at any angle",
+            "Practice starting/stopping accurately and avoid parallax",
+            "Use only analog stopwatches",
+            "Measure only once"
+          ],
+          "ans": 1,
+          "explanation": "Practicing accurate start/stop and avoiding parallax error minimizes timing errors."
+        },
+        {
+          "q": "In Nigerian context, traditional time measurement includes:",
+          "opts": [
+            "Only atomic clocks",
+            "Sun position and moon phases",
+            "Only digital watches",
+            "Only phone timers"
+          ],
+          "ans": 1,
+          "explanation": "Traditional time measurement in Nigeria includes using sun position and moon phases."
+        },
+        {
+          "q": "Which is NOT a modern time-measuring instrument?",
+          "opts": [
+            "Quartz clock",
+            "Atomic clock",
+            "Sundial",
+            "Digital stopwatch"
+          ],
+          "ans": 2,
+          "explanation": "Sundial is a traditional time-measuring instrument; quartz, atomic, and digital stopwatches are modern."
+        },
+        {
+          "q": "Understanding time measurement is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics",
+            "Supports accuracy in science, industry, and daily activities",
+            "Only for using phones",
+            "Only for religious practices"
+          ],
+          "ans": 1,
+          "explanation": "Time measurement skills support accuracy in science, industry, and daily activities in Nigeria."
+        },
+        {
+          "q": "A common misconception about time measurement is:",
+          "opts": [
+            "Atomic clocks are highly accurate",
+            "All clocks are equally accurate",
+            "Quartz clocks use crystal vibration",
+            "Human reaction time affects manual timing"
+          ],
+          "ans": 1,
+          "explanation": "Not all clocks are equally accurate; different instruments have different levels of precision."
+        },
+        {
+          "q": "When comparing time instruments, you should consider:",
+          "opts": [
+            "Only the price",
+            "Accuracy, precision, and suitability for the task",
+            "Only the brand",
+            "Only the size"
+          ],
+          "ans": 1,
+          "explanation": "Accuracy, precision, and suitability for the task are key factors in comparing time instruments."
+        },
+        {
+          "q": "Which instrument is best for timing a 100 m race?",
+          "opts": [
+            "Wall clock",
+            "Stopwatch",
+            "Sundial",
+            "Hourglass"
+          ],
+          "ans": 1,
+          "explanation": "Stopwatch is best for timing short events like a 100 m race due to its precision and start/stop function."
+        }
+      ]
+    }
+  ]
+}

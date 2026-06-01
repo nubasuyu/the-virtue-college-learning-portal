@@ -1,0 +1,69 @@
+{
+  "course": "SS2 Physics",
+  "term": "Third Term",
+  "week": 6,
+  "topic": "Magnetic Field: Iron vs Steel, Shielding, Electromagnets & Applications",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t3_w6_su1",
+      "title": "6.1 Magnetic Properties of Iron & Steel, Magnetic Shielding, Electromagnets & Applications",
+      "notes": [
+        "Magnetic Properties, Shielding & Electromagnets",
+        "",
+        "Key Concepts:",
+        "1. Magnetic Properties of Iron vs Steel:",
+        "   - Soft iron: Easily magnetized, easily demagnetized; low retentivity; high permeability",
+        "   - Steel: Harder to magnetize, retains magnetism; high retentivity; used for permanent magnets",
+        "",
+        "2. Magnetic Shielding:",
+        "   - Process of protecting sensitive equipment from external magnetic fields",
+        "   - Achieved using high-permeability materials (soft iron, mu-metal) that redirect field lines",
+        "   - Applications: CRT monitors, transformers, medical devices, precision instruments",
+        "",
+        "3. Electromagnets:",
+        "   - Temporary magnets created by passing current through a coil wound around a soft iron core",
+        "   - Strength depends on: current magnitude, number of turns, core material",
+        "   - Advantages: Controllable, reversible, stronger than permanent magnets for same size",
+        "",
+        "4. Applications of Electromagnets:",
+        "   a) Electric bell: Electromagnet pulls hammer to strike gong",
+        "   b) Telephone earpiece: Varying current moves diaphragm via electromagnet",
+        "   c) Relays & circuit breakers: Magnetic switch for high-current circuits",
+        "   d) Scrapyard cranes: Lift and release heavy ferrous metals",
+        "",
+        "5. Nigerian Context:",
+        "   - Electric bells used in Nigerian schools, mosques, and churches",
+        "   - Electromagnetic scrap lifting in Nigerian recycling yards",
+        "   - Telephone earpiece principles applied in local telecom repair shops",
+        "   - Magnetic shielding in Nigerian hospital equipment and school labs",
+        "",
+        "Conclusion:",
+        "   - Soft iron for temporary magnets; steel for permanent magnets",
+        "   - Shielding protects sensitive devices from magnetic interference",
+        "   - Electromagnets are versatile, controllable, and widely applied",
+        "   - Mastery supports engineering, telecommunications, and industrial technology"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing iron and steel magnetic properties",
+        "Diagram of magnetic shielding and field line redirection",
+        "Electromagnet construction and applications (bell, earpiece, crane)",
+        "Nigerian context: School bells, scrap yards, telecom repairs",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics electromagnets magnetic shielding iron steel site:youtube.com",
+      "quiz": [
+        {"q": "Soft iron is preferred for electromagnet cores because it has:", "opts": ["High retentivity", "Low retentivity and high permeability", "High coercivity", "Permanent magnetism"], "ans": 1, "explanation": "Soft iron magnetizes and demagnetizes easily, making it ideal for controllable electromagnets."},
+        {"q": "Magnetic shielding works by:", "opts": ["Absorbing magnetic fields", "Redirecting field lines around protected area", "Generating opposite fields", "Blocking electric current"], "ans": 1, "explanation": "High-permeability materials provide a low-reluctance path, redirecting magnetic field lines."},
+        {"q": "The strength of an electromagnet depends on:", "opts": ["Core color", "Current, number of turns, and core material", "Temperature only", "Weight of coil"], "ans": 1, "explanation": "Electromagnet strength ∝ (current × turns × core permeability)."},
+        {"q": "In an electric bell, the electromagnet:", "opts": ["Generates sound directly", "Pulls a hammer to strike a gong", "Lights a bulb", "Produces continuous current"], "ans": 1, "explanation": "The electromagnet attracts the armature, causing the hammer to strike the gong repeatedly."},
+        {"q": "In Nigerian context, electromagnets are commonly used in:", "opts": ["Traditional weaving", "Scrap metal lifting and school bells", "Wood carving", "Water pumping only"], "ans": 1, "explanation": "Scrap yards use electromagnets to lift metals; schools use them in electric bell systems."},
+        {"q": "Steel is used for permanent magnets because it has:", "opts": ["Low retentivity", "High retentivity and high coercivity", "High permeability only", "Zero resistance"], "ans": 1, "explanation": "Steel retains magnetism well and resists demagnetization, making it ideal for permanent magnets."},
+        {"q": "A common misconception about electromagnets is:", "opts": ["They require electric current", "They are always stronger than permanent magnets", "Their polarity can be reversed", "Strength depends on current and turns"], "ans": 1, "explanation": "Electromagnets can be weaker or stronger than permanent magnets depending on design and current."},
+        {"q": "Magnetic shielding materials should have:", "opts": ["Low permeability", "High permeability", "High resistance", "Zero magnetism"], "ans": 1, "explanation": "High-permeability materials easily channel magnetic flux away from sensitive components."},
+        {"q": "In a telephone earpiece, sound is produced by:", "opts": ["Direct current flow", "Varying magnetic force moving a diaphragm", "Static electricity", "Light emission"], "ans": 1, "explanation": "Varying audio current changes electromagnet strength, vibrating the diaphragm to produce sound."},
+        {"q": "To increase electromagnet strength without changing core, you should:", "opts": ["Decrease current", "Increase number of coil turns", "Use AC instead of DC", "Reduce voltage"], "ans": 1, "explanation": "Increasing turns increases magnetic field strength proportionally (B ∝ nI)."}
+      ]
+    }
+  ]
+}

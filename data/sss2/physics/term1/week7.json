@@ -1,0 +1,70 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Light Waves",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w7_su1",
+      "title": "7.1 Sources of Light, Rectilinear Propagation, Shadows, Eclipses & Pinhole Camera",
+      "notes": [
+        "Light Waves: Sources, Propagation, Shadows, Eclipses & Pinhole Camera",
+        "",
+        "Key Concepts:",
+        "1. Sources of Light:",
+        "   - Luminous: Emit their own light (Sun, stars, bulbs, flames)",
+        "   - Non-luminous: Reflect light from other sources (Moon, tables, books)",
+        "",
+        "2. Rectilinear Propagation:",
+        "   - Light travels in straight lines in a uniform medium",
+        "   - Demonstrated by shadows, eclipses, and pinhole cameras",
+        "",
+        "3. Shadow Formation:",
+        "   - Umbra: Complete shadow (light source completely blocked)",
+        "   - Penumbra: Partial shadow (light source partially blocked)",
+        "   - Depends on source size: point source → sharp shadow; extended source → umbra + penumbra",
+        "",
+        "4. Eclipses:",
+        "   - Solar: Moon between Sun and Earth (casts umbra/penumbra on Earth)",
+        "   - Lunar: Earth between Sun and Moon (casts shadow on Moon)",
+        "",
+        "5. Pinhole Camera:",
+        "   - Light enters through small hole, forms inverted real image on screen",
+        "   - Image size depends on object distance and screen distance",
+        "   - Magnification = Image height/Object height = Screen distance/Object distance",
+        "",
+        "6. Nigerian Context:",
+        "   - Solar eclipse visibility in Nigerian states",
+        "   - Shadow play in Nigerian cultural performances",
+        "   - DIY pinhole camera projects in SS2 Physics practicals",
+        "",
+        "Conclusion:",
+        "   - Light travels in straight lines (rectilinear propagation)",
+        "   - Shadows, eclipses, and pinhole images prove rectilinear propagation",
+        "   - Pinhole camera forms inverted, real images with calculable magnification",
+        "   - Mastery supports optics, astronomy, and practical physics"
+      ],
+      "diagramDescriptions": [
+        "Chart of luminous vs non-luminous sources",
+        "Diagram of umbra/penumbra formation",
+        "Pinhole camera ray diagram and magnification formula",
+        "Nigerian context: Solar eclipse paths, shadow performances, DIY cameras",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics light sources rectilinear propagation pinhole camera site:youtube.com",
+      "quiz": [
+        {"q": "Light travels in straight lines in a uniform medium, which is known as:", "opts": ["Refraction", "Rectilinear propagation", "Diffraction", "Polarization"], "ans": 1, "explanation": "Rectilinear propagation states that light travels in straight lines in a uniform medium."},
+        {"q": "A luminous object is one that:", "opts": ["Reflects light", "Emits its own light", "Absorbs all light", "Transmits light only"], "ans": 1, "explanation": "Luminous objects emit their own light (e.g., Sun, bulb, flame)."},
+        {"q": "The complete shadow region is called:", "opts": ["Penumbra", "Umbra", "Reflection", "Refraction"], "ans": 1, "explanation": "Umbra is the region of complete shadow where light is completely blocked."},
+        {"q": "A solar eclipse occurs when:", "opts": ["Earth blocks Sun's light from Moon", "Moon blocks Sun's light from Earth", "Sun blocks Earth's light from Moon", "Moon blocks Earth's light from Sun"], "ans": 1, "explanation": "Solar eclipse occurs when the Moon passes between Sun and Earth, blocking sunlight."},
+        {"q": "In a pinhole camera, the image formed is:", "opts": ["Upright and virtual", "Inverted and real", "Upright and real", "Inverted and virtual"], "ans": 1, "explanation": "Pinhole cameras form inverted, real images due to rectilinear propagation."},
+        {"q": "In Nigerian context, rectilinear propagation is demonstrated by:", "opts": ["Rainbows", "Shadows and eclipses", "Sound echoes", "Mirror reflection"], "ans": 1, "explanation": "Shadows and eclipses are direct evidence of light traveling in straight lines."},
+        {"q": "Magnification in a pinhole camera is calculated as:", "opts": ["Object height / Image height", "Image height / Object height", "Screen distance × Object distance", "Focal length / Object distance"], "ans": 1, "explanation": "Magnification = Image height / Object height = Screen distance / Object distance."},
+        {"q": "A common misconception about pinhole cameras is:", "opts": ["They use lenses", "They form inverted real images", "Image size depends on distances", "Light travels in straight lines"], "ans": 0, "explanation": "Pinhole cameras do not use lenses; they rely on a small aperture and rectilinear propagation."},
+        {"q": "Penumbra is formed when:", "opts": ["Light source is a point", "Light source is extended", "No light reaches the screen", "Light reflects completely"], "ans": 1, "explanation": "Penumbra (partial shadow) forms when an extended light source is partially blocked."},
+        {"q": "To improve pinhole camera image clarity, you should:", "opts": ["Enlarge the hole", "Make the hole smaller and keep it sharp", "Use a lens", "Increase screen distance indefinitely"], "ans": 1, "explanation": "A smaller, sharper pinhole reduces light overlap and improves image clarity (diffraction limits apply)."}
+      ]
+    }
+  ]
+}

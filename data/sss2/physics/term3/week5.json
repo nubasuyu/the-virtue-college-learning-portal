@@ -1,0 +1,73 @@
+{
+  "course": "SS2 Physics",
+  "term": "Third Term",
+  "week": 5,
+  "topic": "Magnetic Field: Concept, Flux, Field Patterns & Magnetization",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t3_w5_su1",
+      "title": "5.1 Magnetic Fields, Magnetic Flux & Flux Density, Field Patterns & Methods of Magnetization/Demagnetization",
+      "notes": [
+        "Magnetic Fields, Flux, Flux Density & Magnetization",
+        "",
+        "Key Concepts:",
+        "1. Magnetic Field:",
+        "   - Region around a magnet or current-carrying conductor where magnetic force is experienced",
+        "   - Represented by magnetic field lines (flux lines) that never cross",
+        "   - Direction: North to South outside the magnet, South to North inside",
+        "",
+        "2. Magnetic Flux (Φ) & Magnetic Flux Density (B):",
+        "   - Magnetic Flux (Φ): Total number of magnetic field lines passing through a surface (Unit: Weber, Wb)",
+        "   - Magnetic Flux Density (B): Flux per unit area perpendicular to the field (Unit: Tesla, T = Wb/m²)",
+        "   - Formula: B = Φ/A or Φ = BA cosθ",
+        "",
+        "3. Magnetic Field Patterns:",
+        "   a) Bar magnet: Lines emerge from N, curve around, enter S; dense near poles",
+        "   b) Straight current-carrying conductor: Concentric circles around wire (Right-Hand Grip Rule)",
+        "   c) Solenoid: Uniform parallel lines inside, similar to bar magnet outside",
+        "",
+        "4. Methods of Making Magnets:",
+        "   a) Stroking method (single/double touch): Aligns magnetic domains",
+        "   b) Electrical method: Pass DC through coil around iron/steel core",
+        "   c) Induction method: Place magnetic material near permanent magnet",
+        "",
+        "5. Methods of Demagnetization:",
+        "   a) Hammering: Mechanical shock disrupts domain alignment",
+        "   b) Heating above Curie temperature: Thermal energy randomizes domains",
+        "   c) AC demagnetization: Gradually withdraw material from solenoid with decreasing AC",
+        "",
+        "6. Nigerian Context:",
+        "   - Understanding field patterns helps in designing school lab experiments with iron filings",
+        "   - Magnetization methods used in local workshops for tool hardening",
+        "   - Demagnetization principles applied in recycling scrap metals",
+        "",
+        "Conclusion:",
+        "   - Magnetic fields exert force; flux density measures field strength",
+        "   - Field patterns reveal field direction and intensity",
+        "   - Magnetization aligns domains; demagnetization randomizes them",
+        "   - Mastery supports electromagnetism, engineering, and vocational applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of magnetic field patterns for bar magnet, wire, and solenoid",
+        "Diagram of magnetic flux and flux density relationship",
+        "Illustration of magnetization and demagnetization methods",
+        "Nigerian context: School lab demonstrations and local workshop applications",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics magnetic field flux flux density magnetization site:youtube.com",
+      "quiz": [
+        {"q": "Magnetic field lines indicate:", "opts": ["Electric potential", "Direction and strength of magnetic force", "Temperature gradient", "Current direction only"], "ans": 1, "explanation": "Magnetic field lines show the direction of magnetic force and their density indicates field strength."},
+        {"q": "Magnetic flux density (B) is measured in:", "opts": ["Weber", "Tesla", "Ampere", "Volt"], "ans": 1, "explanation": "Magnetic flux density is measured in Tesla (T), where 1 T = 1 Wb/m²."},
+        {"q": "The magnetic field around a straight current-carrying wire is:", "opts": ["Straight lines", "Concentric circles", "Random curves", "Parallel lines"], "ans": 1, "explanation": "Using the Right-Hand Grip Rule, the field forms concentric circles around the wire."},
+        {"q": "Which method is most effective for demagnetizing a steel bar?", "opts": ["Stroking with a magnet", "Hammering repeatedly", "Withdrawing from AC solenoid gradually", "Placing in DC field"], "ans": 2, "explanation": "Gradual withdrawal from an AC solenoid randomizes domains without heating or mechanical damage."},
+        {"q": "In Nigerian context, magnetic field patterns are commonly demonstrated in schools using:", "opts": ["Water tanks", "Iron filings and bar magnets", "Laser beams", "Sound waves"], "ans": 1, "explanation": "Iron filings align along field lines, making patterns visible in school physics labs."},
+        {"q": "Magnetic flux (Φ) depends on:", "opts": ["Current only", "Field strength and area", "Temperature only", "Mass of magnet"], "ans": 1, "explanation": "Φ = BA cosθ, so it depends on magnetic flux density and the area perpendicular to the field."},
+        {"q": "A common misconception about magnetic fields is:", "opts": ["Field lines never cross", "Field lines start at North and end at South", "Field is strongest at the center of a bar magnet", "Field direction is tangent to field lines"], "ans": 2, "explanation": "Magnetic field is strongest near the poles, not at the center of the magnet."},
+        {"q": "The electrical method of magnetization requires:", "opts": ["AC current", "DC current", "No current", "Mechanical stroking"], "ans": 1, "explanation": "DC current creates a steady magnetic field that aligns domains effectively."},
+        {"q": "Flux density increases when:", "opts": ["Area increases", "Field lines spread out", "Field lines become closer together", "Temperature rises"], "ans": 2, "explanation": "Higher flux density means more field lines per unit area, indicating stronger field."},
+        {"q": "To identify magnetic field direction around a wire, you use:", "opts": ["Fleming's Left-Hand Rule", "Right-Hand Grip Rule", "Lenz's Law", "Faraday's Law"], "ans": 1, "explanation": "Right-Hand Grip Rule determines field direction around a current-carrying conductor."}
+      ]
+    }
+  ]
+}

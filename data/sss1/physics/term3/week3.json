@@ -1,0 +1,433 @@
+{
+  "course": "SSS1 Physics",
+  "term": "Third Term",
+  "week": 3,
+  "topic": "Physics in Technology",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t3_w3_su1",
+      "title": "3.1 Units in Industry and Electrical Continuity Testing",
+      "notes": [
+        "Units in Industry and Electrical Continuity Testing",
+        "",
+        "Key Concepts:",
+        "1. Importance of standard units in industry:",
+        "   - Standard units ensure consistency, accuracy, and quality control",
+        "   - SI units (meter, kilogram, second, ampere, etc.) are used globally",
+        "   - Proper units enable communication, trade, and technological development",
+        "",
+        "2. Common industrial units and their applications:",
+        "   a) Length:",
+        "      - Meter (m) for construction, engineering, manufacturing",
+        "      - Micrometer (μm) for precision engineering, microelectronics",
+        "",
+        "   b) Mass:",
+        "      - Kilogram (kg) for weighing goods, materials, products",
+        "      - Ton (t) for bulk materials in mining, agriculture, shipping",
+        "",
+        "   c) Time:",
+        "      - Second (s) for process timing, quality control, automation",
+        "      - Hour (h) for production scheduling, maintenance intervals",
+        "",
+        "   d) Electric current:",
+        "      - Ampere (A) for electrical systems, power distribution, electronics",
+        "      - Milliampere (mA) for sensitive electronic circuits",
+        "",
+        "3. Electrical continuity testing:",
+        "   - Continuity testing checks if an electrical circuit is complete (no breaks)",
+        "   - A continuity tester (multimeter in continuity mode) beeps when circuit is complete",
+        "   - Applications: checking wires, fuses, switches, and electrical connections",
+        "",
+        "4. Steps for electrical continuity testing:",
+        "   - Turn off power to the circuit being tested",
+        "   - Set multimeter to continuity mode (Ω symbol with sound wave)",
+        "   - Touch probes to two points in the circuit",
+        "   - If circuit is complete: meter beeps and shows low resistance",
+        "   - If circuit is broken: no beep and shows high resistance or OL",
+        "",
+        "5. Safety precautions in continuity testing:",
+        "   - Always disconnect power before testing",
+        "   - Use insulated probes and proper personal protective equipment",
+        "   - Test tester on known good circuit first to verify operation",
+        "   - Avoid touching bare conductors during testing",
+        "",
+        "Nigerian Context:",
+        "• Units and continuity testing in Nigerian industries:",
+        "  - Construction: meters for building dimensions, kilograms for materials",
+        "  - Manufacturing: standard units for product specifications and quality control",
+        "  - Electrical: continuity testing for wiring in buildings, vehicles, and appliances",
+        "",
+        "• Local examples:",
+        "  - Using meters to measure room dimensions in Nigerian construction",
+        "  - Continuity testing of wiring in Nigerian homes and offices",
+        "  - Quality control of manufactured goods using standard units",
+        "",
+        "Practical Activities:",
+        "1. Unit Conversion Practice:",
+        "   - Teacher provides industrial measurement problems",
+        "   - Students convert between units (e.g., cm to m, g to kg)",
+        "   - Discuss importance of consistent units in industry",
+        "",
+        "2. Continuity Testing Demonstration:",
+        "   - Teacher demonstrates continuity testing on simple circuits",
+        "   - Students practice testing wires, switches, and fuses",
+        "   - Identify open and closed circuits using multimeter",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze electrical wiring in school or home",
+        "   - Perform continuity tests on accessible circuits (with supervision)",
+        "   - Discuss safety and importance of proper electrical connections",
+        "",
+        "Common Misconceptions:",
+        "• 'Any unit can be used in industry': Standard SI units ensure global consistency and accuracy",
+        "• 'Continuity testing can be done with power on': Testing must be done with power off for safety",
+        "• 'Continuity means zero resistance': Continuity means low resistance, not necessarily zero",
+        "",
+        "Nigerian Context:",
+        "• Understanding units and continuity testing supports quality control and safety in Nigerian industries",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for engineering, manufacturing, and technology careers",
+        "",
+        "Conclusion:",
+        "• Standard units ensure consistency and accuracy in industrial measurements",
+        "• Continuity testing verifies electrical circuits are complete and safe",
+        "• Safety precautions are essential when performing electrical tests",
+        "• Mastery supports quality control, safety, and technological development"
+      ],
+      "diagramDescriptions": [
+        "Chart of common industrial units with applications",
+        "Diagram of continuity testing setup and procedure",
+        "Sample problems with unit conversions",
+        "Nigerian context: Units in construction and electrical testing",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics units industry electrical continuity testing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Standard units in industry are important because they:",
+          "opts": [
+            "Make measurements longer",
+            "Ensure consistency, accuracy, and global communication",
+            "Are only used in laboratories",
+            "Are only for scientists"
+          ],
+          "ans": 1,
+          "explanation": "Standard units ensure consistency, accuracy, and clear communication in measurements globally."
+        },
+        {
+          "q": "The SI unit of electric current is:",
+          "opts": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+          ],
+          "ans": 2,
+          "explanation": "The SI unit of electric current is the Ampere (A)."
+        },
+        {
+          "q": "Electrical continuity testing is used to:",
+          "opts": [
+            "Measure voltage in a circuit",
+            "Check if a circuit is complete with no breaks",
+            "Calculate power consumption",
+            "Determine resistance value"
+          ],
+          "ans": 1,
+          "explanation": "Continuity testing checks if an electrical circuit is complete (no breaks) by measuring low resistance."
+        },
+        {
+          "q": "When performing continuity testing, you should:",
+          "opts": [
+            "Keep power on for accurate reading",
+            "Turn off power and use insulated probes",
+            "Use any multimeter setting",
+            "Touch bare conductors during testing"
+          ],
+          "ans": 1,
+          "explanation": "Continuity testing must be done with power off for safety, using insulated probes and proper equipment."
+        },
+        {
+          "q": "In Nigerian context, standard units are important for:",
+          "opts": [
+            "Only theoretical physics",
+            "Construction, manufacturing, and quality control",
+            "Only calculating measurements",
+            "Only for imports"
+          ],
+          "ans": 1,
+          "explanation": "Standard units are important for construction, manufacturing, and quality control in Nigerian industries."
+        },
+        {
+          "q": "A continuity tester beeps when:",
+          "opts": [
+            "Circuit is broken",
+            "Circuit is complete with low resistance",
+            "Voltage is high",
+            "Resistance is infinite"
+          ],
+          "ans": 1,
+          "explanation": "A continuity tester beeps when the circuit is complete and has low resistance, indicating good continuity."
+        },
+        {
+          "q": "Understanding industrial units is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports quality control, manufacturing, and technological development",
+            "Only for unit conversions",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Industrial units knowledge supports quality control, manufacturing, and technological development in Nigeria."
+        },
+        {
+          "q": "Which is NOT a common industrial unit?",
+          "opts": [
+            "Meter for length",
+            "Kilogram for mass",
+            "Liter for volume",
+            "Degree Celsius for temperature"
+          ],
+          "ans": 2,
+          "explanation": "Liter is a unit of volume but not an SI base unit; cubic meter (m³) is the SI unit for volume."
+        },
+        {
+          "q": "A common misconception about continuity testing is:",
+          "opts": [
+            "Continuity testing checks circuit completeness",
+            "Continuity testing can be done with power on",
+            "Continuity means low resistance",
+            "Safety precautions are essential"
+          ],
+          "ans": 1,
+          "explanation": "Continuity testing must be done with power off for safety; testing with power on can damage equipment and cause injury."
+        },
+        {
+          "q": "When converting units in industry, you should:",
+          "opts": [
+            "Use any conversion factor",
+            "Use standard conversion factors and maintain significant figures",
+            "Ignore decimal places",
+            "Only convert to larger units"
+          ],
+          "ans": 1,
+          "explanation": "Unit conversions require standard conversion factors and attention to significant figures for accuracy."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t3_w3_su2",
+      "title": "3.2 Solar Energy and Solar Collectors",
+      "notes": [
+        "Solar Energy and Solar Collectors",
+        "",
+        "Key Concepts:",
+        "1. What is solar energy?",
+        "   - Solar energy is radiant light and heat from the Sun",
+        "   - It is a renewable, clean, and abundant energy source",
+        "   - Can be converted to electricity (photovoltaic) or heat (thermal)",
+        "",
+        "2. Types of solar energy systems:",
+        "   a) Photovoltaic (PV) systems:",
+        "      - Convert sunlight directly to electricity using solar cells",
+        "      - Applications: solar panels for homes, street lights, calculators",
+        "",
+        "   b) Solar thermal systems:",
+        "      - Use sunlight to heat water or air",
+        "      - Applications: solar water heaters, solar cookers, space heating",
+        "",
+        "3. Solar collectors:",
+        "   a) Flat-plate collectors:",
+        "      - Absorb sunlight to heat fluid (water or air)",
+        "      - Used in solar water heaters and space heating",
+        "",
+        "   b) Concentrating collectors:",
+        "      - Use mirrors or lenses to focus sunlight on small area",
+        "      - Used in solar power plants for electricity generation",
+        "",
+        "4. Advantages of solar energy:",
+        "   - Renewable and sustainable",
+        "   - Reduces dependence on fossil fuels",
+        "   - Low operating costs after installation",
+        "   - Environmentally friendly (no greenhouse gas emissions)",
+        "",
+        "5. Challenges of solar energy:",
+        "   - Intermittent (depends on sunlight availability)",
+        "   - Requires energy storage for nighttime/cloudy days",
+        "   - Initial installation cost can be high",
+        "   - Efficiency depends on location, weather, and panel orientation",
+        "",
+        "6. Constructing a simple solar collector:",
+        "   - Materials: black-painted metal sheet, glass cover, insulation, water pipes",
+        "   - Principle: black surface absorbs sunlight, heats fluid in pipes",
+        "   - Glass cover traps heat (greenhouse effect)",
+        "   - Insulation reduces heat loss",
+        "",
+        "Nigerian Context:",
+        "• Solar energy in Nigeria:",
+        "  - Abundant sunlight: Nigeria has high solar potential (4-7 kWh/m²/day)",
+        "  - Applications: solar street lights, home systems, water pumping, telecommunications",
+        "  - Government initiatives: Rural Electrification Agency (REA) solar projects",
+        "",
+        "• Local examples:",
+        "  - Solar-powered street lights in Abuja and other cities",
+        "  - Solar water heaters in Nigerian homes and institutions",
+        "  - Solar-powered boreholes for rural water supply",
+        "",
+        "Practical Activities:",
+        "1. Solar Collector Construction:",
+        "   - Teacher guides students to build simple solar water heater",
+        "   - Materials: black container, transparent cover, insulation, thermometer",
+        "   - Test by measuring water temperature increase under sunlight",
+        "",
+        "2. Solar Energy Measurement:",
+        "   - Teacher provides solar irradiance data for Nigerian locations",
+        "   - Students calculate potential energy generation for given panel area",
+        "   - Discuss factors affecting solar energy output",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze solar energy potential for their community",
+        "   - Propose solar solutions for local needs (lighting, water heating, etc.)",
+        "   - Discuss economic and environmental benefits",
+        "",
+        "Common Misconceptions:",
+        "• 'Solar energy only works in hot climates': Solar panels work with light, not heat; they work in cold, sunny climates too",
+        "• 'Solar panels don't work on cloudy days': They still produce electricity, though at reduced efficiency",
+        "• 'Solar energy is too expensive': Costs have decreased significantly; long-term savings offset initial investment",
+        "",
+        "Nigerian Context:",
+        "• Understanding solar energy supports sustainable development and energy access in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for renewable energy, engineering, and environmental science careers",
+        "",
+        "Conclusion:",
+        "• Solar energy is radiant light and heat from the Sun, convertible to electricity or heat",
+        "• Solar collectors absorb sunlight to heat fluids or generate electricity",
+        "• Advantages include renewability, low operating costs, and environmental benefits",
+        "• Mastery supports sustainable energy solutions and technological development"
+      ],
+      "diagramDescriptions": [
+        "Chart of solar energy systems with applications",
+        "Diagram of flat-plate solar collector construction",
+        "Sample solar energy calculations for Nigerian locations",
+        "Nigerian context: Solar applications in rural electrification",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics solar energy solar collectors site:youtube.com",
+      "quiz": [
+        {
+          "q": "Solar energy is:",
+          "opts": [
+            "Energy from wind",
+            "Radiant light and heat from the Sun",
+            "Energy from fossil fuels",
+            "Energy from nuclear reactions"
+          ],
+          "ans": 1,
+          "explanation": "Solar energy is radiant light and heat from the Sun, a renewable and clean energy source."
+        },
+        {
+          "q": "Photovoltaic systems convert:",
+          "opts": [
+            "Sunlight to heat",
+            "Sunlight directly to electricity",
+            "Heat to electricity",
+            "Electricity to sunlight"
+          ],
+          "ans": 1,
+          "explanation": "Photovoltaic (PV) systems convert sunlight directly to electricity using solar cells."
+        },
+        {
+          "q": "A flat-plate solar collector is used for:",
+          "opts": [
+            "Generating electricity only",
+            "Heating water or air using sunlight",
+            "Storing solar energy",
+            "Concentrating sunlight for power plants"
+          ],
+          "ans": 1,
+          "explanation": "Flat-plate collectors absorb sunlight to heat fluid (water or air) for domestic or industrial use."
+        },
+        {
+          "q": "An advantage of solar energy is:",
+          "opts": [
+            "It is intermittent",
+            "It is renewable and environmentally friendly",
+            "It requires fossil fuels",
+            "It produces greenhouse gases"
+          ],
+          "ans": 1,
+          "explanation": "Solar energy is renewable, clean, and produces no greenhouse gas emissions during operation."
+        },
+        {
+          "q": "In Nigerian context, solar energy is important because:",
+          "opts": [
+            "Nigeria has limited sunlight",
+            "Nigeria has abundant sunlight and high solar potential",
+            "Solar energy is too expensive for Nigeria",
+            "Solar energy only works in cold climates"
+          ],
+          "ans": 1,
+          "explanation": "Nigeria has high solar potential (4-7 kWh/m²/day), making solar energy ideal for electricity and heating."
+        },
+        {
+          "q": "A challenge of solar energy is:",
+          "opts": [
+            "It is non-renewable",
+            "It is intermittent and depends on sunlight",
+            "It produces air pollution",
+            "It requires no maintenance"
+          ],
+          "ans": 1,
+          "explanation": "Solar energy is intermittent; it depends on sunlight availability and requires storage for nighttime use."
+        },
+        {
+          "q": "Understanding solar energy is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports sustainable development and energy access in Nigeria",
+            "Only for calculating solar potential",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Solar energy knowledge supports sustainable development, rural electrification, and energy independence in Nigeria."
+        },
+        {
+          "q": "Which is NOT a type of solar collector?",
+          "opts": [
+            "Flat-plate collector",
+            "Concentrating collector",
+            "Photovoltaic panel",
+            "Wind turbine"
+          ],
+          "ans": 3,
+          "explanation": "Wind turbine is not a solar collector; it harnesses wind energy, not solar energy."
+        },
+        {
+          "q": "A common misconception about solar energy is:",
+          "opts": [
+            "Solar energy is renewable",
+            "Solar panels don't work on cloudy days",
+            "Solar energy reduces fossil fuel dependence",
+            "Solar panels have low operating costs"
+          ],
+          "ans": 1,
+          "explanation": "Solar panels still produce electricity on cloudy days, though at reduced efficiency; they don't require direct sunlight."
+        },
+        {
+          "q": "When constructing a solar collector, you should:",
+          "opts": [
+            "Use any color for the absorber",
+            "Use black surface to maximize absorption and insulate to reduce heat loss",
+            "Ignore the angle of sunlight",
+            "Use transparent material for the absorber"
+          ],
+          "ans": 1,
+          "explanation": "Black surfaces absorb more sunlight; insulation reduces heat loss, improving collector efficiency."
+        }
+      ]
+    }
+  ]
+}

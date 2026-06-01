@@ -784,48 +784,4 @@
         {
           "q": "Which is NOT a feature of a poem?",
           "opts": [
-            "Concise language",
-            "Imagery",
-            "Long paragraphs",
-            "Rhythm"
-          ],
-          "ans": 2,
-          "explanation": "Long paragraphs are not a feature of poetry; concise language, imagery, and rhythm are."
-        },
-        {
-          "q": "A common misconception about creative writing is:",
-          "opts": [
-            "Creative writing expresses ideas imaginatively",
-            "Creative writing is only for talented people",
-            "Creative writing needs planning",
-            "Creative writing develops expression"
-          ],
-          "ans": 1,
-          "explanation": "Creative writing is not only for talented people; everyone can learn to write creatively with practice."
-        },
-        {
-          "q": "When writing a short story, you should:",
-          "opts": [
-            "Ignore the plot",
-            "Develop characters, setting, and plot logically",
-            "Only focus on dialogue",
-            "Skip the conclusion"
-          ],
-          "ans": 1,
-          "explanation": "Developing characters, setting, and plot logically creates a complete, engaging short story."
-        },
-        {
-          "q": "In Nigerian poetry, a common feature is:",
-          "opts": [
-            "Only foreign references",
-            "Use of local languages, proverbs, and cultural references",
-            "Only scientific terms",
-            "Only historical dates"
-          ],
-          "ans": 1,
-          "explanation": "Nigerian poetry often includes local languages, proverbs, and cultural references to express cultural identity."
-        }
-      ]
-    }
-  ]
-}
+            

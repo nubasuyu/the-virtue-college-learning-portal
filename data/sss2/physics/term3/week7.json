@@ -1,0 +1,67 @@
+{
+  "course": "SS2 Physics",
+  "term": "Third Term",
+  "week": 7,
+  "topic": "Earth's Magnetic Field: Declination, Dip, Neutral Points & Mariner's Compass",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t3_w7_su1",
+      "title": "7.1 Earth's Magnetic Field, Magnetic Elements, Neutral Points & Mariner's Compass",
+      "notes": [
+        "Earth's Magnetic Field & Navigation Instruments",
+        "",
+        "Key Concepts:",
+        "1. Earth as a Magnet:",
+        "   - Earth behaves like a giant bar magnet with magnetic axis tilted ~11° to geographic axis",
+        "   - Magnetic North is near Geographic South, and vice versa",
+        "",
+        "2. Magnetic Elements of a Place:",
+        "   a) Angle of Declination (Variation): Angle between magnetic North and true North",
+        "   b) Angle of Dip (Inclination): Angle between horizontal plane and magnetic field lines",
+        "   c) Horizontal Component (H): Part of Earth's field acting horizontally: H = B cosθ",
+        "",
+        "3. Neutral Points:",
+        "   - Points where Earth's magnetic field cancels a magnet's field",
+        "   - Resultant field is zero; compass needle shows no preferred direction",
+        "   - Located along magnet's equatorial line or axial line depending on orientation",
+        "",
+        "4. Mariner's Compass:",
+        "   - Navigation instrument using freely rotating magnetic needle aligned with Earth's field",
+        "   - Mounted on gimbal to remain horizontal despite ship movement",
+        "   - Used with declination charts for accurate navigation",
+        "",
+        "5. Nigerian Context:",
+        "   - Declination varies across Nigeria (~0.5°W in South to ~1°W in North)",
+        "   - Mariner's compass principles applied in coastal navigation (Niger Delta, Atlantic coast)",
+        "   - Neutral point demonstrations in SS2 physics practicals using plotting compasses",
+        "",
+        "Conclusion:",
+        "   - Earth's field has horizontal/vertical components; declination and dip vary by location",
+        "   - Neutral points occur where fields cancel; compasses align with net field",
+        "   - Mariner's compass uses Earth's field for directional navigation",
+        "   - Mastery supports geophysics, navigation, and practical physics"
+      ],
+      "diagramDescriptions": [
+        "Chart of Earth's magnetic field lines and magnetic elements",
+        "Diagram of angle of dip, declination, and horizontal component",
+        "Neutral point formation around bar magnet",
+        "Nigerian context: Declination variation and coastal navigation",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics earth magnetic field declination dip compass site:youtube.com",
+      "quiz": [
+        {"q": "The angle between magnetic North and true North is called:", "opts": ["Angle of dip", "Angle of declination", "Horizontal component", "Magnetic intensity"], "ans": 1, "explanation": "Angle of declination is the horizontal angle between magnetic North and geographic North."},
+        {"q": "Angle of dip is maximum at:", "opts": ["Equator", "Magnetic poles", "Magnetic equator", "Everywhere equally"], "ans": 1, "explanation": "Dip is 90° at magnetic poles where field lines are vertical."},
+        {"q": "At neutral points, the resultant magnetic field is:", "opts": ["Maximum", "Zero", "Horizontal only", "Vertical only"], "ans": 1, "explanation": "Neutral points occur where Earth's field and magnet's field cancel, giving zero net field."},
+        {"q": "A mariner's compass remains horizontal due to:", "opts": ["Heavy needle", "Gimbal mounting", "Strong magnet", "Liquid damping"], "ans": 1, "explanation": "Gimbals allow the compass card to remain level despite ship pitching and rolling."},
+        {"q": "In Nigerian context, magnetic declination is approximately:", "opts": ["0°", "0.5°W to 1°W", "10°E", "90°"], "ans": 1, "explanation": "Nigeria experiences small westward declination (~0.5°–1°W), important for precise surveying."},
+        {"q": "Horizontal component of Earth's field is given by:", "opts": ["H = B sinθ", "H = B cosθ", "H = B tanθ", "H = B/θ"], "ans": 1, "explanation": "H = B cosθ, where B is total field and θ is angle of dip."},
+        {"q": "A common misconception about Earth's magnetism is:", "opts": ["Geographic North is magnetic North", "Magnetic North is near Geographic South", "Field lines emerge from South pole", "Dip is zero at poles"], "ans": 0, "explanation": "Magnetic North pole is physically near Geographic South; compass North points to it."},
+        {"q": "At the magnetic equator, angle of dip is:", "opts": ["90°", "45°", "0°", "180°"], "ans": 2, "explanation": "Field lines are horizontal at magnetic equator, so dip = 0°."},
+        {"q": "Neutral points are located where:", "opts": ["Field is strongest", "Earth's field and magnet's field are equal and opposite", "Compass spins rapidly", "Temperature is highest"], "ans": 1, "explanation": "Neutral points occur where opposing magnetic fields cancel each other."},
+        {"q": "To navigate accurately using a magnetic compass, you must correct for:", "opts": ["Wind speed", "Angle of declination", "Ship weight", "Water salinity"], "ans": 1, "explanation": "Declination correction aligns magnetic readings with true geographic directions."}
+      ]
+    }
+  ]
+}

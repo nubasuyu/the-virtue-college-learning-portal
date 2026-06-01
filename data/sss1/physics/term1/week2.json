@@ -1,0 +1,627 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Position, Distance, and Displacement",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w2_su1",
+      "title": "2.1 Measurement of Distance",
+      "notes": [
+        "Measurement of Distance",
+        "",
+        "Key Concepts:",
+        "1. What is distance?",
+        "   - Distance is the total length of the path travelled by an object",
+        "   - It is a scalar quantity (has magnitude only, no direction)",
+        "   - SI unit: meter (m)",
+        "",
+        "2. Instruments for measuring distance:",
+        "   a) Meter rule:",
+        "      - Used for measuring short distances (up to 1 meter)",
+        "      - Accuracy: ±0.1 cm or ±1 mm",
+        "      - Used for measuring length of books, tables, etc.",
+        "",
+        "   b) Tape measure:",
+        "      - Used for measuring longer distances (up to 100 meters)",
+        "      - Flexible and portable",
+        "      - Used in construction, tailoring, land surveying",
+        "",
+        "   c) Vernier caliper:",
+        "      - Used for measuring small distances with high precision",
+        "      - Accuracy: ±0.01 cm or ±0.1 mm",
+        "      - Used for measuring internal/external diameters, depths",
+        "",
+        "   d) Micrometer screw gauge:",
+        "      - Used for measuring very small distances",
+        "      - Accuracy: ±0.001 cm or ±0.01 mm",
+        "      - Used for measuring thickness of wire, paper, etc.",
+        "",
+        "3. How to use measuring instruments correctly:",
+        "   - Avoid parallax error: read at eye level",
+        "   - Ensure instrument is properly calibrated",
+        "   - Take multiple readings and find the average",
+        "   - Record measurements with correct units",
+        "",
+        "4. Converting units of distance:",
+        "   - 1 km = 1000 m",
+        "   - 1 m = 100 cm = 1000 mm",
+        "   - 1 cm = 10 mm",
+        "   - Practice converting between units",
+        "",
+        "Nigerian Context:",
+        "• Measurement in Nigerian industries:",
+        "  - Construction: tape measures for building dimensions",
+        "  - Tailoring: meter rules for fabric measurement",
+        "  - Engineering: vernier calipers for precision work",
+        "",
+        "• Local examples:",
+        "  - Market traders use measuring tapes for selling cloth",
+        "  - Road construction uses surveying equipment for distance",
+        "  - Mechanics use micrometers for engine part measurements",
+        "",
+        "Practical Activities:",
+        "1. Instrument Practice:",
+        "   - Students measure objects using meter rule, tape measure",
+        "   - Record measurements with correct units and precision",
+        "   - Compare readings from different instruments",
+        "",
+        "2. Unit Conversion Exercises:",
+        "   - Teacher provides problems for converting between units",
+        "   - Students practice converting km to m, cm to mm, etc.",
+        "",
+        "3. Real-Life Application:",
+        "   - Students measure classroom dimensions",
+        "   - Calculate perimeter and area using measurements",
+        "",
+        "Common Misconceptions:",
+        "• 'All measuring instruments are equally accurate': Different instruments have different levels of precision",
+        "• 'Distance and displacement are the same': Distance is scalar, displacement is vector",
+        "• 'Any unit can be used': Standard SI units ensure consistency",
+        "",
+        "Nigerian Context:",
+        "• Understanding distance measurement supports accuracy in Nigerian industries",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for science, engineering, and technology careers",
+        "",
+        "Conclusion:",
+        "• Distance is the total path length travelled by an object",
+        "• Different instruments are used for different levels of precision",
+        "• Correct use of instruments avoids errors in measurement",
+        "• Mastery of distance measurement supports scientific and technical proficiency"
+      ],
+      "diagramDescriptions": [
+        "Chart of distance measuring instruments with accuracy levels",
+        "Diagram showing proper use of meter rule, vernier caliper, micrometer",
+        "Sample unit conversion examples",
+        "Nigerian context: Measurement in local industries",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics measurement of distance instruments site:youtube.com",
+      "quiz": [
+        {
+          "q": "Distance is:",
+          "opts": [
+            "The shortest path between two points",
+            "The total length of the path travelled by an object",
+            "A vector quantity with direction",
+            "Only measured in kilometers"
+          ],
+          "ans": 1,
+          "explanation": "Distance is the total length of the path travelled by an object; it is a scalar quantity."
+        },
+        {
+          "q": "Which instrument is used for measuring very small distances with high precision?",
+          "opts": [
+            "Meter rule",
+            "Tape measure",
+            "Vernier caliper",
+            "Micrometer screw gauge"
+          ],
+          "ans": 3,
+          "explanation": "Micrometer screw gauge is used for measuring very small distances with accuracy of ±0.01 mm."
+        },
+        {
+          "q": "The SI unit of distance is:",
+          "opts": [
+            "Kilometer",
+            "Centimeter",
+            "Meter",
+            "Millimeter"
+          ],
+          "ans": 2,
+          "explanation": "The SI unit of distance is the meter (m)."
+        },
+        {
+          "q": "To avoid parallax error when using a meter rule, you should:",
+          "opts": [
+            "Read from any angle",
+            "Read at eye level perpendicular to the scale",
+            "Use a magnifying glass",
+            "Measure twice"
+          ],
+          "ans": 1,
+          "explanation": "Reading at eye level perpendicular to the scale avoids parallax error."
+        },
+        {
+          "q": "In Nigerian context, which instrument is commonly used by tailors?",
+          "opts": [
+            "Micrometer screw gauge",
+            "Vernier caliper",
+            "Meter rule or tape measure",
+            "Surveying equipment"
+          ],
+          "ans": 2,
+          "explanation": "Tailors in Nigeria commonly use meter rules or tape measures for measuring fabric."
+        },
+        {
+          "q": "Which conversion is correct?",
+          "opts": [
+            "1 km = 100 m",
+            "1 m = 10 cm",
+            "1 cm = 10 mm",
+            "1 mm = 10 cm"
+          ],
+          "ans": 2,
+          "explanation": "1 cm = 10 mm is correct; 1 km = 1000 m, 1 m = 100 cm."
+        },
+        {
+          "q": "Understanding distance measurement is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports accuracy in construction, tailoring, engineering, and scientific work",
+            "Only for laboratory work",
+            "Only for measuring roads"
+          ],
+          "ans": 1,
+          "explanation": "Distance measurement skills ensure accuracy in various Nigerian industries and scientific work."
+        },
+        {
+          "q": "Which is NOT a scalar quantity?",
+          "opts": [
+            "Distance",
+            "Speed",
+            "Mass",
+            "Displacement"
+          ],
+          "ans": 3,
+          "explanation": "Displacement is a vector quantity (has magnitude and direction); distance, speed, and mass are scalars."
+        },
+        {
+          "q": "The accuracy of a vernier caliper is typically:",
+          "opts": [
+            "±1 cm",
+            "±0.1 cm",
+            "±0.01 cm",
+            "±0.001 cm"
+          ],
+          "ans": 2,
+          "explanation": "Vernier caliper has an accuracy of ±0.01 cm or ±0.1 mm."
+        },
+        {
+          "q": "A common misconception about distance is:",
+          "opts": [
+            "Distance is the total path length",
+            "Distance and displacement are the same",
+            "Distance is measured in meters",
+            "Distance is a scalar quantity"
+          ],
+          "ans": 1,
+          "explanation": "Distance and displacement are not the same; distance is scalar (path length), displacement is vector (shortest path with direction)."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w2_su2",
+      "title": "2.2 Concept of Direction",
+      "notes": [
+        "Concept of Direction",
+        "",
+        "Key Concepts:",
+        "1. What is direction?",
+        "   - Direction specifies the orientation or path of motion",
+        "   - Essential for describing vector quantities",
+        "   - Examples: north, south, east, west, up, down, left, right",
+        "",
+        "2. Methods of specifying direction:",
+        "   a) Cardinal points:",
+        "      - North (N), South (S), East (E), West (W)",
+        "      - Intermediate points: NE, SE, SW, NW",
+        "      - Used in navigation and maps",
+        "",
+        "   b) Compass bearing:",
+        "      - Measured in degrees from North (0° or 360°)",
+        "      - East = 90°, South = 180°, West = 270°",
+        "      - Example: A bearing of 045° means Northeast",
+        "",
+        "   c) Relative direction:",
+        "      - Left, right, forward, backward, up, down",
+        "      - Depends on the observer's position",
+        "",
+        "3. Using a compass to determine direction:",
+        "   - Hold compass level and steady",
+        "   - Wait for needle to settle (points to magnetic North)",
+        "   - Read the bearing from the compass scale",
+        "   - Account for magnetic declination if needed",
+        "",
+        "4. Importance of direction in physics:",
+        "   - Essential for describing vector quantities (displacement, velocity, force)",
+        "   - Critical for navigation, surveying, and engineering",
+        "   - Helps in understanding motion and forces",
+        "",
+        "Nigerian Context:",
+        "• Direction in Nigerian navigation:",
+        "  - Traditional navigation using landmarks and stars",
+        "  - Modern navigation using GPS and compass bearings",
+        "  - Road signs indicating direction in Nigerian cities",
+        "",
+        "• Local examples:",
+        "  - Giving directions in Lagos: 'Go straight, then turn left at the roundabout'",
+        "  - Surveying land in rural areas using compass bearings",
+        "  - Pilots using bearings for flight navigation",
+        "",
+        "Practical Activities:",
+        "1. Compass Practice:",
+        "   - Students use compasses to find cardinal directions",
+        "   - Practice taking bearings of objects in the classroom",
+        "   - Record bearings and compare with classmates",
+        "",
+        "2. Direction-Giving Exercise:",
+        "   - Students give directions from one point to another in school",
+        "   - Use cardinal points and compass bearings",
+        "   - Partners follow the directions to verify accuracy",
+        "",
+        "3. Map Reading:",
+        "   - Teacher provides a simple map of the school or community",
+        "   - Students practice identifying directions and bearings",
+        "   - Calculate bearings between different points on the map",
+        "",
+        "Common Misconceptions:",
+        "• 'Direction is only for maps': Direction is essential for all vector quantities in physics",
+        "• 'Compass always points to true North': Compass points to magnetic North, which differs from true North",
+        "• 'Left and right are absolute': Left and right are relative to the observer's position",
+        "",
+        "Nigerian Context:",
+        "• Understanding direction supports navigation, surveying, and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for geography, physics, and technology careers",
+        "",
+        "Conclusion:",
+        "• Direction specifies the orientation or path of motion",
+        "• Methods include cardinal points, compass bearings, and relative direction",
+        "• Compasses are used to determine direction accurately",
+        "• Mastery of direction concepts supports understanding of vector quantities and navigation"
+      ],
+      "diagramDescriptions": [
+        "Chart of cardinal and intermediate points with compass bearings",
+        "Diagram showing how to use a compass to find direction",
+        "Sample map with bearings between points",
+        "Nigerian context: Direction in local navigation",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics direction compass bearing site:youtube.com",
+      "quiz": [
+        {
+          "q": "Direction is:",
+          "opts": [
+            "The total path length travelled",
+            "The orientation or path of motion",
+            "A scalar quantity",
+            "Only used in geography"
+          ],
+          "ans": 1,
+          "explanation": "Direction specifies the orientation or path of motion; it is essential for vector quantities."
+        },
+        {
+          "q": "Which is a cardinal point?",
+          "opts": [
+            "Northeast",
+            "North",
+            "045°",
+            "Left"
+          ],
+          "ans": 1,
+          "explanation": "North is a cardinal point; Northeast is an intermediate point, 045° is a bearing, left is relative direction."
+        },
+        {
+          "q": "A compass bearing of 090° indicates:",
+          "opts": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "ans": 2,
+          "explanation": "A bearing of 090° indicates East; North = 0°, East = 90°, South = 180°, West = 270°."
+        },
+        {
+          "q": "To use a compass correctly, you should:",
+          "opts": [
+            "Hold it at any angle",
+            "Hold it level and wait for the needle to settle",
+            "Read it immediately",
+            "Ignore the needle"
+          ],
+          "ans": 1,
+          "explanation": "Holding the compass level and waiting for the needle to settle ensures accurate direction reading."
+        },
+        {
+          "q": "In Nigerian context, direction is important for:",
+          "opts": [
+            "Only map reading",
+            "Navigation, surveying, and giving directions in cities",
+            "Only physics exams",
+            "Only aviation"
+          ],
+          "ans": 1,
+          "explanation": "Direction is important for navigation, surveying, and giving directions in Nigerian cities and rural areas."
+        },
+        {
+          "q": "Which is a relative direction?",
+          "opts": [
+            "North",
+            "045°",
+            "Left",
+            "East"
+          ],
+          "ans": 2,
+          "explanation": "'Left' is a relative direction; it depends on the observer's position."
+        },
+        {
+          "q": "Understanding direction is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in geography",
+            "Supports navigation, surveying, and understanding vector quantities in physics",
+            "Only for giving directions",
+            "Only for using a compass"
+          ],
+          "ans": 1,
+          "explanation": "Direction concepts support navigation, surveying, and understanding vector quantities in physics."
+        },
+        {
+          "q": "Which is NOT a method of specifying direction?",
+          "opts": [
+            "Cardinal points",
+            "Compass bearing",
+            "Relative direction",
+            "Distance measurement"
+          ],
+          "ans": 3,
+          "explanation": "Distance measurement is not a method of specifying direction; cardinal points, compass bearing, and relative direction are."
+        },
+        {
+          "q": "A common misconception about direction is:",
+          "opts": [
+            "Direction is essential for vector quantities",
+            "Compass always points to true North",
+            "Cardinal points are used in navigation",
+            "Bearings are measured in degrees"
+          ],
+          "ans": 1,
+          "explanation": "Compass points to magnetic North, which differs from true North; magnetic declination must be accounted for."
+        },
+        {
+          "q": "When giving directions in Nigeria, you might use:",
+          "opts": [
+            "Only compass bearings",
+            "Cardinal points, landmarks, and relative directions",
+            "Only relative directions",
+            "Only map coordinates"
+          ],
+          "ans": 1,
+          "explanation": "In Nigeria, directions often use cardinal points, landmarks, and relative directions for clarity."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w2_su3",
+      "title": "2.3 Concept of Position and Position Coordinate",
+      "notes": [
+        "Concept of Position and Position Coordinate",
+        "",
+        "Key Concepts:",
+        "1. What is position?",
+        "   - Position specifies the location of an object in space",
+        "   - Defined relative to a reference point (origin)",
+        "   - Example: 'The school is 5 km North of the market'",
+        "",
+        "2. Position coordinates:",
+        "   a) One-dimensional (1D):",
+        "      - Position on a straight line",
+        "      - Example: x = +3 m (3 m to the right of origin)",
+        "",
+        "   b) Two-dimensional (2D):",
+        "      - Position on a plane using rectangular coordinates (x, y)",
+        "      - Example: (3 m, 4 m) means 3 m along x-axis, 4 m along y-axis",
+        "",
+        "   c) Three-dimensional (3D):",
+        "      - Position in space using (x, y, z) coordinates",
+        "      - Example: (3 m, 4 m, 5 m) in 3D space",
+        "",
+        "3. Rectangular coordinate system:",
+        "   - Origin (0, 0): reference point",
+        "   - x-axis: horizontal direction",
+        "   - y-axis: vertical direction",
+        "   - Positive direction: right/up, Negative: left/down",
+        "",
+        "4. How to locate position using coordinates:",
+        "   - Identify the origin (reference point)",
+        "   - Measure distance along x-axis",
+        "   - Measure distance along y-axis",
+        "   - Mark the point where the two measurements intersect",
+        "",
+        "5. Applications of position coordinates:",
+        "   - GPS navigation: locating positions on Earth",
+        "   - Surveying: mapping land boundaries",
+        "   - Engineering: designing structures",
+        "   - Physics: describing motion in space",
+        "",
+        "Nigerian Context:",
+        "• Position in Nigerian contexts:",
+        "  - GPS coordinates for locations in Nigeria",
+        "  - Surveying land for property boundaries",
+        "  - Navigation in cities using landmarks and coordinates",
+        "",
+        "• Local examples:",
+        "  - Giving position: 'The hospital is at coordinates 6.5°N, 3.4°E'",
+        "  - Using street addresses with coordinates in urban planning",
+        "  - Farmers using coordinates to mark farm boundaries",
+        "",
+        "Practical Activities:",
+        "1. Coordinate Practice:",
+        "   - Teacher draws a rectangular coordinate system on the board",
+        "   - Students plot points given coordinates (x, y)",
+        "   - Students find coordinates of given points",
+        "",
+        "2. Position Mapping:",
+        "   - Students create a simple map of the classroom",
+        "   - Assign coordinates to desks, door, board, etc.",
+        "   - Practice locating positions using coordinates",
+        "",
+        "3. Real-Life Application:",
+        "   - Students use GPS apps to find coordinates of school",
+        "   - Compare with map coordinates",
+        "   - Discuss how coordinates are used in navigation",
+        "",
+        "Common Misconceptions:",
+        "• 'Position is the same as distance': Position specifies location; distance is path length",
+        "• 'Coordinates are only for math': Coordinates are used in physics, engineering, navigation",
+        "• 'Origin is always at (0,0)': Origin can be chosen at any convenient reference point",
+        "",
+        "Nigerian Context:",
+        "• Understanding position coordinates supports navigation, surveying, and mapping in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for geography, physics, and technology careers",
+        "",
+        "Conclusion:",
+        "• Position specifies the location of an object relative to a reference point",
+        "• Coordinates (x, y, z) are used to describe position in 1D, 2D, or 3D",
+        "• Rectangular coordinate system helps locate positions accurately",
+        "• Mastery of position concepts supports understanding of motion and navigation"
+      ],
+      "diagramDescriptions": [
+        "Chart of 1D, 2D, and 3D coordinate systems",
+        "Diagram showing rectangular coordinate system with origin and axes",
+        "Sample position plotting exercises",
+        "Nigerian context: GPS coordinates and local mapping",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics position coordinates rectangular system site:youtube.com",
+      "quiz": [
+        {
+          "q": "Position is:",
+          "opts": [
+            "The total path length travelled",
+            "The location of an object relative to a reference point",
+            "A scalar quantity",
+            "Only used in mathematics"
+          ],
+          "ans": 1,
+          "explanation": "Position specifies the location of an object in space relative to a reference point (origin)."
+        },
+        {
+          "q": "In a 2D coordinate system, position is specified by:",
+          "opts": [
+            "One coordinate (x)",
+            "Two coordinates (x, y)",
+            "Three coordinates (x, y, z)",
+            "Only distance from origin"
+          ],
+          "ans": 1,
+          "explanation": "In 2D, position is specified by two coordinates (x, y) on a plane."
+        },
+        {
+          "q": "The origin in a coordinate system is:",
+          "opts": [
+            "Always at the center",
+            "The reference point (0, 0)",
+            "Only used in 3D",
+            "Never used in physics"
+          ],
+          "ans": 1,
+          "explanation": "The origin is the reference point (0, 0) from which positions are measured."
+        },
+        {
+          "q": "To locate a position (3 m, 4 m), you should:",
+          "opts": [
+            "Move 3 m along y-axis, then 4 m along x-axis",
+            "Move 3 m along x-axis, then 4 m along y-axis",
+            "Move 7 m in any direction",
+            "Move 3 m in any direction"
+          ],
+          "ans": 1,
+          "explanation": "To locate (3 m, 4 m), move 3 m along x-axis, then 4 m along y-axis."
+        },
+        {
+          "q": "In Nigerian context, position coordinates are used for:",
+          "opts": [
+            "Only mathematics",
+            "GPS navigation, land surveying, and urban planning",
+            "Only physics exams",
+            "Only giving directions"
+          ],
+          "ans": 1,
+          "explanation": "Position coordinates are used in GPS navigation, land surveying, and urban planning in Nigeria."
+        },
+        {
+          "q": "Which is a 1D position?",
+          "opts": [
+            "(3 m, 4 m)",
+            "x = +5 m",
+            "(3 m, 4 m, 5 m)",
+            "5 m North"
+          ],
+          "ans": 1,
+          "explanation": "x = +5 m is a 1D position on a straight line; (3,4) is 2D, (3,4,5) is 3D."
+        },
+        {
+          "q": "Understanding position coordinates is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in math",
+            "Supports navigation, surveying, mapping, and understanding motion in physics",
+            "Only for using GPS",
+            "Only for drawing graphs"
+          ],
+          "ans": 1,
+          "explanation": "Position coordinates support navigation, surveying, mapping, and understanding motion in physics."
+        },
+        {
+          "q": "Which is NOT a coordinate system?",
+          "opts": [
+            "Rectangular",
+            "Polar",
+            "Spherical",
+            "Distance"
+          ],
+          "ans": 3,
+          "explanation": "'Distance' is not a coordinate system; rectangular, polar, and spherical are coordinate systems."
+        },
+        {
+          "q": "A common misconception about position is:",
+          "opts": [
+            "Position is location relative to origin",
+            "Position is the same as distance",
+            "Coordinates describe position",
+            "Origin is a reference point"
+          ],
+          "ans": 1,
+          "explanation": "Position is not the same as distance; position specifies location, distance is path length."
+        },
+        {
+          "q": "When using coordinates to locate position, you should:",
+          "opts": [
+            "Ignore the origin",
+            "Identify origin, measure along axes, and mark intersection",
+            "Only measure distance",
+            "Only use one axis"
+          ],
+          "ans": 1,
+          "explanation": "To locate position using coordinates, identify origin, measure along axes, and mark the intersection point."
+        }
+      ]
+    }
+  ]
+}

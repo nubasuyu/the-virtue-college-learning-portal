@@ -815,4 +815,16 @@
       ]
     }
   ]
+}         "opts": [
+            "Only foreign cultures",
+            "Community, respect, wisdom, and consequences of actions",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian folktales often teach cultural values like community, respect, wisdom, and consequences of actions."
+        }
+      ]
+    }
+  ]
 }

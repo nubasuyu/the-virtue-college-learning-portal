@@ -1,0 +1,426 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Motion: Cause and Effects of Motion, Types of Force, Friction",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w5_su1",
+      "title": "5.1 Cause and Effects of Motion; Types of Force",
+      "notes": [
+        "Cause and Effects of Motion; Types of Force",
+        "",
+        "Key Concepts:",
+        "1. What causes motion?",
+        "   - Motion is caused by force",
+        "   - Force is a push or pull that changes or tends to change the state of rest or uniform motion of a body",
+        "   - Newton's First Law: A body remains at rest or in uniform motion unless acted upon by an external force",
+        "",
+        "2. Effects of force on a body:",
+        "   a) It can set a stationary body in motion",
+        "   b) It can stop a moving body",
+        "   c) It can change the speed of a moving body",
+        "   d) It can change the direction of a moving body",
+        "   e) It can change the shape or size of a body",
+        "",
+        "3. Types of force:",
+        "   a) Contact force:",
+        "      - Forces that act when objects are in physical contact",
+        "      - Examples: friction, tension, normal reaction, applied force, air resistance",
+        "",
+        "   b) Force field (non-contact force):",
+        "      - Forces that act at a distance without physical contact",
+        "      - Examples: gravitational force, magnetic force, electrostatic force",
+        "",
+        "4. Contact force examples:",
+        "   - Friction: opposes motion between surfaces in contact",
+        "   - Tension: force in a stretched string or rope",
+        "   - Normal reaction: perpendicular force exerted by a surface",
+        "   - Applied force: push or pull applied by a person or machine",
+        "",
+        "5. Force field examples:",
+        "   - Gravitational force: attraction between masses (e.g., Earth pulling objects)",
+        "   - Magnetic force: attraction/repulsion between magnets or magnetic materials",
+        "   - Electrostatic force: attraction/repulsion between electric charges",
+        "",
+        "Nigerian Context:",
+        "• Force and motion in Nigerian daily life:",
+        "  - Pushing a danfo bus to start it (contact force)",
+        "  - Magnetic door catches in Nigerian homes (magnetic force)",
+        "  - Objects falling due to gravity (gravitational force)",
+        "",
+        "• Local examples:",
+        "  - Pulling a water bucket from a well (tension force)",
+        "  - Friction between tyres and Nigerian roads for vehicle control",
+        "  - Gravitational force keeping satellites in orbit for Nigerian communication",
+        "",
+        "Practical Activities:",
+        "1. Force Demonstration:",
+        "   - Teacher uses spring balance to demonstrate contact force",
+        "   - Students push/pull objects and observe effects",
+        "   - Discuss real-life Nigerian examples of forces",
+        "",
+        "2. Magnetic Force Experiment:",
+        "   - Teacher uses magnets to show attraction and repulsion",
+        "   - Students identify magnetic and non-magnetic materials",
+        "   - Discuss applications in Nigerian industries",
+        "",
+        "3. Real-Life Application:",
+        "   - Students identify forces acting on everyday objects",
+        "   - Example: 'What forces act on a book resting on a table?'",
+        "   - Discuss how forces affect motion in Nigerian transportation",
+        "",
+        "Common Misconceptions:",
+        "• 'Force is needed to keep an object moving': Force is needed to change motion, not maintain it (Newton's First Law)",
+        "• 'All forces require contact': Force fields act at a distance without contact",
+        "• 'Heavier objects fall faster': All objects fall at same rate in vacuum (ignoring air resistance)",
+        "",
+        "Nigerian Context:",
+        "• Understanding forces supports engineering and safety awareness in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and technology careers",
+        "",
+        "Conclusion:",
+        "• Force is a push or pull that causes or changes motion",
+        "• Forces can be contact (friction, tension) or field (gravitational, magnetic)",
+        "• Effects of force include starting, stopping, changing speed/direction, or deforming objects",
+        "• Mastery of force concepts supports understanding of motion and engineering applications"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing contact and field forces with examples",
+        "Diagram showing effects of force on a body",
+        "Sample problems identifying types of forces",
+        "Nigerian context: Local applications of forces",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics cause effects motion types of force site:youtube.com",
+      "quiz": [
+        {
+          "q": "Force is defined as:",
+          "opts": [
+            "The rate of change of velocity",
+            "A push or pull that changes or tends to change the state of rest or motion",
+            "The product of mass and acceleration",
+            "Energy transferred per unit time"
+          ],
+          "ans": 1,
+          "explanation": "Force is a push or pull that changes or tends to change the state of rest or uniform motion of a body."
+        },
+        {
+          "q": "Which is an effect of force on a body?",
+          "opts": [
+            "It can change the colour of a body",
+            "It can change the shape or size of a body",
+            "It can change the temperature of a body",
+            "It can change the mass of a body"
+          ],
+          "ans": 1,
+          "explanation": "Force can change the shape or size of a body (deformation), among other effects."
+        },
+        {
+          "q": "Contact force is:",
+          "opts": [
+            "Force that acts at a distance",
+            "Force that requires physical contact between objects",
+            "Force due to gravity only",
+            "Force that acts in vacuum only"
+          ],
+          "ans": 1,
+          "explanation": "Contact force acts when objects are in physical contact (e.g., friction, tension)."
+        },
+        {
+          "q": "Which is an example of a force field?",
+          "opts": [
+            "Friction",
+            "Tension",
+            "Gravitational force",
+            "Normal reaction"
+          ],
+          "ans": 2,
+          "explanation": "Gravitational force is a force field (non-contact force); friction, tension, and normal reaction are contact forces."
+        },
+        {
+          "q": "In Nigerian context, which is an example of contact force?",
+          "opts": [
+            "Earth pulling a mango downwards",
+            "Friction between danfo bus tyres and road",
+            "Magnet attracting iron filings",
+            "Electrostatic force between charged objects"
+          ],
+          "ans": 1,
+          "explanation": "Friction between tyres and road is a contact force; the others are field forces."
+        },
+        {
+          "q": "Newton's First Law states that:",
+          "opts": [
+            "Force equals mass times acceleration",
+            "A body remains at rest or in uniform motion unless acted upon by an external force",
+            "For every action, there is an equal and opposite reaction",
+            "Force is proportional to velocity"
+          ],
+          "ans": 1,
+          "explanation": "Newton's First Law (Law of Inertia) states that a body remains at rest or in uniform motion unless acted upon by an external force."
+        },
+        {
+          "q": "Understanding forces is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports engineering, safety awareness, and problem-solving in daily life",
+            "Only for calculating weight",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Force concepts support engineering, safety awareness, and problem-solving in Nigerian transportation, construction, and daily life."
+        },
+        {
+          "q": "Which is NOT a contact force?",
+          "opts": [
+            "Friction",
+            "Tension",
+            "Magnetic force",
+            "Normal reaction"
+          ],
+          "ans": 2,
+          "explanation": "Magnetic force is a field force (non-contact); friction, tension, and normal reaction are contact forces."
+        },
+        {
+          "q": "A common misconception about force is:",
+          "opts": [
+            "Force is a push or pull",
+            "Force is needed to keep an object moving",
+            "Force can change direction of motion",
+            "Force is measured in Newtons"
+          ],
+          "ans": 1,
+          "explanation": "Force is not needed to keep an object moving at constant velocity; it is needed to change motion (Newton's First Law)."
+        },
+        {
+          "q": "When a book rests on a table, the force exerted by the table on the book is:",
+          "opts": [
+            "Gravitational force",
+            "Frictional force",
+            "Normal reaction force",
+            "Tension force"
+          ],
+          "ans": 2,
+          "explanation": "The table exerts a normal reaction force perpendicular to its surface, balancing the book's weight."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w5_su2",
+      "title": "5.2 Friction (Solid Friction)",
+      "notes": [
+        "Friction (Solid Friction)",
+        "",
+        "Key Concepts:",
+        "1. What is friction?",
+        "   - Friction is a force that opposes relative motion between two surfaces in contact",
+        "   - It acts parallel to the surfaces and opposite to the direction of motion or intended motion",
+        "   - Caused by irregularities on surfaces interlocking",
+        "",
+        "2. Types of friction:",
+        "   a) Static friction:",
+        "      - Acts when objects are at rest relative to each other",
+        "      - Prevents motion from starting",
+        "      - Example: Force needed to start pushing a heavy box",
+        "",
+        "   b) Dynamic (kinetic) friction:",
+        "      - Acts when objects are in relative motion",
+        "      - Opposes ongoing motion",
+        "      - Example: Force slowing down a sliding box",
+        "",
+        "3. Coefficient of limiting friction:",
+        "   - Ratio of limiting friction to normal reaction: μ = F/R",
+        "   - Limiting friction: maximum static friction just before motion starts",
+        "   - Depends on nature of surfaces, not area of contact",
+        "   - Dimensionless quantity (no unit)",
+        "",
+        "4. Advantages of friction:",
+        "   - Enables walking, running, and vehicle motion (tyres grip road)",
+        "   - Allows writing with pen/pencil on paper",
+        "   - Enables braking systems in vehicles",
+        "   - Holds nails, screws, and knots in place",
+        "",
+        "5. Disadvantages of friction:",
+        "   - Causes wear and tear of machine parts",
+        "   - Produces unwanted heat, wasting energy",
+        "   - Reduces efficiency of machines",
+        "   - Makes movement difficult, requiring more force",
+        "",
+        "6. Methods of reducing friction:",
+        "   - Lubrication: using oil, grease, or graphite",
+        "   - Smoothing surfaces: polishing or grinding",
+        "   - Using ball bearings or rollers",
+        "   - Streamlining: reducing air/water resistance",
+        "   - Using materials with low coefficient of friction",
+        "",
+        "Nigerian Context:",
+        "• Friction in Nigerian applications:",
+        "  - Vehicle tyres on Nigerian roads: friction enables motion and braking",
+        "  - Traditional grinding stones: friction grinds grains",
+        "  - Door hinges: lubrication reduces friction for smooth operation",
+        "",
+        "• Local examples:",
+        "  - Friction between okada tyres and road for control",
+        "  - Using palm oil to lubricate farm tools",
+        "  - Wear and tear of machinery in Nigerian industries due to friction",
+        "",
+        "Practical Activities:",
+        "1. Friction Measurement:",
+        "   - Teacher uses spring balance to pull a block on different surfaces",
+        "   - Students measure force needed to start and maintain motion",
+        "   - Compare static and dynamic friction",
+        "",
+        "2. Coefficient Calculation:",
+        "   - Students measure normal reaction (weight) and limiting friction",
+        "   - Calculate coefficient: μ = F/R",
+        "   - Compare coefficients for different surface pairs",
+        "",
+        "3. Real-Life Application:",
+        "   - Students discuss friction in Nigerian transportation",
+        "   - Identify advantages (tyre grip) and disadvantages (fuel waste)",
+        "   - Propose methods to reduce friction in local contexts",
+        "",
+        "Common Misconceptions:",
+        "• 'Friction is always bad': Friction has essential advantages (walking, braking)",
+        "• 'Friction depends on area of contact': For solid friction, it depends on nature of surfaces and normal reaction, not area",
+        "• 'Smooth surfaces have no friction': Even smooth surfaces have friction at microscopic level",
+        "",
+        "Nigerian Context:",
+        "• Understanding friction supports vehicle maintenance and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for mechanics, automotive, and engineering careers",
+        "",
+        "Conclusion:",
+        "• Friction opposes relative motion between surfaces in contact",
+        "• Types: static (prevents motion) and dynamic (opposes motion)",
+        "• Coefficient of limiting friction: μ = F/R",
+        "• Friction has advantages (motion, braking) and disadvantages (wear, heat)",
+        "• Methods to reduce friction: lubrication, smoothing, bearings, streamlining"
+      ],
+      "diagramDescriptions": [
+        "Chart of friction types with examples",
+        "Diagram showing coefficient of friction calculation",
+        "Sample problems on friction and coefficient",
+        "Nigerian context: Friction in transportation and industry",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics friction solid friction coefficient site:youtube.com",
+      "quiz": [
+        {
+          "q": "Friction is a force that:",
+          "opts": [
+            "Causes motion",
+            "Opposes relative motion between surfaces in contact",
+            "Acts perpendicular to surfaces",
+            "Is independent of surface nature"
+          ],
+          "ans": 1,
+          "explanation": "Friction opposes relative motion between two surfaces in contact and acts parallel to the surfaces."
+        },
+        {
+          "q": "Static friction acts when:",
+          "opts": [
+            "Objects are in relative motion",
+            "Objects are at rest relative to each other",
+            "Objects are in free fall",
+            "Objects are in vacuum"
+          ],
+          "ans": 1,
+          "explanation": "Static friction acts when objects are at rest relative to each other, preventing motion from starting."
+        },
+        {
+          "q": "The coefficient of limiting friction is given by:",
+          "opts": [
+            "μ = F × R",
+            "μ = F/R",
+            "μ = R/F",
+            "μ = F + R"
+          ],
+          "ans": 1,
+          "explanation": "Coefficient of limiting friction μ = limiting friction (F) / normal reaction (R)."
+        },
+        {
+          "q": "An advantage of friction is:",
+          "opts": [
+            "It causes wear and tear",
+            "It enables walking and vehicle motion",
+            "It produces unwanted heat",
+            "It reduces machine efficiency"
+          ],
+          "ans": 1,
+          "explanation": "Friction enables walking, running, and vehicle motion by providing grip between surfaces."
+        },
+        {
+          "q": "In Nigerian context, friction is important for:",
+          "opts": [
+            "Only theoretical physics",
+            "Vehicle control, braking, and traditional grinding",
+            "Only reducing fuel consumption",
+            "Only increasing speed"
+          ],
+          "ans": 1,
+          "explanation": "Friction is important for vehicle control (tyre grip), braking, and traditional grinding in Nigeria."
+        },
+        {
+          "q": "A method of reducing friction is:",
+          "opts": [
+            "Increasing surface roughness",
+            "Using lubricants like oil or grease",
+            "Increasing normal reaction",
+            "Using larger contact area"
+          ],
+          "ans": 1,
+          "explanation": "Lubrication with oil, grease, or graphite reduces friction between surfaces."
+        },
+        {
+          "q": "Dynamic friction is:",
+          "opts": [
+            "Friction when objects are at rest",
+            "Friction when objects are in relative motion",
+            "Friction in vacuum",
+            "Friction independent of motion"
+          ],
+          "ans": 1,
+          "explanation": "Dynamic (kinetic) friction acts when objects are in relative motion, opposing the ongoing motion."
+        },
+        {
+          "q": "Understanding friction is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports vehicle maintenance, engineering, and daily problem-solving",
+            "Only for calculating coefficients",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Friction concepts support vehicle maintenance, engineering, and problem-solving in Nigerian transportation and industry."
+        },
+        {
+          "q": "A common misconception about friction is:",
+          "opts": [
+            "Friction opposes motion",
+            "Friction depends on area of contact",
+            "Friction can be reduced by lubrication",
+            "Friction has advantages and disadvantages"
+          ],
+          "ans": 1,
+          "explanation": "For solid friction, it depends on nature of surfaces and normal reaction, not area of contact."
+        },
+        {
+          "q": "The coefficient of friction is:",
+          "opts": [
+            "Measured in Newtons",
+            "A dimensionless quantity (no unit)",
+            "Measured in meters",
+            "Measured in seconds"
+          ],
+          "ans": 1,
+          "explanation": "Coefficient of friction is a ratio of two forces (F/R), so it is dimensionless with no unit."
+        }
+      ]
+    }
+  ]
+}

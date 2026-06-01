@@ -1,0 +1,68 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Light Waves: Refraction, Total Internal Reflection & Critical Angle",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w9_su1",
+      "title": "9.1 Refraction, Snell's Law, Real & Apparent Depth, and Total Internal Reflection",
+      "notes": [
+        "Refraction, Snell's Law, and Total Internal Reflection",
+        "",
+        "Key Concepts:",
+        "1. Refraction of Light:",
+        "   - Bending of light when it passes from one medium to another of different optical density",
+        "   - Caused by change in speed of light in different media",
+        "   - Light bends toward normal when entering denser medium, away from normal when entering rarer medium",
+        "",
+        "2. Laws of Refraction:",
+        "   a) Incident ray, refracted ray, and normal lie in the same plane",
+        "   b) Snell's Law: sin i / sin r = n (constant for a given pair of media)",
+        "      - n = refractive index = speed in air / speed in medium",
+        "",
+        "3. Real and Apparent Depth:",
+        "   - Real depth: actual depth of object in medium",
+        "   - Apparent depth: perceived depth due to refraction",
+        "   - Formula: n = real depth / apparent depth",
+        "",
+        "4. Total Internal Reflection (TIR):",
+        "   - Complete reflection of light back into denser medium when angle of incidence exceeds critical angle",
+        "   - Conditions: light travels from denser to rarer medium, angle of incidence > critical angle",
+        "   - Critical angle: angle of incidence where angle of refraction = 90°",
+        "",
+        "5. Applications in Nigeria:",
+        "   - Mirage formation on hot Nigerian highways",
+        "   - Optical fiber communication in Nigerian telecom networks",
+        "   - Fish visibility in rivers and ponds",
+        "",
+        "Conclusion:",
+        "   - Refraction bends light due to speed change; governed by Snell's Law",
+        "   - Real/apparent depth relates to refractive index",
+        "   - TIR occurs when incidence > critical angle in denser-to-rarer transition",
+        "   - Mastery supports optics, telecommunications, and atmospheric physics"
+      ],
+      "diagramDescriptions": [
+        "Chart of refraction laws and Snell's Law formula",
+        "Diagram of real vs apparent depth in water",
+        "TIR diagram showing critical angle and reflection",
+        "Nigerian context: Highway mirage and optical fiber networks",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics refraction Snell's law total internal reflection site:youtube.com",
+      "quiz": [
+        {"q": "Refraction occurs because:", "opts": ["Light changes color", "Light changes speed in different media", "Light reflects completely", "Light stops moving"], "ans": 1, "explanation": "Refraction is caused by a change in light's speed when moving between media of different optical densities."},
+        {"q": "Snell's Law is expressed as:", "opts": ["sin i / sin r = n", "sin r / sin i = n", "i + r = 90", "i = r"], "ans": 0, "explanation": "Snell's Law: sin i / sin r = refractive index (n) for a given pair of media."},
+        {"q": "When light enters a denser medium, it:", "opts": ["Bends away from normal", "Bends toward normal", "Does not bend", "Reflects completely"], "ans": 1, "explanation": "Light bends toward the normal when entering a denser medium due to decreased speed."},
+        {"q": "The relationship between real depth, apparent depth, and refractive index is:", "opts": ["n = apparent/real", "n = real/apparent", "n = real × apparent", "n = real - apparent"], "ans": 1, "explanation": "Refractive index n = real depth / apparent depth."},
+        {"q": "Total internal reflection occurs when:", "opts": ["Light travels from rarer to denser", "Light travels from denser to rarer and i > critical angle", "Light hits a mirror", "Light passes through a prism"], "ans": 1, "explanation": "TIR requires light moving from denser to rarer medium with angle of incidence greater than critical angle."},
+        {"q": "In Nigerian context, mirages on highways are caused by:", "opts": ["Reflection", "Refraction and TIR in hot air layers", "Diffraction", "Interference"], "ans": 1, "explanation": "Highway mirages result from refraction and total internal reflection in layers of hot, less dense air near the road."},
+        {"q": "Critical angle is defined as the angle of incidence where:", "opts": ["Angle of refraction = 0°", "Angle of refraction = 90°", "Light reflects completely", "Light stops"], "ans": 1, "explanation": "Critical angle is the incidence angle at which refraction angle becomes 90°."},
+        {"q": "A common misconception about refraction is:", "opts": ["Light bends due to speed change", "Light changes wavelength only", "Refraction only occurs in water", "Light always bends away from normal"], "ans": 1, "explanation": "Refraction is caused by speed change, not just wavelength change, and occurs in all transparent media."},
+        {"q": "Optical fibers in Nigerian telecom rely on:", "opts": ["Reflection", "Total internal reflection", "Diffraction", "Dispersion"], "ans": 1, "explanation": "Optical fibers transmit data using total internal reflection within the glass core."},
+        {"q": "To calculate apparent depth, you should:", "opts": ["Multiply real depth by n", "Divide real depth by n", "Add real depth to n", "Subtract n from real depth"], "ans": 1, "explanation": "Apparent depth = real depth / refractive index (n)."}
+      ]
+    }
+  ]
+}

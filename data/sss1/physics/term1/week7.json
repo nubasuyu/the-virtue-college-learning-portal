@@ -1,0 +1,435 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Rectilinear Acceleration",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w7_su1",
+      "title": "7.1 Concept of Acceleration",
+      "notes": [
+        "Concept of Acceleration",
+        "",
+        "Key Concepts:",
+        "1. What is acceleration?",
+        "   - Acceleration is the rate of change of velocity with time",
+        "   - It is a vector quantity (has magnitude and direction)",
+        "   - Formula: Acceleration = Change in velocity / Time taken",
+        "   - SI unit: meter per second squared (m/s²)",
+        "",
+        "2. Types of acceleration:",
+        "   a) Positive acceleration:",
+        "      - Velocity increases with time",
+        "      - Example: A car speeding up from 0 to 60 km/h",
+        "",
+        "   b) Negative acceleration (deceleration/retardation):",
+        "      - Velocity decreases with time",
+        "      - Example: A car slowing down to stop at a traffic light",
+        "",
+        "   c) Zero acceleration:",
+        "      - Velocity is constant (uniform velocity)",
+        "      - Example: A car moving at steady 50 km/h",
+        "",
+        "3. Uniform and non-uniform acceleration:",
+        "   a) Uniform acceleration:",
+        "      - Equal changes in velocity in equal time intervals",
+        "      - Example: An object falling freely under gravity (ignoring air resistance)",
+        "",
+        "   b) Non-uniform acceleration:",
+        "      - Unequal changes in velocity in equal time intervals",
+        "      - Example: A car accelerating in heavy traffic",
+        "",
+        "4. Calculating acceleration:",
+        "   - Acceleration = (Final velocity - Initial velocity) / Time",
+        "   - a = (v - u) / t",
+        "   - Example: A bicycle accelerates from 2 m/s to 10 m/s in 4 s",
+        "     a = (10 - 2) m/s / 4 s = 2 m/s²",
+        "",
+        "5. Acceleration due to gravity (g):",
+        "   - Acceleration of objects falling freely near Earth's surface",
+        "   - Value: approximately 9.8 m/s² (often approximated as 10 m/s²)",
+        "   - Direction: downwards towards the center of the Earth",
+        "",
+        "Nigerian Context:",
+        "• Acceleration in Nigerian transportation:",
+        "  - Danfo buses in Lagos: rapid acceleration and deceleration in traffic",
+        "  - Trains on Lagos-Ibadan rail: uniform acceleration when starting",
+        "  - Motorcycles (okada): quick acceleration for overtaking",
+        "",
+        "• Local examples:",
+        "  - Calculating acceleration of a car from rest to highway speed",
+        "  - Deceleration of a bus approaching a bus stop",
+        "  - Free fall of objects: mango falling from a tree",
+        "",
+        "Practical Activities:",
+        "1. Acceleration Measurement Practice:",
+        "   - Teacher marks a straight track (e.g., 20 m) in the school compound",
+        "   - Students roll a ball down an inclined plane and time its motion",
+        "   - Calculate acceleration using: a = (v - u) / t",
+        "",
+        "2. Uniform vs Non-uniform Acceleration:",
+        "   - Students observe a toy car accelerating uniformly down a smooth slope",
+        "   - Compare with a car accelerating on a rough surface",
+        "   - Record observations and discuss differences",
+        "",
+        "3. Real-Life Application:",
+        "   - Students calculate acceleration of a vehicle using speed changes and time",
+        "   - Example: 'If a bus increases speed from 10 m/s to 30 m/s in 5 s, what is its acceleration?'",
+        "",
+        "Common Misconceptions:",
+        "• 'Acceleration means speeding up only': Acceleration can be positive (speeding up) or negative (slowing down)",
+        "• 'Zero acceleration means no motion': Zero acceleration means constant velocity, not necessarily rest",
+        "• 'Acceleration and velocity are the same': Acceleration is the rate of change of velocity, not velocity itself",
+        "",
+        "Nigerian Context:",
+        "• Understanding acceleration supports road safety and vehicle dynamics awareness in Nigeria",
+        "• Practice with local transportation examples enhances relevance and retention",
+        "• These skills are foundational for mechanics, engineering, and transportation careers",
+        "",
+        "Conclusion:",
+        "• Acceleration is the rate of change of velocity with time",
+        "• Types include positive, negative (deceleration), and zero acceleration",
+        "• Uniform acceleration has equal velocity changes in equal time intervals",
+        "• Mastery of acceleration concepts supports understanding of motion and vehicle dynamics"
+      ],
+      "diagramDescriptions": [
+        "Chart of acceleration types with examples",
+        "Diagram showing calculation of acceleration from velocity-time data",
+        "Sample acceleration problems with solutions",
+        "Nigerian context: Transportation acceleration examples",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics acceleration concept calculation site:youtube.com",
+      "quiz": [
+        {
+          "q": "Acceleration is:",
+          "opts": [
+            "The rate of change of distance with time",
+            "The rate of change of velocity with time",
+            "A scalar quantity",
+            "Always positive"
+          ],
+          "ans": 1,
+          "explanation": "Acceleration is the rate of change of velocity with time; it is a vector quantity."
+        },
+        {
+          "q": "The SI unit of acceleration is:",
+          "opts": [
+            "Meter per second",
+            "Meter per second squared",
+            "Kilometer per hour",
+            "Newton"
+          ],
+          "ans": 1,
+          "explanation": "The SI unit of acceleration is meter per second squared (m/s²)."
+        },
+        {
+          "q": "Negative acceleration is also called:",
+          "opts": [
+            "Speed",
+            "Velocity",
+            "Deceleration or retardation",
+            "Displacement"
+          ],
+          "ans": 2,
+          "explanation": "Negative acceleration, where velocity decreases with time, is called deceleration or retardation."
+        },
+        {
+          "q": "If a car accelerates from 5 m/s to 25 m/s in 10 s, its acceleration is:",
+          "opts": [
+            "2 m/s²",
+            "3 m/s²",
+            "20 m/s²",
+            "30 m/s²"
+          ],
+          "ans": 0,
+          "explanation": "Acceleration = (v - u) / t = (25 - 5) m/s / 10 s = 20 / 10 = 2 m/s²."
+        },
+        {
+          "q": "In Nigerian context, a danfo bus rapidly stopping at a bus stop demonstrates:",
+          "opts": [
+            "Positive acceleration",
+            "Negative acceleration (deceleration)",
+            "Zero acceleration",
+            "Uniform velocity"
+          ],
+          "ans": 1,
+          "explanation": "Rapidly stopping means velocity is decreasing; this is negative acceleration or deceleration."
+        },
+        {
+          "q": "Uniform acceleration means:",
+          "opts": [
+            "No change in velocity",
+            "Equal changes in velocity in equal time intervals",
+            "Changing acceleration",
+            "Only in a straight line"
+          ],
+          "ans": 1,
+          "explanation": "Uniform acceleration means equal changes in velocity occur in equal time intervals."
+        },
+        {
+          "q": "The acceleration due to gravity near Earth's surface is approximately:",
+          "opts": [
+            "5 m/s²",
+            "9.8 m/s²",
+            "15 m/s²",
+            "20 m/s²"
+          ],
+          "ans": 1,
+          "explanation": "The acceleration due to gravity (g) is approximately 9.8 m/s², often approximated as 10 m/s²."
+        },
+        {
+          "q": "Understanding acceleration is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports road safety awareness and understanding of vehicle dynamics",
+            "Only for driving",
+            "Only for calculating speed"
+          ],
+          "ans": 1,
+          "explanation": "Acceleration concepts support road safety awareness and understanding of vehicle dynamics in Nigerian transportation."
+        },
+        {
+          "q": "Which is NOT a type of acceleration?",
+          "opts": [
+            "Positive acceleration",
+            "Negative acceleration",
+            "Zero acceleration",
+            "Scalar acceleration"
+          ],
+          "ans": 3,
+          "explanation": "'Scalar acceleration' is not a type; acceleration is a vector quantity with positive, negative, or zero values."
+        },
+        {
+          "q": "A common misconception about acceleration is:",
+          "opts": [
+            "Acceleration is the rate of change of velocity",
+            "Acceleration means speeding up only",
+            "Negative acceleration means slowing down",
+            "Zero acceleration means constant velocity"
+          ],
+          "ans": 1,
+          "explanation": "Acceleration can be positive (speeding up) or negative (slowing down); it is not only speeding up."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w7_su2",
+      "title": "7.2 Velocity-Time Graph and Equations of Motion",
+      "notes": [
+        "Velocity-Time Graph and Equations of Motion",
+        "",
+        "Key Concepts:",
+        "1. What is a velocity-time graph?",
+        "   - A graph showing how velocity changes with time",
+        "   - Velocity is plotted on the y-axis, time on the x-axis",
+        "   - The slope (gradient) represents acceleration",
+        "   - The area under the graph represents displacement",
+        "",
+        "2. Interpreting velocity-time graphs:",
+        "   a) Horizontal line:",
+        "      - Object moving at uniform velocity (zero acceleration)",
+        "      - Example: A car moving at constant 60 km/h",
+        "",
+        "   b) Straight line with positive slope:",
+        "      - Object moving with uniform positive acceleration",
+        "      - Steeper slope = higher acceleration",
+        "",
+        "   c) Straight line with negative slope:",
+        "      - Object moving with uniform negative acceleration (deceleration)",
+        "      - Example: A car braking to a stop",
+        "",
+        "   d) Curved line:",
+        "      - Object moving with non-uniform acceleration",
+        "      - Changing slope = changing acceleration",
+        "",
+        "3. Calculating acceleration from a velocity-time graph:",
+        "   - Acceleration = Slope of the graph = Change in velocity / Change in time",
+        "   - a = (v₂ - v₁) / (t₂ - t₁)",
+        "   - Example: If velocity changes from 10 m/s to 30 m/s in 5 s",
+        "     a = (30 - 10) m/s / 5 s = 4 m/s²",
+        "",
+        "4. Equations of uniformly accelerated motion:",
+        "   a) First equation: v = u + at",
+        "      - Relates final velocity (v), initial velocity (u), acceleration (a), and time (t)",
+        "",
+        "   b) Second equation: s = ut + ½at²",
+        "      - Relates displacement (s), initial velocity (u), acceleration (a), and time (t)",
+        "",
+        "   c) Third equation: v² = u² + 2as",
+        "      - Relates final velocity (v), initial velocity (u), acceleration (a), and displacement (s)",
+        "",
+        "5. Solving problems using equations of motion:",
+        "   - Identify known quantities: u, v, a, t, s",
+        "   - Choose the appropriate equation based on known and unknown quantities",
+        "   - Substitute values and solve for the unknown",
+        "   - Example: A car starts from rest (u = 0) and accelerates at 2 m/s² for 5 s",
+        "     Find final velocity: v = u + at = 0 + (2)(5) = 10 m/s",
+        "",
+        "Nigerian Context:",
+        "• Velocity-time graphs in Nigerian applications:",
+        "  - FRSC uses velocity-time data to analyze vehicle motion in accident reconstruction",
+        "  - Train operators on Lagos-Ibadan rail use velocity-time graphs for schedule optimization",
+        "  - Athletes use velocity-time analysis to improve sprint performance",
+        "",
+        "• Local examples:",
+        "  - Analyzing the motion of a motorcycle accelerating from a traffic light",
+        "  - Calculating stopping distance of a bus decelerating at a bus stop",
+        "  - Free fall of objects: calculating time for a mango to fall from a tree",
+        "",
+        "Practical Activities:",
+        "1. Graph Plotting Practice:",
+        "   - Teacher provides data: time (s) and velocity (m/s) for a moving object",
+        "   - Students plot velocity-time graph on graph paper",
+        "   - Calculate acceleration from the slope of the graph",
+        "",
+        "2. Equation Practice:",
+        "   - Teacher provides problems using equations of motion",
+        "   - Students identify known quantities and choose appropriate equation",
+        "   - Solve for unknown quantities and verify answers",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze motion of a vehicle using given data",
+        "   - Example: 'A car accelerates from 10 m/s to 30 m/s in 5 s. Calculate acceleration and distance covered.'",
+        "",
+        "Common Misconceptions:",
+        "• 'Area under velocity-time graph is speed': Area represents displacement, not speed",
+        "• 'Slope of velocity-time graph is velocity': Slope represents acceleration, not velocity",
+        "• 'Equations of motion work for any motion': Equations apply only to uniformly accelerated motion",
+        "",
+        "Nigerian Context:",
+        "• Understanding velocity-time graphs supports accident analysis and transportation planning in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and transportation careers",
+        "",
+        "Conclusion:",
+        "• Velocity-time graphs show how velocity changes with time; slope represents acceleration",
+        "• Area under velocity-time graph represents displacement",
+        "• Three equations of motion relate u, v, a, t, and s for uniformly accelerated motion",
+        "• Mastery of graph interpretation and equations supports problem-solving in mechanics"
+      ],
+      "diagramDescriptions": [
+        "Chart of velocity-time graph types with examples",
+        "Diagram showing how to calculate slope for acceleration and area for displacement",
+        "Sample velocity-time graph with calculations",
+        "Nigerian context: Transportation velocity-time applications",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics velocity time graph equations of motion site:youtube.com",
+      "quiz": [
+        {
+          "q": "In a velocity-time graph, velocity is plotted on:",
+          "opts": [
+            "The x-axis",
+            "The y-axis",
+            "Both axes",
+            "Neither axis"
+          ],
+          "ans": 1,
+          "explanation": "In a velocity-time graph, velocity is plotted on the y-axis and time on the x-axis."
+        },
+        {
+          "q": "The slope of a velocity-time graph represents:",
+          "opts": [
+            "Speed",
+            "Acceleration",
+            "Displacement",
+            "Time"
+          ],
+          "ans": 1,
+          "explanation": "The slope (gradient) of a velocity-time graph represents acceleration."
+        },
+        {
+          "q": "The area under a velocity-time graph represents:",
+          "opts": [
+            "Speed",
+            "Acceleration",
+            "Displacement",
+            "Time"
+          ],
+          "ans": 2,
+          "explanation": "The area under a velocity-time graph represents the displacement of the object."
+        },
+        {
+          "q": "A horizontal line on a velocity-time graph indicates:",
+          "opts": [
+            "Uniform acceleration",
+            "Zero acceleration (uniform velocity)",
+            "Non-uniform acceleration",
+            "Object at rest"
+          ],
+          "ans": 1,
+          "explanation": "A horizontal line means velocity is constant; acceleration is zero (uniform velocity)."
+        },
+        {
+          "q": "The first equation of motion is:",
+          "opts": [
+            "s = ut + ½at²",
+            "v = u + at",
+            "v² = u² + 2as",
+            "a = (v - u) / t"
+          ],
+          "ans": 1,
+          "explanation": "The first equation of motion is v = u + at, relating final velocity, initial velocity, acceleration, and time."
+        },
+        {
+          "q": "If a car accelerates from 0 to 20 m/s in 5 s, its acceleration is:",
+          "opts": [
+            "2 m/s²",
+            "4 m/s²",
+            "20 m/s²",
+            "100 m/s²"
+          ],
+          "ans": 1,
+          "explanation": "Acceleration = (v - u) / t = (20 - 0) m/s / 5 s = 4 m/s²."
+        },
+        {
+          "q": "In Nigerian context, FRSC might use velocity-time graphs to:",
+          "opts": [
+            "Only collect fines",
+            "Analyze vehicle motion in accident reconstruction",
+            "Only for training",
+            "Only for highways"
+          ],
+          "ans": 1,
+          "explanation": "FRSC uses velocity-time graphs to analyze vehicle motion and acceleration in accident reconstruction."
+        },
+        {
+          "q": "Which equation of motion does NOT include time (t)?",
+          "opts": [
+            "v = u + at",
+            "s = ut + ½at²",
+            "v² = u² + 2as",
+            "All include time"
+          ],
+          "ans": 2,
+          "explanation": "The third equation v² = u² + 2as does not include time; it relates velocity, acceleration, and displacement."
+        },
+        {
+          "q": "Understanding velocity-time graphs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports accident analysis and transportation planning",
+            "Only for plotting graphs",
+            "Only for calculating acceleration"
+          ],
+          "ans": 1,
+          "explanation": "Velocity-time graph interpretation supports accident analysis and transportation planning in Nigeria."
+        },
+        {
+          "q": "A common misconception about velocity-time graphs is:",
+          "opts": [
+            "The slope represents acceleration",
+            "The area represents displacement",
+            "A horizontal line means zero acceleration",
+            "The area represents speed"
+          ],
+          "ans": 3,
+          "explanation": "The area under a velocity-time graph represents displacement, not speed."
+        }
+      ]
+    }
+  ]
+}

@@ -795,33 +795,4 @@
             "Date",
             "Slang expressions",
             "Formal salutation"
-          ],
-          "ans": 2,
-          "explanation": "Slang expressions are not appropriate for semi-formal letters; they should use respectful, clear language."
-        },
-        {
-          "q": "A common misconception about semi-formal letters is:",
-          "opts": [
-            "Semi-formal letters need clear format",
-            "Semi-formal letters are the same as informal letters",
-            "Semi-formal letters can share relevant details",
-            "Semi-formal letters should be well-organized"
-          ],
-          "ans": 1,
-          "explanation": "Semi-formal letters are not the same as informal letters; they maintain more formality and respect."
-        },
-        {
-          "q": "When writing a semi-formal letter, you should:",
-          "opts": [
-            "Ignore the format",
-            "Use respectful language, clear purpose, and appropriate structure",
-            "Only write one long paragraph",
-            "Avoid including relevant details"
-          ],
-          "ans": 1,
-          "explanation": "Using respectful language, clear purpose, and appropriate structure makes semi-formal letters clear and effective."
-        }
-      ]
-    }
-  ]
-}
+ 

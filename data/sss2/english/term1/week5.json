@@ -811,15 +811,4 @@
         {
           "q": "When writing an argumentative essay, you should:",
           "opts": [
-            "Ignore counterarguments",
-            "Use evidence, logical reasoning, and address counterarguments",
-            "Only use complex words",
-            "Skip the introduction"
-          ],
-          "ans": 1,
-          "explanation": "Using evidence, logical reasoning, and addressing counterarguments creates strong, persuasive essays."
-        }
-      ]
-    }
-  ]
-}
+            "Ignore counterargument

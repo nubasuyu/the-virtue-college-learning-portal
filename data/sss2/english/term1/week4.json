@@ -426,4 +426,131 @@
       ]
     }
   ]
+} clear plot, and explicit moral statements",
+        "• Nigerian folktales reflect rich cultural traditions with universal themes",
+        "• Mastery of didactic lesson analysis supports literary appreciation and character development"
+      ],
+      "diagramDescriptions": [
+        "Chart of didactic lesson features with Nigerian examples",
+        "Diagram of how to identify moral lessons in folktales",
+        "Sample Nigerian folktale with moral lesson highlighted",
+        "Nigerian context: Famous Nigerian folktales and their lessons",
+        "Activity template: Moral lesson identification and creative storytelling"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature folktales didactic lessons Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Didactic lessons are:",
+          "opts": [
+            "Only entertainment",
+            "Moral teachings or lessons intended to instruct",
+            "Only scientific facts",
+            "Only historical events"
+          ],
+          "ans": 1,
+          "explanation": "Didactic lessons are moral teachings or lessons intended to instruct readers or listeners."
+        },
+        {
+          "q": "A common didactic theme in folktales is:",
+          "opts": [
+            "Only happy endings",
+            "Honesty is the best policy, greed leads to downfall",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Common didactic themes include honesty, consequences of greed, wisdom over strength, and respect for elders."
+        },
+        {
+          "q": "To identify a didactic lesson, you should ask:",
+          "opts": [
+            "Is this a poem?",
+            "What lesson does this story teach?",
+            "Is this a list?",
+            "Is this a scientific formula?"
+          ],
+          "ans": 1,
+          "explanation": "Asking 'What lesson does this story teach?' helps you identify the moral or didactic lesson."
+        },
+        {
+          "q": "In Nigerian context, a didactic lesson might be:",
+          "opts": [
+            "Only foreign values",
+            "'A child who asks questions does not get lost'",
+            "Only scientific principles",
+            "Only historical facts"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian folktales often teach cultural values like the importance of inquiry, respect, and community."
+        },
+        {
+          "q": "A common mistake in identifying didactic lessons is:",
+          "opts": [
+            "Looking for the moral statement",
+            "Assuming lessons are always stated explicitly",
+            "Considering character consequences",
+            "Asking what the story teaches"
+          ],
+          "ans": 1,
+          "explanation": "Assuming lessons are always explicit is a mistake; sometimes lessons require inference and discussion."
+        },
+        {
+          "q": "Understanding didactic lessons is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops ethical reasoning, and improves literary appreciation",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding didactic lessons helps students appreciate their heritage, develop character, and improve literary skills."
+        },
+        {
+          "q": "Which is NOT a feature of didactic folktales?",
+          "opts": [
+            "Simple language",
+            "Clear moral lesson",
+            "Complex scientific data",
+            "Characters representing virtues or vices"
+          ],
+          "ans": 2,
+          "explanation": "Complex scientific data is not a feature of didactic folktales; they use simple language and clear morals."
+        },
+        {
+          "q": "A common misconception about didactic lessons is:",
+          "opts": [
+            "Didactic lessons teach moral values",
+            "Didactic lessons are only for children",
+            "Didactic lessons preserve culture",
+            "Didactic lessons develop character"
+          ],
+          "ans": 1,
+          "explanation": "Didactic lessons are valuable for people of all ages; they are not only for children."
+        },
+        {
+          "q": "When analyzing a folktale, you should:",
+          "opts": [
+            "Ignore the ending",
+            "Identify the moral lesson and connect it to real life",
+            "Only focus on characters",
+            "Skip the plot"
+          ],
+          "ans": 1,
+          "explanation": "Identifying the moral lesson and connecting it to real life helps you understand and appreciate the folktale."
+        },
+        {
+          "q": "In Nigerian folktales, didactic lessons often teach about:",
+          "opts": [
+            "Only foreign cultures",
+            "Community, respect, wisdom, and consequences of actions",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian folktales often teach cultural values like community, respect, wisdom, and consequences of actions."
+        }
+      ]
+    }
+  ]
 }

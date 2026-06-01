@@ -1,0 +1,69 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Application of Light Waves: Optical Instruments & Human Eye",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w12_su1",
+      "title": "12.1 Simple Camera, Projector, Human Eye, Microscope, Telescope & Binoculars",
+      "notes": [
+        "Optical Instruments and Human Eye",
+        "",
+        "Key Concepts:",
+        "1. Simple Camera:",
+        "   - Converging lens forms real, inverted, diminished image on film/sensor",
+        "   - Components: lens, aperture, shutter, film/sensor, focusing mechanism",
+        "",
+        "2. Film Projector:",
+        "   - Projects enlarged real image onto screen using strong light source and converging lens",
+        "   - Slide/film placed between F and 2F for magnified projection",
+        "",
+        "3. Human Eye:",
+        "   - Acts like camera: cornea + lens focus light on retina",
+        "   - Accommodation: ciliary muscles adjust lens curvature for near/far vision",
+        "   - Defects: Myopia (near-sighted), Hypermetropia (far-sighted), Presbyopia (age-related)",
+        "   - Corrections: Concave for myopia, convex for hypermetropia",
+        "",
+        "4. Optical Instruments:",
+        "   a) Simple Microscope: Single convex lens, magnifies when object within F",
+        "   b) Compound Microscope: Objective + eyepiece lenses for high magnification",
+        "   c) Astronomical Telescope: Objective (long f) + eyepiece (short f) for distant objects",
+        "   d) Prism Binoculars: Use erecting prisms for compact, upright viewing",
+        "",
+        "5. Nigerian Context:",
+        "   - Photography in Nigerian weddings and events",
+        "   - Eye care clinics correcting vision defects with lenses",
+        "   - School biology labs using microscopes",
+        "   - Amateur astronomy clubs using telescopes",
+        "",
+        "Conclusion:",
+        "   - Cameras and projectors use lens imaging principles",
+        "   - Human eye defects corrected with appropriate lenses",
+        "   - Microscopes, telescopes, and binoculars extend vision using lens combinations",
+        "   - Mastery supports optometry, photography, and scientific observation"
+      ],
+      "diagramDescriptions": [
+        "Chart of camera and projector ray diagrams",
+        "Diagram of human eye structure and defect corrections",
+        "Ray diagrams for microscope, telescope, and binoculars",
+        "Nigerian context: Photography, eye clinics, school labs",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics optical instruments human eye microscope telescope site:youtube.com",
+      "quiz": [
+        {"q": "A simple camera forms an image that is:", "opts": ["Virtual and upright", "Real, inverted, and diminished", "Virtual and magnified", "Real and upright"], "ans": 1, "explanation": "Cameras use convex lenses to form real, inverted, diminished images on film/sensors."},
+        {"q": "In a film projector, the film is placed:", "opts": ["At infinity", "Between F and 2F", "At 2F", "Beyond 2F"], "ans": 1, "explanation": "Placing film between F and 2F produces a magnified, real, inverted image on screen."},
+        {"q": "The human eye adjusts focus through:", "opts": ["Moving the retina", "Accommodation by ciliary muscles", "Changing pupil size only", "Rotating the cornea"], "ans": 1, "explanation": "Accommodation involves ciliary muscles changing lens curvature to focus on near/far objects."},
+        {"q": "Myopia is corrected using:", "opts": ["Convex lens", "Concave lens", "Plane mirror", "Prism"], "ans": 1, "explanation": "Myopia (short-sightedness) is corrected with concave lenses to diverge incoming light."},
+        {"q": "A compound microscope uses:", "opts": ["One lens", "Two convex lenses (objective and eyepiece)", "A concave lens", "A mirror only"], "ans": 1, "explanation": "Compound microscopes use two convex lenses for high magnification."},
+        {"q": "In Nigerian context, vision defects are commonly corrected in:", "opts": ["Pharmacies", "Optometry clinics", "Markets", "Generators"], "ans": 1, "explanation": "Optometry clinics prescribe corrective lenses for myopia, hypermetropia, and presbyopia."},
+        {"q": "Astronomical telescopes are designed to view:", "opts": ["Microscopic objects", "Distant celestial objects", "Nearby insects", "Underwater objects"], "ans": 1, "explanation": "Astronomical telescopes use long focal length objectives to gather light from distant celestial bodies."},
+        {"q": "A common misconception about the eye is:", "opts": ["It works like a camera", "Pupil controls light amount", "Lens always stays same shape", "Retina captures images"], "ans": 2, "explanation": "The lens changes shape during accommodation to focus on different distances."},
+        {"q": "Prism binoculars are used instead of straight telescopes because they:", "opts": ["Are heavier", "Provide upright images in compact form", "Magnify less", "Are cheaper"], "ans": 1, "explanation": "Erecting prisms fold the light path, making binoculars compact while keeping images upright."},
+        {"q": "To increase microscope magnification, you should:", "opts": ["Decrease objective focal length", "Increase eyepiece focal length only", "Use concave lenses", "Remove lenses"], "ans": 0, "explanation": "Magnification increases when objective focal length is decreased or eyepiece focal length is decreased."}
+      ]
+    }
+  ]
+}

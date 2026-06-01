@@ -1014,4 +1014,24 @@
       ]
     }
   ]
+}            "Oral literature can teach moral lessons",
+            "Oral literature is valuable"
+          ],
+          "ans": 1,
+          "explanation": "Oral literature is real and valuable literature; it preserves culture and teaches important lessons."
+        },
+        {
+          "q": "When identifying literature types, you should:",
+          "opts": [
+            "Only look at the title",
+            "Consider the form, features, and purpose of the work",
+            "Only focus on rhyme",
+            "Ignore the cultural context"
+          ],
+          "ans": 1,
+          "explanation": "Considering the form, features, and purpose helps you accurately identify the type of literature."
+        }
+      ]
+    }
+  ]
 }

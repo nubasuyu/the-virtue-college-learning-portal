@@ -1,0 +1,409 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Scalars and Vectors",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w8_su1",
+      "title": "8.1 Concept of Scalars and Vectors",
+      "notes": [
+        "Concept of Scalars and Vectors",
+        "",
+        "Key Concepts:",
+        "1. What are scalar quantities?",
+        "   - Scalar quantities have magnitude (size) only, no direction",
+        "   - Examples: distance, speed, mass, time, temperature, energy",
+        "   - Can be added, subtracted, multiplied, and divided using ordinary arithmetic",
+        "",
+        "2. What are vector quantities?",
+        "   - Vector quantities have both magnitude and direction",
+        "   - Examples: displacement, velocity, acceleration, force, momentum",
+        "   - Require special methods for addition and subtraction (vector addition)",
+        "",
+        "3. Distinction between scalars and vectors:",
+        "   a) Magnitude only vs. magnitude and direction:",
+        "      - Scalar: 50 km (distance)",
+        "      - Vector: 50 km North (displacement)",
+        "",
+        "   b) Arithmetic operations:",
+        "      - Scalars: ordinary arithmetic applies",
+        "      - Vectors: require vector addition (triangle/parallelogram law)",
+        "",
+        "   c) Representation:",
+        "      - Scalars: written as numbers with units",
+        "      - Vectors: represented by arrows (length = magnitude, arrowhead = direction)",
+        "",
+        "4. Examples of scalar and vector quantities:",
+        "   - Scalars: mass (kg), time (s), temperature (K), energy (J), power (W)",
+        "   - Vectors: force (N), velocity (m/s), acceleration (m/s²), momentum (kg·m/s)",
+        "",
+        "5. Importance of distinguishing scalars and vectors:",
+        "   - Essential for correct problem-solving in physics",
+        "   - Prevents errors in calculations involving direction",
+        "   - Foundation for understanding motion, forces, and fields",
+        "",
+        "Nigerian Context:",
+        "• Scalars and vectors in Nigerian applications:",
+        "  - FRSC: speed (scalar) vs. velocity (vector) in traffic enforcement",
+        "  - Construction: force vectors in building design and bridge construction",
+        "  - Aviation: velocity vectors for aircraft navigation in Nigerian airspace",
+        "",
+        "• Local examples:",
+        "  - A danfo bus travels 30 km (scalar distance) vs. 30 km East (vector displacement)",
+        "  - Wind speed (scalar) vs. wind velocity (vector with direction) in weather forecasting",
+        "  - Mass of goods (scalar) vs. force of gravity on goods (vector) in commerce",
+        "",
+        "Practical Activities:",
+        "1. Scalar/Vector Classification:",
+        "   - Teacher lists physical quantities on the board",
+        "   - Students classify each as scalar or vector",
+        "   - Groups discuss and justify their classifications",
+        "",
+        "2. Vector Representation Practice:",
+        "   - Teacher demonstrates drawing vectors as arrows",
+        "   - Students practice drawing vectors with given magnitude and direction",
+        "   - Use graph paper for accurate representation",
+        "",
+        "3. Real-Life Application:",
+        "   - Students identify scalar and vector quantities in everyday situations",
+        "   - Example: 'A car travels at 60 km/h' (speed = scalar) vs. '60 km/h North' (velocity = vector)",
+        "",
+        "Common Misconceptions:",
+        "• 'All quantities with units are scalars': Vectors also have units but include direction",
+        "• 'Speed and velocity are the same': Speed is scalar; velocity is vector with direction",
+        "• 'Vectors can be added like scalars': Vectors require special addition methods",
+        "",
+        "Nigerian Context:",
+        "• Understanding scalars and vectors supports accurate problem-solving in Nigerian industries",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for engineering, aviation, and technology careers",
+        "",
+        "Conclusion:",
+        "• Scalars have magnitude only; vectors have magnitude and direction",
+        "• Scalars use ordinary arithmetic; vectors require vector addition",
+        "• Vectors are represented by arrows showing magnitude and direction",
+        "• Mastery of scalars and vectors supports understanding of motion and forces"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing scalar and vector quantities with examples",
+        "Diagram showing vector representation as arrows",
+        "Sample problems distinguishing scalars and vectors",
+        "Nigerian context: Local applications of scalars and vectors",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics scalars vectors concepts site:youtube.com",
+      "quiz": [
+        {
+          "q": "A scalar quantity has:",
+          "opts": [
+            "Magnitude and direction",
+            "Magnitude only",
+            "Direction only",
+            "Neither magnitude nor direction"
+          ],
+          "ans": 1,
+          "explanation": "A scalar quantity has magnitude (size) only, with no direction."
+        },
+        {
+          "q": "Which is a vector quantity?",
+          "opts": [
+            "Distance",
+            "Speed",
+            "Velocity",
+            "Mass"
+          ],
+          "ans": 2,
+          "explanation": "Velocity is a vector quantity (has magnitude and direction); distance, speed, and mass are scalars."
+        },
+        {
+          "q": "Vectors are represented by:",
+          "opts": [
+            "Numbers only",
+            "Arrows showing magnitude and direction",
+            "Circles",
+            "Squares"
+          ],
+          "ans": 1,
+          "explanation": "Vectors are represented by arrows where length shows magnitude and arrowhead shows direction."
+        },
+        {
+          "q": "Which is a scalar quantity?",
+          "opts": [
+            "Force",
+            "Displacement",
+            "Temperature",
+            "Acceleration"
+          ],
+          "ans": 2,
+          "explanation": "Temperature is a scalar quantity (magnitude only); force, displacement, and acceleration are vectors."
+        },
+        {
+          "q": "In Nigerian context, which is a vector quantity?",
+          "opts": [
+            "Mass of rice sold in the market",
+            "Wind velocity during harmattan",
+            "Temperature of the weather",
+            "Time taken for a journey"
+          ],
+          "ans": 1,
+          "explanation": "Wind velocity is a vector (has magnitude and direction); mass, temperature, and time are scalars."
+        },
+        {
+          "q": "Scalar quantities can be added using:",
+          "opts": [
+            "Vector addition only",
+            "Ordinary arithmetic",
+            "Graphical methods only",
+            "Trigonometry only"
+          ],
+          "ans": 1,
+          "explanation": "Scalar quantities can be added, subtracted, multiplied, and divided using ordinary arithmetic."
+        },
+        {
+          "q": "Understanding scalars and vectors is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports accurate problem-solving in engineering, aviation, and technology",
+            "Only for calculating distances",
+            "Only for drawing arrows"
+          ],
+          "ans": 1,
+          "explanation": "Scalar and vector concepts support accurate problem-solving in Nigerian industries like engineering and aviation."
+        },
+        {
+          "q": "Which is NOT a vector quantity?",
+          "opts": [
+            "Force",
+            "Velocity",
+            "Energy",
+            "Momentum"
+          ],
+          "ans": 2,
+          "explanation": "Energy is a scalar quantity; force, velocity, and momentum are vectors."
+        },
+        {
+          "q": "A common misconception about scalars and vectors is:",
+          "opts": [
+            "Scalars have magnitude only",
+            "Speed and velocity are the same",
+            "Vectors have magnitude and direction",
+            "Vectors are represented by arrows"
+          ],
+          "ans": 1,
+          "explanation": "Speed and velocity are not the same; speed is scalar (magnitude only), velocity is vector (magnitude and direction)."
+        },
+        {
+          "q": "When representing a vector, you should:",
+          "opts": [
+            "Only write the magnitude",
+            "Draw an arrow with length showing magnitude and arrowhead showing direction",
+            "Only indicate the direction",
+            "Use a circle"
+          ],
+          "ans": 1,
+          "explanation": "A vector is represented by an arrow where length shows magnitude and arrowhead shows direction."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w8_su2",
+      "title": "8.2 Vector Representation",
+      "notes": [
+        "Vector Representation",
+        "",
+        "Key Concepts:",
+        "1. How to represent vectors graphically:",
+        "   - Use arrows to represent vectors",
+        "   - Length of arrow represents magnitude (to scale)",
+        "   - Arrowhead indicates direction",
+        "   - Example: A force of 10 N East is drawn as an arrow pointing East with length proportional to 10 N",
+        "",
+        "2. Scale for vector representation:",
+        "   - Choose an appropriate scale: e.g., 1 cm = 5 N",
+        "   - Ensure all vectors in a problem use the same scale",
+        "   - Example: A 20 N force would be drawn as a 4 cm arrow (if 1 cm = 5 N)",
+        "",
+        "3. Direction of vectors:",
+        "   - Use cardinal points: North, South, East, West",
+        "   - Use angles: e.g., 30° North of East",
+        "   - Use bearings: e.g., 045° (measured clockwise from North)",
+        "",
+        "4. Notation for vectors:",
+        "   - In print: boldface letters (e.g., **F**) or letters with arrows (e.g., F⃗)",
+        "   - In handwriting: letters with arrows above (e.g., F→)",
+        "   - Magnitude: |F| or simply F (without arrow)",
+        "",
+        "5. Drawing vectors accurately:",
+        "   - Use a ruler for straight lines",
+        "   - Use a protractor for accurate angles",
+        "   - Label magnitude and direction clearly",
+        "   - Example: Draw a vector of 15 N at 30° to the horizontal",
+        "",
+        "Nigerian Context:",
+        "• Vector representation in Nigerian applications:",
+        "  - Navigation: representing aircraft velocity vectors on flight charts",
+        "  - Construction: representing force vectors in structural design",
+        "  - Surveying: representing displacement vectors in land mapping",
+        "",
+        "• Local examples:",
+        "  - Representing wind velocity vectors for weather forecasting in Nigeria",
+        "  - Drawing force vectors for bridge design in Nigerian engineering",
+        "  - Representing displacement vectors for GPS navigation in Nigerian cities",
+        "",
+        "Practical Activities:",
+        "1. Vector Drawing Practice:",
+        "   - Teacher provides magnitude and direction for vectors",
+        "   - Students draw vectors to scale using ruler and protractor",
+        "   - Example: Draw a force of 20 N at 45° to the horizontal",
+        "",
+        "2. Scale Conversion Exercises:",
+        "   - Teacher provides different scales for vector representation",
+        "   - Students convert magnitudes to arrow lengths",
+        "   - Example: If 1 cm = 10 N, how long is a 35 N vector?",
+        "",
+        "3. Real-Life Application:",
+        "   - Students represent real-life vectors (e.g., wind velocity, vehicle displacement)",
+        "   - Practice drawing vectors with appropriate scales and directions",
+        "",
+        "Common Misconceptions:",
+        "• 'Vector length is arbitrary': Vector length must be to scale for accurate representation",
+        "• 'Direction is not important': Direction is essential for vector representation",
+        "• 'All arrows represent vectors': Only arrows with defined magnitude and direction represent vectors",
+        "",
+        "Nigerian Context:",
+        "• Understanding vector representation supports accurate technical drawing in Nigerian industries",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for engineering, surveying, and navigation careers",
+        "",
+        "Conclusion:",
+        "• Vectors are represented by arrows showing magnitude and direction",
+        "• Scale must be chosen appropriately and used consistently",
+        "• Direction can be shown using cardinal points, angles, or bearings",
+        "• Mastery of vector representation supports accurate problem-solving in physics and engineering"
+      ],
+      "diagramDescriptions": [
+        "Chart showing vector representation with arrows and scales",
+        "Diagram of how to draw vectors using ruler and protractor",
+        "Sample vector drawings with different magnitudes and directions",
+        "Nigerian context: Vector representation in local applications",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics vector representation graphical site:youtube.com",
+      "quiz": [
+        {
+          "q": "A vector is represented graphically by:",
+          "opts": [
+            "A circle",
+            "An arrow showing magnitude and direction",
+            "A square",
+            "A number only"
+          ],
+          "ans": 1,
+          "explanation": "A vector is represented by an arrow where length shows magnitude and arrowhead shows direction."
+        },
+        {
+          "q": "If the scale is 1 cm = 5 N, a force of 25 N is represented by an arrow of length:",
+          "opts": [
+            "1 cm",
+            "5 cm",
+            "25 cm",
+            "125 cm"
+          ],
+          "ans": 1,
+          "explanation": "At scale 1 cm = 5 N, a 25 N force is represented by 25/5 = 5 cm arrow."
+        },
+        {
+          "q": "The direction of a vector can be specified using:",
+          "opts": [
+            "Only cardinal points",
+            "Cardinal points, angles, or bearings",
+            "Only angles",
+            "Only bearings"
+          ],
+          "ans": 1,
+          "explanation": "Vector direction can be specified using cardinal points (N, S, E, W), angles, or bearings."
+        },
+        {
+          "q": "In vector notation, F⃗ represents:",
+          "opts": [
+            "The magnitude of force only",
+            "The vector force (magnitude and direction)",
+            "The direction of force only",
+            "A scalar quantity"
+          ],
+          "ans": 1,
+          "explanation": "F⃗ (or F with arrow) represents the vector force, including both magnitude and direction."
+        },
+        {
+          "q": "In Nigerian context, vector representation is important for:",
+          "opts": [
+            "Only drawing pictures",
+            "Navigation, construction, and surveying applications",
+            "Only writing numbers",
+            "Only measuring distances"
+          ],
+          "ans": 1,
+          "explanation": "Vector representation is important for navigation, construction, and surveying in Nigerian applications."
+        },
+        {
+          "q": "To draw a vector accurately, you should use:",
+          "opts": [
+            "Only a pencil",
+            "Ruler for length and protractor for angles",
+            "Only a protractor",
+            "Only a ruler"
+          ],
+          "ans": 1,
+          "explanation": "Accurate vector drawing requires a ruler for straight lines and a protractor for accurate angles."
+        },
+        {
+          "q": "Which is NOT essential for vector representation?",
+          "opts": [
+            "Magnitude",
+            "Direction",
+            "Color of the arrow",
+            "Scale"
+          ],
+          "ans": 2,
+          "explanation": "Color of the arrow is not essential; magnitude, direction, and scale are essential for vector representation."
+        },
+        {
+          "q": "Understanding vector representation is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports accurate technical drawing and problem-solving in engineering and navigation",
+            "Only for drawing arrows",
+            "Only for measuring lengths"
+          ],
+          "ans": 1,
+          "explanation": "Vector representation skills support accurate technical drawing and problem-solving in Nigerian engineering and navigation."
+        },
+        {
+          "q": "A common misconception about vector representation is:",
+          "opts": [
+            "Vector length must be to scale",
+            "Vector length is arbitrary",
+            "Direction is essential for vectors",
+            "Scale must be consistent"
+          ],
+          "ans": 1,
+          "explanation": "Vector length is not arbitrary; it must be to scale for accurate representation."
+        },
+        {
+          "q": "When drawing a vector, you should:",
+          "opts": [
+            "Draw any length arrow",
+            "Use appropriate scale, ruler, and protractor for accuracy",
+            "Only indicate direction",
+            "Ignore the magnitude"
+          ],
+          "ans": 1,
+          "explanation": "Accurate vector drawing requires appropriate scale, ruler for length, and protractor for angles."
+        }
+      ]
+    }
+  ]
+}

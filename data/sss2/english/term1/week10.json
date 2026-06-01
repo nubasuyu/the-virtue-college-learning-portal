@@ -806,4 +806,87 @@
       ]
     }
   ]
+}: 1,
+          "explanation": "Asking 'What picture does this create in my mind?' helps you identify descriptive prose."
+        },
+        {
+          "q": "In Nigerian context, a descriptive theme might be:",
+          "opts": [
+            "Only foreign issues",
+            "The bustling activity of a Nigerian market",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian descriptive prose often describes local scenes like markets, festivals, or landscapes."
+        },
+        {
+          "q": "A common feature in Nigerian descriptive prose is:",
+          "opts": [
+            "Only foreign references",
+            "Use of local languages, proverbs, and cultural references",
+            "Only scientific terms",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian descriptive prose often includes local languages, proverbs, and cultural references."
+        },
+        {
+          "q": "Understanding descriptive prose is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, develops creativity, and improves writing skills",
+            "Only for literature class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Understanding descriptive prose helps students appreciate their heritage, develop creativity, and improve writing skills."
+        },
+        {
+          "q": "Which is NOT a feature of descriptive prose?",
+          "opts": [
+            "Sensory details",
+            "Vivid language",
+            "Complex scientific data",
+            "Clear organization"
+          ],
+          "ans": 2,
+          "explanation": "Complex scientific data is not a feature of descriptive prose; sensory details, vivid language, and clear organization are."
+        },
+        {
+          "q": "A common misconception about descriptive prose is:",
+          "opts": [
+            "Descriptive prose creates vivid images",
+            "Descriptive prose is only about listing details",
+            "Descriptive prose uses sensory language",
+            "Descriptive prose develops writing skills"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive prose is not only about listing details; it uses sensory language to create vivid images."
+        },
+        {
+          "q": "When analyzing descriptive prose, you should:",
+          "opts": [
+            "Ignore the details",
+            "Identify sensory details and vivid language",
+            "Only focus on plot",
+            "Skip the theme"
+          ],
+          "ans": 1,
+          "explanation": "Identifying sensory details and vivid language helps you understand and appreciate descriptive prose."
+        },
+        {
+          "q": "In Nigerian descriptive prose, a common theme is:",
+          "opts": [
+            "Only foreign cultures",
+            "The vibrancy of Nigerian cultural celebrations",
+            "Only scientific discoveries",
+            "Only historical dates"
+          ],
+          "ans": 1,
+          "explanation": "Nigerian descriptive prose often describes the vibrancy of cultural celebrations, markets, and landscapes."
+        }
+      ]
+    }
+  ]
 }

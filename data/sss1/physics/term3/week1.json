@@ -1,0 +1,421 @@
+{
+  "course": "SSS1 Physics",
+  "term": "Third Term",
+  "week": 1,
+  "topic": "Elastic Properties of Solid",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t3_w1_su1",
+      "title": "1.1 Hooke's Law",
+      "notes": [
+        "Hooke's Law",
+        "",
+        "Key Concepts:",
+        "1. What is Hooke's Law?",
+        "   - Hooke's Law states that the extension of an elastic material is directly proportional to the applied force, provided the elastic limit is not exceeded",
+        "   - Formula: F = ke, where F = force (N), k = spring constant (N/m), e = extension (m)",
+        "   - The law applies to springs, elastic strings, and other elastic materials",
+        "",
+        "2. Key terms in Hooke's Law:",
+        "   a) Elastic limit:",
+        "      - The maximum force a material can withstand and still return to its original shape",
+        "      - Beyond this limit, the material is permanently deformed",
+        "",
+        "   b) Spring constant (k):",
+        "      - A measure of the stiffness of a spring",
+        "      - Higher k means stiffer spring (harder to stretch)",
+        "      - Unit: Newton per meter (N/m)",
+        "",
+        "   c) Extension (e):",
+        "      - The increase in length of a spring when a force is applied",
+        "      - e = new length - original length",
+        "",
+        "3. Graphical representation of Hooke's Law:",
+        "   - Plot force (F) on y-axis against extension (e) on x-axis",
+        "   - The graph is a straight line through the origin (within elastic limit)",
+        "   - Slope of the graph = spring constant (k)",
+        "",
+        "4. Verification of Hooke's Law:",
+        "   - Suspend a spring vertically and measure its original length",
+        "   - Add known masses (weights) and measure new lengths",
+        "   - Calculate extension for each load",
+        "   - Plot F against e; a straight line confirms Hooke's Law",
+        "",
+        "5. Applications of Hooke's Law:",
+        "   - Spring balances for measuring weight",
+        "   - Vehicle suspension systems",
+        "   - Mattress springs, door hinges, and mechanical watches",
+        "",
+        "Nigerian Context:",
+        "• Hooke's Law in Nigerian applications:",
+        "  - Spring balances used in Nigerian markets for weighing goods",
+        "  - Vehicle suspension systems on Nigerian roads (absorbing shocks from potholes)",
+        "  - Traditional spring-based tools in local workshops",
+        "",
+        "• Local examples:",
+        "  - A spring balance measuring 500 g of rice in a Lagos market",
+        "  - Suspension springs in danfo buses absorbing road shocks",
+        "  - Elastic bands used in local tailoring and packaging",
+        "",
+        "Practical Activities:",
+        "1. Hooke's Law Verification:",
+        "   - Teacher provides spring, masses, ruler, and stand",
+        "   - Students measure original length, add masses, record extensions",
+        "   - Plot F vs e graph and determine spring constant",
+        "",
+        "2. Spring Constant Calculation:",
+        "   - Teacher provides force and extension data",
+        "   - Students calculate k = F/e for different loads",
+        "   - Discuss consistency of k values within elastic limit",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze spring balances used in Nigerian markets",
+        "   - Discuss how Hooke's Law ensures accurate weight measurement",
+        "   - Propose quality checks for market spring balances",
+        "",
+        "Common Misconceptions:",
+        "• 'Hooke's Law applies to all materials': It only applies to elastic materials within their elastic limit",
+        "• 'Extension is the same as length': Extension is the change in length, not the total length",
+        "• 'Spring constant depends on force': k is a property of the spring, independent of applied force",
+        "",
+        "Nigerian Context:",
+        "• Understanding Hooke's Law supports quality control and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and technology careers",
+        "",
+        "Conclusion:",
+        "• Hooke's Law: F = ke (force proportional to extension within elastic limit)",
+        "• Spring constant k measures stiffness; unit is N/m",
+        "• Graph of F vs e is a straight line through origin (within elastic limit)",
+        "• Mastery of Hooke's Law supports understanding of elasticity and engineering applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of Hooke's Law formula and terms with examples",
+        "Diagram of spring extension under different loads",
+        "Sample F-e graph showing linear relationship",
+        "Nigerian context: Spring balances and vehicle suspensions",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics Hooke's Law verification site:youtube.com",
+      "quiz": [
+        {
+          "q": "Hooke's Law states that:",
+          "opts": [
+            "Force is inversely proportional to extension",
+            "Extension is directly proportional to applied force within elastic limit",
+            "Force equals mass times acceleration",
+            "Extension is independent of applied force"
+          ],
+          "ans": 1,
+          "explanation": "Hooke's Law states that extension is directly proportional to applied force, provided the elastic limit is not exceeded (F = ke)."
+        },
+        {
+          "q": "The spring constant (k) has units of:",
+          "opts": [
+            "Newton (N)",
+            "Meter (m)",
+            "Newton per meter (N/m)",
+            "Joule (J)"
+          ],
+          "ans": 2,
+          "explanation": "Spring constant k = F/e, so its unit is Newton per meter (N/m)."
+        },
+        {
+          "q": "If a spring extends 0.05 m under a force of 10 N, its spring constant is:",
+          "opts": [
+            "0.5 N/m",
+            "2 N/m",
+            "50 N/m",
+            "200 N/m"
+          ],
+          "ans": 3,
+          "explanation": "k = F/e = 10 N / 0.05 m = 200 N/m."
+        },
+        {
+          "q": "The elastic limit is:",
+          "opts": [
+            "The point where a spring breaks",
+            "The maximum force before permanent deformation occurs",
+            "The minimum force needed to stretch a spring",
+            "The force at which extension is zero"
+          ],
+          "ans": 1,
+          "explanation": "The elastic limit is the maximum force a material can withstand and still return to its original shape."
+        },
+        {
+          "q": "In Nigerian context, Hooke's Law is applied in:",
+          "opts": [
+            "Only theoretical physics",
+            "Spring balances in markets and vehicle suspension systems",
+            "Only calculating weight",
+            "Only for springs"
+          ],
+          "ans": 1,
+          "explanation": "Hooke's Law is applied in spring balances for weighing goods and vehicle suspensions in Nigeria."
+        },
+        {
+          "q": "A graph of force vs extension for a spring obeying Hooke's Law is:",
+          "opts": [
+            "A curve",
+            "A straight line through the origin",
+            "A horizontal line",
+            "A vertical line"
+          ],
+          "ans": 1,
+          "explanation": "Within the elastic limit, F vs e graph is a straight line through the origin, confirming direct proportionality."
+        },
+        {
+          "q": "Understanding Hooke's Law is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports quality control, engineering, and understanding of elastic materials",
+            "Only for calculating spring constants",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Hooke's Law concepts support quality control, engineering design, and understanding of elastic materials in Nigerian applications."
+        },
+        {
+          "q": "Which is NOT a condition for Hooke's Law?",
+          "opts": [
+            "Material must be elastic",
+            "Force must be within elastic limit",
+            "Extension must be measured in meters",
+            "Material must be metallic"
+          ],
+          "ans": 3,
+          "explanation": "Extension can be measured in any consistent unit; the key conditions are elasticity and staying within the elastic limit."
+        },
+        {
+          "q": "A common misconception about Hooke's Law is:",
+          "opts": [
+            "F = ke within elastic limit",
+            "Hooke's Law applies to all materials",
+            "Spring constant is a property of the spring",
+            "Extension is change in length"
+          ],
+          "ans": 1,
+          "explanation": "Hooke's Law only applies to elastic materials within their elastic limit, not to all materials."
+        },
+        {
+          "q": "When verifying Hooke's Law, you should:",
+          "opts": [
+            "Use any material",
+            "Ensure measurements are within the elastic limit and plot F vs e",
+            "Only measure once",
+            "Ignore the graph"
+          ],
+          "ans": 1,
+          "explanation": "Verification requires staying within the elastic limit and plotting force against extension to confirm linearity."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t3_w1_su2",
+      "title": "1.2 Young Modulus and Work Done in Springs",
+      "notes": [
+        "Young Modulus and Work Done in Springs",
+        "",
+        "Key Concepts:",
+        "1. What is Young Modulus?",
+        "   - Young Modulus (E) is a measure of the stiffness of a solid material",
+        "   - Defined as the ratio of tensile stress to tensile strain within the elastic limit",
+        "   - Formula: E = stress/strain = (F/A)/(e/L) = FL/Ae",
+        "   - Unit: Pascal (Pa) or N/m²",
+        "",
+        "2. Key terms for Young Modulus:",
+        "   a) Tensile stress:",
+        "      - Force per unit cross-sectional area: stress = F/A",
+        "      - Unit: Pascal (Pa) or N/m²",
+        "",
+        "   b) Tensile strain:",
+        "      - Extension per unit original length: strain = e/L",
+        "      - Dimensionless quantity (no unit)",
+        "",
+        "   c) Young Modulus (E):",
+        "      - E = stress/strain = (F/A)/(e/L) = FL/Ae",
+        "      - Higher E means stiffer material (harder to stretch)",
+        "",
+        "3. Work done in stretching a spring:",
+        "   - Work done = area under force-extension graph",
+        "   - For a spring obeying Hooke's Law: W = ½Fe = ½ke²",
+        "   - This work is stored as elastic potential energy in the spring",
+        "",
+        "4. Elastic potential energy:",
+        "   - Energy stored in a stretched or compressed elastic material",
+        "   - Formula: EPE = ½ke² = ½Fe",
+        "   - When released, this energy can do work (e.g., launch a projectile)",
+        "",
+        "5. Applications of Young Modulus and elastic energy:",
+        "   - Engineering: selecting materials for bridges, buildings, vehicles",
+        "   - Sports: designing equipment like bows, trampolines, and springs",
+        "   - Medicine: understanding elasticity of tissues and implants",
+        "",
+        "Nigerian Context:",
+        "• Young Modulus in Nigerian applications:",
+        "  - Selecting materials for construction of bridges and buildings in Nigeria",
+        "  - Designing vehicle components that withstand Nigerian road conditions",
+        "  - Understanding elasticity of local materials like wood and metal",
+        "",
+        "• Local examples:",
+        "  - Steel cables in Nigerian bridges: high Young Modulus for strength",
+        "  - Rubber bands in local markets: low Young Modulus for flexibility",
+        "  - Work done in stretching a bow for traditional hunting or sports",
+        "",
+        "Practical Activities:",
+        "1. Young Modulus Calculation:",
+        "   - Teacher provides data: force, area, original length, extension",
+        "   - Students calculate stress, strain, and Young Modulus",
+        "   - Compare E values for different materials",
+        "",
+        "2. Work Done in Springs:",
+        "   - Teacher provides spring constant and extension values",
+        "   - Students calculate work done: W = ½ke²",
+        "   - Discuss energy storage and release in elastic materials",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze materials used in Nigerian construction",
+        "   - Discuss why steel (high E) is used for reinforcement",
+        "   - Propose materials for specific applications based on Young Modulus",
+        "",
+        "Common Misconceptions:",
+        "• 'Young Modulus is the same as spring constant': Young Modulus is for materials; spring constant is for specific springs",
+        "• 'Work done is F × e': For springs, work done is ½Fe (area under F-e graph)",
+        "• 'Elastic energy is lost when spring returns': Energy is converted to kinetic energy or other forms, not lost",
+        "",
+        "Nigerian Context:",
+        "• Understanding Young Modulus supports material selection and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and technology careers",
+        "",
+        "Conclusion:",
+        "• Young Modulus E = stress/strain = FL/Ae; unit is Pascal (Pa)",
+        "• Work done in stretching a spring: W = ½ke² = ½Fe",
+        "• Elastic potential energy is stored and can be converted to other forms",
+        "• Mastery supports material selection and engineering applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of Young Modulus formula and terms with examples",
+        "Diagram of work done as area under F-e graph",
+        "Sample calculations for Young Modulus and elastic energy",
+        "Nigerian context: Material selection in construction and engineering",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics Young Modulus work done springs site:youtube.com",
+      "quiz": [
+        {
+          "q": "Young Modulus is defined as:",
+          "opts": [
+            "Force per unit area",
+            "Ratio of tensile stress to tensile strain",
+            "Extension per unit length",
+            "Work done per unit volume"
+          ],
+          "ans": 1,
+          "explanation": "Young Modulus is the ratio of tensile stress to tensile strain within the elastic limit (E = stress/strain)."
+        },
+        {
+          "q": "The unit of Young Modulus is:",
+          "opts": [
+            "Newton (N)",
+            "Meter (m)",
+            "Pascal (Pa) or N/m²",
+            "Joule (J)"
+          ],
+          "ans": 2,
+          "explanation": "Young Modulus has the same unit as stress: Pascal (Pa) or N/m²."
+        },
+        {
+          "q": "Work done in stretching a spring obeying Hooke's Law is:",
+          "opts": [
+            "F × e",
+            "½Fe",
+            "Fe²",
+            "½F/e"
+          ],
+          "ans": 1,
+          "explanation": "Work done = area under F-e graph = ½Fe for a spring obeying Hooke's Law."
+        },
+        {
+          "q": "If a spring with k = 200 N/m is stretched by 0.1 m, the work done is:",
+          "opts": [
+            "1 J",
+            "2 J",
+            "10 J",
+            "20 J"
+          ],
+          "ans": 0,
+          "explanation": "W = ½ke² = ½ × 200 × (0.1)² = ½ × 200 × 0.01 = 1 J."
+        },
+        {
+          "q": "In Nigerian context, Young Modulus is important for:",
+          "opts": [
+            "Only theoretical physics",
+            "Material selection in construction and engineering",
+            "Only calculating stress",
+            "Only for metals"
+          ],
+          "ans": 1,
+          "explanation": "Young Modulus helps select appropriate materials for construction, bridges, and engineering in Nigeria."
+        },
+        {
+          "q": "Tensile strain is:",
+          "opts": [
+            "Force per unit area",
+            "Extension per unit original length",
+            "Work done per unit volume",
+            "Energy stored per unit mass"
+          ],
+          "ans": 1,
+          "explanation": "Tensile strain = extension/original length = e/L; it is dimensionless."
+        },
+        {
+          "q": "Understanding Young Modulus is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports material selection and engineering design in Nigeria",
+            "Only for calculating strain",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Young Modulus concepts support material selection, engineering design, and infrastructure development in Nigeria."
+        },
+        {
+          "q": "Which is NOT a factor affecting Young Modulus?",
+          "opts": [
+            "Material type",
+            "Temperature",
+            "Cross-sectional area",
+            "Atomic structure"
+          ],
+          "ans": 2,
+          "explanation": "Young Modulus is a material property; it depends on material type, temperature, and atomic structure, not on cross-sectional area."
+        },
+        {
+          "q": "A common misconception about work done in springs is:",
+          "opts": [
+            "W = ½ke² for Hookean springs",
+            "Work done is F × e",
+            "Elastic energy can be converted to kinetic energy",
+            "Work done is stored as potential energy"
+          ],
+          "ans": 1,
+          "explanation": "For springs obeying Hooke's Law, work done is ½Fe (area under graph), not F × e."
+        },
+        {
+          "q": "When calculating Young Modulus, you should:",
+          "opts": [
+            "Use any force value",
+            "Ensure measurements are within the elastic limit and use consistent units",
+            "Ignore the cross-sectional area",
+            "Only measure extension"
+          ],
+          "ans": 1,
+          "explanation": "Young Modulus calculations require staying within the elastic limit and using consistent SI units for accurate results."
+        }
+      ]
+    }
+  ]
+}

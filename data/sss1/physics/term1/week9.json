@@ -1,0 +1,427 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Vectors",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w9_su1",
+      "title": "9.1 Addition of Vectors",
+      "notes": [
+        "Addition of Vectors",
+        "",
+        "Key Concepts:",
+        "1. Why vector addition is different from scalar addition:",
+        "   - Vectors have direction, so addition must account for both magnitude and direction",
+        "   - Cannot simply add magnitudes; must use vector addition methods",
+        "   - Example: Two forces of 10 N each can produce resultant from 0 N to 20 N depending on direction",
+        "",
+        "2. Methods of vector addition:",
+        "   a) Triangle method (head-to-tail):",
+        "      - Draw first vector",
+        "      - Draw second vector starting from the head of the first",
+        "      - Resultant is from tail of first to head of second",
+        "",
+        "   b) Parallelogram method:",
+        "      - Draw both vectors from same point",
+        "      - Complete the parallelogram",
+        "      - Resultant is the diagonal from the common point",
+        "",
+        "   c) Analytical method (for perpendicular vectors):",
+        "      - Use Pythagoras theorem: R = √(A² + B²)",
+        "      - Use trigonometry for direction: tan θ = B/A",
+        "",
+        "3. Resultant of two vectors:",
+        "   - The single vector that has the same effect as the two vectors combined",
+        "   - Magnitude and direction depend on the magnitudes and directions of the original vectors",
+        "   - Example: Two forces of 3 N and 4 N at right angles give resultant of 5 N",
+        "",
+        "4. Special cases of vector addition:",
+        "   a) Vectors in same direction:",
+        "      - Resultant = sum of magnitudes, same direction",
+        "      - Example: 5 N East + 3 N East = 8 N East",
+        "",
+        "   b) Vectors in opposite directions:",
+        "      - Resultant = difference of magnitudes, direction of larger",
+        "      - Example: 5 N East + 3 N West = 2 N East",
+        "",
+        "   c) Perpendicular vectors:",
+        "      - Use Pythagoras theorem for magnitude",
+        "      - Use trigonometry for direction",
+        "",
+        "5. Steps for adding vectors graphically:",
+        "   - Choose appropriate scale",
+        "   - Draw vectors to scale with correct directions",
+        "   - Use triangle or parallelogram method",
+        "   - Measure resultant length and direction",
+        "   - Convert back to actual magnitude using scale",
+        "",
+        "Nigerian Context:",
+        "• Vector addition in Nigerian applications:",
+        "  - Navigation: adding wind velocity to aircraft velocity for ground speed",
+        "  - Construction: adding force vectors in structural analysis",
+        "  - Sports: adding velocity vectors in football passes and shots",
+        "",
+        "• Local examples:",
+        "  - A boat crossing Niger River: adding boat velocity to river current velocity",
+        "  - Wind affecting aircraft: adding wind vector to aircraft velocity vector",
+        "  - Forces on a bridge: adding multiple force vectors to find resultant",
+        "",
+        "Practical Activities:",
+        "1. Graphical Vector Addition:",
+        "   - Teacher provides two vectors with magnitude and direction",
+        "   - Students draw vectors to scale and find resultant using triangle method",
+        "   - Example: Add 30 N at 0° and 40 N at 90°",
+        "",
+        "2. Analytical Vector Addition:",
+        "   - Teacher provides perpendicular vectors",
+        "   - Students calculate resultant using Pythagoras theorem",
+        "   - Example: Find resultant of 3 N East and 4 N North",
+        "",
+        "3. Real-Life Application:",
+        "   - Students solve problems involving boat crossing a river",
+        "   - Calculate resultant velocity considering current",
+        "   - Discuss implications for navigation in Nigerian waterways",
+        "",
+        "Common Misconceptions:",
+        "• 'Vectors can be added like scalars': Vector addition requires special methods",
+        "• 'Resultant is always larger than components': Resultant can be smaller if vectors oppose",
+        "• 'Direction doesn't matter in addition': Direction is essential for vector addition",
+        "",
+        "Nigerian Context:",
+        "• Understanding vector addition supports accurate navigation and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for aviation, marine, and engineering careers",
+        "",
+        "Conclusion:",
+        "• Vector addition accounts for both magnitude and direction",
+        "• Methods include triangle, parallelogram, and analytical approaches",
+        "• Resultant depends on magnitudes and directions of component vectors",
+        "• Mastery of vector addition supports problem-solving in navigation and engineering"
+      ],
+      "diagramDescriptions": [
+        "Chart showing triangle and parallelogram methods of vector addition",
+        "Diagram of analytical method for perpendicular vectors",
+        "Sample problems with vector addition solutions",
+        "Nigerian context: Vector addition in local navigation and engineering",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics vector addition methods site:youtube.com",
+      "quiz": [
+        {
+          "q": "Vector addition is different from scalar addition because:",
+          "opts": [
+            "Vectors have no magnitude",
+            "Vectors have direction that must be considered",
+            "Scalars have direction",
+            "Vectors cannot be added"
+          ],
+          "ans": 1,
+          "explanation": "Vector addition must account for both magnitude and direction, unlike scalar addition."
+        },
+        {
+          "q": "The triangle method of vector addition involves:",
+          "opts": [
+            "Drawing vectors from the same point",
+            "Drawing vectors head-to-tail",
+            "Using Pythagoras theorem only",
+            "Adding magnitudes only"
+          ],
+          "ans": 1,
+          "explanation": "In the triangle method, the second vector is drawn starting from the head of the first vector."
+        },
+        {
+          "q": "Two forces of 3 N and 4 N act at right angles. Their resultant is:",
+          "opts": [
+            "1 N",
+            "5 N",
+            "7 N",
+            "12 N"
+          ],
+          "ans": 1,
+          "explanation": "Using Pythagoras: R = √(3² + 4²) = √(9 + 16) = √25 = 5 N."
+        },
+        {
+          "q": "When two vectors act in the same direction, their resultant is:",
+          "opts": [
+            "The difference of their magnitudes",
+            "The sum of their magnitudes",
+            "Zero",
+            "The product of their magnitudes"
+          ],
+          "ans": 1,
+          "explanation": "When vectors act in the same direction, their resultant is the sum of their magnitudes in that direction."
+        },
+        {
+          "q": "In Nigerian context, vector addition is used for:",
+          "opts": [
+            "Only drawing pictures",
+            "Navigation, engineering, and sports analysis",
+            "Only measuring distances",
+            "Only calculating speeds"
+          ],
+          "ans": 1,
+          "explanation": "Vector addition is used in navigation (aircraft, boats), engineering (forces), and sports in Nigeria."
+        },
+        {
+          "q": "The parallelogram method of vector addition requires:",
+          "opts": [
+            "Drawing vectors head-to-tail",
+            "Drawing vectors from the same point and completing a parallelogram",
+            "Using only Pythagoras theorem",
+            "Adding magnitudes only"
+          ],
+          "ans": 1,
+          "explanation": "In the parallelogram method, both vectors are drawn from the same point and the parallelogram is completed."
+        },
+        {
+          "q": "Understanding vector addition is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports accurate navigation, engineering, and problem-solving",
+            "Only for drawing arrows",
+            "Only for calculating distances"
+          ],
+          "ans": 1,
+          "explanation": "Vector addition skills support accurate navigation, engineering, and problem-solving in Nigerian applications."
+        },
+        {
+          "q": "Which is NOT a method of vector addition?",
+          "opts": [
+            "Triangle method",
+            "Parallelogram method",
+            "Scalar addition",
+            "Analytical method"
+          ],
+          "ans": 2,
+          "explanation": "Scalar addition is not a method of vector addition; triangle, parallelogram, and analytical methods are."
+        },
+        {
+          "q": "A common misconception about vector addition is:",
+          "opts": [
+            "Vectors must be added using special methods",
+            "Vectors can be added like scalars",
+            "Resultant depends on direction",
+            "Triangle method is valid"
+          ],
+          "ans": 1,
+          "explanation": "Vectors cannot be added like scalars; direction must be considered in vector addition."
+        },
+        {
+          "q": "When adding vectors graphically, you should:",
+          "opts": [
+            "Ignore the scale",
+            "Use appropriate scale, draw accurately, and measure resultant",
+            "Only add magnitudes",
+            "Ignore direction"
+          ],
+          "ans": 1,
+          "explanation": "Graphical vector addition requires appropriate scale, accurate drawing, and measurement of resultant."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w9_su2",
+      "title": "9.2 Resolution of Vectors",
+      "notes": [
+        "Resolution of Vectors",
+        "",
+        "Key Concepts:",
+        "1. What is resolution of vectors?",
+        "   - The process of splitting a vector into two or more component vectors",
+        "   - Usually resolved into perpendicular components (horizontal and vertical)",
+        "   - Example: A force of 10 N at 30° to horizontal can be resolved into horizontal and vertical components",
+        "",
+        "2. Why resolve vectors?",
+        "   - Simplifies problem-solving by working with perpendicular components",
+        "   - Allows analysis of motion in different directions separately",
+        "   - Essential for solving problems involving inclined planes, projectiles, and forces",
+        "",
+        "3. Components of a vector:",
+        "   a) Horizontal component (x-component):",
+        "      - Fx = F cos θ (where θ is angle with horizontal)",
+        "      - Acts along the horizontal axis",
+        "",
+        "   b) Vertical component (y-component):",
+        "      - Fy = F sin θ (where θ is angle with horizontal)",
+        "      - Acts along the vertical axis",
+        "",
+        "4. Steps for resolving a vector:",
+        "   - Identify the magnitude (F) and angle (θ) of the vector",
+        "   - Calculate horizontal component: Fx = F cos θ",
+        "   - Calculate vertical component: Fy = F sin θ",
+        "   - Verify: F = √(Fx² + Fy²) and tan θ = Fy/Fx",
+        "",
+        "5. Applications of vector resolution:",
+        "   - Inclined plane problems: resolve weight into components parallel and perpendicular to plane",
+        "   - Projectile motion: resolve initial velocity into horizontal and vertical components",
+        "   - Force analysis: resolve forces into components for equilibrium problems",
+        "",
+        "Nigerian Context:",
+        "• Vector resolution in Nigerian applications:",
+        "  - Construction: resolving forces on inclined roofs and ramps",
+        "  - Agriculture: resolving forces on ploughs and farm equipment",
+        "  - Sports: resolving velocity of football kicks into horizontal and vertical components",
+        "",
+        "• Local examples:",
+        "  - A ladder leaning against a wall: resolve weight into components",
+        "  - A boat pulled by a rope at an angle: resolve tension into horizontal and vertical components",
+        "  - A football kicked at an angle: resolve initial velocity for trajectory analysis",
+        "",
+        "Practical Activities:",
+        "1. Component Calculation Practice:",
+        "   - Teacher provides vectors with magnitude and angle",
+        "   - Students calculate horizontal and vertical components",
+        "   - Example: Resolve 50 N at 37° to horizontal (cos 37° ≈ 0.8, sin 37° ≈ 0.6)",
+        "",
+        "2. Inclined Plane Problems:",
+        "   - Teacher presents problems involving objects on inclined planes",
+        "   - Students resolve weight into components parallel and perpendicular to plane",
+        "   - Discuss applications in Nigerian construction and engineering",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze a football kick at an angle",
+        "   - Resolve initial velocity into components",
+        "   - Discuss how components affect range and height of the kick",
+        "",
+        "Common Misconceptions:",
+        "• 'Components are smaller than the original vector': Components can be larger or smaller depending on angle",
+        "• 'Resolution is only for forces': Any vector can be resolved, not just forces",
+        "• 'Components are independent': Components are related through the original vector",
+        "",
+        "Nigerian Context:",
+        "• Understanding vector resolution supports problem-solving in Nigerian engineering and sports",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and sports science careers",
+        "",
+        "Conclusion:",
+        "• Resolution splits a vector into perpendicular components",
+        "• Components are calculated using trigonometry: Fx = F cos θ, Fy = F sin θ",
+        "• Resolution simplifies problem-solving in inclined planes, projectiles, and forces",
+        "• Mastery of vector resolution supports advanced problem-solving in physics and engineering"
+      ],
+      "diagramDescriptions": [
+        "Chart showing resolution of a vector into horizontal and vertical components",
+        "Diagram of trigonometric relationships for component calculation",
+        "Sample problems with vector resolution solutions",
+        "Nigerian context: Vector resolution in local applications",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics vector resolution components site:youtube.com",
+      "quiz": [
+        {
+          "q": "Resolution of vectors means:",
+          "opts": [
+            "Adding vectors together",
+            "Splitting a vector into component vectors",
+            "Multiplying vectors",
+            "Subtracting vectors"
+          ],
+          "ans": 1,
+          "explanation": "Resolution of vectors is the process of splitting a vector into two or more component vectors."
+        },
+        {
+          "q": "The horizontal component of a vector F at angle θ to horizontal is:",
+          "opts": [
+            "F sin θ",
+            "F cos θ",
+            "F tan θ",
+            "F / cos θ"
+          ],
+          "ans": 1,
+          "explanation": "The horizontal component is Fx = F cos θ, where θ is the angle with the horizontal."
+        },
+        {
+          "q": "A force of 10 N acts at 60° to the horizontal. Its vertical component is:",
+          "opts": [
+            "5 N",
+            "8.66 N",
+            "10 N",
+            "17.32 N"
+          ],
+          "ans": 1,
+          "explanation": "Vertical component Fy = F sin θ = 10 × sin 60° = 10 × 0.866 = 8.66 N."
+        },
+        {
+          "q": "Vector resolution is useful for:",
+          "opts": [
+            "Only adding vectors",
+            "Simplifying problems by working with perpendicular components",
+            "Only calculating magnitudes",
+            "Only drawing vectors"
+          ],
+          "ans": 1,
+          "explanation": "Vector resolution simplifies problem-solving by allowing analysis of perpendicular components separately."
+        },
+        {
+          "q": "In Nigerian context, vector resolution is used for:",
+          "opts": [
+            "Only drawing pictures",
+            "Analyzing forces in construction, sports, and engineering",
+            "Only measuring distances",
+            "Only calculating speeds"
+          ],
+          "ans": 1,
+          "explanation": "Vector resolution is used in construction (forces on structures), sports (projectile motion), and engineering in Nigeria."
+        },
+        {
+          "q": "The vertical component of a vector is calculated using:",
+          "opts": [
+            "Cosine of the angle",
+            "Sine of the angle",
+            "Tangent of the angle",
+            "Cotangent of the angle"
+          ],
+          "ans": 1,
+          "explanation": "The vertical component is Fy = F sin θ, using the sine of the angle with the horizontal."
+        },
+        {
+          "q": "Understanding vector resolution is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports problem-solving in engineering, sports, and construction",
+            "Only for calculating components",
+            "Only for drawing diagrams"
+          ],
+          "ans": 1,
+          "explanation": "Vector resolution skills support problem-solving in Nigerian engineering, sports analysis, and construction."
+        },
+        {
+          "q": "Which is NOT a reason for resolving vectors?",
+          "opts": [
+            "To simplify problem-solving",
+            "To analyze motion in different directions",
+            "To make vectors larger",
+            "To solve inclined plane problems"
+          ],
+          "ans": 2,
+          "explanation": "Vector resolution does not make vectors larger; it simplifies problem-solving by working with components."
+        },
+        {
+          "q": "A common misconception about vector resolution is:",
+          "opts": [
+            "Components are calculated using trigonometry",
+            "Components are always smaller than the original vector",
+            "Resolution simplifies problem-solving",
+            "Any vector can be resolved"
+          ],
+          "ans": 1,
+          "explanation": "Components are not always smaller than the original vector; they depend on the angle of resolution."
+        },
+        {
+          "q": "When resolving a vector, you should:",
+          "opts": [
+            "Ignore the angle",
+            "Use Fx = F cos θ and Fy = F sin θ for components",
+            "Only calculate magnitude",
+            "Only draw the vector"
+          ],
+          "ans": 1,
+          "explanation": "Vector resolution uses Fx = F cos θ for horizontal component and Fy = F sin θ for vertical component."
+        }
+      ]
+    }
+  ]
+}

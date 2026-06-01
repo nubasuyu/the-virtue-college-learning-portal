@@ -1,0 +1,425 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Introduction to Physics",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w1_su1",
+      "title": "1.1 Definition of Physics and Its Applications",
+      "notes": [
+        "Definition of Physics and Its Applications",
+        "",
+        "Key Concepts:",
+        "1. What is Physics?",
+        "   - Physics is the branch of science that studies matter, energy, and their interactions",
+        "   - It seeks to understand how the universe behaves from the smallest particles to the largest galaxies",
+        "   - Physics uses observation, experimentation, and mathematical modeling to explain natural phenomena",
+        "",
+        "2. Branches of Physics:",
+        "   a) Mechanics: Study of motion and forces",
+        "   b) Thermodynamics: Study of heat and energy transfer",
+        "   c) Optics: Study of light and vision",
+        "   d) Electricity and Magnetism: Study of electric and magnetic phenomena",
+        "   e) Modern Physics: Study of atomic, nuclear, and quantum phenomena",
+        "",
+        "3. Applications of Physics in Daily Life:",
+        "   a) Automobile:",
+        "      - Engine design uses thermodynamics principles",
+        "      - Braking systems use friction and force concepts",
+        "      - Airbags use principles of momentum and impulse",
+        "",
+        "   b) Space and Aeronautics:",
+        "      - Rocket propulsion uses Newton's third law of motion",
+        "      - Satellite orbits use gravitational force concepts",
+        "      - Aircraft design uses principles of aerodynamics",
+        "",
+        "   c) Electronics and Communication:",
+        "      - Mobile phones use electromagnetic waves for communication",
+        "      - Computers use semiconductor physics for processing",
+        "      - Radio and TV use principles of wave propagation",
+        "",
+        "   d) Medicine:",
+        "      - X-rays use electromagnetic radiation for imaging",
+        "      - MRI machines use magnetic fields and radio waves",
+        "      - Ultrasound uses sound waves for diagnosis",
+        "",
+        "   e) Energy and Warfare:",
+        "      - Solar panels convert light energy to electrical energy",
+        "      - Nuclear power uses principles of nuclear physics",
+        "      - Radar and sonar use wave reflection principles",
+        "",
+        "4. Career Prospects in Physics:",
+        "   - Engineering: Mechanical, Electrical, Civil, Aerospace",
+        "   - Medicine: Radiology, Medical Physics, Biomedical Engineering",
+        "   - Research: Astrophysics, Particle Physics, Materials Science",
+        "   - Education: Teaching, Curriculum Development",
+        "   - Industry: Quality Control, Product Development, Energy Sector",
+        "",
+        "Nigerian Context:",
+        "• Physics applications in Nigeria:",
+        "  - NASENI and NARICT apply physics in technology development",
+        "  - NNPC uses physics in oil exploration and refining",
+        "  - Nigerian universities offer physics programs leading to diverse careers",
+        "",
+        "• Local examples:",
+        "  - Solar energy projects in rural electrification",
+        "  - Physics principles in local construction and engineering",
+        "  - Medical physics in Nigerian hospitals for diagnosis and treatment",
+        "",
+        "Practical Activities:",
+        "1. Brainstorming Session:",
+        "   - Teacher asks students to list everyday objects and identify physics principles involved",
+        "   - Students discuss in groups and present findings",
+        "",
+        "2. Career Exploration:",
+        "   - Teacher invites a physicist or engineer to speak about career paths",
+        "   - Students research physics-related careers in Nigeria",
+        "",
+        "3. Demonstration:",
+        "   - Simple experiments showing physics principles (e.g., pendulum for motion, magnets for magnetism)",
+        "   - Students observe and relate to real-life applications",
+        "",
+        "Common Misconceptions:",
+        "• 'Physics is only for geniuses': Physics is learnable with practice and curiosity",
+        "• 'Physics has no practical use': Physics underpins most modern technology",
+        "• 'Physics is only about formulas': Physics is about understanding how the world works",
+        "",
+        "Nigerian Context:",
+        "• Understanding physics helps Nigerian students contribute to national development",
+        "• Physics knowledge supports innovation in agriculture, energy, and healthcare",
+        "• Career opportunities in physics support economic growth and technological advancement",
+        "",
+        "Conclusion:",
+        "• Physics is the study of matter, energy, and their interactions",
+        "• Physics has wide applications in automobile, space, electronics, medicine, and more",
+        "• Career prospects in physics are diverse and impactful",
+        "• Mastery of physics concepts supports innovation and national development in Nigeria"
+      ],
+      "diagramDescriptions": [
+        "Chart of physics branches with examples",
+        "Diagram showing physics applications in daily life",
+        "Sample career paths in physics with Nigerian examples",
+        "Nigerian context: Physics applications in local industries",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics introduction applications careers site:youtube.com",
+      "quiz": [
+        {
+          "q": "Physics is the study of:",
+          "opts": [
+            "Only living things",
+            "Matter, energy, and their interactions",
+            "Only chemical reactions",
+            "Only mathematical equations"
+          ],
+          "ans": 1,
+          "explanation": "Physics studies matter, energy, and how they interact with each other."
+        },
+        {
+          "q": "Which branch of physics studies motion and forces?",
+          "opts": [
+            "Thermodynamics",
+            "Mechanics",
+            "Optics",
+            "Electricity"
+          ],
+          "ans": 1,
+          "explanation": "Mechanics is the branch of physics that studies motion and forces."
+        },
+        {
+          "q": "In automobile design, physics is applied in:",
+          "opts": [
+            "Only painting the car",
+            "Engine design, braking systems, and airbag deployment",
+            "Only choosing the color",
+            "Only marketing the car"
+          ],
+          "ans": 1,
+          "explanation": "Physics principles are used in engine design (thermodynamics), braking (friction), and airbags (momentum)."
+        },
+        {
+          "q": "Which medical application uses electromagnetic radiation?",
+          "opts": [
+            "Stethoscope",
+            "X-ray imaging",
+            "Blood pressure monitor",
+            "Thermometer"
+          ],
+          "ans": 1,
+          "explanation": "X-ray imaging uses electromagnetic radiation to create images of internal body structures."
+        },
+        {
+          "q": "In Nigerian context, physics is applied in:",
+          "opts": [
+            "Only theoretical research",
+            "Solar energy projects, oil exploration, and medical diagnostics",
+            "Only teaching in schools",
+            "Only in laboratories"
+          ],
+          "ans": 1,
+          "explanation": "Physics applications in Nigeria include solar energy, oil exploration (NNPC), and medical physics in hospitals."
+        },
+        {
+          "q": "A career prospect in physics is:",
+          "opts": [
+            "Only teaching",
+            "Engineering, medicine, research, education, and industry",
+            "Only working in space",
+            "Only doing experiments"
+          ],
+          "ans": 1,
+          "explanation": "Physics opens diverse career paths including engineering, medical physics, research, teaching, and industrial applications."
+        },
+        {
+          "q": "Which is NOT an application of physics?",
+          "opts": [
+            "Mobile phone communication",
+            "Cooking food",
+            "Satellite orbits",
+            "Solar panel operation"
+          ],
+          "ans": 1,
+          "explanation": "While cooking involves heat transfer (physics), it is not typically cited as a primary application of physics in the curriculum context."
+        },
+        {
+          "q": "Understanding physics is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Supports innovation, technological development, and national growth",
+            "Only for becoming a scientist",
+            "Only for academic purposes"
+          ],
+          "ans": 1,
+          "explanation": "Physics knowledge enables innovation in energy, healthcare, agriculture, and technology, supporting Nigeria's development."
+        },
+        {
+          "q": "Which branch of physics studies light and vision?",
+          "opts": [
+            "Mechanics",
+            "Thermodynamics",
+            "Optics",
+            "Nuclear physics"
+          ],
+          "ans": 2,
+          "explanation": "Optics is the branch of physics that studies light, vision, and optical instruments."
+        },
+        {
+          "q": "A common misconception about physics is:",
+          "opts": [
+            "Physics studies matter and energy",
+            "Physics is only for geniuses",
+            "Physics has practical applications",
+            "Physics uses mathematical models"
+          ],
+          "ans": 1,
+          "explanation": "Physics is learnable with practice and curiosity; it is not reserved only for 'geniuses'."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w1_su2",
+      "title": "1.2 Fundamental and Derived Quantities and Their Units",
+      "notes": [
+        "Fundamental and Derived Quantities and Their Units",
+        "",
+        "Key Concepts:",
+        "1. What are physical quantities?",
+        "   - Properties of matter or phenomena that can be measured",
+        "   - Expressed as a numerical value and a unit",
+        "   - Example: Length = 5 meters, Time = 10 seconds",
+        "",
+        "2. Fundamental (Base) Quantities:",
+        "   - Seven fundamental quantities in the International System of Units (SI):",
+        "     a) Length (meter, m) - distance between two points",
+        "     b) Mass (kilogram, kg) - amount of matter in an object",
+        "     c) Time (second, s) - duration of an event",
+        "     d) Electric current (ampere, A) - flow of electric charge",
+        "     e) Temperature (kelvin, K) - degree of hotness or coldness",
+        "     f) Amount of substance (mole, mol) - number of particles",
+        "     g) Luminous intensity (candela, cd) - brightness of light",
+        "",
+        "3. Derived Quantities:",
+        "   - Quantities obtained by combining fundamental quantities",
+        "   - Examples:",
+        "     a) Area = length × length (m²)",
+        "     b) Volume = length × length × length (m³)",
+        "     c) Speed = distance/time (m/s)",
+        "     d) Force = mass × acceleration (kg·m/s² or Newton, N)",
+        "     e) Energy = force × distance (kg·m²/s² or Joule, J)",
+        "",
+        "4. Importance of Standard Units:",
+        "   - Ensure consistency in measurements worldwide",
+        "   - Enable accurate communication among scientists",
+        "   - Support trade, engineering, and technology development",
+        "",
+        "5. Converting Units:",
+        "   - Use conversion factors to change from one unit to another",
+        "   - Example: 1 km = 1000 m, 1 hour = 3600 seconds",
+        "   - Practice converting between metric units (e.g., cm to m, g to kg)",
+        "",
+        "Nigerian Context:",
+        "• Measurement in Nigerian industries:",
+        "  - Construction: meters for length, kilograms for materials",
+        "  - Agriculture: hectares for land, kilograms for produce",
+        "  - Commerce: liters for fuel, kilograms for goods",
+        "",
+        "• Local examples:",
+        "  - Market traders use kilograms and liters for selling goods",
+        "  - Engineers use SI units in building bridges and roads",
+        "  - Scientists in Nigerian labs use standard units for research",
+        "",
+        "Practical Activities:",
+        "1. Measurement Practice:",
+        "   - Students measure length, mass, and time using rulers, balances, and stopwatches",
+        "   - Record measurements with correct units",
+        "",
+        "2. Unit Conversion Exercises:",
+        "   - Teacher provides problems for converting between units",
+        "   - Students practice converting km to m, hours to seconds, etc.",
+        "",
+        "3. Real-Life Application:",
+        "   - Students identify fundamental and derived quantities in everyday objects",
+        "   - Example: A car's speed (derived: m/s), fuel volume (derived: liters)",
+        "",
+        "Common Misconceptions:",
+        "• 'All quantities are fundamental': Only seven quantities are fundamental; others are derived",
+        "• 'Units don't matter': Units are essential for accurate measurement and communication",
+        "• 'Any unit can be used': Standard SI units ensure global consistency",
+        "",
+        "Nigerian Context:",
+        "• Understanding quantities and units supports accuracy in Nigerian industries and education",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for science, engineering, and technology careers in Nigeria",
+        "",
+        "Conclusion:",
+        "• Fundamental quantities are the seven base quantities in the SI system",
+        "• Derived quantities are obtained by combining fundamental quantities",
+        "• Standard units ensure consistency and accuracy in measurements",
+        "• Mastery of quantities and units supports scientific literacy and technical proficiency"
+      ],
+      "diagramDescriptions": [
+        "Chart of fundamental quantities with SI units",
+        "Diagram showing how derived quantities are formed",
+        "Sample unit conversion examples",
+        "Nigerian context: Measurement in local industries",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics fundamental derived quantities units site:youtube.com",
+      "quiz": [
+        {
+          "q": "Fundamental quantities are:",
+          "opts": [
+            "Quantities derived from other quantities",
+            "Seven base quantities in the SI system",
+            "Only quantities used in mechanics",
+            "Only quantities that can be measured with a ruler"
+          ],
+          "ans": 1,
+          "explanation": "Fundamental quantities are the seven base quantities in the SI system: length, mass, time, electric current, temperature, amount of substance, and luminous intensity."
+        },
+        {
+          "q": "Which is a fundamental quantity?",
+          "opts": [
+            "Speed",
+            "Mass",
+            "Force",
+            "Energy"
+          ],
+          "ans": 1,
+          "explanation": "Mass is a fundamental quantity; speed, force, and energy are derived quantities."
+        },
+        {
+          "q": "The SI unit of length is:",
+          "opts": [
+            "Kilogram",
+            "Second",
+            "Meter",
+            "Ampere"
+          ],
+          "ans": 2,
+          "explanation": "The SI unit of length is the meter (m)."
+        },
+        {
+          "q": "Speed is a derived quantity because it is:",
+          "opts": [
+            "A fundamental quantity",
+            "Obtained by dividing distance by time",
+            "Measured with a stopwatch only",
+            "Only used in physics"
+          ],
+          "ans": 1,
+          "explanation": "Speed is derived from fundamental quantities: distance (length) divided by time."
+        },
+        {
+          "q": "In Nigerian context, which is a derived quantity?",
+          "opts": [
+            "Mass of rice sold in the market",
+            "Volume of fuel in liters",
+            "Time taken for a journey",
+            "Temperature of the weather"
+          ],
+          "ans": 1,
+          "explanation": "Volume (liters) is a derived quantity (length³); mass, time, and temperature are fundamental."
+        },
+        {
+          "q": "Standard units are important because they:",
+          "opts": [
+            "Make measurements longer",
+            "Ensure consistency and accuracy worldwide",
+            "Are only used in laboratories",
+            "Are only for scientists"
+          ],
+          "ans": 1,
+          "explanation": "Standard SI units ensure consistency, accuracy, and clear communication in measurements globally."
+        },
+        {
+          "q": "Which is NOT a fundamental quantity?",
+          "opts": [
+            "Length",
+            "Time",
+            "Force",
+            "Electric current"
+          ],
+          "ans": 2,
+          "explanation": "Force is a derived quantity (mass × acceleration); length, time, and electric current are fundamental."
+        },
+        {
+          "q": "Understanding quantities and units is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports accuracy in industries, commerce, and scientific research",
+            "Only for becoming an engineer",
+            "Only for laboratory work"
+          ],
+          "ans": 1,
+          "explanation": "Knowledge of quantities and units ensures accuracy in Nigerian industries, trade, and scientific work."
+        },
+        {
+          "q": "The SI unit of time is:",
+          "opts": [
+            "Hour",
+            "Minute",
+            "Second",
+            "Day"
+          ],
+          "ans": 2,
+          "explanation": "The SI unit of time is the second (s)."
+        },
+        {
+          "q": "A common misconception about quantities is:",
+          "opts": [
+            "Fundamental quantities are base quantities",
+            "All quantities are fundamental",
+            "Derived quantities combine fundamental quantities",
+            "Standard units ensure consistency"
+          ],
+          "ans": 1,
+          "explanation": "Not all quantities are fundamental; only seven are fundamental, while others are derived from them."
+        }
+      ]
+    }
+  ]
+}

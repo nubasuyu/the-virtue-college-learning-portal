@@ -1,0 +1,67 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Light Waves: Prisms, Minimum Deviation & Totally Reflecting Prisms",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w10_su1",
+      "title": "10.1 Refraction Through Prisms, Minimum Deviation, and Totally Reflecting Prisms",
+      "notes": [
+        "Refraction Through Prisms and Totally Reflecting Prisms",
+        "",
+        "Key Concepts:",
+        "1. Refraction Through Triangular Prism:",
+        "   - Light enters prism, bends toward normal at first face, bends away at second face",
+        "   - Angle of deviation (D) = angle between incident and emergent rays",
+        "",
+        "2. Angle of Minimum Deviation (Dm):",
+        "   - Minimum possible deviation for a given prism and wavelength",
+        "   - Occurs when angle of incidence = angle of emergence",
+        "   - Formula: n = sin[(A + Dm)/2] / sin(A/2), where A = prism angle",
+        "",
+        "3. Totally Reflecting Prisms:",
+        "   - Right-angled isosceles glass prisms that use TIR instead of silvered mirrors",
+        "   - Advantages: no tarnishing, 100% reflection, brighter images",
+        "   - Applications: periscopes, binoculars, bicycle reflectors, camera viewfinders",
+        "",
+        "4. Types of Totally Reflecting Prisms:",
+        "   a) 90° Deviation Prism: Turns light by 90°",
+        "   b) 180° Deviation Prism: Turns light back on itself",
+        "   c) Erecting Prism: Inverts image without deviation",
+        "",
+        "5. Nigerian Context:",
+        "   - Prism binoculars used in Nigerian security and surveying",
+        "   - Bicycle and vehicle reflectors using TIR prisms for night visibility",
+        "   - School lab demonstrations of prism deviation and TIR",
+        "",
+        "Conclusion:",
+        "   - Prisms deviate light via refraction; minimum deviation depends on prism angle and n",
+        "   - Totally reflecting prisms use TIR for efficient, tarnish-free reflection",
+        "   - Widely used in optics, security, and transportation",
+        "   - Mastery supports optical engineering and instrument design"
+      ],
+      "diagramDescriptions": [
+        "Chart of prism refraction and deviation angles",
+        "Diagram of minimum deviation condition",
+        "TIR prism diagrams for 90° and 180° deviation",
+        "Nigerian context: Binoculars, reflectors, and surveying equipment",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics prism minimum deviation totally reflecting prism site:youtube.com",
+      "quiz": [
+        {"q": "Angle of deviation in a prism is:", "opts": ["Angle between prism faces", "Angle between incident and emergent rays", "Angle of refraction only", "Prism apex angle"], "ans": 1, "explanation": "Deviation angle is the angle between the direction of incident ray and emergent ray."},
+        {"q": "Minimum deviation occurs when:", "opts": ["Angle of incidence = 0", "Angle of incidence = angle of emergence", "Light reflects internally", "Prism is inverted"], "ans": 1, "explanation": "Minimum deviation occurs when angle of incidence equals angle of emergence."},
+        {"q": "Refractive index using prism formula is:", "opts": ["n = sin(A+Dm)/sinA", "n = sin[(A+Dm)/2] / sin(A/2)", "n = sinDm / sinA", "n = cos(A/2) / sin(A/2)"], "ans": 1, "explanation": "Prism formula: n = sin[(A + Dm)/2] / sin(A/2)."},
+        {"q": "Totally reflecting prisms are preferred over mirrors because they:", "opts": ["Are cheaper", "Provide 100% reflection without tarnishing", "Are heavier", "Bend light randomly"], "ans": 1, "explanation": "TIR prisms reflect 100% of light and do not tarnish like silvered mirrors."},
+        {"q": "A 90° deviation prism is commonly used in:", "opts": ["Telescopes", "Periscopes and binoculars", "Mirrors", "Lenses"], "ans": 1, "explanation": "90° prisms are used in periscopes and binoculars to redirect light paths."},
+        {"q": "In Nigerian context, TIR prisms are found in:", "opts": ["Cooking pots", "Bicycle reflectors and surveying equipment", "Farm tools", "Generators"], "ans": 1, "explanation": "Bicycle reflectors and surveying prisms use TIR for visibility and measurement."},
+        {"q": "A common misconception about prisms is:", "opts": ["They only reflect light", "They refract and can cause TIR", "They only work with red light", "They are mirrors"], "ans": 0, "explanation": "Prisms primarily refract light but can cause total internal reflection under specific conditions."},
+        {"q": "When light passes through a prism, it bends:", "opts": ["Once", "Twice (at entry and exit)", "Never", "Three times"], "ans": 1, "explanation": "Light refracts twice: once entering the prism and once exiting."},
+        {"q": "Erecting prisms are used to:", "opts": ["Magnify images", "Invert images without deviation", "Deviate light by 90°", "Focus light"], "ans": 1, "explanation": "Erecting prisms invert images to correct orientation without changing light direction."},
+        {"q": "To achieve minimum deviation, you should:", "opts": ["Increase angle of incidence indefinitely", "Adjust incidence until emergence equals incidence", "Use a triangular mirror", "Increase prism thickness"], "ans": 1, "explanation": "Minimum deviation occurs when angle of incidence equals angle of emergence."}
+      ]
+    }
+  ]
+}

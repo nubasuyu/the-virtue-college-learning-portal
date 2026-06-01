@@ -1,0 +1,424 @@
+{
+  "course": "SSS1 Physics",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Fluids at Rest and in Motion",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t3_w2_su1",
+      "title": "2.1 Surface Tension and Capillarity",
+      "notes": [
+        "Surface Tension and Capillarity",
+        "",
+        "Key Concepts:",
+        "1. What is surface tension?",
+        "   - Surface tension is the property of a liquid surface that allows it to resist external force",
+        "   - Caused by cohesive forces between liquid molecules at the surface",
+        "   - Unit: Newton per meter (N/m)",
+        "",
+        "2. Effects of surface tension:",
+        "   a) Formation of droplets:",
+        "      - Water forms spherical droplets due to surface tension",
+        "      - Minimizes surface area for given volume",
+        "",
+        "   b) Insects walking on water:",
+        "      - Water striders use surface tension to walk on water",
+        "      - Their weight is supported by the surface film",
+        "",
+        "   c) Capillary action:",
+        "      - Rise or fall of liquid in narrow tubes",
+        "      - Due to combination of surface tension and adhesion",
+        "",
+        "3. Capillarity:",
+        "   a) Cohesion:",
+        "      - Attractive force between molecules of the same substance",
+        "      - Causes surface tension",
+        "",
+        "   b) Adhesion:",
+        "      - Attractive force between molecules of different substances",
+        "      - Causes liquid to wet surfaces",
+        "",
+        "   c) Capillary rise:",
+        "      - Liquid rises in narrow tube if adhesion > cohesion",
+        "      - Height h = 2γcosθ/ρgr, where γ = surface tension, θ = contact angle",
+        "",
+        "4. Applications of surface tension and capillarity:",
+        "   - Writing with pen: ink flows due to capillary action",
+        "   - Oil lamps: oil rises through wick by capillarity",
+        "   - Soil moisture: water rises in soil pores by capillarity",
+        "   - Medical: blood flow in capillaries",
+        "",
+        "Nigerian Context:",
+        "• Surface tension and capillarity in Nigerian applications:",
+        "  - Traditional oil lamps: oil rises through wick by capillarity",
+        "  - Agriculture: water movement in soil pores affects crop growth",
+        "  - Medicine: understanding blood flow in capillaries for health",
+        "",
+        "• Local examples:",
+        "  - Water droplets on leaves after rain in Nigerian farms",
+        "  - Ink flow in pens used by Nigerian students",
+        "  - Water rising in narrow tubes during traditional water purification",
+        "",
+        "Practical Activities:",
+        "1. Surface Tension Demonstration:",
+        "   - Teacher places a needle gently on water surface",
+        "   - Students observe how surface tension supports the needle",
+        "   - Add detergent to break surface tension and observe sinking",
+        "",
+        "2. Capillary Action Experiment:",
+        "   - Teacher provides narrow glass tubes and colored water",
+        "   - Students observe water rise in tubes of different diameters",
+        "   - Measure height of rise and discuss relationship with tube diameter",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze water movement in Nigerian soil",
+        "   - Discuss how capillarity affects irrigation and crop growth",
+        "   - Propose methods to manage soil moisture using capillarity principles",
+        "",
+        "Common Misconceptions:",
+        "• 'Surface tension is a force': Surface tension is a property (force per unit length), not a force itself",
+        "• 'Capillarity only causes rise': Capillarity can cause rise or fall depending on adhesion/cohesion balance",
+        "• 'Surface tension depends on container size': Surface tension is a property of the liquid, independent of container",
+        "",
+        "Nigerian Context:",
+        "• Understanding surface tension supports agriculture and engineering in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, agriculture, and technology careers",
+        "",
+        "Conclusion:",
+        "• Surface tension is the property of liquid surfaces to resist external force",
+        "• Capillarity is rise/fall of liquid in narrow tubes due to adhesion and cohesion",
+        "• Applications include writing, oil lamps, soil moisture, and medical capillaries",
+        "• Mastery supports understanding of fluid behavior and practical applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of surface tension and capillarity concepts with examples",
+        "Diagram of cohesive and adhesive forces in capillarity",
+        "Sample capillary rise experiment setup",
+        "Nigerian context: Soil moisture and traditional oil lamps",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics surface tension capillarity site:youtube.com",
+      "quiz": [
+        {
+          "q": "Surface tension is:",
+          "opts": [
+            "A force acting on liquid surfaces",
+            "The property of a liquid surface to resist external force",
+            "The weight of a liquid per unit volume",
+            "The pressure inside a liquid droplet"
+          ],
+          "ans": 1,
+          "explanation": "Surface tension is the property of a liquid surface that allows it to resist external force, caused by cohesive forces between molecules."
+        },
+        {
+          "q": "The unit of surface tension is:",
+          "opts": [
+            "Newton (N)",
+            "Newton per meter (N/m)",
+            "Pascal (Pa)",
+            "Joule (J)"
+          ],
+          "ans": 1,
+          "explanation": "Surface tension is force per unit length, so its unit is Newton per meter (N/m)."
+        },
+        {
+          "q": "Capillary rise occurs when:",
+          "opts": [
+            "Cohesion > adhesion",
+            "Adhesion > cohesion",
+            "Surface tension is zero",
+            "Liquid density is high"
+          ],
+          "ans": 1,
+          "explanation": "Capillary rise occurs when adhesive forces between liquid and tube are greater than cohesive forces within the liquid."
+        },
+        {
+          "q": "In Nigerian context, capillarity is important for:",
+          "opts": [
+            "Only theoretical physics",
+            "Soil moisture management and traditional oil lamps",
+            "Only calculating surface tension",
+            "Only for water"
+          ],
+          "ans": 1,
+          "explanation": "Capillarity is important for soil moisture management in agriculture and oil rise in traditional lamps in Nigeria."
+        },
+        {
+          "q": "Cohesion refers to:",
+          "opts": [
+            "Attraction between different substances",
+            "Attraction between molecules of the same substance",
+            "Repulsion between liquid molecules",
+            "Force due to gravity"
+          ],
+          "ans": 1,
+          "explanation": "Cohesion is the attractive force between molecules of the same substance, causing surface tension."
+        },
+        {
+          "q": "An effect of surface tension is:",
+          "opts": [
+            "Water flowing downhill",
+            "Formation of spherical water droplets",
+            "Evaporation of water",
+            "Freezing of water"
+          ],
+          "ans": 1,
+          "explanation": "Surface tension causes water to form spherical droplets to minimize surface area for a given volume."
+        },
+        {
+          "q": "Understanding surface tension is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports agriculture, engineering, and understanding of fluid behavior",
+            "Only for calculating capillary rise",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Surface tension concepts support agriculture (soil moisture), engineering (fluid systems), and understanding of fluid behavior in Nigeria."
+        },
+        {
+          "q": "Which is NOT an application of capillarity?",
+          "opts": [
+            "Ink flow in pens",
+            "Oil rise in lamp wicks",
+            "Water flow in rivers",
+            "Blood flow in capillaries"
+          ],
+          "ans": 2,
+          "explanation": "Water flow in rivers is due to gravity, not capillarity; the others are capillary applications."
+        },
+        {
+          "q": "A common misconception about surface tension is:",
+          "opts": [
+            "Surface tension is a property, not a force",
+            "Surface tension is a force acting on surfaces",
+            "Surface tension causes droplet formation",
+            "Surface tension depends on temperature"
+          ],
+          "ans": 1,
+          "explanation": "Surface tension is a property (force per unit length), not a force itself; it is the result of cohesive forces."
+        },
+        {
+          "q": "When observing capillary action, you should:",
+          "opts": [
+            "Use wide tubes only",
+            "Use narrow tubes and measure height of liquid rise",
+            "Ignore the contact angle",
+            "Only use water"
+          ],
+          "ans": 1,
+          "explanation": "Capillary action is observed in narrow tubes; measuring height of rise helps understand the relationship with tube diameter."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t3_w2_su2",
+      "title": "2.2 Viscosity",
+      "notes": [
+        "Viscosity",
+        "",
+        "Key Concepts:",
+        "1. What is viscosity?",
+        "   - Viscosity is the measure of a fluid's resistance to flow",
+        "   - It describes internal friction between layers of fluid in motion",
+        "   - High viscosity = thick fluid (e.g., honey); low viscosity = thin fluid (e.g., water)",
+        "   - Unit: Pascal-second (Pa·s) or Poise (P)",
+        "",
+        "2. Factors affecting viscosity:",
+        "   a) Temperature:",
+        "      - For liquids: viscosity decreases with increasing temperature",
+        "      - For gases: viscosity increases with increasing temperature",
+        "",
+        "   b) Nature of fluid:",
+        "      - Different fluids have different viscosities",
+        "      - Example: honey (high viscosity) vs water (low viscosity)",
+        "",
+        "   c) Pressure:",
+        "      - For liquids: viscosity increases slightly with pressure",
+        "      - For gases: viscosity is largely independent of pressure",
+        "",
+        "3. Terminal velocity:",
+        "   - When an object falls through a viscous fluid, it reaches a constant speed called terminal velocity",
+        "   - At terminal velocity: weight = upthrust + viscous drag",
+        "   - Formula for sphere: v = 2r²g(ρ-σ)/9η, where r = radius, ρ = density of sphere, σ = density of fluid, η = viscosity",
+        "",
+        "4. Applications of viscosity:",
+        "   - Lubrication: oils with appropriate viscosity reduce friction in engines",
+        "   - Food industry: controlling viscosity of sauces, syrups, and beverages",
+        "   - Medicine: blood viscosity affects circulation and health",
+        "   - Paint industry: viscosity determines paint flow and coverage",
+        "",
+        "5. Measuring viscosity:",
+        "   - Viscometers: instruments for measuring viscosity",
+        "   - Common types: capillary viscometer, falling sphere viscometer",
+        "   - Principle: measure time for fluid to flow through capillary or sphere to fall through fluid",
+        "",
+        "Nigerian Context:",
+        "• Viscosity in Nigerian applications:",
+        "  - Engine oils: selecting appropriate viscosity for Nigerian climate and road conditions",
+        "  - Food processing: controlling viscosity of local soups, sauces, and beverages",
+        "  - Medicine: understanding blood viscosity for health monitoring",
+        "",
+        "• Local examples:",
+        "  - Palm oil viscosity changes with temperature in Nigerian cooking",
+        "  - Selecting engine oil for vehicles operating in hot Nigerian climate",
+        "  - Traditional honey production: viscosity indicates quality and purity",
+        "",
+        "Practical Activities:",
+        "1. Viscosity Comparison:",
+        "   - Teacher provides different fluids (water, oil, honey)",
+        "   - Students observe flow rates through identical tubes",
+        "   - Rank fluids by viscosity and discuss observations",
+        "",
+        "2. Temperature Effect Experiment:",
+        "   - Teacher heats a viscous fluid (e.g., oil) to different temperatures",
+        "   - Students measure flow time through capillary at each temperature",
+        "   - Plot viscosity vs temperature and discuss relationship",
+        "",
+        "3. Real-Life Application:",
+        "   - Students analyze engine oil specifications for Nigerian vehicles",
+        "   - Discuss how viscosity affects engine performance in hot climate",
+        "   - Propose oil selection criteria for different Nigerian regions",
+        "",
+        "Common Misconceptions:",
+        "• 'Viscosity is the same as density': Viscosity is resistance to flow; density is mass per unit volume",
+        "• 'All fluids become less viscous when heated': Gases become more viscous with temperature increase",
+        "• 'Terminal velocity depends only on weight': It depends on weight, upthrust, and viscous drag",
+        "",
+        "Nigerian Context:",
+        "• Understanding viscosity supports engineering, food processing, and health in Nigeria",
+        "• Practice with local examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and technology careers",
+        "",
+        "Conclusion:",
+        "• Viscosity is a fluid's resistance to flow; unit is Pa·s or Poise",
+        "• Viscosity depends on temperature, fluid nature, and pressure",
+        "• Terminal velocity is reached when weight = upthrust + viscous drag",
+        "• Mastery supports understanding of fluid behavior and practical applications"
+      ],
+      "diagramDescriptions": [
+        "Chart of viscosity concepts with examples and units",
+        "Diagram of terminal velocity forces on a falling sphere",
+        "Sample viscosity vs temperature graph for liquids and gases",
+        "Nigerian context: Engine oil selection and food processing",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics viscosity terminal velocity site:youtube.com",
+      "quiz": [
+        {
+          "q": "Viscosity is:",
+          "opts": [
+            "The density of a fluid",
+            "The measure of a fluid's resistance to flow",
+            "The pressure exerted by a fluid",
+            "The speed of fluid flow"
+          ],
+          "ans": 1,
+          "explanation": "Viscosity is the measure of a fluid's resistance to flow, describing internal friction between fluid layers."
+        },
+        {
+          "q": "The unit of viscosity is:",
+          "opts": [
+            "Newton (N)",
+            "Pascal-second (Pa·s) or Poise",
+            "Meter per second (m/s)",
+            "Kilogram per cubic meter (kg/m³)"
+          ],
+          "ans": 1,
+          "explanation": "Viscosity is measured in Pascal-second (Pa·s) or Poise (P)."
+        },
+        {
+          "q": "For liquids, viscosity generally:",
+          "opts": [
+            "Increases with temperature",
+            "Decreases with temperature",
+            "Is independent of temperature",
+            "Becomes zero at high temperature"
+          ],
+          "ans": 1,
+          "explanation": "For liquids, viscosity decreases with increasing temperature as molecules move more freely."
+        },
+        {
+          "q": "Terminal velocity is reached when:",
+          "opts": [
+            "Weight > upthrust + viscous drag",
+            "Weight = upthrust + viscous drag",
+            "Weight < upthrust + viscous drag",
+            "Viscous drag = 0"
+          ],
+          "ans": 1,
+          "explanation": "At terminal velocity, the net force is zero: weight = upthrust + viscous drag."
+        },
+        {
+          "q": "In Nigerian context, viscosity is important for:",
+          "opts": [
+            "Only theoretical physics",
+            "Engine oil selection and food processing",
+            "Only calculating terminal velocity",
+            "Only for water"
+          ],
+          "ans": 1,
+          "explanation": "Viscosity is important for selecting engine oils for Nigerian climate and controlling viscosity in local food processing."
+        },
+        {
+          "q": "Which fluid has higher viscosity?",
+          "opts": [
+            "Water",
+            "Honey",
+            "Air",
+            "Petrol"
+          ],
+          "ans": 1,
+          "explanation": "Honey has much higher viscosity than water, air, or petrol, making it flow more slowly."
+        },
+        {
+          "q": "Understanding viscosity is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports engineering, food processing, and health applications",
+            "Only for calculating flow rates",
+            "Only for theory"
+          ],
+          "ans": 1,
+          "explanation": "Viscosity concepts support engine maintenance, food industry, and health monitoring in Nigerian applications."
+        },
+        {
+          "q": "Which is NOT a factor affecting viscosity?",
+          "opts": [
+            "Temperature",
+            "Nature of fluid",
+            "Color of fluid",
+            "Pressure"
+          ],
+          "ans": 2,
+          "explanation": "Viscosity depends on temperature, fluid nature, and pressure, but not on the color of the fluid."
+        },
+        {
+          "q": "A common misconception about viscosity is:",
+          "opts": [
+            "Viscosity is resistance to flow",
+            "Viscosity is the same as density",
+            "Viscosity depends on temperature",
+            "Terminal velocity involves viscous drag"
+          ],
+          "ans": 1,
+          "explanation": "Viscosity and density are different properties: viscosity is resistance to flow, density is mass per unit volume."
+        },
+        {
+          "q": "When measuring viscosity, you should:",
+          "opts": [
+            "Ignore temperature",
+            "Control temperature and use appropriate viscometer",
+            "Only use water",
+            "Measure only once"
+          ],
+          "ans": 1,
+          "explanation": "Viscosity measurements require temperature control and appropriate instruments for accurate results."
+        }
+      ]
+    }
+  ]
+}

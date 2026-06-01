@@ -1,0 +1,71 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Production and Propagation of Waves",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w5_su1",
+      "title": "5.1 Production of Mechanical Waves and Wave Parameters",
+      "notes": [
+        "Production of Mechanical Waves and Wave Parameters",
+        "",
+        "Key Concepts:",
+        "1. Mechanical Waves:",
+        "   - Require a material medium for propagation (solid, liquid, or gas)",
+        "   - Energy is transmitted through particle vibration without net particle displacement",
+        "   - Examples: water waves, sound waves, waves on a stretched rope",
+        "",
+        "2. Pulse vs Periodic Wave:",
+        "   - Pulse: Single disturbance traveling through a medium",
+        "   - Periodic wave: Continuous, repeating disturbances produced by a vibrating source",
+        "",
+        "3. Wave Parameters:",
+        "   a) Wavelength (λ): Distance between two consecutive points in phase (e.g., crest to crest)",
+        "   b) Frequency (f): Number of complete waves passing a point per second (Hz)",
+        "   c) Period (T): Time for one complete wave cycle (T = 1/f)",
+        "   d) Wave speed (v): Distance traveled by a wave per unit time (v = fλ)",
+        "",
+        "4. Wave Form & Graphical Representation:",
+        "   - Transverse: Displacement vs position graph (sinusoidal shape)",
+        "   - Longitudinal: Compression and rarefaction regions (pressure vs position graph)",
+        "",
+        "5. Mathematical Relationships:",
+        "   - v = fλ = λ/T",
+        "   - Energy transmitted is proportional to amplitude squared and frequency squared",
+        "",
+        "Nigerian Context:",
+        "   - Rope waves generated in SS2 Physics practicals",
+        "   - Water wave propagation along Nigerian coastal areas (Lagos, Port Harcourt)",
+        "   - Drum beat propagation as mechanical wave transmission through air",
+        "",
+        "Conclusion:",
+        "   - Mechanical waves require a medium and transmit energy via particle vibration",
+        "   - Key parameters: λ, f, T, v related by v = fλ",
+        "   - Wave graphs represent displacement over position or time",
+        "   - Mastery supports acoustics, optics, and wave mechanics"
+      ],
+      "diagramDescriptions": [
+        "Chart of wave parameters and relationships",
+        "Diagram of transverse vs longitudinal wave forms",
+        "Sample v = fλ calculation problems",
+        "Nigerian context: Rope waves, coastal waves, drum sound",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics production propagation mechanical waves site:youtube.com",
+      "quiz": [
+        {"q": "Mechanical waves require:", "opts": ["A vacuum", "A material medium", "Electromagnetic fields", "No medium"], "ans": 1, "explanation": "Mechanical waves require a material medium (solid, liquid, or gas) for propagation."},
+        {"q": "The relationship between wave speed, frequency, and wavelength is:", "opts": ["v = f/λ", "v = fλ", "v = λ/f", "v = f + λ"], "ans": 1, "explanation": "Wave speed v = frequency × wavelength (v = fλ)."},
+        {"q": "Period (T) is related to frequency (f) by:", "opts": ["T = f", "T = 1/f", "T = f²", "T = 2πf"], "ans": 1, "explanation": "Period is the reciprocal of frequency: T = 1/f."},
+        {"q": "In a transverse wave, the distance between two consecutive crests is:", "opts": ["Amplitude", "Frequency", "Wavelength", "Period"], "ans": 2, "explanation": "Wavelength is the distance between two consecutive points in phase, such as crest to crest."},
+        {"q": "In Nigerian context, mechanical waves can be demonstrated using:", "opts": ["Radio waves", "Rope or water surface", "Light from a bulb", "Microwaves"], "ans": 1, "explanation": "Rope waves and water surface waves are common mechanical wave demonstrations in Nigerian schools."},
+        {"q": "A pulse differs from a periodic wave because:", "opts": ["It travels faster", "It is a single disturbance, not continuous", "It requires no medium", "It has higher frequency"], "ans": 1, "explanation": "A pulse is a single disturbance, while a periodic wave is continuous and repeating."},
+        {"q": "A common misconception about waves is:", "opts": ["They transmit energy", "Particles move with the wave", "They require a medium (mechanical)", "Speed depends on frequency and wavelength"], "ans": 1, "explanation": "Particles vibrate about fixed positions; they do not travel with the wave."},
+        {"q": "If frequency is 50 Hz and wavelength is 2 m, wave speed is:", "opts": ["25 m/s", "52 m/s", "100 m/s", "0.04 m/s"], "ans": 2, "explanation": "v = fλ = 50 × 2 = 100 m/s."},
+        {"q": "Wave energy is proportional to:", "opts": ["Amplitude only", "Frequency only", "Amplitude squared and frequency squared", "Wavelength"], "ans": 2, "explanation": "Wave energy ∝ A²f² (amplitude squared and frequency squared)."},
+        {"q": "To demonstrate wave propagation in class, you should:", "opts": ["Use a vacuum chamber", "Use a stretched rope or ripple tank", "Use a magnet", "Use a battery"], "ans": 1, "explanation": "Stretched ropes and ripple tanks are standard for demonstrating mechanical wave propagation."}
+      ]
+    }
+  ]
+}

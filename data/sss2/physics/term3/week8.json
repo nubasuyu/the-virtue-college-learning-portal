@@ -1,0 +1,71 @@
+{
+  "course": "SS2 Physics",
+  "term": "Third Term",
+  "week": 8,
+  "topic": "Electromagnetic Field: Force on Moving Charge & Current, Motors & Galvanometers",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t3_w8_su1",
+      "title": "8.1 Force on Moving Charge & Current, Electromagnetic Field Interaction, Electric Motor & Moving Coil Galvanometer",
+      "notes": [
+        "Electromagnetic Forces, Motors & Galvanometers",
+        "",
+        "Key Concepts:",
+        "1. Magnetic Force on Moving Charge:",
+        "   - F = qvB sinθ (q = charge, v = velocity, B = field, θ = angle between v and B)",
+        "   - Force is perpendicular to both velocity and magnetic field",
+        "   - Direction given by Fleming's Left-Hand Rule (for positive charge)",
+        "",
+        "2. Magnetic Force on Current-Carrying Conductor:",
+        "   - F = BIL sinθ (I = current, L = length in field)",
+        "   - Maximum force when conductor ⊥ field (sin90°=1); zero when parallel",
+        "",
+        "3. Electromagnetic Field Interaction:",
+        "   - Current-carrying wire in external field experiences force due to field interaction",
+        "   - Solenoid in field behaves like bar magnet; experiences torque aligning with external field",
+        "",
+        "4. DC Electric Motor:",
+        "   - Converts electrical energy to mechanical energy using magnetic force on coil",
+        "   - Split-ring commutator reverses current every half-turn for continuous rotation",
+        "   - Speed ∝ current, field strength, number of turns, coil area",
+        "",
+        "5. Moving Coil Galvanometer:",
+        "   - Detects and measures small currents using coil suspended in radial magnetic field",
+        "   - Deflection ∝ current (linear scale)",
+        "   - Sensitivity increased by: stronger magnet, more turns, weaker spring, soft iron core",
+        "",
+        "6. Nigerian Context:",
+        "   - DC motors used in local fans, water pumps, and small machinery",
+        "   - Galvanometer principles applied in analog multimeters used in Nigerian technical colleges",
+        "   - Vocational training on motor winding and repair in Nigerian workshops",
+        "",
+        "Conclusion:",
+        "   - F = qvB sinθ and F = BIL sinθ quantify electromagnetic forces",
+        "   - Motors convert electricity to motion; galvanometers detect small currents",
+        "   - Design factors optimize performance for practical applications",
+        "   - Mastery supports electrical engineering, instrumentation, and vocational technology"
+      ],
+      "diagramDescriptions": [
+        "Chart of Fleming's Left-Hand Rule and force equations",
+        "Diagram of DC motor commutator action",
+        "Moving coil galvanometer construction and sensitivity factors",
+        "Nigerian context: Local motors, multimeters, vocational training",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics electromagnetic force motor galvanometer Fleming site:youtube.com",
+      "quiz": [
+        {"q": "Magnetic force on a moving charge is given by:", "opts": ["F = qvB sinθ", "F = BIL sinθ", "F = qE", "F = ma"], "ans": 0, "explanation": "F = qvB sinθ calculates force on a charge moving in a magnetic field."},
+        {"q": "Force on a current-carrying conductor is maximum when:", "opts": ["Conductor is parallel to field", "Conductor is perpendicular to field", "Current is zero", "Field is zero"], "ans": 1, "explanation": "Force F = BIL sinθ is maximum when θ = 90° (sin90° = 1)."},
+        {"q": "Fleming's Left-Hand Rule is used to find:", "opts": ["Induced current direction", "Direction of force on current in magnetic field", "Magnetic field direction", "Voltage polarity"], "ans": 1, "explanation": "Left-Hand Rule gives force direction when current and field directions are known."},
+        {"q": "In a DC motor, the split-ring commutator:", "opts": ["Increases voltage", "Reverses current direction every half-turn", "Stores energy", "Reduces friction"], "ans": 1, "explanation": "Commutator reverses current to maintain unidirectional torque for continuous rotation."},
+        {"q": "In Nigerian context, DC motors are commonly used in:", "opts": ["Solar panel mounting", "Local fans, water pumps, and small machinery", "Traditional weaving", "Wood carving"], "ans": 1, "explanation": "DC motors power fans, pumps, and machinery widely used in Nigerian homes and workshops."},
+        {"q": "Galvanometer deflection is proportional to:", "opts": ["Voltage", "Current", "Resistance", "Power"], "ans": 1, "explanation": "Galvanometer measures current; deflection θ ∝ I."},
+        {"q": "To increase galvanometer sensitivity, you should:", "opts": ["Use weaker magnet", "Increase number of coil turns", "Use stronger spring", "Remove soft iron core"], "ans": 1, "explanation": "More turns increase magnetic torque, improving sensitivity for small current detection."},
+        {"q": "A common misconception about motors is:", "opts": ["They convert electrical to mechanical energy", "Commutator reverses current", "Force depends on angle between current and field", "Motors work without magnetic field"], "ans": 3, "explanation": "Motors require magnetic field interaction; force F = BIL sinθ requires B ≠ 0."},
+        {"q": "Force on a charge moving parallel to magnetic field is:", "opts": ["Maximum", "Zero", "Depends on mass", "Depends on charge sign only"], "ans": 1, "explanation": "F = qvB sin0° = 0; no force acts when motion is parallel to field."},
+        {"q": "In vocational training, motor repair focuses on:", "opts": ["Painting casing", "Rewinding coils and fixing commutator", "Changing color", "Reducing weight"], "ans": 1, "explanation": "Motor repair involves coil rewinding, commutator maintenance, and bearing replacement."}
+      ]
+    }
+  ]
+}

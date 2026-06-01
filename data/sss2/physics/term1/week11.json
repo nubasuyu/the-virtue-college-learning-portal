@@ -1,0 +1,69 @@
+{
+  "course": "SS2 Physics",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Light Waves: Dispersion, Lenses & Image Formation",
+  "subUnits": [
+    {
+      "id": "ss2_phy_t1_w11_su1",
+      "title": "11.1 Dispersion of White Light, Converging & Diverging Lenses, and Image Formation",
+      "notes": [
+        "Dispersion, Lenses, and Image Formation",
+        "",
+        "Key Concepts:",
+        "1. Dispersion of White Light:",
+        "   - Splitting of white light into constituent colors (spectrum) due to different refractive indices for different wavelengths",
+        "   - Order: Red, Orange, Yellow, Green, Blue, Indigo, Violet (ROYGBIV)",
+        "   - Demonstrated by triangular prism",
+        "",
+        "2. Lenses:",
+        "   a) Converging (Convex) Lens: Thicker at center, converges parallel rays to focus",
+        "   b) Diverging (Concave) Lens: Thinner at center, diverges parallel rays",
+        "",
+        "3. Lens Formula & Sign Convention:",
+        "   - 1/f = 1/u + 1/v (f = focal length, u = object distance, v = image distance)",
+        "   - Real-is-positive convention: f positive for convex, negative for concave; u always negative; v positive for real, negative for virtual",
+        "",
+        "4. Magnification:",
+        "   - m = v/u = image height / object height",
+        "   - m > 1: magnified; m < 1: diminished; m = 1: same size",
+        "",
+        "5. Image Formation Rules:",
+        "   - Convex: Object beyond 2F → real, inverted, diminished; between F and 2F → real, inverted, magnified; within F → virtual, upright, magnified",
+        "   - Concave: Always virtual, upright, diminished",
+        "",
+        "6. Nigerian Context:",
+        "   - Rainbow formation after Nigerian rainy season",
+        "   - Magnifying glasses in markets and schools",
+        "   - Corrective lenses for myopia/hypermetropia in Nigerian optometry",
+        "",
+        "Conclusion:",
+        "   - Dispersion splits white light into spectrum due to wavelength-dependent refraction",
+        "   - Convex lenses converge; concave diverge; lens formula predicts image position",
+        "   - Magnification determines image size",
+        "   - Mastery supports optics, vision correction, and instrument design"
+      ],
+      "diagramDescriptions": [
+        "Chart of dispersion spectrum (ROYGBIV)",
+        "Ray diagrams for convex and concave lenses",
+        "Lens formula and magnification calculations",
+        "Nigerian context: Rainbows, magnifiers, corrective lenses",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS2 Physics dispersion lenses image formation site:youtube.com",
+      "quiz": [
+        {"q": "Dispersion of white light occurs because:", "opts": ["All colors travel at same speed", "Different colors have different refractive indices", "Light reflects", "Light stops"], "ans": 1, "explanation": "Dispersion occurs because different wavelengths refract by different amounts in a medium."},
+        {"q": "The correct order of colors in a spectrum is:", "opts": ["VIBGYOR", "ROYGBIV", "RGBYIV", "BIVGYOR"], "ans": 1, "explanation": "Standard spectrum order: Red, Orange, Yellow, Green, Blue, Indigo, Violet."},
+        {"q": "A converging lens is:", "opts": ["Concave", "Convex", "Plane", "Prism"], "ans": 1, "explanation": "Convex lenses are thicker at the center and converge parallel rays to a focus."},
+        {"q": "The lens formula is:", "opts": ["1/f = 1/u - 1/v", "1/f = 1/u + 1/v", "f = u + v", "f = uv"], "ans": 1, "explanation": "Lens formula: 1/f = 1/u + 1/v."},
+        {"q": "Magnification (m) is calculated as:", "opts": ["m = u/v", "m = v/u", "m = f/u", "m = u/f"], "ans": 1, "explanation": "Magnification m = v/u = image height / object height."},
+        {"q": "In Nigerian context, rainbows form due to:", "opts": ["Reflection only", "Refraction, dispersion, and internal reflection in raindrops", "Diffraction", "Interference"], "ans": 1, "explanation": "Rainbows result from refraction, dispersion, and total internal reflection in water droplets."},
+        {"q": "A concave lens always produces an image that is:", "opts": ["Real and inverted", "Virtual, upright, and diminished", "Real and magnified", "Inverted and magnified"], "ans": 1, "explanation": "Concave lenses always produce virtual, upright, diminished images regardless of object position."},
+        {"q": "A common misconception about lenses is:", "opts": ["Convex lenses converge light", "Concave lenses diverge light", "All lenses form real images", "Lens formula applies to thin lenses"], "ans": 2, "explanation": "Concave lenses only form virtual images; convex lenses can form real or virtual depending on object position."},
+        {"q": "If an object is placed at the focal point of a convex lens, the image forms:", "opts": ["At 2F", "At infinity", "Between F and 2F", "At F"], "ans": 1, "explanation": "When object is at focus, refracted rays are parallel, so image forms at infinity."},
+        {"q": "To correct myopia, you use:", "opts": ["Convex lens", "Concave lens", "Plane mirror", "Prism"], "ans": 1, "explanation": "Myopia (short-sightedness) is corrected with concave lenses to diverge light before it enters the eye."}
+      ]
+    }
+  ]
+}

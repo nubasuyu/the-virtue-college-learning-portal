@@ -232,4 +232,28 @@
       ]
     }
   ]
+}ch is a feature of descriptive prose?",
+          "opts": [
+            "Only listing facts",
+            "Sensory details and vivid language to paint pictures with words",
+            "Only short sentences",
+            "Only technical terms"
+          ],
+          "ans": 1,
+          "explanation": "Descriptive prose uses sensory details and vivid language to create mental images for the reader."
+        },
+        {
+          "q": "A common misconception about adverbs is:",
+          "opts": [
+            "Adverbs modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbs",
+            "Adverbs add precision to communication",
+            "Adverbs can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbs; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    }
+  ]
 }

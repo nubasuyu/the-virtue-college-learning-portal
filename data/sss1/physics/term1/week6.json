@@ -1,0 +1,416 @@
+{
+  "course": "SSS1 Physics",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Speed and Velocity",
+  "subUnits": [
+    {
+      "id": "sss1_phy_t1_w6_su1",
+      "title": "6.1 Concept of Speed and Velocity",
+      "notes": [
+        "Concept of Speed and Velocity",
+        "",
+        "Key Concepts:",
+        "1. What is speed?",
+        "   - Speed is the rate of change of distance with time",
+        "   - It is a scalar quantity (has magnitude only, no direction)",
+        "   - Formula: Speed = Distance / Time",
+        "   - SI unit: meter per second (m/s)",
+        "",
+        "2. What is velocity?",
+        "   - Velocity is the rate of change of displacement with time",
+        "   - It is a vector quantity (has magnitude and direction)",
+        "   - Formula: Velocity = Displacement / Time",
+        "   - SI unit: meter per second (m/s)",
+        "",
+        "3. Differences between speed and velocity:",
+        "   - Speed is scalar; velocity is vector",
+        "   - Speed uses distance; velocity uses displacement",
+        "   - Speed is always positive; velocity can be positive or negative",
+        "   - Example: A car moving at 60 km/h has speed; 60 km/h North has velocity",
+        "",
+        "4. Uniform and non-uniform speed/velocity:",
+        "   a) Uniform speed/velocity:",
+        "      - Equal distances/displacements covered in equal time intervals",
+        "      - Example: A car moving at constant 50 km/h",
+        "",
+        "   b) Non-uniform speed/velocity:",
+        "      - Unequal distances/displacements covered in equal time intervals",
+        "      - Example: A car accelerating from 0 to 60 km/h",
+        "",
+        "5. Calculating speed and velocity:",
+        "   - Speed = Total distance / Total time",
+        "   - Velocity = Total displacement / Total time",
+        "   - Example: A boy walks 100 m in 20 s",
+        "     Speed = 100 m / 20 s = 5 m/s",
+        "",
+        "Nigerian Context:",
+        "• Speed and velocity in Nigerian transportation:",
+        "  - FRSC enforces speed limits on Nigerian highways",
+        "  - Danfo buses in Lagos: variable speed due to traffic",
+        "  - Trains on Lagos-Ibadan rail: uniform velocity when cruising",
+        "",
+        "• Local examples:",
+        "  - Calculating average speed of a journey from Abuja to Kaduna",
+        "  - Velocity of a football kicked towards the goal",
+        "  - Speed of harmattan wind across Northern Nigeria",
+        "",
+        "Practical Activities:",
+        "1. Speed Measurement Practice:",
+        "   - Teacher marks a measured distance (e.g., 50 m) in the school compound",
+        "   - Students run/walk the distance while time is recorded",
+        "   - Calculate speed using: Speed = Distance / Time",
+        "",
+        "2. Uniform vs Non-uniform Motion:",
+        "   - Students observe a toy car moving at constant speed",
+        "   - Compare with a car accelerating down a slope",
+        "   - Record observations and discuss differences",
+        "",
+        "3. Real-Life Application:",
+        "   - Students calculate average speed of a journey using distance and time",
+        "   - Example: 'If a bus travels 120 km in 2 hours, what is its average speed?'",
+        "",
+        "Common Misconceptions:",
+        "• 'Speed and velocity are the same': Speed is scalar; velocity is vector with direction",
+        "• 'Uniform speed means no motion': Uniform speed means constant rate of motion",
+        "• 'Velocity is always greater than speed': Velocity magnitude equals speed; direction is the difference",
+        "",
+        "Nigerian Context:",
+        "• Understanding speed and velocity supports road safety awareness in Nigeria",
+        "• Practice with local transportation examples enhances relevance and retention",
+        "• These skills are foundational for mechanics, engineering, and transportation careers",
+        "",
+        "Conclusion:",
+        "• Speed is the rate of change of distance; velocity is the rate of change of displacement",
+        "• Speed is scalar; velocity is vector with direction",
+        "• Uniform motion has constant speed/velocity; non-uniform has changing speed/velocity",
+        "• Mastery of speed and velocity concepts supports understanding of motion and road safety"
+      ],
+      "diagramDescriptions": [
+        "Chart comparing speed and velocity with examples",
+        "Diagram showing uniform vs non-uniform motion",
+        "Sample calculations for speed and velocity",
+        "Nigerian context: Speed limits and transportation examples",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics speed velocity concepts site:youtube.com",
+      "quiz": [
+        {
+          "q": "Speed is:",
+          "opts": [
+            "The rate of change of displacement with time",
+            "The rate of change of distance with time",
+            "A vector quantity with direction",
+            "Only measured in kilometers"
+          ],
+          "ans": 1,
+          "explanation": "Speed is the rate of change of distance with time; it is a scalar quantity."
+        },
+        {
+          "q": "Velocity is:",
+          "opts": [
+            "The rate of change of distance with time",
+            "The rate of change of displacement with time",
+            "A scalar quantity",
+            "Always positive"
+          ],
+          "ans": 1,
+          "explanation": "Velocity is the rate of change of displacement with time; it is a vector quantity."
+        },
+        {
+          "q": "The SI unit of speed and velocity is:",
+          "opts": [
+            "Kilometer per hour",
+            "Meter per second",
+            "Mile per hour",
+            "Centimeter per second"
+          ],
+          "ans": 1,
+          "explanation": "The SI unit of both speed and velocity is meter per second (m/s)."
+        },
+        {
+          "q": "Which is a difference between speed and velocity?",
+          "opts": [
+            "Speed has direction; velocity does not",
+            "Speed is scalar; velocity is vector",
+            "Speed uses displacement; velocity uses distance",
+            "Speed can be negative; velocity cannot"
+          ],
+          "ans": 1,
+          "explanation": "Speed is a scalar quantity (magnitude only); velocity is a vector quantity (magnitude and direction)."
+        },
+        {
+          "q": "In Nigerian context, FRSC enforces speed limits to:",
+          "opts": [
+            "Only collect fines",
+            "Promote road safety and reduce accidents",
+            "Only for highways",
+            "Only for commercial vehicles"
+          ],
+          "ans": 1,
+          "explanation": "FRSC enforces speed limits to promote road safety and reduce accidents on Nigerian roads."
+        },
+        {
+          "q": "Uniform speed means:",
+          "opts": [
+            "No motion",
+            "Equal distances covered in equal time intervals",
+            "Changing speed",
+            "Only in a straight line"
+          ],
+          "ans": 1,
+          "explanation": "Uniform speed means equal distances are covered in equal time intervals."
+        },
+        {
+          "q": "If a car travels 150 km in 3 hours, its average speed is:",
+          "opts": [
+            "30 km/h",
+            "50 km/h",
+            "150 km/h",
+            "450 km/h"
+          ],
+          "ans": 1,
+          "explanation": "Average speed = Distance / Time = 150 km / 3 h = 50 km/h."
+        },
+        {
+          "q": "Understanding speed and velocity is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports road safety awareness and understanding of transportation",
+            "Only for driving",
+            "Only for calculating distances"
+          ],
+          "ans": 1,
+          "explanation": "Speed and velocity concepts support road safety awareness and understanding of transportation in Nigeria."
+        },
+        {
+          "q": "Which is NOT a characteristic of velocity?",
+          "opts": [
+            "Has magnitude",
+            "Has direction",
+            "Is a scalar quantity",
+            "Measured in m/s"
+          ],
+          "ans": 2,
+          "explanation": "Velocity is a vector quantity, not a scalar; it has both magnitude and direction."
+        },
+        {
+          "q": "A common misconception about speed and velocity is:",
+          "opts": [
+            "Speed is the rate of change of distance",
+            "Speed and velocity are the same",
+            "Velocity has direction",
+            "Speed is always positive"
+          ],
+          "ans": 1,
+          "explanation": "Speed and velocity are not the same; speed is scalar, velocity is vector with direction."
+        }
+      ]
+    },
+    {
+      "id": "sss1_phy_t1_w6_su2",
+      "title": "6.2 Distance/Displacement-Time Graph",
+      "notes": [
+        "Distance/Displacement-Time Graph",
+        "",
+        "Key Concepts:",
+        "1. What is a distance-time graph?",
+        "   - A graph showing how distance changes with time",
+        "   - Distance is plotted on the y-axis, time on the x-axis",
+        "   - The slope (gradient) represents speed",
+        "",
+        "2. What is a displacement-time graph?",
+        "   - A graph showing how displacement changes with time",
+        "   - Displacement is plotted on the y-axis, time on the x-axis",
+        "   - The slope (gradient) represents velocity",
+        "",
+        "3. Interpreting distance-time graphs:",
+        "   a) Horizontal line:",
+        "      - Object is at rest (no change in distance)",
+        "      - Speed = 0",
+        "",
+        "   b) Straight line with positive slope:",
+        "      - Object moving at uniform speed",
+        "      - Steeper slope = higher speed",
+        "",
+        "   c) Curved line:",
+        "      - Object moving at non-uniform speed",
+        "      - Changing slope = changing speed",
+        "",
+        "4. Calculating speed from a distance-time graph:",
+        "   - Speed = Slope of the graph = Change in distance / Change in time",
+        "   - Example: If distance changes from 0 to 100 m in 20 s",
+        "     Speed = (100 - 0) m / (20 - 0) s = 5 m/s",
+        "",
+        "5. Differences between distance-time and displacement-time graphs:",
+        "   - Distance-time graph: always positive or zero (distance cannot be negative)",
+        "   - Displacement-time graph: can be positive, negative, or zero (displacement has direction)",
+        "",
+        "Nigerian Context:",
+        "• Graphs in Nigerian transportation:",
+        "  - FRSC uses speed-time graphs to analyze vehicle motion in accident investigations",
+        "  - Train schedules on Lagos-Ibadan rail use time-distance graphs",
+        "  - Bus companies use distance-time data for route planning",
+        "",
+        "• Local examples:",
+        "  - Plotting a journey from Lagos to Ibadan: distance vs time",
+        "  - Analyzing a football player's motion during a match",
+        "  - Tracking the movement of harmattan dust across regions",
+        "",
+        "Practical Activities:",
+        "1. Graph Plotting Practice:",
+        "   - Teacher provides data: time (s) and distance (m) for a moving object",
+        "   - Students plot distance-time graph on graph paper",
+        "   - Calculate speed from the slope of the graph",
+        "",
+        "2. Graph Interpretation:",
+        "   - Teacher displays sample distance-time graphs",
+        "   - Students identify: rest, uniform speed, non-uniform speed",
+        "   - Calculate speed from different sections of the graph",
+        "",
+        "3. Real-Life Application:",
+        "   - Students record time and distance for a walk around the school",
+        "   - Plot their own distance-time graph",
+        "   - Calculate average speed for the journey",
+        "",
+        "Common Misconceptions:",
+        "• 'Distance-time and displacement-time graphs are the same': Distance is always positive; displacement can be negative",
+        "• 'A horizontal line means motion': A horizontal line means the object is at rest",
+        "• 'Steeper slope means slower speed': Steeper slope means higher speed",
+        "",
+        "Nigerian Context:",
+        "• Understanding graphs supports data analysis in Nigerian industries and education",
+        "• Practice with local transportation examples enhances relevance and retention",
+        "• These skills are foundational for physics, engineering, and data analysis careers",
+        "",
+        "Conclusion:",
+        "• Distance-time graphs show how distance changes with time; slope represents speed",
+        "• Displacement-time graphs show how displacement changes with time; slope represents velocity",
+        "• Horizontal line = rest; straight line = uniform speed/velocity; curved line = non-uniform",
+        "• Mastery of graph interpretation supports understanding of motion and data analysis"
+      ],
+      "diagramDescriptions": [
+        "Chart of distance-time graph types with examples",
+        "Diagram showing how to calculate slope for speed",
+        "Sample distance-time and displacement-time graphs",
+        "Nigerian context: Transportation graphs and applications",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Physics distance displacement time graph site:youtube.com",
+      "quiz": [
+        {
+          "q": "In a distance-time graph, distance is plotted on:",
+          "opts": [
+            "The x-axis",
+            "The y-axis",
+            "Both axes",
+            "Neither axis"
+          ],
+          "ans": 1,
+          "explanation": "In a distance-time graph, distance is plotted on the y-axis and time on the x-axis."
+        },
+        {
+          "q": "The slope of a distance-time graph represents:",
+          "opts": [
+            "Acceleration",
+            "Speed",
+            "Displacement",
+            "Time"
+          ],
+          "ans": 1,
+          "explanation": "The slope (gradient) of a distance-time graph represents speed."
+        },
+        {
+          "q": "A horizontal line on a distance-time graph indicates:",
+          "opts": [
+            "Uniform speed",
+            "Non-uniform speed",
+            "Object at rest",
+            "Acceleration"
+          ],
+          "ans": 2,
+          "explanation": "A horizontal line means distance is not changing with time; the object is at rest."
+        },
+        {
+          "q": "If a distance-time graph has a steep positive slope, the object is:",
+          "opts": [
+            "At rest",
+            "Moving at low speed",
+            "Moving at high speed",
+            "Moving backwards"
+          ],
+          "ans": 2,
+          "explanation": "A steeper slope indicates a higher speed; the object covers more distance in the same time."
+        },
+        {
+          "q": "In Nigerian context, FRSC might use distance-time graphs to:",
+          "opts": [
+            "Only collect fines",
+            "Analyze vehicle motion in accident investigations",
+            "Only for training",
+            "Only for highways"
+          ],
+          "ans": 1,
+          "explanation": "FRSC uses distance-time graphs to analyze vehicle motion and speed in accident investigations."
+        },
+        {
+          "q": "To calculate speed from a distance-time graph, you should:",
+          "opts": [
+            "Measure the area under the graph",
+            "Calculate the slope: change in distance / change in time",
+            "Read the y-intercept",
+            "Count the number of grid squares"
+          ],
+          "ans": 1,
+          "explanation": "Speed is calculated from the slope: change in distance divided by change in time."
+        },
+        {
+          "q": "A curved line on a distance-time graph indicates:",
+          "opts": [
+            "Uniform speed",
+            "Object at rest",
+            "Non-uniform speed",
+            "Constant velocity"
+          ],
+          "ans": 2,
+          "explanation": "A curved line means the slope is changing; the object is moving at non-uniform speed."
+        },
+        {
+          "q": "Understanding distance-time graphs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in physics exams",
+            "Supports data analysis and understanding of motion in transportation",
+            "Only for plotting graphs",
+            "Only for calculating speed"
+          ],
+          "ans": 1,
+          "explanation": "Graph interpretation supports data analysis and understanding of motion in Nigerian transportation and industry."
+        },
+        {
+          "q": "Which is a difference between distance-time and displacement-time graphs?",
+          "opts": [
+            "Distance can be negative; displacement cannot",
+            "Displacement can be negative; distance cannot",
+            "Both are always positive",
+            "Both are always negative"
+          ],
+          "ans": 1,
+          "explanation": "Distance is always positive or zero; displacement can be positive, negative, or zero depending on direction."
+        },
+        {
+          "q": "A common misconception about distance-time graphs is:",
+          "opts": [
+            "The slope represents speed",
+            "A horizontal line means motion",
+            "Steeper slope means higher speed",
+            "Distance is plotted on the y-axis"
+          ],
+          "ans": 1,
+          "explanation": "A horizontal line means the object is at rest, not in motion."
+        }
+      ]
+    }
+  ]
+}
