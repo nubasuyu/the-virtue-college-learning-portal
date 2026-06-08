@@ -1,0 +1,73 @@
+{
+  "course": "SS1 Literature in English",
+  "term": "Third Term",
+  "week": 3,
+  "topic": "Metre, Rhythm & Sound Patterns",
+  "subUnits": [
+    {
+      "id": "ss1_lit_t3_w3_su1",
+      "title": "3.1 Metre, Rhythm & Sound Patterns in Poetry",
+      "notes": [
+        "Metre, Rhythm & Sound Patterns in Poetry",
+        "",
+        "Key Concepts:",
+        "1. Metrical Feet:",
+        "   - Iamb (u /): Unstressed + Stressed (da-DUM). Example: be-LIEVE.",
+        "   - Trochee (/ u): Stressed + Unstressed (DUM-da). Example: FA-ther.",
+        "   - Anapest (u u /): Two unstressed + Stressed (da-da-DUM). Example: un-der-STAND.",
+        "   - Dactyl (/ u u): Stressed + Two unstressed (DUM-da-da). Example: HAP-pi-ly.",
+        "   - Spondee (/ /): Two stressed syllables (DUM-DUM). Example: HEART-BREAK.",
+        "   - Pyrrhic (u u): Two unstressed syllables (da-da). Often a filler foot.",
+        "",
+        "2. Common Line Lengths:",
+        "   - Monometer (1 foot), Dimeter (2 feet), Trimeter (3 feet).",
+        "   - Tetrameter (4 feet), Pentameter (5 feet), Hexameter/Alexandrine (6 feet).",
+        "   - Iambic pentameter (5 iambs, 10 syllables) is the most common metre in English poetry.",
+        "",
+        "3. Important Rhythm Terms:",
+        "   - Caesura: A deliberate pause within a line, usually marked by punctuation.",
+        "   - Enjambment: When a sentence runs past the end of a line into the next without a grammatical pause.",
+        "   - Lineation: The poet's deliberate choice of where to break lines, controlling pace and emphasis.",
+        "",
+        "4. Sound Patterns:",
+        "   - Alliteration: Repetition of initial consonant sounds (e.g., 'Sàngó, sẹ̀rẹ̀, sóríkì').",
+        "   - Assonance: Repetition of similar vowel sounds within words (e.g., 'plains of pain').",
+        "   - Consonance: Repetition of consonant sounds anywhere within words.",
+        "   - Onomatopoeia: Words that phonetically imitate sounds (e.g., Yoruba 'dòdò', 'gbàgìdà').",
+        "   - Rhyme Scheme: The pattern of end rhymes (e.g., ABAB, AABB). Includes End Rhyme, Internal Rhyme, Eye Rhyme, Slant Rhyme.",
+        "",
+        "Nigerian Context:",
+        "   - Yoruba poetry is organised by tone (high, mid, low) and duration rather than English stress.",
+        "   - The Dùndún talking drum transforms Yoruba onomatopoeia and tonal patterns into an art form.",
+        "   - Oríkì chanter naturally uses oral caesura (pauses) to breathe, build suspense, or let a praise-name land.",
+        "",
+        "Conclusion:",
+        "   - Metre is created by arranging stressed and unstressed syllables into specific feet and line lengths.",
+        "   - Rhythm is controlled by caesura, enjambment, and lineation.",
+        "   - Sound patterns (alliteration, assonance, onomatopoeia) create musicality and emphasize meaning.",
+        "   - Mastery supports the scansion of poetry and the analysis of its auditory effects."
+      ],
+      "diagramDescriptions": [
+        "Table of metrical feet with stress patterns and examples",
+        "Chart of line lengths from Monometer to Hexameter",
+        "Visual demonstration of Caesura and Enjambment in a poem excerpt",
+        "Nigerian context: Yoruba tonal rhythm vs. English stress rhythm",
+        "Common exam pitfalls and clarifications"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS1 Literature metre rhythm iambic pentameter alliteration assonance site:youtube.com",
+      "quiz": [
+        {"q": "A metrical foot consisting of one unstressed syllable followed by one stressed syllable (u /) is an:", "opts": ["Trochee", "Iamb", "Anapest", "Dactyl"], "ans": 1, "explanation": "An iamb follows the 'da-DUM' pattern (unstressed + stressed), as in the word 'be-LIEVE'."},
+        {"q": "A line of poetry containing exactly five metrical feet is called:", "opts": ["Tetrameter", "Pentameter", "Hexameter", "Trimeter"], "ans": 1, "explanation": "Penta- means five; a pentameter line has five feet (e.g., iambic pentameter has 10 syllables)."},
+        {"q": "A deliberate pause within a line of poetry, usually created by punctuation, is a:", "opts": ["Enjambment", "Caesura", "Volta", "Lineation"], "ans": 1, "explanation": "A caesura breaks the line into two parts, controlling pace and emphasis."},
+        {"q": "When a sentence or thought runs past the end of a line into the next without a grammatical pause, it is called:", "opts": ["End-stopped", "Enjambment", "Caesura", "Refrain"], "ans": 1, "explanation": "Enjambment creates momentum and urgency by carrying the syntax across the line break."},
+        {"q": "The repetition of the same initial consonant sound in words close together is:", "opts": ["Assonance", "Consonance", "Alliteration", "Onomatopoeia"], "ans": 2, "explanation": "Alliteration specifically repeats the initial consonant sounds (e.g., 'sweet birds sang')."},
+        {"q": "The repetition of similar vowel sounds in words close together, without consonants necessarily matching, is:", "opts": ["Alliteration", "Assonance", "Rhyme", "Consonance"], "ans": 1, "explanation": "Assonance repeats internal vowel sounds (e.g., 'the l'ow gr'ow of the fl'ower'), creating internal rhyme."},
+        {"q": "Words that phonetically imitate or suggest the sound they describe (e.g., 'buzz', 'gbàgìdà') are:", "opts": ["Allusions", "Onomatopoeia", "Oxymorons", "Metonyms"], "ans": 1, "explanation": "Onomatopoeia uses words whose pronunciation mimics their literal meaning."},
+        {"q": "In Yoruba oral poetry, rhythm is primarily organised by what rather than English-style stress?", "opts": ["Syllable count only", "Tone (high, mid, low) and duration", "End-rhyme schemes", "Iambic pentameter"], "ans": 1, "explanation": "Yoruba is a tonal language; its poetry relies on tone patterns and duration rather than stress accents."},
+        {"q": "Rhyme that occurs within a single line of poetry, rather than at the end, is called:", "opts": ["Eye rhyme", "Internal rhyme", "Slant rhyme", "Masculine rhyme"], "ans": 1, "explanation": "Internal rhyme occurs when two words in the same line rhyme (e.g., 'I drove myself and found the grove')."},
+        {"q": "A metrical foot consisting of a stressed syllable followed by an unstressed syllable (/ u) is a:", "opts": ["Iamb", "Trochee", "Spondee", "Pyrrhic"], "ans": 1, "explanation": "A trochee follows the 'DUM-da' pattern (stressed + unstressed), as in the word 'FA-ther'."}
+      ]
+    }
+  ]
+}

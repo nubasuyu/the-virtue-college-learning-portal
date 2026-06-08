@@ -1,0 +1,73 @@
+{
+  "course": "SS1 Literature in English",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Fixed Forms & Specialised Structures",
+  "subUnits": [
+    {
+      "id": "ss1_lit_t3_w2_su1",
+      "title": "2.1 Fixed Forms & Specialised Structures in Poetry",
+      "notes": [
+        "Fixed Forms & Specialised Structures in Poetry",
+        "",
+        "Key Concepts:",
+        "1. The Sonnet:",
+        "   - A 14-line poem, typically in iambic pentameter, with an argument and a 'volta' (turn).",
+        "   a) Petrarchan (Italian) Sonnet:",
+        "      - Structure: Octave (8 lines) + Sestet (6 lines).",
+        "      - Rhyme Scheme: ABBAABBA / CDECDE (or variation).",
+        "      - Volta: At the start of the sestet (line 9).",
+        "   b) Shakespearean (English) Sonnet:",
+        "      - Structure: Three quatrains (12 lines) + Couplet (2 lines).",
+        "      - Rhyme Scheme: ABAB CDCD EFEF GG.",
+        "      - Volta: At the final couplet (line 13).",
+        "",
+        "2. Other Fixed Forms:",
+        "   a) Limerick: 5-line comic poem (AABBA). Lines 1, 2, 5 are longer; lines 3, 4 are shorter.",
+        "   b) Triolet: 8-line poem with two rhymes (ABaAabAB). Lines 1, 4, 7 repeat; lines 2, 8 repeat.",
+        "   c) Lay: Short narrative or lyrical poem, originally meant to be sung (Parallel: Yoruba Wéré/Fújì).",
+        "   d) Blank Verse: Poetry in iambic pentameter WITHOUT rhyme (e.g., Shakespeare's plays).",
+        "   e) Free Verse (Vers Libre): No fixed metre, no regular rhyme scheme. Dominant in modern Nigerian poetry (e.g., Niyi Osundare).",
+        "   f) Mock-Heroic: Uses the grand, elevated style of the epic to treat a trivial or comic subject.",
+        "",
+        "3. Other Important Structures:",
+        "   - Triad: Three-line unit or poem built around groups of three (Parallel: Ẹsẹ Ifá).",
+        "   - Triplets: Three consecutive lines sharing the same end rhyme (AAA).",
+        "   - Chanson: French song-like lyric, often about love (Parallel: Jùjú/Afrobeats lyrics).",
+        "   - Envoy (Envoi): Short concluding stanza that summarises or dedicates the poem.",
+        "",
+        "Nigerian Context:",
+        "   - Niyi Osundare's entire body of work is in free verse, rooted in Yoruba oral rhythms and market language.",
+        "   - Free verse does NOT mean no craft; the poet deliberately controls every line break and sound pattern.",
+        "   - Yoruba incantation poetry (Ẹsẹ Ifá) uses triadic structures and triplet repetitions for spiritual power.",
+        "",
+        "Conclusion:",
+        "   - Fixed forms follow strict rules regarding lines, rhyme, and metre.",
+        "   - The sonnet is divided into Petrarchan and Shakespearean, distinguished by structure and volta placement.",
+        "   - Free verse dominates modern Nigerian poetry, utilizing indigenous oral rhythms rather than Western metrical rules.",
+        "   - Mastery supports structural analysis and recognition of poetic forms in WAEC and JAMB."
+      ],
+      "diagramDescriptions": [
+        "Chart comparing Petrarchan and Shakespearean sonnet structures",
+        "Table of fixed forms (Limerick, Triolet, Blank Verse, Free Verse) with features",
+        "Visual mapping of Yoruba oral structures (Triads, Wéré) to Western forms",
+        "Nigerian context: Niyi Osundare's free verse and indigenous rhythms",
+        "Common exam pitfalls and clarifications"
+      ],
+      "videoId": "",
+      "youtubeQuery": "SS1 Literature fixed forms sonnet limerick blank verse free verse Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "How many lines does a standard sonnet contain?", "opts": ["10", "12", "14", "16"], "ans": 2, "explanation": "A sonnet is strictly a 14-line poem, typically written in iambic pentameter."},
+        {"q": "The rhyme scheme of a Shakespearean (English) sonnet is:", "opts": ["ABBAABBA CDECDE", "ABAB CDCD EFEF GG", "AABBA", "ABaAabAB"], "ans": 1, "explanation": "The Shakespearean sonnet consists of three quatrains and a couplet, rhyming ABAB CDCD EFEF GG."},
+        {"q": "In a Petrarchan (Italian) sonnet, where does the 'volta' (turn) typically occur?", "opts": ["Line 9 (start of the sestet)", "Line 13 (the final couplet)", "Line 1 (the opening)", "Line 5 (middle of the octave)"], "ans": 0, "explanation": "The Petrarchan volta occurs at line 9, shifting the argument from the octave (problem) to the sestet (resolution)."},
+        {"q": "A 5-line comic poem with an AABBA rhyme scheme is called a:", "opts": ["Triolet", "Limerick", "Sonnet", "Ballad"], "ans": 1, "explanation": "A limerick is a humorous 5-line poem with a distinct AABBA rhyme and rhythmic structure."},
+        {"q": "Poetry written in iambic pentameter but WITHOUT rhyme is known as:", "opts": ["Free verse", "Blank verse", "Heroic verse", "Couplet"], "ans": 1, "explanation": "Blank verse has a strict metre (iambic pentameter) but no end rhyme. Free verse has neither fixed metre nor rhyme."},
+        {"q": "Niyi Osundare's poetry is predominantly written in which form?", "opts": ["Shakespearean Sonnet", "Blank Verse", "Free Verse", "Limerick"], "ans": 2, "explanation": "Osundare uses free verse, deliberately rooting his lines in Yoruba oral rhythms, market language, and proverbs."},
+        {"q": "An 8-line poem with only two rhymes (ABaAabAB) where specific lines repeat is a:", "opts": ["Triolet", "Octave", "Sestet", "Envoy"], "ans": 0, "explanation": "A triolet is an 8-line fixed form with heavy repetition, creating an incantatory, song-like quality."},
+        {"q": "A poem that uses the grand, elevated style of the epic to treat a trivial or comic subject is:", "opts": ["Pastoral", "Mock-Heroic", "Panegyric", "Didactic"], "ans": 1, "explanation": "Mock-heroic creates humour through the contrast between the grand epic style and an unworthy, trivial subject."},
+        {"q": "In Yoruba tradition, the triadic structure of Ẹsẹ Ifá divination verses parallels which poetic concept?", "opts": ["The Couplet", "The Triad", "The Envoy", "The Volta"], "ans": 1, "explanation": "A triad is a three-line unit or structure built around groups of three, mirroring the structure of Ifá verses."},
+        {"q": "A short concluding stanza that summarises or dedicates a poem is called an:", "opts": ["Invocation", "Epithalamium", "Envoy (Envoi)", "Apostrophe"], "ans": 2, "explanation": "An envoy is a brief concluding stanza used to summarize the poem's message or dedicate it to someone."}
+      ]
+    }
+  ]
+}
