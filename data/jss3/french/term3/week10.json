@@ -1,0 +1,42 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Number Base Continues",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w10_su1",
+      "title": "10.1 Conversion: Base 10 to Binary",
+      "notes": [
+        "To convert a Base 10 number to binary, use the repeated division-by-2 method.",
+        "Divide the number by 2, write down the remainder (0 or 1).",
+        "Keep dividing the quotient by 2 until you reach 0.",
+        "Read the remainders from BOTTOM to TOP to get the binary number.",
+        "Example: Convert 6 to binary: 6÷2=3 r0, 3÷2=1 r1, 1÷2=0 r1 → Read up: 110₂"
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "What is the first step to convert 10 to binary?", "opts": ["Multiply by 2", "Divide by 2", "Subtract 1", "Add 2"], "ans": 1, "explanation": "Repeated division by 2 is the standard method." },
+        { "q": "Convert 5 to binary.", "opts": ["100₂", "110₂", "101₂", "111₂"], "ans": 2, "explanation": "5÷2=2 r1, 2÷2=1 r0, 1÷2=0 r1 → 101₂" },
+        { "q": "When reading remainders for binary conversion, you read from:", "opts": ["Top to bottom", "Bottom to top", "Left to right", "Right to left"], "ans": 1, "explanation": "The last remainder obtained is the most significant bit (leftmost)." }
+      ]
+    },
+    {
+      "id": "jss1_t1_w10_su2",
+      "title": "10.2 Multiplication in Base 2 & Real-life Applications",
+      "notes": [
+        "Binary multiplication follows the same rules as Base 10, but results are in base 2.",
+        "Rules: 0×0=0, 0×1=0, 1×0=0, 1×1=1. Shift left for each digit, then add.",
+        "Real-life application: Computers store all data (text, images, sound) as binary code (0s and 1s).",
+        "Quantitative Reasoning: Identify patterns in base conversions and solve logic puzzles using binary values.",
+        "Example: 11₂ × 10₂ = 110₂ (3 × 2 = 6)"
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "What is 1 × 1 in binary?", "opts": ["10", "0", "1", "11"], "ans": 2, "explanation": "1 × 1 = 1 in any base." },
+        { "q": "Why do computers use binary?", "opts": ["It's easier for humans to read", "Electronic switches only have two states: ON (1) and OFF (0)", "It saves paper", "It was invented first"], "ans": 1, "explanation": "Digital circuits use transistors that are either on or off, perfectly matching 1 and 0." },
+        { "q": "Solve: 101₂ × 10₂", "opts": ["1010₂", "1100₂", "1001₂", "1110₂"], "ans": 0, "explanation": "Multiplying by 10₂ (which is 2) simply adds a zero to the right: 101 → 1010." }
+      ]
+    }
+  ]
+}

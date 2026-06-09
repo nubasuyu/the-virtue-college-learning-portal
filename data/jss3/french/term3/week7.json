@@ -1,0 +1,40 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Estimation",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w7_su1",
+      "title": "7.1 Estimating Dimensions & Distances",
+      "notes": [
+        "Estimation means finding an approximate value close to the actual measurement without exact tools.",
+        "Use known references: average step ≈ 0.75m, arm span ≈ height, doorway ≈ 2m.",
+        "Round numbers to nearest 10, 100, or 1000 before calculating for quick mental math.",
+        "Example: Estimate classroom length by counting steps × 0.75. Check with a tape measure later."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "What is estimation?", "opts": ["Exact measurement", "Finding an approximate value", "Rounding to zero", "Using a calculator"], "ans": 1, "explanation": "Estimation gives a close, practical value when exact tools aren't available." },
+        { "q": "Best way to estimate corridor length?", "opts": ["Guess randomly", "Count steps & multiply by average step length", "Use a ruler for every meter", "Ask someone else"], "ans": 1, "explanation": "Using a consistent reference (step length) gives a reliable estimate." },
+        { "q": "Estimate 48 + 53 to nearest 10.", "opts": ["90", "100", "110", "95"], "ans": 1, "explanation": "50 + 50 = 100 (rounding both to nearest 10 first)." }
+      ]
+    },
+    {
+      "id": "jss1_t1_w7_su2",
+      "title": "7.2 Estimating Objects & Quantities",
+      "notes": [
+        "Estimate mass, capacity, or number of items by grouping or comparing to known standards.",
+        "Examples: 1 bag of rice ≈ 50kg, 1 milk tin ≈ 1L, 1 textbook ≈ 0.5kg.",
+        "Rounding helps check if exact calculations are reasonable (e.g., if answer seems too high/low).",
+        "Used in markets, construction, inventory, and daily planning to save time and avoid errors."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "Estimate mass of a standard JSS textbook.", "opts": ["10 kg", "0.5 - 1 kg", "5 kg", "0.1 kg"], "ans": 1, "explanation": "Most textbooks weigh between 500g and 1kg." },
+        { "q": "A box holds 24 bottles. Estimate 9 boxes.", "opts": ["200", "216", "250", "180"], "ans": 0, "explanation": "24 ≈ 20, 20 × 10 = 200. Close to actual 216." },
+        { "q": "Why estimate before exact calculation?", "opts": ["To replace exact math", "To check reasonableness & save time", "Because calculators are forbidden", "To confuse teachers"], "ans": 1, "explanation": "Estimation acts as a quick sanity check and speeds up decision-making." }
+      ]
+    }
+  ]
+}

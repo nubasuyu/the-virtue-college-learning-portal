@@ -1,0 +1,106 @@
+{
+  "course": "JSS3 French",
+  "term": "Third Term",
+  "week": 6,
+  "topic": "Getting Around: Directions & The Verb ALLER",
+  "subUnits": [
+    {
+      "id": "jss3_fr_t3_w6_su1",
+      "title": "6.1 Direction Words & Giving Instructions",
+      "notes": [
+        "Direction Words",
+        "1. Vocabulary:",
+        "   - tout droit (straight ahead)",
+        "   - à gauche (to the left)",
+        "   - à droite (to the right)",
+        "   - au bout de (at the end of)",
+        "   - au carrefour (at the crossroads)",
+        "   - le feu rouge (traffic light)",
+        "2. Giving Instructions (Imperative):",
+        "   - Allez tout droit. (Go straight.)",
+        "   - Tournez à gauche. (Turn left.)",
+        "   - Prenez la première rue à droite. (Take the first street on the right.)",
+        "   - Continuez jusqu'au feu rouge. (Continue to the traffic light.)"
+      ],
+      "diagramDescriptions": ["Street map with direction arrows", "Imperative verb forms"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French giving directions tout droit a gauche a droite site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'straight ahead'?", "opts": ["à gauche", "à droite", "tout droit", "au bout de"], "ans": 2, "explanation": "'Straight ahead' is 'tout droit'."},
+        {"q": "What is 'to the left'?", "opts": ["à droite", "à gauche", "tout droit", "au carrefour"], "ans": 1, "explanation": "'To the left' is 'à gauche'."},
+        {"q": "How do you say 'to the right'?", "opts": ["à gauche", "à droite", "tout droit", "au bout de"], "ans": 1, "explanation": "'To the right' is 'à droite'."},
+        {"q": "What is 'at the end of'?", "opts": ["au carrefour", "au bout de", "au feu rouge", "à côté de"], "ans": 1, "explanation": "'At the end of' is 'au bout de'."},
+        {"q": "How do you say 'traffic light'?", "opts": ["le carrefour", "le feu rouge", "le bout", "la rue"], "ans": 1, "explanation": "'Traffic light' is 'le feu rouge'."},
+        {"q": "What is 'Turn left'?", "opts": ["Allez tout droit", "Tournez à gauche", "Tournez à droite", "Prenez la rue"], "ans": 1, "explanation": "'Tournez à gauche' means Turn left."},
+        {"q": "How do you say 'Go straight'?", "opts": ["Tournez à gauche", "Allez tout droit", "Continuez à droite", "Prenez le feu"], "ans": 1, "explanation": "'Allez tout droit' means Go straight."},
+        {"q": "What is 'Take the first street on the right'?", "opts": ["Prenez la première rue à gauche", "Prenez la première rue à droite", "Allez tout droit", "Tournez au carrefour"], "ans": 1, "explanation": "'Prenez la première rue à droite'."},
+        {"q": "How do you say 'Continue to the traffic light'?", "opts": ["Continuez jusqu'au feu rouge", "Tournez au feu rouge", "Allez au carrefour", "Prenez la rue"], "ans": 0, "explanation": "'Continuez jusqu'au feu rouge'."},
+        {"q": "What is 'at the crossroads'?", "opts": ["au bout de", "au carrefour", "au feu rouge", "à gauche"], "ans": 1, "explanation": "'At the crossroads' is 'au carrefour'."}
+      ]
+    },
+    {
+      "id": "jss3_fr_t3_w6_su2",
+      "title": "6.2 The Verb ALLER & Contractions (AU/AUX)",
+      "notes": [
+        "The Verb ALLER (To Go) & Contractions",
+        "1. Conjugation:",
+        "   - Je vais, Tu vas, Il/Elle va",
+        "   - Nous allons, Vous allez, Ils/Elles vont",
+        "2. Contractions with 'à':",
+        "   - à + le = au (au marché)",
+        "   - à + les = aux (aux marchés)",
+        "   - à + la = à la (à la gare) [No change]",
+        "   - à + l' = à l' (à l'école) [No change]",
+        "3. Rule:",
+        "   - 'À le' and 'à les' are NEVER allowed. They MUST contract!"
+      ],
+      "diagramDescriptions": ["ALLER conjugation table", "Contraction formula chart"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French verb aller conjugation contractions au aux site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'I go'?", "opts": ["Je va", "Je vais", "Je vas", "Je vont"], "ans": 1, "explanation": "'I go' is 'Je vais'."},
+        {"q": "What is 'You (sing) go'?", "opts": ["Tu va", "Tu vais", "Tu vas", "Tu allez"], "ans": 2, "explanation": "'You go' is 'Tu vas'."},
+        {"q": "How do you say 'He/She goes'?", "opts": ["Il/Elle va", "Il/Elle vas", "Il/Elle vais", "Il/Elle vont"], "ans": 0, "explanation": "'He/She goes' is 'Il/Elle va'."},
+        {"q": "What is 'We go'?", "opts": ["Nous allons", "Nous allez", "Nous vont", "Nous va"], "ans": 0, "explanation": "'We go' is 'Nous allons'."},
+        {"q": "How do you say 'You (pl) go'?", "opts": ["Vous allez", "Vous allons", "Vous vas", "Vous vont"], "ans": 0, "explanation": "'You (pl) go' is 'Vous allez'."},
+        {"q": "What is 'They go'?", "opts": ["Ils vont", "Ils allez", "Ils allons", "Ils va"], "ans": 0, "explanation": "'They go' is 'Ils/Elles vont'."},
+        {"q": "What is 'à + le'?", "opts": ["au", "aux", "à la", "à l'"], "ans": 0, "explanation": "à + le contracts to 'au'."},
+        {"q": "How do you say 'to the market' (marché - m)?", "opts": ["à le marché", "au marché", "à la marché", "aux marché"], "ans": 1, "explanation": "à + le marché = au marché."},
+        {"q": "What is 'à + les'?", "opts": ["au", "aux", "à la", "à l'"], "ans": 1, "explanation": "à + les contracts to 'aux'."},
+        {"q": "How do you say 'to the schools' (écoles - f pl)?", "opts": ["à les écoles", "au écoles", "à la écoles", "aux écoles"], "ans": 3, "explanation": "à + les écoles = aux écoles."}
+      ]
+    },
+    {
+      "id": "jss3_fr_t3_w6_su3",
+      "title": "6.3 Asking for & Giving Directions",
+      "notes": [
+        "Asking & Giving Directions",
+        "1. Asking:",
+        "   - Excusez-moi, où est la gare, s'il vous plaît? (Excuse me, where is the station?)",
+        "   - C'est loin d'ici? (Is it far from here?)",
+        "2. Giving:",
+        "   - Allez tout droit, puis tournez à gauche au feu rouge.",
+        "   - Non, c'est à cinq minutes à pied.",
+        "   - La gare est au bout de la rue, sur votre droite.",
+        "3. Closing:",
+        "   - Merci beaucoup! (Thank you very much!)",
+        "   - Je vous en prie. / De rien. (You're welcome.)"
+      ],
+      "diagramDescriptions": ["Tourist and local dialogue script", "Direction map with route highlighted"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French asking giving directions dialogue ou est site:youtube.com",
+      "quiz": [
+        {"q": "How do you ask 'Where is the station?'", "opts": ["Où est le marché?", "Où est la gare?", "Où est l'hôpital?", "Où est la banque?"], "ans": 1, "explanation": "'Where is the station?' is 'Où est la gare?'."},
+        {"q": "What is 'Is it far from here?'", "opts": ["C'est près d'ici?", "C'est loin d'ici?", "C'est à gauche?", "C'est à droite?"], "ans": 1, "explanation": "'Is it far?' is 'C'est loin d'ici?'."},
+        {"q": "How do you say 'Turn left at the traffic light'?", "opts": ["Tournez à gauche au feu rouge", "Allez tout droit au feu rouge", "Tournez à droite au feu rouge", "Prenez la rue au feu rouge"], "ans": 0, "explanation": "'Tournez à gauche au feu rouge'."},
+        {"q": "What is 'It is five minutes on foot'?", "opts": ["C'est à cinq minutes en bus", "C'est à cinq minutes à pied", "C'est à cinq minutes en taxi", "C'est à cinq minutes en train"], "ans": 1, "explanation": "'on foot' is 'à pied'."},
+        {"q": "How do you say 'It's on your right'?", "opts": ["C'est sur votre gauche", "C'est sur votre droite", "C'est tout droit", "C'est derrière"], "ans": 1, "explanation": "'on your right' is 'sur votre droite'."},
+        {"q": "What is 'Thank you very much'?", "opts": ["De rien", "Merci beaucoup", "S'il vous plaît", "Excusez-moi"], "ans": 1, "explanation": "'Thank you very much' is 'Merci beaucoup'."},
+        {"q": "How do you say 'You're welcome'?", "opts": ["Merci", "S'il vous plaît", "De rien", "Excusez-moi"], "ans": 2, "explanation": "'You're welcome' is 'De rien' or 'Je vous en prie'."},
+        {"q": "What is 'Excuse me'?", "opts": ["Merci", "S'il vous plaît", "Excusez-moi", "De rien"], "ans": 2, "explanation": "'Excuse me' is 'Excusez-moi'."},
+        {"q": "How do you say 'I am lost'?", "opts": ["Je suis perdu(e)", "Je suis trouvé(e)", "Je suis fatigué(e)", "Je suis content(e)"], "ans": 0, "explanation": "'I am lost' is 'Je suis perdu(e)'."},
+        {"q": "What is 'Can you help me?'", "opts": ["Pouvez-vous m'aider?", "Où est la gare?", "C'est loin?", "Merci beaucoup?"], "ans": 0, "explanation": "'Can you help me?' is 'Pouvez-vous m'aider?'."}
+      ]
+    }
+  ]
+}

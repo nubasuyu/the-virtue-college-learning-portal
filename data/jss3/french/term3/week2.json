@@ -1,0 +1,109 @@
+{
+  "course": "JSS3 French",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Family & Relationships: Civil Status & Possessives",
+  "subUnits": [
+    {
+      "id": "jss3_fr_t3_w2_su1",
+      "title": "2.1 Civil Status & Relationship Vocabulary",
+      "notes": [
+        "Civil Status (État Civil)",
+        "1. Vocabulary:",
+        "   - marié(e) (married)",
+        "   - célibataire (single)",
+        "   - divorcé(e) (divorced)",
+        "   - veuf (widower m.) / veuve (widow f.)",
+        "   - fiancé(e) (engaged)",
+        "2. Usage:",
+        "   - Used with the verb 'être' (to be).",
+        "   - Example: Mon oncle est divorcé. (My uncle is divorced.)",
+        "   - Ma tante est veuve. (My aunt is a widow.)",
+        "3. Agreement:",
+        "   - Add an 'e' for feminine forms (marié -> mariée)."
+      ],
+      "diagramDescriptions": ["Table of civil status terms", "Example sentences"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French civil status marie celibataire divorce site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'single' in French?", "opts": ["marié", "célibataire", "divorcé", "fiancé"], "ans": 1, "explanation": "'Single' is 'célibataire'."},
+        {"q": "What does 'veuve' mean?", "opts": ["Widower", "Widow", "Divorced", "Engaged"], "ans": 1, "explanation": "'veuve' is the feminine form for widow."},
+        {"q": "Which word means 'engaged'?", "opts": ["marié", "célibataire", "fiancé", "divorcé"], "ans": 2, "explanation": "'Engaged' is 'fiancé(e)'."},
+        {"q": "How do you say 'My uncle is divorced'?", "opts": ["Mon oncle est marié", "Mon oncle est divorcé", "Mon oncle est veuf", "Mon oncle est célibataire"], "ans": 1, "explanation": "'divorcé' means divorced."},
+        {"q": "What is the feminine form of 'marié'?", "opts": ["mariée", "mariés", "maries", "mari"], "ans": 0, "explanation": "Add an 'e' for feminine: 'mariée'."},
+        {"q": "Which word means 'widower' (male)?", "opts": ["veuve", "veuf", "divorcé", "célibataire"], "ans": 1, "explanation": "'veuf' is the masculine form for widower."},
+        {"q": "How do you say 'She is single'?", "opts": ["Il est célibataire", "Elle est célibataire", "Elle est mariée", "Elle est veuve"], "ans": 1, "explanation": "Use 'Elle est' for 'She is'."},
+        {"q": "What does 'fiancé' mean?", "opts": ["Married", "Engaged", "Single", "Divorced"], "ans": 1, "explanation": "'fiancé' means engaged."},
+        {"q": "Which verb is used with civil status?", "opts": ["avoir", "être", "aller", "faire"], "ans": 1, "explanation": "Civil status uses the verb 'être' (to be)."},
+        {"q": "How do you say 'They are married'?", "opts": ["Ils sont célibataires", "Ils sont divorcés", "Ils sont mariés", "Ils sont veufs"], "ans": 2, "explanation": "'Ils sont mariés' means they are married."}
+      ]
+    },
+    {
+      "id": "jss3_fr_t3_w2_su2",
+      "title": "2.2 Possessive Adjectives (My, Your, His/Her)",
+      "notes": [
+        "Possessive Adjectives",
+        "Rule: Possessives agree with the NOUN they describe, NOT the owner!",
+        "1. Singular:",
+        "   - My: mon (m), ma (f), mes (pl)",
+        "   - Your (sing): ton (m), ta (f), tes (pl)",
+        "   - His/Her: son (m), sa (f), ses (pl)",
+        "2. Examples:",
+        "   - mon père (my father - m)",
+        "   - ma mère (my mother - f)",
+        "   - son frère (his/her brother - m)",
+        "   - sa sœur (his/her sister - f)",
+        "3. Nigerian Context:",
+        "   - Unlike English ('my' never changes), French changes based on the object's gender."
+      ],
+      "diagramDescriptions": ["Possessive adjective table", "Gender agreement examples"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French possessive adjectives mon ma son sa site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'my father'?", "opts": ["ma père", "mon père", "ton père", "son père"], "ans": 1, "explanation": "'père' is masculine, so use 'mon'."},
+        {"q": "What is 'my mother' in French?", "opts": ["mon mère", "ma mère", "ta mère", "sa mère"], "ans": 1, "explanation": "'mère' is feminine, so use 'ma'."},
+        {"q": "How do you say 'his sister'?", "opts": ["son frère", "sa sœur", "mon frère", "ma sœur"], "ans": 1, "explanation": "'his/her' is 'son/sa', and 'sister' is feminine ('sœur'), so 'sa sœur'."},
+        {"q": "What does 'ton oncle' mean?", "opts": ["my uncle", "your uncle", "his uncle", "her uncle"], "ans": 1, "explanation": "'ton' means 'your' (singular informal)."},
+        {"q": "How do you say 'her brother'?", "opts": ["sa frère", "son frère", "mon frère", "ton frère"], "ans": 1, "explanation": "'brother' is masculine, so use 'son' (his/her)."},
+        {"q": "What is 'my parents'?", "opts": ["mon parents", "ma parents", "mes parents", "ton parents"], "ans": 2, "explanation": "Plural uses 'mes' for 'my'."},
+        {"q": "How do you say 'your (sing) house'?", "opts": ["mon maison", "ma maison", "ton maison", "ta maison"], "ans": 3, "explanation": "'maison' is feminine, and 'your' is 'ta'."},
+        {"q": "What does 'ses enfants' mean?", "opts": ["my children", "your children", "his/her children", "their children"], "ans": 2, "explanation": "'ses' means 'his/her' for plural nouns."},
+        {"q": "Which is correct for 'my book' (livre - m)?", "opts": ["ma livre", "mon livre", "ton livre", "sa livre"], "ans": 1, "explanation": "'livre' is masculine, so use 'mon'."},
+        {"q": "How do you say 'their children'?", "opts": ["ses enfants", "nos enfants", "vos enfants", "leurs enfants"], "ans": 3, "explanation": "'their' is 'leur/leurs'."}
+      ]
+    },
+    {
+      "id": "jss3_fr_t3_w2_su3",
+      "title": "2.3 Advanced Possessives & Family Dialogue",
+      "notes": [
+        "Advanced Possessives & Dialogue",
+        "1. Plural Possessives:",
+        "   - Our: notre (sing), nos (pl)",
+        "   - Your (pl): votre (sing), vos (pl)",
+        "   - Their: leur (sing), leurs (pl)",
+        "2. The Vowel Rule:",
+        "   - If a feminine noun starts with a vowel, use mon/ton/son instead of ma/ta/sa.",
+        "   - Example: mon amie (my friend f.), mon école (my school).",
+        "3. Sample Dialogue:",
+        "   - Tu as des frères et sœurs? (Do you have siblings?)",
+        "   - Oui, j'ai deux frères. Et toi? (Yes, I have two brothers. And you?)",
+        "   - Moi, je suis enfant unique. (Me, I am an only child.)"
+      ],
+      "diagramDescriptions": ["Vowel rule chart", "Sample dialogue transcript"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French advanced possessives vowel rule dialogue site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'our family'?", "opts": ["notre famille", "nos famille", "votre famille", "leur famille"], "ans": 0, "explanation": "'our' is 'notre' for singular nouns."},
+        {"q": "What is 'your (pl) father'?", "opts": ["ton père", "notre père", "votre père", "leur père"], "ans": 2, "explanation": "'your (plural)' is 'votre'."},
+        {"q": "How do you say 'their cousins'?", "opts": ["leur cousins", "leurs cousins", "nos cousins", "vos cousins"], "ans": 1, "explanation": "'their' for plural nouns is 'leurs'."},
+        {"q": "Which is correct for 'my friend' (amie - f, starts with vowel)?", "opts": ["ma amie", "mon amie", "ton amie", "son amie"], "ans": 1, "explanation": "Feminine nouns starting with a vowel take 'mon/ton/son'."},
+        {"q": "What does 'mon école' mean?", "opts": ["my school", "his school", "her school", "your school"], "ans": 0, "explanation": "'école' is feminine but starts with a vowel, so 'mon' is used for 'my'."},
+        {"q": "How do you ask 'Do you have brothers and sisters?'", "opts": ["Tu es des frères?", "Tu as des frères et sœurs?", "Il a des frères?", "Nous avons des frères?"], "ans": 1, "explanation": "'Tu as' means 'Do you have'."},
+        {"q": "What is the response 'I am an only child'?", "opts": ["J'ai un frère", "Je suis enfant unique", "Je suis seul", "J'ai une sœur"], "ans": 1, "explanation": "'Je suis enfant unique' means I am an only child."},
+        {"q": "How do you say 'your (pl) children'?", "opts": ["ton enfants", "notre enfants", "vos enfants", "leur enfants"], "ans": 2, "explanation": "'your (pl)' for plural nouns is 'vos'."},
+        {"q": "Which sentence uses the vowel rule correctly?", "opts": ["ma ami", "mon ami", "ton amie", "mon amie"], "ans": 3, "explanation": "'amie' is feminine and starts with a vowel, so 'mon' is correct."},
+        {"q": "What does 'Nos parents habitent à Abuja' mean?", "opts": ["Your parents live in Abuja", "Our parents live in Abuja", "Their parents live in Abuja", "My parents live in Abuja"], "ans": 1, "explanation": "'Nos' means 'our'."}
+      ]
+    }
+  ]
+}

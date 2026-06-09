@@ -1,0 +1,42 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Number Base 2 (Binary)",
+  "subUnits": [
+    {
+      "id": "jss1_t1_w9_su1",
+      "title": "9.1 Counting in Base 2",
+      "notes": [
+        "The binary number system (Base 2) uses only two digits: 0 and 1.",
+        "It is the foundation of all digital computers and electronic devices.",
+        "Place values in binary are powers of 2: 1, 2, 4, 8, 16, 32...",
+        "Example: 101₂ = (1×4) + (0×2) + (1×1) = 5 in Base 10.",
+        "Counting sequence: 0, 1, 10, 11, 100, 101, 110, 111, 1000..."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "Which digits are used in the binary number system?", "opts": ["0, 1, 2", "1, 2", "0, 1", "0-9"], "ans": 2, "explanation": "Binary only uses 0 and 1." },
+        { "q": "What is the place value of the leftmost '1' in 100₂?", "opts": ["Ones", "Twos", "Fours", "Eights"], "ans": 2, "explanation": "Positions from right: 1(ones), 2(twos), 4(fours). So 100₂ = 4." },
+        { "q": "What comes after 11₂ in binary counting?", "opts": ["12", "20", "100", "111"], "ans": 2, "explanation": "11₂ is 3. Next is 4, which is 100₂." }
+      ]
+    },
+    {
+      "id": "jss1_t1_w9_su2",
+      "title": "9.2 Addition & Subtraction in Base 2",
+      "notes": [
+        "Binary Addition Rules: 0+0=0, 0+1=1, 1+0=1, 1+1=10₂ (write 0, carry 1 to next column).",
+        "Binary Subtraction Rules: 1-0=1, 1-1=0, 0-0=0. If 0-1, borrow 1 from the left column.",
+        "Example (Addition): 11₂ + 10₂ = 101₂ (3 + 2 = 5)",
+        "Example (Subtraction): 110₂ - 101₂ = 001₂ (6 - 5 = 1)",
+        "Always align digits by place value, just like Base 10."
+      ],
+      "videoId": "",
+      "quiz": [
+        { "q": "What is 1 + 1 in binary?", "opts": ["2", "11", "10", "0"], "ans": 2, "explanation": "1+1=2 in Base 10, which is 10₂ in binary." },
+        { "q": "Solve: 101₂ + 11₂", "opts": ["1000₂", "110₂", "111₂", "100₂"], "ans": 0, "explanation": "101(5) + 011(3) = 1000(8). 5+1=10₂(carry), 0+1+1=10₂(carry), 1+1=10₂." },
+        { "q": "In binary subtraction, what do you do when calculating 0 - 1?", "opts": ["Write -1", "Write 1 and continue", "Borrow 1 from the next left column", "Skip the column"], "ans": 2, "explanation": "You must borrow from the higher place value, turning 0 into 10₂ (which is 2 in Base 10) before subtracting." }
+      ]
+    }
+  ]
+}

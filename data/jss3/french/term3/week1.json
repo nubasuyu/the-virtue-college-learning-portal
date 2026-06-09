@@ -1,0 +1,111 @@
+{
+  "course": "JSS3 French",
+  "term": "Third Term",
+  "week": 1,
+  "topic": "Family & Relationships: Immediate & Extended Family",
+  "subUnits": [
+    {
+      "id": "jss3_fr_t3_w1_su1",
+      "title": "1.1 Immediate Family Vocabulary & Gender Rules",
+      "notes": [
+        "Immediate Family Vocabulary",
+        "In French, every noun has a gender: Masculine (le/un) or Feminine (la/une).",
+        "1. Core Vocabulary:",
+        "   - le père (father) / la mère (mother)",
+        "   - le fils (son) / la fille (daughter)",
+        "   - le frère (brother) / la sœur (sister)",
+        "   - le mari (husband) / la femme (wife/woman)",
+        "   - le grand-père (grandfather) / la grand-mère (grandmother)",
+        "   - le bébé (baby) / les parents (parents)",
+        "2. Gender Rules:",
+        "   - Always learn the article (le/la) with the noun.",
+        "   - 'la femme' means 'the wife' in marriage context, but 'the woman' generally.",
+        "3. Nigerian Context:",
+        "   - Nigerian families are often large; 'les parents' can refer to both parents and extended relatives in local context, but in French, it strictly means mother and father."
+      ],
+      "diagramDescriptions": ["Chart of immediate family with masculine/feminine pairs", "Sample family tree diagram"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French immediate family vocabulary le pere la mere site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'father' in French?", "opts": ["la mère", "le père", "le fils", "le frère"], "ans": 1, "explanation": "'Father' is 'le père' (masculine)."},
+        {"q": "What is the feminine form of 'le fils'?", "opts": ["la fille", "la sœur", "la mère", "la femme"], "ans": 0, "explanation": "'Son' is 'le fils', and 'daughter' is 'la fille'."},
+        {"q": "Which word means 'husband'?", "opts": ["le frère", "le père", "le mari", "le grand-père"], "ans": 2, "explanation": "'Husband' is 'le mari'."},
+        {"q": "What does 'la grand-mère' mean?", "opts": ["Aunt", "Grandmother", "Sister", "Mother"], "ans": 1, "explanation": "'la grand-mère' means grandmother."},
+        {"q": "Which article is used for 'sœur'?", "opts": ["le", "la", "les", "un"], "ans": 1, "explanation": "'Sœur' (sister) is feminine, so it takes 'la'."},
+        {"q": "How do you say 'parents' in French?", "opts": ["les bébés", "les parents", "les grands-pères", "les enfants"], "ans": 1, "explanation": "'Parents' is 'les parents' (plural)."},
+        {"q": "What does 'le bébé' mean?", "opts": ["The boy", "The baby", "The brother", "The father"], "ans": 1, "explanation": "'le bébé' means the baby."},
+        {"q": "Which word means 'brother'?", "opts": ["le frère", "le fils", "le mari", "le père"], "ans": 0, "explanation": "'Brother' is 'le frère'."},
+        {"q": "In the context of marriage, 'la femme' means:", "opts": ["The woman", "The wife", "The mother", "The sister"], "ans": 1, "explanation": "In marriage context, 'la femme' means wife; otherwise, it means woman."},
+        {"q": "What is the masculine form of 'la mère'?", "opts": ["le mari", "le fils", "le père", "le frère"], "ans": 2, "explanation": "The masculine form of 'mother' (la mère) is 'father' (le père)."}
+      ]
+    },
+    {
+      "id": "jss3_fr_t3_w1_su2",
+      "title": "1.2 Extended Family Vocabulary & Plural Forms",
+      "notes": [
+        "Extended Family & Plurals",
+        "1. Extended Family Vocabulary:",
+        "   - l'oncle (uncle) / la tante (aunt)",
+        "   - le neveu (nephew) / la nièce (niece)",
+        "   - le cousin (cousin m.) / la cousine (cousin f.)",
+        "   - le beau-père (father-in-law) / la belle-mère (mother-in-law)",
+        "   - le parrain (godfather) / la marraine (godmother)",
+        "2. Plural Rules:",
+        "   - Regular: add -s (le frère -> les frères).",
+        "   - Irregular: -eau becomes -eaux (le neveu -> les neveux).",
+        "   - Compound: both parts pluralized (le grand-père -> les grands-pères).",
+        "3. Common Mistake:",
+        "   - Do not say 'un sœur'. Always match the article to the noun's gender: 'une sœur'."
+      ],
+      "diagramDescriptions": ["Table of extended family terms", "Pluralization rules chart"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French extended family vocabulary plural rules site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'uncle' in French?", "opts": ["le cousin", "l'oncle", "le parrain", "le neveu"], "ans": 1, "explanation": "'Uncle' is 'l'oncle'."},
+        {"q": "What is the plural of 'le neveu'?", "opts": ["le neveux", "les neveu", "les neveux", "les nièces"], "ans": 2, "explanation": "Words ending in -eau take -x in plural: les neveux."},
+        {"q": "Which word means 'aunt'?", "opts": ["la nièce", "la cousine", "la marraine", "la tante"], "ans": 3, "explanation": "'Aunt' is 'la tante'."},
+        {"q": "What does 'la belle-mère' mean?", "opts": ["Beautiful mother", "Mother-in-law", "Stepmother", "Aunt"], "ans": 1, "explanation": "'la belle-mère' means mother-in-law."},
+        {"q": "How do you say 'godfather'?", "opts": ["le père", "l'oncle", "le parrain", "le grand-père"], "ans": 2, "explanation": "'Godfather' is 'le parrain'."},
+        {"q": "What is the plural of 'le grand-père'?", "opts": ["les grand-père", "les grands-pères", "le grands-pères", "les grands-père"], "ans": 1, "explanation": "In compound nouns, both parts are pluralized: les grands-pères."},
+        {"q": "Which word means 'niece'?", "opts": ["la nièce", "la tante", "la cousine", "la sœur"], "ans": 0, "explanation": "'Niece' is 'la nièce'."},
+        {"q": "What is the feminine form of 'le cousin'?", "opts": ["la cousine", "la sœur", "la nièce", "la tante"], "ans": 0, "explanation": "The feminine form is 'la cousine'."},
+        {"q": "How do you say 'nephew'?", "opts": ["le fils", "le frère", "le neveu", "le cousin"], "ans": 2, "explanation": "'Nephew' is 'le neveu'."},
+        {"q": "Which of these is an irregular plural?", "opts": ["les frères", "les sœurs", "les oncles", "les neveux"], "ans": 3, "explanation": "'les neveux' is irregular because 'neveu' ends in -eau, changing to -x."}
+      ]
+    },
+    {
+      "id": "jss3_fr_t3_w1_su3",
+      "title": "1.3 Describing Your Family in French",
+      "notes": [
+        "Describing Your Family",
+        "1. Key Phrases:",
+        "   - J'ai... (I have...)",
+        "   - Il s'appelle... (His name is...)",
+        "   - Elle s'appelle... (Her name is...)",
+        "   - Je suis enfant unique. (I am an only child.)",
+        "   - Nous sommes [number] dans ma famille. (We are [number] in my family.)",
+        "2. Examples:",
+        "   - J'ai deux frères et une sœur. (I have two brothers and one sister.)",
+        "   - Mon père s'appelle Emeka. (My father's name is Emeka.)",
+        "   - Ma mère est enseignante. (My mother is a teacher.)",
+        "3. Nigerian Context:",
+        "   - Use these phrases to introduce your family members to a French speaker, incorporating Nigerian names like Chidi, Ngozi, or Amina."
+      ],
+      "diagramDescriptions": ["Sample family introduction paragraph", "Dialogue bubbles"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 French describing family jai il sappelle site:youtube.com",
+      "quiz": [
+        {"q": "How do you say 'I have two brothers'?", "opts": ["J'ai deux sœurs", "J'ai deux frères", "Il a deux frères", "Nous avons deux frères"], "ans": 1, "explanation": "'I have' is 'J'ai', and 'two brothers' is 'deux frères'."},
+        {"q": "What does 'Il s'appelle Emeka' mean?", "opts": ["He is called Emeka", "She is called Emeka", "I am called Emeka", "They are called Emeka"], "ans": 0, "explanation": "'Il s'appelle' means 'His name is' or 'He is called'."},
+        {"q": "How do you say 'I am an only child'?", "opts": ["Je suis seul", "J'ai un frère", "Je suis enfant unique", "Je suis le bébé"], "ans": 2, "explanation": "'I am an only child' is 'Je suis enfant unique'."},
+        {"q": "Which phrase means 'Her name is...'?", "opts": ["Il s'appelle", "Elle s'appelle", "Je m'appelle", "Ils s'appellent"], "ans": 1, "explanation": "'Elle s'appelle' is used for females."},
+        {"q": "How do you say 'We are six in the family'?", "opts": ["Nous sommes six dans la famille", "J'ai six familles", "Ils sont six", "Vous êtes six"], "ans": 0, "explanation": "'We are six in the family' translates to 'Nous sommes six dans la famille'."},
+        {"q": "What is the correct translation of 'My mother is a teacher'?", "opts": ["Mon père est médecin", "Ma mère est enseignante", "Ma sœur est élève", "Ma tante est infirmière"], "ans": 1, "explanation": "'Ma mère' = my mother, 'est' = is, 'enseignante' = teacher (f)."},
+        {"q": "How do you say 'I have one sister'?", "opts": ["J'ai un frère", "J'ai une sœur", "J'ai deux sœurs", "Je n'ai pas de sœur"], "ans": 1, "explanation": "'une' is the feminine singular for 'one'."},
+        {"q": "Which sentence is grammatically correct?", "opts": ["J'ai un frère et un sœur", "J'ai un frère et une sœur", "J'ai une frère et une sœur", "J'ai un frère et une frères"], "ans": 1, "explanation": "'frère' is masculine (un) and 'sœur' is feminine (une)."},
+        {"q": "What does 'Mes parents habitent à Lagos' mean?", "opts": ["My parents live in Lagos", "My parents work in Lagos", "My parents like Lagos", "My parents are from Lagos"], "ans": 0, "explanation": "'habitent à' means 'live in'."},
+        {"q": "How do you introduce your grandfather's name?", "opts": ["Il s'appelle...", "Elle s'appelle...", "Je m'appelle...", "Tu t'appelles..."], "ans": 0, "explanation": "Grandfather is masculine, so use 'Il s'appelle...'."}
+      ]
+    }
+  ]
+}
