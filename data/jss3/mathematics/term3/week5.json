@@ -1,0 +1,150 @@
+{
+  "course": "JSS3 Mathematics",
+  "term": "Third Term",
+  "week": 5,
+  "topic": "Simultaneous Equations and Variation",
+  "subUnits": [
+    {
+      "id": "jss3_math_t3_w5_su1",
+      "title": "5.1 Simultaneous Linear Equations: Substitution and Elimination Methods",
+      "notes": [
+        "Simultaneous Linear Equations",
+        "",
+        "Key Concepts:",
+        "1. Meaning:",
+        "   - Two or more equations with the same variables that must be solved together to find a common solution.",
+        "",
+        "2. Substitution Method:",
+        "   - Step 1: Make one variable the subject of one equation.",
+        "   - Step 2: Substitute this expression into the other equation.",
+        "   - Step 3: Solve for the remaining variable, then substitute back to find the first.",
+        "",
+        "3. Elimination Method:",
+        "   - Step 1: Multiply one or both equations by suitable numbers to make the coefficients of one variable equal (or opposite).",
+        "   - Step 2: Add or subtract the equations to eliminate that variable.",
+        "   - Step 3: Solve for the remaining variable, then substitute back.",
+        "",
+        "4. Word Problems:",
+        "   - Translate the word problem into two algebraic equations, then solve using either method.",
+        "",
+        "Nigerian Context:",
+        "   - BECE theory questions often present word problems involving the cost of two items (e.g., books and pens) to be solved using simultaneous equations."
+      ],
+      "diagramDescriptions": [
+        "Step-by-step guide to the substitution method",
+        "Step-by-step guide to the elimination method",
+        "Sample BECE word problem translated into simultaneous equations"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Mathematics simultaneous equations substitution elimination method site:youtube.com",
+      "quiz": [
+        {"q": "In the substitution method, the first step is to:", "opts": ["Add the two equations", "Make one variable the subject of one equation", "Multiply the equations", "Graph the equations"], "ans": 1, "explanation": "You must isolate one variable in one equation to substitute it into the other."},
+        {"q": "Solve: x + y = 5 and x - y = 1", "opts": ["x=2, y=3", "x=3, y=2", "x=4, y=1", "x=1, y=4"], "ans": 1, "explanation": "Add the equations: 2x = 6 → x = 3. Substitute into x + y = 5: 3 + y = 5 → y = 2."},
+        {"q": "In the elimination method, if the coefficients of y are +3 and -3, you should:", "opts": ["Multiply the equations", "Add the equations", "Subtract the equations", "Divide the equations"], "ans": 1, "explanation": "Adding the equations will eliminate y because +3y + (-3y) = 0."},
+        {"q": "Solve: 2x + y = 7 and x + y = 4", "opts": ["x=2, y=3", "x=3, y=1", "x=1, y=3", "x=3, y=2"], "ans": 1, "explanation": "Subtract the second from the first: (2x - x) + (y - y) = 7 - 4 → x = 3. Then 3 + y = 4 → y = 1."},
+        {"q": "If 3 books and 2 pens cost ₦500, and 1 book and 2 pens cost ₦300, the cost of one book is:", "opts": ["₦100", "₦150", "₦200", "₦250"], "ans": 0, "explanation": "Let book = b, pen = p. 3b + 2p = 500 and b + 2p = 300. Subtracting gives 2b = 200 → b = 100."},
+        {"q": "Solve: 3x - 2y = 4 and x + 2y = 8", "opts": ["x=2, y=3", "x=3, y=2.5", "x=4, y=2", "x=1, y=3.5"], "ans": 1, "explanation": "Add the equations: 4x = 12 → x = 3. Substitute: 3 + 2y = 8 → 2y = 5 → y = 2.5."},
+        {"q": "A common error in the elimination method is:", "opts": ["Adding equations when coefficients are opposite", "Forgetting to multiply all terms in an equation by the same number", "Substituting the wrong variable", "Using the substitution method instead"], "ans": 1, "explanation": "Students often forget to multiply the constant term when scaling an equation for elimination."},
+        {"q": "Solve: y = 2x and x + y = 9", "opts": ["x=2, y=4", "x=3, y=6", "x=4, y=8", "x=1, y=2"], "ans": 1, "explanation": "Substitute y = 2x into the second equation: x + 2x = 9 → 3x = 9 → x = 3. Then y = 2(3) = 6."},
+        {"q": "The solution to a pair of simultaneous equations represents:", "opts": ["The y-intercept", "The point of intersection of their graphs", "The x-intercept", "The sum of the variables"], "ans": 1, "explanation": "Graphically, the solution is the coordinate point where the two lines intersect."},
+        {"q": "Solve: 4a + b = 10 and 2a - b = 2", "opts": ["a=1, b=6", "a=2, b=2", "a=3, b=-2", "a=2, b=6"], "ans": 1, "explanation": "Add the equations: 6a = 12 → a = 2. Substitute: 4(2) + b = 10 → 8 + b = 10 → b = 2."}
+      ]
+    },
+    {
+      "id": "jss3_math_t3_w5_su2",
+      "title": "5.2 Graphical Solution of Simultaneous Equations",
+      "notes": [
+        "Graphical Solution of Simultaneous Equations",
+        "",
+        "Key Concepts:",
+        "1. Compiling a Table of Values:",
+        "   - Choose at least three x-values (e.g., -1, 0, 1, 2).",
+        "   - Substitute each x-value into the equation to find the corresponding y-value.",
+        "",
+        "2. Plotting the Graph:",
+        "   - Draw the x and y axes on graph paper.",
+        "   - Plot the (x, y) coordinates for each equation.",
+        "   - Draw a straight line through the points for each equation.",
+        "",
+        "3. Finding the Solution:",
+        "   - The solution is the (x, y) coordinate of the point where the two lines intersect.",
+        "   - Read the intersection point directly from the graph.",
+        "",
+        "Nigerian Context:",
+        "   - BECE objective questions may provide a graph and ask for the solution, or ask students to identify the correct table of values for a given equation."
+      ],
+      "diagramDescriptions": [
+        "Sample table of values for two linear equations",
+        "Graph showing two intersecting lines with the solution point highlighted",
+        "BECE-style graph interpretation question"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Mathematics graphical solution of simultaneous equations site:youtube.com",
+      "quiz": [
+        {"q": "To draw the graph of a linear equation, you need at least:", "opts": ["One point", "Two points", "Three points", "Four points"], "ans": 1, "explanation": "Two points are the minimum required to draw a straight line, though three are recommended to check for accuracy."},
+        {"q": "The solution of simultaneous equations from a graph is found at the:", "opts": ["x-intercept", "y-intercept", "Point of intersection", "Origin"], "ans": 2, "explanation": "The point where the two lines cross is the only point that satisfies both equations simultaneously."},
+        {"q": "If the table of values for y = 2x + 1 includes x = 1, the corresponding y-value is:", "opts": ["1", "2", "3", "4"], "ans": 2, "explanation": "Substitute x = 1: y = 2(1) + 1 = 3."},
+        {"q": "When plotting a graph, the horizontal axis is the:", "opts": ["y-axis", "x-axis", "z-axis", "origin"], "ans": 1, "explanation": "The horizontal axis is the x-axis, and the vertical axis is the y-axis."},
+        {"q": "If two lines on a graph are parallel, the simultaneous equations have:", "opts": ["One solution", "Two solutions", "No solution", "Infinite solutions"], "ans": 2, "explanation": "Parallel lines never intersect, meaning there is no common solution."},
+        {"q": "From a graph, if two lines intersect at (2, 3), the solution to the equations is:", "opts": ["x=3, y=2", "x=2, y=3", "x=5, y=0", "x=0, y=5"], "ans": 1, "explanation": "The coordinates of the intersection point give the values of x and y directly."},
+        {"q": "A common error in graphical solutions is:", "opts": ["Using a sharp pencil", "Using an inconsistent scale on the axes", "Plotting at least three points", "Drawing a straight line with a ruler"], "ans": 1, "explanation": "Using an inconsistent or incorrect scale on the axes will lead to an inaccurate graph and wrong intersection point."},
+        {"q": "For the equation y = x - 2, when x = 0, y is:", "opts": ["0", "-2", "2", "1"], "ans": 1, "explanation": "Substitute x = 0: y = 0 - 2 = -2."},
+        {"q": "If a question asks for the value of y when x = 4 from a graph, you should:", "opts": ["Find 4 on the y-axis and read across", "Find 4 on the x-axis, go up to the line, and read across to the y-axis", "Add 4 to the y-intercept", "Multiply 4 by the gradient"], "ans": 1, "explanation": "To find y for a given x, locate x on the horizontal axis, move vertically to the line, then horizontally to read the y-value."},
+        {"q": "The graph of x + y = 4 passes through which of these points?", "opts": ["(1, 2)", "(2, 2)", "(3, 2)", "(4, 1)"], "ans": 1, "explanation": "Test the points: 2 + 2 = 4, so (2, 2) lies on the line."}
+      ]
+    },
+    {
+      "id": "jss3_math_t3_w5_su3",
+      "title": "5.3 Variation: Direct, Inverse, Joint, and Partial",
+      "notes": [
+        "Variation",
+        "",
+        "Key Concepts:",
+        "1. Direct Variation:",
+        "   - As one quantity increases, the other increases proportionally.",
+        "   - Formula: y ∝ x → y = kx, where k is the constant of variation.",
+        "",
+        "2. Inverse Variation:",
+        "   - As one quantity increases, the other decreases proportionally.",
+        "   - Formula: y ∝ 1/x → y = k/x or xy = k.",
+        "",
+        "3. Joint Variation:",
+        "   - A quantity varies directly as the product of two or more other quantities.",
+        "   - Formula: y ∝ xz → y = kxz.",
+        "",
+        "4. Partial Variation:",
+        "   - A quantity is the sum of a constant and a variable part.",
+        "   - Formula: y = k₁ + k₂x (similar to y = mx + c, the equation of a straight line).",
+        "",
+        "5. Solving Variation Problems:",
+        "   - Step 1: Write the relationship with 'k' (e.g., y = kx).",
+        "   - Step 2: Use given values to find 'k'.",
+        "   - Step 3: Rewrite the formula with the known 'k'.",
+        "   - Step 4: Use the formula to find the unknown value.",
+        "",
+        "Nigerian Context:",
+        "   - BECE frequently tests direct and inverse variation.",
+        "   - Real-life examples: Cost of fuel varies directly with liters purchased; time to complete a job varies inversely with the number of workers."
+      ],
+      "diagramDescriptions": [
+        "Formulas for direct, inverse, joint, and partial variation",
+        "Step-by-step method for finding the constant 'k'",
+        "Sample BECE variation word problems with solutions"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Mathematics variation direct inverse joint partial site:youtube.com",
+      "quiz": [
+        {"q": "If y varies directly as x, the formula is:", "opts": ["y = k/x", "y = kx", "y = kx²", "y = k + x"], "ans": 1, "explanation": "Direct variation is represented by the equation y = kx, where k is the constant."},
+        {"q": "If y varies inversely as x, and y = 4 when x = 3, find the constant k.", "opts": ["7", "12", "4/3", "3/4"], "ans": 1, "explanation": "Inverse variation: y = k/x → 4 = k/3 → k = 4 × 3 = 12."},
+        {"q": "If y varies jointly as x and z, the formula is:", "opts": ["y = kxz", "y = k(x+z)", "y = kx/z", "y = k/xz"], "ans": 0, "explanation": "Joint variation with two variables is written as y = kxz."},
+        {"q": "The equation of partial variation is similar to:", "opts": ["y = kx", "y = k/x", "y = mx + c", "y = x²"], "ans": 2, "explanation": "Partial variation (y = k₁ + k₂x) has the same structure as the equation of a straight line (y = mx + c)."},
+        {"q": "If y = kx and y = 10 when x = 2, find y when x = 5.", "opts": ["20", "25", "30", "50"], "ans": 1, "explanation": "First find k: 10 = k(2) → k = 5. Then find y: y = 5(5) = 25."},
+        {"q": "The time taken to travel a fixed distance varies _______ with speed.", "opts": ["Directly", "Inversely", "Jointly", "Partially"], "ans": 1, "explanation": "As speed increases, the time taken decreases, which is inverse variation."},
+        {"q": "If p varies inversely as q, and p = 6 when q = 4, find p when q = 8.", "opts": ["12", "8", "4", "3"], "ans": 3, "explanation": "pq = k → 6 × 4 = 24. When q = 8, p(8) = 24 → p = 3."},
+        {"q": "A common mistake in variation problems is:", "opts": ["Finding the constant k first", "Confusing direct and inverse variation formulas", "Substituting the values correctly", "Rewriting the formula with the known k"], "ans": 1, "explanation": "Students often use y = kx for inverse variation or y = k/x for direct variation, leading to wrong answers."},
+        {"q": "If the cost of 5 meters of cloth is ₦2,500, the cost of 8 meters (direct variation) is:", "opts": ["₦3,000", "₦3,500", "₦4,000", "₦4,500"], "ans": 2, "explanation": "Cost per meter = 2500/5 = ₦500. Cost of 8 meters = 8 × 500 = ₦4,000."},
+        {"q": "In the formula y = k₁ + k₂x, k₁ represents:", "opts": ["The variable part", "The constant part", "The product of variables", "The inverse constant"], "ans": 1, "explanation": "In partial variation, k₁ is the constant part, and k₂x is the variable part."}
+      ]
+    }
+  ]
+}
