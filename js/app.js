@@ -1,14 +1,58 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // ================= ACCESS CONTROL =================
+    // 🛑 ADMIN: CHANGE THIS CODE TO SET YOUR PASSWORD
+    const ADMIN_ACCESS_CODE = "VIRTUE2024"; 
+
+    const accessOverlay = document.getElementById('access-overlay');
+    const accessInput = document.getElementById('access-code-input');
+    const accessSubmitBtn = document.getElementById('access-submit-btn');
+    const accessError = document.getElementById('access-error');
+
+    // Check if user is already authenticated via localStorage
+    function checkAccess() {
+        const isAuthenticated = localStorage.getItem('virtueCollegeAuth') === 'true';
+        if (isAuthenticated) {
+            accessOverlay.classList.add('hidden');
+            initApp();
+        } else {
+            accessOverlay.classList.remove('hidden');
+            accessInput.focus();
+        }
+    }
+
+    function handleAccessSubmit() {
+        const enteredCode = accessInput.value.trim();
+        if (enteredCode === ADMIN_ACCESS_CODE) {
+            // Save to localStorage so they don't have to enter it again on this device
+            localStorage.setItem('virtueCollegeAuth', 'true');
+            accessOverlay.classList.add('hidden');
+            accessError.classList.remove('show');
+            initApp();
+        } else {
+            accessError.classList.add('show');
+            accessInput.value = '';
+            accessInput.focus();
+        }
+    }
+
+    accessSubmitBtn.addEventListener('click', handleAccessSubmit);
+    accessInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') handleAccessSubmit();
+    });
+
+    // ================= APP LOGIC =================
     const classSelect = document.getElementById('class-select');
     const subjectSelect = document.getElementById('subject-select');
     const termSelect = document.getElementById('term-select');
     const weekSelect = document.getElementById('week-select');
     const contentArea = document.getElementById('content-area');
+    
+    // Get navigation buttons
+    const prevBtn = document.getElementById('prev-week');
+    const nextBtn = document.getElementById('next-week');
 
-    // Function to update the week dropdown based on selection
     function updateWeekOptions() {
         weekSelect.innerHTML = '';
-        // Default to 12 weeks per term
         for (let i = 1; i <= 12; i++) {
             const option = document.createElement('option');
             option.value = i;
@@ -17,14 +61,33 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Function to handle URL changes and load content
+    // Smart Navigation: Disables buttons at boundaries
+    function updateNavButtons() {
+        const currentWeek = parseInt(weekSelect.value);
+        prevBtn.disabled = currentWeek <= 1;
+        nextBtn.disabled = currentWeek >= 12;
+    }
+
+    // Function to handle Previous/Next buttons
+    function changeWeek(direction) {
+        const currentWeek = parseInt(weekSelect.value);
+        const newWeek = currentWeek + direction;
+        
+        if (newWeek >= 1 && newWeek <= 12) {
+            weekSelect.value = newWeek;
+            loadContent();
+        }
+    }
+    
+    // Make changeWeek globally accessible for the HTML onclick attributes
+    window.changeWeek = changeWeek;
+
     function loadContent() {
         const selectedClass = classSelect.value;
         const selectedSubject = subjectSelect.value;
         const selectedTerm = termSelect.value;
         const selectedWeek = weekSelect.value;
 
-        // Update URL without reloading
         const params = new URLSearchParams();
         params.set('class', selectedClass);
         params.set('subject', selectedSubject);
@@ -34,10 +97,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const newUrl = `${window.location.pathname}?${params.toString()}`;
         history.pushState({ path: newUrl }, '', newUrl);
 
-        // Construct the JSON path: data/class/subject/term/week.json
         const jsonPath = `data/${selectedClass}/${selectedSubject}/term${selectedTerm}/week${selectedWeek}.json`;
 
         contentArea.innerHTML = '<p class="loading">Loading content...</p>';
+        updateNavButtons(); // Update Previous/Next button states
 
         fetch(jsonPath)
             .then(response => {
@@ -58,7 +121,6 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     }
 
-    // Function to render the JSON data to HTML
     function renderContent(data) {
         let html = `<div class="content-card">
             <h2>${data.course} | Term ${data.term} | Week ${data.week}</h2>
@@ -69,7 +131,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h4>${unit.title}</h4>
                 <div class="notes">`;
             
-            // Render notes
             unit.notes.forEach(line => {
                 if (line.startsWith('•')) {
                     html += `<li>${line.substring(1).trim()}</li>`;
@@ -80,7 +141,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             html += `</div>`;
 
-            // Video Section - Show placeholder if no videoId
             if (unit.videoId) {
                 html += `<div class="video-container">
                     <iframe src="https://www.youtube.com/embed/${unit.videoId}" 
@@ -94,7 +154,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>`;
             }
 
-            // Quiz Section - Hidden by default with toggle button
             html += `<div class="quiz-section">
                 <button class="quiz-toggle-btn" onclick="toggleQuiz('${unit.id}')">
                     <span class="btn-icon">📝</span>
@@ -131,8 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
     termSelect.addEventListener('change', loadContent);
     weekSelect.addEventListener('change', loadContent);
 
-    // Initial load from URL params
-    function init() {
+    function initApp() {
         updateWeekOptions();
         
         const params = new URLSearchParams(window.location.search);
@@ -144,7 +202,8 @@ document.addEventListener('DOMContentLoaded', () => {
         loadContent();
     }
 
-    init();
+    // Initialize Access Check
+    checkAccess();
 });
 
 // Global function to toggle quiz visibility
@@ -168,10 +227,7 @@ function checkAnswer(unitId, questionIndex, selectedOptionIndex, correctAnswerIn
     const feedbackEl = document.getElementById(`fb-${unitId}-${questionIndex}`);
     const parent = document.getElementById(`q-${unitId}-${questionIndex}`);
     
-    // Get all buttons in this question
     const buttons = parent.querySelectorAll('.options button');
-    
-    // Disable buttons after selection
     buttons.forEach(btn => btn.disabled = true);
 
     if (selectedOptionIndex === correctAnswerIndex) {

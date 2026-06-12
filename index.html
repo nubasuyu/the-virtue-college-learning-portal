@@ -8,12 +8,24 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    <!-- ================= ACCESS CONTROL OVERLAY ================= -->
+    <div id="access-overlay" class="access-overlay">
+        <div class="access-modal">
+            <img src="images/logo.jpg" alt="Logo" class="access-logo">
+            <h2>The Virtue College</h2>
+            <p>Enter your access code to continue</p>
+            <input type="password" id="access-code-input" placeholder="Enter Access Code">
+            <button id="access-submit-btn">Enter Portal</button>
+            <p id="access-error" class="access-error">Invalid code. Please try again.</p>
+        </div>
+    </div>
+    <!-- ========================================================== -->
+
     <header class="school-header">
         <div class="header-container">
             <div class="logo-section">
                 <div class="logo-wrapper">
-                    <!-- Ensure your logo is saved as logo.png in the images/ folder -->
-                    <img src="images/logo.jpggit" alt="The Virtue College Logo" class="school-logo">
+                    <img src="images/logo.jpg" alt="The Virtue College Logo" class="school-logo">
                 </div>
                 <div class="school-info">
                     <h1 class="school-name">The Virtue College</h1>

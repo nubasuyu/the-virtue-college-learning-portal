@@ -1,3 +1,118 @@
+
+/* ================= ACCESS CONTROL ================= */
+.access-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(62, 39, 35, 0.95);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    backdrop-filter: blur(8px);
+    transition: opacity 0.4s ease;
+}
+
+.access-overlay.hidden {
+    display: none;
+}
+
+.access-modal {
+    background: var(--cream-light);
+    padding: 2.5rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+    border: 3px solid var(--cream-medium);
+    animation: fadeIn 0.5s ease;
+}
+
+.access-logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: contain;
+    margin-bottom: 1rem;
+    border: 3px solid var(--secondary-brown);
+    background: #fff;
+    padding: 4px;
+}
+
+.access-modal h2 {
+    color: var(--primary-brown);
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 0.5rem;
+    font-size: 1.6rem;
+}
+
+.access-modal > p {
+    color: var(--text-medium);
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+}
+
+#access-code-input {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    border: 2px solid var(--secondary-brown);
+    border-radius: var(--radius-sm);
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    letter-spacing: 2px;
+    background: #fff;
+}
+
+#access-code-input:focus {
+    outline: none;
+    border-color: var(--primary-brown);
+    box-shadow: 0 0 0 3px rgba(62, 39, 35, 0.15);
+}
+
+#access-submit-btn {
+    width: 100%;
+    padding: 0.9rem;
+    background: linear-gradient(135deg, var(--secondary-brown) 0%, var(--primary-brown) 100%);
+    color: var(--cream-light);
+    border: none;
+    border-radius: var(--radius-sm);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+#access-submit-btn:hover {
+    background: linear-gradient(135deg, var(--accent-brown) 0%, var(--secondary-brown) 100%);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.access-error {
+    color: var(--error);
+    font-weight: 600;
+    margin-top: 1rem;
+    display: none;
+    font-size: 0.9rem;
+    background: #FFEBEE;
+    padding: 0.5rem;
+    border-radius: var(--radius-sm);
+}
+
+.access-error.show {
+    display: block;
+    animation: shake 0.4s ease;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+}
 :root {
     --primary-brown: #3E2723;
     --secondary-brown: #5D4037;
