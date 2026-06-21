@@ -1,0 +1,122 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "Third Term",
+  "week": 3,
+  "topic": "Volumes",
+  "subUnits": [
+    {
+      "id": "jss1_math_t3_w3_su1",
+      "title": "3.1 Concept of Volume and Units of Measurement",
+      "notes": [
+        "Concept of Volume and Units",
+        "",
+        "Key Concepts:",
+        "1. Definition of Volume:",
+        "   - Volume is the amount of 3-dimensional (3D) space an object occupies or encloses.",
+        "",
+        "2. Volume vs. Capacity:",
+        "   - Volume refers to the space the object itself takes up.",
+        "   - Capacity refers to the amount of substance (usually liquid or gas) a container can hold.",
+        "",
+        "3. Units of Volume:",
+        "   - Since volume is 3D, it is measured in cubic units.",
+        "   - Standard metric units: Cubic centimeters (cm³), Cubic meters (m³).",
+        "   - Liquid capacity units: Milliliters (ml), Liters (L).",
+        "   - Conversion: 1 ml = 1 cm³, and 1000 ml = 1 Liter = 1000 cm³.",
+        "",
+        "Nigerian Context:",
+        "   - Understanding volume is crucial for buying water in 'Keke' tanks, calculating the capacity of a 'Gallons' of pure water, or determining the volume of concrete needed for a foundation."
+      ],
+      "diagramDescriptions": ["3D blocks showing 1 cm³ vs 1 m³", "Diagram comparing volume (space occupied) vs capacity (space inside)"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics concept of volume units cubic centimeters site:youtube.com",
+      "quiz": [
+        {"q": "What is the definition of volume?", "opts": ["The distance around a 3D object", "The amount of 3D space an object occupies", "The surface area of a 3D object", "The weight of an object"], "ans": 1, "explanation": "Volume is the measure of the three-dimensional space enclosed or occupied by an object."},
+        {"q": "Which of the following is the correct standard unit for volume?", "opts": ["Square meters (m²)", "Centimeters (cm)", "Cubic centimeters (cm³)", "Liters per second (L/s)"], "ans": 2, "explanation": "Volume is a 3D measurement, calculated by multiplying three lengths, resulting in cubic units like cm³ or m³."},
+        {"q": "What is the relationship between capacity and volume?", "opts": ["They are exactly the same thing", "Capacity refers to the amount a container can hold, while volume is the space an object takes up", "Volume is only for liquids", "Capacity is measured in meters"], "ans": 1, "explanation": "Capacity is the amount of substance (usually liquid) a container can hold, while volume is the physical space the object itself occupies."},
+        {"q": "How many cubic centimeters (cm³) are in 1 milliliter (ml)?", "opts": ["1 cm³", "10 cm³", "100 cm³", "1000 cm³"], "ans": 0, "explanation": "1 milliliter (ml) is exactly equal to 1 cubic centimeter (cm³)."},
+        {"q": "How many cubic centimeters (cm³) are in 1 liter (L)?", "opts": ["10 cm³", "100 cm³", "1000 cm³", "10000 cm³"], "ans": 2, "explanation": "1 Liter = 1000 milliliters, and since 1 ml = 1 cm³, 1 Liter = 1000 cm³."},
+        {"q": "Which of these objects has the greatest volume?", "opts": ["A matchbox", "A textbook", "A standard school bus", "A mobile phone"], "ans": 2, "explanation": "A school bus is a massive 3D object and occupies significantly more space (volume) than the other items."},
+        {"q": "If a cube has a side length of 1 cm, what is its volume?", "opts": ["1 cm", "1 cm²", "1 cm³", "3 cm³"], "ans": 2, "explanation": "Volume of a cube = side × side × side = 1 × 1 × 1 = 1 cm³."},
+        {"q": "Why do we use cubic units (cm³) for volume?", "opts": ["Because we are measuring a 2D surface", "Because we are multiplying three lengths together (length × width × height)", "Because the object is round", "Because it is the only unit available"], "ans": 1, "explanation": "Volume is calculated by multiplying three linear dimensions (e.g., cm × cm × cm), which results in cubic units (cm³)."},
+        {"q": "A water tank in a Nigerian village holds 5000 liters of water. What is its capacity in cm³?", "opts": ["500 cm³", "5000 cm³", "50,000 cm³", "5,000,000 cm³"], "ans": 3, "explanation": "1 Liter = 1000 cm³. Therefore, 5000 Liters = 5000 × 1000 = 5,000,000 cm³."},
+        {"q": "Which of these actions demonstrates understanding of volume?", "opts": ["Calculating how much paint is needed to cover a wall", "Calculating how much water is needed to fill a swimming pool", "Calculating the distance around a field", "Calculating the size of a piece of land"], "ans": 1, "explanation": "Filling a pool requires knowing the 3D space it occupies, which is its volume (or capacity)."}
+      ]
+    },
+    {
+      "id": "jss1_math_t3_w3_su2",
+      "title": "3.2 Volume of Cubes and Cuboids",
+      "notes": [
+        "Volume of Cubes and Cuboids",
+        "",
+        "Key Concepts:",
+        "1. Volume of a Cuboid:",
+        "   - A cuboid is a 3D shape with rectangular faces (like a matchbox or a textbook).",
+        "   - Formula: Volume = length × breadth × height (V = l × b × h).",
+        "",
+        "2. Volume of a Cube:",
+        "   - A cube is a special cuboid where all sides are equal (like a dice or a sugar cube).",
+        "   - Formula: Volume = side × side × side (V = s³).",
+        "",
+        "3. Finding Missing Dimensions:",
+        "   - If you know the volume and two other dimensions, you can find the third by dividing.",
+        "   - Example: Height = Volume / (length × breadth).",
+        "",
+        "Nigerian Context:",
+        "   - Calculating the volume of a cuboid is used to determine the capacity of a rectangular water tank, the amount of sand in a tipper truck, or the size of a shipping container at the Apapa port."
+      ],
+      "diagramDescriptions": ["Labeled cuboid showing length, breadth, and height", "Formula derivation: V = l × b × h"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics volume cuboid cube formula site:youtube.com",
+      "quiz": [
+        {"q": "What is the formula for the volume of a cuboid?", "opts": ["l × b", "l + b + h", "l × b × h", "2 × (l + b)"], "ans": 2, "explanation": "The volume of a cuboid is found by multiplying its length, breadth, and height (l × b × h)."},
+        {"q": "What is the formula for the volume of a cube?", "opts": ["s × s", "s × s × s", "4 × s", "6 × s²"], "ans": 1, "explanation": "Since all sides of a cube are equal (s), its volume is side × side × side, or s³."},
+        {"q": "A rectangular box is 5 cm long, 3 cm wide, and 2 cm high. What is its volume?", "opts": ["10 cm³", "15 cm³", "30 cm³", "60 cm³"], "ans": 2, "explanation": "Volume = l × b × h = 5 × 3 × 2 = 30 cm³."},
+        {"q": "A cubic dice has a side length of 4 cm. What is its volume?", "opts": ["12 cm³", "16 cm³", "48 cm³", "64 cm³"], "ans": 3, "explanation": "Volume of a cube = s³ = 4³ = 4 × 4 × 4 = 64 cm³."},
+        {"q": "A water tank in a school is 2m long, 1.5m wide, and 2m high. What is its volume?", "opts": ["3 m³", "4.5 m³", "6 m³", "12 m³"], "ans": 2, "explanation": "Volume = 2 × 1.5 × 2 = 6 m³."},
+        {"q": "If the volume of a cuboid is 120 cm³, and its base area (l × b) is 20 cm², what is its height?", "opts": ["4 cm", "6 cm", "10 cm", "20 cm"], "ans": 1, "explanation": "Volume = Base Area × height. 120 = 20 × h. h = 120 / 20 = 6 cm."},
+        {"q": "A cube has a volume of 27 cm³. What is the length of one of its sides?", "opts": ["3 cm", "6 cm", "9 cm", "27 cm"], "ans": 0, "explanation": "Side length = ∛Volume = ∛27 = 3 cm."},
+        {"q": "Which of these has the larger volume?", "opts": ["A cube of side 3 cm", "A cuboid of 4 cm by 2 cm by 3 cm", "A cube of side 2 cm", "A cuboid of 2 cm by 2 cm by 5 cm"], "ans": 0, "explanation": "Cube (3cm) = 27 cm³. Cuboid (4x2x3) = 24 cm³. Cube (2cm) = 8 cm³. Cuboid (2x2x5) = 20 cm³. The cube of side 3 cm has the largest volume."},
+        {"q": "A cuboid has a volume of 100 cm³. If the length is 5 cm and the width is 4 cm, what is the height?", "opts": ["4 cm", "5 cm", "10 cm", "20 cm"], "ans": 1, "explanation": "Volume = l × w × h. 100 = 5 × 4 × h. 100 = 20h. h = 5 cm."},
+        {"q": "A shipping container is shaped like a cuboid. Why is it important to calculate its volume?", "opts": ["To know how much paint to cover the outside", "To know how much cargo can be packed inside", "To know the distance around the container", "To know the area of the floor it sits on"], "ans": 1, "explanation": "Volume measures the 3D space inside, which determines how much cargo can be packed into the container."}
+      ]
+    },
+    {
+      "id": "jss1_math_t3_w3_su3",
+      "title": "3.3 Volume of Triangular Prisms",
+      "notes": [
+        "Volume of Triangular Prisms",
+        "",
+        "Key Concepts:",
+        "1. What is a Prism?",
+        "   - A prism is a 3D shape that has the same cross-section all along its length.",
+        "",
+        "2. Triangular Prism:",
+        "   - A prism where the cross-section is a triangle (like a Toblerone chocolate box or a camping tent).",
+        "",
+        "3. Volume of a Triangular Prism:",
+        "   - Formula: Volume = Area of the triangular cross-section × length of the prism.",
+        "   - Since Area of triangle = ½ × base × height, the formula becomes:",
+        "   - Volume = ½ × b × h × length.",
+        "",
+        "Nigerian Context:",
+        "   - Many roofs in Nigeria are shaped like triangular prisms. Calculating the volume helps architects determine the attic space or the volume of air needed for ventilation."
+      ],
+      "diagramDescriptions": ["3D diagram of a triangular prism showing the triangular base and length", "Formula breakdown: V = Area of base × length"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics volume triangular prism formula site:youtube.com",
+      "quiz": [
+        {"q": "What is a prism?", "opts": ["A 3D shape with a circular base", "A 3D shape with the same cross-section all along its length", "A 2D shape with 5 sides", "A shape that is perfectly round"], "ans": 1, "explanation": "A prism is a 3D solid that has the same cross-sectional shape all along its length."},
+        {"q": "What is the cross-section of a triangular prism?", "opts": ["A circle", "A rectangle", "A triangle", "A square"], "ans": 2, "explanation": "A triangular prism has a triangle as its uniform cross-section."},
+        {"q": "What is the formula for the volume of a triangular prism?", "opts": ["l × b × h", "½ × b × h × length", "π × r² × h", "b × h"], "ans": 1, "explanation": "Volume of a prism = Area of cross-section × length. For a triangular prism, the area of the triangle is ½ × b × h, so the volume is ½ × b × h × length."},
+        {"q": "A triangular prism has a triangular base of 4 cm, a height of 3 cm, and a length of 10 cm. What is its volume?", "opts": ["30 cm³", "60 cm³", "120 cm³", "240 cm³"], "ans": 1, "explanation": "Volume = ½ × 4 × 3 × 10 = 6 × 10 = 60 cm³."},
+        {"q": "A camping tent is shaped like a triangular prism. The triangular face has a base of 2m and a height of 1.5m. The tent is 3m long. What is the volume of air inside?", "opts": ["2.25 m³", "4.5 m³", "6.0 m³", "9.0 m³"], "ans": 1, "explanation": "Volume = ½ × 2 × 1.5 × 3 = 1.5 × 3 = 4.5 m³."},
+        {"q": "If the volume of a triangular prism is 100 cm³, and the area of its triangular cross-section is 20 cm², what is its length?", "opts": ["4 cm", "5 cm", "10 cm", "20 cm"], "ans": 1, "explanation": "Volume = Area of cross-section × length. 100 = 20 × length. Length = 100 / 20 = 5 cm."},
+        {"q": "Which of these real-life objects is an example of a triangular prism?", "opts": ["A standard brick", "A Toblerone chocolate box", "A standard water pipe", "A football"], "ans": 1, "explanation": "A Toblerone box has a triangular cross-section that runs along its length, making it a triangular prism."},
+        {"q": "What is the difference between a triangular prism and a triangular pyramid?", "opts": ["A prism has a pointed top, a pyramid has a flat top", "A prism has a uniform cross-section, a pyramid tapers to a point", "A prism is 2D, a pyramid is 3D", "There is no difference"], "ans": 1, "explanation": "A prism maintains the same cross-section along its entire length, whereas a pyramid has a base and tapers to a single apex point."},
+        {"q": "A triangular prism has a volume of 48 cm³. If its length is 8 cm, what is the area of its triangular base?", "opts": ["4 cm²", "6 cm²", "8 cm²", "12 cm²"], "ans": 1, "explanation": "Volume = Base Area × length. 48 = Base Area × 8. Base Area = 48 / 8 = 6 cm²."},
+        {"q": "Why is it useful to know the volume of a triangular prism in architecture?", "opts": ["To calculate the number of tiles needed for the roof", "To determine the amount of space or air inside a roof-shaped structure", "To find the perimeter of the base", "To calculate the area of the triangular gable"], "ans": 1, "explanation": "Many roofs are shaped like triangular prisms. Knowing the volume helps in calculating the attic space or ventilation requirements."}
+      ]
+    }
+  ]
+}

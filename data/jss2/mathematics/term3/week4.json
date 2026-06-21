@@ -1,0 +1,123 @@
+{
+  "course": "JSS2 Mathematics",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Volume of Cylinders and Cones",
+  "subUnits": [
+    {
+      "id": "jss2_math_t3_w4_su1",
+      "title": "4.1 Volume of Cylinders and Derivation",
+      "notes": [
+        "Volume of Cylinders",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Volume:",
+        "   - The amount of 3D space enclosed within a solid shape.",
+        "   - Measured in cubic units (e.g., cm³, m³).",
+        "",
+        "2. Volume of a Cylinder:",
+        "   - A cylinder can be thought of as a stack of circular discs.",
+        "   - Volume = Area of base × height.",
+        "   - Formula: V = π × r² × h.",
+        "",
+        "3. Derivation:",
+        "   - The base is a circle, so its area is πr².",
+        "   - Stacking this area to a height h gives the total volume: V = πr²h.",
+        "",
+        "Nigerian Context:",
+        "   - Calculating the volume of a cylinder is essential for determining the capacity of water storage tanks (like GeePee or Sintex tanks) used in Nigerian homes, or the volume of crude oil in a cylindrical pipeline."
+      ],
+      "diagramDescriptions": ["Diagram showing a cylinder as a stack of circular discs", "Formula derivation: V = Area of base × height"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Mathematics volume of cylinder derivation formula site:youtube.com",
+      "quiz": [
+        {"q": "Volume is measured in which type of units?", "opts": ["Square units", "Linear units", "Cubic units", "Grams"], "ans": 2, "explanation": "Volume is a 3D measurement, so it is measured in cubic units (e.g., cm³)."},
+        {"q": "The formula for the volume of a cylinder is:", "opts": ["2πrh", "πr²h", "πr(r+h)", "2πr²h"], "ans": 1, "explanation": "Volume = π × r² × h."},
+        {"q": "What is the volume of a cylinder with radius 2 cm and height 5 cm? (π = 3.14)", "opts": ["31.4 cm³", "62.8 cm³", "125.6 cm³", "20 cm³"], "ans": 1, "explanation": "V = 3.14 × 2² × 5 = 3.14 × 4 × 5 = 62.8 cm³."},
+        {"q": "A cylindrical tank has a radius of 7 m and height of 10 m. What is its volume? (π = 22/7)", "opts": ["440 m³", "1540 m³", "616 m³", "220 m³"], "ans": 1, "explanation": "V = (22/7) × 7² × 10 = 22 × 7 × 10 = 1540 m³."},
+        {"q": "To find the volume of a cylinder, you multiply the area of the base by the:", "opts": ["Radius", "Diameter", "Height", "Slant height"], "ans": 2, "explanation": "Volume = Area of base × height."},
+        {"q": "If the volume of a cylinder is 100 cm³ and the base area is 20 cm², what is its height?", "opts": ["2 cm", "5 cm", "10 cm", "20 cm"], "ans": 1, "explanation": "Height = Volume / Base Area = 100 / 20 = 5 cm."},
+        {"q": "What happens to the volume of a cylinder if the radius is doubled?", "opts": ["It doubles", "It triples", "It becomes four times larger", "It stays the same"], "ans": 2, "explanation": "Since V = πr²h, doubling r gives π(2r)²h = 4πr²h. The volume becomes 4 times larger."},
+        {"q": "A pipe is a hollow cylinder. To find the volume of material used to make it, you need to:", "opts": ["Calculate the TSA", "Subtract the volume of the inner cylinder from the outer cylinder", "Add the inner and outer volumes", "Calculate the CSA"], "ans": 1, "explanation": "Volume of material = Volume of outer cylinder - Volume of inner hollow space."},
+        {"q": "Which of these is the best estimate for the volume of a standard tin of Peak milk? (π = 3)", "opts": ["100 cm³", "1000 cm³", "10000 cm³", "10 cm³"], "ans": 1, "explanation": "A standard tin is roughly 10cm high and 6cm radius. V ≈ 3 × 36 × 10 ≈ 1080 cm³. 1000 cm³ is the best estimate."},
+        {"q": "The capacity of a container is another word for its:", "opts": ["Surface area", "Volume", "Mass", "Weight"], "ans": 1, "explanation": "Capacity refers to the internal volume of a container."}
+      ]
+    },
+    {
+      "id": "jss2_math_t3_w4_su2",
+      "title": "4.2 Volume of Cones and Derivation",
+      "notes": [
+        "Volume of Cones",
+        "",
+        "Key Concepts:",
+        "1. Volume of a Cone:",
+        "   - A cone is essentially one-third of a cylinder with the same base and height.",
+        "   - Formula: V = 1/3 × π × r² × h.",
+        "",
+        "2. Derivation/Relationship with Cylinder:",
+        "   - If you fill a cone with water and pour it into a cylinder of the same radius and height, it takes exactly 3 cones to fill the cylinder.",
+        "   - Therefore, Volume of Cone = 1/3 × Volume of Cylinder.",
+        "",
+        "3. Solving Problems:",
+        "   - Always remember to multiply by 1/3 (or divide by 3) at the end of the calculation.",
+        "   - Ensure radius and height are in the same units before calculating.",
+        "",
+        "Nigerian Context:",
+        "   - Conical shapes are seen in Nigerian culture, such as the traditional 'hats' worn in some Northern cultures, or the shape of a pile of sand/gravel at a construction site. Calculating volume helps estimate the amount of material."
+      ],
+      "diagramDescriptions": ["Diagram comparing a cone and a cylinder of the same base and height", "Visual showing 3 cones filling 1 cylinder"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Mathematics volume of cone derivation formula site:youtube.com",
+      "quiz": [
+        {"q": "The formula for the volume of a cone is:", "opts": ["πr²h", "1/3 πr²h", "2πrh", "1/3 πrl"], "ans": 1, "explanation": "Volume of a cone = 1/3 × π × r² × h."},
+        {"q": "A cone is what fraction of a cylinder with the same base and height?", "opts": ["1/2", "1/3", "1/4", "2/3"], "ans": 1, "explanation": "A cone is exactly one-third the volume of a cylinder with the same dimensions."},
+        {"q": "What is the volume of a cone with radius 3 cm and height 7 cm? (π = 22/7)", "opts": ["22 cm³", "66 cm³", "198 cm³", "68 cm³"], "ans": 1, "explanation": "V = 1/3 × (22/7) × 3² × 7 = 1/3 × 22 × 9 = 66 cm³."},
+        {"q": "A conical pile of sand has a radius of 2 m and height of 3 m. What is its volume? (π = 3.14)", "opts": ["6.28 m³", "12.56 m³", "37.68 m³", "4.19 m³"], "ans": 1, "explanation": "V = 1/3 × 3.14 × 2² × 3 = 1/3 × 3.14 × 12 = 12.56 m³."},
+        {"q": "If the volume of a cone is 100 cm³ and the base area is 30 cm², what is its height?", "opts": ["3 cm", "10 cm", "30 cm", "100 cm"], "ans": 1, "explanation": "V = 1/3 × Base Area × h → 100 = 1/3 × 30 × h → 100 = 10h → h = 10 cm."},
+        {"q": "When calculating the volume of a cone, a common mistake is forgetting to:", "opts": ["Square the radius", "Multiply by π", "Multiply by 1/3", "Use the correct height"], "ans": 2, "explanation": "Students often forget the 1/3 factor and calculate the volume of a cylinder instead."},
+        {"q": "What is the volume of a cone with diameter 14 cm and height 9 cm? (π = 22/7)", "opts": ["462 cm³", "1386 cm³", "154 cm³", "616 cm³"], "ans": 0, "explanation": "Radius = 7 cm. V = 1/3 × (22/7) × 7² × 9 = 1/3 × 22 × 7 × 9 = 462 cm³."},
+        {"q": "If the radius of a cone is doubled, its volume becomes:", "opts": ["2 times larger", "3 times larger", "4 times larger", "8 times larger"], "ans": 2, "explanation": "V = 1/3 π(2r)²h = 4(1/3 πr²h). The volume becomes 4 times larger."},
+        {"q": "A conical hat has a volume of 50 cm³. What is the volume of a cylinder with the same base and height?", "opts": ["50 cm³", "100 cm³", "150 cm³", "200 cm³"], "ans": 2, "explanation": "Cylinder volume = 3 × Cone volume = 3 × 50 = 150 cm³."},
+        {"q": "To find the volume of a cone, you need to know the radius and the:", "opts": ["Slant height", "Vertical height", "Curved surface area", "Diameter only"], "ans": 1, "explanation": "The volume formula uses the vertical height (h), not the slant height (l)."}
+      ]
+    },
+    {
+      "id": "jss2_math_t3_w4_su3",
+      "title": "4.3 Volume of Compound Shapes",
+      "notes": [
+        "Volume of Compound Shapes",
+        "",
+        "Key Concepts:",
+        "1. Compound Shapes:",
+        "   - A 3D shape made by combining two or more basic shapes (e.g., a cone mounted on a cylinder, or a cylinder with a hemisphere on top).",
+        "",
+        "2. Calculating Total Volume:",
+        "   - Calculate the volume of each individual shape separately.",
+        "   - Add the volumes together to get the total volume.",
+        "   - Total Volume = Volume of Shape 1 + Volume of Shape 2.",
+        "",
+        "3. Common Combinations:",
+        "   - Cone on top of a cylinder (like a silo or a pencil).",
+        "   - Hemisphere on top of a cylinder (like a test tube or a silo).",
+        "",
+        "Nigerian Context:",
+        "   - Many storage silos for grains (like maize or wheat) in Northern Nigeria are cylindrical with conical roofs. Calculating their total volume helps farmers know how much grain they can store."
+      ],
+      "diagramDescriptions": ["Diagram of a compound shape (cone on cylinder) with labeled dimensions", "Step-by-step breakdown of calculating the volume of each part"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Mathematics volume of compound shapes cone cylinder site:youtube.com",
+      "quiz": [
+        {"q": "To find the total volume of a compound shape, you should:", "opts": ["Multiply the volumes of the individual shapes", "Add the volumes of the individual shapes", "Subtract the volumes", "Divide the volumes"], "ans": 1, "explanation": "Total volume is the sum of the volumes of the individual shapes that make up the compound shape."},
+        {"q": "A pencil is modeled as a cone on top of a cylinder. To find its total volume, you calculate:", "opts": ["Volume of cone × Volume of cylinder", "Volume of cone + Volume of cylinder", "Volume of cylinder - Volume of cone", "Volume of cone only"], "ans": 1, "explanation": "The total volume is the sum of the cone's volume and the cylinder's volume."},
+        {"q": "A silo consists of a cylinder and a conical roof. If the cylinder's volume is 500 m³ and the cone's is 100 m³, what is the total volume?", "opts": ["400 m³", "500 m³", "600 m³", "50000 m³"], "ans": 2, "explanation": "Total volume = 500 + 100 = 600 m³."},
+        {"q": "When calculating the volume of a compound shape, what must be the same for the joined shapes?", "opts": ["Their heights", "Their radii (or base diameters)", "Their slant heights", "Their surface areas"], "ans": 1, "explanation": "For the shapes to join perfectly, their bases must match, meaning they must have the same radius."},
+        {"q": "A test tube is modeled as a cylinder with a hemisphere at the bottom. To find its capacity, you add the volume of the:", "opts": ["Cylinder and the full sphere", "Cylinder and the hemisphere", "Two cylinders", "Two hemispheres"], "ans": 1, "explanation": "The test tube is made of a cylinder and half a sphere (hemisphere), so you add their volumes."},
+        {"q": "If the radius of the cylinder in a compound shape is 7 cm, what is the radius of the cone mounted on it?", "opts": ["3.5 cm", "7 cm", "14 cm", "It cannot be determined"], "ans": 1, "explanation": "Since they are joined at the base, they must share the same radius of 7 cm."},
+        {"q": "A compound shape has a total volume of 120 cm³. If the cylinder part has a volume of 90 cm³, what is the volume of the cone part?", "opts": ["210 cm³", "30 cm³", "90 cm³", "120 cm³"], "ans": 1, "explanation": "Volume of cone = Total volume - Volume of cylinder = 120 - 90 = 30 cm³."},
+        {"q": "Which of these real-life objects is best modeled as a compound shape (cylinder + cone)?", "opts": ["A football", "A matchbox", "A traditional wizard's hat or a silo", "A dice"], "ans": 2, "explanation": "A silo or a conical hat on a cylindrical base is a classic compound shape."},
+        {"q": "When finding the volume of a cone on a cylinder, you use the formula:", "opts": ["πr²h + 1/3 πr²h", "πr²h × 1/3 πr²h", "2πrh + πrl", "πr²h - 1/3 πr²h"], "ans": 0, "explanation": "Total volume = Volume of cylinder (πr²h) + Volume of cone (1/3 πr²h)."},
+        {"q": "A farmer wants to know how much grain a silo can hold. He needs to calculate its:", "opts": ["Surface area", "Volume", "Perimeter", "Mass"], "ans": 1, "explanation": "To know how much a container can hold (capacity), you must calculate its volume."}
+      ]
+    }
+  ]
+}

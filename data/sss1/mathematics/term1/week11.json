@@ -1,0 +1,120 @@
+{
+  "course": "SS1 Mathematics",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Simple Equations (Change of Subject)",
+  "subUnits": [
+    {
+      "id": "ss1_math_t1_w11_su1",
+      "title": "11.1 Concept of Change of Subject of Formulae",
+      "notes": [
+        "Concept of Change of Subject of Formulae",
+        "",
+        "Key Concepts:",
+        "1. What is a Formula?",
+        "   - A mathematical relationship expressed using symbols and an equals sign (=).",
+        "   - Example: Area of rectangle A = l × b.",
+        "",
+        "2. Subject of a Formula:",
+        "   - The variable that is isolated on one side of the equals sign (usually the left).",
+        "   - In A = lb, 'A' is the subject.",
+        "",
+        "3. Changing the Subject:",
+        "   - Using inverse operations to isolate a different variable.",
+        "   - Addition ↔ Subtraction",
+        "   - Multiplication ↔ Division",
+        "",
+        "4. Basic Examples:",
+        "   - Make x the subject: y = x + 5  →  x = y - 5.",
+        "   - Make y the subject: x = 2y  →  y = x / 2."
+      ],
+      "diagramDescriptions": ["Examples of linear formula transposition"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics change of subject formula linear site:youtube.com",
+      "quiz": [
+        {"q": "In the formula V = IR, the subject of the formula is:", "opts": ["I", "R", "V", "IR"], "ans": 2, "explanation": "V is isolated on the left side of the equals sign."},
+        {"q": "If y = x + 7, making x the subject gives:", "opts": ["x = y - 7", "x = y + 7", "x = 7y", "x = y/7"], "ans": 0, "explanation": "Subtract 7 from both sides to isolate x."},
+        {"q": "If P = 2Q, making Q the subject gives:", "opts": ["Q = P + 2", "Q = P - 2", "Q = P/2", "Q = 2P"], "ans": 2, "explanation": "Divide both sides by 2 to isolate Q."},
+        {"q": "Make r the subject in C = 2πr:", "opts": ["r = C - 2π", "r = C / 2π", "r = 2π / C", "r = C + 2π"], "ans": 1, "explanation": "Divide both sides by 2π."},
+        {"q": "Make x the subject in y = x - 4:", "opts": ["x = y - 4", "x = y + 4", "x = 4y", "x = y/4"], "ans": 1, "explanation": "Add 4 to both sides."},
+        {"q": "Make m the subject in y = mx + c:", "opts": ["m = (y - c) / x", "m = (y + c) / x", "m = y - cx", "m = y / (x+c)"], "ans": 0, "explanation": "Subtract c, then divide by x."},
+        {"q": "Make b the subject in A = 1/2 bh:", "opts": ["b = A / 2h", "b = 2A / h", "b = Ah / 2", "b = 2h / A"], "ans": 1, "explanation": "Multiply by 2, then divide by h."},
+        {"q": "Make x the subject in 3x = 15:", "opts": ["x = 5", "x = 12", "x = 18", "x = 45"], "ans": 0, "explanation": "Divide both sides by 3."},
+        {"q": "Make y the subject in x + y = 10:", "opts": ["y = 10 + x", "y = 10 - x", "y = x - 10", "y = 10x"], "ans": 1, "explanation": "Subtract x from both sides."},
+        {"q": "Make u the subject in v = u + at:", "opts": ["u = v + at", "u = v - at", "u = at - v", "u = v / at"], "ans": 1, "explanation": "Subtract at from both sides."}
+      ]
+    },
+    {
+      "id": "ss1_math_t1_w11_su2",
+      "title": "11.2 Formulae Involving Brackets and Fractions",
+      "notes": [
+        "Formulae Involving Brackets and Fractions",
+        "",
+        "Key Concepts:",
+        "1. Expanding Brackets:",
+        "   - Use the distributive law: a(b + c) = ab + ac.",
+        "   - Example: Make x the subject in y = 2(x + 3).",
+        "   - Expand: y = 2x + 6  →  2x = y - 6  →  x = (y - 6) / 2.",
+        "",
+        "2. Cross-Multiplying Fractions:",
+        "   - If y = a / x, cross-multiply to get xy = a, then x = a / y.",
+        "",
+        "3. Fractions with Variables in Denominator:",
+        "   - Example: Make x the subject in y = (x + a) / b.",
+        "   - Cross-multiply: by = x + a  →  x = by - a."
+      ],
+      "diagramDescriptions": ["Step-by-step transposition with brackets", "Cross-multiplication steps"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics change of subject brackets fractions site:youtube.com",
+      "quiz": [
+        {"q": "Make x the subject in y = 2(x + 3):", "opts": ["x = (y - 6) / 2", "x = y/2 - 3", "x = (y + 6) / 2", "x = 2y - 6"], "ans": 0, "explanation": "Expand to y = 2x + 6, then 2x = y - 6, so x = (y - 6)/2."},
+        {"q": "Make a the subject in P = 2(a + b):", "opts": ["a = P/2 - b", "a = (P - b) / 2", "a = P - 2b", "a = 2P - b"], "ans": 0, "explanation": "Divide by 2: P/2 = a + b. Subtract b: a = P/2 - b."},
+        {"q": "Make x the subject in y = a / x:", "opts": ["x = ay", "x = a / y", "x = y / a", "x = a - y"], "ans": 1, "explanation": "Multiply by x: xy = a. Divide by y: x = a/y."},
+        {"q": "Make R the subject in V = IR:", "opts": ["R = V + I", "R = V - I", "R = V / I", "R = I / V"], "ans": 2, "explanation": "Divide both sides by I."},
+        {"q": "Make x the subject in y = (x + a) / b:", "opts": ["x = by + a", "x = by - a", "x = y/b - a", "x = b(y - a)"], "ans": 1, "explanation": "Cross-multiply: by = x + a. Subtract a: x = by - a."},
+        {"q": "Make b the subject in A = lb:", "opts": ["b = A + l", "b = A - l", "b = A / l", "b = l / A"], "ans": 2, "explanation": "Divide both sides by l."},
+        {"q": "Make x the subject in 2(x - 1) = y:", "opts": ["x = y/2 + 1", "x = (y + 2) / 2", "x = y/2 - 1", "x = 2y + 1"], "ans": 0, "explanation": "Divide by 2: x - 1 = y/2. Add 1: x = y/2 + 1."},
+        {"q": "Make y the subject in x/2 + y/3 = 1:", "opts": ["y = 3 - 3x/2", "y = 3(1 - x/2)", "y = 2 - 2x/3", "y = 3 - x/2"], "ans": 1, "explanation": "Multiply by 6: 3x + 2y = 6. 2y = 6 - 3x. y = 3 - 3x/2."},
+        {"q": "Make x the subject in a/x + b = c:", "opts": ["x = a / (c - b)", "x = a / (c + b)", "x = (c - b) / a", "x = ac - b"], "ans": 0, "explanation": "a/x = c - b. Invert both sides or cross multiply: x = a / (c - b)."},
+        {"q": "Make x the subject in y = 3(x + 2):", "opts": ["x = (y - 6) / 3", "x = y/3 - 2", "x = (y + 6) / 3", "x = 3y - 6"], "ans": 1, "explanation": "Expand: y = 3x + 6. 3x = y - 6. x = (y - 6)/3 or y/3 - 2."}
+      ]
+    },
+    {
+      "id": "ss1_math_t1_w11_su3",
+      "title": "11.3 Formulae Involving Roots and Powers",
+      "notes": [
+        "Formulae Involving Roots and Powers",
+        "",
+        "Key Concepts:",
+        "1. Dealing with Squares:",
+        "   - To remove a square, take the square root of both sides.",
+        "   - Example: Make r the subject in A = πr².",
+        "   - r² = A / π  →  r = √(A / π).",
+        "",
+        "2. Dealing with Square Roots:",
+        "   - To remove a square root, square both sides.",
+        "   - Example: Make x the subject in y = √(x + 1).",
+        "   - y² = x + 1  →  x = y² - 1.",
+        "",
+        "3. General Powers:",
+        "   - Example: Make v the subject in E = 1/2 mv².",
+        "   - v² = 2E / m  →  v = √(2E / m)."
+      ],
+      "diagramDescriptions": ["Transposition involving squares and square roots"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics change of subject square roots powers site:youtube.com",
+      "quiz": [
+        {"q": "Make r the subject in A = πr²:", "opts": ["r = A / π", "r = √(A / π)", "r = √(Aπ)", "r = A² / π"], "ans": 1, "explanation": "Divide by π, then take the square root."},
+        {"q": "Make x the subject in y = x²:", "opts": ["x = √y", "x = y²", "x = y/2", "x = 2y"], "ans": 0, "explanation": "Take the square root of both sides."},
+        {"q": "Make l the subject in T = 2π√(l/g):", "opts": ["l = T / 2π", "l = g(T / 2π)²", "l = (T / 2π)² / g", "l = g²T / 4π²"], "ans": 1, "explanation": "T/2π = √(l/g). Square both sides: (T/2π)² = l/g. Multiply by g."},
+        {"q": "Make v the subject in E = 1/2 mv²:", "opts": ["v = 2E / m", "v = √(2E / m)", "v = √(E / 2m)", "v = m / 2E"], "ans": 1, "explanation": "2E = mv². v² = 2E/m. v = √(2E/m)."},
+        {"q": "Make r the subject in V = 4/3 πr³:", "opts": ["r = 3V / 4π", "r = ∛(3V / 4π)", "r = ∛(4π / 3V)", "r = (3V / 4π)³"], "ans": 1, "explanation": "3V/4π = r³. Take the cube root."},
+        {"q": "Make x the subject in y = √(x + 1):", "opts": ["x = y² - 1", "x = √y - 1", "x = y² + 1", "x = √(y+1)"], "ans": 0, "explanation": "Square both sides: y² = x + 1. Subtract 1: x = y² - 1."},
+        {"q": "Make a the subject in v² = u² + 2as:", "opts": ["a = (v² - u²) / 2s", "a = (v² + u²) / 2s", "a = 2s / (v² - u²)", "a = v² - u² - 2s"], "ans": 0, "explanation": "Subtract u², then divide by 2s."},
+        {"q": "Make l the subject in A = l × w:", "opts": ["l = A + w", "l = A - w", "l = A / w", "l = w / A"], "ans": 2, "explanation": "Divide both sides by w."},
+        {"q": "Make r the subject in C = 2πr:", "opts": ["r = C - 2π", "r = C / 2π", "r = 2π / C", "r = C + 2π"], "ans": 1, "explanation": "Divide both sides by 2π."},
+        {"q": "Make h the subject in V = πr²h:", "opts": ["h = V / πr²", "h = V - πr²", "h = πr² / V", "h = V / 2πr"], "ans": 0, "explanation": "Divide both sides by πr²."}
+      ]
+    }
+  ]
+}

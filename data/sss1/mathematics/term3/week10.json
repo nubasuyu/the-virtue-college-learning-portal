@@ -1,0 +1,119 @@
+{
+  "course": "SS1 Mathematics",
+  "term": "Third Term",
+  "week": 10,
+  "topic": "Statistics (Grouped Data)",
+  "subUnits": [
+    {
+      "id": "ss1_math_t3_w10_su1",
+      "title": "10.1 Introduction to Grouped Data and Class Boundaries",
+      "notes": [
+        "Introduction to Grouped Data and Class Boundaries",
+        "",
+        "Key Concepts:",
+        "1. What is Grouped Data?",
+        "   - When a data set is very large, individual values are grouped into intervals (classes) to make analysis easier.",
+        "   - Example: Instead of listing every student's exact age, we group them: 10-12, 13-15, 16-18.",
+        "",
+        "2. Key Terminology:",
+        "   - Class Interval: The range of values in a group (e.g., 10-12).",
+        "   - Class Limits: The smallest and largest values in the interval (10 and 12).",
+        "   - Class Boundaries: The true boundaries used for continuous data. Found by subtracting/adding 0.5 to the limits.",
+        "     * Example: 10-12 becomes 9.5 - 12.5.",
+        "   - Class Width: The difference between the upper and lower class boundaries (12.5 - 9.5 = 3).",
+        "",
+        "Nigerian Context:",
+        "   - Grouped data is used in Nigerian demographics, such as grouping the population of Lagos into age brackets for census analysis."
+      ],
+      "diagramDescriptions": ["Table showing class intervals, limits, boundaries, and width"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics grouped data class boundaries class width site:youtube.com",
+      "quiz": [
+        {"q": "What is grouped data?", "opts": ["Data listed individually", "Data grouped into intervals", "Data that is missing", "Data that is incorrect"], "ans": 1, "explanation": "Grouped data is organized into class intervals for easier analysis."},
+        {"q": "In the class interval 10-14, what are the class limits?", "opts": ["9.5 and 14.5", "10 and 14", "10 and 15", "9 and 14"], "ans": 1, "explanation": "The class limits are the exact numbers stated in the interval: 10 and 14."},
+        {"q": "What are the class boundaries for the interval 10-14?", "opts": ["9.5 - 14.5", "10.5 - 14.5", "9.5 - 13.5", "10 - 14"], "ans": 0, "explanation": "Subtract 0.5 from the lower limit (9.5) and add 0.5 to the upper limit (14.5)."},
+        {"q": "What is the class width for the interval 10-14 (boundaries 9.5-14.5)?", "opts": ["4", "5", "6", "10"], "ans": 1, "explanation": "Class width = Upper boundary - Lower boundary = 14.5 - 9.5 = 5."},
+        {"q": "Why do we use class boundaries instead of class limits for continuous data?", "opts": ["To make it look nicer", "To ensure there are no gaps between intervals", "To make the numbers smaller", "It is not necessary"], "ans": 1, "explanation": "Class boundaries ensure the intervals are continuous and touch each other without gaps."},
+        {"q": "If a class interval is 20-24, what is the lower class boundary?", "opts": ["19", "19.5", "20", "20.5"], "ans": 1, "explanation": "Lower boundary = 20 - 0.5 = 19.5."},
+        {"q": "If a class interval is 20-24, what is the upper class boundary?", "opts": ["24", "24.5", "25", "25.5"], "ans": 1, "explanation": "Upper boundary = 24 + 0.5 = 24.5."},
+        {"q": "What is the class width for the interval 50-59?", "opts": ["9", "10", "11", "59"], "ans": 1, "explanation": "Boundaries are 49.5 - 59.5. Width = 59.5 - 49.5 = 10."},
+        {"q": "The frequency of a class interval represents:", "opts": ["The class width", "The number of data values in that interval", "The class boundaries", "The mean"], "ans": 1, "explanation": "Frequency is the count of how many data values fall within that specific class interval."},
+        {"q": "Which of the following is an example of grouped data?", "opts": ["A list of exact heights of 5 students", "A table showing ages 10-12: 5 students, 13-15: 8 students", "A single number", "A pie chart"], "ans": 1, "explanation": "Grouping ages into intervals (10-12, 13-15) with frequencies is grouped data."}
+      ]
+    },
+    {
+      "id": "ss1_math_t3_w10_su2",
+      "title": "10.2 Drawing Histograms for Grouped Data",
+      "notes": [
+        "Drawing Histograms for Grouped Data",
+        "",
+        "Key Concepts:",
+        "1. Rules for Drawing Histograms of Grouped Data:",
+        "   - The x-axis must use the continuous CLASS BOUNDARIES, not the class limits.",
+        "   - The y-axis represents the frequency.",
+        "   - Bars are drawn touching each other (no gaps).",
+        "   - The width of each bar corresponds to the class width.",
+        "",
+        "2. Step-by-Step Process:",
+        "   - Step 1: Calculate the class boundaries for each interval.",
+        "   - Step 2: Draw and label the x-axis (boundaries) and y-axis (frequency).",
+        "   - Step 3: Draw rectangles for each class, ensuring they touch and their heights match the frequency.",
+        "",
+        "Nigerian Context:",
+        "   - Histograms are essential for visualizing distributions in Nigerian industries, such as the distribution of test scores in WAEC or the weights of agricultural produce."
+      ],
+      "diagramDescriptions": ["Step-by-step guide to drawing a histogram using class boundaries"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics drawing histograms grouped data class boundaries site:youtube.com",
+      "quiz": [
+        {"q": "What must be used on the x-axis of a histogram for grouped data?", "opts": ["Class limits", "Class boundaries", "Class width", "Frequency"], "ans": 1, "explanation": "The x-axis must use the continuous class boundaries to ensure the bars touch correctly."},
+        {"q": "What does the y-axis of a histogram represent?", "opts": ["Class boundaries", "Class width", "Frequency", "Mean"], "ans": 2, "explanation": "The y-axis represents the frequency of each class interval."},
+        {"q": "How are the bars in a histogram drawn?", "opts": ["With gaps between them", "Touching each other", "Overlapping", "In 3D"], "ans": 1, "explanation": "Because the data is continuous, the bars in a histogram are drawn touching each other."},
+        {"q": "If the class boundaries are 9.5-14.5, what is the width of the bar?", "opts": ["4", "5", "6", "14"], "ans": 1, "explanation": "Width = 14.5 - 9.5 = 5."},
+        {"q": "What determines the height of each bar in a histogram?", "opts": ["The class width", "The frequency", "The class boundaries", "The mean"], "ans": 1, "explanation": "The height of the bar corresponds to the frequency of that class interval."},
+        {"q": "Why are there no gaps in a histogram?", "opts": ["To save space", "Because the data is continuous", "Because it looks better", "It is a rule"], "ans": 1, "explanation": "The data is continuous, so the intervals are connected without gaps."},
+        {"q": "If a class has a frequency of 10, and the scale on the y-axis is 1 cm = 2 students, how tall is the bar?", "opts": ["2 cm", "5 cm", "10 cm", "20 cm"], "ans": 1, "explanation": "Height = 10 / 2 = 5 cm."},
+        {"q": "What is the main difference between a bar chart and a histogram?", "opts": ["Bar charts are for continuous data", "Histograms have no gaps between bars", "Histograms use colors", "There is no difference"], "ans": 1, "explanation": "Histograms have no gaps because they represent continuous data, while bar charts have gaps for discrete categories."},
+        {"q": "When drawing a histogram, the width of the bar is determined by the:", "opts": ["Frequency", "Class width", "Class boundaries", "Total frequency"], "ans": 1, "explanation": "The width of the bar corresponds to the class width (upper boundary - lower boundary)."},
+        {"q": "What is the primary purpose of a histogram?", "opts": ["To find the exact mean", "To show the distribution of continuous data", "To compare discrete categories", "To calculate the range"], "ans": 1, "explanation": "Histograms are used to visualize how continuous data is distributed across different intervals."}
+      ]
+    },
+    {
+      "id": "ss1_math_t3_w10_su3",
+      "title": "10.3 Estimation of Mode from a Histogram",
+      "notes": [
+        "Estimation of Mode from a Histogram",
+        "",
+        "Key Concepts:",
+        "1. What is the Mode?",
+        "   - The mode is the value that occurs most frequently in a data set.",
+        "",
+        "2. Modal Class:",
+        "   - In grouped data, we cannot find the exact mode. Instead, we find the modal class.",
+        "   - The modal class is the class interval with the highest frequency (the tallest bar in the histogram).",
+        "",
+        "3. Estimating the Mode Graphically:",
+        "   - Draw lines from the top corners of the modal bar to the top corners of the adjacent bars.",
+        "   - The point where these lines intersect, dropped vertically to the x-axis, gives the estimated mode.",
+        "",
+        "Nigerian Context:",
+        "   - Estimating the mode is useful in Nigerian businesses to find the most common shoe size sold or the most frequent daily sales amount."
+      ],
+      "diagramDescriptions": ["Graphical method for estimating the mode from a histogram using intersecting lines"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics estimating mode from histogram graphical method site:youtube.com",
+      "quiz": [
+        {"q": "What is the mode of a data set?", "opts": ["The average value", "The middle value", "The most frequent value", "The highest value"], "ans": 2, "explanation": "The mode is the value that appears most frequently."},
+        {"q": "In grouped data, what is the modal class?", "opts": ["The class with the lowest frequency", "The class with the highest frequency", "The first class", "The last class"], "ans": 1, "explanation": "The modal class is the class interval with the highest frequency."},
+        {"q": "How do you identify the modal class from a histogram?", "opts": ["The shortest bar", "The tallest bar", "The widest bar", "The narrowest bar"], "ans": 1, "explanation": "The tallest bar represents the highest frequency, which is the modal class."},
+        {"q": "Can you find the exact mode from grouped data?", "opts": ["Yes, always", "No, you can only estimate it or find the modal class", "Yes, by calculating the mean", "Yes, by finding the median"], "ans": 1, "explanation": "Because the exact individual values are grouped, you can only identify the modal class or estimate the mode graphically."},
+        {"q": "To estimate the mode graphically, you draw lines from the top corners of the modal bar to the:", "opts": ["x-axis", "y-axis", "Top corners of the adjacent bars", "Center of the histogram"], "ans": 2, "explanation": "You draw lines from the top corners of the modal bar to the top corners of the bars immediately next to it."},
+        {"q": "Where do the two lines intersect when estimating the mode?", "opts": ["Inside the modal bar", "Outside the histogram", "Above the modal bar", "On the x-axis"], "ans": 0, "explanation": "The lines intersect inside the modal bar. You then drop a vertical line from this intersection to the x-axis to read the mode."},
+        {"q": "After the lines intersect, what do you do to find the estimated mode?", "opts": ["Read the y-value", "Drop a vertical line to the x-axis and read the value", "Draw a horizontal line to the y-axis", "Calculate the area"], "ans": 1, "explanation": "You drop a vertical line from the intersection point down to the x-axis to read the estimated mode."},
+        {"q": "If the modal class is 10-14, what is the modal class width?", "opts": ["4", "5", "6", "14"], "ans": 1, "explanation": "The boundaries are 9.5-14.5. Width = 14.5 - 9.5 = 5."},
+        {"q": "Why is the graphical method of finding the mode useful?", "opts": ["It gives the exact mode", "It provides a visual estimate of the mode", "It is faster than calculating the mean", "It is required by law"], "ans": 1, "explanation": "It provides a visual estimate of where the mode lies within the modal class."},
+        {"q": "If a histogram has two bars of the same highest height, the data is:", "opts": ["Unimodal", "Bimodal", "Multimodal", "Has no mode"], "ans": 1, "explanation": "If there are two highest bars of equal height, the data has two modes and is called bimodal."}
+      ]
+    }
+  ]
+}

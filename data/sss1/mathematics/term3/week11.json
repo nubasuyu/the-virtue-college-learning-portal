@@ -1,0 +1,120 @@
+{
+  "course": "SS1 Mathematics",
+  "term": "Third Term",
+  "week": 11,
+  "topic": "Statistics (Frequency Polygons)",
+  "subUnits": [
+    {
+      "id": "ss1_math_t3_w11_su1",
+      "title": "11.1 Concept of Class Marks and Frequency Polygons",
+      "notes": [
+        "Concept of Class Marks and Frequency Polygons",
+        "",
+        "Key Concepts:",
+        "1. What is a Class Mark (Midpoint)?",
+        "   - The class mark is the midpoint of a class interval.",
+        "   - Formula: Class Mark = (Lower Limit + Upper Limit) / 2.",
+        "   - Alternatively: (Lower Boundary + Upper Boundary) / 2.",
+        "",
+        "2. What is a Frequency Polygon?",
+        "   - A line graph that shows the shape of a frequency distribution.",
+        "   - It is drawn by plotting the class marks against their corresponding frequencies and joining the points with straight lines.",
+        "",
+        "3. Why use a Frequency Polygon?",
+        "   - It is useful for comparing two or more distributions on the same graph.",
+        "   - It provides a clear, smooth outline of the data distribution.",
+        "",
+        "Nigerian Context:",
+        "   - Frequency polygons are used in Nigerian educational research to compare the performance distributions of students in different schools or states."
+      ],
+      "diagramDescriptions": ["Table showing how to calculate class marks", "Example of a frequency polygon"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics class marks frequency polygons concept site:youtube.com",
+      "quiz": [
+        {"q": "What is a class mark?", "opts": ["The highest value in a class", "The lowest value in a class", "The midpoint of a class interval", "The frequency"], "ans": 2, "explanation": "The class mark is the midpoint (average) of the class interval."},
+        {"q": "How do you calculate the class mark for the interval 10-20?", "opts": ["(10 + 20) / 2 = 15", "20 - 10 = 10", "10 + 20 = 30", "20 / 2 = 10"], "ans": 0, "explanation": "Class mark = (Lower limit + Upper limit) / 2 = (10 + 20) / 2 = 15."},
+        {"q": "What is a frequency polygon?", "opts": ["A bar chart", "A pie chart", "A line graph of class marks vs frequencies", "A histogram"], "ans": 2, "explanation": "A frequency polygon is a line graph created by plotting class marks against frequencies."},
+        {"q": "How are the points joined in a frequency polygon?", "opts": ["With curves", "With straight lines", "With bars", "They are not joined"], "ans": 1, "explanation": "The plotted points are joined with straight line segments."},
+        {"q": "What is plotted on the x-axis of a frequency polygon?", "opts": ["Frequency", "Class boundaries", "Class marks", "Cumulative frequency"], "ans": 2, "explanation": "The class marks (midpoints) are plotted on the x-axis."},
+        {"q": "What is plotted on the y-axis of a frequency polygon?", "opts": ["Class marks", "Frequency", "Class width", "Mean"], "ans": 1, "explanation": "The frequency of each class is plotted on the y-axis."},
+        {"q": "What is the class mark for the interval 50-59?", "opts": ["54", "54.5", "55", "59"], "ans": 1, "explanation": "(50 + 59) / 2 = 109 / 2 = 54.5."},
+        {"q": "Why is a frequency polygon useful?", "opts": ["It is easier to draw than a histogram", "It is useful for comparing multiple distributions on the same graph", "It shows the exact mode", "It is required by law"], "ans": 1, "explanation": "Frequency polygons are ideal for overlaying and comparing two or more distributions."},
+        {"q": "If the class mark is 25 and the class width is 10, what is the lower limit of the interval?", "opts": ["15", "20", "25", "30"], "ans": 1, "explanation": "Lower limit = Class mark - (Width / 2) = 25 - 5 = 20."},
+        {"q": "To complete the polygon, the first and last points are usually joined to:", "opts": ["The origin", "The x-axis at the adjacent class marks with frequency 0", "The y-axis", "Each other"], "ans": 1, "explanation": "The polygon is closed by joining the first and last points to the x-axis at the adjacent class marks with a frequency of 0."}
+      ]
+    },
+    {
+      "id": "ss1_math_t3_w11_su2",
+      "title": "11.2 Construction of Frequency Polygons from Tables",
+      "notes": [
+        "Construction of Frequency Polygons from Tables",
+        "",
+        "Key Concepts:",
+        "1. Step-by-Step Construction:",
+        "   - Step 1: Create a table with columns: Class Interval, Frequency, and Class Mark.",
+        "   - Step 2: Calculate the class mark for each interval.",
+        "   - Step 3: Draw the x-axis (class marks) and y-axis (frequency).",
+        "   - Step 4: Plot the points (Class Mark, Frequency).",
+        "   - Step 5: Join the points with straight lines.",
+        "   - Step 6: Extend the polygon to the x-axis at the beginning and end (frequency = 0).",
+        "",
+        "Nigerian Context:",
+        "   - Constructing frequency polygons from tables is a standard examination question in WAEC and NECO, testing a student's ability to organize and graph data."
+      ],
+      "diagramDescriptions": ["Step-by-step table and graph for constructing a frequency polygon"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics constructing frequency polygons from frequency tables site:youtube.com",
+      "quiz": [
+        {"q": "What is the first step in constructing a frequency polygon from a table?", "opts": ["Draw the graph", "Calculate the class marks", "Find the mean", "Draw the histogram"], "ans": 1, "explanation": "You must first calculate the class marks for each interval before plotting."},
+        {"q": "What is plotted on the x-axis?", "opts": ["Frequency", "Class marks", "Class boundaries", "Cumulative frequency"], "ans": 1, "explanation": "The class marks (midpoints) are plotted on the x-axis."},
+        {"q": "What is plotted on the y-axis?", "opts": ["Class marks", "Frequency", "Class width", "Mean"], "ans": 1, "explanation": "The frequency of each class is plotted on the y-axis."},
+        {"q": "How are the plotted points joined?", "opts": ["With curves", "With straight lines", "With bars", "They are not joined"], "ans": 1, "explanation": "The points are joined with straight line segments to form the polygon."},
+        {"q": "To complete the polygon, where should the first and last points be joined?", "opts": ["To the origin", "To the x-axis at the adjacent class marks with frequency 0", "To the y-axis", "To each other"], "ans": 1, "explanation": "The polygon is closed by extending the lines to the x-axis at the adjacent class marks where the frequency is 0."},
+        {"q": "If a class interval is 10-19, what is the class mark?", "opts": ["14", "14.5", "15", "19"], "ans": 1, "explanation": "(10 + 19) / 2 = 29 / 2 = 14.5."},
+        {"q": "If the frequency of a class is 0, where is it plotted?", "opts": ["At the top of the graph", "On the x-axis", "On the y-axis", "It is not plotted"], "ans": 1, "explanation": "A frequency of 0 means the point is plotted on the x-axis."},
+        {"q": "What is the main advantage of a frequency polygon over a histogram?", "opts": ["It is more accurate", "It is easier to compare multiple distributions", "It shows the exact mode", "It is required by law"], "ans": 1, "explanation": "Frequency polygons are ideal for overlaying and comparing multiple distributions on the same axes."},
+        {"q": "If the class marks are 15, 25, 35, what is the class width?", "opts": ["5", "10", "15", "20"], "ans": 1, "explanation": "The difference between consecutive class marks is the class width: 25 - 15 = 10."},
+        {"q": "What shape does a frequency polygon form?", "opts": ["A circle", "A polygon (multi-sided shape)", "A bar chart", "A pie chart"], "ans": 1, "explanation": "It forms a polygon, which is a closed shape with straight sides."}
+      ]
+    },
+    {
+      "id": "ss1_math_t3_w11_su3",
+      "title": "11.3 Construction of Frequency Polygons from Histograms",
+      "notes": [
+        "Construction of Frequency Polygons from Histograms",
+        "",
+        "Key Concepts:",
+        "1. Alternative Method:",
+        "   - A frequency polygon can also be drawn directly from an existing histogram.",
+        "",
+        "2. Step-by-Step Process:",
+        "   - Step 1: Identify the midpoint of the top edge of each bar in the histogram.",
+        "   - Step 2: Plot a point at each of these midpoints.",
+        "   - Step 3: Join the points with straight lines.",
+        "   - Step 4: Extend the polygon to the x-axis at the beginning and end.",
+        "",
+        "3. Comparison:",
+        "   - The resulting frequency polygon will have the same shape as one drawn from the table.",
+        "   - This method is faster if the histogram is already drawn.",
+        "",
+        "Nigerian Context:",
+        "   - Understanding both methods ensures Nigerian students can tackle any variation of the question in their external examinations."
+      ],
+      "diagramDescriptions": ["Step-by-step guide to drawing a frequency polygon from a histogram"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics constructing frequency polygons from histograms site:youtube.com",
+      "quiz": [
+        {"q": "How can a frequency polygon be drawn from a histogram?", "opts": ["By drawing bars inside the histogram", "By joining the midpoints of the top edges of the bars", "By drawing a circle around the histogram", "By calculating the mean"], "ans": 1, "explanation": "You plot points at the midpoints of the top edges of each bar and join them."},
+        {"q": "What is the first step when drawing a frequency polygon from a histogram?", "opts": ["Draw the axes", "Identify the midpoint of the top edge of each bar", "Calculate the mean", "Draw the ogive"], "ans": 1, "explanation": "You must first find the midpoints of the top of each bar."},
+        {"q": "How are the points joined in this method?", "opts": ["With curves", "With straight lines", "With bars", "They are not joined"], "ans": 1, "explanation": "The points are joined with straight line segments."},
+        {"q": "To complete the polygon, where should the first and last points be joined?", "opts": ["To the origin", "To the x-axis at the adjacent class marks with frequency 0", "To the y-axis", "To each other"], "ans": 1, "explanation": "The polygon is closed by extending the lines to the x-axis at the adjacent class marks where the frequency is 0."},
+        {"q": "What is the advantage of drawing a frequency polygon from a histogram?", "opts": ["It is more accurate", "It is faster if the histogram is already drawn", "It shows the exact mode", "It is required by law"], "ans": 1, "explanation": "If the histogram is already drawn, plotting the midpoints is a quick way to get the frequency polygon."},
+        {"q": "What does the midpoint of the top edge of a bar represent?", "opts": ["The class boundary", "The class mark and frequency", "The mean", "The median"], "ans": 1, "explanation": "The midpoint represents the class mark (x-value) and the frequency (y-value) for that class."},
+        {"q": "Will the frequency polygon drawn from a histogram look the same as one drawn from the table?", "opts": ["Yes, it will have the same shape", "No, it will be inverted", "No, it will be a curve", "It depends on the data"], "ans": 0, "explanation": "Both methods produce the exact same frequency polygon shape."},
+        {"q": "What is the main difference between a histogram and a frequency polygon?", "opts": ["Histograms use bars, frequency polygons use lines", "Histograms are for discrete data", "Frequency polygons use bars", "There is no difference"], "ans": 0, "explanation": "Histograms use rectangular bars, while frequency polygons use straight lines connecting points."},
+        {"q": "If a histogram has 5 bars, how many points will be plotted for the frequency polygon (excluding the ends on the x-axis)?", "opts": ["3", "4", "5", "6"], "ans": 2, "explanation": "One point is plotted for each bar, so 5 bars = 5 points."},
+        {"q": "Why do we extend the polygon to the x-axis at the ends?", "opts": ["To make it look nice", "To close the polygon and show the frequency drops to 0", "To make it longer", "It is not necessary"], "ans": 1, "explanation": "Extending to the x-axis closes the shape and shows that the frequency is zero before the first class and after the last class."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "course": "SS1 Mathematics",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Simultaneous Equations and Variations",
+  "subUnits": [
+    {
+      "id": "ss1_math_t1_w12_su1",
+      "title": "12.1 Revision of Simultaneous Linear Equations",
+      "notes": [
+        "Revision of Simultaneous Linear Equations",
+        "",
+        "Key Concepts:",
+        "1. Simultaneous Equations:",
+        "   - A set of equations with multiple variables that must be solved together.",
+        "   - For two variables (x, y), you need two equations.",
+        "",
+        "2. Substitution Method:",
+        "   - Make one variable the subject in one equation.",
+        "   - Substitute it into the other equation.",
+        "",
+        "3. Elimination Method:",
+        "   - Multiply equations to make the coefficients of one variable the same.",
+        "   - Add or subtract the equations to eliminate that variable.",
+        "",
+        "Nigerian Context:",
+        "   - Simultaneous equations are used in business to find the break-even point where Cost = Revenue."
+      ],
+      "diagramDescriptions": ["Step-by-step substitution and elimination methods"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics simultaneous equations substitution elimination site:youtube.com",
+      "quiz": [
+        {"q": "How many equations are needed to solve for two variables?", "opts": ["1", "2", "3", "4"], "ans": 1, "explanation": "You need as many independent equations as there are variables."},
+        {"q": "Solve: x + y = 5, x - y = 1.", "opts": ["x=2, y=3", "x=3, y=2", "x=4, y=1", "x=1, y=4"], "ans": 1, "explanation": "Add equations: 2x = 6 → x=3. Substitute: 3+y=5 → y=2."},
+        {"q": "The elimination method involves:", "opts": ["Substituting one variable", "Adding/subtracting equations to remove a variable", "Graphing the lines", "Guessing the answer"], "ans": 1, "explanation": "Elimination removes one variable by adding or subtracting the equations."},
+        {"q": "Solve: 2x + y = 7, x + y = 4.", "opts": ["x=2, y=3", "x=3, y=1", "x=1, y=3", "x=4, y=0"], "ans": 1, "explanation": "Subtract: x = 3. Substitute: 3+y=4 → y=1."},
+        {"q": "Solve: x + 2y = 8, x - y = 2.", "opts": ["x=4, y=2", "x=2, y=4", "x=6, y=1", "x=3, y=2.5"], "ans": 0, "explanation": "Subtract: 3y = 6 → y=2. Substitute: x+4=8 → x=4."},
+        {"q": "The substitution method involves:", "opts": ["Eliminating a variable", "Making one variable the subject and substituting", "Multiplying equations", "Drawing graphs"], "ans": 1, "explanation": "Substitution replaces one variable with an expression from the other equation."},
+        {"q": "If 3x - y = 5 and x + y = 3, find x.", "opts": ["1", "2", "3", "4"], "ans": 1, "explanation": "Add equations: 4x = 8 → x = 2."},
+        {"q": "If 2x + 3y = 12 and x = 3, find y.", "opts": ["1", "2", "3", "4"], "ans": 1, "explanation": "Substitute x=3: 6 + 3y = 12 → 3y = 6 → y = 2."},
+        {"q": "Simultaneous equations are represented by:", "opts": ["A single equation", "Two or more equations solved together", "An inequality", "A graph"], "ans": 1, "explanation": "They are a set of equations that share the same solution."},
+        {"q": "Solve: x + y = 10, 2x - y = 5.", "opts": ["x=5, y=5", "x=6, y=4", "x=4, y=6", "x=10, y=0"], "ans": 0, "explanation": "Add equations: 3x = 15 → x=5. Substitute: 5+y=10 → y=5."}
+      ]
+    },
+    {
+      "id": "ss1_math_t1_w12_su2",
+      "title": "12.2 Direct and Inverse Variation",
+      "notes": [
+        "Direct and Inverse Variation",
+        "",
+        "Key Concepts:",
+        "1. Direct Variation (∝):",
+        "   - y varies directly as x: y ∝ x.",
+        "   - Equation: y = kx, where k is the constant of proportionality.",
+        "   - As x increases, y increases proportionally.",
+        "",
+        "2. Inverse Variation:",
+        "   - y varies inversely as x: y ∝ 1/x.",
+        "   - Equation: y = k/x or xy = k.",
+        "   - As x increases, y decreases proportionally.",
+        "",
+        "3. Finding the Constant k:",
+        "   - Substitute the given values of x and y into the equation to find k.",
+        "   - Then use k to find unknown values."
+      ],
+      "diagramDescriptions": ["Graphs of direct (straight line) and inverse (curve) variation"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics direct inverse variation constant k site:youtube.com",
+      "quiz": [
+        {"q": "Direct variation is denoted by the symbol:", "opts": ["=", "∝", "∞", "÷"], "ans": 1, "explanation": "The proportionality symbol is ∝."},
+        {"q": "The equation for direct variation y ∝ x is:", "opts": ["y = k/x", "y = kx", "y = x + k", "y = k - x"], "ans": 1, "explanation": "Direct variation translates to y = kx."},
+        {"q": "The equation for inverse variation y ∝ 1/x is:", "opts": ["y = kx", "y = k/x", "y = x/k", "y = k + x"], "ans": 1, "explanation": "Inverse variation translates to y = k/x."},
+        {"q": "If y ∝ x, and y=10 when x=2, find k.", "opts": ["2", "5", "8", "20"], "ans": 1, "explanation": "y = kx → 10 = k(2) → k = 5."},
+        {"q": "If y ∝ 1/x, and y=4 when x=3, find k.", "opts": ["4/3", "12", "7", "3/4"], "ans": 1, "explanation": "y = k/x → 4 = k/3 → k = 12."},
+        {"q": "In y = kx, k is called the:", "opts": ["Variable", "Constant of proportionality", "Coefficient of x", "Exponent"], "ans": 1, "explanation": "k is the constant that defines the relationship."},
+        {"q": "If y ∝ x, y=15 when x=3. Find y when x=5.", "opts": ["20", "25", "30", "45"], "ans": 1, "explanation": "k = 15/3 = 5. When x=5, y = 5(5) = 25."},
+        {"q": "If y ∝ 1/x, y=6 when x=2. Find y when x=4.", "opts": ["2", "3", "8", "12"], "ans": 1, "explanation": "k = 6(2) = 12. When x=4, y = 12/4 = 3."},
+        {"q": "In inverse variation, as x increases, y:", "opts": ["Increases", "Decreases", "Remains constant", "Becomes zero"], "ans": 1, "explanation": "Inverse variation means they move in opposite directions."},
+        {"q": "The graph of direct variation y = kx is a:", "opts": ["Curve", "Straight line through the origin", "Parabola", "Horizontal line"], "ans": 1, "explanation": "It is a straight line passing through (0,0)."}
+      ]
+    },
+    {
+      "id": "ss1_math_t1_w12_su3",
+      "title": "12.3 Applications of Variations to Real-Life Problems",
+      "notes": [
+        "Applications of Variations",
+        "",
+        "Key Concepts:",
+        "1. Identifying Variation in Real Life:",
+        "   - Direct: Cost and weight of rice, distance and time (at constant speed).",
+        "   - Inverse: Number of workers and days to complete a job, speed and time for a fixed distance.",
+        "",
+        "2. Solving Word Problems:",
+        "   - Step 1: Determine if it's direct (y=kx) or inverse (y=k/x).",
+        "   - Step 2: Use the first set of values to find k.",
+        "   - Step 3: Use k and the second set of values to find the unknown.",
+        "",
+        "Nigerian Context:",
+        "   - Market pricing: If 5 bags of rice cost ₦100,000, 8 bags cost ₦160,000 (Direct).",
+        "   - Travel: Traveling from Lagos to Ibadan at 60km/h takes 2 hours. At 120km/h, it takes 1 hour (Inverse)."
+      ],
+      "diagramDescriptions": ["Step-by-step word problem solving for variation"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics applications of variation word problems site:youtube.com",
+      "quiz": [
+        {"q": "Hooke's Law (extension of a spring) is an example of:", "opts": ["Inverse variation", "Direct variation", "Joint variation", "Partial variation"], "ans": 1, "explanation": "Extension is directly proportional to the force applied."},
+        {"q": "If speed is constant, distance and time are in:", "opts": ["Direct variation", "Inverse variation", "No variation", "Exponential variation"], "ans": 0, "explanation": "Distance = speed × time. If speed is constant, distance ∝ time."},
+        {"q": "If 5 men can do a job in 10 days, 10 men will do it in:", "opts": ["20 days", "15 days", "5 days", "2 days"], "ans": 2, "explanation": "Inverse variation: k = 50. Days = 50/10 = 5."},
+        {"q": "Work and number of men are in:", "opts": ["Direct variation", "Inverse variation", "No variation", "Constant variation"], "ans": 1, "explanation": "More men means fewer days (inverse)."},
+        {"q": "Cost of rice and weight of rice are in:", "opts": ["Direct variation", "Inverse variation", "No variation", "Random variation"], "ans": 0, "explanation": "More weight means higher cost (direct)."},
+        {"q": "If y ∝ x², and y=8 when x=2, find y when x=3.", "opts": ["12", "15", "20", "18"], "ans": 3, "explanation": "8 = k(4) → k=2. y = 2(9) = 18."},
+        {"q": "If y ∝ 1/x², and y=10 when x=2, find k.", "opts": ["20", "40", "10", "80"], "ans": 1, "explanation": "10 = k/4 → k = 40."},
+        {"q": "A car travels 120km in 2 hours. How far in 5 hours at the same speed?", "opts": ["240 km", "280 km", "300 km", "320 km"], "ans": 2, "explanation": "Speed = 60km/h. Distance = 60 × 5 = 300km."},
+        {"q": "Variation involving y = k + cx is called:", "opts": ["Direct", "Partial", "Inverse", "Joint"], "ans": 1, "explanation": "Partial variation includes a constant term (k) and a variable term (cx)."},
+        {"q": "If 4 machines produce 100 items in 2 hours, 8 machines will produce 100 items in:", "opts": ["2 hours", "4 hours", "0.5 hours", "1 hour"], "ans": 3, "explanation": "Inverse variation: k = 8. Time = 8/8 = 1 hour."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Area of Irregular and Regular Shapes",
+  "subUnits": [
+    {
+      "id": "jss1_math_t3_w2_su1",
+      "title": "2.1 Area of Regular Shapes (Rectangles, Squares, Triangles)",
+      "notes": [
+        "Area of Regular Shapes",
+        "",
+        "Key Concepts:",
+        "1. Definition of Area:",
+        "   - Area is the amount of 2D surface space enclosed within a shape.",
+        "   - It is measured in square units (e.g., cm², m²).",
+        "",
+        "2. Area of a Rectangle:",
+        "   - Formula: Area = length × breadth (A = l × b).",
+        "",
+        "3. Area of a Square:",
+        "   - Since all sides are equal, Area = side × side (A = s²).",
+        "",
+        "4. Area of a Triangle:",
+        "   - Formula: Area = ½ × base × perpendicular height (A = ½bh).",
+        "   - The height must be the perpendicular distance from the base to the opposite vertex.",
+        "",
+        "Nigerian Context:",
+        "   - Calculating area is essential for buying tiles for a floor, painting a wall, or determining the size of a farming plot in states like Kano or Plateau."
+      ],
+      "diagramDescriptions": ["Formulas for rectangle, square, and triangle with labeled dimensions", "Visual showing the perpendicular height of a triangle"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics area rectangle square triangle formula site:youtube.com",
+      "quiz": [
+        {"q": "What does the 'area' of a shape refer to?", "opts": ["The distance around the outside", "The amount of surface space the shape covers", "The length of the longest side", "The volume of the shape"], "ans": 1, "explanation": "Area is the measure of the 2D surface space enclosed within a shape."},
+        {"q": "What is the standard unit for measuring area in the metric system?", "opts": ["Centimeters (cm)", "Square centimeters (cm²)", "Cubic centimeters (cm³)", "Meters (m)"], "ans": 1, "explanation": "Area is a 2D measurement, so it is expressed in square units like cm² or m²."},
+        {"q": "Which formula is used to find the area of a rectangle?", "opts": ["2 × (l + b)", "l × b", "l + b", "4 × l"], "ans": 1, "explanation": "The area of a rectangle is calculated by multiplying its length by its breadth (l × b)."},
+        {"q": "A square tile has a side length of 4 cm. What is its area?", "opts": ["8 cm²", "12 cm²", "16 cm²", "20 cm²"], "ans": 2, "explanation": "Area of a square = side × side = 4 × 4 = 16 cm²."},
+        {"q": "What is the formula for the area of a triangle?", "opts": ["b × h", "½ × b × h", "2 × (b + h)", "½ × (b + h)"], "ans": 1, "explanation": "The area of a triangle is half the product of its base and perpendicular height (½ × b × h)."},
+        {"q": "A rectangular farm in Kaduna is 20m long and 15m wide. What is its area?", "opts": ["35 m²", "70 m²", "150 m²", "300 m²"], "ans": 3, "explanation": "Area = length × breadth = 20 × 15 = 300 m²."},
+        {"q": "A triangle has a base of 10 cm and a height of 6 cm. What is its area?", "opts": ["16 cm²", "30 cm²", "60 cm²", "120 cm²"], "ans": 1, "explanation": "Area = ½ × 10 × 6 = 30 cm²."},
+        {"q": "If the area of a square is 49 cm², what is the length of its side?", "opts": ["7 cm", "14 cm", "21 cm", "24.5 cm"], "ans": 0, "explanation": "Side length = √Area = √49 = 7 cm."},
+        {"q": "Which of these shapes has the largest area?", "opts": ["A rectangle 4cm by 5cm", "A square with side 4cm", "A triangle with base 10cm and height 3cm", "A rectangle 2cm by 9cm"], "ans": 0, "explanation": "Rectangle 4x5 = 20cm². Square 4x4 = 16cm². Triangle ½x10x3 = 15cm². Rectangle 2x9 = 18cm². 20cm² is the largest."},
+        {"q": "Why do we use square units (cm²) for area?", "opts": ["Because we are measuring the boundary", "Because we are multiplying two lengths together (length × width)", "Because it is a 3D shape", "Because it is the only unit available"], "ans": 1, "explanation": "Area is calculated by multiplying two linear dimensions (e.g., cm × cm), which results in square units (cm²)."}
+      ]
+    },
+    {
+      "id": "jss1_math_t3_w2_su2",
+      "title": "2.2 Area of Circles and Composite Shapes",
+      "notes": [
+        "Area of Circles and Composite Shapes",
+        "",
+        "Key Concepts:",
+        "1. Parts of a Circle:",
+        "   - Radius (r): Distance from the center to the edge.",
+        "   - Diameter (d): Distance across the circle through the center (d = 2r).",
+        "   - Pi (π): A constant value approximately equal to 3.14 or 22/7.",
+        "",
+        "2. Area of a Circle:",
+        "   - Formula: Area = π × r² (A = πr²).",
+        "",
+        "3. Composite Shapes:",
+        "   - A composite shape is made up of two or more regular shapes (e.g., a rectangle with a semicircle on top).",
+        "   - To find the total area, calculate the area of each individual regular shape and add them together.",
+        "",
+        "Nigerian Context:",
+        "   - Calculating the area of a circle is useful for determining the size of a circular garden, a round table, or the base of a water tank."
+      ],
+      "diagramDescriptions": ["Diagram of a circle showing radius, diameter, and center", "Example of a composite shape split into a rectangle and a triangle"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics area circle composite shapes formula site:youtube.com",
+      "quiz": [
+        {"q": "What is the approximate value of Pi (π) used in basic mathematics?", "opts": ["2.14", "3.14", "4.14", "3.41"], "ans": 1, "explanation": "Pi (π) is approximately 3.14 or 22/7."},
+        {"q": "What is the radius of a circle?", "opts": ["The distance across the circle through the center", "The distance from the center to any point on the edge", "The distance around the circle", "Half of the circumference"], "ans": 1, "explanation": "The radius is the straight-line distance from the center of the circle to its outer edge."},
+        {"q": "How is the diameter of a circle related to its radius?", "opts": ["Diameter = radius", "Diameter = 2 × radius", "Diameter = radius / 2", "Diameter = π × radius"], "ans": 1, "explanation": "The diameter is the full distance across the circle, which is exactly twice the radius (d = 2r)."},
+        {"q": "What is the formula for the area of a circle?", "opts": ["2 × π × r", "π × d", "π × r²", "2 × π × r²"], "ans": 2, "explanation": "The area of a circle is calculated using the formula A = πr²."},
+        {"q": "A circular pond has a radius of 7m. What is its area? (Take π = 22/7)", "opts": ["44 m²", "88 m²", "154 m²", "616 m²"], "ans": 2, "explanation": "Area = πr² = (22/7) × 7 × 7 = 22 × 7 = 154 m²."},
+        {"q": "A circular mat has a diameter of 10cm. What is its area? (Take π = 3.14)", "opts": ["31.4 cm²", "62.8 cm²", "78.5 cm²", "314 cm²"], "ans": 2, "explanation": "Radius = 10 / 2 = 5cm. Area = πr² = 3.14 × 5 × 5 = 3.14 × 25 = 78.5 cm²."},
+        {"q": "Which of these is a real-life example of calculating the area of a circle?", "opts": ["Finding out how much ribbon is needed to go around a circular plate", "Finding out how much paint is needed to cover a circular table top", "Finding the distance around a circular running track", "Finding the length of a circular pipe"], "ans": 1, "explanation": "Paint covers the surface, so you need the area. Ribbon and distance around require the circumference (perimeter)."},
+        {"q": "If the area of a circle is 154 cm², what is its radius? (Take π = 22/7)", "opts": ["7 cm", "14 cm", "22 cm", "49 cm"], "ans": 0, "explanation": "154 = (22/7) × r². r² = 154 × 7 / 22 = 49. r = √49 = 7 cm."},
+        {"q": "A composite shape is made of a rectangle and a semicircle. To find its total area, you should:", "opts": ["Add the area of the rectangle and the area of the full circle", "Add the area of the rectangle and half the area of the circle", "Subtract the area of the circle from the rectangle", "Multiply the area of the rectangle by the area of the circle"], "ans": 1, "explanation": "A composite shape's area is the sum of its parts. A semicircle is half a circle, so you add the rectangle's area to half the circle's area."},
+        {"q": "What happens to the area of a circle if you double its radius?", "opts": ["The area doubles", "The area triples", "The area becomes four times larger", "The area stays the same"], "ans": 2, "explanation": "Since Area = πr², doubling the radius means (2r)² = 4r². The area becomes 4 times larger."}
+      ]
+    },
+    {
+      "id": "jss1_math_t3_w2_su3",
+      "title": "2.3 Area of Irregular Shapes",
+      "notes": [
+        "Area of Irregular Shapes",
+        "",
+        "Key Concepts:",
+        "1. The Graph Paper Method:",
+        "   - Draw the irregular shape on a grid where each square represents a known area (e.g., 1 cm²).",
+        "   - Count the number of full squares inside the shape.",
+        "   - Count the number of half squares (or combine partial squares to make full ones).",
+        "   - Total Area = Full squares + (Half squares / 2).",
+        "",
+        "2. The Division Method (Splitting into Regular Shapes):",
+        "   - Draw straight lines to divide the irregular shape into regular shapes (rectangles, triangles).",
+        "   - Calculate the area of each regular shape using their formulas.",
+        "   - Add the areas together to get the total area.",
+        "",
+        "Nigerian Context:",
+        "   - Land surveyors in Nigeria use the division method to calculate the area of irregular plots of land for sale, agriculture, or taxation."
+      ],
+      "diagramDescriptions": ["Irregular shape on a grid with squares counted", "An L-shape divided into two rectangles with dotted lines"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics area irregular shapes graph paper division method site:youtube.com",
+      "quiz": [
+        {"q": "How can you find the area of an irregular shape drawn on a grid?", "opts": ["Use the formula l × b", "Count the number of full squares and estimate partial squares", "Measure the perimeter and divide by 4", "Multiply the longest side by the shortest side"], "ans": 1, "explanation": "For irregular shapes on a grid, counting the squares inside the boundary gives an accurate estimate of the area."},
+        {"q": "When counting squares for an irregular shape, how should you treat a square that is more than half full?", "opts": ["Ignore it", "Count it as 0", "Count it as 1 full square", "Count it as 2 squares"], "ans": 2, "explanation": "Standard practice is to count any square that is more than half full as 1 full square, and ignore those less than half full."},
+        {"q": "An L-shaped room can be divided into two regular shapes to find its area. Which shapes are most appropriate?", "opts": ["Two triangles", "Two rectangles", "A circle and a square", "Two cylinders"], "ans": 1, "explanation": "An L-shape can easily be split into two rectangles by drawing a single straight line across it."},
+        {"q": "A student draws an irregular leaf on graph paper where each square is 1 cm². The leaf covers 24 full squares and 12 half squares. What is the estimated area?", "opts": ["24 cm²", "30 cm²", "36 cm²", "48 cm²"], "ans": 1, "explanation": "24 full squares + (12 half squares = 6 full squares) = 30 cm²."},
+        {"q": "Which method is best for finding the area of an irregular plot of land in a Nigerian village?", "opts": ["Using a ruler and a formula", "Dividing the land into smaller triangles/rectangles and summing their areas", "Measuring the perimeter and multiplying by the height", "Weighing the soil"], "ans": 1, "explanation": "Surveyors divide irregular land into measurable regular shapes (triangles/rectangles), calculate their areas, and add them together."},
+        {"q": "What is the area of a T-shape made of a top rectangle 10cm by 2cm, and a vertical rectangle 2cm by 8cm?", "opts": ["20 cm²", "16 cm²", "36 cm²", "40 cm²"], "ans": 2, "explanation": "Top rectangle = 10 × 2 = 20 cm². Vertical rectangle = 2 × 8 = 16 cm². Total area = 20 + 16 = 36 cm²."},
+        {"q": "Why is it important to calculate the area of an irregular shape accurately in construction?", "opts": ["To know how much fencing to buy", "To know how much flooring or roofing material to purchase", "To know the volume of the building", "To know the perimeter of the site"], "ans": 1, "explanation": "Flooring, tiles, or roofing sheets cover the surface area, so accurate area calculation prevents waste and extra costs."},
+        {"q": "If an irregular shape is drawn on a grid where 1 square = 2 cm², and the shape covers 15 squares, what is the total area?", "opts": ["15 cm²", "17 cm²", "30 cm²", "45 cm²"], "ans": 2, "explanation": "Total area = Number of squares × Area of one square = 15 × 2 = 30 cm²."},
+        {"q": "Which of these is an advantage of dividing an irregular shape into regular shapes?", "opts": ["It makes the shape look nicer", "It allows the use of standard mathematical formulas", "It changes the perimeter", "It makes the area smaller"], "ans": 1, "explanation": "Dividing irregular shapes into regular ones allows you to use known formulas (like l × b) to calculate the total area."},
+        {"q": "A farmer has an irregularly shaped farm. He divides it into a rectangle (area 500m²) and a triangle (area 150m²). What is the total area of the farm?", "opts": ["350 m²", "500 m²", "650 m²", "750 m²"], "ans": 2, "explanation": "Total area = Area of rectangle + Area of triangle = 500 + 150 = 650 m²."}
+      ]
+    }
+  ]
+}

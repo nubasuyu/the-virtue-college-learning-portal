@@ -1,0 +1,121 @@
+{
+  "course": "SS1 Mathematics",
+  "term": "Third Term",
+  "week": 9,
+  "topic": "Statistics (Pie Charts)",
+  "subUnits": [
+    {
+      "id": "ss1_math_t3_w9_su1",
+      "title": "9.1 Calculating Sectoral Angles for Pie Charts",
+      "notes": [
+        "Calculating Sectoral Angles for Pie Charts",
+        "",
+        "Key Concepts:",
+        "1. What is a Pie Chart?",
+        "   - A circular chart divided into sectors (slices), where each sector represents a proportion of the whole.",
+        "   - The entire circle represents the total frequency (100% or 360°).",
+        "",
+        "2. Calculating Sectoral Angles:",
+        "   - Formula: Sectoral Angle = (Frequency of item / Total Frequency) × 360°.",
+        "   - Alternatively: (Percentage of item / 100) × 360°.",
+        "",
+        "3. Verification:",
+        "   - The sum of all calculated sectoral angles MUST equal exactly 360°.",
+        "",
+        "Nigerian Context:",
+        "   - Pie charts are frequently used in Nigerian media to show the distribution of resources, such as the allocation of the Federal Budget across the 36 states."
+      ],
+      "diagramDescriptions": ["Formula for calculating sectoral angles", "Example calculation table"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics calculating sectoral angles pie charts site:youtube.com",
+      "quiz": [
+        {"q": "What does the entire circle in a pie chart represent?", "opts": ["The highest frequency", "The total frequency (360°)", "The mean", "The modal class"], "ans": 1, "explanation": "The entire circle represents the total frequency, which corresponds to 360°."},
+        {"q": "What is the formula for calculating a sectoral angle?", "opts": ["(Frequency / Total) × 180°", "(Frequency / Total) × 360°", "(Total / Frequency) × 360°", "Frequency × 360°"], "ans": 1, "explanation": "Sectoral Angle = (Frequency of item / Total Frequency) × 360°."},
+        {"q": "If the total frequency is 100, and an item has a frequency of 25, what is its sectoral angle?", "opts": ["25°", "50°", "75°", "90°"], "ans": 3, "explanation": "(25 / 100) × 360° = 0.25 × 360° = 90°."},
+        {"q": "If the total frequency is 60, and an item has a frequency of 10, what is its sectoral angle?", "opts": ["30°", "60°", "90°", "120°"], "ans": 1, "explanation": "(10 / 60) × 360° = (1/6) × 360° = 60°."},
+        {"q": "What must the sum of all sectoral angles in a pie chart equal?", "opts": ["100°", "180°", "270°", "360°"], "ans": 3, "explanation": "The sum of all sectoral angles must equal exactly 360°."},
+        {"q": "If a sector has an angle of 180°, what fraction of the total does it represent?", "opts": ["1/4", "1/3", "1/2", "3/4"], "ans": 2, "explanation": "180° / 360° = 1/2. It represents half of the total."},
+        {"q": "If the total frequency is 120, and an item has a frequency of 30, what is its percentage?", "opts": ["15%", "20%", "25%", "30%"], "ans": 2, "explanation": "(30 / 120) × 100% = 25%."},
+        {"q": "If a sector represents 25% of the total, what is its sectoral angle?", "opts": ["25°", "50°", "75°", "90°"], "ans": 3, "explanation": "25% of 360° = 0.25 × 360° = 90°."},
+        {"q": "Why do we calculate sectoral angles before drawing a pie chart?", "opts": ["To find the mean", "To know how large to draw each slice", "To find the median", "To check for errors"], "ans": 1, "explanation": "The angles determine the size of each slice in the pie chart."},
+        {"q": "If the sum of your calculated angles is 350°, what should you do?", "opts": ["Draw it anyway", "Check your calculations for an error", "Add 10° to the smallest slice", "Subtract 10° from the largest slice"], "ans": 1, "explanation": "The sum must be exactly 360°. If it is 350°, there is a calculation error that must be corrected."}
+      ]
+    },
+    {
+      "id": "ss1_math_t3_w9_su2",
+      "title": "9.2 Drawing Pie Charts Correctly",
+      "notes": [
+        "Drawing Pie Charts Correctly",
+        "",
+        "Key Concepts:",
+        "1. Tools Required:",
+        "   - Compass (to draw the circle).",
+        "   - Protractor (to measure the sectoral angles).",
+        "   - Ruler and pencil.",
+        "",
+        "2. Step-by-Step Drawing Process:",
+        "   - Step 1: Draw a circle of a suitable radius using a compass.",
+        "   - Step 2: Draw a straight line from the center to the edge (this is your 0° starting line).",
+        "   - Step 3: Place the protractor on the center, align the baseline with the 0° line, and measure the first angle. Draw a line.",
+        "   - Step 4: Move the protractor's baseline to the NEW line you just drew, and measure the next angle. Repeat until all sectors are drawn.",
+        "   - Step 5: Label each sector clearly with the category name and its frequency/percentage.",
+        "",
+        "Nigerian Context:",
+        "   - Accurate drawing of pie charts is a mandatory skill for the WAEC and NECO practical mathematics examinations."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to drawing a pie chart with a compass and protractor"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics drawing pie charts correctly compass protractor site:youtube.com",
+      "quiz": [
+        {"q": "Which tool is used to draw the circle for a pie chart?", "opts": ["Protractor", "Compass", "Ruler", "Set square"], "ans": 1, "explanation": "A compass is used to draw a perfect circle."},
+        {"q": "Which tool is used to measure the sectoral angles?", "opts": ["Compass", "Protractor", "Ruler", "Tape measure"], "ans": 1, "explanation": "A protractor is used to measure and draw the specific angles for each sector."},
+        {"q": "What is the first step in drawing a pie chart?", "opts": ["Measure the first angle", "Draw a circle", "Label the sectors", "Calculate the mean"], "ans": 1, "explanation": "You must first draw the circle using a compass before measuring any angles."},
+        {"q": "When measuring the second angle, where should you place the protractor's baseline?", "opts": ["On the original 0° line", "On the new line drawn for the first sector", "Anywhere on the circle", "On the edge of the paper"], "ans": 1, "explanation": "You must align the protractor's baseline with the newly drawn line to measure the next angle accurately."},
+        {"q": "Why is it important to label each sector?", "opts": ["To make it look pretty", "So the reader knows what each slice represents", "To check the angles", "It is not important"], "ans": 1, "explanation": "Labeling ensures the chart can be read and understood by others."},
+        {"q": "If a sector represents 25% of the total, what angle do you draw?", "opts": ["25°", "50°", "75°", "90°"], "ans": 3, "explanation": "25% of 360° = 90°."},
+        {"q": "What should the final line you draw in a pie chart do?", "opts": ["Cross the circle", "Meet the original starting line exactly", "Go outside the circle", "Be parallel to the first line"], "ans": 1, "explanation": "If your angles are correct, the final line should meet the original 0° starting line exactly, completing the circle."},
+        {"q": "What is the total sum of angles in a circle?", "opts": ["180°", "270°", "360°", "400°"], "ans": 2, "explanation": "A full circle always has a total angle of 360°."},
+        {"q": "If your angles sum to 360°, but the last slice doesn't close the circle, what is the likely error?", "opts": ["Your calculations are wrong", "You didn't align the protractor correctly when drawing", "Your compass is broken", "You used the wrong paper"], "ans": 1, "explanation": "If the math is right but the drawing is wrong, it's usually due to misaligning the protractor when drawing the lines."},
+        {"q": "What should be included in the title of a pie chart?", "opts": ["The total frequency", "A description of what the chart represents", "The date only", "Nothing"], "ans": 1, "explanation": "A clear title explains what data the pie chart is displaying."}
+      ]
+    },
+    {
+      "id": "ss1_math_t3_w9_su3",
+      "title": "9.3 Interpreting Pie Charts and Bar Charts",
+      "notes": [
+        "Interpreting Pie Charts and Bar Charts",
+        "",
+        "Key Concepts:",
+        "1. Interpreting Pie Charts:",
+        "   - The largest sector represents the most frequent category.",
+        "   - The smallest sector represents the least frequent category.",
+        "   - You can calculate actual frequencies if the total is known: Frequency = (Angle / 360°) × Total.",
+        "",
+        "2. Interpreting Bar Charts:",
+        "   - Read the height of the bars directly from the y-axis.",
+        "   - Compare heights to find differences, totals, or ratios between categories.",
+        "",
+        "3. Solving Problems:",
+        "   - Questions often ask: 'How many more...?', 'What is the total...?', or 'What fraction/percentage...?'.",
+        "",
+        "Nigerian Context:",
+        "   - Interpreting statistical graphs is a key component of the WAEC objective and theory papers, often based on real-world Nigerian data."
+      ],
+      "diagramDescriptions": ["Examples of interpreting pie charts and bar charts to solve word problems"],
+      "videoId": "",
+      "youtubeQuery": "SS1 Mathematics interpreting pie charts bar charts solving problems site:youtube.com",
+      "quiz": [
+        {"q": "In a pie chart, the largest sector represents the:", "opts": ["Least frequent category", "Most frequent category", "Mean", "Median"], "ans": 1, "explanation": "The largest sector has the largest angle, representing the highest frequency."},
+        {"q": "If a pie chart has a total frequency of 200, and a sector has an angle of 90°, what is its frequency?", "opts": ["20", "40", "50", "90"], "ans": 2, "explanation": "Frequency = (90 / 360) × 200 = (1/4) × 200 = 50."},
+        {"q": "In a bar chart, how do you find the frequency of a category?", "opts": ["Measure the width of the bar", "Read the height of the bar from the y-axis", "Calculate the area", "Guess"], "ans": 1, "explanation": "The height of the bar corresponds directly to the frequency on the y-axis."},
+        {"q": "If a pie chart sector represents 25% of the data, what is its angle?", "opts": ["25°", "50°", "75°", "90°"], "ans": 3, "explanation": "25% of 360° = 90°."},
+        {"q": "If a bar chart shows 40 boys and 60 girls, what is the total number of students?", "opts": ["20", "40", "60", "100"], "ans": 3, "explanation": "Total = 40 + 60 = 100 students."},
+        {"q": "In the previous question, what fraction of the students are boys?", "opts": ["1/4", "2/5", "3/5", "1/2"], "ans": 1, "explanation": "Boys = 40. Total = 100. Fraction = 40/100 = 2/5."},
+        {"q": "If a pie chart has a total of 360 students, and the angle for 'Science' is 120°, how many students study Science?", "opts": ["60", "90", "120", "150"], "ans": 2, "explanation": "(120 / 360) × 360 = 120 students."},
+        {"q": "What does a sector with an angle of 180° represent?", "opts": ["One quarter", "One third", "One half", "All of it"], "ans": 2, "explanation": "180° is half of 360°, so it represents half (50%) of the total."},
+        {"q": "If a bar chart shows sales of ₦50,000 in Jan and ₦80,000 in Feb, what is the difference?", "opts": ["₦30,000", "₦50,000", "₦80,000", "₦130,000"], "ans": 0, "explanation": "Difference = 80,000 - 50,000 = ₦30,000."},
+        {"q": "Why is it important to read the scale on the axes of a graph?", "opts": ["To know the colors used", "To accurately determine the values represented", "To find the title", "It is not important"], "ans": 1, "explanation": "The scale tells you what each unit on the axis represents, allowing you to read the correct values."}
+      ]
+    }
+  ]
+}

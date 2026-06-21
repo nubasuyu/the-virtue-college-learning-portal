@@ -1,0 +1,118 @@
+{
+  "course": "JSS1 Mathematics",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Construction",
+  "subUnits": [
+    {
+      "id": "jss1_math_t3_w4_su1",
+      "title": "4.1 Introduction to Geometrical Construction and Tools",
+      "notes": [
+        "Introduction to Geometrical Construction",
+        "",
+        "Key Concepts:",
+        "1. What is Geometrical Construction?",
+        "   - The process of drawing accurate lines, angles, and shapes using specific mathematical tools instead of freehand sketching.",
+        "",
+        "2. Essential Tools in a Mathematical Set:",
+        "   - Ruler: For measuring lengths and drawing straight lines.",
+        "   - Compass: For drawing circles, arcs, and transferring distances.",
+        "   - Protractor: For measuring and drawing angles in degrees.",
+        "   - Set Squares: For drawing perfectly horizontal, vertical, and specific angled lines (30°, 45°, 60°, 90°).",
+        "   - Divider: Similar to a compass but with two sharp points, used for measuring and transferring distances.",
+        "   - Pencil & Eraser: A sharp pencil ensures thin, precise lines.",
+        "",
+        "Nigerian Context:",
+        "   - In technical drawing, architecture, and engineering in Nigeria, precision is key. A well-maintained mathematical set is a student's most important asset."
+      ],
+      "diagramDescriptions": ["Images of a mathematical set with labeled tools", "Examples of lines drawn with a ruler vs freehand"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics geometrical construction tools mathematical set site:youtube.com",
+      "quiz": [
+        {"q": "What is the primary purpose of geometrical construction?", "opts": ["To draw freehand sketches", "To draw accurate lines, angles, and shapes using specific tools", "To measure the weight of objects", "To calculate the volume of shapes"], "ans": 1, "explanation": "Geometrical construction involves using mathematical tools to draw precise and accurate geometric figures."},
+        {"q": "Which tool is specifically used to draw circles and arcs in construction?", "opts": ["Protractor", "Compass", "Divider", "Set square"], "ans": 1, "explanation": "A compass has a sharp point to anchor at the center and a pencil lead to draw circles or arcs."},
+        {"q": "What is a protractor used for?", "opts": ["Measuring lengths in cm", "Drawing parallel lines", "Measuring and drawing angles in degrees", "Drawing perfect circles"], "ans": 2, "explanation": "A protractor is a semicircular or circular tool marked in degrees, used specifically for measuring and drawing angles."},
+        {"q": "Which tool is best for drawing perfectly horizontal or vertical lines?", "opts": ["Compass", "Protractor", "T-square or Set square", "Divider"], "ans": 2, "explanation": "A T-square or set square has a perfectly straight edge designed to draw horizontal and vertical lines accurately."},
+        {"q": "What is the difference between a compass and a divider?", "opts": ["A compass has two sharp points, a divider has a pencil", "A compass has a pencil/pen lead, a divider has two sharp points", "A compass is for measuring angles, a divider is for lengths", "There is no difference"], "ans": 1, "explanation": "A compass is used for drawing circles (one sharp point, one pencil), while a divider is used for measuring or transferring distances (two sharp points)."},
+        {"q": "Why must the pencil used in a mathematical set be kept sharp?", "opts": ["To look neat", "To ensure lines are thin, precise, and accurate", "To prevent breaking the compass", "To make the lines darker"], "ans": 1, "explanation": "A sharp pencil ensures that the lines drawn are thin and precise, which is essential for accurate geometrical construction."},
+        {"q": "Which tool would you use to measure the length of a line segment accurately?", "opts": ["Protractor", "Ruler", "Compass", "Set square"], "ans": 1, "explanation": "A ruler is marked in standard units (cm, mm) and is used to measure and draw straight line segments."},
+        {"q": "When handling a mathematical compass, what is an important safety precaution?", "opts": ["Keep the needle blunt", "Always hold it by the sharp needle", "Store it with the needle pointing down in the box", "Avoid touching the sharp needle with your fingers"], "ans": 3, "explanation": "The needle of a compass is very sharp and can cause injury; care should be taken to avoid pricking your fingers."},
+        {"q": "What is a French curve used for?", "opts": ["Drawing perfect circles", "Drawing smooth, irregular curved lines", "Measuring angles", "Drawing straight lines"], "ans": 1, "explanation": "A French curve is a template with various curved edges used to draw smooth, non-circular curves."},
+        {"q": "In a Nigerian secondary school, why is it important to keep your mathematical set complete?", "opts": ["To show off to classmates", "Because each tool has a specific function needed for different construction tasks", "To make the set heavier", "To avoid buying a new one"], "ans": 1, "explanation": "Each tool in the set (compass, protractor, set squares, ruler) serves a unique and necessary purpose in geometrical constructions."}
+      ]
+    },
+    {
+      "id": "jss1_math_t3_w4_su2",
+      "title": "4.2 Construction of Parallel Lines",
+      "notes": [
+        "Construction of Parallel Lines",
+        "",
+        "Key Concepts:",
+        "1. Definition of Parallel Lines:",
+        "   - Lines that are always the same distance apart and never meet, no matter how far they are extended.",
+        "   - Symbol: || (e.g., AB || CD).",
+        "",
+        "2. Properties of Parallel Lines:",
+        "   - They have the same slope/gradient.",
+        "   - The perpendicular distance between them is constant.",
+        "",
+        "3. Methods of Construction:",
+        "   - Method 1: Using Two Set Squares. Place one set square against a ruler, draw the line, then slide the set square along the ruler to draw the parallel line.",
+        "   - Method 2: Using a Compass and Ruler. Construct equal corresponding angles or use the 'rhombus method' (copying distances with a compass to ensure lines are equidistant).",
+        "",
+        "Nigerian Context:",
+        "   - Parallel lines are everywhere in Nigerian architecture: the rails of a train track, the edges of a road, the lines on a football field, and the walls of a building."
+      ],
+      "diagramDescriptions": ["Step-by-step construction of parallel lines using two set squares", "Step-by-step construction using a compass and ruler"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics construction parallel lines set square compass site:youtube.com",
+      "quiz": [
+        {"q": "What is the definition of parallel lines?", "opts": ["Lines that intersect at 90 degrees", "Lines that cross each other at any angle", "Lines that are always the same distance apart and never meet", "Lines that form a circle"], "ans": 2, "explanation": "Parallel lines are lines in the same plane that are equidistant from each other and never intersect, no matter how far they are extended."},
+        {"q": "Which symbol is used to denote that two lines are parallel?", "opts": ["⊥", "||", "∠", "Δ"], "ans": 1, "explanation": "The symbol || (or sometimes //) is used to show that two lines are parallel."},
+        {"q": "Which of these is a real-life example of parallel lines?", "opts": ["The corners of a room", "The rails of a railway track", "The hands of a clock at 3:00", "The letter 'T'"], "ans": 1, "explanation": "Railway tracks are designed to be parallel so the train wheels can roll smoothly without derailing."},
+        {"q": "What is the distance between two parallel lines?", "opts": ["It gets wider at the ends", "It gets narrower in the middle", "It is constant (the same) everywhere", "It is zero"], "ans": 2, "explanation": "By definition, parallel lines are equidistant, meaning the perpendicular distance between them is the same at all points."},
+        {"q": "Which tool is most commonly used to construct parallel lines?", "opts": ["Protractor and compass", "Two set squares or a ruler and a compass", "French curve", "Divider"], "ans": 1, "explanation": "Parallel lines can be accurately constructed using two set squares (one sliding along the other) or a ruler and a compass."},
+        {"q": "When using a compass to construct parallel lines, you are essentially:", "opts": ["Measuring the angle", "Copying a specific distance (radius) to ensure lines are equidistant", "Drawing a circle", "Measuring the length of the line"], "ans": 1, "explanation": "The compass is used to mark points at an equal distance from the original line, ensuring the new line is perfectly parallel."},
+        {"q": "If line A is parallel to line B, and line B is parallel to line C, what is the relationship between line A and line C?", "opts": ["They intersect", "They are perpendicular", "They are also parallel to each other", "They form a triangle"], "ans": 2, "explanation": "If two lines are parallel to the same third line, they are parallel to each other."},
+        {"q": "In a rectangle, how many pairs of parallel lines are there?", "opts": ["1 pair", "2 pairs", "3 pairs", "4 pairs"], "ans": 1, "explanation": "A rectangle has two pairs of parallel lines: the top/bottom sides are parallel, and the left/right sides are parallel."},
+        {"q": "What happens if two parallel lines are extended infinitely?", "opts": ["They will eventually meet", "They will curve", "They will never meet", "They will form a right angle"], "ans": 2, "explanation": "Parallel lines, by definition, will never intersect or meet, no matter how far they are extended."},
+        {"q": "Why are parallel lines important in building a house in Nigeria?", "opts": ["To make the walls look colorful", "To ensure walls are straight, doors fit properly, and the roof is level", "To calculate the volume of the rooms", "To measure the area of the land"], "ans": 1, "explanation": "Parallel lines ensure structural integrity, allowing walls to be straight, doors/windows to fit, and roofs to be evenly supported."}
+      ]
+    },
+    {
+      "id": "jss1_math_t3_w4_su3",
+      "title": "4.3 Construction of Perpendicular Lines",
+      "notes": [
+        "Construction of Perpendicular Lines",
+        "",
+        "Key Concepts:",
+        "1. Definition of Perpendicular Lines:",
+        "   - Lines that intersect (meet) at exactly 90 degrees (a right angle).",
+        "   - Symbol: ⊥ (e.g., AB ⊥ CD).",
+        "",
+        "2. Methods of Construction:",
+        "   - Using a Set Square: Simply align the 90-degree corner of the set square with the line and draw along the edge.",
+        "   - Using a Compass (from a point ON the line): Draw arcs on either side of the point, then from those points, draw intersecting arcs above the line. Connect the intersection to the original point.",
+        "   - Using a Compass (from a point OUTSIDE the line): Draw arcs from the external point that cut the line in two places. From those two places, draw intersecting arcs below the line. Connect the external point to the new intersection.",
+        "",
+        "Nigerian Context:",
+        "   - Perpendicular lines are crucial in construction. The corners of a room, the intersection of a wall and the floor, and the crossbars of a window must all be exactly 90 degrees for the building to be structurally sound and aesthetically pleasing."
+      ],
+      "diagramDescriptions": ["Using a set square to draw a 90-degree angle", "Compass construction steps for a perpendicular line from a point on a line"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Mathematics construction perpendicular lines 90 degrees compass site:youtube.com",
+      "quiz": [
+        {"q": "What is the angle between two perpendicular lines?", "opts": ["45 degrees", "60 degrees", "90 degrees", "180 degrees"], "ans": 2, "explanation": "Perpendicular lines intersect at exactly 90 degrees, forming a right angle."},
+        {"q": "Which symbol is used to denote that two lines are perpendicular?", "opts": ["||", "⊥", "∠", "≈"], "ans": 1, "explanation": "The symbol ⊥ is used to show that two lines are perpendicular to each other."},
+        {"q": "Which of these is a real-life example of perpendicular lines?", "opts": ["The rails of a railway track", "The intersection of the floor and a vertical wall", "The hands of a clock at 2:00", "The letter 'V'"], "ans": 1, "explanation": "The floor and a vertical wall meet at a 90-degree angle, making them perpendicular."},
+        {"q": "Which tool is best for checking if two lines are perpendicular?", "opts": ["Compass", "Ruler", "Protractor or Set square", "Divider"], "ans": 2, "explanation": "A set square has a built-in 90-degree angle, and a protractor can measure exactly 90 degrees, making both ideal for checking perpendicularity."},
+        {"q": "What is the first step in constructing a perpendicular line to a given line from a point ON the line using a compass?", "opts": ["Draw a circle from the point", "Place the compass on the point and mark two equal distances on the line on either side", "Draw a line at 45 degrees", "Measure the length of the line"], "ans": 1, "explanation": "You first place the compass on the point and strike arcs on both sides of the point to create two equidistant base points."},
+        {"q": "When constructing a perpendicular line from a point OUTSIDE the line, the arcs drawn from the point must:", "opts": ["Touch the line exactly once", "Cut (intersect) the line in two places", "Be parallel to the line", "Form a full circle around the line"], "ans": 1, "explanation": "The arcs must intersect the line at two distinct points to create the base for the perpendicular construction."},
+        {"q": "In a square, how many pairs of perpendicular lines are there?", "opts": ["1 pair", "2 pairs", "3 pairs", "4 pairs"], "ans": 3, "explanation": "A square has 4 pairs of perpendicular lines: each corner is formed by two perpendicular sides (4 corners = 4 pairs)."},
+        {"q": "What is the meaning of a 90-degree angle?", "opts": ["An acute angle", "An obtuse angle", "A right angle", "A reflex angle"], "ans": 2, "explanation": "An angle of exactly 90 degrees is called a right angle."},
+        {"q": "Why is it important to construct perpendicular lines accurately when laying out a foundation for a building?", "opts": ["To make the building look taller", "To ensure the corners are perfectly square and the structure is stable", "To save cement", "To make the walls colorful"], "ans": 1, "explanation": "Accurate perpendicular lines ensure the building's corners are exactly 90 degrees, which is crucial for structural stability and proper fitting of materials."},
+        {"q": "If line A is perpendicular to line B, and line C is also perpendicular to line B (on a flat plane), what is the relationship between line A and line C?", "opts": ["They are perpendicular to each other", "They are parallel to each other", "They intersect at 45 degrees", "They form a circle"], "ans": 1, "explanation": "If two lines are both perpendicular to the same third line on a flat plane, they are parallel to each other."}
+      ]
+    }
+  ]
+}
