@@ -15,7 +15,30 @@ const ACCESS_CODES = {
     
     // JSS1 Math - Term 1 Only
     "X7F9-Q2M4-P8L1": { jss1: { mathematics: { terms: [1] } } },
+    "TVC-JSS1-3651HR": { jss1: { mathematics: { terms: [1] }, english: { terms: [1]} } },
     
+    // JSS1 Math - Term 3 Only
+    "X7F9-Q2M4-P8L3": { jss1: { mathematics: { terms: [3] } } },
+    "TVC-JSS2-2491KP": { jss1: { mathematics: { terms: [3]}, english: { terms: [3]} } }, // jss 2 entrance exam
+
+    // JSS2 Math - Term 3 Only
+    "X7F9-Q2M4-P8L4": { jss2: { mathematics: { terms: [1] } } },
+    "X7F9-Q2M4-P8L4": { jss2: { mathematics: { terms: [3] }, english: { terms: [3]} } }, // jss 2 entrance exam
+
+
+    // JSS2 Math - Term 3 Only
+    "X7F9-Q2M4-P8L4": { jss2: { mathematics: { terms: [3] } } },
+    "TVC-JSS3-9648QM": { jss2: { mathematics: { terms: [3] }, english: { terms: [3]} } }, // jss 3 entrance exam
+
+// SSS1 Math - Term 1 Only
+    "X7F9-Q2M4-P8L4": { sss1: { mathematics: { terms: [1] } } },
+    "TVC-SSS1-5985RJ": { sss1: { mathematics: { terms: [1] }, english: { terms: [1]} } }, // sss 1 entrance exam
+
+    
+// SSS1 Math - Term 3 Only
+    "X7F9-Q2M4-P8L4": { sss1: { mathematics: { terms: [3] } } },
+    "TVC-SSS2-8788YV": { sss1: { mathematics: { terms: [3] }, english: { terms: [3]} } }, // sss 2 entrance exam
+
     // SS1 - All Subjects
     "B3N8-K9V2-X4P7": { ss1: "ALL_SUBJECTS" },
     
