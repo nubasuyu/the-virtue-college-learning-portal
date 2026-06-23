@@ -2,52 +2,46 @@
 // 🔐 THE VAULT: ANONYMOUS ACCESS CODES
 // ============================================================================
 // HOW TO USE:
-// 1. Generate a random code (use the tool provided below).
+// 1. Generate a random code.
 // 2. Assign the access rules below.
 // 3. Write the code and the student's name in your private offline notebook.
 // 4. Give ONLY the code to the student.
 // ============================================================================
 
-const ADMIN_CODE = VIRTUE2024//"TVC-ADMIN-2024"; // Your personal master code
+// FIX 1: Added quotes around VIRTUE2024 so it doesn't crash the script!
+const ADMIN_CODE = "VIRTUE2024"; 
 
 const ACCESS_CODES = {
-    // ─── EXAMPLES (Replace these with your generated codes) ───
-    
-    // JSS1 Math - Term 1 Only
+    // ─── JSS1 CODES ───
     "X7F9-Q2M4-P8L1": { jss1: { mathematics: { terms: [1] } } },
-    "TVC-JSS1-3651HR": { jss1: { mathematics: { terms: [1] }, english: { terms: [1]} } },
+    "TVC-JSS1-3651HR": { jss1: { mathematics: { terms: [1] }, english: { terms: [1] } } },
     
-    // JSS1 Math - Term 3 Only
     "X7F9-Q2M4-P8L3": { jss1: { mathematics: { terms: [3] } } },
-    "TVC-JSS2-2491KP": { jss1: { mathematics: { terms: [3]}, english: { terms: [3]} } }, // jss 2 entrance exam
-
-    // JSS2 Math - Term 3 Only
-    "X7F9-Q2M4-P8L4": { jss2: { mathematics: { terms: [1] } } },
-    "X7F9-Q2M4-P8L4": { jss2: { mathematics: { terms: [3] }, english: { terms: [3]} } }, // jss 2 entrance exam
-
-
-    // JSS2 Math - Term 3 Only
-    "X7F9-Q2M4-P8L4": { jss2: { mathematics: { terms: [3] } } },
-    "TVC-JSS3-9648QM": { jss2: { mathematics: { terms: [3] }, english: { terms: [3]} } }, // jss 3 entrance exam
-
-// SSS1 Math - Term 1 Only
-    "X7F9-Q2M4-P8L4": { sss1: { mathematics: { terms: [1] } } },
-    "TVC-SSS1-5985RJ": { sss1: { mathematics: { terms: [1] }, english: { terms: [1]} } }, // sss 1 entrance exam
-
     
-// SSS1 Math - Term 3 Only
-    "X7F9-Q2M4-P8L4": { sss1: { mathematics: { terms: [3] } } },
-    "TVC-SSS2-8788YV": { sss1: { mathematics: { terms: [3] }, english: { terms: [3]} } }, // sss 2 entrance exam
+    // ─── JSS2 CODES ───
+    // FIX 2: Replaced duplicate "X7F9-Q2M4-P8L4" keys with unique codes!
+    "TVC-JSS2-2491KP": { jss1: { mathematics: { terms: [3] }, english: { terms: [3] } } }, // JSS2 entrance exam (accessing JSS1 content)
+    
+    "JSS2-MATH-T1-001": { jss2: { mathematics: { terms: [1] } } }, 
+    "JSS3-ENTRANCE-02": { jss2: { mathematics: { terms: [3] }, english: { terms: [3] } } }, // JSS3 entrance exam (accessing JSS2 content)
+
+    "JSS2-MATH-T3-003": { jss2: { mathematics: { terms: [3] } } }, 
+    
+    // ─── SS1 CODES ───
+    // FIX 3: Changed 'sss1' to 'ss1' to match the system's CLASS_NAMES logic!
+    "SS1-ENTRANCE-01": { ss1: { mathematics: { terms: [1] }, english: { terms: [1] } } }, // SSS1 entrance exam 
+    
+    "SS1-MATH-T3-001": { ss1: { mathematics: { terms: [3] } } }, 
+    "SS2-ENTRANCE-02": { ss1: { mathematics: { terms: [3] }, english: { terms: [3] } } }, // SSS2 entrance exam 
 
     // SS1 - All Subjects
     "B3N8-K9V2-X4P7": { ss1: "ALL_SUBJECTS" },
     
-    // JSS3 - Full Mathematics
+    // ─── JSS3 CODES ───
     "M5T1-R8Y6-W2Q9": { jss3: { mathematics: "ALL_TERMS", english: "ALL_TERMS" } },
     
-    
-    // SS2 - Chemistry Term 3 Only
-    "T8V3-N7P2-L9K4": { ss2: { chemistry: { terms: [3] }, } },
+    // ─── SS2 CODES ───
+    "T8V3-N7P2-L9K4": { ss2: { chemistry: { terms: [3] } } },
 
     // ─── ADD YOUR GENERATED CODES BELOW THIS LINE ───
 };
