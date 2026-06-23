@@ -1,40 +1,24 @@
 // ============================================================================
 // 🔐 THE VAULT: ANONYMOUS ACCESS CODES
 // ============================================================================
-// HOW TO USE:
-// 1. Generate a random code.
-// 2. Assign the access rules below.
-// 3. Write the code and the student's name in your private offline notebook.
-// 4. Give ONLY the code to the student.
-// ============================================================================
-
-// FIX 1: Added quotes around VIRTUE2024 so it doesn't crash the script!
 const ADMIN_CODE = "VIRTUE2024"; 
 
 const ACCESS_CODES = {
     // ─── JSS1 CODES ───
     "X7F9-Q2M4-P8L1": { jss1: { mathematics: { terms: [1] } } },
     "TVC-JSS1-3651HR": { jss1: { mathematics: { terms: [1] }, english: { terms: [1] } } },
-    
     "X7F9-Q2M4-P8L3": { jss1: { mathematics: { terms: [3] } } },
     
     // ─── JSS2 CODES ───
-    // FIX 2: Replaced duplicate "X7F9-Q2M4-P8L4" keys with unique codes!
-    "TVC-JSS2-2491KP": { jss1: { mathematics: { terms: [3] }, english: { terms: [3] } } }, // JSS2 entrance exam (accessing JSS1 content)
-    
+    "TVC-JSS2-2491KP": { jss1: { mathematics: { terms: [3] }, english: { terms: [3] } } }, 
     "JSS2-MATH-T1-001": { jss2: { mathematics: { terms: [1] } } }, 
-    "JSS3-ENTRANCE-02": { jss2: { mathematics: { terms: [3] }, english: { terms: [3] } } }, // JSS3 entrance exam (accessing JSS2 content)
-
+    "JSS3-ENTRANCE-02": { jss2: { mathematics: { terms: [3] }, english: { terms: [3] } } }, 
     "JSS2-MATH-T3-003": { jss2: { mathematics: { terms: [3] } } }, 
     
     // ─── SS1 CODES ───
-    // FIX 3: Changed 'sss1' to 'ss1' to match the system's CLASS_NAMES logic!
-    "SS1-ENTRANCE-01": { ss1: { mathematics: { terms: [1] }, english: { terms: [1] } } }, // SSS1 entrance exam 
-    
+    "SS1-ENTRANCE-01": { ss1: { mathematics: { terms: [1] }, english: { terms: [1] } } }, 
     "SS1-MATH-T3-001": { ss1: { mathematics: { terms: [3] } } }, 
-    "SS2-ENTRANCE-02": { ss1: { mathematics: { terms: [3] }, english: { terms: [3] } } }, // SSS2 entrance exam 
-
-    // SS1 - All Subjects
+    "SS2-ENTRANCE-02": { ss1: { mathematics: { terms: [3] }, english: { terms: [3] } } }, 
     "B3N8-K9V2-X4P7": { ss1: "ALL_SUBJECTS" },
     
     // ─── JSS3 CODES ───
@@ -96,22 +80,11 @@ document.addEventListener('DOMContentLoaded', () => {
         sessionStorage.removeItem('virtueSession');
     }
 
-    // ─── ACCESS VALIDATION (ANONYMOUS) ───
+    // ─── ACCESS VALIDATION ───
     function validateCode(inputCode) {
         const code = inputCode.trim().toUpperCase();
-
-        if (code === ADMIN_CODE) {
-            return { valid: true, isAdmin: true, access: "ALL" };
-        }
-
-        if (ACCESS_CODES[code]) {
-            return {
-                valid: true,
-                isAdmin: false,
-                access: ACCESS_CODES[code]
-            };
-        }
-
+        if (code === ADMIN_CODE) return { valid: true, isAdmin: true, access: "ALL" };
+        if (ACCESS_CODES[code]) return { valid: true, isAdmin: false, access: ACCESS_CODES[code] };
         return { valid: false };
     }
 
@@ -186,6 +159,26 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // ─── URL STATE MANAGEMENT ───
+    function updateURL() {
+        const params = new URLSearchParams();
+        params.set('class', classSelect.value);
+        params.set('subject', subjectSelect.value);
+        params.set('term', termSelect.value);
+        params.set('week', weekSelect.value);
+        
+        const newUrl = `${window.location.pathname}?${params.toString()}`;
+        history.pushState({ path: newUrl }, '', newUrl);
+    }
+
+    function restoreFromURL() {
+        const params = new URLSearchParams(window.location.search);
+        if (params.has('class')) classSelect.value = params.get('class');
+        if (params.has('subject')) subjectSelect.value = params.get('subject');
+        if (params.has('term')) termSelect.value = params.get('term');
+        if (params.has('week')) weekSelect.value = params.get('week');
+    }
+
     // ─── NAVIGATION & CONTENT ───
     function updateNavButtons() {
         const currentWeek = parseInt(weekSelect.value);
@@ -204,15 +197,44 @@ document.addEventListener('DOMContentLoaded', () => {
     window.changeWeek = changeWeek;
 
     function loadContent() {
-        const jsonPath = `data/${classSelect.value}/${subjectSelect.value}/term${termSelect.value}/week${weekSelect.value}.json`;
+        const cls = classSelect.value;
+        const subj = subjectSelect.value;
+        const term = termSelect.value;
+        const week = weekSelect.value;
+
+        console.log(`🔄 Loading content for: ${cls} / ${subj} / Term ${term} / Week ${week}`);
+
+        // SAFETY CHECK: Prevent broken URLs if a dropdown is empty
+        if (!cls || !subj || !term || !week) {
+            contentArea.innerHTML = `<div class="error"><h3>No Content Available</h3><p>Please ensure all dropdowns are selected.</p></div>`;
+            return;
+        }
+
+        const jsonPath = `data/${cls}/${subj}/term${term}/week${week}.json`;
+        console.log(`📂 Fetching JSON from: ${jsonPath}`);
+
+        // UPDATE URL so refreshing the page keeps you on this week
+        updateURL();
+
         contentArea.innerHTML = '<p class="loading">Loading content...</p>';
         updateNavButtons();
 
         fetch(jsonPath)
-            .then(response => response.ok ? response.json() : Promise.reject('Content not found'))
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`File not found (Status: ${response.status}). Please check if the file exists at the path below.`);
+                }
+                return response.json();
+            })
             .then(data => renderContent(data))
             .catch(error => {
-                contentArea.innerHTML = `<div class="error"><h3>Content Not Available</h3><p>${error}</p></div>`;
+                console.error(`❌ Error loading content: ${error.message}`);
+                contentArea.innerHTML = `<div class="error">
+                    <h3>Content Not Available</h3>
+                    <p>${error.message}</p>
+                    <p><strong>Path tried:</strong> <code>${jsonPath}</code></p>
+                    <p><em>Ensure the JSON file is saved in the exact folder structure shown above.</em></p>
+                </div>`;
             });
     }
 
@@ -251,6 +273,9 @@ document.addEventListener('DOMContentLoaded', () => {
             hideOverlay();
             showAccessGranted(result.isAdmin);
             populateClasses();
+            
+            // Restore URL params if they exist (e.g. if they bookmarked a specific week)
+            restoreFromURL();
             loadContent();
         } else {
             accessError.classList.add('show');
@@ -286,10 +311,23 @@ document.addEventListener('DOMContentLoaded', () => {
     accessSubmitBtn.addEventListener('click', handleLogin);
     accessInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') handleLogin(); });
     logoutBtn.addEventListener('click', handleLogout);
-    classSelect.addEventListener('change', populateSubjects);
-    subjectSelect.addEventListener('change', populateTerms);
+    
+    // Chain dropdown updates and load content
+    classSelect.addEventListener('change', () => { populateSubjects(); loadContent(); });
+    subjectSelect.addEventListener('change', () => { populateTerms(); loadContent(); });
     termSelect.addEventListener('change', () => { populateWeeks(); loadContent(); });
-    weekSelect.addEventListener('change', loadContent);
+    
+    // THE FIX: Ensure week dropdown explicitly loads content and updates URL
+    weekSelect.addEventListener('change', () => { 
+        console.log('🗓️ Week dropdown changed to:', weekSelect.value);
+        loadContent(); 
+    });
+
+    // Support browser Back/Forward buttons
+    window.addEventListener('popstate', () => {
+        restoreFromURL();
+        loadContent();
+    });
 
     // ─── INITIALIZATION ───
     function init() {
@@ -298,6 +336,9 @@ document.addEventListener('DOMContentLoaded', () => {
             hideOverlay();
             showAccessGranted(session.isAdmin);
             populateClasses();
+            
+            // Restore from URL on initial page load
+            restoreFromURL();
             loadContent();
         } else {
             showOverlay();
