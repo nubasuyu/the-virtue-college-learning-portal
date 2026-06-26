@@ -1,50 +1,46 @@
 {
-  "course": "SSS2 English Language",
+  "course": "JSS1 English Studies",
   "term": "First Term",
   "week": 12,
   "topic": "Revision",
   "subUnits": [
     {
-      "id": "sss2_eng_t1_w12_su1",
+      "id": "jss1_eng_t1_w12_su1",
       "title": "12.1 Comprehensive Revision of First Term Topics",
       "notes": [
         "Revision of Key Topics from First Term",
         "",
         "Key Concepts Reviewed:",
-        "1. Speech Skills:",
-        "   - Consonant clusters (two and three consonants in initial position)",
-        "   - Vowel sounds (/e/, /ɜ:/, /ɪ/, /i:/, /ʊ/, /u:/, diphthongs)",
-        "   - Listening comprehension for main ideas, details, examples",
+        "1. Reading Skills:",
+        "   - Understanding main and supporting ideas",
+        "   - Reading for maximum recall",
+        "   - Answering knowledge, interpretation, projection questions",
+        "   - Reading strategies: preview, question, review",
         "",
-        "2. Vocabulary Development:",
-        "   - Modifiers: adjectives and adverbs",
-        "   - Spelling of commonly misspelt words",
-        "   - Word substitution: connotation and denotation",
+        "2. Writing Skills:",
+        "   - Narrative, descriptive, expository composition",
+        "   - Outlining and sequential arrangement",
+        "   - Informal letter format and language",
+        "   - Editing and revision techniques",
         "",
         "3. Grammatical Accuracy:",
-        "   - Adjectival phrases and their functions",
-        "   - Adverbial phrases and their functions",
-        "   - Determiners: few, many, some, a little, etc.",
+        "   - Parts of speech: nouns, verbs, adjectives, adverbs",
+        "   - Functions and identification in passages",
+        "   - Sentence construction and punctuation",
         "",
-        "4. Reading Comprehension:",
-        "   - Reading for main gist in prose passages",
-        "   - Reading chapters and making notes",
-        "   - Reading for critical evaluation",
-        "   - Word substitution in passages",
+        "4. Listening/Speaking Skills:",
+        "   - Vowel and consonant sounds",
+        "   - Listening for main ideas and details",
+        "   - Speaking with clear pronunciation and intonation",
         "",
-        "5. Summary Writing:",
-        "   - Summarizing longer sentences into specified number of sentences",
-        "   - Summarizing longer selections into specified number of sentences",
-        "",
-        "6. Continuous Writing:",
-        "   - Argumentative essay features and writing",
-        "   - Creative writing: short stories and poems",
-        "   - Narrative essay features and writing",
-        "   - Formal letters: complaint, request, application, apology, order",
+        "5. Literature:",
+        "   - Types of oral and written literature",
+        "   - Folktales: features, themes, moral lessons",
+        "   - Prose: narrative and descriptive types, features",
         "",
         "Practical Revision Activities:",
         "1. Topic Review Stations:",
-        "   - Set up stations for speech, vocabulary, grammar, reading, summary, writing",
+        "   - Set up stations for reading, writing, grammar, listening, literature",
         "   - Students rotate through stations, reviewing key concepts",
         "   - Each station has practice exercises and answer keys",
         "",
@@ -102,47 +98,69 @@
         "   - Consider local examples: proverbs, cultural references, current issues",
         "   - Think about applications in Nigerian education, media, and professional contexts",
         "",
+        "Common Exam Topics and Question Types:",
+        "1. Definitions and Explanations:",
+        "   - Define terms like adverb, noun phrase, plot, characterization",
+        "   - Explain processes like outlining, paraphrasing, inference",
+        "",
+        "2. Comparisons and Contrasts:",
+        "   - Compare narrative vs descriptive prose, knowledge vs interpretation questions",
+        "   - Contrast short vs long vowel sounds, formal vs informal letters",
+        "",
+        "3. Application and Analysis:",
+        "   - Apply concepts to Nigerian scenarios (e.g., writing a letter to the principal)",
+        "   - Analyze sentence structure for parts of speech or adverbials",
+        "",
+        "4. Problem-Solving:",
+        "   - Correct grammatical errors in sentences",
+        "   - Write a summary in a specified number of sentences",
+        "",
+        "Nigerian Context Emphasis:",
+        "• Relate English language concepts to Nigerian communication needs",
+        "• Consider local examples: Nigerian proverbs, cultural references, current issues",
+        "• Think about applications in Nigerian education, media, and professional contexts",
+        "",
         "Conclusion:",
-        "• Revision consolidates understanding of SSS2 First Term English topics",
-        "• Key concepts include speech, vocabulary, grammar, reading, summary, and writing",
+        "• Revision consolidates understanding of JSS1 First Term English topics",
+        "• Key concepts include reading, writing, grammar, listening/speaking, and literature",
         "• Practical skills and Nigerian context integration enhance learning and application",
         "• Effective revision strategies prepare students for exams and real-world communication",
         "• In Nigeria, English language proficiency supports academic success, professional advancement, and civic participation"
       ],
       "diagramDescriptions": [
-        "Summary diagram linking all SSS2 First Term topics: speech, vocabulary, grammar, reading, summary, writing",
-        "Concept map of question types: knowledge, interpretation, evaluation",
-        "Comparison chart of composition types: narrative, descriptive, argumentative, expository",
+        "Summary diagram linking all JSS1 First Term topics: reading, writing, grammar, listening/speaking, literature",
+        "Concept map of question types: knowledge, interpretation, projection, conclusion",
+        "Comparison chart of composition types: narrative, descriptive, expository",
         "Flowchart of outlining and sequential arrangement",
         "Nigerian examples: Local vocabulary, comprehension passages, writing topics"
       ],
       "videoId": "",
-      "youtubeQuery": "SSS2 English revision first term grammar comprehension writing site:youtube.com",
+      "youtubeQuery": "JSS1 English revision first term grammar comprehension writing site:youtube.com",
       "quiz": [
         {
-          "q": "Consonant clusters are:",
+          "q": "Knowledge level questions ask for:",
           "opts": [
-            "Single consonant sounds",
-            "Two or more consonant sounds that occur together without a vowel",
-            "Only vowel sounds",
-            "Only used in poetry"
+            "Personal opinions",
+            "Facts directly stated in the passage",
+            "Predictions about the future",
+            "Hidden meanings"
           ],
           "ans": 1,
-          "explanation": "Consonant clusters are two or more consonant sounds that occur together without a vowel between them."
+          "explanation": "Knowledge questions ask for facts that are directly stated in the passage and can be found by looking at the text."
         },
         {
-          "q": "A modifier is a word that:",
+          "q": "An adverb modifies:",
           "opts": [
-            "Names a person, place, or thing",
-            "Adds more meaning to other words",
-            "Shows action",
-            "Connects words"
+            "Only nouns",
+            "Verbs, adjectives, or other adverbs",
+            "Only prepositions",
+            "Only conjunctions"
           ],
           "ans": 1,
-          "explanation": "Modifiers are words that add more meaning to other words, including adjectives and adverbs."
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs to add detail about how, when, where, or to what extent."
         },
         {
-          "q": "A narrative essay tells:",
+          "q": "A narrative prose tells:",
           "opts": [
             "Only facts",
             "A story with characters, setting, and plot",
@@ -150,7 +168,7 @@
             "Only descriptions"
           ],
           "ans": 1,
-          "explanation": "Narrative essays tell a story with characters, setting, and a sequence of events (plot)."
+          "explanation": "Narrative prose tells a story with characters, setting, and a sequence of events (plot)."
         },
         {
           "q": "An outline helps a writer to:",
@@ -164,29 +182,29 @@
           "explanation": "An outline helps organize main and supporting ideas in logical order before writing the full passage."
         },
         {
-          "q": "Critical evaluation is:",
+          "q": "Projection questions ask you to:",
           "opts": [
-            "Only finding faults",
-            "The ability to analyze, judge, and form opinions about a text",
-            "Only understanding content",
-            "Only summarizing passages"
+            "Copy facts from the passage",
+            "Predict or suggest what might happen based on the passage",
+            "Give your personal opinion only",
+            "Ignore the passage"
           ],
           "ans": 1,
-          "explanation": "Critical evaluation goes beyond understanding to assess quality, logic, and bias in texts."
+          "explanation": "Projection questions require you to use information from the passage to make logical predictions."
         },
         {
-          "q": "Which is a diphthong?",
+          "q": "Which is a long vowel sound?",
           "opts": [
             "/ɪ/ as in sit",
-            "/aɪ/ as in time",
+            "/i:/ as in seat",
             "/æ/ as in cat",
             "/ʌ/ as in bus"
           ],
           "ans": 1,
-          "explanation": "/aɪ/ as in 'time' is a diphthong; the others are pure vowel sounds."
+          "explanation": "/i:/ as in 'seat' is a long vowel sound; the others are short vowel sounds."
         },
         {
-          "q": "In Nigerian context, a formal letter might include:",
+          "q": "In Nigerian context, an informal letter might include:",
           "opts": [
             "Only standard English expressions",
             "Culturally appropriate greetings and local references",
@@ -194,7 +212,7 @@
             "No personal anecdotes"
           ],
           "ans": 1,
-          "explanation": "Formal letters in Nigerian context can include culturally appropriate greetings and local references while maintaining formal structure."
+          "explanation": "Informal letters in Nigerian context can include culturally appropriate greetings and local references."
         },
         {
           "q": "Understanding English language concepts is important for Nigerian students because it:",
@@ -209,30 +227,6 @@
         },
         {
           "q": "Which is a feature of descriptive prose?",
-          "opts": [
-            "Only listing facts",
-            "Sensory details and vivid language to paint pictures with words",
-            "Only short sentences",
-            "Only technical terms"
-          ],
-          "ans": 1,
-          "explanation": "Descriptive prose uses sensory details and vivid language to create mental images for the reader."
-        },
-        {
-          "q": "A common misconception about determiners is:",
-          "opts": [
-            "Determiners introduce nouns",
-            "All determiners are articles",
-            "Determiners specify quantity, possession, or definiteness",
-            "Determiners can come in different types"
-          ],
-          "ans": 1,
-          "explanation": "Not all determiners are articles; determiners include articles, quantifiers, demonstratives, and possessives."
-        }
-      ]
-    }
-  ]
-}ch is a feature of descriptive prose?",
           "opts": [
             "Only listing facts",
             "Sensory details and vivid language to paint pictures with words",

@@ -1,0 +1,820 @@
+{
+  "course": "JSS1 English Studies",
+  "term": "Third Term",
+  "week": 6,
+  "topic": "Reading, Writing, Grammar, Listening/Speaking, Literature",
+  "subUnits": [
+    {
+      "id": "jss1_eng_t3_w6_su1",
+      "title": "6.1 Reading: Positioning Main Ideas in a Given Passage",
+      "notes": [
+        "Reading: Positioning Main Ideas in Passages",
+        "",
+        "Key Concepts:",
+        "1. What are main ideas?",
+        "   - The central message or most important point in a passage",
+        "   - Tells what the passage is mostly about",
+        "   - Example: 'Road safety is essential for all Nigerians'",
+        "",
+        "2. Where can main ideas be positioned?",
+        "   - Beginning: Often in the first sentence (topic sentence)",
+        "   - Middle: Sometimes in the middle of a paragraph",
+        "   - End: Sometimes in the last sentence as a conclusion",
+        "",
+        "3. How to identify the position of main ideas:",
+        "   - Read the first sentence carefully",
+        "   - Ask: Does this sentence tell what the paragraph is about?",
+        "   - If not, continue reading to find the main point",
+        "   - Check the last sentence for summary statements",
+        "",
+        "4. Strategies for positioning main ideas:",
+        "   - Look for signal words: 'most importantly', 'in conclusion'",
+        "   - Note repeated words or concepts",
+        "   - Ask: What is this paragraph mostly about?",
+        "   - Check if removing a sentence changes the main message",
+        "",
+        "Nigerian Context:",
+        "• Sample passage topic: 'The Importance of Road Safety in Nigeria'",
+        "  - Main idea at beginning: 'Road safety saves lives in Nigeria.'",
+        "  - Main idea in middle: 'Therefore, obeying traffic rules is essential.'",
+        "  - Main idea at end: 'In conclusion, road safety benefits everyone.'",
+        "",
+        "• Cultural considerations:",
+        "  - Understanding local road safety challenges in Nigeria",
+        "  - Recognizing the importance of FRSC in protecting lives",
+        "  - Appreciating how road safety affects Nigerian communities",
+        "",
+        "Practical Activities:",
+        "1. Main Idea Position Hunt:",
+        "   - Teacher provides short passages on Nigerian topics",
+        "   - Students work in pairs to identify where main ideas appear",
+        "   - Groups share their findings and discuss evidence",
+        "",
+        "2. Passage Analysis:",
+        "   - Teacher reads a passage aloud",
+        "   - Students underline main ideas and note their position",
+        "   - Class discusses how position affects understanding",
+        "",
+        "3. Writing Practice:",
+        "   - Students write short paragraphs with main ideas in different positions",
+        "   - Focus on clear topic sentences and logical flow",
+        "   - Peer review for clarity of main idea positioning",
+        "",
+        "Common Misconceptions:",
+        "• 'Main ideas are always first': Main ideas can appear anywhere in a paragraph",
+        "• 'Only one main idea per passage': Some passages may have multiple main ideas",
+        "• 'Main ideas are always obvious': Sometimes main ideas require careful analysis",
+        "• 'Position doesn't matter': Position affects how readers understand the message",
+        "",
+        "Nigerian Context:",
+        "• Identifying main idea positions helps students comprehend Nigerian texts and media",
+        "• Practice with local topics enhances relevance and retention",
+        "• These skills support success in school subjects and daily communication",
+        "",
+        "Conclusion:",
+        "• Main ideas can appear at the beginning, middle, or end of passages",
+        "• Strategies include reading carefully, asking key questions, and noting signal words",
+        "• Practice with Nigerian topics makes learning relevant and effective",
+        "• Mastery of these skills supports reading comprehension and clear writing"
+      ],
+      "diagramDescriptions": [
+        "Chart of main idea positions with examples",
+        "Flowchart for identifying main idea position",
+        "Sample passage with main ideas highlighted by position",
+        "Nigerian context: Sample passage on road safety with position analysis",
+        "Common misconceptions and how to avoid them"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English reading main ideas position passage site:youtube.com",
+      "quiz": [
+        {
+          "q": "A main idea is:",
+          "opts": [
+            "A minor detail in a passage",
+            "The central message or most important point",
+            "Only the first sentence",
+            "Only an example"
+          ],
+          "ans": 1,
+          "explanation": "A main idea is the central message or most important point that tells what a passage is mostly about."
+        },
+        {
+          "q": "Main ideas can be positioned:",
+          "opts": [
+            "Only at the beginning",
+            "At the beginning, middle, or end of a passage",
+            "Only at the end",
+            "Only in the title"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas can appear at the beginning, middle, or end of a passage depending on the writer's style."
+        },
+        {
+          "q": "To identify the position of a main idea, you should:",
+          "opts": [
+            "Only read the first sentence",
+            "Read carefully and ask what the paragraph is mostly about",
+            "Ignore the last sentence",
+            "Only focus on examples"
+          ],
+          "ans": 1,
+          "explanation": "Reading carefully and asking what the paragraph is mostly about helps you identify the main idea's position."
+        },
+        {
+          "q": "In a passage about road safety in Nigeria, a main idea at the beginning might be:",
+          "opts": [
+            "Only about one accident",
+            "Road safety saves lives in Nigeria",
+            "Only about foreign countries",
+            "Only about vehicle colors"
+          ],
+          "ans": 1,
+          "explanation": "A main idea at the beginning would likely state the central message: that road safety saves lives in Nigeria."
+        },
+        {
+          "q": "A signal word that might indicate a main idea is:",
+          "opts": [
+            "and",
+            "most importantly",
+            "the",
+            "a"
+          ],
+          "ans": 1,
+          "explanation": "'Most importantly' signals that a main point is being presented."
+        },
+        {
+          "q": "A common mistake in identifying main ideas is:",
+          "opts": [
+            "Reading carefully",
+            "Assuming main ideas are always first",
+            "Asking what the passage is about",
+            "Checking signal words"
+          ],
+          "ans": 1,
+          "explanation": "Assuming main ideas are always first is a mistake; they can appear anywhere in a paragraph."
+        },
+        {
+          "q": "Understanding main idea positioning is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in English class",
+            "Supports comprehension of Nigerian texts and clear writing",
+            "Only for reading stories",
+            "Only for writing essays"
+          ],
+          "ans": 1,
+          "explanation": "These skills help students comprehend Nigerian texts and write clearly in academic and daily contexts."
+        },
+        {
+          "q": "Which is NOT a strategy for identifying main ideas?",
+          "opts": [
+            "Look for signal words",
+            "Note repeated concepts",
+            "Ignore the context",
+            "Ask what the paragraph is about"
+          ],
+          "ans": 2,
+          "explanation": "Ignoring the context is not helpful; context helps understand how main ideas relate to supporting details."
+        },
+        {
+          "q": "A common misconception about main ideas is:",
+          "opts": [
+            "Main ideas are central messages",
+            "Main ideas are always obvious",
+            "Main ideas can require analysis",
+            "Practice improves identification"
+          ],
+          "ans": 1,
+          "explanation": "Main ideas are not always obvious; sometimes they require careful analysis of the passage."
+        },
+        {
+          "q": "When writing to position main ideas, you should:",
+          "opts": [
+            "Always put them first",
+            "Consider your purpose and audience",
+            "Only use examples",
+            "Ignore the conclusion"
+          ],
+          "ans": 1,
+          "explanation": "Considering your purpose and audience helps you decide where to position main ideas for maximum impact."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w6_su2",
+      "title": "6.2 Grammatical Accuracy: Parts of Speech - Adverbs",
+      "notes": [
+        "Grammatical Accuracy: Adverbs",
+        "",
+        "Key Concepts:",
+        "1. What are adverbs?",
+        "   - Words that modify verbs, adjectives, or other adverbs",
+        "   - Tell how, when, where, why, or to what extent an action is done",
+        "   - Examples: quickly (how), yesterday (when), here (where), very (extent)",
+        "",
+        "2. Types of adverbs:",
+        "   a) Adverbs of manner: describe how an action is done",
+        "      - Examples: carefully, respectfully, diligently, wisely",
+        "   b) Adverbs of time: describe when an action is done",
+        "      - Examples: now, then, yesterday, tomorrow, recently",
+        "   c) Adverbs of place: describe where an action is done",
+        "      - Examples: here, there, everywhere, in Nigeria, at home",
+        "   d) Adverbs of degree: describe to what extent",
+        "      - Examples: very, quite, too, extremely, almost",
+        "",
+        "3. Functions of adverbs in sentences:",
+        "   - Modify verbs: 'The boy runs quickly.'",
+        "   - Modify adjectives: 'She is very intelligent.'",
+        "   - Modify other adverbs: 'He runs extremely quickly.'",
+        "   - Add detail and precision to communication",
+        "",
+        "4. Position of adverbs in sentences:",
+        "   - After the verb: 'She sings beautifully.'",
+        "   - Before the adjective: 'It is very hot.'",
+        "   - At the beginning or end: 'Yesterday, we went to school.'",
+        "",
+        "5. Identifying adverbs in passages:",
+        "   - Look for words ending in -ly (but not always)",
+        "   - Ask: How? When? Where? To what extent?",
+        "   - Example passage:",
+        "     'Aisha carefully crossed the busy road yesterday. She arrived very early at school.'",
+        "     Adverbs: carefully (manner), yesterday (time), very (degree), early (time)",
+        "",
+        "Nigerian Context:",
+        "• Common adverbs in Nigerian English:",
+        "  - Manner: respectfully, diligently, wisely, patriotically",
+        "  - Time: now, always, tomorrow, recently, yesterday",
+        "  - Place: here, there, in Nigeria, at school, in the community",
+        "  - Degree: very, quite, too, extremely",
+        "",
+        "• Cultural considerations:",
+        "  - Using adverbs to describe actions in Nigerian contexts",
+        "  - Adverbs for value discussions: 'respectfully', 'diligently', 'wisely'",
+        "  - Adverbs for national development: 'very important', 'extremely necessary'",
+        "",
+        "Practical Activities:",
+        "1. Adverb Hunt:",
+        "   - Teacher provides a short passage on a Nigerian topic",
+        "   - Students underline all adverbs in different colors by type",
+        "   - Class discusses findings and adverb functions",
+        "",
+        "2. Adverb Sorting Game:",
+        "   - Teacher writes adverbs on cards",
+        "   - Students sort into types: manner, time, place, degree",
+        "   - Groups present their sorted adverbs with example sentences",
+        "",
+        "3. Sentence Building:",
+        "   - Students receive verb/adjective cards and adverb cards",
+        "   - In groups, they create sentences using adverbs correctly",
+        "   - Sentences shared with class for feedback",
+        "",
+        "Common Misconceptions:",
+        "• 'All -ly words are adverbs': Some adjectives also end in -ly (friendly, lovely)",
+        "• 'Adverbs only modify verbs': Adverbs can also modify adjectives and other adverbs",
+        "• 'Only one adverb per sentence': Sentences can have multiple adverbs",
+        "• 'Adverbs are not important': Adverbs add precision and detail to communication",
+        "",
+        "Nigerian Context:",
+        "• Understanding adverbs supports clear, precise communication in academic writing and daily life",
+        "• Practice with Nigerian contexts enhances relevance and retention",
+        "• Mastery of adverbs is foundational for sentence construction and essay writing",
+        "",
+        "Conclusion:",
+        "• Adverbs modify verbs, adjectives, or other adverbs to add detail",
+        "• Types include manner, time, place, and degree adverbs",
+        "• Functions include describing how, when, where, or to what extent actions happen",
+        "• Mastery of adverbs supports clear, precise communication in English"
+      ],
+      "diagramDescriptions": [
+        "Chart of adverb types with Nigerian examples",
+        "Diagram showing adverb positions in sentences",
+        "Sample passage with adverbs highlighted by type",
+        "Adverb sorting activity template",
+        "Nigerian context: Common adverbs in daily life"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English grammar adverbs types functions site:youtube.com",
+      "quiz": [
+        {
+          "q": "An adverb is a word that:",
+          "opts": [
+            "Names a person, place, or thing",
+            "Modifies verbs, adjectives, or other adverbs",
+            "Shows action",
+            "Connects words"
+          ],
+          "ans": 1,
+          "explanation": "An adverb modifies verbs, adjectives, or other adverbs to add detail about how, when, where, or to what extent."
+        },
+        {
+          "q": "Which is an adverb of manner?",
+          "opts": [
+            "yesterday",
+            "carefully",
+            "here",
+            "very"
+          ],
+          "ans": 1,
+          "explanation": "'Carefully' is an adverb of manner; 'yesterday' is time, 'here' is place, 'very' is degree."
+        },
+        {
+          "q": "In the sentence 'She sings beautifully', 'beautifully' is an adverb that modifies:",
+          "opts": [
+            "She",
+            "sings",
+            "the sentence",
+            "nothing"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' modifies the verb 'sings' by telling how she sings."
+        },
+        {
+          "q": "Which type of adverb describes to what extent?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Place",
+            "Degree"
+          ],
+          "ans": 3,
+          "explanation": "Adverbs of degree describe to what extent (very, quite, too, extremely)."
+        },
+        {
+          "q": "In Nigerian context, which is an adverb of manner?",
+          "opts": [
+            "now",
+            "respectfully",
+            "here",
+            "very"
+          ],
+          "ans": 1,
+          "explanation": "'Respectfully' is an adverb of manner commonly used in Nigerian English to describe how actions are done."
+        },
+        {
+          "q": "Adverbs can be placed:",
+          "opts": [
+            "Only after verbs",
+            "After verbs, before adjectives, or at sentence beginning/end",
+            "Only before adjectives",
+            "Only at the end of sentences"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs can come after verbs ('sings beautifully'), before adjectives ('very hot'), or at sentence beginning/end ('Yesterday, we went')."
+        },
+        {
+          "q": "Which word can function as an adverb in a sentence?",
+          "opts": [
+            "beauty",
+            "beautifully",
+            "beautiful",
+            "and"
+          ],
+          "ans": 1,
+          "explanation": "'Beautifully' is an adverb (modifies how an action is done); 'beauty' is a noun, 'beautiful' is an adjective, 'and' is a conjunction."
+        },
+        {
+          "q": "Understanding adverbs is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in grammar tests",
+            "Supports clear, precise communication in academic and daily life",
+            "Only for creative writing",
+            "Only for reading comprehension"
+          ],
+          "ans": 1,
+          "explanation": "Adverbs add precision and detail to communication, which is essential for effective writing and speaking."
+        },
+        {
+          "q": "Which is NOT a type of adverb?",
+          "opts": [
+            "Manner",
+            "Time",
+            "Action",
+            "Degree"
+          ],
+          "ans": 2,
+          "explanation": "'Action' is not a type of adverb; manner, time, place, and degree are types of adverbs."
+        },
+        {
+          "q": "A common misconception about adverbs is:",
+          "opts": [
+            "Adverbs modify verbs, adjectives, or other adverbs",
+            "All words ending in -ly are adverbs",
+            "Adverbs add precision to communication",
+            "Adverbs can come in different positions"
+          ],
+          "ans": 1,
+          "explanation": "Not all words ending in -ly are adverbs; some adjectives like 'friendly' or 'lovely' also end in -ly."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w6_su3",
+      "title": "6.3 Listening/Speaking: Consonant Clusters",
+      "notes": [
+        "Listening and Speaking: Consonant Clusters",
+        "",
+        "Key Concepts:",
+        "1. Understanding consonant clusters:",
+        "   - Two or more consonant sounds that occur together without a vowel between them",
+        "   - Can appear at the beginning, middle, or end of words",
+        "   - Examples: /st/ in stop, /pl/ in play, /nd/ in hand",
+        "",
+        "2. Types of consonant clusters:",
+        "   a) Initial clusters: at the beginning of words",
+        "      - Examples: /st/ in stop, /pl/ in play, /tr/ in tree",
+        "   b) Medial clusters: in the middle of words",
+        "      - Examples: /nt/ in center, /mp/ in sample, /lt/ in filter",
+        "   c) Final clusters: at the end of words",
+        "      - Examples: /st/ in last, /nd/ in hand, /mp/ in lamp",
+        "",
+        "3. Importance of distinguishing consonant clusters:",
+        "   - Helps listeners understand you clearly",
+        "   - Prevents confusion between similar words",
+        "   - Example: 'stop' /stɒp/ vs 'top' /tɒp/ - different meanings!",
+        "",
+        "4. Listening strategies for consonant clusters:",
+        "   - Focus on the speaker: listen carefully to consonant articulation",
+        "   - Listen for minimal pairs: words that differ only in cluster",
+        "   - Note the context: Does the word make sense in the sentence?",
+        "   - Ask for clarification if unsure: 'Did you say stop or top?'",
+        "",
+        "5. Speaking strategies for consonant clusters:",
+        "   - Practice consonant articulation: tongue, teeth, lips position",
+        "   - Use minimal pairs for practice: stop/top, play/lay, hand/had",
+        "   - Record yourself and compare with model pronunciations",
+        "   - Get feedback from teachers or peers on cluster clarity",
+        "",
+        "Nigerian Context:",
+        "• Common consonant cluster challenges for Nigerian speakers:",
+        "  - Difficulty with initial clusters: 'stop' vs 'top'",
+        "  - Difficulty with final clusters: 'hand' vs 'had'",
+        "  - Influence of native language consonant systems",
+        "",
+        "• Sample speech topics with local relevance:",
+        "  - 'School Life': 'I study hard' (clear /st/)",
+        "  - 'Transportation': 'Take the bus to town' (clear /t/ and /b/)",
+        "  - 'Health': 'Wash your hands' (clear /nd/)",
+        "",
+        "• Cultural considerations:",
+        "  - Use of clear consonant clusters in multilingual Nigerian classrooms",
+        "  - Importance of cluster clarity in public announcements (markets, transport)",
+        "  - Practice with local words that have similar consonant clusters",
+        "",
+        "Practical Activities:",
+        "1. Consonant Cluster Drill:",
+        "   - Teacher models consonant clusters with minimal pairs",
+        "   - Students repeat in chorus and individually",
+        "   - Practice minimal pairs: stop/top, play/lay, hand/had",
+        "",
+        "2. Listening Discrimination:",
+        "   - Teacher says words with different consonant clusters",
+        "   - Students raise hands for /st/, stand for /pl/, etc.",
+        "   - Practice with Nigerian-relevant words: 'stop' (traffic) vs 'top' (clothing)",
+        "",
+        "3. Speaking Practice:",
+        "   - Students prepare a 1-minute speech using words with target consonant clusters",
+        "   - Focus on clear consonant articulation",
+        "   - Peer feedback on cluster clarity and pronunciation",
+        "",
+        "Common Misconceptions:",
+        "• 'Consonant clusters don't matter in Nigerian English': Incorrect clusters can change word meanings",
+        "• 'All English consonants are the same as in my language': English consonant system is unique and requires practice",
+        "• 'Speaking fast is better than speaking clearly': Clarity is more important than speed",
+        "• 'Only native speakers have correct clusters': With practice, anyone can improve consonant pronunciation",
+        "",
+        "Nigerian Context:",
+        "• Clear consonant cluster pronunciation supports effective communication in Nigeria's multilingual environment",
+        "• Practice with familiar topics builds confidence for academic and social speaking",
+        "• Listening skills help students learn from teachers, peers, and media",
+        "",
+        "Conclusion:",
+        "• Consonant clusters are two or more consonant sounds that occur together",
+        "• Listening strategies help you distinguish between similar consonant clusters",
+        "• Speaking strategies help you pronounce clusters clearly and confidently",
+        "• Practice with Nigerian contexts makes learning relevant and effective"
+      ],
+      "diagramDescriptions": [
+        "Chart of consonant clusters with example words",
+        "Diagram of mouth positions for each consonant cluster",
+        "Sample minimal pairs practice: stop/top, play/lay, hand/had",
+        "Listening strategy flowchart: Focus, Listen for consonant articulation, Note context, Ask for clarification",
+        "Nigerian context: Sample words with local relevance for consonant cluster practice"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English consonant clusters pronunciation practice site:youtube.com",
+      "quiz": [
+        {
+          "q": "Consonant clusters are:",
+          "opts": [
+            "Single consonant sounds",
+            "Two or more consonant sounds that occur together",
+            "Only vowel sounds",
+            "Only used in poetry"
+          ],
+          "ans": 1,
+          "explanation": "Consonant clusters are two or more consonant sounds that occur together without a vowel between them."
+        },
+        {
+          "q": "The word 'stop' has the consonant cluster:",
+          "opts": [
+            "/t/",
+            "/st/",
+            "/s/",
+            "/p/"
+          ],
+          "ans": 1,
+          "explanation": "'Stop' has the consonant cluster /st/ at the beginning; 'top' has only /t/."
+        },
+        {
+          "q": "Correct consonant cluster pronunciation helps to:",
+          "opts": [
+            "Make words longer",
+            "Prevent confusion between similar words",
+            "Use more vocabulary",
+            "Speak faster"
+          ],
+          "ans": 1,
+          "explanation": "Correct consonant clusters prevent confusion between words like 'stop' and 'top' which have different meanings."
+        },
+        {
+          "q": "When listening for consonant clusters, you should:",
+          "opts": [
+            "Look away to concentrate",
+            "Focus on the speaker and listen for consonant articulation",
+            "Write down every word",
+            "Ignore the context"
+          ],
+          "ans": 1,
+          "explanation": "Focusing on the speaker and listening for consonant articulation helps you distinguish between similar words."
+        },
+        {
+          "q": "In Nigerian context, a common consonant cluster challenge is:",
+          "opts": [
+            "/a/ and /e/",
+            "Difficulty with initial clusters like 'stop' vs 'top'",
+            "/o/ and /u/",
+            "/e/ and /o/"
+          ],
+          "ans": 1,
+          "explanation": "Many Nigerian English speakers have difficulty with initial consonant clusters like /st/ in 'stop'."
+        },
+        {
+          "q": "A good speaking strategy for consonant clusters is to:",
+          "opts": [
+            "Speak as fast as possible",
+            "Practice consonant articulation with minimal pairs",
+            "Use only complex words",
+            "Avoid eye contact"
+          ],
+          "ans": 1,
+          "explanation": "Practicing consonant articulation with minimal pairs (stop/top) helps improve pronunciation clarity."
+        },
+        {
+          "q": "Which pair shows different consonant clusters?",
+          "opts": [
+            "stop/top",
+            "stop/stop",
+            "top/top",
+            "cat/cat"
+          ],
+          "ans": 0,
+          "explanation": "'Stop' has /st/; 'top' has /t/ - different consonant clusters change the word meaning."
+        },
+        {
+          "q": "Understanding consonant clusters is important for Nigerian students because it:",
+          "opts": [
+            "Only helps in pronunciation tests",
+            "Supports clear communication in academic and social settings",
+            "Only for listening exercises",
+            "Only for reading aloud"
+          ],
+          "ans": 1,
+          "explanation": "Clear consonant cluster pronunciation helps students be understood in classrooms, presentations, and daily conversations."
+        },
+        {
+          "q": "Which is a consonant cluster?",
+          "opts": [
+            "/a:/",
+            "/st/",
+            "/i:/",
+            "/u:/"
+          ],
+          "ans": 1,
+          "explanation": "/st/ is a consonant cluster; the others are pure vowel sounds."
+        },
+        {
+          "q": "A common misconception about consonant clusters is:",
+          "opts": [
+            "Consonant clusters can change word meaning",
+            "All English consonants are the same as in my language",
+            "Practice improves consonant pronunciation",
+            "Minimal pairs help distinguish sounds"
+          ],
+          "ans": 1,
+          "explanation": "English consonant clusters are unique and may differ from consonants in other languages; practice is needed for accurate pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "jss1_eng_t3_w6_su4",
+      "title": "6.4 Literature: African and Non-African Tales Comprising Myths and Legends",
+      "notes": [
+        "Literature: African and Non-African Tales - Myths and Legends",
+        "",
+        "Key Concepts:",
+        "1. What are myths and legends?",
+        "   - Myths: Traditional stories about gods, heroes, and creation",
+        "   - Legends: Traditional stories about historical events or famous people",
+        "   - Both are passed down orally through generations",
+        "",
+        "2. Features of myths:",
+        "   - Explain natural phenomena: why the sun rises, why seasons change",
+        "   - Feature gods, goddesses, and supernatural beings",
+        "   - Often set in the distant past or primordial time",
+        "   - Example: Yoruba myth of Obatala creating humans from clay",
+        "",
+        "3. Features of legends:",
+        "   - Based on historical events or famous people",
+        "   - May contain exaggerated or magical elements",
+        "   - Often teach cultural values or historical lessons",
+        "   - Example: Legend of Moremi Ajasoro saving Ile-Ife",
+        "",
+        "4. Common themes in African and non-African myths and legends:",
+        "   - Creation and origin stories: how the world began",
+        "   - Cultural heroes: figures who brought wisdom, fire, or laws",
+        "   - Moral lessons: consequences of greed, pride, or dishonesty",
+        "   - Example: 'Why the Bat Flies at Night' teaches about consequences of greed",
+        "",
+        "5. How to analyze myths and legends:",
+        "   - Identify the type: myth or legend?",
+        "   - Note the characters: gods, heroes, or historical figures?",
+        "   - Consider the setting: primordial time or historical period?",
+        "   - Ask: What moral lesson or cultural value does this teach?",
+        "",
+        "Nigerian Context:",
+        "• Rich tradition of myths and legends in Nigerian cultures:",
+        "  - Yoruba: Myths of Obatala, Oduduwa, and the creation of Ile-Ife",
+        "  - Igbo: Legends of Eri, the founder of Nri Kingdom",
+        "  - Hausa: Myths of Bayajidda and the founding of Hausa states",
+        "",
+        "• Cultural considerations:",
+        "  - Respect for elders as keepers of oral traditions",
+        "  - Use of local languages, proverbs, and cultural references",
+        "  - Themes of community, family, and cultural identity",
+        "",
+        "Practical Activities:",
+        "1. Myth/Legend Comparison:",
+        "   - Students share a myth or legend from their community",
+        "   - Class compares features: gods/heroes, moral lessons, cultural values",
+        "   - Discuss how both African and non-African tales teach values",
+        "",
+        "2. Theme Hunt:",
+        "   - Teacher reads short myths/legends from different cultures",
+        "   - Students identify themes: creation, heroes, moral lessons",
+        "   - Create a class chart of themes from African and non-African tales",
+        "",
+        "3. Creative Storytelling:",
+        "   - Students create a short myth or legend with cultural elements",
+        "   - Focus on features: gods/heroes, moral lessons, cultural values",
+        "   - Share stories with class for feedback on myth/legend features",
+        "",
+        "Common Misconceptions:",
+        "• 'Myths and legends are only for entertainment': They also teach cultural values and historical lessons",
+        "• 'African myths are less important than non-African myths': All cultural myths preserve wisdom and values",
+        "• 'Myths are not true': Myths convey cultural truths through symbolic stories",
+        "• 'Legends must be historically accurate': Legends may contain exaggerated or magical elements",
+        "",
+        "Nigerian Context:",
+        "• Understanding myths and legends helps students appreciate Nigerian culture and global stories",
+        "• African myths connect students to their heritage and community values",
+        "• Comparing tales develops critical thinking and cultural awareness",
+        "",
+        "Conclusion:",
+        "• Myths and legends are traditional stories that teach cultural values and historical lessons",
+        "• Features include gods/heroes, moral lessons, and cultural symbolism",
+        "• Themes teach values like wisdom, courage, and community responsibility",
+        "• Nigerian myths and legends reflect rich cultural traditions with universal relevance"
+      ],
+      "diagramDescriptions": [
+        "Chart of myth vs legend features with Nigerian examples",
+        "Diagram of common themes in African and non-African tales",
+        "Sample myth/legend with highlighted features and themes",
+        "Nigerian context: Famous Nigerian myths and legends",
+        "Activity template: Myth/legend comparison and creative storytelling"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS1 English literature myths legends African Nigerian site:youtube.com",
+      "quiz": [
+        {
+          "q": "Myths are:",
+          "opts": [
+            "Only written books",
+            "Traditional stories about gods, heroes, and creation",
+            "Only poems",
+            "Only true stories"
+          ],
+          "ans": 1,
+          "explanation": "Myths are traditional stories about gods, heroes, and the creation of the world, passed down through generations."
+        },
+        {
+          "q": "Legends are:",
+          "opts": [
+            "Only fictional stories",
+            "Traditional stories about historical events or famous people",
+            "Only scientific facts",
+            "Only modern stories"
+          ],
+          "ans": 1,
+          "explanation": "Legends are traditional stories about historical events or famous people, often with exaggerated or magical elements."
+        },
+        {
+          "q": "A common feature of myths is:",
+          "opts": [
+            "Only realistic dialogue",
+            "Gods, goddesses, and supernatural beings",
+            "Only historical accuracy",
+            "Only modern settings"
+          ],
+          "ans": 1,
+          "explanation": "Myths often feature gods, goddesses, and supernatural beings who explain natural phenomena or cultural values."
+        },
+        {
+          "q": "A common theme in African myths is:",
+          "opts": [
+            "Only European history",
+            "Creation stories and cultural heroes",
+            "Only scientific facts",
+            "Only modern technology"
+          ],
+          "ans": 1,
+          "explanation": "African myths often teach about creation stories and cultural heroes who brought wisdom or laws to communities."
+        },
+        {
+          "q": "In Nigerian context, 'Obatala' is a figure from:",
+          "opts": [
+            "European fairy tales",
+            "Yoruba creation myths",
+            "Asian fables",
+            "American legends"
+          ],
+          "ans": 1,
+          "explanation": "Obatala is a Yoruba deity who, according to myth, created humans from clay."
+        },
+        {
+          "q": "Understanding myths and legends is important for Nigerian students because it:",
+          "opts": [
+            "Only helps pass exams",
+            "Connects them to culture, values, and global stories",
+            "Only for English class",
+            "Only for reading stories"
+          ],
+          "ans": 1,
+          "explanation": "Myths and legends help students appreciate their heritage, understand universal values, and develop critical thinking."
+        },
+        {
+          "q": "Which is NOT a feature of myths?",
+          "opts": [
+            "Gods and goddesses",
+            "Creation stories",
+            "Historical accuracy",
+            "Supernatural beings"
+          ],
+          "ans": 2,
+          "explanation": "Myths are not required to be historically accurate; they convey cultural truths through symbolic stories."
+        },
+        {
+          "q": "A common misconception about myths is:",
+          "opts": [
+            "Myths teach moral lessons",
+            "Myths are not true",
+            "Myths can have supernatural elements",
+            "Myths reflect cultural values"
+          ],
+          "ans": 1,
+          "explanation": "Myths are not 'untrue' in a simple sense; they convey cultural truths and values through symbolic stories."
+        },
+        {
+          "q": "Entertainment in myths and legends comes from:",
+          "opts": [
+            "Only sad endings",
+            "Exciting plots, memorable characters, and magical elements",
+            "Only long descriptions",
+            "Only factual information"
+          ],
+          "ans": 1,
+          "explanation": "Myths and legends entertain through exciting plots, memorable characters, and magical elements that engage listeners."
+        },
+        {
+          "q": "A common theme in non-African legends is:",
+          "opts": [
+            "Only local Nigerian issues",
+            "Courage, wisdom, and the battle between good and evil",
+            "Only modern technology",
+            "Only adult problems"
+          ],
+          "ans": 1,
+          "explanation": "Non-African legends often explore universal themes like courage, wisdom, and the battle between good and evil."
+        }
+      ]
+    }
+  ]
+}

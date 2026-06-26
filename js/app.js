@@ -23,8 +23,10 @@ const ACCESS_CODES = {
     
     // ─── JSS3 CODES ───
     "M5T1-R8Y6-W2Q9": { jss3: { mathematics: "ALL_TERMS", english: "ALL_TERMS" } },
-    
+    "M5T1-R8Y9-F2Q9": { jss3: { french: {terms: [3] } } },
+
     // ─── SS2 CODES ───
+
     "T8V3-N7P2-L9K4": { ss2: { chemistry: { terms: [3] } } },
 
     // ─── ADD YOUR GENERATED CODES BELOW THIS LINE ───
