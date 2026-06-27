@@ -1,0 +1,121 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Ledger Entries (Introduction)",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t3_w4_su1",
+      "title": "4.1 Meaning and Importance of the Ledger",
+      "notes": [
+        "Meaning and Importance of the Ledger",
+        "",
+        "Key Concepts:",
+        "1. Meaning of the Ledger:",
+        "   - The Ledger is the principal book of accounts in accounting.",
+        "   - It is a book where all transactions recorded in the journal (books of original entry) are classified and posted to their respective individual accounts.",
+        "",
+        "2. Importance of the Ledger:",
+        "   - Classification: It groups similar transactions together (e.g., all cash transactions in the Cash Account).",
+        "   - Balancing: It helps in finding the current balance of each account at any given time.",
+        "   - Final Accounts: The balances extracted from the ledger are used to prepare the Trial Balance, Trading, Profit and Loss Account, and the Balance Sheet.",
+        "",
+        "Nigerian Context:",
+        "   - Every business in Nigeria, from a small shop in Balogun Market to a large corporation like Dangote Cement, must maintain a ledger to know exactly how much they owe (creditors) and how much is owed to them (debtors)."
+      ],
+      "diagramDescriptions": ["Flowchart showing the accounting cycle: Source Documents -> Journal -> Ledger -> Trial Balance"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies meaning importance of ledger accounting site:youtube.com",
+      "quiz": [
+        {"q": "What is a ledger in accounting?", "opts": ["A book for recording transactions for the first time", "The principal book where journal entries are classified into accounts", "A document used to pay taxes", "A receipt for goods purchased"], "ans": 1, "explanation": "The ledger is the main book of accounts where transactions from the journal are posted and classified."},
+        {"q": "The ledger is also known as the:", "opts": ["Book of original entry", "Book of final entry or principal book of accounts", "Book of prime entry", "Cash book"], "ans": 1, "explanation": "Because it contains the final classification of all accounts before the trial balance, it is the principal book of accounts."},
+        {"q": "The primary function of the ledger is to:", "opts": ["Record transactions for the first time", "Classify and summarize transactions into individual accounts", "Calculate the tax owed", "Prepare the bank reconciliation"], "ans": 1, "explanation": "The ledger takes the raw data from the journal and organizes it by account (e.g., all sales in one account, all purchases in another)."},
+        {"q": "Which book of original entry is the ledger posted from?", "opts": ["The Trial Balance", "The Journal (or Books of Prime Entry)", "The Balance Sheet", "The Cash Book"], "ans": 1, "explanation": "Transactions are first recorded in the Journal (or specialized books like the Cash Book) and then posted to the Ledger."},
+        {"q": "Why is the ledger important in accounting?", "opts": ["It is required by law for all citizens", "It shows the exact balance of each account at any time", "It is used to pay employees", "It records only cash transactions"], "ans": 1, "explanation": "The ledger allows a business to know exactly how much cash it has, how much a specific debtor owes, etc., at any given moment."},
+        {"q": "The process of transferring entries from the journal to the ledger is called:", "opts": ["Journalizing", "Posting", "Balancing", "Extracting"], "ans": 1, "explanation": "Posting is the accounting term for copying or transferring entries from the journal to the ledger accounts."},
+        {"q": "A ledger account shows the _______ of a particular item.", "opts": ["Cost price", "Financial position and movements (debits and credits)", "Market value", "Tax value"], "ans": 1, "explanation": "A ledger account tracks all the increases and decreases (debits and credits) related to a specific asset, liability, or equity."},
+        {"q": "Which of these is NOT a function of the ledger?", "opts": ["Classifying transactions", "Finding the balance of accounts", "Recording the initial purchase of goods from a supplier", "Providing data for the trial balance"], "ans": 2, "explanation": "Recording the initial purchase is done in the Journal or Purchases Day Book (book of original entry), not the ledger."},
+        {"q": "The ledger helps in the preparation of the:", "opts": ["Cash book", "Trial Balance and Final Accounts", "Invoice", "Receipt"], "ans": 1, "explanation": "The balances from all ledger accounts are extracted to prepare the Trial Balance, which leads to the Final Accounts."},
+        {"q": "In the accounting cycle, the ledger comes after the:", "opts": ["Trial Balance", "Journal (Books of original entry)", "Balance Sheet", "Profit and Loss Account"], "ans": 1, "explanation": "The correct order is: Source Documents -> Journal -> Ledger -> Trial Balance -> Final Accounts."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t3_w4_su2",
+      "title": "4.2 Ledger Format and Types of Ledger",
+      "notes": [
+        "Ledger Format and Types of Ledger",
+        "",
+        "Key Concepts:",
+        "1. Ledger Format:",
+        "   - T-Format: The account looks like the letter 'T'. The left side is the Debit (Dr) side, and the right side is the Credit (Cr) side.",
+        "   - Columnar Format: A more detailed format with columns for Date, Particulars, Folio (F), Amount (Dr), Date, Particulars, Folio (F), and Amount (Cr).",
+        "",
+        "2. Types of Ledger:",
+        "   - General Ledger: Contains all the accounts (personal, real, and nominal) of the business.",
+        "   - Private Ledger: Contains the personal accounts of the owners, directors, and capital accounts. It is kept confidential.",
+        "   - Subsidiary Ledgers: Used in large businesses to divide the work.",
+        "     * Sales Ledger (Debtors Ledger): Contains accounts of all credit customers.",
+        "     * Purchases Ledger (Creditors Ledger): Contains accounts of all credit suppliers.",
+        "",
+        "Nigerian Context:",
+        "   - Large Nigerian banks like Zenith Bank or GTBank use massive subsidiary ledgers to track millions of individual customer accounts (debtors) and their transactions with other banks (creditors)."
+      ],
+      "diagramDescriptions": ["Diagram of the T-format ledger account", "Diagram of the Columnar format ledger account"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies ledger format T-format columnar types general subsidiary site:youtube.com",
+      "quiz": [
+        {"q": "What is the T-format of a ledger account?", "opts": ["A format with three columns", "A format shaped like the letter 'T' with debit on the left and credit on the right", "A circular format", "A format used only for cash"], "ans": 1, "explanation": "The T-format divides the account into two sides: the left side for debits and the right side for credits."},
+        {"q": "In a T-format ledger, the left side is the:", "opts": ["Credit side", "Debit side", "Balance side", "Folio side"], "ans": 1, "explanation": "By convention, the left side of any ledger account is always the Debit (Dr) side."},
+        {"q": "In a T-format ledger, the right side is the:", "opts": ["Debit side", "Credit side", "Total side", "Date side"], "ans": 1, "explanation": "The right side of the ledger account is always the Credit (Cr) side."},
+        {"q": "Which of these is a type of ledger?", "opts": ["Cash Book", "Sales Day Book", "General Ledger", "Journal"], "ans": 2, "explanation": "The General Ledger is the main ledger containing all accounts. The others are books of original entry."},
+        {"q": "The General Ledger contains:", "opts": ["Only cash transactions", "All personal, real, and nominal accounts of the business", "Only the owner's account", "Only transactions from the previous year"], "ans": 1, "explanation": "The General Ledger is comprehensive and contains every account used by the business."},
+        {"q": "The Sales Ledger is also known as the:", "opts": ["Creditors Ledger", "Debtors Ledger", "General Ledger", "Private Ledger"], "ans": 1, "explanation": "The Sales Ledger contains the personal accounts of all credit customers (debtors) who owe the business money."},
+        {"q": "The Purchases Ledger is also known as the:", "opts": ["Debtors Ledger", "Creditors Ledger", "Sales Ledger", "Cash Ledger"], "ans": 1, "explanation": "The Purchases Ledger contains the personal accounts of all credit suppliers (creditors) whom the business owes money."},
+        {"q": "A Private Ledger typically contains accounts of:", "opts": ["All customers", "All suppliers", "The owners, directors, and capital", "All employees"], "ans": 2, "explanation": "The Private Ledger is confidential and contains sensitive accounts like the owner's capital and drawings."},
+        {"q": "Which ledger contains the accounts of debtors?", "opts": ["Purchases Ledger", "Sales Ledger", "General Ledger", "Private Ledger"], "ans": 1, "explanation": "Debtors are customers who owe the business, so their accounts are kept in the Sales Ledger."},
+        {"q": "Which ledger contains the accounts of creditors?", "opts": ["Sales Ledger", "Purchases Ledger", "Private Ledger", "Cash Ledger"], "ans": 1, "explanation": "Creditors are suppliers the business owes money to, so their accounts are kept in the Purchases Ledger."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t3_w4_su3",
+      "title": "4.3 Preparation of Ledger Accounts",
+      "notes": [
+        "Preparation of Ledger Accounts",
+        "",
+        "Key Concepts:",
+        "1. Rules of Double Entry for Posting:",
+        "   - Personal Accounts: Debit the receiver, Credit the giver.",
+        "   - Real Accounts: Debit what comes in, Credit what goes out.",
+        "   - Nominal Accounts: Debit all expenses and losses, Credit all incomes and gains.",
+        "",
+        "2. Balancing the Ledger Account:",
+        "   - At the end of a period, total both the Debit and Credit sides.",
+        "   - Find the difference between the two totals.",
+        "   - Insert the difference on the smaller side as 'Balance c/d' (carried down) to make both sides equal.",
+        "   - On the next page, bring the balance down on the opposite side as 'Balance b/d' (brought down).",
+        "",
+        "3. Debit vs. Credit Balances:",
+        "   - If total debits > total credits, it is a Debit Balance.",
+        "   - If total credits > total debits, it is a Credit Balance.",
+        "",
+        "Nigerian Context:",
+        "   - Learning to balance a ledger account is the foundation of accounting. Every SS1 and SS2 student in Nigeria must master this to pass their WAEC and NECO Business Studies and Accounting exams."
+      ],
+      "diagramDescriptions": ["Step-by-step T-account showing the balancing process (c/d and b/d)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies preparation of ledger accounts double entry balancing c/d b/d site:youtube.com",
+      "quiz": [
+        {"q": "What is the rule for posting to Personal Accounts?", "opts": ["Debit what comes in, credit what goes out", "Debit the receiver, credit the giver", "Debit expenses, credit incomes", "Debit the giver, credit the receiver"], "ans": 1, "explanation": "For personal accounts (people and businesses), you debit the person receiving the benefit and credit the person giving it."},
+        {"q": "What is the rule for posting to Real Accounts?", "opts": ["Debit the receiver, credit the giver", "Debit what comes in, credit what goes out", "Debit expenses, credit incomes", "Debit losses, credit gains"], "ans": 1, "explanation": "Real accounts are for assets. When an asset comes into the business, debit it; when it leaves, credit it."},
+        {"q": "What is the rule for posting to Nominal Accounts?", "opts": ["Debit the receiver, credit the giver", "Debit what comes in, credit what goes out", "Debit all expenses and losses, credit all incomes and gains", "Debit assets, credit liabilities"], "ans": 2, "explanation": "Nominal accounts track profits, losses, and expenses. Expenses are debited, and incomes are credited."},
+        {"q": "When posting a transaction, the account to be debited is recorded on the:", "opts": ["Right side of the ledger", "Left side of the ledger", "Top of the ledger", "Bottom of the ledger"], "ans": 1, "explanation": "By convention, all debit entries are recorded on the left side of the ledger account."},
+        {"q": "The balance carried down at the end of an accounting period is called:", "opts": ["Balance b/d", "Balance c/d", "Total balance", "Net balance"], "ans": 1, "explanation": "Balance c/d (carried down) is inserted on the smaller side to make the totals equal at the end of the period."},
+        {"q": "The balance brought down at the beginning of the next period is called:", "opts": ["Balance c/d", "Balance b/d", "Opening total", "Closing total"], "ans": 1, "explanation": "Balance b/d (brought down) is the opening balance for the new period, recorded on the opposite side of the balance c/d."},
+        {"q": "If total debits exceed total credits in a ledger account, the balance is a:", "opts": ["Credit balance", "Debit balance", "Zero balance", "Negative balance"], "ans": 1, "explanation": "When the debit side is larger, the account has a debit balance."},
+        {"q": "If total credits exceed total debits in a ledger account, the balance is a:", "opts": ["Debit balance", "Credit balance", "Zero balance", "Balanced account"], "ans": 1, "explanation": "When the credit side is larger, the account has a credit balance."},
+        {"q": "The process of finding the difference between the debit and credit sides of a ledger is called:", "opts": ["Posting", "Journalizing", "Balancing", "Folioing"], "ans": 2, "explanation": "Balancing is the process of totalling both sides and finding the difference to close off the account for the period."},
+        {"q": "A debit balance in a cash account means:", "opts": ["The business owes money", "The business has more cash in hand than it has paid out", "The business has made a loss", "The account is overdrawn"], "ans": 1, "explanation": "A debit balance in the cash account represents the actual cash or bank balance the business currently holds."}
+      ]
+    }
+  ]
+}

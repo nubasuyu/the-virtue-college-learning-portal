@@ -1,0 +1,118 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Source Documents",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t3_w4_su1",
+      "title": "4.1 Meaning and Uses of Source Documents",
+      "notes": [
+        "Meaning and Uses of Source Documents",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Source Documents:",
+        "   - Source documents are the original written records that provide evidence that a financial transaction has occurred.",
+        "   - They are the first point of entry for any financial data into the accounting system.",
+        "",
+        "2. Uses of Source Documents:",
+        "   - Serve as proof of transaction (evidence of purchase, sale, or payment).",
+        "   - Act as the basis for recording entries in the books of original entry (Journals).",
+        "   - Provide information for auditing and tax assessment.",
+        "   - Serve as legal evidence in court in case of disputes between buyers and sellers.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, the Federal Inland Revenue Service (FIRS) requires businesses to present source documents like receipts and invoices during tax audits to verify their income and expenses."
+      ],
+      "diagramDescriptions": ["Examples of common source documents (Receipt, Invoice, Cheque)", "Flowchart showing Source Document -> Journal -> Ledger"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning uses of source documents site:youtube.com",
+      "quiz": [
+        {"q": "Source documents are best defined as:", "opts": ["Final financial statements", "Original written records providing evidence of a financial transaction", "Letters written to employees", "Newspaper advertisements"], "ans": 1, "explanation": "Source documents are the original proofs that a transaction has taken place."},
+        {"q": "Which of the following is NOT a use of source documents?", "opts": ["Serving as proof of transaction", "Basis for recording in journals", "Legal evidence in court", "Designing the company logo"], "ans": 3, "explanation": "Source documents are for financial and legal records, not for graphic design or marketing."},
+        {"q": "The first point of entry for financial data into the accounting system is the:", "opts": ["Ledger", "Trial Balance", "Source document", "Balance Sheet"], "ans": 2, "explanation": "Every transaction starts with a source document before being recorded in any book of account."},
+        {"q": "Source documents are important for tax assessment because they:", "opts": ["Hide the true income of the business", "Provide verifiable evidence of income and expenses", "Calculate the tax rate", "Pay the tax on behalf of the business"], "ans": 1, "explanation": "Tax authorities like FIRS use source documents to verify the actual financial activities of a business."},
+        {"q": "If a buyer and seller have a dispute over the price of goods, which of these will serve as legal evidence?", "opts": ["A verbal agreement", "The invoice or receipt", "A newspaper advert", "The company's mission statement"], "ans": 1, "explanation": "Written source documents like invoices are legally binding and serve as evidence in court."},
+        {"q": "Which of the following is considered a source document?", "opts": ["Trial Balance", "Cash Book", "Receipt", "Balance Sheet"], "ans": 2, "explanation": "A receipt is an original document proving payment was made. The others are accounting books/statements."},
+        {"q": "Source documents are used to prepare entries in the:", "opts": ["Ledger", "Books of original entry (Journals)", "Final accounts", "Bank statement"], "ans": 1, "explanation": "Information from source documents is first recorded in journals (books of original entry)."},
+        {"q": "A major characteristic of a source document is that it must contain:", "opts": ["The owner's photograph", "Details of the transaction (date, amount, parties involved)", "The company's secret recipes", "The employee's home address"], "ans": 1, "explanation": "A valid source document must clearly state what happened, when, how much, and who was involved."},
+        {"q": "Why must source documents be kept safely?", "opts": ["To prevent competitors from seeing the company's logo", "For future reference, audits, and legal protection", "To save paper", "To hide them from the bank"], "ans": 1, "explanation": "Safekeeping ensures they are available when needed for audits, tax purposes, or dispute resolution."},
+        {"q": "Which of these is the earliest document generated in a credit sale transaction?", "opts": ["Receipt", "Invoice", "Credit Note", "Cheque"], "ans": 1, "explanation": "An invoice is issued immediately when goods are sold on credit, before any payment is made."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t3_w4_su2",
+      "title": "4.2 Types of Source Documents (Invoices and Receipts)",
+      "notes": [
+        "Types of Source Documents: Invoices and Receipts",
+        "",
+        "Key Concepts:",
+        "1. Invoice:",
+        "   - A document issued by a seller to a buyer, detailing the goods sold, quantities, and the amount owed.",
+        "   - It is primarily used for credit sales (when payment is not made immediately).",
+        "   - Types: Sales Invoice (issued to customers) and Purchase Invoice (received from suppliers).",
+        "",
+        "2. Receipt:",
+        "   - A document acknowledging that payment has been received for goods or services.",
+        "   - It is issued only when cash or cheque is paid.",
+        "   - Types: Cash Receipt (for cash payments) and Official Receipt (for general acknowledgment).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, it is a common practice to demand an 'Official Receipt' after paying for services or goods to ensure you have proof of payment in case of discrepancies. For import/export, a 'Proforma Invoice' is often required by banks to process foreign exchange."
+      ],
+      "diagramDescriptions": ["Sample layout of a Sales Invoice", "Sample layout of an Official Receipt"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies invoice receipt source documents site:youtube.com",
+      "quiz": [
+        {"q": "An invoice is best described as a document that:", "opts": ["Acknowledges payment received", "Details goods sold and the amount owed by the buyer", "Orders goods from a supplier", "Requests a bank to pay money"], "ans": 1, "explanation": "An invoice is a bill sent by the seller to the buyer, showing what was supplied and how much is to be paid."},
+        {"q": "An invoice is primarily issued when goods are sold on:", "opts": ["Cash basis", "Credit basis", "Barter basis", "Free of charge"], "ans": 1, "explanation": "Invoices are used for credit sales where the buyer owes the seller and will pay at a later date."},
+        {"q": "A receipt is issued to:", "opts": ["Request for goods", "Acknowledge that payment has been received", "Return defective goods", "Order raw materials"], "ans": 1, "explanation": "A receipt is proof of payment, issued only after the seller has received money from the buyer."},
+        {"q": "If a business buys goods from a supplier on credit, the supplier will send them a:", "opts": ["Receipt", "Purchase Invoice (Sales Invoice from supplier's end)", "Credit Note", "Cheque"], "ans": 1, "explanation": "The supplier issues a Sales Invoice to the buying business, which the buying business records as a Purchase Invoice."},
+        {"q": "Which of the following documents is issued AFTER payment is made?", "opts": ["Invoice", "Receipt", "Proforma Invoice", "Order note"], "ans": 1, "explanation": "A receipt is the acknowledgment of payment, so it is issued after the money changes hands."},
+        {"q": "In Nigeria, a 'Proforma Invoice' is often used for:", "opts": ["Selling goods in the local market", "Import/export transactions and processing foreign exchange", "Paying employee salaries", "Recording daily cash sales"], "ans": 1, "explanation": "A proforma invoice is a preliminary bill of sale, often used in international trade to secure letters of credit or foreign exchange."},
+        {"q": "A Cash Receipt is specifically used for:", "opts": ["Credit sales", "Cash payments", "Returning goods", "Ordering supplies"], "ans": 1, "explanation": "As the name implies, a cash receipt is issued when payment is made in physical cash."},
+        {"q": "Which of these details is NOT typically found on an invoice?", "opts": ["Date of transaction", "Quantity and description of goods", "The buyer's bank account password", "Total amount payable"], "ans": 2, "explanation": "Sensitive personal information like bank passwords is never included on commercial invoices."},
+        {"q": "If a customer pays for goods immediately at the store, the seller should issue a:", "opts": ["Credit Invoice", "Receipt", "Debit Note", "Quotation"], "ans": 1, "explanation": "Since payment is immediate, the seller issues a receipt to acknowledge the cash received."},
+        {"q": "The primary difference between an invoice and a receipt is:", "opts": ["An invoice is for cash, a receipt is for credit", "An invoice requests payment, a receipt acknowledges payment", "An invoice is issued by the buyer, a receipt by the seller", "There is no difference"], "ans": 1, "explanation": "An invoice is a bill asking for payment (credit), while a receipt is proof that payment has been made."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t3_w4_su3",
+      "title": "4.3 Types of Source Documents (Credit Notes, Debit Notes, Cheques)",
+      "notes": [
+        "Types of Source Documents: Credit Notes, Debit Notes, Cheques",
+        "",
+        "Key Concepts:",
+        "1. Credit Note:",
+        "   - A document issued by a seller to a buyer, informing them that their account has been credited (reduced).",
+        "   - Reasons: Goods returned by the buyer (return inwards), overcharging on the original invoice, or damaged goods.",
+        "",
+        "2. Debit Note:",
+        "   - A document issued by a buyer to a seller, informing them that their account has been debited.",
+        "   - Reasons: The buyer is returning goods and reducing the amount they owe the seller.",
+        "",
+        "3. Cheque:",
+        "   - A written, unconditional order from a customer (drawer) to their bank (drawee) to pay a specific sum of money to a named person (payee).",
+        "   - Types: Bearer cheque, Order cheque, Crossed cheque.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian corporate business, cheques are still widely used for large transactions, though electronic transfers (EFT, POS) are rapidly replacing them. A 'crossed cheque' is preferred for safety as it can only be paid into a bank account."
+      ],
+      "diagramDescriptions": ["Sample layout of a Credit Note and Debit Note", "Anatomy of a standard bank cheque"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies credit note debit note cheque source documents site:youtube.com",
+      "quiz": [
+        {"q": "A Credit Note is issued by the seller when:", "opts": ["The buyer pays cash", "The buyer returns damaged goods", "The seller wants to order more goods", "The buyer requests a loan"], "ans": 1, "explanation": "A credit note is issued to reduce the amount the buyer owes, typically due to returned or damaged goods."},
+        {"q": "A Debit Note is issued by the:", "opts": ["Seller to the buyer", "Buyer to the seller", "Bank to the customer", "Customer to the bank"], "ans": 1, "explanation": "The buyer issues a debit note to the seller to inform them that their account is being debited (reduced) due to returned goods."},
+        {"q": "A cheque is best defined as:", "opts": ["A receipt for cash payment", "A written order to a bank to pay a specific sum of money", "An invoice for credit sales", "A document for returning goods"], "ans": 1, "explanation": "A cheque is an unconditional order from an account holder to their bank to pay a specified amount to a payee."},
+        {"q": "If a seller accidentally overcharges a buyer on an invoice, the seller will issue a:", "opts": ["Debit Note", "Credit Note", "Receipt", "Proforma Invoice"], "ans": 1, "explanation": "The seller issues a credit note to 'credit' the buyer's account, reducing the amount owed to the correct figure."},
+        {"q": "The person who writes and signs the cheque is called the:", "opts": ["Drawee", "Payee", "Drawer", "Bearer"], "ans": 2, "explanation": "The drawer is the account holder who issues the cheque."},
+        {"q": "The bank that is ordered to pay the money on a cheque is the:", "opts": ["Drawer", "Payee", "Drawee", "Endorser"], "ans": 2, "explanation": "The drawee is always the bank, as they hold the drawer's funds."},
+        {"q": "A crossed cheque is a cheque that:", "opts": ["Can be cashed over the counter", "Can only be paid into a bank account", "Has no signature", "Is invalid"], "ans": 1, "explanation": "Crossing a cheque (drawing two parallel lines) ensures it is credited to an account, making it safer against theft."},
+        {"q": "Which of these is a reason for issuing a Debit Note?", "opts": ["The buyer received extra goods", "The buyer returned defective goods to the seller", "The seller gave a discount", "The buyer paid in cash"], "ans": 1, "explanation": "When a buyer returns goods, they send a debit note to formally reduce their payable balance."},
+        {"q": "In Nigeria, the use of cheques for large business transactions is gradually being replaced by:", "opts": ["Barter trade", "Electronic transfers and POS", "Gold bullion", "Cash in envelopes"], "ans": 1, "explanation": "Digital banking solutions like EFT, mobile transfers, and POS terminals are now preferred for speed and security."},
+        {"q": "A 'Bearer' cheque is one that:", "opts": ["Can only be paid to the named person", "Can be cashed by anyone who presents it at the bank", "Must be crossed", "Is post-dated"], "ans": 1, "explanation": "A bearer cheque is payable to whoever physically holds (bears) it, making it risky if lost."}
+      ]
+    }
+  ]
+}

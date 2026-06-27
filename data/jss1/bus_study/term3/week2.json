@@ -1,0 +1,122 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Need for Monitoring and Control of Chemicals",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t3_w2_su1",
+      "title": "2.1 Meaning of Chemicals and Suitable/Unsuitable Chemicals",
+      "notes": [
+        "Meaning of Chemicals and Suitable/Unsuitable Chemicals",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Chemicals:",
+        "   - Chemicals are substances used in or produced by a chemical process.",
+        "   - They can be natural (e.g., water, salt) or synthetic/man-made (e.g., plastics, pesticides, preservatives).",
+        "",
+        "2. Suitable Chemicals:",
+        "   - Chemicals that are safe for use, approved by regulatory bodies, properly labeled, and used for their intended purpose.",
+        "   - Examples: Approved food preservatives, standard medicines, certified fertilizers.",
+        "",
+        "3. Unsuitable Chemicals:",
+        "   - Chemicals that are expired, banned, adulterated, or harmful to health and the environment.",
+        "   - Examples: Potassium bromate (used illegally in bread), expired drugs, banned pesticides.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, some unscrupulous bakers use potassium bromate (a banned chemical) to make bread rise faster, which can cause severe kidney and health issues for consumers."
+      ],
+      "diagramDescriptions": ["Examples of natural vs. synthetic chemicals", "Warning signs on unsuitable/hazardous chemical containers"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning of chemicals suitable unsuitable site:youtube.com",
+      "quiz": [
+        {"q": "Chemicals are best defined as:", "opts": ["Only synthetic substances", "Substances used in or produced by a chemical process", "Only liquid substances", "Only dangerous substances"], "ans": 1, "explanation": "Chemicals encompass all substances, whether natural or synthetic, involved in chemical processes."},
+        {"q": "Which of the following is an example of a natural chemical?", "opts": ["Plastic", "Water", "Pesticide", "Aspirin"], "ans": 1, "explanation": "Water (H2O) is a naturally occurring chemical substance."},
+        {"q": "A suitable chemical is one that is:", "opts": ["Expired and cheap", "Approved by regulatory bodies and properly labeled", "Banned by the government", "Used without instructions"], "ans": 1, "explanation": "Suitable chemicals are safe, legally approved, and come with proper usage instructions."},
+        {"q": "Which of these is an example of an unsuitable chemical?", "opts": ["Standard paracetamol", "Banned pesticides", "Approved food preservatives", "Distilled water"], "ans": 1, "explanation": "Banned pesticides are harmful and illegal, making them unsuitable for use."},
+        {"q": "Potassium bromate, when illegally used in bread baking in Nigeria, is considered:", "opts": ["A suitable food preservative", "An unsuitable and harmful chemical", "A natural vitamin", "A recommended flavor"], "ans": 1, "explanation": "Potassium bromate is banned in food because it is carcinogenic and harmful to health."},
+        {"q": "The primary danger of using unsuitable chemicals in food production is:", "opts": ["It makes the food taste better", "It causes health hazards and diseases to consumers", "It reduces the cost of production legally", "It makes the food last forever"], "ans": 1, "explanation": "Unsuitable chemicals can lead to poisoning, long-term diseases, or death."},
+        {"q": "Which of the following is a synthetic chemical?", "opts": ["Salt", "Water", "Plastic", "Oxygen"], "ans": 2, "explanation": "Plastic is a man-made (synthetic) chemical substance."},
+        {"q": "A chemical is considered 'adulterated' if it is:", "opts": ["Mixed with inferior or harmful substances", "Stored in a cool place", "Properly labeled", "Approved by NAFDAC"], "ans": 0, "explanation": "Adulteration means contaminating a substance with lower quality or harmful elements."},
+        {"q": "Why is it important to check the expiry date on a chemical product (like medicine)?", "opts": ["To know the price", "To ensure it is still safe and effective to use", "To know the manufacturer", "To know the weight"], "ans": 1, "explanation": "Expired chemicals can lose their effectiveness or become toxic and dangerous."},
+        {"q": "Proper labeling of chemicals helps the consumer to:", "opts": ["Know the chemical's color only", "Know the ingredients, usage, and safety precautions", "Know the seller's address", "Know the market price"], "ans": 1, "explanation": "Labels provide critical information on what is inside the product and how to handle it safely."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t3_w2_su2",
+      "title": "2.2 Need for Monitoring and Control of Food, Drugs, and Chemicals",
+      "notes": [
+        "Need for Monitoring and Control",
+        "",
+        "Key Concepts:",
+        "1. Monitoring and Control of Food:",
+        "   - Ensures food is safe, nutritious, and free from contamination (e.g., bacteria, harmful chemicals).",
+        "   - Prevents the sale of expired or adulterated food in markets and supermarkets.",
+        "",
+        "2. Monitoring and Control of Drugs:",
+        "   - Ensures medicines are effective, safe, and manufactured under strict conditions.",
+        "   - Eradicates the production and sale of fake or substandard drugs.",
+        "",
+        "3. Monitoring and Control of Chemicals:",
+        "   - Prevents the misuse of industrial and agricultural chemicals (e.g., pesticides, fertilizers).",
+        "   - Protects the environment from chemical pollution and ensures safe disposal.",
+        "",
+        "Nigerian Context:",
+        "   - The menace of fake drugs in Nigeria has historically led to loss of lives. Strict monitoring is required to ensure that only genuine drugs are dispensed in pharmacies and hospitals."
+      ],
+      "diagramDescriptions": ["Flowchart showing the stages of food and drug monitoring", "Environmental impact of uncontrolled chemical disposal"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies monitoring control of food drugs chemicals site:youtube.com",
+      "quiz": [
+        {"q": "The primary reason for monitoring food is to:", "opts": ["Increase the price of food", "Ensure it is safe, nutritious, and free from contamination", "Make it taste sweeter", "Reduce the quantity produced"], "ans": 1, "explanation": "Food monitoring protects public health by ensuring what people eat is safe and uncontaminated."},
+        {"q": "Monitoring and control of drugs is necessary to:", "opts": ["Eradicate fake and substandard drugs", "Make drugs more expensive", "Encourage self-medication", "Reduce the number of pharmacies"], "ans": 0, "explanation": "Strict control prevents the circulation of fake drugs that can harm or kill patients."},
+        {"q": "Uncontrolled disposal of industrial chemicals can lead to:", "opts": ["Better soil fertility", "Environmental pollution and health hazards", "Increased rainfall", "Cleaner water sources"], "ans": 1, "explanation": "Improper disposal contaminates soil and water, causing severe environmental and health issues."},
+        {"q": "Which of the following is a consequence of consuming adulterated food?", "opts": ["Improved immunity", "Food poisoning and health complications", "Better digestion", "Increased energy"], "ans": 1, "explanation": "Adulterated food contains harmful substances that cause illnesses like food poisoning."},
+        {"q": "Why must agricultural chemicals like pesticides be controlled?", "opts": ["To prevent them from being exported", "To prevent residue from harming consumers and the environment", "To make them more expensive", "To reduce crop yield"], "ans": 1, "explanation": "Excessive or banned pesticide residues on crops can poison consumers and damage the ecosystem."},
+        {"q": "The circulation of fake drugs in Nigeria is primarily fought by:", "opts": ["EFCC", "NAFDAC and the Police", "FIRS", "INEC"], "ans": 1, "explanation": "NAFDAC regulates and fights fake drugs, often working with law enforcement to arrest culprits."},
+        {"q": "Monitoring and control of products ensures that manufacturers:", "opts": ["Use any available raw materials", "Adhere to standard quality and safety guidelines", "Sell products without labels", "Ignore consumer complaints"], "ans": 1, "explanation": "Regulations force manufacturers to maintain high standards of quality and safety."},
+        {"q": "A major challenge in monitoring food and drugs in Nigeria is:", "opts": ["Too many regulatory agencies", "The activities of unscrupulous producers and porous borders", "Lack of consumers", "Excessive funding"], "ans": 1, "explanation": "Smuggling through porous borders and local fake producers make monitoring difficult."},
+        {"q": "Proper control of chemicals in the workplace ensures:", "opts": ["Workers are exposed to hazards", "Occupational safety and health of workers", "Chemicals are stolen", "Production stops"], "ans": 1, "explanation": "Workplace chemical control protects workers from toxic exposure and accidents."},
+        {"q": "Consumers can assist in the monitoring of food and drugs by:", "opts": ["Buying expired goods", "Reporting suspicious products to regulatory agencies", "Ignoring product labels", "Buying from unregistered hawkers"], "ans": 1, "explanation": "Consumer vigilance and reporting are crucial in helping agencies track and seize bad products."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t3_w2_su3",
+      "title": "2.3 Regulatory Agencies for Monitoring and Control in Nigeria",
+      "notes": [
+        "Regulatory Agencies in Nigeria",
+        "",
+        "Key Concepts:",
+        "1. NAFDAC (National Agency for Food and Drug Administration and Control):",
+        "   - Regulates and controls the importation, exportation, manufacture, and distribution of food, drugs, cosmetics, and chemicals.",
+        "   - Ensures these products are safe and of good quality.",
+        "",
+        "2. SON (Standards Organisation of Nigeria):",
+        "   - Ensures that manufactured products (both local and imported) meet specific quality standards.",
+        "   - Covers items like electronics, building materials, and automotive parts.",
+        "",
+        "3. FCCPC (Federal Competition and Consumer Protection Commission):",
+        "   - Protects consumers from unfair trade practices, monopolies, and price fixing.",
+        "   - Handles consumer complaints and ensures their rights are upheld.",
+        "",
+        "Nigerian Context:",
+        "   - When buying building materials like cement or iron rods in Nigeria, looking for the SON certification mark is crucial to ensure the building will not collapse. Similarly, looking for the NAFDAC number on food and drugs is mandatory."
+      ],
+      "diagramDescriptions": ["Logos and functions of NAFDAC, SON, and FCCPC", "Examples of NAFDAC and SON certification marks on products"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies NAFDAC SON FCCPC regulatory agencies Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "NAFDAC stands for:", "opts": ["National Agency for Food and Drug Administration and Control", "Nigerian Association of Food and Drug Administrators", "National Agency for Foreign Drugs and Chemicals", "Nigerian Authority for Food and Drug Control"], "ans": 0, "explanation": "NAFDAC is the National Agency for Food and Drug Administration and Control."},
+        {"q": "Which agency is primarily responsible for ensuring the quality of building materials in Nigeria?", "opts": ["NAFDAC", "SON", "FCCPC", "CBN"], "ans": 1, "explanation": "The Standards Organisation of Nigeria (SON) sets and enforces standards for manufactured products, including building materials."},
+        {"q": "The FCCPC is mainly concerned with:", "opts": ["Manufacturing drugs", "Protecting consumers from unfair trade practices", "Collecting taxes", "Issuing driving licenses"], "ans": 1, "explanation": "The Federal Competition and Consumer Protection Commission protects consumer rights and ensures fair market competition."},
+        {"q": "Before buying a packaged food item in Nigeria, a consumer should look for the:", "opts": ["SON mark", "NAFDAC registration number", "FCCPC logo", "CBN seal"], "ans": 1, "explanation": "NAFDAC regulates food and drugs, so its registration number ensures the food is safe for consumption."},
+        {"q": "Which of these agencies fights against fake and substandard drugs in Nigeria?", "opts": ["SON", "NAFDAC", "FIRS", "NNPC"], "ans": 1, "explanation": "NAFDAC has the mandate to regulate and control the production and distribution of drugs."},
+        {"q": "If a consumer buys a defective electronic appliance and the manufacturer refuses to honor the warranty, they can seek help from the:", "opts": ["NAFDAC", "SON", "FCCPC", "EFCC"], "ans": 2, "explanation": "The FCCPC handles consumer complaints regarding unfair business practices and defective goods."},
+        {"q": "SON's mandate includes ensuring that imported goods:", "opts": ["Are taxed heavily", "Meet Nigerian quality standards", "Are sold only in Lagos", "Are repackaged in Nigeria"], "ans": 1, "explanation": "SON ensures that both locally made and imported products meet the required quality and safety standards."},
+        {"q": "Which of the following is NOT a function of NAFDAC?", "opts": ["Registering food products", "Regulating cosmetics", "Setting prices of goods in the market", "Controlling the importation of drugs"], "ans": 2, "explanation": "NAFDAC regulates safety and quality, not the pricing of goods in the open market."},
+        {"q": "The 'NAFDAC Alert' system is designed to:", "opts": ["Sell products online", "Allow consumers to verify the authenticity of NAFDAC registered products", "Report traffic violations", "Register new businesses"], "ans": 1, "explanation": "NAFDAC Alert is a verification platform to help consumers confirm if a product's registration is genuine."},
+        {"q": "Why is it important for regulatory agencies to exist in a country?", "opts": ["To increase government revenue only", "To protect public health, safety, and economic interests", "To stop all imports", "To control the media"], "ans": 1, "explanation": "Regulatory agencies exist to safeguard citizens from harmful products and ensure fair business practices."}
+      ]
+    }
+  ]
+}

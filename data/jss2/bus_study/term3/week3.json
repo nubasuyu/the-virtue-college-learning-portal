@@ -1,0 +1,120 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "Third Term",
+  "week": 3,
+  "topic": "Types of Insurance Policies",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t3_w3_su1",
+      "title": "3.1 Accident and Fidelity Guarantee Insurance",
+      "notes": [
+        "Accident and Fidelity Guarantee Insurance",
+        "",
+        "Key Concepts:",
+        "1. Accident Insurance:",
+        "   - Provides financial compensation to the insured or their beneficiaries if they suffer injury, disability, or death as a result of an accident.",
+        "   - Examples: Personal Accident Policy, Public Liability Policy.",
+        "",
+        "2. Fidelity Guarantee Insurance:",
+        "   - Protects employers against financial losses caused by the dishonesty, fraud, or theft committed by their employees.",
+        "   - It is crucial for businesses that handle large amounts of cash or valuable assets.",
+        "",
+        "3. Importance:",
+        "   - Accident insurance ensures medical bills and loss of income are covered.",
+        "   - Fidelity guarantee builds trust and protects the business's bottom line from internal threats.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, Fidelity Guarantee Insurance is highly sought after by banks, microfinance institutions, and large retail companies to protect against employee fraud and embezzlement."
+      ],
+      "diagramDescriptions": ["Comparison chart of Accident vs. Fidelity Guarantee Insurance"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies accident insurance fidelity guarantee policy site:youtube.com",
+      "quiz": [
+        {"q": "What does Accident Insurance cover?", "opts": ["Loss of goods in transit", "Injuries or death caused by accidental events", "Theft by employees", "Damage to buildings by fire"], "ans": 1, "explanation": "Accident insurance provides compensation for bodily injury, disability, or death resulting from an accident."},
+        {"q": "Fidelity Guarantee Insurance protects employers against:", "opts": ["Natural disasters", "Loss of goods in transit", "Financial loss caused by employee dishonesty or fraud", "Fire outbreaks in the office"], "ans": 2, "explanation": "Fidelity guarantee specifically covers losses resulting from the fraudulent or dishonest acts of a company's own employees."},
+        {"q": "Which of these is an example of an accident insurance claim?", "opts": ["An employee stealing from the cash register", "A customer slipping and falling in a supermarket", "A fire destroying a warehouse", "A computer virus deleting data"], "ans": 1, "explanation": "A customer slipping and falling is an accident, which would be covered under Public Liability (a type of accident insurance)."},
+        {"q": "Fidelity guarantee is most important for businesses that:", "opts": ["Sell perishable goods", "Handle large amounts of cash or valuable assets", "Operate in rural areas", "Have only one employee"], "ans": 1, "explanation": "Businesses handling cash, gold, or sensitive data are at higher risk of employee theft, making fidelity guarantee essential."},
+        {"q": "A Personal Accident Policy typically covers:", "opts": ["Theft of a car", "Medical expenses and loss of income due to an accidental injury", "Death from a terminal illness", "Damage to a house by a flood"], "ans": 1, "explanation": "Personal accident policies cover the insured against bodily injuries resulting from accidents, including medical bills and lost wages."},
+        {"q": "Which of these would NOT be covered by Fidelity Guarantee Insurance?", "opts": ["An accountant embezzling company funds", "A cashier stealing from the till", "A hacker stealing money from the company's bank account", "A manager fraudulently issuing fake checks"], "ans": 2, "explanation": "Fidelity guarantee covers internal employee dishonesty. External theft by hackers is covered by Cyber Insurance or Burglary Insurance."},
+        {"q": "Who pays the premium for Fidelity Guarantee Insurance?", "opts": ["The employee", "The employer", "The government", "The customer"], "ans": 1, "explanation": "The employer pays the premium to protect their business against the risk of employee fraud."},
+        {"q": "In Nigeria, which sector relies heavily on Fidelity Guarantee Insurance?", "opts": ["Agriculture", "Banking and Financial Services", "Tourism", "Education"], "ans": 1, "explanation": "Banks and financial institutions handle massive amounts of cash and are highly exposed to internal fraud risks."},
+        {"q": "Accident insurance can be taken out by:", "opts": ["Only companies", "Only individuals", "Both individuals and companies", "Only the government"], "ans": 2, "explanation": "Individuals can take personal accident policies, while companies can take public liability or group accident policies for their staff."},
+        {"q": "The main purpose of Fidelity Guarantee Insurance is to:", "opts": ["Protect employees from accidents", "Protect the employer from financial loss due to employee dishonesty", "Protect customers from bad products", "Protect the company from fire"], "ans": 1, "explanation": "It is designed specifically to indemnify the employer for losses caused by the fraudulent acts of their staff."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t3_w3_su2",
+      "title": "3.2 Agricultural Insurance",
+      "notes": [
+        "Agricultural Insurance",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Agricultural Insurance:",
+        "   - Insurance that protects farmers against financial losses caused by natural disasters, pests, diseases, or other unforeseen events affecting crops and livestock.",
+        "",
+        "2. Risks Covered:",
+        "   - Natural disasters: Drought, flooding, windstorms.",
+        "   - Biological risks: Pest infestations, livestock diseases (e.g., Bird Flu, Swine Fever).",
+        "",
+        "3. Importance:",
+        "   - Encourages farmers to invest in modern farming techniques and high-yield seeds.",
+        "   - Provides a safety net, preventing farmers from falling into extreme poverty after a bad harvest.",
+        "",
+        "Nigerian Context:",
+        "   - The Nigerian Agricultural Insurance Corporation (NAIC) is the primary body providing agricultural insurance in Nigeria. It supports the Anchor Borrowers' Programme and helps protect farmers in states like Benue, Kaduna, and Kano against flooding and drought."
+      ],
+      "diagramDescriptions": ["Diagram showing risks covered by agricultural insurance (flood, drought, pests)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies agricultural insurance NAIC Nigeria farming site:youtube.com",
+      "quiz": [
+        {"q": "What is Agricultural Insurance?", "opts": ["Insurance for farm equipment only", "Insurance protecting farmers against losses from natural disasters and pests", "Insurance for exporting crops", "Insurance for buying land"], "ans": 1, "explanation": "Agricultural insurance covers the financial risks associated with farming, including crop failure and livestock death."},
+        {"q": "In Nigeria, agricultural insurance is primarily provided by:", "opts": ["The Central Bank of Nigeria", "The Nigerian Agricultural Insurance Corporation (NAIC)", "The Ministry of Agriculture", "Commercial banks"], "ans": 1, "explanation": "NAIC is the specialized government agency responsible for providing and managing agricultural insurance in Nigeria."},
+        {"q": "Which of these risks is covered by Agricultural Insurance?", "opts": ["Theft of the farmer's personal car", "Crop failure due to severe drought", "Fire in the farmer's city home", "Loss of money in the bank"], "ans": 1, "explanation": "Agricultural insurance covers risks directly related to farming, such as drought destroying crops."},
+        {"q": "NAIC stands for:", "opts": ["Nigerian Agricultural Insurance Corporation", "National Association of Insurance Companies", "Nigerian Association of Internal Commerce", "National Agricultural Investment Council"], "ans": 0, "explanation": "NAIC stands for the Nigerian Agricultural Insurance Corporation."},
+        {"q": "Why is agricultural insurance important in Nigeria?", "opts": ["It makes farmers rich", "It provides a safety net against unpredictable weather and pests", "It reduces the cost of farming equipment", "It guarantees high prices for crops"], "ans": 1, "explanation": "Farming is highly dependent on weather. Insurance protects farmers from financial ruin when disasters strike."},
+        {"q": "Which of these is NOT typically covered by agricultural insurance?", "opts": ["Death of livestock due to disease", "Destruction of crops by flooding", "The farmer's personal health issues", "Loss of crops due to severe windstorms"], "ans": 2, "explanation": "Agricultural insurance covers the farm's assets (crops, livestock). The farmer's personal health is covered by Health Insurance."},
+        {"q": "How does agricultural insurance help farmers?", "opts": ["By giving them free land", "By compensating them for losses so they can replant the next season", "By paying for their children's school fees", "By providing free tractors"], "ans": 1, "explanation": "Compensation allows farmers to recover their losses, pay off loans, and buy seeds for the next planting season."},
+        {"q": "A farmer who insures his poultry against bird flu is using:", "opts": ["Life insurance", "Agricultural insurance", "Fidelity guarantee", "Marine insurance"], "ans": 1, "explanation": "Insuring livestock (poultry) against disease is a core component of agricultural insurance."},
+        {"q": "The premium for agricultural insurance is usually based on:", "opts": ["The farmer's age", "The size of the farm, type of crop, and historical risk factors", "The farmer's education level", "The distance to the nearest market"], "ans": 1, "explanation": "Insurers calculate premiums based on the value of the crops/livestock and the likelihood of risks like flooding in that specific area."},
+        {"q": "The Nigerian Agricultural Insurance Corporation (NAIC) was established to:", "opts": ["Collect taxes from farmers", "Provide financial protection to farmers against agricultural risks", "Sell farming equipment", "Regulate the price of food in the market"], "ans": 1, "explanation": "NAIC's core mandate is to protect Nigerian farmers from the financial impact of natural disasters and other agricultural risks."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t3_w3_su3",
+      "title": "3.3 Export Credit Insurance",
+      "notes": [
+        "Export Credit Insurance",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Export Credit Insurance:",
+        "   - A specialized insurance policy that protects exporters against the risk of non-payment by foreign buyers (importers).",
+        "",
+        "2. Risks Covered:",
+        "   - Commercial risks: The foreign buyer goes bankrupt or refuses to pay.",
+        "   - Political risks: War, government embargoes, or currency transfer restrictions in the buyer's country prevent payment.",
+        "",
+        "3. Importance:",
+        "   - Encourages businesses to export goods by removing the fear of losing money.",
+        "   - Helps exporters secure bank loans, as the insurance policy can be used as collateral.",
+        "",
+        "Nigerian Context:",
+        "   - The Nigeria Export-Import Bank (NEXIM Bank) provides export credit insurance and guarantees to Nigerian businesses. This helps companies exporting products like cocoa, sesame seeds, leather, and solid minerals to trade safely with international buyers."
+      ],
+      "diagramDescriptions": ["Flowchart showing how Export Credit Insurance protects the exporter"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies export credit insurance NEXIM Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "What is Export Credit Insurance?", "opts": ["Insurance for goods in transit", "Insurance protecting exporters against non-payment by foreign buyers", "Insurance for importing goods", "Insurance for factory equipment"], "ans": 1, "explanation": "Export credit insurance specifically covers the risk of a foreign buyer failing to pay for the exported goods."},
+        {"q": "Export Credit Insurance protects exporters against:", "opts": ["Fire in the factory", "Theft of the company vehicle", "The risk of non-payment by foreign buyers", "Employee fraud"], "ans": 2, "explanation": "Its primary purpose is to protect the exporter's revenue against the buyer's default, whether due to commercial or political reasons."},
+        {"q": "In Nigeria, which institution provides export credit facilities and insurance?", "opts": ["The Central Bank of Nigeria (CBN)", "The Nigeria Export-Import Bank (NEXIM Bank)", "The Nigerian National Petroleum Corporation (NNPC)", "The Securities and Exchange Commission (SEC)"], "ans": 1, "explanation": "NEXIM Bank is the state-owned institution mandated to promote and finance Nigeria's non-oil exports."},
+        {"q": "Why is Export Credit Insurance important for Nigerian businesses?", "opts": ["It makes their products cheaper", "It encourages them to export by reducing the risk of losing money", "It pays for their shipping costs", "It guarantees they will find buyers"], "ans": 1, "explanation": "By mitigating the risk of non-payment, it gives Nigerian exporters the confidence to sell to new and risky international markets."},
+        {"q": "Which of these risks is covered by Export Credit Insurance?", "opts": ["The exporter's factory burning down", "The foreign buyer going bankrupt", "The goods being damaged by rain", "The exporter's employees going on strike"], "ans": 1, "explanation": "It covers commercial risks like the foreign buyer's bankruptcy or insolvency."},
+        {"q": "NEXIM Bank stands for:", "opts": ["Nigerian Export and Import Bank", "Nigeria Export-Import Bank", "National Export Insurance Mandate", "Nigerian External Investment Bank"], "ans": 1, "explanation": "NEXIM stands for the Nigeria Export-Import Bank."},
+        {"q": "Export Credit Insurance encourages international trade by:", "opts": ["Reducing shipping times", "Providing financial security against buyer default", "Eliminating customs duties", "Providing free translation services"], "ans": 1, "explanation": "Knowing they are insured against non-payment, exporters are more willing to engage in cross-border trade."},
+        {"q": "Which of these Nigerian products would benefit from Export Credit Insurance?", "opts": ["Locally made soap sold in the same city", "Cocoa beans exported to Germany", "Fresh tomatoes sold in the local market", "Cars imported into Nigeria"], "ans": 1, "explanation": "Export credit insurance is specifically for goods being sold and shipped to foreign countries, like cocoa to Germany."},
+        {"q": "The buyer in an export transaction is called the:", "opts": ["Exporter", "Importer", "Insurer", "Broker"], "ans": 1, "explanation": "The foreign buyer who purchases the goods is the importer."},
+        {"q": "If a foreign buyer goes bankrupt, Export Credit Insurance will:", "opts": ["Arrest the buyer", "Compensate the exporter for the unpaid invoice", "Pay the buyer's debts", "Cancel the export license"], "ans": 1, "explanation": "The insurance company will step in and pay the exporter the insured amount of the unpaid invoice."}
+      ]
+    }
+  ]
+}

@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'mathematics': 'Mathematics', 'english': 'English', 'government': 'Government',
         'economics': 'Economics', 'yoruba': 'Yoruba', 'geography': 'Geography',
         'islamic': 'Islamic Studies', 'financial': 'Financial Accounting',
-        'commerce': 'Commerce', 'literature': 'Literature', 'french': 'French'
+        'commerce': 'Commerce', 'literature': 'Literature', 'french': 'French', 'bus_study': 'Business Study'
     };
 
     const TERM_NAMES = { 1: 'First Term', 2: 'Second Term', 3: 'Third Term' };
