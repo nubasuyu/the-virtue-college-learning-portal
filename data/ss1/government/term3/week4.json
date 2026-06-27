@@ -1,0 +1,122 @@
+{
+  "course": "SSS1 Government",
+  "term": "Third Term",
+  "week": 4,
+  "topic": "Party Systems Continued",
+  "subUnits": [
+    {
+      "id": "ss1_gov_t3_w4_su1",
+      "title": "4.1 One-Party System: Advantages and Disadvantages",
+      "notes": [
+        "One-Party System: Advantages and Disadvantages",
+        "",
+        "Key Concepts:",
+        "1. Advantages of a One-Party System:",
+        "   - Promotes National Unity: Eliminates ethnic, regional, or religious political divisions.",
+        "   - Political Stability: Avoids the friction and gridlock caused by opposition parties.",
+        "   - Cost-Effective: Elections are cheaper to conduct since only one party organizes them.",
+        "   - Rapid Decision-Making: Policies can be implemented quickly without opposition delays.",
+        "",
+        "2. Disadvantages of a One-Party System:",
+        "   - Dictatorship and Tyranny: Lack of checks and balances leads to abuse of power.",
+        "   - No Political Choice: Citizens are denied the democratic right to choose their leaders or alternative policies.",
+        "   - Suppression of Human Rights: Dissent is treated as treason; freedom of speech is restricted.",
+        "   - Corruption and Inefficiency: Without an opposition to expose it, corruption can become entrenched.",
+        "",
+        "Nigerian Context:",
+        "   - Nigeria experienced a one-party system briefly during the Second Republic transition (the NPN era under military influence) and theoretically under the MDC during the aborted Third Republic. These periods were marked by authoritarianism and a lack of genuine democratic choice."
+      ],
+      "diagramDescriptions": ["Balance scale showing the pros and cons of a one-party system"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government advantages disadvantages of one party system site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following is an ADVANTAGE of a one-party system?", "opts": ["It guarantees freedom of speech", "It promotes rapid decision-making and political stability", "It provides citizens with multiple political choices", "It encourages fierce political debates"], "ans": 1, "explanation": "Without opposition parties to challenge or delay policies, the ruling party can make and implement decisions very quickly."},
+        {"q": "A major DISADVANTAGE of a one-party system is that it:", "opts": ["Is too expensive to maintain", "Often leads to dictatorship and the suppression of human rights", "Creates too many ethnic political parties", "Makes elections too frequent"], "ans": 1, "explanation": "The absence of opposition and checks on power frequently results in authoritarian rule and the violation of citizens' rights."},
+        {"q": "In a one-party system, political opposition is usually:", "opts": ["Encouraged and funded", "Banned or severely restricted", "Given equal media time", "Allowed to contest elections"], "ans": 1, "explanation": "By definition, a one-party system does not allow legal opposition parties to exist or contest for power."},
+        {"q": "Proponents of the one-party system argue that it promotes national unity by:", "opts": ["Forcing everyone to join the military", "Eliminating ethnic and regional political divisions", "Banning all religions", "Controlling the media"], "ans": 1, "explanation": "Supporters argue that a single party prevents the country from being divided along ethnic, religious, or regional lines."},
+        {"q": "Why are elections in a one-party system considered less democratic?", "opts": ["They are too expensive", "Citizens have no alternative candidates or policies to choose from", "They are held too frequently", "Only the military can vote"], "ans": 1, "explanation": "Democracy requires choice. If only one party's candidates are on the ballot, voters cannot choose between different political visions."},
+        {"q": "Which of the following is a characteristic of governance under a one-party system?", "opts": ["High level of transparency", "Strong checks and balances", "Entrenched corruption due to lack of scrutiny", "Free and independent press"], "ans": 2, "explanation": "Without an opposition party or free press to expose wrongdoing, corruption can easily become systemic and unpunished."},
+        {"q": "The one-party system is most likely to result in which type of government?", "opts": ["Liberal Democracy", "Authoritarianism/Dictatorship", "Constitutional Monarchy", "Anarchy"], "ans": 1, "explanation": "The concentration of power in a single party without opposition typically leads to authoritarian or dictatorial rule."},
+        {"q": "A cost-effective advantage of the one-party system is that:", "opts": ["Politicians do not receive salaries", "The government does not need to fund any social programs", "Elections are cheaper to conduct since only one party organizes them", "The country does not need a constitution"], "ans": 2, "explanation": "With no opposition parties to fund or compete against, the financial burden of organizing elections is significantly reduced."},
+        {"q": "In a one-party system, citizens who disagree with the government's policies are likely to:", "opts": ["Form a new political party", "Vote against the party in the next election", "Face persecution or be labeled as traitors", "Debate openly in the national assembly"], "ans": 2, "explanation": "Dissent is not tolerated in a one-party state, and critics are often arrested, harassed, or exiled."},
+        {"q": "Which historical Nigerian political experiment was characterized by a one-party system?", "opts": ["The First Republic", "The transition to the aborted Third Republic", "The current Fourth Republic", "The 1960 Independence era"], "ans": 1, "explanation": "The military government attempted to institute a one-party system (the MDC) during the transition to the aborted Third Republic."}
+      ]
+    },
+    {
+      "id": "ss1_gov_t3_w4_su2",
+      "title": "4.2 Two-Party System: Advantages and Disadvantages",
+      "notes": [
+        "Two-Party System: Advantages and Disadvantages",
+        "",
+        "Key Concepts:",
+        "1. Advantages of a Two-Party System:",
+        "   - Provides Clear Choice: Voters can easily choose between two distinct alternatives.",
+        "   - Political Stability: Usually results in a single-party majority government, avoiding the instability of coalitions.",
+        "   - Moderation: To win a majority, parties must appeal to the center, leading to moderate policies rather than extreme ones.",
+        "   - Strong Opposition: The losing party acts as a strong, organized opposition to check the government.",
+        "",
+        "2. Disadvantages of a Two-Party System:",
+        "   - Ignores Minority Interests: Minor parties and fringe groups struggle to gain representation.",
+        "   - Polarization: Can lead to a deeply divided society (us vs. them mentality).",
+        "   - Lack of True Choice: Voters may feel forced to choose the 'lesser of two evils' if neither major party aligns with their views.",
+        "   - High Cost of Elections: The sheer scale of campaigning for two massive parties is extremely expensive.",
+        "",
+        "Nigerian Context:",
+        "   - While Nigeria is technically a multi-party system, the dominance of the APC and PDP creates a 'two-party' dynamic in practice. This has led to intense political polarization and massive financial spending during elections, marginalizing smaller parties."
+      ],
+      "diagramDescriptions": ["Diagram showing the 'center-ground' appeal in a two-party system"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government advantages disadvantages of two party system site:youtube.com",
+      "quiz": [
+        {"q": "A major ADVANTAGE of a two-party system is that it:", "opts": ["Guarantees representation for all minority groups", "Usually produces stable, single-party majority governments", "Eliminates the need for elections", "Ensures all political ideologies are represented"], "ans": 1, "explanation": "Because one of the two major parties usually wins an outright majority, it forms a stable government without needing fragile coalitions."},
+        {"q": "A significant DISADVANTAGE of a two-party system is that it:", "opts": ["Leads to frequent government collapses", "Marginalizes minority interests and minor parties", "Is too cheap to maintain", "Forces parties to adopt extreme ideologies"], "ans": 1, "explanation": "The electoral system in a two-party state makes it nearly impossible for small parties or minority interests to win seats."},
+        {"q": "In a two-party system, parties tend to adopt moderate policies because:", "opts": ["They are required by law to do so", "They must appeal to the center to win a majority of voters", "They lack strong ideologies", "The military forces them to"], "ans": 1, "explanation": "To secure a majority, parties must attract moderate voters in the political center, avoiding extreme left or right positions."},
+        {"q": "The role of the opposition in a two-party system is characterized by:", "opts": ["Cooperating fully with the ruling party", "Being strong, organized, and ready to form the next government", "Being banned from the legislature", "Having no official status"], "ans": 1, "explanation": "The losing party becomes the 'Official Opposition', providing a strong, organized alternative and checking the government's power."},
+        {"q": "Voters in a two-party system often complain of:", "opts": ["Having too many choices", "Being forced to choose the 'lesser of two evils'", "Low campaign costs", "Lack of political debate"], "ans": 1, "explanation": "If a voter's views don't align with either major party, they often feel compelled to vote for the one they dislike less."},
+        {"q": "A two-party system can lead to societal:", "opts": ["Unity and consensus", "Polarization and deep division", "Indifference to politics", "Anarchy"], "ans": 1, "explanation": "The intense competition between two blocs can create an 'us vs. them' mentality, deeply dividing the electorate."},
+        {"q": "Which of the following is a feature of elections in a two-party system?", "opts": ["They are very inexpensive", "They are highly expensive and heavily commercialized", "They are funded entirely by the government", "They do not require campaigning"], "ans": 1, "explanation": "The massive scale of national campaigns for two dominant parties requires enormous financial resources."},
+        {"q": "The United States operates a classic two-party system. The two dominant parties are:", "opts": ["Labour and Conservative", "APC and PDP", "Democratic and Republican", "Liberal and National"], "ans": 2, "explanation": "The US political landscape is dominated by the Democratic Party and the Republican Party."},
+        {"q": "A minor party in a two-party system can still influence politics by:", "opts": ["Winning the presidency", "Pushing major parties to adopt some of their popular policies", "Overthrowing the government", "Forming a coalition government"], "ans": 1, "explanation": "Minor parties can act as 'issue advocates', forcing the major parties to adopt their popular ideas to win over their voters."},
+        {"q": "In Nigeria, the dominance of the APC and PDP is often criticized for:", "opts": ["Promoting true federalism", "Marginalizing smaller parties and creating a duopoly of power", "Reducing the cost of elections", "Ensuring perfect ethnic representation"], "ans": 1, "explanation": "The 'two-party' dominance in Nigeria's multi-party system is criticized for stifling political competition and marginalizing smaller parties."}
+      ]
+    },
+    {
+      "id": "ss1_gov_t3_w4_su3",
+      "title": "4.3 Multi-Party System: Advantages and Disadvantages",
+      "notes": [
+        "Multi-Party System: Advantages and Disadvantages",
+        "",
+        "Key Concepts:",
+        "1. Advantages of a Multi-Party System:",
+        "   - Broad Representation: Diverse ethnic, religious, and ideological groups have a platform to express their interests.",
+        "   - Greater Voter Choice: Citizens have a wider array of candidates and policies to choose from.",
+        "   - Checks and Balances: Multiple opposition parties can effectively scrutinize and check the ruling party.",
+        "   - Encourages Political Participation: More parties mean more avenues for citizens to engage in the political process.",
+        "",
+        "2. Disadvantages of a Multi-Party System:",
+        "   - Government Instability: Frequent need for coalitions can lead to fragile governments that collapse easily.",
+        "   - Polarization along Ethnic/Religious Lines: Parties may appeal to narrow sectional interests rather than national issues.",
+        "   - Slow Decision-Making: Coalition negotiations and debates among multiple parties can delay policy implementation.",
+        "   - High Cost and Fragmentation: Maintaining many parties and conducting elections is expensive and can fragment the vote.",
+        "",
+        "Nigerian Context:",
+        "   - Nigeria's multi-party system ensures that the diverse voices of its over 250 ethnic groups can be heard. However, it has also been plagued by ethnic politics, massive election costs, and the frequent defection of politicians (cross-carpeting) between parties."
+      ],
+      "diagramDescriptions": ["Chart showing the pros and cons of a multi-party system"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government advantages disadvantages of multi party system site:youtube.com",
+      "quiz": [
+        {"q": "A major ADVANTAGE of a multi-party system is that it:", "opts": ["Guarantees a stable, single-party government", "Provides broad representation for diverse interests and ideologies", "Eliminates political competition", "Reduces the cost of elections"], "ans": 1, "explanation": "Multi-party systems allow various social, ethnic, and ideological groups to form parties and gain representation."},
+        {"q": "A significant DISADVANTAGE of a multi-party system is:", "opts": ["Lack of voter choice", "The frequent need for coalition governments, which can be unstable", "The absence of an opposition", "The suppression of minority rights"], "ans": 1, "explanation": "Because it's rare for one party to win a majority, parties must form coalitions, which can be fragile and prone to collapse."},
+        {"q": "In a multi-party system, political parties often appeal to voters based on:", "opts": ["A single national ideology", "Specific ethnic, religious, or sectional interests", "Military strength", "Foreign policy only"], "ans": 1, "explanation": "In diverse nations, multi-party systems often see parties forming around specific ethnic, religious, or regional identities."},
+        {"q": "Which of the following is a characteristic of decision-making in a multi-party coalition government?", "opts": ["It is rapid and unilateral", "It requires negotiation, compromise, and consensus", "It is dictated by the military", "It is decided by a single party"], "ans": 1, "explanation": "Coalition governments must negotiate and compromise among multiple parties to pass legislation, which can slow down decision-making."},
+        {"q": "A multi-party system enhances democracy primarily by:", "opts": ["Banning opposition parties", "Providing voters with a wider array of choices and alternatives", "Ensuring only one party wins", "Reducing the number of elections"], "ans": 1, "explanation": "Democracy thrives on choice. A multi-party system gives citizens more options to find a party that truly represents their views."},
+        {"q": "Which of the following countries is a classic example of a multi-party system?", "opts": ["China", "United States", "Nigeria", "Cuba"], "ans": 2, "explanation": "Nigeria has numerous registered political parties competing for power, characteristic of a multi-party system."},
+        {"q": "A criticism of the multi-party system in Nigeria is that it:", "opts": ["Has eliminated ethnic politics", "Has led to massive election costs and political fragmentation", "Has resulted in a one-party state", "Has reduced the number of registered parties"], "ans": 1, "explanation": "The proliferation of parties in Nigeria leads to expensive elections and a fragmented political landscape where many small parties have little impact."},
+        {"q": "The phenomenon of 'cross-carpeting' (defection) is most prevalent in which type of party system?", "opts": ["One-party system", "Two-party system", "Multi-party system", "Non-party system"], "ans": 2, "explanation": "In multi-party systems with weak ideological foundations, politicians frequently defect to other parties for personal or political gain."},
+        {"q": "How does a multi-party system act as a check on government power?", "opts": ["By allowing the ruling party to control the media", "By providing multiple opposition parties to scrutinize the government", "By banning protests", "By allowing the military to intervene"], "ans": 1, "explanation": "Multiple opposition parties can collectively scrutinize, debate, and expose the failures or corruption of the ruling party."},
+        {"q": "To mitigate the negative effects of ethnic-based multi-party systems, countries often implement policies that:", "opts": ["Ban all political parties", "Require parties to have a national spread and character", "Restrict voting to one ethnic group", "Abolish elections"], "ans": 1, "explanation": "Laws requiring parties to have offices and members across multiple states/regions help curb ethnic and regional polarization."}
+      ]
+    }
+  ]
+}

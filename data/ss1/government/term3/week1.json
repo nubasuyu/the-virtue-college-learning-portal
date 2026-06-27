@@ -1,0 +1,118 @@
+{
+  "course": "SSS1 Government",
+  "term": "Third Term",
+  "week": 1,
+  "topic": "Citizenship",
+  "subUnits": [
+    {
+      "id": "ss1_gov_t3_w1_su1",
+      "title": "1.1 Meaning and Methods of Acquisition of Citizenship",
+      "notes": [
+        "Meaning and Methods of Acquisition of Citizenship",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Citizenship:",
+        "   - Citizenship is the legal status of being a recognized member of a sovereign state or country.",
+        "   - It confers certain rights, privileges, and duties upon the individual, and demands allegiance to the state.",
+        "",
+        "2. Methods of Acquiring Citizenship:",
+        "   - By Birth (Jus Soli): Born within the territorial boundaries of the country.",
+        "   - By Descent/Registration (Jus Sanguinis): Born to parents who are citizens of the country, even if born abroad.",
+        "   - By Naturalization: A foreigner is granted citizenship after residing in the country for a statutory period and meeting other legal conditions.",
+        "   - By Marriage/Registration: A foreign woman who marries a citizen can apply for citizenship by registration.",
+        "",
+        "Nigerian Context:",
+        "   - The 1999 Constitution of the Federal Republic of Nigeria (Chapter 3) outlines the specific conditions for acquiring Nigerian citizenship. For instance, a person born outside Nigeria to a Nigerian parent is a citizen by descent."
+      ],
+      "diagramDescriptions": ["Flowchart showing the four methods of acquiring citizenship"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government meaning methods of acquisition of citizenship site:youtube.com",
+      "quiz": [
+        {"q": "Citizenship is best defined as:", "opts": ["The right to vote in an election", "The legal status of being a recognized member of a state", "The process of registering a business", "The act of paying taxes to the government"], "ans": 1, "explanation": "Citizenship is the legal and political status of belonging to a specific country or state."},
+        {"q": "Which method of acquiring citizenship is based on being born within the territorial boundaries of a country?", "opts": ["Naturalization", "Jus Sanguinis", "Jus Soli", "Registration"], "ans": 2, "explanation": "Jus Soli (right of the soil) grants citizenship to anyone born within the state's territory."},
+        {"q": "A child born in the UK to Nigerian parents acquires Nigerian citizenship by:", "opts": ["Birth", "Descent", "Naturalization", "Marriage"], "ans": 1, "explanation": "Jus Sanguinis (right of blood/descent) allows a child to claim citizenship through their parents, regardless of where they are born."},
+        {"q": "The process by which a foreigner is granted citizenship after fulfilling legal residency requirements is called:", "opts": ["Repatriation", "Naturalization", "Deportation", "Extradition"], "ans": 1, "explanation": "Naturalization is the legal process through which a non-citizen acquires citizenship."},
+        {"q": "Under the 1999 Nigerian Constitution, a foreign woman can acquire Nigerian citizenship by:", "opts": ["Naturalization", "Descent", "Marriage to a Nigerian citizen", "Birth"], "ans": 2, "explanation": "A foreign woman married to a Nigerian citizen can apply for citizenship by registration."},
+        {"q": "Which of the following is NOT a method of acquiring citizenship?", "opts": ["By Birth", "By Naturalization", "By Deportation", "By Descent"], "ans": 2, "explanation": "Deportation is the forced removal of a foreigner from a country, not a method of acquiring citizenship."},
+        {"q": "The principle of 'Jus Sanguinis' means citizenship is acquired by:", "opts": ["Soil/Territory", "Blood/Descent", "Marriage", "Naturalization"], "ans": 1, "explanation": "Jus Sanguinis translates to 'right of blood', meaning citizenship is inherited from parents."},
+        {"q": "A person who acquires citizenship by naturalization must typically:", "opts": ["Be born in the country", "Have a Nigerian parent", "Swear an oath of allegiance", "Marry a citizen"], "ans": 2, "explanation": "Naturalization requires the applicant to swear an oath of allegiance to the new country."},
+        {"q": "In Nigeria, the constitutional provisions for citizenship are found in:", "opts": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4"], "ans": 2, "explanation": "Chapter 3 of the 1999 Constitution of the Federal Republic of Nigeria deals specifically with Citizenship."},
+        {"q": "Dual citizenship in Nigeria means:", "opts": ["A person holds citizenship of two different countries simultaneously", "A person has two homes in Nigeria", "A person is a citizen of two states within Nigeria", "A person has two national ID cards"], "ans": 0, "explanation": "Dual citizenship refers to holding legal citizenship status in two different sovereign nations at the same time."}
+      ]
+    },
+    {
+      "id": "ss1_gov_t3_w1_su2",
+      "title": "1.2 Rights, Duties, and Obligations of a Citizen",
+      "notes": [
+        "Rights, Duties, and Obligations of a Citizen",
+        "",
+        "Key Concepts:",
+        "1. Rights of a Citizen:",
+        "   - Fundamental Human Rights: Right to life, freedom of speech, freedom of movement, right to fair hearing, and right to vote and be voted for.",
+        "   - Political Rights: The right to participate in the political process (join a party, contest elections).",
+        "   - Economic/Social Rights: Right to education, right to own property, right to work.",
+        "",
+        "2. Duties and Obligations:",
+        "   - Duties are mandatory actions required by law (e.g., paying taxes, registering as a voter, defending the country).",
+        "   - Obligations are moral or civic responsibilities expected of a good citizen (e.g., respecting national symbols, protecting public property, obeying laws).",
+        "",
+        "3. Relationship Between Rights and Duties:",
+        "   - Rights and duties are correlative. The enjoyment of one's rights depends on the performance of duties by others and oneself.",
+        "",
+        "Nigerian Context:",
+        "   - Chapter 4 of the 1999 Nigerian Constitution guarantees Fundamental Human Rights. However, the enforcement of these rights often depends on the citizen's willingness to fulfill obligations like paying taxes, which fund the judiciary and security agencies that protect those rights."
+      ],
+      "diagramDescriptions": ["Scale balancing the Rights and Duties of a citizen"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government rights duties obligations of a citizen site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following is a Fundamental Human Right of a citizen?", "opts": ["Right to pay taxes", "Right to life and dignity of human person", "Right to vote in local government elections only", "Right to join a cult"], "ans": 1, "explanation": "The right to life and the dignity of the human person is a core fundamental human right enshrined in the constitution."},
+        {"q": "The right to vote and be voted for is classified as a:", "opts": ["Economic right", "Political right", "Social right", "Cultural right"], "ans": 1, "explanation": "Political rights involve participation in the governance and political processes of the state."},
+        {"q": "Which of the following is a mandatory DUTY of a citizen?", "opts": ["Respecting the national anthem", "Paying taxes to the government", "Voting in an election", "Protecting public property"], "ans": 1, "explanation": "Paying taxes is a legal duty enforced by law, whereas voting is a right (though a civic obligation to participate)."},
+        {"q": "Civic OBLIGATIONS include all of the following EXCEPT:", "opts": ["Obeying the laws of the land", "Protecting public property", "Paying income tax", "Respecting the rights of others"], "ans": 2, "explanation": "Paying tax is a legal duty, not just a moral or civic obligation. The others are civic obligations."},
+        {"q": "The relationship between rights and duties is best described as:", "opts": ["Independent", "Correlative", "Oppositional", "Identical"], "ans": 1, "explanation": "Rights and duties are correlative; you cannot enjoy your rights without performing your duties, and vice versa."},
+        {"q": "Which chapter of the 1999 Nigerian Constitution guarantees Fundamental Human Rights?", "opts": ["Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5"], "ans": 2, "explanation": "Chapter 4 of the 1999 Constitution is dedicated to Fundamental Human Rights."},
+        {"q": "A citizen's right to freedom of movement can be restricted if:", "opts": ["They want to travel for a holiday", "They are suspected of committing a crime", "They do not have a passport", "They are traveling to another state"], "ans": 1, "explanation": "The constitution allows for the restriction of movement if a person is suspected of committing an offense, to ensure public safety."},
+        {"q": "Defending the country and rendering assistance to the military is a:", "opts": ["Political right", "Civic duty/obligation", "Economic right", "Social right"], "ans": 1, "explanation": "It is the duty of every citizen to defend the country and render assistance to authorized security agencies."},
+        {"q": "Which of the following is an example of a socio-economic right?", "opts": ["Right to fair hearing", "Right to own property and work", "Right to freedom of speech", "Right to peaceful assembly"], "ans": 1, "explanation": "The right to own property and engage in lawful work falls under socio-economic rights."},
+        {"q": "If a citizen fails to perform their duties, the likely consequence is:", "opts": ["They will be rewarded", "The rights of others may be violated, leading to chaos", "They will automatically lose their citizenship", "They will be given more rights"], "ans": 1, "explanation": "Failure to perform duties (like obeying laws) infringes on the rights of others and leads to societal breakdown."}
+      ]
+    },
+    {
+      "id": "ss1_gov_t3_w1_su3",
+      "title": "1.3 Differences Between a Citizen and a Non-Citizen",
+      "notes": [
+        "Differences Between a Citizen and a Non-Citizen",
+        "",
+        "Key Concepts:",
+        "1. Meaning of a Non-Citizen (Alien/Foreigner):",
+        "   - A non-citizen is a person who resides in a country but does not possess the legal status of citizenship in that country.",
+        "   - They owe allegiance to their home country.",
+        "",
+        "2. Key Differences:",
+        "   - Political Rights: Citizens can vote and be voted for; non-citizens cannot.",
+        "   - Deportation: Non-citizens can be deported if they violate immigration laws; citizens cannot be deported from their own country.",
+        "   - Public Office: Citizens can hold sensitive public offices (e.g., President, Governor, National Assembly); non-citizens are restricted.",
+        "   - Passports: Citizens are issued international passports of their country; non-citizens use passports from their home nations.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, the Nigeria Immigration Service (NIS) regulates the entry, stay, and exit of non-citizens (aliens). Expatriates living in Nigeria must possess valid residence permits (CERPAC) and cannot participate in Nigerian elections."
+      ],
+      "diagramDescriptions": ["Comparison table between Citizens and Non-Citizens"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government differences between citizen and non-citizen alien site:youtube.com",
+      "quiz": [
+        {"q": "A non-citizen residing in a country is also referred to as an:", "opts": ["Indigene", "Alien or Foreigner", "Expatriate only", "Dual citizen"], "ans": 1, "explanation": "In political and legal terms, a non-citizen residing in a state is commonly referred to as an alien or foreigner."},
+        {"q": "Which of the following rights is exclusively reserved for citizens?", "opts": ["Right to life", "Right to fair hearing", "Right to vote and be voted for", "Right to own private property"], "ans": 2, "explanation": "Political rights, such as voting and contesting for political office, are strictly reserved for citizens."},
+        {"q": "A major difference between a citizen and a non-citizen is that a non-citizen:", "opts": ["Can be deported", "Cannot be deported", "Must pay taxes", "Cannot own property"], "ans": 0, "explanation": "Non-citizens can be deported if they violate the laws of the host country, whereas citizens cannot be deported from their own country."},
+        {"q": "In Nigeria, which of the following offices can ONLY be held by a citizen?", "opts": ["Manager of a foreign bank", "President of the Federal Republic", "Director of an NGO", "Professor in a University"], "ans": 1, "explanation": "The 1999 Constitution stipulates that only a Nigerian citizen can hold the office of the President."},
+        {"q": "Which document is issued exclusively to citizens of a country for international travel?", "opts": ["Visa", "National ID Card", "International Passport", "Residence Permit"], "ans": 2, "explanation": "An international passport is a travel document issued by a national government to its citizens."},
+        {"q": "A foreigner living in Nigeria must obtain a valid residence permit from the:", "opts": ["Nigerian Police Force", "Nigeria Immigration Service (NIS)", "Federal Fire Service", "Customs Service"], "ans": 1, "explanation": "The Nigeria Immigration Service is responsible for issuing residence permits (like CERPAC) to expatriates."},
+        {"q": "Can a non-citizen participate in the electoral process of their host country?", "opts": ["Yes, they can vote", "Yes, they can contest for President", "No, they cannot vote or contest", "Only if they have lived there for 5 years"], "ans": 2, "explanation": "Non-citizens do not possess political rights and cannot vote or contest in the elections of their host country."},
+        {"q": "Which of the following is true regarding taxation?", "opts": ["Only citizens pay taxes", "Only non-citizens pay taxes", "Both citizens and non-citizens pay taxes on income generated in the host country", "Neither pay taxes"], "ans": 2, "explanation": "Taxation is based on income generated within the territory, so both citizens and non-citizens (aliens) are subject to it."},
+        {"q": "If a non-citizen commits a serious crime in their host country, they are likely to face:", "opts": ["Deportation after serving their sentence", "Automatic citizenship", "A fine only", "No punishment"], "ans": 0, "explanation": "Non-citizens who commit serious offenses are often deported after serving their legal sentences."},
+        {"q": "The concept of 'allegiance' differs between citizens and non-citizens because:", "opts": ["Citizens owe allegiance to their home country, non-citizens to the host", "Citizens owe allegiance to the host country, non-citizens to their home country", "Both owe allegiance to the UN", "Neither owes allegiance to any state"], "ans": 1, "explanation": "Citizens owe their primary political allegiance to the state of their citizenship, while non-citizens owe allegiance to their home nation."}
+      ]
+    }
+  ]
+}
