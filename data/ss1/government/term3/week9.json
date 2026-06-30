@@ -1,0 +1,122 @@
+{
+  "course": "SSS1 Government",
+  "term": "Third Term",
+  "week": 9,
+  "topic": "Suffrage/Franchise",
+  "subUnits": [
+    {
+      "id": "ss1_gov_t3_w9_su1",
+      "title": "9.1 Meaning and Development of Suffrage/Franchise",
+      "notes": [
+        "Meaning and Development of Suffrage/Franchise",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Suffrage/Franchise:",
+        "   - Suffrage (or Franchise) is the legal and political right of a citizen to vote and be voted for in public elections.",
+        "   - It is the bedrock of democratic governance, allowing citizens to choose their leaders and hold them accountable.",
+        "",
+        "2. Historical Development:",
+        "   - Historically, the right to vote was highly restricted based on property ownership, wealth, gender, race, and education.",
+        "   - Over time, through struggles and reforms (e.g., the Suffragette movement for women's rights), these restrictions were gradually removed.",
+        "   - Today, most democratic nations have adopted Universal Adult Suffrage.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, the right to vote was initially limited during the colonial and early post-independence eras. The 1979 Constitution firmly entrenched Universal Adult Suffrage for all federal and state elections, a principle retained in the 1999 Constitution."
+      ],
+      "diagramDescriptions": ["Timeline showing the historical expansion of voting rights globally"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government meaning and development of suffrage franchise site:youtube.com",
+      "quiz": [
+        {"q": "Suffrage or Franchise is best defined as the:", "opts": ["Right to protest", "Right to vote and be voted for", "Right to freedom of speech", "Right to own property"], "ans": 1, "explanation": "Suffrage/Franchise is the legal right of a citizen to participate in elections by voting and contesting."},
+        {"q": "Which of the following was historically used to restrict voting rights?", "opts": ["Age", "Gender and property ownership", "Citizenship", "Mental sanity"], "ans": 1, "explanation": "Historically, women and those who did not own property were denied the right to vote in many early democracies."},
+        {"q": "The gradual removal of restrictions on voting rights led to the adoption of:", "opts": ["Limited Suffrage", "Universal Adult Suffrage", "Indirect Suffrage", "Census Suffrage"], "ans": 1, "explanation": "The removal of property, gender, and racial qualifications led to Universal Adult Suffrage."},
+        {"q": "In Nigeria, Universal Adult Suffrage was firmly entrenched for federal elections by the:", "opts": ["1914 Constitution", "1960 Independence Constitution", "1979 Constitution", "2023 Electoral Act"], "ans": 2, "explanation": "The 1979 Constitution established Universal Adult Suffrage for all federal elections in Nigeria."},
+        {"q": "The legal voting age in Nigeria is:", "opts": ["16 years", "18 years", "21 years", "25 years"], "ans": 1, "explanation": "Under the 1999 Constitution, any Nigerian citizen who has attained the age of 18 is eligible to vote."},
+        {"q": "Enfranchisement refers to:", "opts": ["Taking away the right to vote", "Granting the right to vote", "Registering a political party", "Delimiting constituencies"], "ans": 1, "explanation": "Enfranchisement is the process of giving people the legal right to vote."},
+        {"q": "Disenfranchisement means:", "opts": ["Granting citizenship", "Depriving a citizen of the right to vote", "Registering to vote", "Winning an election"], "ans": 1, "explanation": "Disenfranchisement is the legal revocation of the right to vote, often as a penalty for certain crimes."},
+        {"q": "Suffrage is a fundamental feature of which system of government?", "opts": ["Dictatorship", "Monarchy", "Democracy", "Oligarchy"], "ans": 2, "explanation": "Democracy relies on the participation of the governed through the right to vote (suffrage)."},
+        {"q": "The movement that fought for women's right to vote in the early 20th century was known as the:", "opts": ["Civil Rights Movement", "Suffragette Movement", "Abolitionist Movement", "Labor Movement"], "ans": 1, "explanation": "The Suffragettes were activists who campaigned tirelessly for women's enfranchisement."},
+        {"q": "Which of these is NOT a historical restriction on suffrage?", "opts": ["Racial qualification", "Property qualification", "Gender qualification", "Citizenship qualification"], "ans": 3, "explanation": "Citizenship is a universal modern requirement for voting, whereas race, property, and gender were historical restrictions that have been abolished in democracies."}
+      ]
+    },
+    {
+      "id": "ss1_gov_t3_w9_su2",
+      "title": "9.2 Types of Suffrage/Franchise",
+      "notes": [
+        "Types of Suffrage/Franchise",
+        "",
+        "Key Concepts:",
+        "1. Universal Adult Suffrage:",
+        "   - All adult citizens (usually 18 years and above) have the right to vote without discrimination based on race, sex, religion, or property.",
+        "   - It promotes political equality and mass participation.",
+        "",
+        "2. Limited Suffrage:",
+        "   - The right to vote is restricted to a specific segment of the population based on certain qualifications.",
+        "   - Types of Limited Suffrage:",
+        "     * Property Qualification: Only property owners can vote.",
+        "     * Educational Qualification: Only literate or educated citizens can vote.",
+        "     * Income/Census Qualification: Only those who pay a certain amount of tax or earn a minimum income can vote.",
+        "     * Gender/Racial Qualification: Only men or a specific race can vote (e.g., Apartheid South Africa).",
+        "",
+        "Nigerian Context:",
+        "   - Nigeria practices Universal Adult Suffrage. Every citizen aged 18 and above, regardless of their wealth, education, or gender, has the right to vote, ensuring that the government reflects the will of the entire populace."
+      ],
+      "diagramDescriptions": ["Comparison chart between Universal Adult Suffrage and Limited Suffrage"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government types of suffrage universal limited franchise site:youtube.com",
+      "quiz": [
+        {"q": "Universal Adult Suffrage means that:", "opts": ["Only educated adults can vote", "All adult citizens can vote without discrimination", "Only property owners can vote", "Only men can vote"], "ans": 1, "explanation": "Universal Adult Suffrage grants the right to vote to all adult citizens regardless of their background or status."},
+        {"q": "Limited Suffrage is characterized by:", "opts": ["Mass participation", "Restrictions on who can vote", "Secret ballots", "Frequent elections"], "ans": 1, "explanation": "Limited suffrage imposes conditions (like property or education) that restrict the electorate to a small portion of the population."},
+        {"q": "A system where only citizens who pay a certain amount of tax can vote is called:", "opts": ["Universal Suffrage", "Census/Income Qualification", "Gender Qualification", "Racial Qualification"], "ans": 1, "explanation": "Census or income qualification restricts voting to those who meet a specific financial or tax-paying threshold."},
+        {"q": "Which historical regime is a classic example of racial restriction on suffrage?", "opts": ["Pre-1994 South Africa (Apartheid)", "The United Kingdom", "The United States", "Nigeria"], "ans": 0, "explanation": "Apartheid South Africa restricted voting rights exclusively to the white minority, disenfranchising the black majority."},
+        {"q": "A major advantage of Universal Adult Suffrage is that it:", "opts": ["Ensures only the rich govern", "Promotes political equality and legitimacy", "Makes elections very cheap", "Eliminates the need for political parties"], "ans": 1, "explanation": "It ensures that every citizen has an equal voice in choosing their leaders, making the government highly legitimate."},
+        {"q": "A major disadvantage of Limited Suffrage is that it:", "opts": ["Is highly democratic", "Encourages mass participation", "Is undemocratic and excludes the masses", "Guarantees free and fair elections"], "ans": 2, "explanation": "By excluding large segments of the population, limited suffrage is fundamentally undemocratic and unrepresentative."},
+        {"q": "Educational qualification as a condition for voting was once argued to ensure that:", "opts": ["Only the rich vote", "Voters are literate enough to make informed choices", "Only men vote", "The elderly dominate politics"], "ans": 1, "explanation": "Proponents of educational qualifications argued that literacy was necessary for voters to understand political issues and ballots."},
+        {"q": "Which type of suffrage is practiced in modern-day Nigeria?", "opts": ["Limited Suffrage", "Property Suffrage", "Universal Adult Suffrage", "Gender-based Suffrage"], "ans": 2, "explanation": "Nigeria's constitution guarantees Universal Adult Suffrage for all eligible citizens."},
+        {"q": "Gender restriction on suffrage historically meant that:", "opts": ["Only women could vote", "Only men could vote", "Only married people could vote", "Only single people could vote"], "ans": 1, "explanation": "Historically, women were denied the right to vote, meaning suffrage was restricted to men."},
+        {"q": "To achieve true democracy, a country must adopt:", "opts": ["Limited Suffrage", "Property Qualification", "Universal Adult Suffrage", "Racial Qualification"], "ans": 2, "explanation": "Universal Adult Suffrage is a core pillar of modern democracy, ensuring inclusive political participation."}
+      ]
+    },
+    {
+      "id": "ss1_gov_t3_w9_su3",
+      "title": "9.3 Purpose and Qualifications for Suffrage",
+      "notes": [
+        "Purpose and Qualifications for Suffrage",
+        "",
+        "Key Concepts:",
+        "1. Purpose of Suffrage:",
+        "   - To choose leaders and representatives who will govern the people.",
+        "   - To legitimize the government (government by the consent of the governed).",
+        "   - To hold leaders accountable (voters can vote out bad performers).",
+        "   - To promote political education and mass participation.",
+        "",
+        "2. Qualifications for Suffrage in Nigeria:",
+        "   - Citizenship: Must be a citizen of Nigeria.",
+        "   - Age: Must have attained the age of 18 years.",
+        "   - Registration: Must be duly registered as a voter and possess a valid Voter's Card.",
+        "   - Mental Sanity: Must be of sound mind.",
+        "",
+        "3. Disqualifications:",
+        "   - A person can be disqualified if they are of unsound mind, an undischarged bankrupt, or have been convicted of electoral offenses or certain criminal charges within a specific timeframe.",
+        "",
+        "Nigerian Context:",
+        "   - INEC (Independent National Electoral Commission) is responsible for registering all qualified Nigerians. The introduction of the Bimodal Voter Accreditation System (BVAS) ensures that only qualified and registered individuals can exercise their suffrage."
+      ],
+      "diagramDescriptions": ["List of qualifications and disqualifications for voting in Nigeria"],
+      "videoId": "",
+      "youtubeQuery": "SSS1 Government purpose and qualifications for suffrage franchise site:youtube.com",
+      "quiz": [
+        {"q": "One of the primary purposes of suffrage is to:", "opts": ["Generate revenue for the government", "Choose leaders and legitimize the government", "Appoint judges", "Draft the national budget"], "ans": 1, "explanation": "Suffrage allows citizens to choose their leaders, giving the government the legitimacy to rule."},
+        {"q": "To be eligible to vote in Nigeria, a person must be at least:", "opts": ["16 years old", "18 years old", "21 years old", "25 years old"], "ans": 1, "explanation": "The 1999 Constitution sets the minimum voting age in Nigeria at 18 years."},
+        {"q": "Which of the following is a mandatory qualification for voting in Nigeria?", "opts": ["Owning a house", "Having a university degree", "Being a registered citizen", "Paying income tax"], "ans": 2, "explanation": "Citizenship is a fundamental requirement; non-citizens cannot vote in Nigerian elections."},
+        {"q": "A person can be disqualified from voting in Nigeria if they are:", "opts": ["A civil servant", "An undischarged bankrupt", "A university student", "A farmer"], "ans": 1, "explanation": "The constitution disqualifies undischarged bankrupts from being elected or voting in certain contexts to ensure financial integrity."},
+        {"q": "Why is mental sanity a qualification for suffrage?", "opts": ["To ensure voters can make rational and informed choices", "To exclude the elderly", "To ensure only the rich vote", "To reduce the number of voters"], "ans": 0, "explanation": "Voters must be of sound mind to understand the electoral process and make rational choices."},
+        {"q": "The process by which eligible citizens are added to the voters' list is called:", "opts": ["Delimitation", "Voter Registration", "Accreditation", "Collation"], "ans": 1, "explanation": "Voter registration is the process of enrolling eligible citizens so they can receive a voter's card."},
+        {"q": "Suffrage promotes political accountability because:", "opts": ["Citizens can vote out poorly performing leaders", "Leaders can choose their successors", "It makes elections expensive", "It eliminates opposition parties"], "ans": 0, "explanation": "The power of the electorate to vote out bad leaders forces incumbents to perform well to secure re-election."},
+        {"q": "Which body is responsible for registering voters in Nigeria?", "opts": ["The Police", "INEC", "The Judiciary", "The National Assembly"], "ans": 1, "explanation": "The Independent National Electoral Commission (INEC) is constitutionally empowered to register voters."},
+        {"q": "Disenfranchisement can occur as a penalty for:", "opts": ["Paying taxes", "Being convicted of certain electoral offenses", "Voting in a previous election", "Joining a political party"], "ans": 1, "explanation": "Individuals convicted of electoral malpractices or serious crimes may be legally disenfranchised for a period."},
+        {"q": "The right to vote is classified as a:", "opts": ["Social right", "Economic right", "Political right", "Cultural right"], "ans": 2, "explanation": "Suffrage is a fundamental political right that allows participation in the governance of the state."}
+      ]
+    }
+  ]
+}
