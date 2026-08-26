@@ -1,0 +1,135 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Production II: Commercial, Services, and Environmental Effects",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t1_w11_su1",
+      "title": "11.1 Commercial and Service Production",
+      "notes": [
+        "Commercial and Service Production",
+        "",
+        "Key Concepts:",
+        "1. Commercial Production:",
+        "   - This refers to trade and the aids to trade (banking, insurance, transport, communication, warehousing, and advertising).",
+        "   - It does not create new physical goods, but it makes existing goods available, accessible, and useful to the people who need them.",
+        "",
+        "2. Service Production:",
+        "   - This involves providing useful actions or intangible benefits rather than physical items.",
+        "   - Examples: Teaching (education), healthcare (doctors/nurses), hairdressing, banking services, and transportation.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, the service sector is a massive contributor to the GDP. From the bustling tech hubs in Yaba (Lagos) providing digital services, to teachers in Kano and doctors in Enugu, service production is vital to everyday life and economic growth."
+      ],
+      "diagramDescriptions": ["Chart comparing Industrial, Commercial, and Service Production with local examples"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies commercial and service production examples site:youtube.com",
+      "quiz": [
+        {"q": "Commercial production mainly involves:", "opts": ["Extracting raw materials from nature", "Trade and aids to trade", "Building permanent structures", "Manufacturing cloth from cotton"], "ans": 1, "explanation": "Commercial production covers trade and the supporting activities (aids to trade) that make goods available."},
+        {"q": "Which of the following is an example of service production?", "opts": ["Mining coal", "Baking bread", "Teaching students", "Building a bridge"], "ans": 2, "explanation": "Teaching provides a useful action (education) rather than a physical good, making it service production."},
+        {"q": "Service production is characterized by the provision of:", "opts": ["Raw materials only", "Useful actions rather than physical items", "Heavy machinery", "Agricultural produce"], "ans": 1, "explanation": "Services are intangible actions performed to satisfy human wants, such as healthcare or education."},
+        {"q": "Which aid to trade is considered a form of commercial production?", "opts": ["Farming", "Drilling for oil", "Banking", "Weaving cloth"], "ans": 2, "explanation": "Banking is an aid to trade, which falls under the umbrella of commercial production."},
+        {"q": "A hairdresser cutting a client's hair is engaged in:", "opts": ["Extractive production", "Manufacturing production", "Service production", "Constructive production"], "ans": 2, "explanation": "Hairdressing is an intangible service provided to a client, not the creation of a physical good."},
+        {"q": "Commercial production ensures that goods are:", "opts": ["Created from scratch", "Available and useful to consumers", "Destroyed after use", "Hidden from the public"], "ans": 1, "explanation": "Commercial activities like transport and warehousing ensure goods reach the consumers who need them."},
+        {"q": "Which sector of the Nigerian economy relies most heavily on service production?", "opts": ["Solid minerals mining", "Crude oil extraction", "Education and healthcare", "Commercial farming"], "ans": 2, "explanation": "Education and healthcare are prime examples of service production, providing intangible but vital benefits."},
+        {"q": "A truck driver delivering goods from Onitsa to Lagos is participating in:", "opts": ["Manufacturing production", "Service production (Transport)", "Extractive production", "Constructive production"], "ans": 1, "explanation": "Transport is a service that moves goods, making it a form of service/commercial production."},
+        {"q": "Unlike industrial production, commercial and service production primarily focus on:", "opts": ["Creating new physical products", "Extracting raw materials", "Distributing goods and providing intangible benefits", "Building infrastructure"], "ans": 2, "explanation": "They focus on the distribution, support, and intangible services rather than the physical creation of goods."},
+        {"q": "Which of these is NOT a form of service production?", "opts": ["A doctor treating a patient", "A banker processing a loan", "A factory assembling cars", "A teacher explaining a lesson"], "ans": 2, "explanation": "Assembling cars is manufacturing (industrial production), not a service."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w11_su2",
+      "title": "11.2 Effects of Production on the Environment",
+      "notes": [
+        "Effects of Production on the Environment",
+        "",
+        "Key Concepts:",
+        "1. Positive Environmental Effects:",
+        "   - Afforestation projects by agricultural production.",
+        "   - Development of green technologies and renewable energy (e.g., solar panels).",
+        "",
+        "2. Negative Environmental Effects:",
+        "   - Pollution: Air (factory smoke), Water (oil spills, chemical dumping), and Land (solid waste).",
+        "   - Deforestation: Clearing forests for farming, construction, or logging.",
+        "   - Depletion of Natural Resources: Using resources (like crude oil or minerals) faster than nature can replenish them.",
+        "",
+        "3. Responsible Production:",
+        "   - Balancing the need to meet human wants with the need to protect the environment for future generations (Sustainable Development).",
+        "",
+        "Nigerian Context:",
+        "   - The Niger Delta has suffered severe water and land pollution due to oil spills from extractive production. Conversely, initiatives like the Great Green Wall in Northern Nigeria show how production (agriculture) can positively impact the environment through afforestation."
+      ],
+      "diagramDescriptions": ["Diagram showing positive vs. negative environmental effects of production"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies effects of production on environment pollution deforestation site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following is a NEGATIVE effect of production on the environment?", "opts": ["Job creation", "Pollution", "Improved living standards", "Availability of goods"], "ans": 1, "explanation": "Pollution (air, water, or land) is a harmful side effect of irresponsible production activities."},
+        {"q": "Clearing large areas of forest for farming or construction is known as:", "opts": ["Afforestation", "Conservation", "Deforestation", "Irrigation"], "ans": 2, "explanation": "Deforestation is the large-scale removal of trees, often for agricultural or construction purposes."},
+        {"q": "Using natural resources faster than nature can replace them is called:", "opts": ["Conservation", "Depletion", "Manufacturing", "Sustainability"], "ans": 1, "explanation": "Depletion refers to the exhaustion of natural resources due to overuse and unsustainable production."},
+        {"q": "An oil spill in a river primarily causes which type of pollution?", "opts": ["Air pollution", "Noise pollution", "Water pollution", "Light pollution"], "ans": 2, "explanation": "Oil spills contaminate water bodies, harming marine life and making the water unsafe."},
+        {"q": "Which of these is a POSITIVE effect of production on the environment?", "opts": ["Dumping untreated waste", "Afforestation and green technology", "Overfishing", "Burning of fossil fuels"], "ans": 1, "explanation": "Afforestation (planting trees) and green technology are positive environmental outcomes of certain production activities."},
+        {"q": "Factory smoke releasing harmful gases into the air is an example of:", "opts": ["Water pollution", "Land pollution", "Air pollution", "Soil conservation"], "ans": 2, "explanation": "Emissions from factories contribute directly to air pollution."},
+        {"q": "Responsible production aims to:", "opts": ["Maximize profit at all costs", "Balance meeting human needs with protecting the environment", "Stop all industrial activities", "Ignore environmental regulations"], "ans": 1, "explanation": "Responsible (sustainable) production meets current needs without compromising the ability of future generations to meet theirs."},
+        {"q": "In Nigeria, the Great Green Wall project is an example of production (agriculture) having a:", "opts": ["Negative effect through deforestation", "Positive effect through afforestation", "Neutral effect on the environment", "Depleting effect on soil"], "ans": 1, "explanation": "The Great Green Wall involves planting trees to combat desertification, a positive environmental effect."},
+        {"q": "Solid waste dumped in a community by a manufacturing plant causes:", "opts": ["Air pollution", "Land pollution", "Noise pollution", "Thermal pollution"], "ans": 1, "explanation": "Improper disposal of solid waste contaminates the land and soil."},
+        {"q": "Why is it important to consider the environmental effects of production?", "opts": ["To make products more expensive", "To ensure the earth remains habitable and resources last for future generations", "To stop all economic growth", "To reduce the workforce"], "ans": 1, "explanation": "Considering environmental effects ensures sustainable development and protects the planet for the future."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w11_su3",
+      "title": "11.3 Effects of Production on Society and Sustainable Practices",
+      "notes": [
+        "Effects of Production on Society and Sustainable Practices",
+        "",
+        "Key Concepts:",
+        "1. Positive Societal Effects:",
+        "   - Job Creation: Provides employment and income for millions of people.",
+        "   - Improved Living Standards: Makes essential goods (food, clothing, shelter) and services (healthcare, education) available.",
+        "   - Infrastructure Development: Construction of roads, hospitals, and schools.",
+        "",
+        "2. Negative Societal Effects:",
+        "   - Urban Overcrowding: Migration to cities for factory jobs can strain social services.",
+        "   - Health Issues: Communities near polluting factories may suffer from respiratory diseases.",
+        "   - Exploitation: Poor working conditions or unfair wages in unregulated production sectors.",
+        "",
+        "3. Sustainable Practices:",
+        "   - Recycling and waste management.",
+        "   - Using renewable energy sources.",
+        "   - Adhering to environmental and labor laws (e.g., NESREA regulations in Nigeria).",
+        "",
+        "Nigerian Context:",
+        "   - The establishment of industrial layouts (like those in Nnewi or Aba) creates massive employment and boosts the local economy, but requires strict adherence to safety and environmental regulations to protect the surrounding communities."
+      ],
+      "diagramDescriptions": ["Infographic showing societal benefits vs. challenges of production, and sustainable solutions"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies effects of production on society sustainable practices Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following is a POSITIVE effect of production on society?", "opts": ["Urban overcrowding", "Job creation and improved living standards", "Health issues from pollution", "Exploitation of workers"], "ans": 1, "explanation": "Production creates employment opportunities and makes essential goods and services available, improving living standards."},
+        {"q": "A negative societal effect of rapid industrial production can be:", "opts": ["Increased availability of goods", "Urban overcrowding and strain on social services", "Better infrastructure", "Higher employment rates"], "ans": 1, "explanation": "Rapid migration to industrial cities can lead to overcrowding and strain on housing, water, and healthcare."},
+        {"q": "Communities located near factories that emit toxic fumes are most likely to experience:", "opts": ["Improved respiratory health", "Health issues and diseases", "Increased agricultural yield", "Better water quality"], "ans": 1, "explanation": "Exposure to toxic emissions from production facilities often leads to respiratory and other health problems."},
+        {"q": "Which of these is an example of a sustainable production practice?", "opts": ["Dumping waste in rivers", "Clear-cutting forests without replanting", "Recycling materials and using renewable energy", "Ignoring labor laws"], "ans": 2, "explanation": "Recycling and using renewable energy minimize environmental damage and conserve resources for the future."},
+        {"q": "The National Environmental Standards and Regulations Enforcement Agency (NESREA) in Nigeria is responsible for:", "opts": ["Creating new products", "Enforcing environmental laws and regulations", "Selling goods in the market", "Providing loans to businesses"], "ans": 1, "explanation": "NESREA ensures that production activities comply with environmental standards to protect the ecosystem."},
+        {"q": "Exploitation in the production sector refers to:", "opts": ["Paying fair wages", "Providing safe working conditions", "Unfair treatment or underpayment of workers", "Offering employee training"], "ans": 2, "explanation": "Exploitation involves taking unfair advantage of workers, such as through poor wages or unsafe conditions."},
+        {"q": "How does production contribute to infrastructure development?", "opts": ["By destroying roads", "By generating wealth that can be used to build roads, hospitals, and schools", "By reducing the need for buildings", "By increasing traffic congestion only"], "ans": 1, "explanation": "The wealth and taxes generated from production activities fund the development of public infrastructure."},
+        {"q": "A company that treats its wastewater before releasing it into the environment is practicing:", "opts": ["Pollution", "Depletion", "Responsible and sustainable production", "Deforestation"], "ans": 2, "explanation": "Treating wastewater minimizes environmental harm, which is a key principle of responsible production."},
+        {"q": "Which of these is NOT a positive societal effect of production?", "opts": ["Availability of essential goods", "Creation of employment", "Spread of communicable diseases from poor waste management", "Improvement in living standards"], "ans": 2, "explanation": "The spread of disease is a negative consequence of poor production practices, not a positive effect."},
+        {"q": "Sustainable production ensures that:", "opts": ["Resources are used up as quickly as possible", "Future generations can still meet their needs", "Only the wealthy benefit from production", "Environmental laws are ignored for profit"], "ans": 1, "explanation": "Sustainability focuses on meeting present needs without compromising the ability of future generations to meet theirs."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Distinguish between commercial production and service production, giving two relevant Nigerian examples of each.",
+      "markingGuide": "Commercial production involves trade and aids to trade (1 mark), e.g., banking, transport (1 mark). Service production involves providing useful actions rather than physical goods (1 mark), e.g., teaching, healthcare (1 mark). Total: 4 marks."
+    },
+    {
+      "question": "State THREE negative effects of production on the environment and suggest ONE sustainable practice to mitigate each.",
+      "markingGuide": "1 mark for each negative effect (e.g., pollution, deforestation, depletion) and 1 mark for a corresponding sustainable practice (e.g., waste treatment, afforestation, recycling). Total: 6 marks."
+    },
+    {
+      "question": "Explain how production activities can lead to urban overcrowding in a country like Nigeria.",
+      "markingGuide": "Clear explanation linking the establishment of industries/factories in cities to rural-urban migration, leading to strain on housing and social services (5 marks, holistic)."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Colour Application",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w9_su1",
+      "title": "9.1 Meaning of Colour Application on Craft",
+      "notes": [
+        "Meaning of Colour Application on Craft",
+        "",
+        "Key Concepts:",
+        "1. Definition:",
+        "   - Colour application is the deliberate PROCESS of adding colour to a craft object using paint, dye, or other colouring materials to enhance its visual appeal.",
+        "",
+        "2. Timing in Craft Making:",
+        "   - It is a DISTINCT final stage. The craft object is first SHAPED or constructed, and colour is applied AFTERWARD to complete and enrich the finished piece.",
+        "",
+        "3. Thoughtful Application:",
+        "   - A skilled craftsperson considers the PRINCIPLES of design (harmony, balance, dominance) and COLOUR theory when deciding HOW to apply colour, ensuring the result is genuinely pleasing, not just randomly covered in colour.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian craft traditions, colour application is never an afterthought. Whether it is the vibrant indigo dyes of Adire cloth or the rich earth tones of Nok-inspired pottery, colour carries deep cultural and symbolic meaning."
+      ],
+      "diagramDescriptions": ["Diagram showing the stages of craft making, highlighting colour application as the final finishing stage"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts meaning of colour application on craft site:youtube.com",
+      "quiz": [
+        {"q": "What is colour application in craft making?", "opts": ["A random, unplanned covering of colour", "The deliberate process of adding colour to a craft object to enhance its visual appeal", "The process of shaping a craft object", "A type of craft material"], "ans": 1, "explanation": "Colour application is the intentional process of adding colour to enhance the visual appeal of a finished craft."},
+        {"q": "Colour application typically occurs ___ a craft object is shaped or constructed.", "opts": ["before, always", "at the exact same time, with no distinction", "after", "never, since colour is unrelated to craft"], "ans": 2, "explanation": "The object must first be shaped or constructed, with colour applied afterward as a distinct finishing process."},
+        {"q": "Colour application can give a craft object ___ meaning.", "opts": ["cultural or symbolic", "purely financial", "no meaning at all", "only random, meaningless"], "ans": 0, "explanation": "Beyond visual appeal, colour application often adds deep cultural or symbolic significance to a craft."},
+        {"q": "A skilled craftsperson considers ___ when applying colour.", "opts": ["only the cheapest available colour", "only the fastest way to finish", "principles of design and colour theory", "nothing at all, applying colour randomly"], "ans": 2, "explanation": "Thoughtful colour application involves applying design principles and colour theory, not random covering."},
+        {"q": "Colour application is compared to ___ in this week's analogy.", "opts": ["an unrelated random comparison", "the final, finishing touch on a well-tailored outfit", "a step with no real importance", "the very first step of making an outfit, before any cutting"], "ans": 1, "explanation": "Just as colour brings a tailored outfit to life, colour application is the final finishing touch on a crafted object."},
+        {"q": "Colour application is described as being far more than ___.", "opts": ["'just painting'", "a genuinely important, thoughtful process", "related to colour theory", "connected to design principles"], "ans": 0, "explanation": "It is far more than 'just painting' because it requires thoughtful planning and design consideration."},
+        {"q": "Applying colour with no consideration of design principles is likely to result in ___.", "opts": ["a less effective, less visually pleasing final piece", "a guaranteed masterpiece regardless", "no difference in the final result", "an automatically improved final piece"], "ans": 0, "explanation": "Without design principles, colour application can look chaotic and less visually pleasing."},
+        {"q": "Colour application enhances a craft object's ___.", "opts": ["physical size only", "nothing of value", "visual appeal", "structural weakness only"], "ans": 2, "explanation": "The primary purpose of colour application is to enhance the visual appeal and completeness of the object."},
+        {"q": "The shape/structure of a craft is compared to ___ in the outfit analogy.", "opts": ["the finishing colour touch itself", "an unrelated random element", "the cut and stitching of a garment", "nothing comparable"], "ans": 2, "explanation": "The structure is like the cut and stitching of a garment, forming the essential foundation before colour is added."},
+        {"q": "Colour, applied thoughtfully, transforms a plain structure into something ___.", "opts": ["less appealing than before", "genuinely vibrant and complete", "structurally weaker", "unchanged in appearance"], "ans": 1, "explanation": "Thoughtful colour application transforms a plain structure into a vibrant, complete, and visually appealing piece."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w9_su2",
+      "title": "9.2 Types of Craft Where Colour Can Be Applied",
+      "notes": [
+        "Types of Craft Where Colour Can Be Applied",
+        "",
+        "Key Concepts:",
+        "1. Basketry:",
+        "   - Can be coloured by DYEING the weaving material BEFORE weaving, or by PAINTING/decorating the finished woven piece.",
+        "",
+        "2. Paper Mâché:",
+        "   - Objects are typically PLAIN and dull once dried, making colour application ESSENTIAL to transform them into genuinely attractive finished pieces.",
+        "",
+        "3. Pottery:",
+        "   - Can be coloured using GLAZES (which also add a protective, often glossy coating) or painted decoration applied after FIRING (hardening the clay through heat).",
+        "",
+        "4. Carved Wood and Mosaic:",
+        "   - Carved wood can be painted or stained to highlight detail or protect the wood.",
+        "   - In mosaic, the colour of each individual fragment is itself a core design decision, chosen and arranged deliberately from the very start.",
+        "",
+        "Nigerian Context:",
+        "   - Nigerian pottery, such as the famous Abuja pottery, often uses rich, earthy glazes that are both decorative and protective, showcasing the dual purpose of colour application in traditional crafts."
+      ],
+      "diagramDescriptions": ["Visual examples of coloured basketry, paper mâché, glazed pottery, and carved wood"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts types of craft where colour can be applied site:youtube.com",
+      "quiz": [
+        {"q": "In basketry, colour can be applied by ___.", "opts": ["dyeing the material before weaving, or painting the finished piece", "only painting, never dyeing", "only dyeing, never painting", "no method at all, since basketry cannot be coloured"], "ans": 0, "explanation": "Basketry can be coloured either by dyeing the materials beforehand or painting the finished woven piece."},
+        {"q": "Colour application is especially essential for ___ objects, since they are plain and dull once dried.", "opts": ["no craft in particular", "basketry only", "mosaic", "paper mâché"], "ans": 3, "explanation": "Paper mâché objects are plain and dull once dried, making colour application essential to make them attractive."},
+        {"q": "Pottery can be coloured using ___.", "opts": ["a method unrelated to firing", "only unfired, raw clay colour", "glazes or painted decoration after firing", "no method at all"], "ans": 2, "explanation": "Pottery is typically coloured using glazes or painted decoration applied after the clay has been fired."},
+        {"q": "A pottery glaze serves ___ purpose(s).", "opts": ["both decorative and protective", "only protective, with no decorative function", "only decorative, with no protective function", "neither decorative nor protective"], "ans": 0, "explanation": "Glazes serve a dual purpose: they decorate the pottery and provide a protective, often waterproof, coating."},
+        {"q": "Carved wood objects can be coloured using ___.", "opts": ["only dye, never paint or stain", "a method unrelated to carving", "paint or stain, to highlight detail or protect the wood", "no colouring method at all"], "ans": 2, "explanation": "Carved wood is often painted or stained to highlight intricate details and protect the wood from damage."},
+        {"q": "In mosaic work, colour is a core design decision made ___.", "opts": ["randomly, with no planning", "from the very start of the design process", "only after the entire piece is finished", "never, since mosaic has no colour element"], "ans": 1, "explanation": "In mosaic, the colour of each fragment is chosen and arranged deliberately from the very start of the design."},
+        {"q": "Firing, in pottery, refers to ___.", "opts": ["hardening the clay through heat", "weaving the clay", "a step unrelated to pottery", "painting the clay"], "ans": 0, "explanation": "Firing is the process of hardening clay through high heat in a kiln."},
+        {"q": "The relationship between different crafts and colour is compared to ___.", "opts": ["rooms with no need for lighting at all", "an unrelated random comparison", "a single unchanging room", "different rooms in a house relating to lighting"], "ans": 3, "explanation": "Different crafts relate to colour application the way different rooms relate to lighting, each needing a specific approach."},
+        {"q": "Basketry patterns can be created through ___.", "opts": ["a method unrelated to colour at all", "only a single, unchanging colour", "randomness with no visual pattern", "the interplay of coloured strands"], "ans": 3, "explanation": "Colourful basketry patterns are created through the interplay and weaving of differently coloured strands."},
+        {"q": "Understanding which craft types benefit from colour application helps a craftsperson ___.", "opts": ["apply colour thoughtfully and effectively for each specific craft", "apply the exact same method to every craft regardless of type", "ignore colour application entirely", "avoid using colour in any craft"], "ans": 0, "explanation": "Knowing the specific needs of each craft type allows a craftsperson to apply colour effectively and appropriately."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w9_su3",
+      "title": "9.3 Methods of Colour Application: Dyeing, Painting, and Glazing",
+      "notes": [
+        "Methods of Colour Application: Dyeing, Painting, and Glazing",
+        "",
+        "Key Concepts:",
+        "1. Dyeing:",
+        "   - Immersing a material (like fabric or woven strands) in a liquid colour solution so the colour penetrates the fibres. Common in textiles (e.g., Adire) and basketry.",
+        "",
+        "2. Painting:",
+        "   - Applying liquid pigment (paint) to the surface of an object using a brush or tool. Common in paper mâché, carved wood, and pottery (after firing).",
+        "",
+        "3. Glazing:",
+        "   - Applying a liquid glass-like mixture to pottery before firing. It melts during firing to create a hard, glossy, and often waterproof coloured surface.",
+        "",
+        "Nigerian Context:",
+        "   - The ancient art of Adire dyeing in Ogun State is a prime example of dyeing, while the contemporary Abuja pottery scene beautifully demonstrates the use of glazing to create vibrant, durable ceramic art."
+      ],
+      "diagramDescriptions": ["Comparison chart of dyeing, painting, and glazing techniques with craft examples"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts methods of colour application dyeing painting glazing site:youtube.com",
+      "quiz": [
+        {"q": "Immersing a material in a liquid colour solution so the colour penetrates the fibres is called ___.", "opts": ["painting", "glazing", "dyeing", "carving"], "ans": 2, "explanation": "Dyeing involves immersing materials in a liquid colour solution to penetrate the fibres."},
+        {"q": "Applying liquid pigment to the surface of an object using a brush is called ___.", "opts": ["dyeing", "glazing", "painting", "weaving"], "ans": 2, "explanation": "Painting is the application of liquid pigment to a surface using a brush or tool."},
+        {"q": "Applying a liquid glass-like mixture to pottery before firing is called ___.", "opts": ["dyeing", "glazing", "painting", "staining"], "ans": 1, "explanation": "Glazing involves applying a glass-like mixture to pottery that melts and hardens during firing."},
+        {"q": "Which method is most commonly used for colouring traditional Adire cloth?", "opts": ["Glazing", "Painting", "Dyeing", "Carving"], "ans": 2, "explanation": "Adire cloth is traditionally coloured using dyeing techniques, where the fabric is immersed in indigo dye."},
+        {"q": "What happens to a glaze during the firing process in pottery?", "opts": ["It evaporates completely", "It melts to create a hard, glossy, coloured surface", "It turns into a powder", "It changes the shape of the clay"], "ans": 1, "explanation": "During firing, the glaze melts and fuses to the clay, creating a hard, glossy, and often waterproof surface."},
+        {"q": "Which craft is most likely to be coloured using a stain to highlight detail?", "opts": ["Paper mâché", "Carved wood", "Woven basketry", "Mosaic"], "ans": 1, "explanation": "Carved wood is often stained to highlight the intricate details of the carving and protect the wood."},
+        {"q": "Dyeing is different from painting because dyeing ___.", "opts": ["only sits on the surface", "penetrates the fibres of the material", "requires a brush", "is only used on wood"], "ans": 1, "explanation": "Dyeing penetrates the fibres of the material, whereas painting typically sits on the surface."},
+        {"q": "Which of these crafts relies on the colour of individual fragments chosen from the start?", "opts": ["Basketry", "Paper mâché", "Mosaic", "Pottery"], "ans": 2, "explanation": "In mosaic, the colour of each individual fragment is a core design decision made from the start."},
+        {"q": "A craftsperson choosing to paint a paper mâché object rather than dye it is likely doing so because ___.", "opts": ["dyeing is impossible on paper", "painting allows for detailed surface designs and patterns", "dyeing is always more expensive", "paper mâché cannot hold any colour"], "ans": 1, "explanation": "Painting allows for precise, detailed surface designs and patterns on a solid paper mâché object."},
+        {"q": "The choice of colour application method depends primarily on ___.", "opts": ["the weather on the day of crafting", "the type of material and the desired final effect", "the colour of the craftsperson's clothes", "the size of the workshop"], "ans": 1, "explanation": "The method chosen depends on the material being used and the specific visual or protective effect desired."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of colour application, and when it typically occurs in the craft-making process.",
+      "markingGuide": "Clear definition (2.5); correct timing explanation (2.5)."
+    },
+    {
+      "question": "Explain why colour application is described as 'far more than just painting,' referencing design principles or colour theory.",
+      "markingGuide": "Clear explanation with reference to design principles/colour theory (5, holistic)."
+    },
+    {
+      "question": "Name FOUR types of craft where colour application is commonly used, briefly describing how colour is applied to each.",
+      "markingGuide": "1.25 marks per correctly named craft type with a valid application method (5 total)."
+    },
+    {
+      "question": "Explain why colour application is especially essential for paper mâché objects, and describe the dual purpose of a pottery glaze.",
+      "markingGuide": "Clear explanation for paper mâché (2.5); correct dual-purpose explanation for glaze (2.5)."
+    },
+    {
+      "question": "Explain, using an example, why the timing and method of colour application differs between crafts like pottery and mosaic.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

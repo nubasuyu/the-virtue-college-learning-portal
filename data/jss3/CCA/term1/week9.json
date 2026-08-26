@@ -1,0 +1,140 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Excursion: Visiting Galleries and Museums",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w9_su1",
+      "title": "9.1 The Value of Excursions to Galleries and Museums",
+      "notes": [
+        "The Value of Excursions to Galleries and Museums",
+        "",
+        "Key Concepts:",
+        "1. Direct Viewing Experience:",
+        "   - Seeing artwork DIRECTLY, at its actual SIZE, with its true colours, texture, and physical presence, gives students a far richer, more ACCURATE understanding than any printed reproduction can provide.",
+        "",
+        "2. Exposure to Wider Artistic Contexts:",
+        "   - Excursions expose students to a WIDER range of artistic styles, periods, and cultures than a single classroom could cover.",
+        "",
+        "3. Modelling Professional Practice:",
+        "   - Visits model how PROFESSIONAL artistic spaces are organised and presented, connecting directly to the display and exhibition techniques studied in recent weeks.",
+        "",
+        "4. Inspiring Creative Development:",
+        "   - Excursions often INSPIRE students' own creative development, exposing them to genuinely accomplished work that can spark new ideas, ambitions, and artistic curiosity.",
+        "",
+        "Nigerian Context:",
+        "   - Visiting institutions like the Nike Art Gallery in Lagos or the National Museum in Abuja provides Nigerian students with tangible connections to their own rich cultural heritage and contemporary artistic achievements."
+      ],
+      "diagramDescriptions": ["Diagram comparing a flat textbook photograph to the 3D reality of viewing art in person"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts value of art excursions galleries museums site:youtube.com",
+      "quiz": [
+        {"q": "Why does direct viewing at a gallery or museum offer richer understanding than a textbook photograph?", "opts": ["It offers no additional value at all", "It shows true scale, colour, and texture that photographs cannot fully capture", "There is no meaningful difference between the two", "Photographs always show more detail than the real artwork"], "ans": 1, "explanation": "A photograph cannot fully capture a sculpture's true scale, texture, and physical presence, while seeing it in person gives a richer, more accurate understanding."},
+        {"q": "Excursions expose students to ___.", "opts": ["no new artistic experiences at all", "only styles already covered in class", "a wider range of artistic styles, periods, and cultures", "nothing beyond the classroom textbook"], "ans": 2, "explanation": "Excursions broaden students' horizons beyond the limited scope of a single classroom textbook."},
+        {"q": "Excursions can model how ___ are organised and presented.", "opts": ["nothing related to art presentation", "unrelated business environments", "professional artistic spaces", "only classroom settings"], "ans": 2, "explanation": "Visiting galleries and museums shows students how professional display and exhibition techniques are applied in real life."},
+        {"q": "Excursions can ___ students' own creative development.", "opts": ["inspire", "have no effect on", "permanently damage", "discourage entirely"], "ans": 0, "explanation": "Seeing accomplished work in person can spark new ideas, ambitions, and artistic curiosity in students."},
+        {"q": "A gallery visit is compared to ___ in this week's analogy.", "opts": ["meeting a celebrated author face-to-face, rather than reading a summary", "reading only a summary, with no real encounter", "an unrelated random comparison", "an experience with no real value"], "ans": 0, "explanation": "Just as meeting an author gives a deeper understanding than reading a summary, seeing art in person gives a genuine encounter that a photo cannot replace."},
+        {"q": "Excursions connect classroom learning about display techniques to ___.", "opts": ["unrelated, irrelevant contexts", "real, professional practice", "a completely theoretical concept with no real application", "nothing practical at all"], "ans": 1, "explanation": "An excursion lets students see display techniques (categorizing, mounting, space design) applied in real, professional practice."},
+        {"q": "An excursion should be recognised as having ___ educational value, beyond being simply a 'fun day out'.", "opts": ["purely recreational, with no learning value", "no real", "genuine, substantial", "negative, harmful"], "ans": 2, "explanation": "Excursions have genuine, substantial educational value that goes far beyond mere recreation."},
+        {"q": "Seeing artwork's true colour and brushwork texture is best achieved through ___.", "opts": ["a printed textbook photograph alone", "verbal description alone, with no visual reference", "no viewing method at all", "direct, in-person viewing"], "ans": 3, "explanation": "Direct, in-person viewing is the only way to truly appreciate the texture, scale, and exact colour of an artwork."},
+        {"q": "Excursions can spark students' ___.", "opts": ["new ideas, ambitions, and artistic curiosity", "no new thoughts or ideas at all", "confusion with no educational benefit", "complete disinterest in art"], "ans": 0, "explanation": "Exposure to professional, accomplished work inspires students to develop their own artistic ambitions."},
+        {"q": "Classroom instruction alone, without excursions, typically ___.", "opts": ["is always superior to any excursion", "provides an identical experience to an excursion", "cannot fully replicate the direct, hands-on gallery/museum experience", "has no connection to gallery or museum learning"], "ans": 2, "explanation": "While valuable, classroom instruction alone cannot fully replicate the immersive, direct experience of an excursion."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w9_su2",
+      "title": "9.2 The Art Gallery: Purpose, Artists, and Commercial Focus",
+      "notes": [
+        "The Art Gallery: Purpose, Artists, and Commercial Focus",
+        "",
+        "Key Concepts:",
+        "1. Primary Purpose:",
+        "   - A GALLERY is PRIMARILY focused on displaying (and often SELLING) CONTEMPORARY or relatively recent artwork.",
+        "",
+        "2. Artists Represented:",
+        "   - Galleries frequently represent LIVING artists whose work can typically be PURCHASED directly by visitors or collectors.",
+        "",
+        "3. Exhibition Duration:",
+        "   - Galleries often rotate their EXHIBITIONS relatively frequently, showcasing different artists, themes, or collections over time to keep the space dynamic and commercially active.",
+        "",
+        "Nigerian Context:",
+        "   - Prominent Nigerian galleries, such as the Nike Art Gallery in Lagos or Thought Pyramid Art Centre in Abuja, regularly host rotating exhibitions of living Nigerian artists, providing a platform for both cultural expression and commercial art sales."
+      ],
+      "diagramDescriptions": ["Visual representation of a modern art gallery with price tags and contemporary artwork"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts purpose of art galleries contemporary art site:youtube.com",
+      "quiz": [
+        {"q": "A gallery is primarily focused on ___.", "opts": ["nothing related to art", "research with no display element", "preserving ancient historical artefacts exclusively", "displaying and often selling contemporary artwork"], "ans": 3, "explanation": "Galleries primarily focus on displaying and selling contemporary or recent artwork."},
+        {"q": "Gallery artwork is typically ___.", "opts": ["available for purchase", "never for sale under any circumstances", "unrelated to living artists", "always extremely ancient"], "ans": 0, "explanation": "A key feature of galleries is that the artwork is often available for purchase by visitors or collectors."},
+        {"q": "A gallery often represents ___.", "opts": ["living artists", "only artists who are no longer living", "no artists at all", "only historical, ancient artists"], "ans": 0, "explanation": "Galleries frequently represent and promote the work of living, contemporary artists."},
+        {"q": "Gallery exhibitions typically last ___ compared to museum exhibits.", "opts": ["exactly the same duration", "a duration entirely unrelated to timing", "much longer", "for a much shorter time"], "ans": 3, "explanation": "Galleries rotate their exhibitions frequently to showcase new artists and keep the space commercially active."},
+        {"q": "The key practical difference for a visitor is that gallery artwork can typically be ___, while museum pieces typically cannot.", "opts": ["touched, with no other distinction", "photographed, with no other distinction", "only viewed from a great distance, with no other distinction", "purchased"], "ans": 3, "explanation": "Galleries are commercial spaces where artwork is often available for purchase, unlike museums."},
+        {"q": "A visitor sees a contemporary Nigerian painting displayed with a price tag, created by a living artist. This is most likely a ___.", "opts": ["museum", "gallery", "historical archive", "university library"], "ans": 1, "explanation": "The presence of a price tag, contemporary work, and a living artist strongly indicates a commercial gallery setting."},
+        {"q": "Galleries often rotate their exhibitions to ___.", "opts": ["confuse visitors", "keep the space dynamic and commercially active", "avoid paying taxes", "hide older artworks permanently"], "ans": 1, "explanation": "Frequent rotation keeps the gallery dynamic, attracts repeat visitors, and promotes new artists for sale."},
+        {"q": "Which of the following is a primary goal of a commercial art gallery?", "opts": ["To preserve ancient artefacts", "To conduct historical research", "To sell artwork and promote living artists", "To provide free public education only"], "ans": 2, "explanation": "Commercial galleries aim to sell artwork and promote the careers of the living artists they represent."},
+        {"q": "Galleries and museums are compared to ___ in this week's analogy.", "opts": ["a market stall with no connection to art", "an unrelated random comparison", "two identical, indistinguishable concepts", "a farmer's market stall versus a preserved family heirloom collection"], "ans": 3, "explanation": "A gallery is like a market stall (fresh, current, for sale), while a museum is like a preserved heirloom collection (kept safe, not for sale)."},
+        {"q": "The Nike Art Gallery in Lagos is an example of a space that ___.", "opts": ["only displays ancient, non-Nigerian artefacts", "hosts rotating exhibitions of living Nigerian artists", "is strictly a historical research facility", "does not allow public viewing"], "ans": 1, "explanation": "The Nike Art Gallery is a prominent Nigerian gallery known for showcasing contemporary, living Nigerian artists."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w9_su3",
+      "title": "9.3 The Museum: Preservation, Research, and Educational Focus",
+      "notes": [
+        "The Museum: Preservation, Research, and Educational Focus",
+        "",
+        "Key Concepts:",
+        "1. Primary Purpose:",
+        "   - A MUSEUM is PRIMARILY focused on PRESERVING, researching, and displaying artwork (and often other historical or cultural OBJECTS) of significant historical, cultural, or artistic VALUE.",
+        "",
+        "2. Collection Characteristics:",
+        "   - Museum collections are typically NOT for sale.",
+        "   - Pieces are often much OLDER, sometimes representing artists no longer living, though they can include culturally significant recent work.",
+        "",
+        "3. Educational Emphasis:",
+        "   - Museum exhibits tend to remain in place LONGER than gallery exhibitions.",
+        "   - Museums place greater emphasis on EDUCATIONAL context (detailed historical information, guided tours, plaques) rather than direct commercial sale.",
+        "",
+        "Nigerian Context:",
+        "   - Institutions like the National Museum in Lagos or the Benin City National Museum focus on preserving Nigeria's rich heritage, including ancient Nok terracotta and Benin Bronzes, providing deep educational context for visitors."
+      ],
+      "diagramDescriptions": ["Visual representation of a museum exhibit with informational plaques and historical artefacts"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts purpose of museums preservation education site:youtube.com",
+      "quiz": [
+        {"q": "A museum is primarily focused on ___.", "opts": ["preserving, researching, and displaying culturally/historically significant work", "nothing related to preservation", "only living artists' work", "only selling contemporary artwork"], "ans": 0, "explanation": "Museums focus on preserving, researching, and displaying work of significant historical or cultural value."},
+        {"q": "Museum collections are typically ___.", "opts": ["unrelated to historical significance", "always available for purchase", "not for sale", "exclusively contemporary work"], "ans": 2, "explanation": "Unlike galleries, museum collections are preserved for the public and are typically not for sale."},
+        {"q": "Museums place greater emphasis on ___ compared to galleries.", "opts": ["living artists exclusively", "frequently rotating exhibitions", "educational context", "commercial sales"], "ans": 2, "explanation": "Museums prioritize educational context, historical information, and research over commercial sales."},
+        {"q": "A museum's collection is often ___.", "opts": ["much older, sometimes representing artists no longer living", "never connected to cultural significance", "entirely unrelated to any historical period", "always extremely recent, from currently living artists only"], "ans": 0, "explanation": "Museum collections often feature older, historically significant work, though they can include recent culturally significant pieces."},
+        {"q": "Museum exhibits tend to remain in place ___ compared to gallery exhibitions.", "opts": ["a duration entirely unrelated to timing", "for a much longer time", "for a much shorter time", "for exactly the same duration"], "ans": 1, "explanation": "Museum exhibits are designed for long-term preservation and education, so they remain in place much longer than rotating gallery shows."},
+        {"q": "A visitor wants to learn about the historical context of ancient Benin Bronzes. They should visit a ___.", "opts": ["commercial gallery", "museum", "art auction house", "private collector's home"], "ans": 1, "explanation": "Museums are dedicated to preserving and providing educational context for historically significant artefacts like the Benin Bronzes."},
+        {"q": "Which of the following is a key feature of a museum's approach to its collection?", "opts": ["Selling pieces to the highest bidder", "Preserving them for future generations", "Frequently rotating them to keep the space fresh", "Keeping them hidden from the public"], "ans": 1, "explanation": "The core mission of a museum is the long-term preservation and education surrounding its collection."},
+        {"q": "Museum displays typically include ___ to enhance the educational experience.", "opts": ["price tags", "detailed historical information and plaques", "auction bids", "commercial advertisements"], "ans": 1, "explanation": "Museums use detailed plaques, guided tours, and historical information to educate visitors about the artefacts."},
+        {"q": "The National Museum in Abuja is an example of an institution that ___.", "opts": ["primarily sells contemporary art", "preserves and researches Nigeria's cultural heritage", "only displays foreign art", "focuses solely on commercial profit"], "ans": 1, "explanation": "The National Museum is dedicated to preserving, researching, and displaying Nigeria's rich cultural and historical heritage."},
+        {"q": "The key difference in purpose between a gallery and a museum is that a gallery focuses on ___, while a museum focuses on ___.", "opts": ["preservation; commercial sale", "commercial sale and contemporary display; preservation and education", "education; research", "ancient artefacts; living artists"], "ans": 1, "explanation": "Galleries focus on displaying and selling contemporary work, while museums focus on preserving and educating about historically significant work."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain THREE ways an excursion to a gallery or museum benefits students, beyond what a classroom lesson alone can offer.",
+      "markingGuide": "1.5–2 marks per valid, clearly stated benefit (e.g., true scale/texture, wider exposure, professional modelling, inspiration) (5 total for three)."
+    },
+    {
+      "question": "Explain why direct, in-person viewing of artwork provides a richer understanding than studying a photograph of the same piece.",
+      "markingGuide": "Clear, accurate explanation referencing scale, texture, colour, and physical presence (5, holistic)."
+    },
+    {
+      "question": "Distinguish between a gallery and a museum, addressing their primary purpose and whether artwork is typically for sale.",
+      "markingGuide": "2.5 marks each for a correct, clear distinction covering both institutions' purposes and commercial aspects."
+    },
+    {
+      "question": "A visitor wants to purchase a contemporary painting by a living Nigerian artist. Should they visit a gallery or a museum? Explain your reasoning.",
+      "markingGuide": "Correct recommendation of a gallery (2.5); clear reasoning based on commercial focus and living artists (2.5)."
+    },
+    {
+      "question": "Explain, using the 'market stall versus family heirloom collection' analogy or your own example, the key difference in purpose between a gallery and a museum.",
+      "markingGuide": "Clear explanation with a valid supporting example demonstrating commercial display vs. preservation/education (5, holistic)."
+    }
+  ]
+}

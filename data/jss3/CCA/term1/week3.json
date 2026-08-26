@@ -1,0 +1,156 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Contemporary Nigerian Art and Artists",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w3_su1",
+      "title": "3.1 Definition of Contemporary Art and Artist",
+      "notes": [
+        "Definition of Contemporary Art and Artist",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Contemporary Art:",
+        "   - Artwork created in the MODERN era (broadly, from the 20th century onward).",
+        "   - Typically emphasises the INDIVIDUAL artist's personal vision, innovation, and creative EXPRESSION.",
+        "   - Often draws on traditional techniques and themes, but reinterprets them in NEW, personal ways rather than strictly following inherited conventions.",
+        "",
+        "2. Meaning of Contemporary Artist:",
+        "   - An individual creator working within this modern tradition.",
+        "   - Often TRAINED formally (through art school or academic study).",
+        "   - Recognised for their PERSONAL artistic style and body of work.",
+        "",
+        "3. Development of Nigerian Contemporary Art:",
+        "   - Emerged significantly during the COLONIAL and post-independence periods.",
+        "   - Nigerian artists began combining INDIGENOUS artistic themes and materials with techniques and ideas encountered through WESTERN art education.",
+        "",
+        "Nigerian Context:",
+        "   - If traditional art is a recipe passed down through generations, contemporary art is a skilled chef who has learned that traditional recipe deeply, then confidently INVENTS their own personal, original dishes inspired by it."
+      ],
+      "diagramDescriptions": ["Diagram contrasting traditional art (inherited conventions) with contemporary art (individual vision and innovation)"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts definition of contemporary art and artist Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "What is contemporary art?", "opts": ["Only ancient artwork with no modern relevance", "Artwork created in the modern era, emphasising individual vision and personal expression", "Art with no connection to any artist", "A type of craft tool"], "ans": 1, "explanation": "Contemporary art is modern-era artwork that emphasises the individual artist's personal vision and innovation."},
+        {"q": "A contemporary artist is typically ___.", "opts": ["someone who strictly follows only inherited community conventions", "formally trained and recognised for a personal artistic style", "unrelated to any modern art movement", "someone with no individual artistic vision"], "ans": 1, "explanation": "Contemporary artists are often formally trained and recognised for their unique, personal artistic style."},
+        {"q": "Nigerian contemporary art emerged significantly during ___.", "opts": ["ancient prehistoric times only", "a period with no historical significance", "the colonial and post-independence periods", "a time unrelated to Nigerian history"], "ans": 2, "explanation": "It emerged significantly during the colonial and post-independence periods as artists blended indigenous and Western influences."},
+        {"q": "Nigerian contemporary art often combines ___.", "opts": ["indigenous artistic themes with techniques encountered through Western art education", "only foreign themes, with no Nigerian connection", "nothing related to Nigerian culture", "purely random, unrelated elements"], "ans": 0, "explanation": "It blends indigenous Nigerian themes with techniques learned through formal Western art education."},
+        {"q": "Contemporary art typically emphasises ___.", "opts": ["strictly inherited conventions only, with no personal expression", "individual artistic vision and innovation", "ancient techniques exclusively", "no artistic expression at all"], "ans": 1, "explanation": "Unlike traditional art's focus on inherited conventions, contemporary art emphasises individual vision and innovation."},
+        {"q": "Contemporary art is compared to ___ in this week's analogy.", "opts": ["a chef with no connection to any tradition", "a chef who never deviates from an inherited recipe", "an unrelated random comparison", "a skilled chef inventing personal original dishes inspired by a traditional recipe"], "ans": 3, "explanation": "It is like a skilled chef using a traditional recipe as inspiration to invent their own original, personal dishes."},
+        {"q": "A formally trained Nigerian painter creating original work inspired by traditional themes, in her own style, is best classified as ___.", "opts": ["purely a traditional artist, with no personal style", "a contemporary artist", "unrelated to Nigerian art entirely", "someone with no artistic classification"], "ans": 1, "explanation": "She is a contemporary artist because she is formally trained and expresses her own personal style, even while drawing on traditional themes."},
+        {"q": "Contemporary art often reinterprets traditional themes in ___ ways.", "opts": ["foreign, non-Nigerian", "completely unrelated", "strictly identical, unchanged", "new, personal"], "ans": 3, "explanation": "Contemporary artists reinterpret traditional themes in new, personal ways rather than copying them exactly."},
+        {"q": "'Contemporary,' as an art-historical term, refers to ___.", "opts": ["a broad modern era and approach to art", "simply meaning 'very new' in a casual sense only", "a term unrelated to any specific era", "ancient, prehistoric art exclusively"], "ans": 0, "explanation": "It refers to a broad modern era and approach to art, not just casually 'new' things."},
+        {"q": "Nigerian contemporary art respects traditional heritage while ___.", "opts": ["remaining entirely unchanged from tradition", "pushing into fresh creative territory", "ignoring Nigerian culture entirely", "completely rejecting all traditional influence"], "ans": 1, "explanation": "It respects traditional heritage while pushing into fresh, innovative creative territory."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w3_su2",
+      "title": "3.2 Pioneer Nigerian Contemporary Artists",
+      "notes": [
+        "Pioneer Nigerian Contemporary Artists",
+        "",
+        "Key Concepts:",
+        "1. Aina Onabolu:",
+        "   - Widely regarded as the 'FATHER of modern Nigerian art'.",
+        "   - Among the FIRST Nigerian artists to formally study Western-style PAINTING.",
+        "   - Advocated strongly for art education in Nigerian schools during the early 20th century.",
+        "",
+        "2. Akinola Lasekan:",
+        "   - A pioneering PAINTER and ILLUSTRATOR.",
+        "   - Well known for his POLITICAL cartoons and illustrations supporting Nigeria's independence movement.",
+        "",
+        "3. Ladi Kwali:",
+        "   - A celebrated POTTER from Gwari (Gbagyi) heritage.",
+        "   - Renowned WORLDWIDE for her distinctive, traditionally-inspired pottery techniques.",
+        "   - Her image appears on Nigerian currency, honouring her significant contribution.",
+        "",
+        "4. Bruce Onobrakpeya:",
+        "   - A celebrated MULTI-DISCIPLINARY artist.",
+        "   - Particularly renowned for his innovative PRINTMAKING (including a technique called 'plastography' that he developed).",
+        "   - Draws deeply on Nigerian mythology and tradition in his work.",
+        "",
+        "Nigerian Context:",
+        "   - These pioneer artists are like the first explorers who each opened a different door into modern Nigerian art's vast new territory."
+      ],
+      "diagramDescriptions": ["Portraits or representative works of Aina Onabolu, Akinola Lasekan, Ladi Kwali, and Bruce Onobrakpeya"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts pioneer Nigerian contemporary artists Onabolu Lasekan Kwali Onobrakpeya site:youtube.com",
+      "quiz": [
+        {"q": "Who is widely regarded as the 'Father of modern Nigerian art'?", "opts": ["Ladi Kwali", "Akinola Lasekan", "Bruce Onobrakpeya", "Aina Onabolu"], "ans": 3, "explanation": "Aina Onabolu is widely regarded as the Father of modern Nigerian art."},
+        {"q": "Aina Onabolu is especially known for pioneering ___.", "opts": ["political cartooning exclusively", "formal Western-style painting study and art education in Nigeria", "traditional pottery techniques", "printmaking innovation"], "ans": 1, "explanation": "He pioneered formal Western-style painting study and strongly advocated for art education in Nigerian schools."},
+        {"q": "Akinola Lasekan is well known for his ___.", "opts": ["political cartoons and illustrations supporting independence", "formal Western painting education pioneering", "printmaking innovation", "pottery techniques"], "ans": 0, "explanation": "Lasekan was a pioneering painter and illustrator known for political cartoons supporting independence."},
+        {"q": "Ladi Kwali was a celebrated ___.", "opts": ["printmaker exclusively", "cartoonist exclusively", "potter", "painter exclusively"], "ans": 2, "explanation": "Ladi Kwali was a world-renowned potter from Gwari (Gbagyi) heritage."},
+        {"q": "Ladi Kwali's significant contribution has been honoured by ___.", "opts": ["recognition only outside Nigeria", "no public recognition at all", "her image appearing on Nigerian currency", "no honour of any kind"], "ans": 2, "explanation": "Her image appears on Nigerian currency, honouring her significant contribution to Nigerian art."},
+        {"q": "Bruce Onobrakpeya is renowned for his innovative ___.", "opts": ["formal painting education pioneering", "pottery techniques exclusively", "printmaking (including a technique he developed called plastography)", "political cartooning exclusively"], "ans": 2, "explanation": "Onobrakpeya is renowned for his innovative printmaking, including the 'plastography' technique he developed."},
+        {"q": "Bruce Onobrakpeya's work draws deeply on ___.", "opts": ["Nigerian mythology and tradition", "no cultural themes at all", "only foreign, non-Nigerian themes", "purely abstract, unrelated concepts"], "ans": 0, "explanation": "His work draws deeply on Nigerian mythology and traditional themes."},
+        {"q": "Ladi Kwali's pottery techniques were inspired by ___ heritage.", "opts": ["no specific heritage at all", "purely foreign, non-Nigerian", "a heritage unrelated to Nigeria", "Gwari (Gbagyi)"], "ans": 3, "explanation": "Ladi Kwali's pottery techniques were inspired by her Gwari (Gbagyi) heritage."},
+        {"q": "These pioneer artists are compared to ___ in this week's analogy.", "opts": ["a single unchanging artist with no variety", "explorers who each opened a different door into modern Nigerian art", "explorers with no real contribution", "unrelated figures with no shared connection"], "ans": 1, "explanation": "They are like explorers who each opened a different door into modern Nigerian art's vast new territory."},
+        {"q": "Akinola Lasekan's cartoons supported ___.", "opts": ["Nigeria's independence movement", "foreign political movements exclusively", "no political cause at all", "a movement unrelated to Nigerian history"], "ans": 0, "explanation": "Lasekan's political cartoons and illustrations actively supported Nigeria's independence movement."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w3_su3",
+      "title": "3.3 Practical Identification of Pioneer Contributions",
+      "notes": [
+        "Practical Identification of Pioneer Contributions",
+        "",
+        "Key Concepts:",
+        "1. Distinguishing Mediums:",
+        "   - Onabolu = Painting / Art Education advocacy.",
+        "   - Lasekan = Painting / Illustration / Political cartoons.",
+        "   - Kwali = Pottery / Ceramics.",
+        "   - Onobrakpeya = Printmaking / Plastography.",
+        "",
+        "2. Distinguishing Historical Context:",
+        "   - Onabolu and Lasekan were pivotal in the early-to-mid 20th century (colonial/independence era).",
+        "   - Kwali gained international fame mid-century, bridging traditional craft and contemporary recognition.",
+        "   - Onobrakpeya represents the ongoing, innovative evolution of Nigerian contemporary art.",
+        "",
+        "3. Avoiding Common Mistakes:",
+        "   - Do not confuse the specific contributions of each pioneer artist.",
+        "   - Do not underestimate how these pioneers combined TRADITIONAL Nigerian themes with NEW techniques or formal education.",
+        "",
+        "Nigerian Context:",
+        "   - In examinations, students are frequently asked to match the artist to their specific medium and historical achievement."
+      ],
+      "diagramDescriptions": ["Matching chart linking each pioneer artist to their specific medium and key achievement"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts practical identification pioneer Nigerian artists contributions site:youtube.com",
+      "quiz": [
+        {"q": "Which pioneer artist is primarily associated with advocating for art education in Nigerian schools?", "opts": ["Ladi Kwali", "Bruce Onobrakpeya", "Akinola Lasekan", "Aina Onabolu"], "ans": 3, "explanation": "Aina Onabolu strongly advocated for the inclusion of art education in Nigerian schools."},
+        {"q": "If an artwork is a political cartoon supporting independence, it is most likely by ___.", "opts": ["Ladi Kwali", "Akinola Lasekan", "Bruce Onobrakpeya", "Aina Onabolu"], "ans": 1, "explanation": "Akinola Lasekan is well known for his political cartoons and illustrations supporting independence."},
+        {"q": "An artist known for innovative printmaking and 'plastography' is ___.", "opts": ["Aina Onabolu", "Ladi Kwali", "Bruce Onobrakpeya", "Akinola Lasekan"], "ans": 2, "explanation": "Bruce Onobrakpeya is renowned for his innovative printmaking, including the plastography technique."},
+        {"q": "An artwork featuring traditional Gwari pottery techniques is most likely associated with ___.", "opts": ["Aina Onabolu", "Ladi Kwali", "Bruce Onob", "Akinola Lasekan"], "ans": 1, "explanation": "Ladi Kwali was a celebrated potter from Gwari (Gbagyi) heritage."},
+        {"q": "Which of these artists is known for bridging traditional craft skill with worldwide contemporary recognition?", "opts": ["Aina Onabolu", "Akinola Lasekan", "Ladi Kwali", "Bruce Onobrakpeya"], "ans": 2, "explanation": "Ladi Kwali's traditional pottery gained her worldwide recognition, even appearing on Nigerian currency."},
+        {"q": "Confusing the specific contributions of each pioneer artist is a mistake because ___.", "opts": ["they all worked in the exact same medium", "each is known for a distinct medium and specific historical achievement", "they have no historical significance", "their work is indistinguishable"], "ans": 1, "explanation": "Each pioneer is known for a distinct medium (painting, pottery, printmaking) and specific historical achievement."},
+        {"q": "These pioneers combined traditional Nigerian themes with ___.", "opts": ["no new techniques at all", "purely foreign themes, rejecting Nigerian culture", "new techniques or formal education", "random, unrelated concepts"], "ans": 2, "explanation": "They successfully blended indigenous Nigerian themes with new techniques or formal Western art education."},
+        {"q": "Aina Onabolu's significance lies in being the first to ___.", "opts": ["invent plastography", "formally study Western-style painting and advocate for art education", "create political cartoons for independence", "have his image on Nigerian currency"], "ans": 1, "explanation": "Onabolu was among the first to formally study Western-style painting and advocate for art education in Nigeria."},
+        {"q": "Bruce Onobrakpeya's work is deeply rooted in ___.", "opts": ["purely abstract concepts with no cultural meaning", "Nigerian mythology and tradition", "only Western, non-Nigerian themes", "modern digital technology exclusively"], "ans": 1, "explanation": "His printmaking and plastography draw deeply on Nigerian mythology and traditional themes."},
+        {"q": "Understanding these pioneers helps us appreciate ___.", "opts": ["only foreign artistic achievements", "nothing of cultural or historical value", "art with no historical significance", "the depth and sophistication of Nigeria's modern artistic heritage"], "ans": 3, "explanation": "These pioneers laid the foundation for the depth and sophistication of Nigeria's modern artistic heritage."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of contemporary art and contemporary artist.",
+      "markingGuide": "2.5 marks each for a correct, clear definition."
+    },
+    {
+      "question": "Explain how Nigerian contemporary art developed, referencing its historical context.",
+      "markingGuide": "Clear explanation referencing the colonial/post-independence period and blending of indigenous/Western influences (5, holistic)."
+    },
+    {
+      "question": "Name and describe the contributions of TWO pioneer Nigerian contemporary artists.",
+      "markingGuide": "2.5 marks each for a correctly named artist with an accurate description of their contribution."
+    },
+    {
+      "question": "Explain Aina Onabolu's significance to Nigerian art history.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "Explain, using the 'explorers opening doors' analogy or your own example, how these four pioneer artists each contributed something DIFFERENT to Nigerian contemporary art.",
+      "markingGuide": "Clear explanation with a valid supporting example distinguishing at least two artists' contributions (5, holistic)."
+    }
+  ]
+}

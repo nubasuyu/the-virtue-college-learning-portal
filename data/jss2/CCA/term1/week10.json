@@ -1,0 +1,142 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Practical on Colour Application",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w10_su1",
+      "title": "10.1 Applying Colour on a Named Craft",
+      "notes": [
+        "Applying Colour on a Named Craft",
+        "",
+        "Key Concepts:",
+        "1. Preparation:",
+        "   - Ensure the object is COMPLETELY dry and clean of dust or debris before starting.",
+        "   - Apply a BASE COAT of a single, neutral colour first if needed (this creates an even surface and helps subsequent colours appear TRUE).",
+        "",
+        "2. Planning and Layering:",
+        "   - PLAN your colour scheme in advance, considering harmony, dominance, and the object's intended use.",
+        "   - Apply colours in LAYERS, working from LARGER background areas to SMALLER detailed areas.",
+        "",
+        "3. Drying and Finishing:",
+        "   - Allow each layer to DRY before adding further detail on top, to avoid smudging or muddying the colours.",
+        "   - Finish with a PROTECTIVE coat (like varnish) if the object will be handled or displayed long-term.",
+        "",
+        "Nigerian Context:",
+        "   - When decorating traditional Nigerian wooden masks or contemporary paper mâché projects in school, patience in layering and drying is what separates a muddy, amateur finish from a vibrant, professional-looking artwork."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to applying colour to a craft object, from base coat to protective finish"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts applying colour on a named craft paper mache site:youtube.com",
+      "quiz": [
+        {"q": "Before applying colour, the craft object should be ___.", "opts": ["covered in dust", "still wet from construction", "completely dry and clean", "left in an unfinished state"], "ans": 2, "explanation": "The object must be completely dry and clean to ensure the colour adheres properly and looks even."},
+        {"q": "A base coat is applied to ___.", "opts": ["create an even surface and ensure true colour appearance", "replace the need for any further colour", "have no real purpose", "make the final colours look worse"], "ans": 0, "explanation": "A base coat creates an even surface and prevents the raw material's colour from affecting subsequent layers."},
+        {"q": "Colours should generally be applied ___.", "opts": ["all at once, with no sequence", "in no particular order", "from large background areas to small detailed areas", "from small details to large areas first"], "ans": 2, "explanation": "Working from large background areas to small details ensures a clean, organised layering process."},
+        {"q": "Each colour layer should be allowed to ___ before adding further detail.", "opts": ["dry", "remain wet indefinitely", "be washed off entirely", "be immediately covered while still wet"], "ans": 0, "explanation": "Allowing each layer to dry prevents colours from smudging or blending unintentionally."},
+        {"q": "A protective coat, like varnish, is applied ___.", "opts": ["at the end, if the object will be handled or displayed long-term", "only if the object will never be touched", "at the very beginning, before any colour", "never, since protection is unnecessary"], "ans": 0, "explanation": "A protective coat is applied at the end to seal and protect the finished colour work from wear and tear."},
+        {"q": "Applying wet colour over wet colour typically causes ___.", "opts": ["no effect on the final appearance", "perfectly clean, distinct colours", "unintended blending, producing a muddy result", "an automatically improved result"], "ans": 2, "explanation": "Wet-on-wet application causes colours to blend unintentionally, resulting in a muddy, unclear finish."},
+        {"q": "Applying colour to a craft object is compared to ___ in this week's analogy.", "opts": ["painting with no planning whatsoever", "a task with no logical order needed", "painting a house, in a sensible order", "an unrelated random comparison"], "ans": 2, "explanation": "Like painting a house, colour application requires a sensible order: walls first, trim after, protective sealant last."},
+        {"q": "Rushing the colour application process typically produces a ___ result.", "opts": ["unaffected, identical", "cleaner, more vibrant", "automatically improved", "muddy, unclear"], "ans": 3, "explanation": "Rushing leads to smudging, unintended blending, and a muddy, unclear final result."},
+        {"q": "Planning a colour scheme in advance considers ___.", "opts": ["only the cheapest available colour", "nothing at all", "random, unplanned choices", "harmony, dominance, and the object's intended use"], "ans": 3, "explanation": "A planned colour scheme considers design principles like harmony and dominance, as well as the object's purpose."},
+        {"q": "A patient, layered approach to colour application produces ___ results.", "opts": ["no different from a rushed approach", "muddy and unclear", "automatically worse", "clean, vibrant, professional-looking"], "ans": 3, "explanation": "Patience and proper layering produce clean, vibrant, and professional-looking colour application."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w10_su2",
+      "title": "10.2 Colour Mixing Practice",
+      "notes": [
+        "Colour Mixing Practice",
+        "",
+        "Key Concepts:",
+        "1. Practical Application of Theory:",
+        "   - Mixing colours produces variations: a TINT (adding white to make it lighter/softer) and a TONE/SHADE (adding black/grey to make it darker/muted).",
+        "",
+        "2. Best Practices for Mixing:",
+        "   - Add colour GRADUALLY (a little at a time) for better control.",
+        "   - Mix THOROUGHLY to ensure an even, consistent colour with no streaks.",
+        "   - Test the mixed colour on SCRAP paper before applying it to the final piece to avoid costly mistakes.",
+        "",
+        "3. Achieving Consistency:",
+        "   - For large projects requiring the same colour across multiple sessions, keep a RECORD (written ratio or saved sample) of successful mixes.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian art classrooms, students learning to mix paint for a large mural or craft project are taught to record their 'recipe' (e.g., 'two parts yellow, one part blue') to ensure the green colour remains consistent across the entire artwork."
+      ],
+      "diagramDescriptions": ["Visual guide to mixing tints and tones, and a chart showing the importance of recording colour ratios"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts colour mixing practice tints tones consistency site:youtube.com",
+      "quiz": [
+        {"q": "When mixing colour for a specific project, a craftsperson should first ___.", "opts": ["decide the exact hue, tint, or tone needed", "avoid using a colour wheel", "apply colour randomly with no plan", "skip all testing entirely"], "ans": 0, "explanation": "Deciding the exact hue, tint, or tone needed is the crucial first step before mixing begins."},
+        {"q": "Testing a small amount of mixed colour before committing to a larger batch helps to ___.", "opts": ["waste more materials than testing would save", "avoid wasting materials on an incorrect large batch", "guarantee a worse final result", "have no effect on the final outcome"], "ans": 1, "explanation": "Testing on scrap material first prevents wasting the main project materials on the wrong colour."},
+        {"q": "Keeping a record of a successful colour mix helps to ___.", "opts": ["have no practical benefit", "accurately reproduce the same colour later if needed", "make future colour mixing impossible", "guarantee an inconsistent result"], "ans": 1, "explanation": "A written ratio or saved sample allows the craftsperson to accurately reproduce the exact same colour later."},
+        {"q": "A common challenge in colour mixing practice is achieving ___.", "opts": ["consistency across multiple mixed batches", "only decorative, irrelevant results", "inconsistency intentionally", "no challenge at all, since mixing is always easy"], "ans": 0, "explanation": "Achieving consistency across different mixing sessions is a common and important challenge in colour mixing."},
+        {"q": "A slight variation in mixing ratio between batches can cause ___.", "opts": ["a visible, unwanted colour mismatch", "no visible difference at all", "an automatically improved result", "a guaranteed perfect match regardless"], "ans": 0, "explanation": "Even a slight change in the ratio of colours can result in a noticeable and unwanted colour mismatch."},
+        {"q": "Careful measuring, rather than pure guesswork, helps achieve ___.", "opts": ["no measurable difference", "consistent colour results across a project", "random, inconsistent results", "a guaranteed worse outcome"], "ans": 1, "explanation": "Careful measuring ensures that the colour remains consistent throughout the entire project."},
+        {"q": "Colour mixing consistency across a large project is compared to ___.", "opts": ["a recipe that never needs to be followed precisely", "a baker with no need for consistency", "an unrelated random comparison", "a baker following the same recipe exactly for a large cake"], "ans": 3, "explanation": "Like a baker following a precise recipe for a large cake, a craftsperson must follow precise ratios for consistent colour."},
+        {"q": "Checking a mixed colour in good light matters because ___.", "opts": ["testing in poor light is equally reliable", "lighting has no effect on how colour appears", "colour always looks identical regardless of light", "colour can appear different under different lighting conditions"], "ans": 3, "explanation": "Lighting significantly affects how a colour is perceived, so checking in good, natural light is essential."},
+        {"q": "A written ratio or saved sample of a successful mix serves as a useful ___.", "opts": ["record for future reference", "irrelevant, unnecessary item", "obstacle to future work", "random, meaningless note"], "ans": 0, "explanation": "It serves as a reliable record for future reference to ensure colour consistency."},
+        {"q": "For a large, multi-session craft project, colour consistency matters because ___.", "opts": ["an inconsistent colour would create a visibly mismatched final result", "colour mismatches are always unnoticeable", "consistency has no real importance for craft projects", "projects never require more than one colour session"], "ans": 0, "explanation": "Consistency is vital to prevent a visibly mismatched and unprofessional-looking final result."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w10_su3",
+      "title": "10.3 Tools and Safety in Colour Application",
+      "notes": [
+        "Tools and Safety in Colour Application",
+        "",
+        "Key Concepts:",
+        "1. Essential Tools:",
+        "   - Brushes (various sizes for broad areas and fine details), palette or mixing tray, water/solvent containers, and scrap paper for testing.",
+        "",
+        "2. Safety Precautions:",
+        "   - Work in a WELL-VENTILATED area, especially when using strong-smelling paints or solvents.",
+        "   - Wear an APRON or old clothes to protect against permanent stains.",
+        "   - Handle sharp tools (like palette knives) and hazardous chemicals (like certain varnishes) with CARE.",
+        "",
+        "3. Clean-Up and Maintenance:",
+        "   - Clean brushes immediately after use with water or the appropriate solvent to prevent the bristles from hardening and ruining the tool.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian school art studios, proper clean-up is emphasized not only to preserve expensive brushes but also to maintain a safe, clutter-free environment for all students."
+      ],
+      "diagramDescriptions": ["Infographic showing essential colour application tools and basic safety/clean-up practices"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts tools and safety in colour application site:youtube.com",
+      "quiz": [
+        {"q": "Which tool is best suited for applying broad areas of colour?", "opts": ["A fine detail brush", "A large, flat brush", "A palette knife only", "A pencil"], "ans": 1, "explanation": "A large, flat brush covers broad areas quickly and evenly."},
+        {"q": "Why is it important to work in a well-ventilated area when applying colour?", "opts": ["To dry the paint faster", "To avoid inhaling strong-smelling paints or solvents", "To keep the room cold", "To prevent the paint from drying"], "ans": 1, "explanation": "Ventilation is crucial for safety to avoid inhaling potentially harmful fumes from paints or solvents."},
+        {"q": "Wearing an apron during colour application primarily serves to ___.", "opts": ["make you look like a professional artist", "protect your clothes from permanent stains", "keep you warm", "hold your brushes"], "ans": 1, "explanation": "An apron protects your clothing from permanent paint stains and spills."},
+        {"q": "Why should brushes be cleaned immediately after use?", "opts": ["To make them last longer and prevent bristles from hardening", "To change their colour for the next use", "To make them softer", "It is not necessary to clean them"], "ans": 0, "explanation": "Immediate cleaning prevents paint from drying in the bristles, which would ruin the brush."},
+        {"q": "Scrap paper is useful in colour application for ___.", "opts": ["wrapping the finished craft", "testing mixed colours before applying them to the final piece", "cleaning brushes", "drawing the initial sketch only"], "ans": 1, "explanation": "Scrap paper is used to test colour mixes to ensure the hue is correct before committing to the main project."},
+        {"q": "Which of the following is a hazardous material that requires careful handling during colour application?", "opts": ["Water", "Certain varnishes and solvents", "Scrap paper", "A wooden palette"], "ans": 1, "explanation": "Certain varnishes and solvents contain chemicals that require careful handling and good ventilation."},
+        {"q": "A palette or mixing tray is used to ___.", "opts": ["hold the finished craft", "mix colours together before application", "clean brushes", "store water"], "ans": 1, "explanation": "A palette or mixing tray provides a clean surface for mixing colours to achieve the desired hue."},
+        {"q": "If a brush is used with oil-based paint, it should be cleaned with ___.", "opts": ["cold water only", "the appropriate solvent (e.g., turpentine)", "soap and hot water only", "it does not need cleaning"], "ans": 1, "explanation": "Oil-based paints require an appropriate solvent, like turpentine, to be cleaned effectively."},
+        {"q": "Proper tool maintenance in colour application ensures ___.", "opts": ["tools last longer and perform better", "colours mix faster", "the craft dries quicker", "no need for safety precautions"], "ans": 0, "explanation": "Proper maintenance, like cleaning brushes, ensures tools last longer and continue to perform well."},
+        {"q": "Safety in colour application is primarily about ___.", "opts": ["working as fast as possible", "protecting oneself and others from harm and maintaining a clean workspace", "using the most expensive materials", "ignoring minor spills"], "ans": 1, "explanation": "Safety focuses on preventing harm (through ventilation and careful handling) and maintaining a clean, organized workspace."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Describe, in the correct order, the six steps for applying colour to a craft object like paper mâché.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain why colours should generally be applied from large background areas to small detailed areas.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "Explain why testing a small amount of mixed colour before committing to a larger batch is good practice.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "Explain why achieving colour CONSISTENCY can be challenging for a large, multi-session craft project, and how a craftsperson can address this challenge.",
+      "markingGuide": "Clear explanation of the challenge (2.5); valid, practical solution described (2.5)."
+    },
+    {
+      "question": "Explain, using the 'baker's recipe' analogy or your own example, why careful measuring and record-keeping matter in practical colour mixing.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

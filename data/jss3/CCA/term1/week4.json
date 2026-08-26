@@ -1,0 +1,148 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Nigerian Contemporary Artwork and Income Generation",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w4_su1",
+      "title": "4.1 Prominent Works of Nigerian Contemporary Artists and Their Locations",
+      "notes": [
+        "Prominent Works of Nigerian Contemporary Artists and Their Locations",
+        "",
+        "Key Concepts:",
+        "1. Ben Enwonwu:",
+        "   - Created 'SANGO' (also spelled Shango), a celebrated bronze SCULPTURE depicting the Yoruba deity of thunder.",
+        "   - Enwonwu remains one of Nigeria's most internationally recognised modern artists.",
+        "",
+        "2. Demas Nwoko:",
+        "   - An architect and artist.",
+        "   - Created significant SCULPTURAL DECORATION for the NATIONAL THEATRE in LAGOS, a major Nigerian cultural landmark.",
+        "",
+        "3. Bruce Onobrakpeya:",
+        "   - Has created extensive bodies of ETCHING and printmaking work.",
+        "   - Significant collections and exhibitions are connected to DELTA STATE (his home region) and displayed in galleries nationally and internationally.",
+        "",
+        "Nigerian Context:",
+        "   - Recognising WHERE prominent artworks are located helps us understand how contemporary Nigerian art remains a LIVING, visible part of the nation's public cultural landscape, not simply confined to history books."
+      ],
+      "diagramDescriptions": ["Images or diagrams of Ben Enwonwu's 'Sango', Demas Nwoko's National Theatre decoration, and Onobrakpeya's printmaking"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts prominent works Enwonwu Sango Nwoko National Theatre Onobrakpeya site:youtube.com",
+      "quiz": [
+        {"q": "Who created the celebrated bronze sculpture 'Sango'?", "opts": ["Bruce Onobrakpeya", "Ben Enwonwu", "Demas Nwoko", "Aina Onabolu"], "ans": 1, "explanation": "Ben Enwonwu created 'Sango', a celebrated bronze sculpture depicting the Yoruba deity of thunder."},
+        {"q": "'Sango' depicts ___.", "opts": ["a modern political figure", "an unrelated foreign subject", "the Yoruba deity of thunder", "a purely abstract concept with no subject"], "ans": 2, "explanation": "The sculpture depicts Sango, the Yoruba deity of thunder."},
+        {"q": "Who created sculptural decoration for the National Theatre in Lagos?", "opts": ["Aina Onabolu", "Bruce Onobrakpeya", "Ben Enwonwu", "Demas Nwoko"], "ans": 3, "explanation": "Demas Nwoko, an architect and artist, created sculptural decoration for the National Theatre in Lagos."},
+        {"q": "The National Theatre, featuring Demas Nwoko's work, is located in ___.", "opts": ["A location outside Nigeria", "Lagos", "A purely fictional location", "No specific city"], "ans": 1, "explanation": "The National Theatre is a major cultural landmark located in Lagos."},
+        {"q": "Bruce Onobrakpeya's extensive etching and printmaking work is connected to ___.", "opts": ["A purely fictional location", "Delta State, his home region", "No specific region", "A region outside Nigeria"], "ans": 1, "explanation": "Onobrakpeya's work is deeply connected to Delta State, his home region."},
+        {"q": "Recognising where prominent artworks are located helps us understand ___.", "opts": ["that Nigerian art is confined only to history books", "that Nigerian art has no public presence", "contemporary Nigerian art as a living, visible part of public cultural life", "nothing of cultural relevance"], "ans": 2, "explanation": "It shows that contemporary Nigerian art is a living, visible part of the nation's public cultural landscape."},
+        {"q": "Prominent Nigerian artworks in public landmarks are compared to ___ in this week's analogy.", "opts": ["signposts announcing 'great art lives here'", "signs with no cultural meaning", "landmarks with no artistic connection", "an unrelated random comparison"], "ans": 0, "explanation": "They are like signposts planted throughout the country, quietly announcing that great art lives here."},
+        {"q": "Ben Enwonwu is described as one of Nigeria's most ___ recognised modern artists.", "opts": ["locally, with no wider recognition", "obscurely, with no notable achievement", "unrelated to any recognition", "internationally"], "ans": 3, "explanation": "Enwonwu remains one of Nigeria's most internationally recognised modern artists."},
+        {"q": "Demas Nwoko worked as both an artist and a(n) ___.", "opts": ["printmaker exclusively", "architect", "cartoonist exclusively", "potter exclusively"], "ans": 1, "explanation": "Demas Nwoko is both an artist and an architect."},
+        {"q": "Bruce Onobrakpeya's work is exhibited ___.", "opts": ["only in one small, obscure location", "only outside Nigeria, never within it", "nowhere at all", "nationally and internationally"], "ans": 3, "explanation": "His work is exhibited in galleries both nationally and internationally."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w4_su2",
+      "title": "4.2 Income Generation Through Contemporary Art",
+      "notes": [
+        "Income Generation Through Contemporary Art",
+        "",
+        "Key Concepts:",
+        "1. Direct Sales:",
+        "   - Selling original artworks (paintings, sculptures, prints) directly to COLLECTORS, galleries, or through auction houses.",
+        "   - Can yield SUBSTANTIAL sums for well-established, recognised artists.",
+        "",
+        "2. Commissions:",
+        "   - Being HIRED by individuals, organizations, or government bodies to create specific artworks for a particular PURPOSE or location.",
+        "   - Example: Demas Nwoko's National Theatre commission.",
+        "",
+        "3. Exhibitions and Gallery Representation:",
+        "   - Displaying work through galleries.",
+        "   - Galleries typically take a COMMISSION percentage but provide crucial exposure to serious BUYERS and collectors.",
+        "",
+        "4. Teaching and Consultancy:",
+        "   - Many successful artists also earn income by TEACHING art at schools or universities.",
+        "   - CONSULTING on cultural and artistic projects.",
+        "",
+        "Nigerian Context:",
+        "   - Understanding these real, practical income avenues helps students see contemporary art as a genuinely VIABLE career path, not merely an abstract creative pursuit."
+      ],
+      "diagramDescriptions": ["Chart showing the four main income avenues for contemporary artists: Direct Sales, Commissions, Galleries, Teaching"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts income generation contemporary art sales commissions galleries teaching site:youtube.com",
+      "quiz": [
+        {"q": "Direct sales involve ___.", "opts": ["only teaching art, with no sales", "only government-funded projects", "selling original artworks directly to collectors, galleries, or through auction houses", "never selling any artwork at all"], "ans": 2, "explanation": "Direct sales involve selling original artworks directly to collectors, galleries, or auction houses."},
+        {"q": "A commission involves ___.", "opts": ["being hired to create a specific artwork for a particular purpose", "no payment of any kind", "selling an already-completed artwork only", "teaching art exclusively"], "ans": 0, "explanation": "A commission involves being hired in advance to create a specific artwork for a particular purpose or location."},
+        {"q": "Demas Nwoko's work at the National Theatre is an example of ___.", "opts": ["a direct sale only", "an unrelated activity", "a commission", "teaching income only"], "ans": 2, "explanation": "Creating sculptural decoration for the National Theatre was a specific commission."},
+        {"q": "Galleries typically provide artists with ___.", "opts": ["guaranteed sales with no fee involved", "no benefit at all", "exposure to serious buyers and collectors, taking a commission percentage", "exposure only to unrelated audiences"], "ans": 2, "explanation": "Galleries provide crucial exposure to serious buyers, typically in exchange for a commission percentage."},
+        {"q": "Many successful artists also earn income through ___.", "opts": ["teaching and consultancy", "no additional income sources at all", "sources entirely unrelated to art", "only illegal activities"], "ans": 0, "explanation": "Teaching art and consulting on cultural projects are common additional income sources for successful artists."},
+        {"q": "Relying on MULTIPLE income avenues provides artists with ___.", "opts": ["guaranteed financial failure", "less stability than relying on one source", "greater financial stability", "no benefit at all"], "ans": 2, "explanation": "Combining several income avenues provides greater financial stability than relying on just one unpredictable source."},
+        {"q": "An artist's income avenues are compared to ___ in this week's analogy.", "opts": ["a farmer relying on only one single crop", "a farmer with no fields at all", "an unrelated random comparison", "a farmer with several different fields planted with different crops"], "ans": 3, "explanation": "Like a farmer with several different fields, multiple income avenues provide greater stability than relying on just one."},
+        {"q": "Understanding practical income avenues helps students see contemporary art as ___.", "opts": ["an impossible, unrealistic career choice", "entirely unrelated to earning a livelihood", "a genuinely viable career path", "a purely historical, no-longer-relevant pursuit"], "ans": 2, "explanation": "It shows that contemporary art is a genuinely viable career path with multiple practical income streams."},
+        {"q": "Well-established, recognised artists can sometimes sell work for ___.", "opts": ["very substantial sums", "nothing at all, ever", "amounts unrelated to their reputation", "only very small, insignificant amounts"], "ans": 0, "explanation": "Well-established artists can sell their original artworks for very substantial sums through direct sales or auctions."},
+        {"q": "Auction houses are one avenue for ___.", "opts": ["commission-based work exclusively", "teaching art exclusively", "activities unrelated to art sales", "direct sales of artwork"], "ans": 3, "explanation": "Auction houses are a venue for the direct sale of artwork to collectors."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w4_su3",
+      "title": "4.3 Practical Application: Career Pathways in Contemporary Art",
+      "notes": [
+        "Practical Application: Career Pathways in Contemporary Art",
+        "",
+        "Key Concepts:",
+        "1. Combining Income Streams:",
+        "   - A successful contemporary artist rarely relies on just one method.",
+        "   - Example: An artist might sell paintings directly (Direct Sales), accept a mural project for a hotel (Commission), exhibit in a Lagos gallery (Gallery Representation), and teach weekend classes (Teaching).",
+        "",
+        "2. Building a Portfolio:",
+        "   - A strong, diverse portfolio is essential for attracting commissions and gallery interest.",
+        "   - Documenting work professionally (photography, social media presence) is a modern necessity.",
+        "",
+        "3. Avoiding Common Mistakes:",
+        "   - Assuming contemporary artists earn income through ONLY one method.",
+        "   - Underestimating galleries' practical value (exposure to serious buyers) despite the commission percentage they typically charge.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria's growing creative economy, artists who combine traditional skills with modern marketing and diverse income streams are the most financially sustainable."
+      ],
+      "diagramDescriptions": ["Flowchart showing a hypothetical contemporary artist's diverse income portfolio"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts practical application career pathways contemporary art Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "A successful contemporary artist typically relies on ___.", "opts": ["only one single method of income", "no income at all", "multiple income avenues for greater stability", "only government handouts"], "ans": 2, "explanation": "Successful artists combine multiple income avenues (sales, commissions, teaching) for greater financial stability."},
+        {"q": "An artist accepting a mural project for a hotel is an example of ___.", "opts": ["direct sales", "a commission", "teaching", "gallery representation"], "ans": 1, "explanation": "Being hired to create a specific artwork for a particular purpose or location is a commission."},
+        {"q": "What is essential for attracting commissions and gallery interest?", "opts": ["A strong, diverse portfolio", "Avoiding all documentation of work", "Relying solely on word-of-mouth", "Refusing to use social media"], "ans": 0, "explanation": "A strong, diverse, and professionally documented portfolio is essential for attracting professional opportunities."},
+        {"q": "Documenting work professionally (e.g., photography, social media) is ___.", "opts": ["a modern necessity for artists", "completely irrelevant to contemporary art", "only for traditional artists", "a waste of time"], "ans": 0, "explanation": "Professional documentation is a modern necessity for building a portfolio and attracting buyers."},
+        {"q": "Underestimating a gallery's value is a mistake because ___.", "opts": ["they provide no value at all", "they provide crucial exposure to serious buyers despite taking a commission", "they always take 100% of the sale price", "they only display traditional art"], "ans": 1, "explanation": "Galleries provide crucial exposure to serious collectors and buyers, which is worth the commission percentage they charge."},
+        {"q": "An artist who sells paintings, teaches weekend classes, and exhibits in a gallery is ___.", "opts": ["violating artistic principles", "combining income streams for financial stability", "working in the wrong profession", "guaranteed to fail financially"], "ans": 1, "explanation": "Combining multiple income streams is a smart strategy for financial stability in the arts."},
+        {"q": "In Nigeria's growing creative economy, the most financially sustainable artists are those who ___.", "opts": ["refuse to adapt to modern marketing", "combine traditional skills with modern marketing and diverse income streams", "only rely on a single patron", "avoid all contemporary techniques"], "ans": 1, "explanation": "Combining traditional skills with modern marketing and diverse income streams leads to the greatest sustainability."},
+        {"q": "A gallery's commission percentage is typically justified by ___.", "opts": ["providing no service at all", "providing space, marketing, and access to serious buyers", "forcing the artist to work for free", "hiding the artwork from the public"], "ans": 1, "explanation": "Galleries justify their commission by providing valuable services like space, marketing, and access to their collector network."},
+        {"q": "Teaching art at a school or university is an example of which income avenue?", "opts": ["Direct sales", "Commissions", "Teaching and consultancy", "Gallery representation"], "ans": 2, "explanation": "Earning income through education or cultural consulting falls under teaching and consultancy."},
+        {"q": "A diverse portfolio helps an artist ___.", "opts": ["limit their creative expression", "attract a wider range of professional opportunities", "avoid all documentation of their work", "focus on only one single style forever"], "ans": 1, "explanation": "A diverse portfolio showcases versatility, attracting a wider range of commissions and gallery interest."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Name TWO prominent Nigerian contemporary artworks studied this week, their artists, and their locations.",
+      "markingGuide": "2.5 marks each for a correctly named work, artist, and location."
+    },
+    {
+      "question": "Explain why displaying contemporary art in public landmark locations (like the National Theatre) matters for Nigerian cultural life.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "List and briefly explain FOUR ways contemporary artists generate income.",
+      "markingGuide": "1.25 marks per correctly named and briefly explained income avenue (5 total)."
+    },
+    {
+      "question": "Distinguish between generating income through direct sales and through a commission, giving an example of each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples."
+    },
+    {
+      "question": "Explain, using the 'farmer with several fields' analogy or your own example, why relying on multiple income avenues benefits a contemporary artist's career.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

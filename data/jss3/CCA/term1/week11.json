@@ -1,0 +1,137 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Construction of Letters: A-M and N-Z",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w11_su1",
+      "title": "11.1 The Letter Construction Process and Guidelines",
+      "notes": [
+        "The Letter Construction Process and Guidelines",
+        "",
+        "Key Concepts:",
+        "1. The Four-Step Construction Process:",
+        "   - Step 1: Draw light GUIDELINES first (using a ruler and pencil) — a baseline (where letters sit), a cap-height line (the top of capital letters), and often an x-height line (the top of lowercase letters without ascenders).",
+        "   - Step 2: LIGHTLY sketch the basic STROKES of each letter within these guidelines, paying attention to correct PROPORTION (width relative to height).",
+        "   - Step 3: Refine and DARKEN the final strokes once satisfied with the initial sketch.",
+        "   - Step 4: ERASE the guideline marks once the ink or final pencil work is complete.",
+        "",
+        "2. Purpose of Guidelines:",
+        "   - Guidelines ensure CONSISTENT letter height and alignment. Without them, letters drift unevenly, just as bricks laid without careful measurement lean and wobble.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian technical drawing and art classes, mastering the use of guidelines is the foundational step for creating professional, legible posters, nameboards, and technical diagrams."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide showing the four steps of letter construction with guidelines"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts letter construction process guidelines site:youtube.com",
+      "quiz": [
+        {"q": "The first step in carefully constructing a letter is to ___.", "opts": ["draw light guidelines using a ruler and pencil", "erase all marks before starting", "immediately darken the final strokes with no plan", "skip any planning entirely"], "ans": 0, "explanation": "Drawing light guidelines first ensures consistent height and alignment for all subsequent letters."},
+        {"q": "A baseline, in letter construction, refers to ___.", "opts": ["a line unrelated to letter alignment", "a random, unplanned mark", "the top of capital letters", "the line where letters sit"], "ans": 3, "explanation": "The baseline is the foundational line upon which all letters rest."},
+        {"q": "A cap-height line refers to ___.", "opts": ["the baseline where letters sit", "the top of capital letters", "the bottom of lowercase letters", "a random, unplanned mark"], "ans": 1, "explanation": "The cap-height line marks the uniform top boundary for all capital letters."},
+        {"q": "Guidelines help ensure ___.", "opts": ["confusion in the construction process", "no benefit to the final lettering", "consistent letter height and alignment", "completely random, inconsistent letters"], "ans": 2, "explanation": "Guidelines are essential for maintaining uniform height and straight alignment across all constructed letters."},
+        {"q": "The final step in letter construction is to ___.", "opts": ["lightly sketch the basic strokes", "erase the guideline marks", "begin the process for the first time", "draw the initial guidelines"], "ans": 1, "explanation": "Once the final strokes are darkened and complete, the temporary guideline marks are erased for a clean finish."},
+        {"q": "Constructing letters with guidelines is compared to ___ in this week's analogy.", "opts": ["a builder working with no measurements at all", "a builder using a spirit level and measurements before laying bricks", "an unrelated random comparison", "a builder who never checks alignment"], "ans": 1, "explanation": "Just as a builder uses measurements for straight bricks, a lettering artist uses guidelines for straight, consistent letters."},
+        {"q": "Skipping the guideline step in letter construction typically results in ___.", "opts": ["inconsistent letter height and poor alignment", "perfectly consistent letters regardless", "no effect on the final result", "automatically improved lettering"], "ans": 0, "explanation": "Without guidelines, letters will naturally drift in height and alignment, resulting in an unprofessional appearance."},
+        {"q": "The 'x-height' line refers to ___.", "opts": ["the top of capital letters", "the top of lowercase letters without ascenders", "the baseline", "the space between words"], "ans": 1, "explanation": "The x-height line marks the uniform height of lowercase letters that do not have ascending strokes (like a, c, e, x)."},
+        {"q": "When refining and darkening final strokes, the artist should ___.", "opts": ["ignore the guidelines completely", "ensure the strokes align with the initial light sketch and guidelines", "erase the guidelines before darkening", "use a different colour entirely"], "ans": 1, "explanation": "The final darkened strokes must follow the proportions and alignment established by the light sketch and guidelines."},
+        {"q": "Guidelines are typically drawn using a ___.", "opts": ["thick marker", "ruler and light pencil", "freehand without tools", "heavy charcoal"], "ans": 1, "explanation": "A ruler ensures straightness, and a light pencil ensures the lines can be easily erased later without smudging the final lettering."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w11_su2",
+      "title": "11.2 Construction of Letters A to M",
+      "notes": [
+        "Construction of Letters A to M",
+        "",
+        "Key Concepts:",
+        "1. Straight-Line Letters (A, E, F, H, I, K, L, M):",
+        "   - Built entirely from straight strokes and angles.",
+        "   - Generally EASIER for beginners to construct accurately, since ruler-guided straight strokes are more predictable.",
+        "",
+        "2. Curved Letters (B, C, D, G, J):",
+        "   - Incorporate curved strokes.",
+        "   - Require more practice to ensure the curves are smooth, symmetrical, and proportionate to the straight-line letters.",
+        "",
+        "3. Proportion and Spacing:",
+        "   - Even within the A-M range, attention must be paid to the width of each letter relative to its height (e.g., 'M' is wider than 'I').",
+        "",
+        "Nigerian Context:",
+        "   - Nigerian art students are often encouraged to master straight-line letters first before attempting complex curves, building a strong foundation for formal lettering in school projects and technical drawings."
+      ],
+      "diagramDescriptions": ["Visual breakdown of straight-line vs. curved letters in the A-M range"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts construction of letters A to M straight curved site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a straight-line letter in the A-M range?", "opts": ["C", "A", "G", "D"], "ans": 1, "explanation": "The letter 'A' is built entirely from straight strokes and angles."},
+        {"q": "Which of these is a curved letter in the A-M range?", "opts": ["H", "A", "C", "E"], "ans": 2, "explanation": "The letter 'C' incorporates a curved stroke."},
+        {"q": "Straight-line letters are generally ___ for beginners than curved letters.", "opts": ["impossible to construct", "more difficult to construct accurately", "exactly the same difficulty", "easier to construct accurately"], "ans": 3, "explanation": "Ruler-guided straight strokes are more predictable and easier for beginners to master than freehand curves."},
+        {"q": "The letter 'M' requires attention to its ___ relative to its height.", "opts": ["colour", "width", "texture", "curvature"], "ans": 1, "explanation": "The letter 'M' is notably wider than letters like 'I' or 'T', requiring careful attention to proportion."},
+        {"q": "Which of the following letters in the A-M range contains both straight and curved elements?", "opts": ["F", "H", "B", "L"], "ans": 2, "explanation": "The letter 'B' has a straight vertical stroke and two curved strokes."},
+        {"q": "Practising straight-line letters first helps students build ___ before attempting curved letters.", "opts": ["a strong foundation in alignment and proportion", "a habit of ignoring guidelines", "a preference for messy lettering", "no useful skill"], "ans": 0, "explanation": "Mastering straight lines builds confidence in alignment and proportion, which is essential before tackling curves."},
+        {"q": "The letter 'J' in the A-M range is classified as a ___ letter.", "opts": ["straight-line", "curved", "geometric", "unclassifiable"], "ans": 1, "explanation": "The letter 'J' incorporates a distinct curved stroke at its base."},
+        {"q": "When constructing the letter 'E', the three horizontal strokes should be ___ to maintain good proportion.", "opts": ["of varying, random lengths", "carefully measured for consistent spacing and length", "drawn freehand without guidelines", "thicker than the vertical stroke"], "ans": 1, "explanation": "Careful measurement ensures the 'E' looks balanced and professionally proportioned."},
+        {"q": "The letter 'K' is constructed using ___.", "opts": ["only curved strokes", "one vertical straight stroke and two diagonal straight strokes", "only horizontal strokes", "a single continuous curve"], "ans": 1, "explanation": "The letter 'K' consists of one vertical line and two diagonal lines meeting at the vertical line."},
+        {"q": "In letter construction, 'proportion' refers to ___.", "opts": ["the colour of the letter", "the width of the letter relative to its height", "the thickness of the pencil lead", "the space between different words"], "ans": 1, "explanation": "Proportion in lettering ensures that each letter's width is visually appropriate for its height."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w11_su3",
+      "title": "11.3 Construction of Letters N to Z and Slogan Spacing",
+      "notes": [
+        "Construction of Letters N to Z and Slogan Spacing",
+        "",
+        "Key Concepts:",
+        "1. Letters N to Z:",
+        "   - The SAME careful construction process (guidelines, light sketching, refining, erasing) applies.",
+        "   - Includes further STRAIGHT-LINE letters (N, T, V, W, X, Y, Z) and CURVED letters (O, P, Q, R, S, U).",
+        "   - Special cases like the highly geometric 'X' and the fully rounded 'O' require specific attention to symmetry.",
+        "",
+        "2. Spacing in Slogans and Phrases:",
+        "   - When constructing SLOGANS (e.g., 'Good morning Ma'), spacing BETWEEN letters and words becomes an ADDITIONAL important consideration.",
+        "   - Even perfectly constructed individual letters can look AWKWARD or unbalanced if the SPACING between them is inconsistent.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian schools, constructing slogans like 'Good morning Ma' or 'Keep the Environment Clean' is a classic lettering exercise that teaches students to balance individual letter construction with overall word and phrase spacing."
+      ],
+      "diagramDescriptions": ["Visual example of good vs. poor spacing in a lettered slogan"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts construction of letters N to Z slogan spacing site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a straight-line letter in the N-Z range?", "opts": ["S", "N", "U", "O"], "ans": 1, "explanation": "The letter 'N' is built entirely from straight strokes and angles."},
+        {"q": "Which of these is a curved letter in the N-Z range?", "opts": ["N", "Z", "O", "W"], "ans": 2, "explanation": "The letter 'O' is a fully rounded, curved letter."},
+        {"q": "The letter construction process for N-Z follows ___.", "opts": ["an entirely different, unrelated process", "a process with no guidelines needed", "no process at all", "the same steps as A-M: guidelines, sketch, refine, erase"], "ans": 3, "explanation": "The fundamental four-step process remains the same for all letters of the alphabet."},
+        {"q": "The letter 'O' requires particular attention to ___.", "opts": ["straight lines only, with no curves", "a process unrelated to shape", "symmetry and proportion", "no careful construction at all"], "ans": 2, "explanation": "The letter 'O' must be carefully constructed to ensure it is symmetrical and proportionate, not oval or lopsided."},
+        {"q": "When constructing a slogan, an ADDITIONAL important consideration beyond individual letters is ___.", "opts": ["spacing between letters and words", "avoiding any curved letters", "ignoring all guidelines entirely", "using only capital letters"], "ans": 0, "explanation": "Consistent spacing between letters and words is crucial for the overall legibility and aesthetic of a slogan."},
+        {"q": "Inconsistent spacing in a slogan can make even well-constructed letters look ___.", "opts": ["awkward or unbalanced", "automatically improved", "perfectly polished regardless", "unaffected in appearance"], "ans": 0, "explanation": "Poor spacing disrupts the visual flow, making even perfectly drawn letters look awkward and unprofessional."},
+        {"q": "Constructing a slogan is compared to ___ in this week's analogy.", "opts": ["a melody with no connection to individual notes", "playing a complete melody, not just individual notes", "playing only a single, isolated note", "an unrelated random comparison"], "ans": 1, "explanation": "Just as a melody requires proper timing and spacing between notes, a slogan requires proper spacing between letters to flow well."},
+        {"q": "A classic classroom lettering exercise mentioned this week is constructing the slogan ___.", "opts": ["a purely random, meaningless phrase", "a slogan unrelated to any classroom context", "no specific slogan at all", "'Good morning Ma'"], "ans": 3, "explanation": "'Good morning Ma' is a classic, practical slogan used to teach spacing and letter construction in Nigerian classrooms."},
+        {"q": "The letter 'X' is described as ___.", "opts": ["impossible to construct", "highly geometric", "purely curved, with no straight lines", "unrelated to symmetry"], "ans": 1, "explanation": "The letter 'X' is highly geometric, requiring precise diagonal angles and symmetry."},
+        {"q": "Spacing between letters connects directly to next week's study of ___.", "opts": ["a topic covered in a previous term only", "colour theory exclusively", "qualities of good lettering", "an unrelated topic"], "ans": 2, "explanation": "Spacing is one of the three core qualities of good lettering, alongside simplicity and legibility."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Describe, in the correct order, the four steps for carefully constructing a letter.",
+      "markingGuide": "1.25 marks per correctly ordered step (Guidelines, light sketch, refine/darken, erase guidelines) (5 total)."
+    },
+    {
+      "question": "Classify the following letters into straight-line or curved: A, C, N, O, T, S.",
+      "markingGuide": "0.83 marks per correctly classified letter (Straight: A, N, T; Curved: C, O, S) (5 total)."
+    },
+    {
+      "question": "Explain the purpose of guidelines (baseline, cap-height, x-height) in letter construction.",
+      "markingGuide": "Clear, accurate explanation of how each guideline ensures consistent height, alignment, and proportion (5, holistic)."
+    },
+    {
+      "question": "Explain why spacing between letters and words matters when constructing a full slogan, beyond individual letter construction alone.",
+      "markingGuide": "Clear, accurate explanation referencing visual flow, legibility, and avoiding an awkward/unbalanced appearance (5, holistic)."
+    },
+    {
+      "question": "Explain, using the 'musical melody' analogy or your own example, why constructing a complete slogan requires more than just constructing each letter correctly.",
+      "markingGuide": "Clear explanation with a valid supporting example demonstrating the importance of spacing and flow (5, holistic)."
+    }
+  ]
+}

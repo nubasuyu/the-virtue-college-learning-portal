@@ -1,0 +1,134 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Display Techniques",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w7_su1",
+      "title": "7.1 Meaning of Display and Preparation Methods",
+      "notes": [
+        "Meaning of Display and Preparation Methods",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Display:",
+        "   - The deliberate, thoughtful ARRANGEMENT and presentation of artwork so it can be VIEWED and appreciated effectively by an audience.",
+        "   - Transforms a finished artwork from a private object into a publicly SHARED experience.",
+        "",
+        "2. Preparation Methods:",
+        "   - LABELLING: Attaching clear information (artist's name, title, date, medium) to provide context.",
+        "   - FRAMING: Enclosing a two-dimensional artwork within a protective, often decorative border.",
+        "   - FIXING: Securely attaching or mounting the artwork so it remains stable and will not fall or shift.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian school exhibitions or gallery shows, proper labelling (often in both English and the local language) and secure fixing are essential for professional presentation."
+      ],
+      "diagramDescriptions": ["Diagram showing labelled, framed, and fixed artwork"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts meaning of display labelling framing fixing site:youtube.com",
+      "quiz": [
+        {"q": "What is display, in an art context?", "opts": ["The process of creating artwork from scratch", "A type of paint", "The deliberate arrangement and presentation of artwork for effective viewing", "A type of craft material"], "ans": 2, "explanation": "Display is the thoughtful presentation of artwork for an audience to view and appreciate."},
+        {"q": "What is labelling, in art display?", "opts": ["A type of frame", "A type of colour application", "Removing all information about the artwork", "Attaching clear information like the artist's name, title, and date"], "ans": 3, "explanation": "Labelling provides essential context about the artwork to the viewer."},
+        {"q": "What is framing, in art display?", "opts": ["A type of colour mixing", "A type of labelling", "Enclosing a two-dimensional artwork within a protective, decorative border", "Removing all protective elements from an artwork"], "ans": 2, "explanation": "Framing protects the artwork and presents it professionally."},
+        {"q": "What is fixing, in art display?", "opts": ["Permanently damaging the artwork", "A type of colour application", "Securely attaching or mounting the artwork so it remains stable", "A type of labelling"], "ans": 2, "explanation": "Fixing ensures the artwork is securely mounted and will not fall or shift."},
+        {"q": "A label typically includes ___.", "opts": ["no information at all", "the artist's name, the artwork's title, and date", "only the price, with nothing else", "information unrelated to the artwork"], "ans": 1, "explanation": "A proper label gives the viewer key contextual information about the piece."},
+        {"q": "Poor display can ___ even genuinely excellent artwork.", "opts": ["automatically improve", "undermine", "guarantee the success of", "have no effect on"], "ans": 1, "explanation": "Bad lighting, missing labels, or insecure mounting can ruin the impact of great art."},
+        {"q": "Framing serves to ___ an artwork.", "opts": ["permanently hide", "protect and professionally present", "damage and obscure", "have no effect on"], "ans": 1, "explanation": "Framing provides both physical protection and aesthetic enhancement."},
+        {"q": "Fixing ensures an artwork ___.", "opts": ["is permanently removed from display", "remains stable and will not fall or shift", "has no secure attachment at all", "falls or shifts frequently"], "ans": 1, "explanation": "Fixing is about physical stability and safety of the displayed piece."},
+        {"q": "Preparing artwork for display is compared to ___ in the analogy.", "opts": ["ignoring a guest entirely", "preparing an event with no guests at all", "preparing a guest of honour before an important public event", "an unrelated random comparison"], "ans": 2, "explanation": "Just as a guest of honour is introduced, dressed well, and positioned securely, artwork must be labelled, framed, and fixed."},
+        {"q": "Display transforms an artwork from a private object into a ___.", "opts": ["item with no viewing purpose", "permanently hidden item", "publicly shared experience", "destroyed object"], "ans": 2, "explanation": "Display is the act of sharing the artwork with a public audience."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w7_su2",
+      "title": "7.2 Display Techniques: Categorizing and Mounting",
+      "notes": [
+        "Display Techniques: Categorizing and Mounting",
+        "",
+        "Key Concepts:",
+        "1. Categorizing:",
+        "   - Thoughtfully GROUPING artworks by theme, medium, artist, or style.",
+        "   - Helps viewers make meaningful CONNECTIONS and follow a logical viewing journey through the exhibition.",
+        "",
+        "2. Mounting Boards:",
+        "   - Attaching artwork (particularly flat, two-dimensional pieces) onto a sturdy BACKING board.",
+        "   - Provides additional support, a clean presentation surface, and sometimes a decorative BORDER space around the piece itself.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian art exhibitions, categorizing by theme (e.g., 'Nigerian Heritage', 'Modern Life') helps guide the audience through the cultural narrative of the exhibition."
+      ],
+      "diagramDescriptions": ["Examples of categorized artwork groups and mounted boards"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts display techniques categorizing mounting boards site:youtube.com",
+      "quiz": [
+        {"q": "What is categorizing, in display technique?", "opts": ["Thoughtfully grouping artworks by theme, medium, artist, or style", "Randomly scattering artworks with no grouping", "A type of frame", "A type of colour mixing"], "ans": 0, "explanation": "Categorizing creates logical groupings to enhance the viewer's experience."},
+        {"q": "Categorizing helps viewers ___.", "opts": ["become confused with no logical structure", "have no meaningful viewing experience", "ignore the artworks entirely", "make meaningful connections and follow a logical viewing journey"], "ans": 3, "explanation": "Logical grouping helps the audience understand the curator's intended narrative or theme."},
+        {"q": "Mounting boards provide ___.", "opts": ["a way to damage the artwork", "nothing related to presentation", "additional support and a clean presentation surface", "no support at all"], "ans": 2, "explanation": "Mounting boards give flat artwork structural support and a clean background."},
+        {"q": "Mounting is especially useful for ___ artwork.", "opts": ["large, heavy sculptures", "flat, two-dimensional pieces", "liquid installations", "performance art"], "ans": 1, "explanation": "Flat pieces like drawings or prints benefit most from the rigid support of a mounting board."},
+        {"q": "A mounting board can also provide a decorative ___ around the artwork.", "opts": ["frame", "border space", "label", "light source"], "ans": 1, "explanation": "The visible edge of the mounting board acts as an internal border, framing the piece cleanly."},
+        {"q": "Grouping artworks by 'watercolour paintings' vs. 'charcoal drawings' is an example of categorizing by ___.", "opts": ["theme", "medium", "artist", "style"], "ans": 1, "explanation": "Watercolour and charcoal are different artistic mediums."},
+        {"q": "Grouping artworks that all depict 'Market Scenes in Lagos' is an example of categorizing by ___.", "opts": ["theme", "medium", "artist", "price"], "ans": 0, "explanation": "'Market Scenes in Lagos' is a thematic grouping."},
+        {"q": "Without categorization, an exhibition may feel ___.", "opts": ["highly organised and professional", "random and difficult to navigate", "perfectly balanced", "focused and clear"], "ans": 1, "explanation": "Lack of categorization leads to a confusing, disjointed viewing experience."},
+        {"q": "Mounting boards are typically made of ___ material.", "opts": ["flimsy, easily torn", "sturdy, rigid", "transparent glass", "liquid"], "ans": 1, "explanation": "The board must be sturdy to provide adequate support for the artwork."},
+        {"q": "Categorizing and mounting work together to create a ___ presentation.", "opts": ["chaotic", "professional and organised", "temporary and fragile", "random"], "ans": 1, "explanation": "Both techniques contribute to a polished, professional exhibition standard."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w7_su3",
+      "title": "7.3 Display Techniques: Designing Space",
+      "notes": [
+        "Display Techniques: Designing Space",
+        "",
+        "Key Concepts:",
+        "1. Designing Space:",
+        "   - Thoughtfully planning the PHYSICAL layout of an exhibition area.",
+        "",
+        "2. Key Considerations:",
+        "   - VIEWING distance: Ensuring visitors can step back far enough to see larger pieces properly.",
+        "   - LIGHTING: Ensuring each piece is adequately, flatteringly illuminated.",
+        "   - TRAFFIC FLOW: How visitors will naturally move through the space without bottlenecks.",
+        "   - SPACING: Appropriate gaps between individual pieces to avoid overcrowding and a cluttered feel.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian school halls or community centres used for art shows, careful space design is crucial to manage large crowds and ensure every student's artwork gets adequate visibility."
+      ],
+      "diagramDescriptions": ["Floor plan showing good traffic flow, lighting, and spacing in an exhibition"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts display techniques designing space lighting traffic flow site:youtube.com",
+      "quiz": [
+        {"q": "Designing space considers ___.", "opts": ["only the colour of the walls", "only the price of admission", "nothing related to the physical exhibition layout", "viewing distance, lighting, traffic flow, and spacing"], "ans": 3, "explanation": "Space design encompasses all physical and environmental factors of the exhibition layout."},
+        {"q": "Overcrowding a display space can make it feel ___.", "opts": ["unaffected in viewer experience", "spacious and comfortable", "cluttered and overwhelming", "perfectly organised regardless"], "ans": 2, "explanation": "Too many pieces too close together creates visual clutter and overwhelms the viewer."},
+        {"q": "Good lighting in a display ensures ___.", "opts": ["viewers cannot appreciate the artwork at all", "each piece is adequately, flatteringly illuminated", "artworks are impossible to see clearly", "no visual difference in the display"], "ans": 1, "explanation": "Proper lighting is essential for viewers to see colours, details, and textures accurately."},
+        {"q": "Traffic flow, in exhibition design, refers to ___.", "opts": ["a concept unrelated to exhibition space", "the price of tickets for the exhibition", "the colour scheme of the artworks", "how visitors will naturally move through the space"], "ans": 3, "explanation": "Traffic flow ensures visitors can move comfortably without bottlenecks."},
+        {"q": "Appropriate spacing between individual pieces helps to avoid ___.", "opts": ["a well-organised display", "clear, effective presentation", "improved viewer experience", "overcrowding and a cluttered feel"], "ans": 3, "explanation": "Adequate spacing gives each artwork room to breathe and be appreciated individually."},
+        {"q": "Viewing distance is important because ___.", "opts": ["it allows visitors to step back and see larger pieces properly", "it forces visitors to touch the artwork", "it makes the exhibition hall look larger", "it has no real impact on viewing"], "ans": 0, "explanation": "Some artworks, especially large ones, require distance to be viewed in their entirety."},
+        {"q": "Designing a thoughtful display is compared to ___ in the analogy.", "opts": ["a chaotic, disorganised space with no plan", "a library with no organisation at all", "an unrelated random comparison", "planning a well-organised library"], "ans": 3, "explanation": "Like a library, a good exhibition has logical grouping, good lighting, and sensible walkways."},
+        {"q": "Together, categorizing, mounting, and designing space create a ___ viewing experience.", "opts": ["confusing and unpleasant", "thoughtful, professional, engaging", "unaffected by any planning", "random and chaotic"], "ans": 1, "explanation": "These techniques combine to elevate the presentation from a simple collection to a professional exhibition."},
+        {"q": "Poor lighting can ___ the colours and details of an artwork.", "opts": ["enhance", "obscure", "permanently fix", "have no effect on"], "ans": 1, "explanation": "Inadequate or harsh lighting can hide details or distort colours."},
+        {"q": "Managing traffic flow prevents ___ in an exhibition space.", "opts": ["bottlenecks and congestion", "artistic appreciation", "good lighting", "categorization"], "ans": 0, "explanation": "Good traffic flow ensures smooth movement and prevents crowding in specific areas."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of display, and why it matters even for excellent artwork.",
+      "markingGuide": "Clear definition (2.5); clear explanation of its importance (2.5)."
+    },
+    {
+      "question": "Describe the THREE methods for preparing artwork for display: labelling, framing, and fixing.",
+      "markingGuide": "1.67 marks per correctly described method (3 methods, 5 total)."
+    },
+    {
+      "question": "Describe the THREE display techniques studied this week: categorizing, mounting boards, and designing space.",
+      "markingGuide": "1.67 marks per correctly described technique (3 techniques, 5 total)."
+    },
+    {
+      "question": "A school exhibition space is poorly lit, artworks are crammed together with no grouping, and none have labels. Identify THREE specific problems, and suggest an improvement for each.",
+      "markingGuide": "1.67 marks per correctly identified problem with a valid, specific improvement (3 problems, 5 total)."
+    },
+    {
+      "question": "Explain, using the 'library' analogy or your own example, why thoughtful categorization and space design matter for a successful art exhibition.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

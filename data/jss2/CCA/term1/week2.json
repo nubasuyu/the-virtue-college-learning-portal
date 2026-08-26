@@ -1,0 +1,143 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Practical Work on Elements of Design: Application Using Types of Lines",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w2_su1",
+      "title": "2.1 Types of Lines and Their Visual Effects",
+      "notes": [
+        "Types of Lines and Their Visual Effects",
+        "",
+        "Key Concepts:",
+        "1. Straight Lines:",
+        "   - Horizontal: Suggests calmness, rest, and stability (like a horizon).",
+        "   - Vertical: Suggests strength, dignity, and height (like a tall tree or building).",
+        "   - Diagonal: Suggests movement, action, or tension.",
+        "",
+        "2. Curved Lines:",
+        "   - Suggest softness, grace, and natural flow (like a river or a flower petal).",
+        "",
+        "3. Zigzag Lines:",
+        "   - Suggest energy, excitement, or even danger (like a lightning bolt).",
+        "",
+        "4. Dotted or Broken Lines:",
+        "   - Suggest something incomplete, uncertain, or a boundary to be crossed.",
+        "",
+        "5. Thickness:",
+        "   - Thick lines feel bold and heavy; thin lines feel delicate and light.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian graphic design and traditional motifs, horizontal and curved lines are often used to convey peace and community, while sharp zigzags might be used in masquerade costumes to convey power and energy."
+      ],
+      "diagramDescriptions": ["Chart showing different types of lines and the mood each creates"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts types of lines and their visual effects site:youtube.com",
+      "quiz": [
+        {"q": "Horizontal lines tend to suggest:", "opts": ["Excitement and danger", "Calmness and rest", "Nothing at all", "Uncertainty"], "ans": 1, "explanation": "Horizontal lines are associated with the horizon, suggesting calmness and stability."},
+        {"q": "Vertical lines tend to suggest:", "opts": ["Incompleteness", "Strength and dignity", "Softness and grace", "Nothing at all"], "ans": 1, "explanation": "Vertical lines suggest height, strength, and dignity, like a standing pillar."},
+        {"q": "Diagonal lines tend to suggest:", "opts": ["Only calmness", "Movement or tension", "Nothing visual at all", "Complete stillness"], "ans": 1, "explanation": "Diagonal lines are unstable, suggesting movement, action, or tension."},
+        {"q": "Curved lines tend to suggest:", "opts": ["Danger only", "Nothing at all", "Softness, grace, and natural flow", "Harshness and rigidity"], "ans": 2, "explanation": "Curved lines mimic natural forms, suggesting softness and gentle flow."},
+        {"q": "Zigzag lines tend to suggest:", "opts": ["Energy, excitement, or danger", "Softness only", "Nothing visual", "Complete calmness"], "ans": 0, "explanation": "Zigzag lines are sharp and sudden, suggesting high energy or danger."},
+        {"q": "Dotted or broken lines tend to suggest:", "opts": ["Complete solidity", "Something incomplete, uncertain, or a boundary", "Extreme boldness", "Nothing at all"], "ans": 1, "explanation": "Broken lines imply a lack of continuity, suggesting incompleteness or a hidden path."},
+        {"q": "Thick lines tend to feel:", "opts": ["Delicate and light", "Unrelated to visual weight", "Invisible", "Bold and heavy"], "ans": 3, "explanation": "Thick lines carry more visual weight, making them feel bold and heavy."},
+        {"q": "Thin lines tend to feel:", "opts": ["Invisible", "Unrelated to visual weight", "Bold and heavy", "Delicate and light"], "ans": 3, "explanation": "Thin lines carry less visual weight, making them feel delicate and light."},
+        {"q": "A calm, restful design would most likely use:", "opts": ["No lines at all", "Only dotted lines", "Zigzags and sharp diagonals", "Horizontal and curved lines"], "ans": 3, "explanation": "Horizontal and curved lines are the most effective for creating a calm, restful mood."},
+        {"q": "Different types of lines are compared to:", "opts": ["An unrelated random comparison", "Silence, with no comparison possible", "Different tones of voice used in speaking", "A single unchanging tone"], "ans": 2, "explanation": "Just as tone of voice changes how a message is felt, line type changes how a visual design is felt."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w2_su2",
+      "title": "2.2 Practical Application of Lines in Design",
+      "notes": [
+        "Practical Application of Lines in Design",
+        "",
+        "Key Concepts:",
+        "1. Creating Mood:",
+        "   - An artist deliberately chooses line types to achieve a specific emotional response from the viewer.",
+        "",
+        "2. Creating Movement and Direction:",
+        "   - Lines can guide the viewer's eye through a composition. Diagonal lines create a sense of dynamic movement, while curved lines create a gentle, flowing path.",
+        "",
+        "3. Defining Edges and Shapes:",
+        "   - Lines are used to outline forms and separate different areas of colour or texture in a design.",
+        "",
+        "Nigerian Context:",
+        "   - When designing a poster for a cultural festival, an artist might use bold, thick vertical lines to convey the dignity of the event, combined with curved lines to suggest the flowing movement of traditional dance."
+      ],
+      "diagramDescriptions": ["Examples of designs using lines to create specific moods and direct the eye"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts practical application of lines in design mood movement site:youtube.com",
+      "quiz": [
+        {"q": "When an artist chooses a specific line type to make the viewer feel a certain way, they are using line to create:", "opts": ["Confusion", "Mood", "Noise", "Invisibility"], "ans": 1, "explanation": "Line is a primary tool for establishing the emotional mood of an artwork."},
+        {"q": "Which type of line is most effective for guiding the viewer's eye dynamically through a composition?", "opts": ["Horizontal", "Vertical", "Diagonal", "Dotted"], "ans": 2, "explanation": "Diagonal lines create a sense of dynamic movement and direction."},
+        {"q": "Curved lines in a design can be used to suggest:", "opts": ["A rigid, mechanical structure", "A gentle, flowing path for the eye", "A sudden, shocking event", "A hidden boundary"], "ans": 1, "explanation": "Curved lines naturally lead the eye in a smooth, gentle, flowing manner."},
+        {"q": "Outlining a shape to separate it from the background is a function of:", "opts": ["Colour", "Texture", "Line", "Space"], "ans": 2, "explanation": "Line is fundamentally used to define edges and separate different areas."},
+        {"q": "To design a poster conveying the dignity and strength of a traditional event, an artist might use:", "opts": ["Thin, wavy lines", "Bold, thick vertical lines", "Random dotted lines", "Chaotic zigzags"], "ans": 1, "explanation": "Bold, thick vertical lines convey strength, stability, and dignity."},
+        {"q": "Using only chaotic zigzag lines in a design meant to be 'calm and peaceful' would result in:", "opts": ["A perfectly calm design", "A visual contradiction, creating tension instead of calm", "No visible effect", "An automatically improved design"], "ans": 1, "explanation": "Zigzag lines suggest energy and tension, which contradicts the goal of a calm design."},
+        {"q": "A designer wanting to show a 'hidden path' or something incomplete might use:", "opts": ["Thick, solid lines", "Dotted or broken lines", "Perfect circles", "Solid black shapes"], "ans": 1, "explanation": "Dotted or broken lines suggest incompleteness or a path to be followed."},
+        {"q": "In Nigerian textile design, repeating curved lines are often used to represent:", "opts": ["War and conflict", "Rivers, waves, or gentle natural flow", "Sharp rocks", "Industrial machinery"], "ans": 1, "explanation": "Curved lines naturally mimic the gentle flow of water or natural forms."},
+        {"q": "Deliberately choosing line types to achieve a specific effect is a sign of:", "opts": ["Accidental creation", "A skilled, thoughtful artist", "A lack of materials", "Random chance"], "ans": 1, "explanation": "Intentional use of line types demonstrates skill and thoughtful design."},
+        {"q": "Lines can be used to separate different areas of:", "opts": ["Only sound", "Only time", "Colour or texture in a design", "Nothing at all"], "ans": 2, "explanation": "Lines act as boundaries that separate different colours, shapes, or textures."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w2_su3",
+      "title": "2.3 Evaluation and Common Mistakes in Line Work",
+      "notes": [
+        "Evaluation and Common Mistakes in Line Work",
+        "",
+        "Key Concepts:",
+        "1. Evaluating Line Quality:",
+        "   - Good line work is confident, purposeful, and appropriate for the intended mood.",
+        "   - Poor line work is hesitant, messy, or uses line types that contradict the design's goal.",
+        "",
+        "2. Common Mistakes to Avoid:",
+        "   - Using line types randomly, without considering the specific mood or effect each type creates.",
+        "   - Assuming all straight lines feel the same (ignoring the differences between horizontal, vertical, and diagonal).",
+        "   - Drawing hesitant, 'hairy' lines (multiple short, overlapping strokes) instead of one confident, continuous stroke.",
+        "",
+        "Nigerian Context:",
+        "   - In JSS2 practical exams, students are often assessed on their ability to draw confident, continuous lines to outline objects or create patterns, rather than sketchy, uncertain marks."
+      ],
+      "diagramDescriptions": ["Side-by-side comparison of confident, purposeful line work vs. hesitant, messy line work"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts evaluating line work common mistakes site:youtube.com",
+      "quiz": [
+        {"q": "Good line work is typically described as:", "opts": ["Hesitant and messy", "Confident, purposeful, and appropriate", "Random and chaotic", "Invisible"], "ans": 1, "explanation": "Good line work shows intention and control, fitting the purpose of the design."},
+        {"q": "A common mistake in line work is using line types:", "opts": ["Deliberately for effect", "Randomly, without considering the mood", "Consistently throughout a pattern", "With confidence"], "ans": 1, "explanation": "Using lines randomly ignores their powerful ability to convey specific moods and effects."},
+        {"q": "Assuming all straight lines feel the same is a mistake because:", "opts": ["They do feel exactly the same", "Horizontal, vertical, and diagonal lines each create quite different emotional effects", "Straight lines have no emotional effect", "Only curved lines have emotional effects"], "ans": 1, "explanation": "Horizontal, vertical, and diagonal lines each convey distinctly different feelings (calm, strong, tense)."},
+        {"q": "Drawing hesitant, 'hairy' lines (multiple short, overlapping strokes) is a mistake because it looks:", "opts": ["Highly professional", "Uncertain and messy", "Perfectly smooth", "Intentionally bold"], "ans": 1, "explanation": "'Hairy' lines indicate a lack of confidence and result in a messy, unprofessional appearance."},
+        {"q": "Instead of drawing 'hairy' lines, a student should practice drawing:", "opts": ["No lines at all", "One confident, continuous stroke", "Only dotted lines", "Only thick lines"], "ans": 1, "explanation": "A single, confident, continuous stroke demonstrates control and results in cleaner line work."},
+        {"q": "In a practical exam, a student is assessed on their ability to draw:", "opts": ["As many lines as possible", "Confident, continuous lines to outline objects or create patterns", "Only straight lines", "Invisible lines"], "ans": 1, "explanation": "Examiners look for confidence, control, and purposeful line quality."},
+        {"q": "Evaluating line work involves asking:", "opts": ["How much ink was used?", "Is the line purposeful and appropriate for the intended mood?", "How long did it take to draw?", "What colour is the paper?"], "ans": 1, "explanation": "Evaluation focuses on the quality, intention, and appropriateness of the line."},
+        {"q": "A design meant to be 'energetic' that uses only thin, horizontal lines has a mismatch between:", "opts": ["The paper and the pencil", "The intended mood and the line type chosen", "The artist and the viewer", "Nothing, it is a perfect match"], "ans": 1, "explanation": "Thin, horizontal lines suggest calm and delicacy, which contradicts an 'energetic' goal."},
+        {"q": "Practicing drawing long, smooth curves helps a student to:", "opts": ["Waste paper", "Develop confidence and control in their line work", "Avoid using colour", "Draw only straight lines"], "ans": 1, "explanation": "Practicing smooth curves builds the muscle control and confidence needed for good line work."},
+        {"q": "Line work that contradicts the design's goal is considered:", "opts": ["Highly innovative", "Poor line work", "Perfectly balanced", "A sign of mastery"], "ans": 1, "explanation": "Line work must support the overall goal of the design; contradicting it is a fundamental error."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "List and briefly explain the effect of FIVE different types of lines.",
+      "markingGuide": "1 mark per correctly named type with its effect (5 total)."
+    },
+    {
+      "question": "Distinguish between horizontal, vertical, and diagonal straight lines, explaining the different feeling each creates.",
+      "markingGuide": "1.67 marks per correctly distinguished line type with its feeling (5 total)."
+    },
+    {
+      "question": "Explain why an artist might choose zigzag lines for a design meant to feel exciting, rather than curved lines.",
+      "markingGuide": "Clear, accurate explanation connecting line type to intended mood (5, holistic)."
+    },
+    {
+      "question": "Design (in words) a simple picture using at least THREE different line types, explaining the mood you are trying to create with each.",
+      "markingGuide": "1.67 marks per correctly described line type with its intended mood (3 types, 5 total)."
+    },
+    {
+      "question": "Explain, using the 'tone of voice' analogy or your own example, why the same design drawn with different line types can feel completely different to a viewer.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

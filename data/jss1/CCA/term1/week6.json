@@ -1,0 +1,147 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Tie and Dye Practicals: Methods of Tying, Dye Bath and Dyeing Process",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w6_su1",
+      "title": "6.1 Methods of Tying: Tying, Clamping, and Folding",
+      "notes": [
+        "Methods of Tying: Tying, Clamping, and Folding",
+        "",
+        "Key Concepts:",
+        "1. Tying:",
+        "   - Gathering a section of fabric and BINDING it tightly with thread, raffia, or rope.",
+        "   - The tighter the binding, the more effectively that area resists the dye.",
+        "   - Creates circular or starburst patterns.",
+        "",
+        "2. Clamping:",
+        "   - Folding the fabric and pressing it FIRMLY between two flat objects (like wooden boards or shaped blocks).",
+        "   - Held together tightly with string, clips, or a vice.",
+        "   - Creates geometric, symmetrical patterns.",
+        "",
+        "3. Folding:",
+        "   - Folding the fabric in a specific repeated pattern (accordion-style pleats, or into triangles/squares) BEFORE tying or clamping.",
+        "   - Creates symmetrical, repeating patterns, since each fold layer is affected the same way.",
+        "",
+        "Nigerian Context:",
+        "   - Skilled Adire artists in Ogun State often COMBINE these three methods within a single piece of cloth to create complex, layered, and highly valued traditional designs."
+      ],
+      "diagramDescriptions": ["Visual guide showing tying, clamping, and folding techniques"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts methods of tying clamping folding tie and dye site:youtube.com",
+      "quiz": [
+        {"q": "Tying involves:", "opts": ["painting fabric directly", "only folding fabric with no binding", "gathering a section of fabric and binding it tightly", "pressing fabric between flat objects"], "ans": 2, "explanation": "Tying is the act of gathering and tightly binding fabric to create a resist area."},
+        {"q": "Tying typically creates ___ patterns.", "opts": ["circular or starburst", "no pattern at all", "random colours with no shape", "perfectly straight lines only"], "ans": 0, "explanation": "The gathered, bound points naturally create circular or radiating starburst designs."},
+        {"q": "Clamping involves:", "opts": ["gathering fabric into a loose bundle", "folding fabric and pressing it firmly between two flat objects", "cutting fabric into pieces", "dyeing fabric with no preparation"], "ans": 1, "explanation": "Clamping uses pressure from flat objects to create sharp, geometric resist lines."},
+        {"q": "Clamping typically creates ___ patterns.", "opts": ["random, chaotic", "no visible pattern", "geometric, symmetrical", "only circular shapes"], "ans": 2, "explanation": "The flat, even pressure of clamping produces clean, geometric, and symmetrical patterns."},
+        {"q": "Folding involves:", "opts": ["painting fabric directly with a brush", "carving fabric with a knife", "folding fabric in a specific repeated pattern before tying or clamping", "ignoring the fabric's shape entirely"], "ans": 2, "explanation": "Folding creates a template of repeated layers that will dye uniformly."},
+        {"q": "Folded fabric creates symmetrical patterns because:", "opts": ["each layer is affected completely differently", "folding destroys the fabric entirely", "each fold layer is affected the same way by the dye/resist", "folding has no effect on the final pattern"], "ans": 2, "explanation": "Since every layer is in the same relative position, the dye affects them identically, creating symmetry."},
+        {"q": "Skilled artists often ___ these three methods for complex designs.", "opts": ["combine", "confuse with painting", "avoid entirely", "never use more than one of"], "ans": 0, "explanation": "Combining tying, clamping, and folding allows for intricate, multi-layered patterns."},
+        {"q": "A weak, loose binding during tying is likely to:", "opts": ["create a perfectly sharp pattern", "allow dye to seep through, blurring the pattern", "improve the pattern's clarity", "have no effect on the final result"], "ans": 1, "explanation": "A loose bind fails to resist the dye, resulting in a blurred, muddy pattern."},
+        {"q": "The tighter the binding in tying, the:", "opts": ["less relevant the technique becomes", "more effectively that area resists the dye", "more dye is absorbed in that area", "less effectively that area resists the dye"], "ans": 1, "explanation": "Tightness is the key factor in preventing the dye liquid from reaching the fabric fibres."},
+        {"q": "The three tying methods are compared to:", "opts": ["methods with no visible difference in result", "a single unchanging method", "three different ways of covering your eyes during a game", "unrelated random actions"], "ans": 2, "explanation": "Just as different ways of covering your eyes block light differently, these methods block dye in distinct ways."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w6_su2",
+      "title": "6.2 Dye Bath Preparation",
+      "notes": [
+        "Dye Bath Preparation",
+        "",
+        "Key Concepts:",
+        "1. Measuring and Mixing:",
+        "   - Dissolve the DYE PIGMENT in the correct amount of WARM water, following the dye's specific instructions for concentration.",
+        "   - Warm water helps the pigment dissolve more completely than cold water.",
+        "",
+        "2. Adding Chemicals:",
+        "   - Add required chemicals (like caustic soda or fixing agents) in the correct proportion.",
+        "   - Stir THOROUGHLY with a wooden stick until the dye is FULLY dissolved.",
+        "",
+        "3. Avoiding Clumps:",
+        "   - Ensure there are no clumps or uneven patches in the dye bath.",
+        "   - Clumps of undissolved pigment will cause blotchy, uneven colouring on the fabric.",
+        "",
+        "Nigerian Context:",
+        "   - In local dyeing pits, experienced dyers know that rushing the stirring process or using water that is too cold results in a weak, uneven dye that fades quickly after washing."
+      ],
+      "diagramDescriptions": ["Step-by-step guide to mixing a proper dye bath"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts dye bath preparation tie and dye site:youtube.com",
+      "quiz": [
+        {"q": "Preparing a dye bath involves dissolving dye pigment in:", "opts": ["oil instead of water", "warm water, following the correct concentration", "cold water only, with no measurement", "no water at all"], "ans": 1, "explanation": "Warm water is ideal for dissolving dye pigment evenly and effectively."},
+        {"q": "The dye bath should be stirred thoroughly to:", "opts": ["leave the pigment undissolved intentionally", "fully dissolve the pigment and avoid clumps", "create uneven colouring on purpose", "waste time unnecessarily"], "ans": 1, "explanation": "Thorough stirring ensures a uniform colour and prevents blotchy results."},
+        {"q": "Chemicals in the dye bath should be added:", "opts": ["in random amounts", "in the correct proportion as instructed", "only after the fabric is removed", "without stirring"], "ans": 1, "explanation": "Correct proportions are vital for the dye to fix properly and safely to the fabric."},
+        {"q": "A wooden stick is the best tool for stirring because:", "opts": ["it is the only thing available", "it does not react with the chemicals like metal might", "it dissolves in the water", "it is heavy"], "ans": 1, "explanation": "Wood is non-reactive and safe to use with dyeing chemicals, unlike some metals."},
+        {"q": "Clumps of undissolved pigment in the dye bath can cause:", "opts": ["perfectly even colouring", "no visible effect at all", "the fabric to remain completely white", "blotchy, uneven colouring on the fabric"], "ans": 3, "explanation": "Undissolved clumps stick to the fabric, creating dark, unwanted spots."},
+        {"q": "If the dye bath is too watery (thin), it may result in:", "opts": ["a very dark, rich colour", "a weak, pale colour that fades quickly", "the fabric dissolving", "no effect on the colour"], "ans": 1, "explanation": "A thin dye bath lacks sufficient pigment concentration to colour the fabric deeply."},
+        {"q": "Before placing the fabric in the dye bath, it is often helpful to:", "opts": ["paint it first", "wet it with clean water", "burn the edges", "fold it randomly"], "ans": 1, "explanation": "Pre-wetting the fabric helps the dye absorb more evenly, preventing blotchy dry spots."},
+        {"q": "Preparing a dye bath properly is compared to:", "opts": ["a task requiring no preparation at all", "rushing through an unrelated task with no care", "brewing a proper pot of tea, taking the right time", "an activity with no connection to patience"], "ans": 2, "explanation": "Like brewing tea, proper dye preparation requires patience and correct proportions for a rich result."},
+        {"q": "Which of these is a sign of a well-prepared dye bath?", "opts": ["Visible clumps at the bottom", "A smooth, evenly coloured liquid", "A strong, burning chemical smell", "A very thick, paste-like consistency"], "ans": 1, "explanation": "A smooth, evenly coloured liquid indicates the pigment and chemicals are fully dissolved."},
+        {"q": "Rushing the dye bath preparation is likely to:", "opts": ["improve the final pattern", "have no effect", "lead to uneven, disappointing results", "make the dye last longer"], "ans": 2, "explanation": "Rushing leads to poor mixing, which directly causes uneven dyeing and weak colour."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w6_su3",
+      "title": "6.3 The Dyeing Process and Finishing",
+      "notes": [
+        "The Dyeing Process and Finishing",
+        "",
+        "Key Concepts:",
+        "1. Submerging and Soaking:",
+        "   - FULLY SUBMERGE the tied/clamped/folded fabric into the prepared dye bath.",
+        "   - ALLOW sufficient TIME for the dye to soak in (following the specific dye's recommended time, often several minutes to an hour).",
+        "",
+        "2. Ensuring Even Coverage:",
+        "   - Periodically TURN or move the fabric gently in the dye bath for even colour distribution.",
+        "   - Ensure no parts of the fabric are sticking out of the liquid, as this will cause uneven dyeing.",
+        "",
+        "3. Rinsing and Drying:",
+        "   - REMOVE the fabric and RINSE thoroughly in clean, cold water until the water runs clear.",
+        "   - UNTIE the fabric carefully to reveal the finished pattern.",
+        "   - Allow the fabric to fully DRY in the shade (direct hot sun can fade some dyes).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian tie and dye, the final rinsing is crucial. If not rinsed until the water runs clear, the excess dye will bleed onto the white resist areas, ruining the sharp contrast of the pattern."
+      ],
+      "diagramDescriptions": ["Flowchart of the dyeing, rinsing, and drying process"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts dyeing process rinsing drying tie and dye site:youtube.com",
+      "quiz": [
+        {"q": "The fabric should be ___ in the dye bath.", "opts": ["fully submerged", "left outside the bath entirely", "only partially dipped, deliberately", "placed on top of the water, floating"], "ans": 0, "explanation": "Full submersion ensures the entire fabric is exposed to the dye evenly."},
+        {"q": "Turning the fabric periodically during dyeing helps to:", "opts": ["create deliberately uneven colouring", "distribute the colour evenly", "remove all colour from the fabric", "have no effect on the outcome"], "ans": 1, "explanation": "Gentle turning prevents the dye from settling unevenly on one side of the fabric."},
+        {"q": "After dyeing, the fabric should be rinsed until:", "opts": ["the water runs clear", "the water becomes darker and darker", "the fabric dissolves completely", "no rinsing is needed at all"], "ans": 0, "explanation": "Rinsing until the water is clear ensures all excess, unfixed dye is removed, protecting the white areas."},
+        {"q": "The fabric is untied ___ the dyeing process.", "opts": ["never, remaining tied permanently", "before dyeing even begins", "after rinsing, near the end of", "during the middle of the dye bath soak, always"], "ans": 2, "explanation": "Untying happens after the dye has set and the excess has been rinsed away, revealing the pattern."},
+        {"q": "Removing fabric from the dye bath too early is likely to result in:", "opts": ["no effect on the final colour", "perfectly rich, deep colour every time", "an improved, more vivid pattern", "insufficiently absorbed colour"], "ans": 3, "explanation": "Insufficient soaking time means the dye hasn't fully penetrated the fibres, resulting in a pale colour."},
+        {"q": "It is best to dry the finished tie and dye fabric:", "opts": ["in direct, hot midday sun", "in the shade", "in a closed, damp cupboard", "near an open fire"], "ans": 1, "explanation": "Drying in the shade prevents the vibrant colours from fading or bleaching in harsh sunlight."},
+        {"q": "If a piece of fabric sticks out of the dye bath, it will likely:", "opts": ["dye perfectly", "remain undyed or patchy in that area", "dye a darker colour", "shrink"], "ans": 1, "explanation": "Any part not submerged in the liquid will not absorb the dye properly."},
+        {"q": "The final reveal of the pattern happens when you:", "opts": ["submerge the fabric", "stir the dye bath", "untie or unfold the fabric", "mix the chemicals"], "ans": 2, "explanation": "Untying or unfolding is the exciting moment the resist pattern is finally visible."},
+        {"q": "Why is cold water often used for the final rinsing?", "opts": ["To make the fabric shrink", "To help set the dye and wash away excess pigment", "To dissolve the fabric", "To make the dye brighter"], "ans": 1, "explanation": "Cold water helps close the fabric fibres, locking in the dye while washing away the loose excess."},
+        {"q": "A successful tie and dye process requires:", "opts": ["rushing through every step", "patience, careful preparation, and proper timing", "ignoring the instructions", "using only hot water for rinsing"], "ans": 1, "explanation": "Patience and attention to timing and preparation are the keys to a sharp, vibrant final product."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Describe the tying method of tie and dye preparation, and the type of pattern it typically produces.",
+      "markingGuide": "Clear description of the method (2.5); correct pattern type stated (2.5)."
+    },
+    {
+      "question": "Describe the clamping method of tie and dye preparation, and the type of pattern it typically produces.",
+      "markingGuide": "Clear description of the method (2.5); correct pattern type stated (2.5)."
+    },
+    {
+      "question": "Describe the folding method of tie and dye preparation, explaining why it creates symmetrical patterns.",
+      "markingGuide": "Clear description of the method (2.5); correct explanation of symmetry (2.5)."
+    },
+    {
+      "question": "Describe, in the correct order, the full dyeing process from wetting the fabric to the final dried result.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain TWO common mistakes that can occur during tie and dye preparation or dyeing, and how to avoid each.",
+      "markingGuide": "2.5 marks each for a correctly identified mistake with a valid way to avoid it."
+    }
+  ]
+}

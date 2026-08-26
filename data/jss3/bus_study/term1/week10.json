@@ -1,0 +1,137 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Sales Documents",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w10_su1",
+      "title": "10.1 Invoice, Proforma Invoice, and Receipt",
+      "notes": [
+        "Invoice, Proforma Invoice, and Receipt",
+        "",
+        "Key Concepts:",
+        "1. Invoice:",
+        "   - A document a SELLER sends to a BUYER, listing the goods or services supplied, their quantities, prices, and the TOTAL amount OWED.",
+        "   - It is essentially a BILL, typically used for CREDIT sales, showing exactly what payment is expected and when.",
+        "",
+        "2. Proforma Invoice:",
+        "   - Looks similar to an invoice but is sent BEFORE the goods are actually supplied.",
+        "   - It is an ESTIMATE or QUOTE of what will be charged, allowing the buyer to confirm they want to proceed or arrange for payment/funding.",
+        "",
+        "3. Receipt:",
+        "   - A document ISSUED by the seller to the buyer as PROOF that payment has been RECEIVED.",
+        "   - Unlike an invoice (which shows what is OWED), a receipt confirms the money has ALREADY changed hands. It is especially important for CASH sales.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, it is a common practice for suppliers to send a Proforma Invoice to a company so the company can process payment approval from their bank or management before the actual goods are delivered and the final Invoice is raised."
+      ],
+      "diagramDescriptions": ["Side-by-side comparison of an Invoice, Proforma Invoice, and Receipt with key features highlighted"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies invoice proforma invoice receipt differences site:youtube.com",
+      "quiz": [
+        {"q": "What is an invoice?", "opts": ["A letter requesting information", "Proof that payment has been received", "An estimate sent before goods are supplied", "A document listing goods supplied and the amount owed"], "ans": 3, "explanation": "An invoice is a bill detailing the goods supplied and the total amount the buyer is obligated to pay."},
+        {"q": "What is a proforma invoice?", "opts": ["An estimate sent before goods are actually supplied", "A record of stock levels", "Proof that payment has been received", "A bill for goods already supplied"], "ans": 0, "explanation": "A proforma invoice is a preliminary bill or estimate sent to a buyer before the actual transaction occurs."},
+        {"q": "What is a receipt?", "opts": ["An estimate of future costs", "A request for goods", "Proof that payment has been received", "A bill showing what is owed"], "ans": 2, "explanation": "A receipt serves as official proof that the seller has received payment from the buyer."},
+        {"q": "An invoice is typically used for which type of sale?", "opts": ["Only cash", "No", "Foreign only", "Credit"], "ans": 3, "explanation": "Invoices are bills sent to buyers to request payment for goods already supplied on credit."},
+        {"q": "A receipt is especially important for which type of sale?", "opts": ["Only credit", "Cash", "No", "Foreign only"], "ans": 1, "explanation": "Receipts are the primary document used to acknowledge immediate cash payment."},
+        {"q": "A proforma invoice is sent ___ goods are supplied.", "opts": ["before", "only years after", "during, never before or after", "after"], "ans": 0, "explanation": "A proforma invoice is sent in advance to give the buyer an estimate of costs before the order is finalized."},
+        {"q": "Which document confirms money has ALREADY changed hands?", "opts": ["Invoice", "Proforma invoice", "Receipt", "None of these"], "ans": 2, "explanation": "A receipt is issued only after payment has been successfully made."},
+        {"q": "Which document shows the TOTAL amount OWED by a buyer?", "opts": ["Proforma invoice only", "Invoice", "Receipt", "None of these"], "ans": 1, "explanation": "An invoice details the goods supplied and the exact amount the buyer owes."},
+        {"q": "These three documents are compared to which restaurant analogy stages?", "opts": ["Only the menu", "Unrelated stages", "Menu, bill, and proof of payment", "Only the bill"], "ans": 2, "explanation": "Proforma = Menu (estimate), Invoice = Bill (amount owed), Receipt = Proof of payment (settled bill)."},
+        {"q": "A proforma invoice allows the buyer to:", "opts": ["Confirm they want to proceed before the real transaction happens", "Avoid ever seeing prices", "Skip the transaction entirely", "Pay immediately with no estimate"], "ans": 0, "explanation": "It gives the buyer a clear estimate of costs so they can arrange funds or approve the purchase."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w10_su2",
+      "title": "10.2 Sales Daybook and Quotation",
+      "notes": [
+        "Sales Daybook and Quotation",
+        "",
+        "Key Concepts:",
+        "1. Sales Daybook:",
+        "   - A book (or digital record) where a business writes down EVERY credit sale it makes, DAY BY DAY, in the order they happen.",
+        "   - It acts as a running diary of all credit sales, later used to update customer accounts and financial records.",
+        "",
+        "2. Quotation:",
+        "   - A document a SELLER provides, stating the PRICE they would charge for specific goods or services.",
+        "   - It is usually issued in response to a customer's request (inquiry) and helps a buyer compare prices from different sellers before deciding who to buy from.",
+        "",
+        "Nigerian Context:",
+        "   - A school in Lagos wanting to buy 100 new desks will send a letter of inquiry to three different furniture makers. Each maker will respond with a Quotation. The school will then choose the best quotation before issuing an Order Letter."
+      ],
+      "diagramDescriptions": ["Sample layout of a Sales Daybook and a formal Quotation document"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies sales daybook quotation purpose and format site:youtube.com",
+      "quiz": [
+        {"q": "What is a sales daybook?", "opts": ["A single bill for one customer", "A means of transport", "A record of every credit sale, day by day", "A type of bank account"], "ans": 2, "explanation": "A sales daybook is a chronological record of all credit sales made by a business."},
+        {"q": "What is a quotation?", "opts": ["Proof of payment received", "A record of stock levels", "A type of insurance policy", "A stated price for goods/services, usually before an order is placed"], "ans": 3, "explanation": "A quotation is a formal statement of the price a seller is willing to accept for specific goods or services."},
+        {"q": "A sales daybook records sales:", "opts": ["Only for cash sales", "Day by day, in the order they happen", "Randomly, with no order", "Only once a year"], "ans": 1, "explanation": "It is a daily, chronological record specifically for credit sales."},
+        {"q": "A quotation is usually provided:", "opts": ["After goods have already been delivered", "In response to a customer's request for a price", "Never, under any circumstances", "Only after payment is made"], "ans": 1, "explanation": "Quotations are provided before an order is placed, helping the buyer make an informed decision."},
+        {"q": "A customer comparing prices from three suppliers before ordering would request a ___ from each.", "opts": ["Debit note", "Quotation", "Sales daybook", "Receipt"], "ans": 1, "explanation": "A quotation provides the price estimate needed for comparison."},
+        {"q": "A sales daybook is later used to:", "opts": ["Confuse the business", "Update customer accounts and financial records", "Replace the need for any records", "Be discarded immediately"], "ans": 1, "explanation": "The totals from the sales daybook are periodically posted to the general ledger and individual customer accounts."},
+        {"q": "A sales daybook is compared to:", "opts": ["A means of transport", "A diary recording every credit sale", "A single letter", "An advertisement"], "ans": 1, "explanation": "Like a diary, it faithfully records every credit transaction in the order it occurred."},
+        {"q": "Which of the following is NOT typically found in a quotation?", "opts": ["Description of goods", "Unit price", "Proof of payment", "Validity period of the quote"], "ans": 2, "explanation": "Proof of payment is found on a receipt, not a quotation, because no payment has been made yet."},
+        {"q": "Why is it important for a business to maintain an up-to-date sales daybook?", "opts": ["To make the office look busy", "To track credit sales accurately and prevent financial discrepancies", "To avoid paying taxes", "To hide sales from partners"], "ans": 1, "explanation": "An accurate sales daybook ensures all credit sales are tracked, billed, and collected properly."},
+        {"q": "If a quotation expires, it means:", "opts": ["The buyer must pay double", "The seller is no longer bound to the stated price", "The goods are free", "The transaction is legally binding forever"], "ans": 1, "explanation": "Quotations have a validity period; after it expires, the seller can change the price due to market fluctuations."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w10_su3",
+      "title": "10.3 Debit Note and Practical Document Handling",
+      "notes": [
+        "Debit Note and Practical Document Handling",
+        "",
+        "Key Concepts:",
+        "1. Debit Note:",
+        "   - A document sent by a SELLER to a BUYER (or sometimes by a buyer to a seller) to CORRECT an invoice that UNDERCHARGED the buyer.",
+        "   - It can also be used to record additional amounts owed after the original invoice was issued (e.g., extra shipping costs).",
+        "   - Essentially, it says: 'You owe MORE than the original invoice stated,' and INCREASES the buyer's outstanding balance.",
+        "",
+        "2. Practical Document Handling in Nigeria:",
+        "   - Documents must be filed systematically (e.g., alphabetically or by date) for easy retrieval.",
+        "   - Copies of all sales documents must be kept for auditing, tax purposes (FIRS), and resolving disputes.",
+        "",
+        "Nigerian Context:",
+        "   - If a Lagos-based supplier accidentally invoiced a Kano retailer for 50 bags of rice instead of the 55 bags actually delivered, the supplier will issue a Debit Note for the extra 5 bags to correct the undercharge."
+      ],
+      "diagramDescriptions": ["Flowchart showing when to use a Debit Note vs. a Credit Note"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies debit note purpose and practical document handling site:youtube.com",
+      "quiz": [
+        {"q": "What is a debit note?", "opts": ["A document correcting an invoice that undercharged the buyer", "A record of every sale", "Proof of payment received", "A price estimate before ordering"], "ans": 0, "explanation": "A debit note is issued to increase the amount a buyer owes, correcting an undercharge."},
+        {"q": "A debit note ___ the amount a buyer owes.", "opts": ["Increases", "Has no effect on", "Decreases", "Eliminates entirely"], "ans": 0, "explanation": "It adds to the outstanding balance, increasing the debt."},
+        {"q": "A seller correcting an invoice that undercharged a customer by ₦5,000 would send a:", "opts": ["Debit note", "Sales daybook", "Receipt", "Quotation"], "ans": 0, "explanation": "A debit note is the correct document to request additional payment for an undercharge."},
+        {"q": "Which of the following is a valid reason for issuing a debit note?", "opts": ["The buyer returned damaged goods", "The seller forgot to charge for extra delivery fees", "The buyer overpaid", "The goods were delivered early"], "ans": 1, "explanation": "Forgotten charges (undercharging) are corrected by issuing a debit note to increase the amount owed."},
+        {"q": "Proper document handling in an office requires that sales documents be:", "opts": ["Thrown away immediately", "Filed systematically for easy retrieval and auditing", "Given only to the cleaner", "Hidden from the accountant"], "ans": 1, "explanation": "Systematic filing ensures documents can be found quickly for reference, auditing, or dispute resolution."},
+        {"q": "Why must a business keep copies of all its sales documents?", "opts": ["To decorate the office", "For record-keeping, auditing, and resolving disputes", "To increase the price of goods", "To avoid paying taxes"], "ans": 1, "explanation": "Copies are essential for financial tracking, legal protection, and tax compliance."},
+        {"q": "If a buyer receives a debit note, their accounts payable balance will:", "opts": ["Decrease", "Increase", "Remain exactly the same", "Be cancelled"], "ans": 1, "explanation": "A debit note indicates they owe more money, increasing their payable balance."},
+        {"q": "Which government agency in Nigeria would be most interested in a business's properly filed sales documents?", "opts": ["NDLEA", "FIRS (Federal Inland Revenue Service)", "FRSC", "NNPC"], "ans": 1, "explanation": "FIRS requires accurate sales records to assess and collect the correct amount of taxes."},
+        {"q": "A debit note is the opposite of a:", "opts": ["Receipt", "Quotation", "Credit note", "Sales daybook"], "ans": 2, "explanation": "A debit note increases the amount owed (undercharge), while a credit note decreases it (overcharge/returns)."},
+        {"q": "In a well-organized office, who is typically responsible for issuing debit notes?", "opts": ["The security guard", "The sales or accounts department", "The cleaning staff", "The delivery driver"], "ans": 1, "explanation": "The accounts or sales department handles billing corrections and issues debit notes."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define invoice, proforma invoice, and receipt, distinguishing clearly between all three.",
+      "markingGuide": "1.5–1.75 marks per correctly defined and distinguished document (approx 5 marks total)."
+    },
+    {
+      "question": "Explain the purpose of a sales daybook, and describe what kind of sales it records.",
+      "markingGuide": "Clear explanation of purpose (2.5 marks); correct identification that it records credit sales, day by day (2.5 marks)."
+    },
+    {
+      "question": "Define a debit note, and explain, with a practical example, when a business would need to issue one.",
+      "markingGuide": "Correct definition (2.5 marks); valid example of an undercharge scenario (2.5 marks)."
+    },
+    {
+      "question": "A new business owner is confused about the difference between an invoice and a receipt. Explain the difference clearly, using a single transaction example to illustrate both documents.",
+      "markingGuide": "Clear, accurate distinction with a valid example transaction showing both documents (5 marks, holistic)."
+    },
+    {
+      "question": "State THREE reasons why proper filing and handling of sales documents are important to a business in Nigeria.",
+      "markingGuide": "1.5 marks per valid reason (e.g., auditing, tax compliance, dispute resolution) up to 5 marks."
+    }
+  ]
+}

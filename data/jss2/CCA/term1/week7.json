@@ -1,0 +1,139 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Colour: Definition, Sources, and Classification",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w7_su1",
+      "title": "7.1 Definition of Colour and Sources of Local (Natural) Colours",
+      "notes": [
+        "Definition of Colour and Sources of Local (Natural) Colours",
+        "",
+        "Key Concepts:",
+        "1. Definition of Colour:",
+        "   - The visual quality perceived when LIGHT of different wavelengths reflects off a surface and is detected by the eye.",
+        "   - Different wavelengths of reflected light are perceived as different HUES (red, blue, yellow, etc.).",
+        "",
+        "2. Traditional Local Sources of Colour in Nigeria:",
+        "   - INDIGO: A deep blue dye extracted from the indigo plant, central to traditional Adire dyeing.",
+        "   - CAMWOOD: A reddish dye from the camwood tree, traditionally used for body decoration and dyeing.",
+        "   - CHARCOAL and SOOT: Providing black pigment.",
+        "   - CLAY and OCHRE: Providing earthy reds, browns, and yellows.",
+        "   - Various PLANT extracts: Leaves, barks, and roots providing an extensive range of natural dyes.",
+        "",
+        "Nigerian Context:",
+        "   - These natural sources were used for generations before synthetic, manufactured dyes became widely available. Understanding them connects us to centuries of traditional Nigerian craft practice, like the famous Adire textiles of Abeokuta."
+      ],
+      "diagramDescriptions": ["Visual chart of traditional Nigerian colour sources: indigo plant, camwood, clay, charcoal"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts definition and local sources of colour Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "What is colour?", "opts": ["A type of carving technique", "A type of paper", "The visual quality perceived when light reflects off a surface and is detected by the eye", "A type of fabric"], "ans": 2, "explanation": "Colour is the visual perception of different wavelengths of light reflecting off a surface."},
+        {"q": "Which traditional Nigerian source produces a deep blue dye?", "opts": ["Clay", "Indigo", "Charcoal", "Camwood"], "ans": 1, "explanation": "Indigo, extracted from the indigo plant, produces a deep blue dye, famous in Adire."},
+        {"q": "Which traditional Nigerian source produces a reddish dye?", "opts": ["Indigo", "Charcoal", "Soot", "Camwood"], "ans": 3, "explanation": "Camwood, from the camwood tree, produces a traditional reddish dye."},
+        {"q": "Charcoal and soot provide ___ pigment.", "opts": ["Black", "Red", "Yellow", "Blue"], "ans": 0, "explanation": "Charcoal and soot are traditional sources of black pigment."},
+        {"q": "Clay and ochre provide ___ tones.", "opts": ["Only pure white", "Only bright blue", "No colour at all", "Earthy reds, browns, and yellows"], "ans": 3, "explanation": "Clay and ochre are natural earth pigments that provide warm, earthy tones."},
+        {"q": "Indigo is central to which traditional Nigerian dyeing tradition?", "opts": ["A foreign, non-Nigerian tradition", "Adire", "A tradition unrelated to dyeing", "No specific tradition"], "ans": 1, "explanation": "Indigo is the foundational dye for traditional Yoruba Adire cloth."},
+        {"q": "Natural sources of colour were used ___ synthetic, manufactured dyes became widely available.", "opts": ["For generations before", "At the exact same time as, with no earlier history", "Never, since natural sources were always unavailable", "Only after"], "ans": 0, "explanation": "Natural dyes were the original, exclusive sources of colour for generations before modern synthetics."},
+        {"q": "Local, natural colour sources are compared to ___ in this week's analogy.", "opts": ["A modern supermarket shelf, with no natural connection", "A pantry stocked entirely from nature's own garden", "A pantry with no ingredients at all", "An unrelated random comparison"], "ans": 1, "explanation": "Just as a traditional cook relied on locally grown ingredients, traditional artists relied on nature's garden for colour."},
+        {"q": "Different wavelengths of reflected light are perceived as different:", "opts": ["Hues", "Forms", "Shapes", "Textures"], "ans": 0, "explanation": "The specific wavelength of reflected light determines the hue (e.g., red, blue) we perceive."},
+        {"q": "Understanding natural colour sources connects us to:", "opts": ["Only modern manufacturing", "Only foreign traditions", "Nothing of cultural significance", "Nigerian cultural history and tradition"], "ans": 3, "explanation": "These sources are deeply rooted in Nigerian cultural history and traditional craft practices."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w7_su2",
+      "title": "7.2 Classification of Colour: Primary and Secondary Colours",
+      "notes": [
+        "Classification of Colour: Primary and Secondary Colours",
+        "",
+        "Key Concepts:",
+        "1. Primary Colours:",
+        "   - The THREE base colours: RED, YELLOW, and BLUE.",
+        "   - They CANNOT be created by mixing any other colours together. Every other colour is ultimately derived from these three.",
+        "",
+        "2. Secondary Colours:",
+        "   - Created by mixing TWO primary colours together in EQUAL amounts.",
+        "   - RED + YELLOW = ORANGE",
+        "   - YELLOW + BLUE = GREEN",
+        "   - BLUE + RED = PURPLE (or Violet)",
+        "",
+        "Nigerian Context:",
+        "   - Understanding these base relationships is essential for any Nigerian artist, whether mixing paint for a school project or planning the colour harmony of a traditional festival costume."
+      ],
+      "diagramDescriptions": ["Diagram showing the three primary colours and how they mix to form the three secondary colours"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts primary and secondary colours classification site:youtube.com",
+      "quiz": [
+        {"q": "The three primary colours are:", "opts": ["Orange, green, and purple", "Pink, brown, and gold", "Black, white, and grey", "Red, yellow, and blue"], "ans": 3, "explanation": "Red, yellow, and blue are the three base primary colours."},
+        {"q": "Primary colours:", "opts": ["Are created by mixing two secondary colours", "Cannot be created by mixing other colours", "Do not exist on the colour wheel", "Are always the same as secondary colours"], "ans": 1, "explanation": "Primary colours are the foundational colours that cannot be made by mixing others."},
+        {"q": "Secondary colours are created by:", "opts": ["Mixing black and white only", "Mixing three primary colours together", "Mixing two primary colours in equal amounts", "Never mixing any colours"], "ans": 2, "explanation": "Secondary colours are the direct result of mixing two primary colours equally."},
+        {"q": "Which of these is a secondary colour?", "opts": ["Orange", "Yellow", "Blue", "Red"], "ans": 0, "explanation": "Orange is a secondary colour, created by mixing red and yellow."},
+        {"q": "Mixing red and yellow in equal amounts produces:", "opts": ["Green", "Purple", "Orange", "Brown"], "ans": 2, "explanation": "Red + Yellow = Orange."},
+        {"q": "Mixing yellow and blue in equal amounts produces:", "opts": ["Green", "Orange", "Purple", "Red"], "ans": 0, "explanation": "Yellow + Blue = Green."},
+        {"q": "Mixing blue and red in equal amounts produces:", "opts": ["Orange", "Green", "Purple", "Brown"], "ans": 2, "explanation": "Blue + Red = Purple (or Violet)."},
+        {"q": "The colour classification system is compared to ___ in this week's analogy.", "opts": ["A family with no connections at all", "An unrelated random comparison", "A single, unchanging colour", "A family tree, with primary as grandparents"], "ans": 3, "explanation": "Primary colours are the 'grandparents', secondary colours are their 'children', showing a clear lineage."},
+        {"q": "Every other colour on the colour wheel is ultimately derived from:", "opts": ["Black and white only", "The three primary colours", "Random mixing", "Secondary colours alone"], "ans": 1, "explanation": "All colours can be traced back to combinations of red, yellow, and blue."},
+        {"q": "Understanding primary and secondary colours is essential for:", "opts": ["Avoiding colour use entirely", "Only modern manufacturing", "Any artist planning colour harmony or mixing paint", "Only digital artists"], "ans": 2, "explanation": "This foundational knowledge is crucial for any artist, traditional or modern, to mix and harmonize colours effectively."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w7_su3",
+      "title": "7.3 Classification of Colour: Intermediate Colours and Colour Harmony",
+      "notes": [
+        "Classification of Colour: Intermediate Colours and Colour Harmony",
+        "",
+        "Key Concepts:",
+        "1. Intermediate (Tertiary) Colours:",
+        "   - Created by mixing a PRIMARY colour with an ADJACENT secondary colour.",
+        "   - Examples: RED + ORANGE = Red-Orange; YELLOW + GREEN = Yellow-Green.",
+        "   - These sit BETWEEN a primary and secondary colour on the colour wheel, giving a wider, more nuanced range of options.",
+        "",
+        "2. Colour Harmony:",
+        "   - Refers to combinations of colours that are visually PLEASING when used together.",
+        "   - ANALOGOUS colours: Colours sitting NEXT to each other on the colour wheel (e.g., blue and green). They create a gentle, related effect.",
+        "   - COMPLEMENTARY colours: Colours sitting DIRECTLY OPPOSITE each other on the colour wheel (e.g., red and green). They create strong, vibrant CONTRAST when paired.",
+        "",
+        "Nigerian Context:",
+        "   - Nigerian artisans naturally apply colour harmony. An Adire designer might use analogous blues for a calm, flowing pattern, or complementary colours to make a specific motif boldly stand out."
+      ],
+      "diagramDescriptions": ["Colour wheel highlighting intermediate colours and showing analogous vs. complementary pairings"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts intermediate colours and colour harmony site:youtube.com",
+      "quiz": [
+        {"q": "Intermediate (tertiary) colours are created by mixing:", "opts": ["Black and white only", "A primary colour with an adjacent secondary colour", "Two secondary colours only", "Three primary colours together"], "ans": 1, "explanation": "Intermediate colours are a blend of a primary and its neighbouring secondary colour."},
+        {"q": "Which of these is an example of an intermediate colour?", "opts": ["Red-Orange", "Purple", "Green", "Blue"], "ans": 0, "explanation": "Red-Orange is an intermediate colour, sitting between primary red and secondary orange."},
+        {"q": "Colour harmony refers to:", "opts": ["A type of craft material", "Combinations of colours that are visually pleasing together", "Colours that never work well together", "A single colour used alone always"], "ans": 1, "explanation": "Colour harmony is the aesthetically pleasing arrangement or pairing of colours."},
+        {"q": "Analogous colours are ___ on the colour wheel.", "opts": ["Always identical", "Next to each other", "Directly opposite each other", "Unrelated to the colour wheel"], "ans": 1, "explanation": "Analogous colours are neighbours on the colour wheel, creating a gentle, unified effect."},
+        {"q": "Complementary colours are ___ on the colour wheel.", "opts": ["Next to each other", "Always identical", "Directly opposite each other", "Unrelated to the colour wheel"], "ans": 2, "explanation": "Complementary colours sit directly across from each other, creating maximum contrast."},
+        {"q": "Complementary colours create ___ when paired.", "opts": ["No visible effect at all", "Complete visual sameness", "An unrelated effect", "Strong, vibrant contrast"], "ans": 3, "explanation": "Because they are opposites, complementary colours make each other appear more vivid and contrasting."},
+        {"q": "An example of analogous colours would be:", "opts": ["Red and Green", "Blue and Green", "Yellow and Purple", "Red and Blue"], "ans": 1, "explanation": "Blue and Green sit next to each other on the colour wheel, making them analogous."},
+        {"q": "An example of complementary colours would be:", "opts": ["Yellow and Green", "Blue and Orange", "Red and Orange", "Green and Blue"], "ans": 1, "explanation": "Blue and Orange are directly opposite each other on the colour wheel."},
+        {"q": "Using analogous colours in a design typically creates a:", "opts": ["Chaotic, clashing effect", "Gentle, related, and harmonious effect", "Highly contrasting, vibrant effect", "Black and white effect"], "ans": 1, "explanation": "Because they share a primary colour base, analogous colours blend smoothly and harmoniously."},
+        {"q": "An Adire designer using different shades of blue next to each other is applying ___ colour harmony.", "opts": ["Complementary", "Analogous", "Monochrome only", "Random"], "ans": 1, "explanation": "Using neighbouring colours (like different blues or blue and green) is an analogous harmony."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define colour, and name THREE traditional Nigerian sources of natural colour with the hue each produces.",
+      "markingGuide": "Correct definition (2); three correctly named sources with hues (3)."
+    },
+    {
+      "question": "Name the three primary colours, and explain why they are called 'primary'.",
+      "markingGuide": "Correctly named colours (2.5); clear explanation of 'primary' (2.5)."
+    },
+    {
+      "question": "Name the three secondary colours, and explain how each is created.",
+      "markingGuide": "Correctly named colours (2.5); correct mixing explanation for each (2.5)."
+    },
+    {
+      "question": "Explain the meaning of intermediate (tertiary) colours, giving TWO examples.",
+      "markingGuide": "Clear definition (2.5); two correctly named examples (2.5)."
+    },
+    {
+      "question": "Distinguish between analogous and complementary colour harmony, giving an example of each and explaining the different visual effect each creates.",
+      "markingGuide": "2.5 marks each for a correct definition, example, and effect described for both types."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 12,
+  "topic": "The Receptionist",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w12_su1",
+      "title": "12.1 Meaning, Qualities, and Duties of a Receptionist",
+      "notes": [
+        "Meaning, Qualities, and Duties of a Receptionist",
+        "",
+        "Key Concepts:",
+        "1. Meaning of a Receptionist:",
+        "   - The office worker responsible for WELCOMING visitors, answering enquiries, and managing the FIRST POINT of contact between an organization and the outside world.",
+        "",
+        "2. Importance:",
+        "   - Since the receptionist is often the VERY FIRST person a visitor meets, they SHAPE a visitor's entire first impression of the organization.",
+        "",
+        "3. Important Qualities:",
+        "   - Friendliness and a warm, welcoming manner.",
+        "   - Patience (dealing calmly with difficult or confused visitors).",
+        "   - Good communication skills (clear speech and active listening).",
+        "   - Organisational ability (managing appointments, messages, and visitor flow).",
+        "   - Discretion (handling sensitive information carefully).",
+        "",
+        "4. Main Duties:",
+        "   - Greeting and directing visitors.",
+        "   - Answering and transferring telephone calls.",
+        "   - Scheduling appointments.",
+        "   - Maintaining the visitors' book.",
+        "   - Providing basic information about the organization.",
+        "",
+        "Nigerian Context:",
+        "   - In a Nigerian corporate office or bank, the receptionist is the 'face' of the company. A rude or disorganized receptionist can sour a client's opinion of the entire bank, no matter how excellent the actual banking services are."
+      ],
+      "diagramDescriptions": ["List of key qualities and duties of a professional receptionist"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies meaning qualities and duties of a receptionist site:youtube.com",
+      "quiz": [
+        {"q": "What is a receptionist?", "opts": ["Only a cleaner", "The head of the organization", "The office worker responsible for welcoming visitors and managing first contact", "Only a security guard"], "ans": 2, "explanation": "A receptionist manages the first point of contact, welcoming visitors and handling initial enquiries."},
+        {"q": "A receptionist is often the ___ person a visitor meets.", "opts": ["Very last", "Very first", "Least important", "Randomly selected"], "ans": 1, "explanation": "The receptionist is typically the first point of human contact in an organization."},
+        {"q": "Which of these is a quality of a good receptionist?", "opts": ["Carelessness", "Friendliness", "Rudeness", "Impatience"], "ans": 1, "explanation": "Friendliness helps create a positive first impression for visitors."},
+        {"q": "Calmly handling a confused or difficult visitor shows:", "opts": ["Carelessness", "Dishonesty", "Patience", "Rudeness"], "ans": 2, "explanation": "Patience is required to assist visitors who may not know where to go or what to do."},
+        {"q": "Handling sensitive information carefully is called:", "opts": ["Rudeness", "Gossip", "Discretion", "Carelessness"], "ans": 2, "explanation": "Discretion means keeping private or sensitive information confidential."},
+        {"q": "Which of these is a duty of a receptionist?", "opts": ["Manufacturing products", "Managing the company's entire budget alone", "Greeting and directing visitors", "Farming crops"], "ans": 2, "explanation": "Greeting and directing visitors is a core duty of the receptionist."},
+        {"q": "A receptionist maintaining a record of everyone who visits the office keeps a:", "opts": ["Sales daybook", "Purchases daybook", "Visitors' book", "Ledger only"], "ans": 2, "explanation": "The visitors' book is used to log the names, times, and purposes of all office visitors."},
+        {"q": "A receptionist taking a message for a colleague in a meeting is performing which duty?", "opts": ["Financial accounting", "Manufacturing goods", "Farming", "Answering and appropriately handling calls"], "ans": 3, "explanation": "Handling calls and taking messages is a standard receptionist duty."},
+        {"q": "A receptionist is compared to:", "opts": ["The least visible worker", "A completely unimportant office role", "The front door of a house, but living and speaking", "A random stranger"], "ans": 2, "explanation": "Like a front door, the receptionist creates the very first impression of the entire organization."},
+        {"q": "A poor first impression created by a rude receptionist can:", "opts": ["Have no effect at all", "Always be immediately forgotten", "Sour a visitor's opinion of the whole organization", "Improve the organization's reputation"], "ans": 2, "explanation": "The receptionist's behavior heavily influences the visitor's overall perception of the company."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w12_su2",
+      "title": "12.2 How to Receive and Treat Visitors",
+      "notes": [
+        "How to Receive and Treat Visitors",
+        "",
+        "Key Concepts:",
+        "1. Steps in Receiving Visitors Properly:",
+        "   - Greet them promptly and warmly as soon as they arrive.",
+        "   - Ask politely who they wish to see and the purpose of their visit.",
+        "   - Offer a seat if they must wait.",
+        "   - Inform the relevant staff member of the visitor's arrival.",
+        "   - Record the visit in the visitors' book.",
+        "",
+        "2. Treating Visitors with Respect:",
+        "   - Visitors should be treated with RESPECT and PATIENCE regardless of their appearance, status, or how busy the office is at that moment.",
+        "   - Never ignore a visitor to finish paperwork or a personal phone call.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian culture, hospitality is highly valued. A receptionist who offers a visitor a seat and perhaps a glass of water while they wait demonstrates excellent professional hospitality and respect."
+      ],
+      "diagramDescriptions": ["Step-by-step flowchart of the proper procedure for receiving a visitor"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies how to receive and treat visitors professionally site:youtube.com",
+      "quiz": [
+        {"q": "How should a receptionist greet a visitor?", "opts": ["After a long delay, without acknowledgement", "Promptly and warmly, as soon as they arrive", "Only if the visitor looks important", "Rudely, to discourage visitors"], "ans": 1, "explanation": "Prompt and warm greetings make visitors feel valued and respected."},
+        {"q": "A receptionist should ask a visitor:", "opts": ["Only their name, nothing else", "Politely who they wish to see and the purpose of their visit", "To leave immediately", "Nothing at all"], "ans": 1, "explanation": "Knowing who the visitor wants to see and why helps the receptionist direct them correctly."},
+        {"q": "If a visitor must wait, the receptionist should:", "opts": ["Ignore them completely", "Offer them a seat", "Send them away", "Ask them to stand indefinitely"], "ans": 1, "explanation": "Offering a seat is a basic courtesy that makes waiting more comfortable."},
+        {"q": "All visitors should be treated with:", "opts": ["Respect only for important-looking visitors", "Rudeness if the office is busy", "Suspicion always", "Respect and patience, regardless of appearance or status"], "ans": 3, "explanation": "Professionalism requires equal respect for all visitors, regardless of their perceived status."},
+        {"q": "A receptionist ignoring a visitor for several minutes while doing paperwork is showing:", "opts": ["Poor practice, falling short of prompt greeting standards", "Excellent customer service", "No issue at all", "Appropriate prioritisation"], "ans": 0, "explanation": "Visitors should always be acknowledged promptly, even if the receptionist is busy."},
+        {"q": "Recording a visit in the visitors' book is part of:", "opts": ["Transport management", "Properly receiving visitors", "The dress code", "Financial accounting only"], "ans": 1, "explanation": "Logging the visit is a standard security and administrative step in receiving visitors."},
+        {"q": "Receiving a visitor properly is compared to:", "opts": ["Ignoring a stranger entirely", "A task with no real standards", "Being a gracious host welcoming a guest into your home", "Treating visitors as an inconvenience"], "ans": 2, "explanation": "Like a gracious host, a receptionist should make the visitor feel welcome and attended to."},
+        {"q": "If a visitor arrives to see a manager who is currently in a meeting, the receptionist should:", "opts": ["Tell the visitor to go home", "Politely ask the visitor to wait and inform the manager", "Let the visitor barge into the meeting", "Ignore the visitor"], "ans": 1, "explanation": "The professional response is to manage the wait politely and notify the manager of the arrival."},
+        {"q": "Why is it important to ask the purpose of a visitor's visit?", "opts": ["To be nosy", "To ensure they are directed to the correct person or department", "To delay them", "To charge them an entry fee"], "ans": 1, "explanation": "Knowing the purpose ensures efficient routing and security within the organization."},
+        {"q": "A receptionist should NEVER:", "opts": ["Smile at visitors", "Take messages for absent staff", "Argue with or be rude to a visitor", "Keep a visitors' book"], "ans": 2, "explanation": "Arguing or being rude violates the core principle of professional visitor treatment."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w12_su3",
+      "title": "12.3 Appropriate Dress Code and Professionalism",
+      "notes": [
+        "Appropriate Dress Code and Professionalism",
+        "",
+        "Key Concepts:",
+        "1. Importance of Dress Code:",
+        "   - A receptionist's appearance reflects directly on the organization's professional image.",
+        "   - Visitors often judge the competence and seriousness of a company based on how its front-line staff are dressed.",
+        "",
+        "2. Elements of an Appropriate Dress Code:",
+        "   - Neat, clean, and professional clothing (following the organization's specific dress policy, e.g., corporate attire or traditional professional wear).",
+        "   - Good personal grooming and hygiene.",
+        "   - Avoiding overly casual, flashy, or distracting attire (e.g., beachwear, torn jeans, or excessive jewelry) that might seem unprofessional in a formal office setting.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian banks and corporate headquarters, receptionists are often required to wear specific corporate uniforms or formal traditional attire (like well-tailored Ankara or suit equivalents) to project a sharp, trustworthy, and professional image."
+      ],
+      "diagramDescriptions": ["Visual guide showing appropriate vs. inappropriate office dress codes for receptionists"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies appropriate dress code and professionalism for receptionists site:youtube.com",
+      "quiz": [
+        {"q": "An appropriate dress code for a receptionist typically means:", "opts": ["No attention to appearance at all", "Flashy, distracting outfits", "Neat, clean, professional clothing", "Casual beachwear"], "ans": 2, "explanation": "Professionalism requires neat, clean, and appropriate attire for the workplace."},
+        {"q": "A receptionist's appearance reflects on:", "opts": ["No one at all", "Nothing beyond herself", "The organization's professional image", "Only her personal preferences"], "ans": 2, "explanation": "As the first point of contact, the receptionist's appearance is seen as a reflection of the entire company."},
+        {"q": "Good personal grooming and hygiene are part of:", "opts": ["Transport documentation", "The visitors' book", "An appropriate dress code", "The purchases daybook"], "ans": 2, "explanation": "Grooming and hygiene are essential components of a professional appearance and dress code."},
+        {"q": "A receptionist wearing bright, casual beach-style clothing to work in a formal corporate office is:", "opts": ["Following the dress code perfectly", "Being creative", "Violating professional dress standards", "Setting a new trend"], "ans": 2, "explanation": "Casual beachwear is inappropriate for a formal corporate environment."},
+        {"q": "Why is a dress code important for a receptionist?", "opts": ["To make all employees look exactly the same", "To project a professional, trustworthy image to visitors", "To make the receptionist uncomfortable", "To save money on clothing"], "ans": 1, "explanation": "A dress code ensures that the organization presents a unified, professional image to the public."},
+        {"q": "Which of the following is generally considered UNPROFESSIONAL for a receptionist?", "opts": ["A neatly pressed shirt", "Closed-toe shoes", "Torn jeans and slippers", "A company name tag"], "ans": 2, "explanation": "Torn jeans and slippers are too casual for a professional office environment."},
+        {"q": "If an organization has a specific uniform policy, the receptionist should:", "opts": ["Modify it to their personal taste", "Wear it neatly and as prescribed", "Ignore it completely", "Wear it only on Fridays"], "ans": 1, "explanation": "Uniform policies must be followed neatly and consistently to maintain professional standards."},
+        {"q": "Excessive perfume or loud jewelry on a receptionist can be considered:", "opts": ["A sign of high professionalism", "Distracting and unprofessional", "Required by law", "A way to impress visitors"], "ans": 1, "explanation": "Overly strong scents or loud accessories can be distracting and are generally discouraged in professional settings."},
+        {"q": "A receptionist's neat appearance helps to:", "opts": ["Confuse visitors", "Build trust and credibility with clients", "Slow down the work process", "Increase office expenses"], "ans": 1, "explanation": "A neat appearance signals competence and reliability, building trust with visitors."},
+        {"q": "Professionalism in a receptionist includes:", "opts": ["Only dressing well", "Dressing well, being polite, and performing duties efficiently", "Only being polite", "Only working fast"], "ans": 1, "explanation": "Professionalism is a combination of appearance, attitude, and efficient performance of duties."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, why a receptionist's role is important to an organization.",
+      "markingGuide": "Clear explanation covering first impressions and first point of contact (5 marks, holistic)."
+    },
+    {
+      "question": "List and briefly explain FIVE qualities of a good receptionist.",
+      "markingGuide": "1 mark per correctly named and briefly explained quality (5 marks total)."
+    },
+    {
+      "question": "List FIVE duties of a receptionist.",
+      "markingGuide": "1 mark per correctly and clearly stated duty (5 marks total)."
+    },
+    {
+      "question": "Describe the step-by-step procedure a receptionist should follow when a visitor arrives at the office.",
+      "markingGuide": "1 mark per correctly described step (greeting, asking purpose, offering a seat, informing staff, recording in visitors' book) — total 5 marks."
+    },
+    {
+      "question": "A new receptionist is unsure what to wear on her first day at a formal corporate office. Advise her on an appropriate dress code, and explain why her appearance matters for the organization.",
+      "markingGuide": "Clear advice on appropriate professional dress (2.5 marks); clear explanation of why it matters for the organization's image (2.5 marks)."
+    }
+  ]
+}

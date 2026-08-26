@@ -1,0 +1,142 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Tie and Dye: Meaning, Methods, Materials and Tools",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w5_su1",
+      "title": "5.1 Meaning and Methods of Tie and Dye",
+      "notes": [
+        "Meaning and Methods of Tie and Dye",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Tie and Dye:",
+        "   - A fabric craft where parts of a cloth are TIGHTLY BOUND, FOLDED, or SEALED BEFORE dyeing.",
+        "   - The bound areas RESIST the dye and remain the fabric's original colour, creating beautiful, often symmetrical patterns.",
+        "",
+        "2. Nigerian Context (Adire):",
+        "   - This resist-dyeing technique is widely practised across Nigeria and is famously known as ADIRE in Yoruba tradition, especially associated with Abeokuta, Ogun State.",
+        "",
+        "3. General Method Sequence:",
+        "   - Step 1: DESIGN the intended pattern.",
+        "   - Step 2: BIND, FOLD, or PREPARE the fabric to create resist areas.",
+        "   - Step 3: PREPARE the dye bath.",
+        "   - Step 4: DYE the fabric, allowing colour to soak in.",
+        "   - Step 5: RINSE and DRY the fabric.",
+        "   - Step 6: UNTIE/UNFOLD to reveal the finished pattern."
+      ],
+      "diagramDescriptions": ["Flowchart showing the 6 steps of the tie and dye process"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning and methods of tie and dye adire site:youtube.com",
+      "quiz": [
+        {"q": "What is tie and dye?", "opts": ["A type of pottery", "A method of carving wood", "A fabric craft where parts of cloth are bound before dyeing to create patterns", "A type of painting on canvas"], "ans": 2, "explanation": "Tie and dye involves binding fabric before dyeing so the bound areas resist the dye and create patterns."},
+        {"q": "The Yoruba name for a tie and dye tradition especially associated with Abeokuta is:", "opts": ["Nok", "Adire", "Aso-Oke", "Akwete"], "ans": 1, "explanation": "Adire is the famous Yoruba tie and dye tradition, particularly from Abeokuta."},
+        {"q": "Tied or bound areas of fabric ___ the dye.", "opts": ["fully absorb", "ignore completely", "destroy", "resist"], "ans": 3, "explanation": "The tight binding physically blocks the dye, causing those areas to 'resist' the colour."},
+        {"q": "The first step in the tie and dye process is to:", "opts": ["rinse the fabric", "immediately dye the fabric with no plan", "untie the fabric", "design the intended pattern"], "ans": 3, "explanation": "Designing the pattern is the crucial first step before any physical preparation begins."},
+        {"q": "After dyeing, the fabric should be:", "opts": ["ignored completely", "immediately burned", "left wet and untied forever", "rinsed and dried"], "ans": 3, "explanation": "Rinsing removes excess dye, and drying sets the fabric before it is untied."},
+        {"q": "The final step of the tie and dye process is to:", "opts": ["bind the fabric", "design the pattern", "untie/unfold to reveal the pattern", "prepare the dye bath"], "ans": 2, "explanation": "Untying or unfolding the fabric is the exciting final step that reveals the finished pattern."},
+        {"q": "Tied areas keep their ___ colour after dyeing.", "opts": ["invisible", "original", "completely new", "randomly changed"], "ans": 1, "explanation": "Because the dye cannot reach the tightly bound areas, they retain their original colour."},
+        {"q": "Tie and dye is described as a 'magic trick' because:", "opts": ["the exact final pattern can never be perfectly predicted", "it has no connection to art", "the result is always identical every time", "it involves no real skill"], "ans": 0, "explanation": "The resist process creates unique, slightly unpredictable patterns, making the final reveal a delightful surprise."},
+        {"q": "Why is careful design planning important before dyeing begins?", "opts": ["Design has no effect on the final result", "Planning is unnecessary and wastes time", "The pattern's success depends heavily on preparation before dyeing", "Dyeing always produces the same pattern regardless of preparation"], "ans": 2, "explanation": "Without a clear plan, the binding may be haphazard, leading to a muddy or unrecognizable final pattern."},
+        {"q": "The tie and dye technique is practised:", "opts": ["across Nigeria, known by different local names", "nowhere in Nigeria", "only outside Africa", "only in one single village worldwide"], "ans": 0, "explanation": "Tie and dye is a widespread Nigerian craft, known as Adire in Yoruba and by other names in different regions."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w5_su2",
+      "title": "5.2 Materials and Tools for Tie and Dye",
+      "notes": [
+        "Materials and Tools for Tie and Dye",
+        "",
+        "Key Concepts:",
+        "1. Main Materials:",
+        "   - FABRIC: Usually plain white or light-coloured cotton, which absorbs dye well and shows the new colour clearly.",
+        "   - DYE PIGMENT: The colouring substance, available in various colours.",
+        "   - CHEMICALS: Such as CAUSTIC SODA and HYDROCHLORIDE, which help FIX the dye to the fabric and affect colour intensity.",
+        "",
+        "2. Essential Tools:",
+        "   - PLASTIC BOWLS: For mixing and holding the dye (plastic resists staining and chemical damage better than metal).",
+        "   - GLOVES: To PROTECT the hands from dye stains and chemical irritation.",
+        "   - WOODEN STICKS: For stirring the dye and lifting fabric without direct hand contact with the hot or chemical-treated dye bath.",
+        "",
+        "3. Safety First:",
+        "   - Chemicals like caustic soda must be handled with CARE, as they can be harmful if mishandled. Gathering all materials and tools BEFORE starting keeps the process smooth and safe."
+      ],
+      "diagramDescriptions": ["Labeled diagram of tie and dye materials and tools"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts materials and tools for tie and dye safety site:youtube.com",
+      "quiz": [
+        {"q": "Which fabric type is generally preferred for tie and dye?", "opts": ["Metal sheets", "Already dark, heavily patterned fabric", "Plain white or light-coloured cotton", "Wood panels"], "ans": 2, "explanation": "Plain, light-coloured cotton absorbs dye well and clearly shows the new colour and pattern."},
+        {"q": "What is dye pigment?", "opts": ["A type of glue", "A type of fabric", "A carving tool", "The colouring substance used in dyeing"], "ans": 3, "explanation": "Dye pigment is the actual substance that provides the colour to the fabric."},
+        {"q": "Which chemicals are commonly used to help fix dye to fabric?", "opts": ["Caustic soda and hydrochloride", "Only sugar", "Only water", "Only flour"], "ans": 0, "explanation": "Caustic soda and hydrochloride are fixing agents that help the dye bond permanently to the fabric fibres."},
+        {"q": "Dyeing chemicals must be handled with:", "opts": ["care, since they can be harmful if mishandled", "complete disregard for safety", "no caution whatsoever", "bare hands and no protection"], "ans": 0, "explanation": "Chemicals like caustic soda can irritate or burn the skin, so careful handling and protective gear are essential."},
+        {"q": "Plastic bowls are used in tie and dye because they:", "opts": ["are unrelated to the dyeing process", "cannot hold any liquid", "dissolve immediately in dye", "resist staining and chemical damage well"], "ans": 3, "explanation": "Plastic is non-reactive and easy to clean, making it safer and more durable than metal bowls for dyeing."},
+        {"q": "Gloves are used in tie and dye to:", "opts": ["protect the hands from dye stains and chemical irritation", "have no protective purpose", "stain the fabric intentionally", "make the dyeing process slower"], "ans": 0, "explanation": "Gloves provide a crucial barrier between the skin and harsh dyeing chemicals."},
+        {"q": "Wooden sticks are used in tie and dye to:", "opts": ["clean the bowls only", "replace the need for fabric entirely", "stir the dye and lift fabric without direct hand contact", "dye the fabric by themselves"], "ans": 2, "explanation": "Wooden sticks allow for safe stirring and lifting of the fabric without exposing the hands to the dye bath."},
+        {"q": "Gathering all materials and tools before starting helps to:", "opts": ["keep the process smooth and safe", "guarantee failure", "have no effect on the outcome", "make the process more chaotic"], "ans": 0, "explanation": "Preparation prevents mid-process delays, spills, or mistakes, ensuring a safe and efficient workflow."},
+        {"q": "This week's preparation is compared to:", "opts": ["a cook with no preparation at all", "an unrelated random activity", "a task requiring no planning", "a cook laying out ingredients before cooking"], "ans": 3, "explanation": "Just as a cook lays out all ingredients before cooking, a dyer gathers all tools to ensure a smooth process."},
+        {"q": "Which of these is a MATERIAL (not a tool) used in tie and dye?", "opts": ["Wooden stick", "Gloves", "Fabric", "Plastic bowl"], "ans": 2, "explanation": "Fabric is the raw material being dyed, whereas sticks, gloves, and bowls are tools used in the process."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w5_su3",
+      "title": "5.3 Safety and Preparation in Tie and Dye",
+      "notes": [
+        "Safety and Preparation in Tie and Dye",
+        "",
+        "Key Concepts:",
+        "1. Workspace Preparation:",
+        "   - Work in a well-ventilated area to avoid inhaling chemical fumes.",
+        "   - Cover the work surface with old newspapers or a plastic sheet to prevent staining the floor or table.",
+        "",
+        "2. Personal Protective Equipment (PPE):",
+        "   - Always wear rubber gloves and an apron or old clothes.",
+        "   - If handling strong chemicals, safety goggles are recommended to protect the eyes from accidental splashes.",
+        "",
+        "3. Proper Disposal:",
+        "   - Leftover dye and chemical water should NOT be poured directly into drinking water sources or farm streams.",
+        "   - Dispose of waste water in a designated drain or soakaway, away from vegetation, to prevent environmental pollution.",
+        "",
+        "Nigerian Context:",
+        "   - In traditional Adire production in Abeokuta, artisans have learned to manage dye pits safely, but modern students must be taught to avoid dumping chemical runoff into local streams, protecting both community health and the environment."
+      ],
+      "diagramDescriptions": ["Checklist for tie and dye safety and environmental protection"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts safety and preparation in tie and dye site:youtube.com",
+      "quiz": [
+        {"q": "Why is it important to work in a well-ventilated area during tie and dye?", "opts": ["To dry the fabric faster", "To avoid inhaling chemical fumes", "To make the dye brighter", "To attract more customers"], "ans": 1, "explanation": "Good ventilation prevents the buildup of potentially harmful chemical fumes in the workspace."},
+        {"q": "What should you use to cover your work surface before starting?", "opts": ["Nothing, it's fine", "Old newspapers or a plastic sheet", "Fresh white cloth", "Expensive rugs"], "ans": 1, "explanation": "Covering the surface prevents permanent dye stains on tables or floors."},
+        {"q": "Which of these is considered Personal Protective Equipment (PPE) for tie and dye?", "opts": ["Wooden stick", "Rubber gloves and apron", "Plastic bowl", "Dye pigment"], "ans": 1, "explanation": "Gloves and aprons protect the body from chemical exposure and staining."},
+        {"q": "If handling strong chemicals like caustic soda, what additional protection is recommended?", "opts": ["Safety goggles", "A hat", "Earplugs", "Thick socks"], "ans": 0, "explanation": "Safety goggles protect the eyes from accidental and dangerous chemical splashes."},
+        {"q": "Leftover dye and chemical water should be disposed of by:", "opts": ["pouring it into a drinking water source", "pouring it into a farm stream", "pouring it into a designated drain or soakaway", "leaving it in the bowl forever"], "ans": 2, "explanation": "Proper disposal in a designated drain prevents environmental pollution and protects water sources."},
+        {"q": "Pouring chemical dye waste into local streams can cause:", "opts": ["environmental pollution and harm to aquatic life", "the water to become cleaner", "fish to grow faster", "no effect at all"], "ans": 0, "explanation": "Chemical runoff is toxic and can severely damage local ecosystems and community health."},
+        {"q": "Why should you wear old clothes or an apron during tie and dye?", "opts": ["To look fashionable", "To protect your good clothes from permanent stains", "To keep warm", "To absorb the dye"], "ans": 1, "explanation": "Dye is very difficult to remove, so protecting your regular clothes is essential."},
+        {"q": "In traditional Adire production, managing dye pits safely is important to prevent:", "opts": ["the dye from drying out", "accidents and environmental harm", "the fabric from shrinking", "the patterns from fading"], "ans": 1, "explanation": "Safe management prevents injuries to artisans and protects the surrounding environment."},
+        {"q": "Before mixing chemicals, you should always:", "opts": ["taste them to check quality", "read the instructions and wear gloves", "mix them with bare hands", "pour them directly onto the fabric"], "ans": 1, "explanation": "Reading instructions and wearing protective gear are the first steps in safe chemical handling."},
+        {"q": "A well-prepared tie and dye workspace is:", "opts": ["cluttered and messy", "organized, covered, and well-ventilated", "located in a closed, dark room", "without any protective gear"], "ans": 1, "explanation": "Organization, surface protection, and ventilation are the hallmarks of a safe and effective workspace."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of tie and dye, and name the Yoruba term for this tradition.",
+      "markingGuide": "Clear definition (3); correct naming of Adire (2). Total: 5 marks."
+    },
+    {
+      "question": "List, in the correct order, the six general steps of the tie and dye process.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "List the materials needed for tie and dye, and explain the purpose of the chemicals used.",
+      "markingGuide": "Correct materials listed (2.5); clear explanation of the chemicals' purpose (2.5)."
+    },
+    {
+      "question": "List the tools needed for tie and dye, and explain the safety purpose of gloves.",
+      "markingGuide": "Correct tools listed (2.5); clear safety explanation (2.5)."
+    },
+    {
+      "question": "Explain, using the 'cook's counter' analogy or your own example, why gathering all materials and tools before starting a tie and dye session is good practice.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

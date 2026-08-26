@@ -1,0 +1,133 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Motif: Meaning and Types",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w5_su1",
+      "title": "5.1 Meaning of Motif",
+      "notes": [
+        "Meaning of Motif",
+        "",
+        "Key Concepts:",
+        "1. Definition:",
+        "   - A MOTIF is a SINGLE, distinct visual UNIT (a shape, symbol, or design element) that is REPEATED, sometimes with variation, to build a larger PATTERN or decorative design.",
+        "   - It is the basic 'BUILDING BLOCK' of pattern-making.",
+        "",
+        "2. Characteristics:",
+        "   - Can be simple or complex (e.g., a single flower shape, a geometric star, or a traditional symbol).",
+        "   - Found extensively throughout Nigerian traditional and contemporary design (Adire fabric, Aso-Oke borders, carved wooden reliefs).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian Adire textile traditions, a single motif (like the 'Ibadandun' or 'Olokun' symbol) is repeated across the fabric to create a cohesive, unified, and culturally significant decorative scheme."
+      ],
+      "diagramDescriptions": ["Diagram showing a single motif being repeated to form a larger pattern"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts meaning of motif pattern making site:youtube.com",
+      "quiz": [
+        {"q": "What is a motif in design?", "opts": ["An entire finished pattern with no smaller parts", "A single, distinct visual unit that is repeated to build a larger pattern", "A type of craft tool", "A type of paint"], "ans": 1, "explanation": "A motif is the basic building block—a single shape or symbol—repeated to create a larger pattern."},
+        {"q": "A motif is described as the basic ___ of pattern-making.", "opts": ["finished product", "building block", "unrelated concept", "colour scheme"], "ans": 1, "explanation": "Just as bricks build a wall, motifs are the building blocks that build a pattern."},
+        {"q": "Motifs are found extensively in Nigerian design, such as in ___.", "opts": ["nowhere in Nigerian design", "Adire fabric, Aso-Oke borders, and carved wooden reliefs", "only modern digital art", "only foreign, non-Nigerian design"], "ans": 1, "explanation": "Nigerian textiles and crafts heavily rely on repeated motifs for decoration and cultural expression."},
+        {"q": "A single motif, through skilful repetition, can generate ___.", "opts": ["patterns unrelated to the original motif", "only one single, unchanging pattern", "a rich variety of complex patterns", "no visible pattern at all"], "ans": 2, "explanation": "Through repetition, rotation, and mirroring, one simple motif can create many complex patterns."},
+        {"q": "A motif is compared to ___ in the musical analogy.", "opts": ["a single musical note repeated to build a song", "an entire finished song with no smaller parts", "a note with no connection to rhythm", "an unrelated random comparison"], "ans": 0, "explanation": "Just as a repeated note builds a melody, a repeated motif builds a pattern."},
+        {"q": "A motif can be repeated with ___.", "opts": ["only identical, unchanging repetition, never varied", "no changes ever permitted", "variation, rotation, or mirroring", "complete randomness, with no consistency"], "ans": 2, "explanation": "Motifs can be varied, rotated, or mirrored to create visual interest while maintaining unity."},
+        {"q": "A motif must be ___.", "opts": ["unrelated to any pattern", "impossible to repeat", "a single, distinct visual unit, which can be simple or complex", "always highly complex, never simple"], "ans": 2, "explanation": "A motif can be very simple (like a dot or line) or complex, as long as it is a distinct unit."},
+        {"q": "A single flower shape used repeatedly across a fabric design is an example of ___.", "opts": ["a type of craft tool", "an unrelated random element", "a motif", "a colour scheme only"], "ans": 2, "explanation": "The repeated flower shape acts as the motif building the overall pattern."},
+        {"q": "A motif differs from the FINISHED pattern in that a motif is ___.", "opts": ["the single repeated unit, while the pattern is the larger design it builds", "exactly the same thing as the finished pattern", "always larger than the finished pattern", "unrelated to any pattern"], "ans": 0, "explanation": "The motif is the individual unit; the pattern is the overall design created by repeating that unit."},
+        {"q": "Motifs contribute to Nigerian design by ___.", "opts": ["being unrelated to Nigerian decorative traditions", "building cohesive, unified decorative schemes through repetition", "creating random, disconnected visual chaos", "having no visual effect at all"], "ans": 1, "explanation": "Repetition of motifs creates unity and cohesion in Nigerian decorative arts."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w5_su2",
+      "title": "5.2 Types of Motifs: Plant and Floral",
+      "notes": [
+        "Types of Motifs: Plant and Floral",
+        "",
+        "Key Concepts:",
+        "1. Plant Motifs:",
+        "   - Based on LEAVES, stems, vines, or whole plant forms.",
+        "   - Often stylised (simplified from their real appearance) rather than drawn exactly realistically.",
+        "",
+        "2. Floral Motifs:",
+        "   - Based SPECIFICALLY on FLOWERS (blossoms, petals, and floral shapes).",
+        "   - A distinct category from general plant motifs, focusing purely on the bloom.",
+        "   - Extremely popular across countless textile and decorative traditions worldwide, including Nigeria.",
+        "",
+        "Nigerian Context:",
+        "   - Floral and plant motifs are heavily used in Nigerian Ankara prints and Adire textiles, often stylised to fit the geometric constraints of the weaving or dyeing process."
+      ],
+      "diagramDescriptions": ["Visual examples of stylised plant motifs vs. specific floral motifs"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts plant and floral motifs in design site:youtube.com",
+      "quiz": [
+        {"q": "Plant motifs are based on ___.", "opts": ["only mathematical patterns", "only ceremonial symbols", "only geometric shapes", "leaves, stems, vines, or whole plant forms"], "ans": 3, "explanation": "Plant motifs draw inspiration from general vegetation like leaves, stems, and vines."},
+        {"q": "Floral motifs are based specifically on ___.", "opts": ["traditional symbols exclusively", "geometric shapes", "flowers", "mathematical patterns exclusively"], "ans": 2, "explanation": "Floral motifs focus specifically on flowers and blossoms, a subset of plant motifs."},
+        {"q": "Plant motifs are often ___ rather than drawn exactly realistically.", "opts": ["unrelated to real plants", "stylised (simplified)", "always perfectly photorealistic", "impossible to simplify"], "ans": 1, "explanation": "Stylisation simplifies the natural form to make it more effective as a repeating design element."},
+        {"q": "Floral motifs are described as ___ across countless textile traditions worldwide.", "opts": ["extremely popular", "unrelated to textile design", "found only in Nigeria", "completely unused"], "ans": 0, "explanation": "Floral motifs are universally popular in textile and decorative arts globally."},
+        {"q": "A repeated hibiscus flower shape is an example of a ___ motif.", "opts": ["purely mathematical", "unrelated to vegetation", "geometrical", "floral"], "ans": 3, "explanation": "Since it is specifically a flower, it is classified as a floral motif."},
+        {"q": "A repeated vine or leaf pattern is best classified as a ___ motif.", "opts": ["floral", "geometrical", "plant", "traditional"], "ans": 2, "explanation": "Vines and leaves are general vegetation forms, making them plant motifs."},
+        {"q": "The key difference between plant and floral motifs is that floral motifs are ___.", "opts": ["broader and include all vegetation", "more narrowly focused specifically on flowers and blossoms", "always geometric", "never used in textiles"], "ans": 1, "explanation": "Floral is a specific subset of plant motifs, focusing only on the flower/bloom."},
+        {"q": "In Nigerian Adire, floral motifs are often adapted to fit the ___ of the dyeing process.", "opts": ["randomness", "geometric constraints", "lack of colour", "speed"], "ans": 1, "explanation": "Natural forms are often stylised into geometric or simplified shapes to suit the resist-dyeing technique."},
+        {"q": "A motif featuring a stylised fern leaf would be classified as a ___ motif.", "opts": ["floral", "geometrical", "plant", "traditional"], "ans": 2, "explanation": "A fern leaf is a general plant form, not specifically a flower, making it a plant motif."},
+        {"q": "Using plant and floral motifs in design often creates an ___ visual effect.", "opts": ["harsh and mechanical", "organic and softly curving", "strictly mathematical", "chaotic and unstructured"], "ans": 1, "explanation": "Plant and floral motifs bring organic, natural, and flowing qualities to a design."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w5_su3",
+      "title": "5.3 Types of Motifs: Traditional and Geometrical",
+      "notes": [
+        "Types of Motifs: Traditional and Geometrical",
+        "",
+        "Key Concepts:",
+        "1. Traditional Motifs:",
+        "   - Based on CULTURALLY specific SYMBOLS, patterns, or shapes passed down within a particular community.",
+        "   - Often carry SYMBOLIC or ceremonial meaning beyond pure decoration (e.g., specific Adire symbols representing proverbs or status).",
+        "",
+        "2. Geometrical Motifs:",
+        "   - Based on MATHEMATICAL shapes (circles, triangles, squares, zigzags).",
+        "   - Create a more ABSTRACT, ordered, and structured visual effect compared to the organic curves of plant or floral motifs.",
+        "",
+        "Nigerian Context:",
+        "   - Geometrical motifs are common in woven Aso-Oke stripes, while traditional motifs are deeply embedded in Yoruba Adire (like 'Olokun' for wealth or 'Ibadandun' for the sweetness of Ibadan)."
+      ],
+      "diagramDescriptions": ["Visual examples of traditional Adire symbols vs. geometric patterns"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts traditional and geometrical motifs site:youtube.com",
+      "quiz": [
+        {"q": "Traditional motifs often carry ___ meaning.", "opts": ["no meaning at all", "purely mathematical", "symbolic or ceremonial", "foreign, non-Nigerian"], "ans": 2, "explanation": "Traditional motifs are deeply rooted in cultural symbolism and ceremonial significance."},
+        {"q": "Geometrical motifs are based on ___.", "opts": ["mathematical shapes like circles, triangles, and zigzags", "only leaves and vines", "only flowers", "only traditional symbols"], "ans": 0, "explanation": "Geometrical motifs rely on precise, mathematical shapes."},
+        {"q": "A repeated zigzag pattern is an example of a ___ motif.", "opts": ["geometrical", "floral", "traditional, with ceremonial meaning", "plant"], "ans": 0, "explanation": "A zigzag is a mathematical, structured shape, making it a geometrical motif."},
+        {"q": "Geometrical motifs create a more ___ visual effect compared to organic plant or floral motifs.", "opts": ["chaotic, unstructured", "unrelated to any visual effect", "abstract, ordered", "identical to plant motifs, with no difference"], "ans": 2, "explanation": "Geometrical motifs provide structure, order, and abstraction."},
+        {"q": "A specific Adire symbol representing a Yoruba proverb is an example of a ___ motif.", "opts": ["geometrical", "floral", "traditional", "plant"], "ans": 2, "explanation": "Symbols carrying cultural or proverbial meaning are traditional motifs."},
+        {"q": "The four types of motifs are compared to ___ in the garden analogy.", "opts": ["four different sections of a garden, each with a distinct mood", "sections with no distinct character", "unrelated random comparisons", "a single, unchanging garden section"], "ans": 0, "explanation": "Each motif type offers a different visual 'mood', like different sections of a garden."},
+        {"q": "A motif featuring a perfect circle with a triangle inside is best classified as ___.", "opts": ["floral", "geometrical", "traditional", "plant"], "ans": 1, "explanation": "Circles and triangles are mathematical shapes, defining a geometrical motif."},
+        {"q": "Unlike purely decorative motifs, traditional motifs are unique because they ___.", "opts": ["are always geometric", "often carry deeper symbolic or cultural meaning", "are only found in foreign art", "cannot be repeated"], "ans": 1, "explanation": "Traditional motifs communicate cultural stories, proverbs, or status."},
+        {"q": "Woven stripes in Aso-Oke fabric are primarily an example of ___ motifs.", "opts": ["floral", "geometrical", "traditional symbolic", "plant"], "ans": 1, "explanation": "Stripes are linear, mathematical patterns, making them geometrical motifs."},
+        {"q": "Understanding the difference between motif types helps a designer ___.", "opts": ["create random, disconnected visual chaos", "choose the right visual mood and cultural context for a design", "avoid using any repetition", "copy foreign designs exclusively"], "ans": 1, "explanation": "Knowing motif types allows a designer to intentionally select the right style for the intended message."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of a motif, distinguishing it from a finished pattern.",
+      "markingGuide": "Clear definition (2.5); clear distinction from a finished pattern (2.5)."
+    },
+    {
+      "question": "Name and briefly describe the FOUR types of motifs studied this week.",
+      "markingGuide": "1.25 marks per correctly named and briefly described type (5 total)."
+    },
+    {
+      "question": "Distinguish between plant motifs and floral motifs, giving an example of each.",
+      "markingGuide": "2 marks for correct distinction; 1.5 marks each for valid examples."
+    },
+    {
+      "question": "Explain why traditional motifs are considered different from plant, floral, or geometrical motifs, in terms of their deeper meaning.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "Explain, using the 'musical note' analogy or your own example, how a single simple motif can be transformed into a rich, complex finished pattern.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

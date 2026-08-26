@@ -1,0 +1,133 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Craft Making: Definition and Materials",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w5_su1",
+      "title": "5.1 Definition of Craft Making and Its Three Requirements",
+      "notes": [
+        "Definition of Craft Making and Its Three Requirements",
+        "",
+        "Key Concepts:",
+        "1. Definition of Craft Making:",
+        "   - The SKILLED PROCESS of creating objects by HAND, using specific TECHNIQUES and MATERIALS, to produce items that are both FUNCTIONAL (useful) and AESTHETICALLY pleasing (beautiful).",
+        "",
+        "2. The Three Requirements for Good Craft Making:",
+        "   - Appropriate MATERIALS: Substances suited to the intended object (e.g., clay for pottery, paper for folding).",
+        "   - Correct TECHNIQUE: The specific physical skills and methods needed for that craft type (e.g., weaving, carving, moulding).",
+        "   - Design Sense: The application of elements and principles of design (balance, rhythm, harmony) to arrange the craft beautifully.",
+        "",
+        "Nigerian Context:",
+        "   - A skilled Nigerian craftsperson does not simply 'make things' randomly. Whether weaving an Aso-Oke cloth or carving a wooden mask, they thoughtfully combine local materials, inherited techniques, and design sense to produce genuinely successful, culturally rich work."
+      ],
+      "diagramDescriptions": ["A three-legged stool analogy: Materials, Technique, and Design Sense as the three legs"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts definition and requirements of craft making site:youtube.com",
+      "quiz": [
+        {"q": "What is craft making?", "opts": ["A purely random, unplanned activity", "The skilled process of creating objects by hand to produce functional and beautiful items", "Only the selling of finished goods", "A type of music"], "ans": 1, "explanation": "Craft making is a skilled, hands-on process aimed at creating items that are both useful and aesthetically pleasing."},
+        {"q": "Good craft making requires which THREE things working together?", "opts": ["Only physical strength", "Materials, technique, and design sense", "Only expensive materials", "Only luck"], "ans": 1, "explanation": "All three are needed: the right materials, the correct technique to shape them, and the design sense to make them beautiful."},
+        {"q": "In craft making, 'materials' refers to:", "opts": ["The finished product only", "Substances suited to the intended object", "A type of design principle", "An unrelated concept"], "ans": 1, "explanation": "Materials are the raw substances chosen specifically because they suit the object being made."},
+        {"q": "In craft making, 'technique' refers to:", "opts": ["The raw materials used", "The selling price of the object", "The specific skills needed for that craft type", "A type of colour"], "ans": 2, "explanation": "Technique is the specific physical skill or method applied to work the materials."},
+        {"q": "In craft making, 'design sense' refers to:", "opts": ["Only the cost of materials", "Applying elements and principles of design", "Ignoring all visual planning", "A type of physical tool"], "ans": 1, "explanation": "Design sense is the thoughtful application of visual principles like balance, harmony, and rhythm."},
+        {"q": "Craft making is compared to ___ in this week's analogy.", "opts": ["A stool needing no legs at all", "A three-legged stool needing all three legs to stand steady", "An unrelated random object", "A stool with only one leg, working fine regardless"], "ans": 1, "explanation": "Like a three-legged stool, craft making needs materials, technique, and design sense; remove one, and it becomes wobbly."},
+        {"q": "A craftsperson with excellent materials and technique but poor design sense will likely produce:", "opts": ["No craft at all", "A weaker final result than if all three requirements were met", "Automatically the best possible result regardless", "A result unrelated to design sense"], "ans": 1, "explanation": "Excellence in only one or two areas cannot fully compensate for a lack in the third, resulting in a weaker final craft."},
+        {"q": "A skilled craftsperson thoughtfully ___ material, technique, and design sense.", "opts": ["avoids using any of", "combines", "ignores", "randomly discards"], "ans": 1, "explanation": "Skillful craft making involves the deliberate combination of all three requirements."},
+        {"q": "This week's study of craft making builds directly upon ___ knowledge.", "opts": ["Purely theoretical, with no practical basis", "No prior", "JSS1", "Unrelated foreign"], "ans": 2, "explanation": "JSS2 builds on the foundational craft concepts (like weaving and carving) introduced in JSS1."},
+        {"q": "Removing any one of the three requirements makes the final craft:", "opts": ["Wobbly and unsuccessful, like a stool missing a leg", "Unaffected in quality", "Automatically stronger and better", "Impossible to complete under any circumstances"], "ans": 0, "explanation": "Missing any of the three core requirements compromises the quality and success of the final craft."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w5_su2",
+      "title": "5.2 Craft Materials: Paper and Fabric",
+      "notes": [
+        "Craft Materials: Paper and Fabric",
+        "",
+        "Key Concepts:",
+        "1. Paper as a Craft Material:",
+        "   - A highly versatile, accessible material used for folding, cutting, and paper mâché projects.",
+        "   - It is typically combined with GUM or adhesive to hold shapes together.",
+        "",
+        "2. Fabric as a Craft Material:",
+        "   - Provides the foundation for textile crafts such as tie-dye, weaving, and sewn crafts.",
+        "   - Different fabrics (cotton, silk, synthetic) offer different textures, flexibility, and dye-absorption properties.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, fabric is central to cultural identity. From the intricate patterns of Yoruba Adire to the woven strips of Igbo Akwete and Hausa woven cloth, fabric is not just a material, but a canvas for cultural expression."
+      ],
+      "diagramDescriptions": ["Visual examples of paper crafts (kites, cards) and fabric crafts (tie-dye, woven cloth)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts paper and fabric craft materials site:youtube.com",
+      "quiz": [
+        {"q": "Paper is combined with ___ for folding, cutting, and paper mâché projects.", "opts": ["Only water, with no adhesive", "Gum", "Metal", "Nothing at all"], "ans": 1, "explanation": "Gum or adhesive is necessary to bind paper pieces together in craft projects."},
+        {"q": "Fabric is a suitable material for:", "opts": ["Only pottery", "Tie-dye, weaving, and sewn crafts", "Only paper mâché", "Only carving"], "ans": 1, "explanation": "Fabric's flexibility and texture make it ideal for textile-based crafts like tie-dye and weaving."},
+        {"q": "Which of these is a material used in paper craft?", "opts": ["Clay", "Fabric dye", "Paper", "A carving chisel"], "ans": 2, "explanation": "Paper is the primary material for paper crafts."},
+        {"q": "Which of these is a tool commonly used in paper craft?", "opts": ["A pottery wheel", "A weaving loom", "Scissors", "A dye bath"], "ans": 2, "explanation": "Scissors are essential for cutting paper accurately in paper crafts."},
+        {"q": "Different fabrics offer different:", "opts": ["Prices only", "Textures, flexibility, and dye-absorption properties", "Colours only, with no other consideration", "Nothing relevant to the final result"], "ans": 1, "explanation": "The choice of fabric depends on its physical properties like texture and how well it absorbs dye."},
+        {"q": "Thin paper is typically suited for making:", "opts": ["Sturdy structural frames requiring heavy card", "Nothing at all", "Kites", "Only fabric-based crafts"], "ans": 2, "explanation": "Thin paper is lightweight, making it ideal for objects that need to catch the wind, like kites."},
+        {"q": "A ruler is used in paper craft mainly for:", "opts": ["Cutting paper directly", "Gluing paper together", "Colouring the paper", "Measuring and creating straight, precise folds"], "ans": 3, "explanation": "A ruler ensures measurements are accurate and fold lines are straight and neat."},
+        {"q": "Gum/glue is used in paper craft mainly for:", "opts": ["Removing colour from paper", "Joining paper pieces together securely", "Measuring straight lines", "Cutting paper"], "ans": 1, "explanation": "Adhesive is used to securely bond cut or folded paper pieces together."},
+        {"q": "In Nigeria, fabric crafts like Adire and Akwete are considered:", "opts": ["A canvas for cultural expression", "Purely modern, non-traditional", "Unrelated to any specific region", "Only foreign, non-Nigerian"], "ans": 0, "explanation": "These fabric crafts are deeply rooted in Nigerian cultural identity and tradition."},
+        {"q": "Using the wrong weight of paper for a project can lead to:", "opts": ["A structurally weak or unsuitable final result", "No effect on the outcome", "Automatic improvement of the design", "Always a perfect result regardless"], "ans": 0, "explanation": "Material suitability is crucial; using delicate paper for a heavy-duty project will result in failure."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w5_su3",
+      "title": "5.3 Craft Materials: Clay, Paper Mâché, and Palm Frond",
+      "notes": [
+        "Craft Materials: Clay, Paper Mâché, and Palm Frond",
+        "",
+        "Key Concepts:",
+        "1. Clay and Paper Mâché Pulp:",
+        "   - Both can be shaped and moulded while soft, then harden into a durable, solid final form.",
+        "   - Ideal for creating pottery-style objects, decorative vases, and sculptural figures.",
+        "",
+        "2. Palm Frond:",
+        "   - The long, leaf-bearing branch of a palm tree.",
+        "   - Its long, flexible leaflets can be woven into mats, baskets, hats, and brooms.",
+        "   - A distinctly Nigerian and West African craft material, traditionally used in various cultural and ceremonial contexts.",
+        "",
+        "Nigerian Context:",
+        "   - Choosing the right craft material is like choosing the right building material for a house. Palm frond and fabric bend and weave beautifully, while clay and paper mâché harden into solid, lasting forms. A skilled craftsperson knows exactly which material suits each particular project."
+      ],
+      "diagramDescriptions": ["Images of clay moulding, paper mâché hardening, and woven palm frond mats"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts clay paper mache palm frond craft materials site:youtube.com",
+      "quiz": [
+        {"q": "Clay can be shaped while soft and ___ into a durable final form.", "opts": ["Remains soft forever", "Dissolves completely", "Hardens", "Disappears"], "ans": 2, "explanation": "Clay hardens when dried or fired, creating a durable final object."},
+        {"q": "What is palm frond?", "opts": ["A type of fabric", "The long, leaf-bearing branch of a palm tree", "A type of metal", "A type of paint"], "ans": 1, "explanation": "Palm frond is the leafy branch of a palm tree, used for weaving."},
+        {"q": "Palm frond leaflets can be woven into:", "opts": ["Only metal objects", "Only glass objects", "Mats, baskets, hats, and brooms", "Nothing useful at all"], "ans": 2, "explanation": "The flexible leaflets are traditionally woven into practical items like mats and baskets."},
+        {"q": "Palm frond is described as a distinctly ___ craft material.", "opts": ["European", "Exclusively Asian", "Nigerian and West African", "Unrelated to any specific region"], "ans": 2, "explanation": "Palm trees are widely available across Nigeria and West Africa, making it a traditional, locally sourced material."},
+        {"q": "Choosing the right craft material is compared to ___ in this week's analogy.", "opts": ["Choosing a material at complete random", "Choosing the right building material for a house", "An unrelated random choice with no consequence", "A decision that never matters"], "ans": 1, "explanation": "Just as you wouldn't build walls from thin paper, you must choose a craft material suited to the project's needs."},
+        {"q": "A craftsperson wanting a durable, hard-wearing bowl would most likely choose:", "opts": ["Loose, unwoven palm frond", "Clay or paper mâché pulp", "Thin, delicate paper alone", "Nothing at all"], "ans": 1, "explanation": "Clay or paper mâché hardens into a solid, durable form suitable for a bowl."},
+        {"q": "Recognising the right material for a project considers its:", "opts": ["Price alone, with no other consideration", "Colour alone, with no other consideration", "Flexibility, durability, and appearance", "Nothing relevant to the final result"], "ans": 2, "explanation": "A material's physical properties (flexibility, durability, appearance) determine its suitability for a specific craft."},
+        {"q": "Palm frond is traditionally used in ___ contexts across Nigeria.", "opts": ["Only modern, non-traditional", "Various cultural and ceremonial", "Only foreign, non-Nigerian", "No cultural contexts at all"], "ans": 1, "explanation": "Woven palm frond items are deeply embedded in Nigerian cultural and ceremonial practices."},
+        {"q": "Paper mâché pulp, like clay, can be:", "opts": ["Shaped while soft and hardened into a durable form", "Only used for flat, two-dimensional art", "Never hardened", "Only dyed, not shaped"], "ans": 0, "explanation": "Paper mâché shares clay's ability to be moulded when wet and harden when dry."},
+        {"q": "Overlooking palm frond as a genuine craft material is a mistake because:", "opts": ["It is locally sourced and inexpensive, yet highly valued and traditional", "It is too expensive to use", "It is an exotic, imported material", "It cannot be woven"], "ans": 0, "explanation": "Palm frond is a valued, traditional material, and its local availability does not diminish its craft value."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of craft making, and the THREE requirements for good craft making.",
+      "markingGuide": "Correct definition (2); three correctly named requirements (3)."
+    },
+    {
+      "question": "List FOUR materials used in craft making studied this week, describing one typical use for each.",
+      "markingGuide": "1.25 marks per correctly named material with a valid use (5 total)."
+    },
+    {
+      "question": "Explain what palm frond is, and name TWO items traditionally woven from it.",
+      "markingGuide": "Correct definition (2.5); two correctly named items (2.5)."
+    },
+    {
+      "question": "A craftsperson wants to make a lightweight, flexible woven mat. Recommend a suitable material, and explain why it would NOT be suitable to use clay instead.",
+      "markingGuide": "Correct recommendation of palm frond or fabric (2.5); clear reasoning against clay for this purpose (2.5)."
+    },
+    {
+      "question": "Explain, using the 'three-legged stool' analogy or your own example, why a craftsperson needs materials, technique, AND design sense together, rather than excelling at only one.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

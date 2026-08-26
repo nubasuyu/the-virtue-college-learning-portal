@@ -1,0 +1,150 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Aids to Trade: Transport",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w1_su1",
+      "title": "1.1 Definition of Aids to Trade and Means of Transportation",
+      "notes": [
+        "Definition of Aids to Trade and Means of Transportation",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Aids to Trade:",
+        "   - Supporting services that make buying and selling possible and efficient, without themselves being the actual exchange of goods.",
+        "   - Examples include transport, communication, banking, insurance, warehousing, and advertising.",
+        "",
+        "2. Meaning of Transport:",
+        "   - The movement of goods and people from one place to another.",
+        "",
+        "3. Five Main Means of Transportation:",
+        "   - Air: Aeroplanes (fast, expensive, good for urgent/perishable goods).",
+        "   - Rail: Trains (good for heavy, bulky goods over land).",
+        "   - Road: Cars, lorries, buses (flexible, reaches almost anywhere).",
+        "   - Water: Ships and boats (cheapest for very large, heavy cargo over long distances).",
+        "   - Pipeline: Fixed pipes (used specifically for liquids and gases like crude oil, refined fuel, and natural gas).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, road transport is the most dominant due to its flexibility, but pipelines are crucial for moving crude oil from the Niger Delta to refineries, and water transport is vital for international trade through ports in Lagos (Apapa/Tincan) and Port Harcourt."
+      ],
+      "diagramDescriptions": ["Chart showing the five means of transportation with icons"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies aids to trade means of transportation site:youtube.com",
+      "quiz": [
+        {"q": "What are aids to trade?", "opts": ["Only means of transport", "Supporting services that make buying and selling possible and efficient", "Only banks", "The actual buying and selling of goods"], "ans": 1, "explanation": "Aids to trade are the supporting services (like transport, banking, advertising) that facilitate trade."},
+        {"q": "What does transport mean in commerce?", "opts": ["The storage of goods only", "The movement of goods and people from one place to another", "The buying of goods only", "The selling of goods only"], "ans": 1, "explanation": "Transport is specifically the physical movement of goods and people."},
+        {"q": "Which means of transport is fastest but most expensive?", "opts": ["Pipeline", "Water", "Road", "Air"], "ans": 3, "explanation": "Air transport is the fastest mode but also the most expensive, making it suitable for urgent or high-value goods."},
+        {"q": "Which means of transport is cheapest for very large, heavy cargo over long distances?", "opts": ["Water", "Pipeline", "Rail", "Air"], "ans": 0, "explanation": "Water transport (ships) is the most cost-effective for moving massive, heavy cargo internationally."},
+        {"q": "Which means of transport is used specifically for liquids and gases?", "opts": ["Rail", "Road", "Pipeline", "Air"], "ans": 2, "explanation": "Pipelines are specially designed for the continuous movement of liquids and gases like crude oil and natural gas."},
+        {"q": "Which means of transport is most flexible, able to reach almost anywhere?", "opts": ["Rail", "Road", "Pipeline", "Water"], "ans": 1, "explanation": "Road transport is highly flexible because vehicles can reach door-to-door destinations, including rural areas."},
+        {"q": "Which means of transport is best for heavy, bulky goods over land?", "opts": ["Air", "Rail", "Water", "Pipeline"], "ans": 1, "explanation": "Rail transport is highly efficient for moving heavy, bulky goods like coal or cement over long land distances."},
+        {"q": "A trader needing to send perishable fish quickly across the ocean should choose:", "opts": ["air transport", "pipeline transport", "the slowest available option", "no transport at all"], "ans": 0, "explanation": "Air transport is the only viable option for perishable goods needing to cross oceans quickly."},
+        {"q": "Moving crude oil continuously from an oil field to a refinery is best done by:", "opts": ["road only", "air", "rail only", "pipeline"], "ans": 3, "explanation": "Pipelines are the safest and most efficient method for continuous transport of crude oil."},
+        {"q": "The BEST means of transport for a given situation depends on:", "opts": ["the type of goods, distance, cost, and urgency", "nothing at all", "the day of the week", "personal preference alone"], "ans": 0, "explanation": "The choice of transport must be based on practical factors like the nature of the goods, distance, cost, and urgency."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w1_su2",
+      "title": "1.2 Importance of Transportation to Commerce",
+      "notes": [
+        "Importance of Transportation to Commerce",
+        "",
+        "Key Concepts:",
+        "1. Creates Place Utility:",
+        "   - Transportation makes goods available exactly where they are needed, bridging the gap between producers and consumers.",
+        "",
+        "2. Connects Raw Materials to Factories:",
+        "   - Ensures that factories receive the raw materials they need to produce finished goods.",
+        "",
+        "3. Creates Employment:",
+        "   - Provides jobs for drivers, pilots, sailors, mechanics, and logistics workers.",
+        "",
+        "4. Connects Producers to Wider Markets:",
+        "   - Enables foreign trade by moving goods across borders and oceans.",
+        "",
+        "5. Supports Other Aids to Trade:",
+        "   - Goods must be transported TO a warehouse for storage, and tourists must be transported TO destinations for tourism to thrive.",
+        "",
+        "Nigerian Context:",
+        "   - Without good road networks, a yam farmer in Benue State cannot easily get his harvest to buyers in Lagos. Poor transport infrastructure limits a producer's ability to sell, regardless of how excellent the harvest is."
+      ],
+      "diagramDescriptions": ["Flowchart showing how transport creates place utility and connects producers to consumers"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies importance of transportation to commerce site:youtube.com",
+      "quiz": [
+        {"q": "Why is transportation essential to commerce?", "opts": ["Goods are rarely consumed where they are produced", "Transport has no connection to trade", "Commerce does not need transport", "Goods never need to move"], "ans": 0, "explanation": "Because production and consumption usually happen in different locations, transport is essential to bridge that gap."},
+        {"q": "Transportation making goods available where they are needed is called:", "opts": ["time utility", "place utility", "no utility", "form utility"], "ans": 1, "explanation": "Place utility is created when transport moves goods to the location where consumers need them."},
+        {"q": "Transportation connects raw materials to:", "opts": ["only farms", "only warehouses", "factories", "nowhere useful"], "ans": 2, "explanation": "Transport ensures raw materials reach factories to be processed into finished goods."},
+        {"q": "Transportation creates jobs for people such as:", "opts": ["no one at all", "only farmers", "drivers, pilots, and sailors", "only teachers"], "ans": 2, "explanation": "The transport sector directly employs drivers, pilots, sailors, and logistics personnel."},
+        {"q": "A farmer with an excellent harvest but poor road access to markets will likely:", "opts": ["need no transport at all", "struggle to sell his goods profitably", "automatically become wealthy", "have no difficulty at all"], "ans": 1, "explanation": "Poor transport infrastructure prevents farmers from reaching buyers, limiting their profitability."},
+        {"q": "Transportation supports which other aid to trade by moving goods TO storage facilities?", "opts": ["Banking only", "Warehousing", "Insurance only", "Advertising only"], "ans": 1, "explanation": "Goods must be physically transported to warehouses for storage, linking transport to warehousing."},
+        {"q": "A country investing in better roads and ports is likely to see:", "opts": ["improved commerce, both domestic and international", "reduced trade activity", "less commerce overall", "no change in trade"], "ans": 0, "explanation": "Better transport infrastructure directly boosts both home trade and foreign trade."},
+        {"q": "Transportation connects producers to:", "opts": ["nothing beyond their village", "wider markets, including foreign trade", "only their immediate family", "only government offices"], "ans": 1, "explanation": "Transport expands a producer's reach from local villages to national and international markets."},
+        {"q": "Without transportation, commerce would be limited to:", "opts": ["unlimited global reach", "the entire world instantly", "only online trade", "tiny, isolated local markets"], "ans": 3, "explanation": "Without transport, trade could only happen face-to-face in very small, local areas."},
+        {"q": "Transportation is often described as the ___ of commerce.", "opts": ["bloodstream", "least important part", "enemy", "unnecessary luxury"], "ans": 0, "explanation": "Just as blood carries nutrients to all parts of the body, transport carries goods to all parts of the economy."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w1_su3",
+      "title": "1.3 Practical Application: Choosing the Right Transport",
+      "notes": [
+        "Practical Application: Choosing the Right Transport",
+        "",
+        "Key Concepts:",
+        "1. Factors Influencing Transport Choice:",
+        "   - Nature of the goods (perishable, bulky, hazardous, liquid).",
+        "   - Distance to be covered (short, medium, long, international).",
+        "   - Cost of transport (budget constraints).",
+        "   - Urgency (how quickly the goods are needed).",
+        "",
+        "2. Case Study Applications:",
+        "   - Perishable goods (e.g., fresh flowers, fish) over long distances → Air transport.",
+        "   - Heavy, non-urgent goods (e.g., coal, cement) over land → Rail transport.",
+        "   - Door-to-door delivery of moderate goods → Road transport.",
+        "   - Massive international cargo (e.g., imported cars) → Water transport.",
+        "   - Continuous flow of oil/gas → Pipeline.",
+        "",
+        "Nigerian Context:",
+        "   - A Lagos-based pharmaceutical company distributing vaccines to rural clinics in Kano must choose road transport with refrigerated trucks (cold chain) to ensure the vaccines remain effective, balancing cost and urgency."
+      ],
+      "diagramDescriptions": ["Decision tree for choosing the right mode of transport based on goods and distance"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies choosing the right transport case studies site:youtube.com",
+      "quiz": [
+        {"q": "Which factor is LEAST important when choosing a means of transport?", "opts": ["Nature of the goods", "Distance to be covered", "The driver's favorite color", "Cost of transport"], "ans": 2, "explanation": "The driver's personal preferences do not affect the commercial suitability of a transport mode."},
+        {"q": "For sending urgent, high-value documents from Lagos to London, the best choice is:", "opts": ["Water transport", "Road transport", "Air transport", "Pipeline"], "ans": 2, "explanation": "Air transport is the fastest and most secure option for urgent, high-value items over long distances."},
+        {"q": "A construction company needs to move 500 tonnes of cement from a factory in Ebonyi to a site in Enugu. The best choice is:", "opts": ["Air transport", "Road or Rail transport", "Water transport", "Pipeline"], "ans": 1, "explanation": "Heavy, bulky goods over land are best moved by road (lorries) or rail, which are cost-effective for such cargo."},
+        {"q": "Why is road transport preferred for door-to-door delivery?", "opts": ["It is the cheapest for international trade", "It is the most flexible and can reach remote areas", "It is the fastest for crossing oceans", "It can carry the largest cargo"], "ans": 1, "explanation": "Road transport's flexibility allows vehicles to reach exact destinations, including rural areas."},
+        {"q": "Which transport mode is most suitable for distributing refined petrol from a depot to various filling stations across a city?", "opts": ["Air transport", "Tanker trucks (Road transport)", "Ships", "Trains"], "ans": 1, "explanation": "Tanker trucks provide the flexibility needed to distribute liquid fuel to multiple specific locations within a city."},
+        {"q": "If cost is the primary concern and the goods are not perishable, which transport is best for international trade?", "opts": ["Air", "Road", "Water", "Pipeline"], "ans": 2, "explanation": "Water transport is the cheapest mode for moving large volumes of non-perishable goods internationally."},
+        {"q": "A farmer wants to send live chickens to a market 20 kilometers away. The most practical choice is:", "opts": ["Ship", "Aeroplane", "Road transport (truck/van)", "Pipeline"], "ans": 2, "explanation": "For a short distance of 20km, road transport is the most practical, flexible, and cost-effective option."},
+        {"q": "What is a major disadvantage of air transport?", "opts": ["It is very slow", "It is highly expensive and has limited cargo capacity", "It can only carry liquids", "It is the cheapest option"], "ans": 1, "explanation": "Air transport is the most expensive mode and has strict weight/size limits on cargo."},
+        {"q": "Which mode of transport is most affected by bad weather conditions like heavy storms?", "opts": ["Pipeline", "Air and Water transport", "Rail transport", "Underground subway"], "ans": 1, "explanation": "Aeroplanes and ships are highly susceptible to delays and dangers from severe weather conditions."},
+        {"q": "In Nigeria, the movement of natural gas from the Niger Delta to power plants is increasingly done via:", "opts": ["Bicycles", "Pipelines", "Aeroplanes", "Ships only"], "ans": 1, "explanation": "Pipelines are the most efficient and safest method for transporting natural gas over land."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define 'aids to trade' and list the SIX aids to trade you know.",
+      "markingGuide": "Correct definition (2 marks); six correctly named aids (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "List and briefly explain the FIVE means of transportation.",
+      "markingGuide": "1 mark per correctly named and briefly explained means (5 marks total)."
+    },
+    {
+      "question": "State THREE reasons why transportation is important to commerce.",
+      "markingGuide": "1.5–2 marks per valid, clearly stated reason (5 marks total for three reasons)."
+    },
+    {
+      "question": "A businessman needs to transport 200 bags of cement from Lagos to a construction site 50km away, within the same city. Which means of transport would you recommend, and why?",
+      "markingGuide": "Correct recommendation of road transport (2.5 marks); clear reasoning based on flexibility and short distance (2.5 marks)."
+    },
+    {
+      "question": "Explain, using the 'bloodstream' analogy or your own example, why poor transportation infrastructure can hold back a country's commerce, even when its farmers and factories are productive.",
+      "markingGuide": "Clear explanation with a valid, relevant example (5 marks, holistic)."
+    }
+  ]
+}

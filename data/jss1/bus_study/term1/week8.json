@@ -1,0 +1,121 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Introduction to Commerce",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t1_w8_su1",
+      "title": "8.1 Meaning and Importance of Commerce",
+      "notes": [
+        "Meaning and Importance of Commerce",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Commerce:",
+        "   - Commerce means all the activities involved in the BUYING and SELLING of goods and services, AND the various supporting services that make this exchange possible and smooth.",
+        "   - It is the bridge that connects PRODUCERS (who make goods) with CONSUMERS (who need them).",
+        "",
+        "2. Importance of Commerce:",
+        "   - Creates employment opportunities (e.g., drivers, bankers, marketers).",
+        "   - Makes goods and services available to people far from where they are produced.",
+        "   - Generates income for individuals, businesses, and the government (through taxes).",
+        "   - Encourages specialization, as people can focus on what they do best and trade for the rest.",
+        "",
+        "Nigerian Context:",
+        "   - Commerce is the lifeblood of Nigeria's economy. From the bustling markets of Onitsha and Kano to the digital e-commerce platforms like Jumia and Konga, commerce ensures that a farmer in Benue can sell yams to a consumer in Lagos."
+      ],
+      "diagramDescriptions": ["Diagram showing commerce as a bridge between producers and consumers"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning and importance of commerce site:youtube.com",
+      "quiz": [
+        {"q": "What does commerce primarily involve?", "opts": ["Only farming activities", "Only sporting activities", "Activities involved in buying, selling, and supporting the exchange of goods and services", "Only government administrative activities"], "ans": 2, "explanation": "Commerce encompasses both trade (buying/selling) and the supporting activities (aids to trade) that make exchange possible."},
+        {"q": "Commerce connects which two main groups?", "opts": ["Teachers and students only", "Producers and consumers", "Doctors and patients only", "Farmers and animals only"], "ans": 1, "explanation": "Commerce acts as the bridge connecting those who produce goods/services with those who consume them."},
+        {"q": "Which of these is a direct importance of commerce to a nation?", "opts": ["It causes inflation", "It generates income and creates employment", "It stops all production", "It eliminates the need for money"], "ans": 1, "explanation": "Commerce creates jobs (e.g., in transport, banking) and generates income/taxes for the government."},
+        {"q": "Without commerce, a farmer in a rural village would struggle to:", "opts": ["Plant crops", "Sell his harvest to distant city markets", "Water his farm", "Harvest his crops"], "ans": 1, "explanation": "Commerce (specifically transport and trade) enables the farmer to reach distant consumers to sell his produce."},
+        {"q": "Commerce encourages specialization because:", "opts": ["It forces everyone to do the same job", "People can focus on what they do best and trade for other needs", "It makes production slower", "It eliminates the need for skills"], "ans": 1, "explanation": "Specialization is possible because commerce allows people to trade their specialized output for other goods they need."},
+        {"q": "Which of the following is NOT an importance of commerce?", "opts": ["Creates employment", "Makes goods available far from production sites", "Generates government revenue", "Prevents people from traveling"], "ans": 3, "explanation": "Commerce actually encourages movement and travel (e.g., for transport and trade), it does not prevent it."},
+        {"q": "A business that buys goods in bulk and sells them to smaller shops is participating in:", "opts": ["Manufacturing", "Commerce", "Extractive production", "Farming"], "ans": 1, "explanation": "Buying and selling goods is the core definition of commerce (specifically, trade)."},
+        {"q": "The government benefits from commerce mainly through:", "opts": ["Free goods", "Taxation on business activities", "Stopping all trade", "Owning all farms"], "ans": 1, "explanation": "The government collects taxes (like VAT and company income tax) from commercial activities."},
+        {"q": "Commerce ensures that goods produced in one part of Nigeria can be:", "opts": ["Destroyed", "Consumed in another part of Nigeria", "Hidden from the public", "Returned to nature"], "ans": 1, "explanation": "Commerce (via transport and trade) distributes goods across different geographical locations."},
+        {"q": "Which of these best describes the role of commerce in everyday life?", "opts": ["It is only for large corporations", "It is unnecessary in modern society", "It facilitates the smooth flow of goods and services to meet human needs", "It only involves the stock market"], "ans": 2, "explanation": "Commerce facilitates the entire process of getting goods and services from producers to the people who need them."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w8_su2",
+      "title": "8.2 Activities Which Aid Commerce (Aids to Trade)",
+      "notes": [
+        "Activities Which Aid Commerce (Aids to Trade)",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Aids to Trade:",
+        "   - These are supporting services that remove the various hindrances (obstacles) to trade, making the exchange of goods smooth and efficient.",
+        "",
+        "2. Major Aids to Trade:",
+        "   - Banking: Provides money, loans, and safe places to keep funds (removes hindrance of finance).",
+        "   - Insurance: Protects against loss or risk like fire or theft (removes hindrance of risk).",
+        "   - Transport: Moves goods from producers to consumers (removes hindrance of place).",
+        "   - Communication: Allows buyers and sellers to exchange information (removes hindrance of information).",
+        "   - Warehousing: Stores goods safely until needed (removes hindrance of time).",
+        "   - Advertising: Informs consumers about available goods and services (removes hindrance of knowledge).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, companies like GIG Logistics (Transport/Communication), Leadway Assurance (Insurance), and MTN/Airtel (Communication) are vital aids to trade that keep the commercial engine of the country running."
+      ],
+      "diagramDescriptions": ["Chart listing the 6 major aids to trade and the hindrances they remove"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies aids to trade banking insurance transport communication site:youtube.com",
+      "quiz": [
+        {"q": "What are 'aids to trade'?", "opts": ["Activities that stop trade", "Supporting services that remove hindrances to trade", "Only farming activities", "Only government regulations"], "ans": 1, "explanation": "Aids to trade are the supporting services that make the buying and selling of goods smooth and efficient."},
+        {"q": "Which aid to trade provides money, loans, and safekeeping of funds?", "opts": ["Warehousing", "Advertising", "Banking", "Transport"], "ans": 2, "explanation": "Banking removes the hindrance of finance by providing capital and safekeeping for money."},
+        {"q": "Which aid to trade protects businesses against loss or risk (e.g., fire, theft)?", "opts": ["Communication", "Insurance", "Banking", "Transport"], "ans": 1, "explanation": "Insurance removes the hindrance of risk by providing compensation for unforeseen losses."},
+        {"q": "Which aid to trade moves goods from producers to consumers?", "opts": ["Banking", "Transport", "Advertising", "Insurance"], "ans": 1, "explanation": "Transport removes the hindrance of place by moving goods from where they are produced to where they are needed."},
+        {"q": "Which aid to trade stores goods safely until they are needed for sale?", "opts": ["Banking", "Insurance", "Communication", "Warehousing"], "ans": 3, "explanation": "Warehousing removes the hindrance of time by storing goods until demand arises."},
+        {"q": "Which aid to trade informs consumers about available goods and services?", "opts": ["Transport", "Advertising", "Insurance", "Banking"], "ans": 1, "explanation": "Advertising removes the hindrance of knowledge by making consumers aware of products."},
+        {"q": "A company using radio and TV to tell people about its new product is using:", "opts": ["Warehousing", "Transport", "Advertising", "Insurance"], "ans": 2, "explanation": "Using media to inform the public about a product is the core function of advertising."},
+        {"q": "If a trader's goods are destroyed by fire, which aid to trade will compensate him?", "opts": ["Banking", "Transport", "Communication", "Insurance"], "ans": 3, "explanation": "Insurance is specifically designed to compensate for losses due to risks like fire."},
+        {"q": "Which hindrance to trade is removed by communication services like telephones and the internet?", "opts": ["Hindrance of place", "Hindrance of time", "Hindrance of information", "Hindrance of risk"], "ans": 2, "explanation": "Communication removes the hindrance of information by allowing buyers and sellers to connect instantly."},
+        {"q": "Without aids to trade, commerce would:", "opts": ["Work even better than before", "Become entirely unnecessary", "Struggle to function efficiently across long distances", "Have no connection to trade"], "ans": 2, "explanation": "Aids to trade are essential; without them, moving, storing, financing, and promoting goods would be nearly impossible on a large scale."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w8_su3",
+      "title": "8.3 Practical Application of Commerce in Nigeria",
+      "notes": [
+        "Practical Application of Commerce in Nigeria",
+        "",
+        "Key Concepts:",
+        "1. Commerce in Everyday Nigerian Life:",
+        "   - Every time you buy bread from a bakery, pay school fees via a bank app, or see a billboard for a new phone, you are experiencing commerce.",
+        "",
+        "2. Case Study: The Journey of a Product:",
+        "   - A farmer in Oyo State grows tomatoes (Production).",
+        "   - A transporter (Transport) moves them to Mile 12 Market in Lagos.",
+        "   - A warehouse (Warehousing) stores them overnight.",
+        "   - A bank (Banking) provides a loan to the market woman to buy them.",
+        "   - An advertisement (Advertising) on the radio tells people fresh tomatoes are available.",
+        "   - The market woman sells them to you (Trade).",
+        "",
+        "3. The Role of Technology:",
+        "   - Modern commerce in Nigeria heavily relies on digital aids to trade, such as POS terminals, mobile banking (Opay, Palmpay), and e-commerce websites.",
+        "",
+        "Nigerian Context:",
+        "   - Understanding commerce helps students appreciate the complex network of services that bring everyday items to their homes, from the rice on their plate to the phone in their hands."
+      ],
+      "diagramDescriptions": ["Flowchart showing the journey of a product from farm to consumer with aids to trade highlighted"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies practical application of commerce in Nigeria case study site:youtube.com",
+      "quiz": [
+        {"q": "In the journey of a product from farm to consumer, which aid to trade is responsible for moving the goods?", "opts": ["Banking", "Transport", "Advertising", "Insurance"], "ans": 1, "explanation": "Transport is the aid to trade that physically moves goods from the production site to the market."},
+        {"q": "When a market woman uses a bank loan to buy goods in bulk, which hindrance is being removed?", "opts": ["Hindrance of place", "Hindrance of finance", "Hindrance of time", "H8indrance of risk"], "ans": 1, "explanation": "Banking removes the hindrance of finance by providing the necessary capital to conduct trade."},
+        {"q": "Storing tomatoes in a cold room to prevent them from spoiling before sale is an example of:", "opts": ["Advertising", "Warehousing", "Transport", "Banking"], "ans": 1, "explanation": "Warehousing removes the hindrance of time by preserving goods until they are needed."},
+        {"q": "Using a POS terminal to pay for goods in a Nigerian shop is an example of modern:", "opts": ["Extractive production", "Banking and communication aids to trade", "Manufacturing", "Farming"], "ans": 1, "explanation": "POS systems combine banking (payment processing) and communication (data transfer) to facilitate trade."},
+        {"q": "A billboard on the Third Mainland Bridge advertising a new school is performing which commercial function?", "opts": ["Transport", "Warehousing", "Advertising", "Insurance"], "ans": 2, "explanation": "Advertising informs the public about available services, removing the hindrance of knowledge."},
+        {"q": "If a truck carrying goods from Kano to Lagos crashes, which aid to trade protects the owner's financial loss?", "opts": ["Banking", "Transport", "Insurance", "Warehousing"], "ans": 2, "explanation": "Insurance compensates for financial losses due to unforeseen risks like accidents."},
+        {"q": "Which of these is an example of 'Trade' in the tomato journey case study?", "opts": ["The farmer growing the tomatoes", "The truck driver moving the tomatoes", "The market woman selling the tomatoes to a customer", "The bank giving a loan"], "ans": 2, "explanation": "Trade is the actual buying and selling of the goods, which happens when the market woman sells to the customer."},
+        {"q": "E-commerce platforms like Jumia and Konga primarily rely on which TWO aids to trade to function?", "opts": ["Farming and Mining", "Transport and Communication/Internet", "Insurance and Warehousing only", "Advertising and Farming"], "ans": 1, "explanation": "E-commerce relies heavily on the internet (Communication) to connect buyers/sellers and Transport to deliver the goods."},
+        {"q": "Why is it important for a JSS1 student to understand commerce?", "opts": ["To become a farmer only", "To appreciate the complex network of services that bring everyday items to their homes", "To avoid paying taxes", "To stop buying goods"], "ans": 1, "explanation": "Understanding commerce helps students appreciate the economic system and the various careers involved in it."},
+        {"q": "Which of the following activities is NOT part of commerce?", "opts": ["Selling shoes in a market", "Advertising a new phone", "Manufacturing cars in a factory", "Transporting goods by train"], "ans": 2, "explanation": "Manufacturing is part of 'Production' (Industry), not Commerce. Commerce begins after the goods are produced."}
+      ]
+    }
+  ]
+}

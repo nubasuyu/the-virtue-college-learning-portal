@@ -1,0 +1,141 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Aids to Trade: Banking and Insurance",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w3_su1",
+      "title": "3.1 Banking: Definition, Examples, and Types of Banks",
+      "notes": [
+        "Banking: Definition, Examples, and Types of Banks",
+        "",
+        "Key Concepts:",
+        "1. Definition of a Bank:",
+        "   - A financial institution that accepts deposits (keeps people's money safely), provides loans, and offers other financial services.",
+        "",
+        "2. Examples of Banks in Nigeria:",
+        "   - UBA (United Bank for Africa), GTB (Guaranty Trust Bank), Access Bank, Zenith Bank, First Bank.",
+        "",
+        "3. Types of Banks:",
+        "   - Central Bank: Regulates all other banks, controls the currency, and sets national monetary policy (e.g., Central Bank of Nigeria - CBN).",
+        "   - Commercial Banks: Serve ordinary businesses and individuals with everyday banking services (savings, current accounts, loans).",
+        "   - Development Banks: Provide specialised long-term loans for specific sectors, like agriculture or industry, to support national economic growth (e.g., Bank of Industry - BOI).",
+        "",
+        "Nigerian Context:",
+        "   - The CBN is the 'banker to the government and other banks'. It ensures that commercial banks like Zenith or Access Bank operate safely and that the Naira maintains its value."
+      ],
+      "diagramDescriptions": ["Organizational chart showing the relationship between Central, Commercial, and Development banks"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies banking definition types of banks Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "What is a bank?", "opts": ["A financial institution that accepts deposits, provides loans, and offers financial services", "A place with no financial function", "A place that only sells goods", "A place that only stores food"], "ans": 0, "explanation": "A bank is a financial institution that manages money through deposits, loans, and other services."},
+        {"q": "Which of these is an example of a Nigerian commercial bank?", "opts": ["NAICOM", "NHIS", "GTB (Guaranty Trust Bank)", "CBN"], "ans": 2, "explanation": "GTB is a well-known commercial bank in Nigeria."},
+        {"q": "Which bank regulates all other banks and controls the currency in Nigeria?", "opts": ["UBA", "GTB", "Central Bank of Nigeria (CBN)", "Access Bank"], "ans": 2, "explanation": "The CBN is the apex financial institution responsible for regulation and monetary policy."},
+        {"q": "Which type of bank serves ordinary businesses and individuals with everyday banking?", "opts": ["Commercial Bank", "Central Bank", "Development Bank only", "None of these"], "ans": 0, "explanation": "Commercial banks handle everyday banking for the general public and businesses."},
+        {"q": "Which type of bank provides specialised long-term loans for sectors like agriculture?", "opts": ["None of these", "Central Bank", "Development Bank", "Commercial Bank only"], "ans": 2, "explanation": "Development banks focus on long-term financing for specific economic sectors."},
+        {"q": "A small business owner wanting to safely keep daily sales income would most likely use:", "opts": ["a development bank only", "a commercial bank", "the central bank directly", "no bank at all"], "ans": 1, "explanation": "Commercial banks are designed for everyday savings and business accounts."},
+        {"q": "Banks are important as an aid to trade because businesses need:", "opts": ["only cash transactions", "safe places to keep money and access to loans", "nowhere to keep money", "no financial services at all"], "ans": 1, "explanation": "Banks provide security for funds and capital (loans) for business expansion."},
+        {"q": "Setting national monetary policy is the role of the:", "opts": ["Development Bank", "Commercial Bank", "None of these", "Central Bank"], "ans": 3, "explanation": "The Central Bank is solely responsible for national monetary policy."},
+        {"q": "The banking system is compared to a football league, with the Central Bank as:", "opts": ["unrelated to the league", "the governing body setting the rules", "a single player", "the fans watching"], "ans": 1, "explanation": "The Central Bank acts as the regulator, just as a league governing body sets the rules for all teams."},
+        {"q": "Which of these is NOT typically a Nigerian commercial bank?", "opts": ["Access Bank", "Zenith Bank", "CBN", "UBA"], "ans": 2, "explanation": "The CBN is the Central Bank, not a commercial bank."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w3_su2",
+      "title": "3.2 Insurance: Definition, Types of Policies, and Importance",
+      "notes": [
+        "Insurance: Definition, Types of Policies, and Importance",
+        "",
+        "Key Concepts:",
+        "1. Definition of Insurance:",
+        "   - An arrangement where a person or business pays a regular amount of money (called a PREMIUM) to an insurance company, in exchange for the company's PROMISE to compensate them if a specific LOSS or RISK occurs.",
+        "",
+        "2. Types of Insurance Policies:",
+        "   - Fire Insurance: Protects against loss from fire damage.",
+        "   - Motor Vehicle Insurance: Protects against accidents involving vehicles.",
+        "   - Marine Insurance: Protects goods being transported by sea.",
+        "   - Life Insurance: Pays a benefit to family members if the insured person dies.",
+        "   - Burglary/Theft Insurance: Protects against loss from break-ins or stealing.",
+        "",
+        "3. Importance to Trade:",
+        "   - Gives businesses the confidence to take risks (like transporting valuable goods), knowing they will not be financially ruined if something goes wrong.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, third-party motor insurance is a legal requirement for all vehicles. Without it, a driver cannot legally operate on Nigerian roads, highlighting insurance's role in risk management."
+      ],
+      "diagramDescriptions": ["Chart listing types of insurance policies and what they cover"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies insurance definition types of policies importance site:youtube.com",
+      "quiz": [
+        {"q": "What is insurance?", "opts": ["A way to prevent all bad events from happening", "An arrangement to pay a premium in exchange for compensation if a specific loss occurs", "A type of bank account", "A way to advertise products"], "ans": 1, "explanation": "Insurance provides financial compensation for specific losses in exchange for regular premium payments."},
+        {"q": "The regular amount paid to an insurance company is called a:", "opts": ["interest", "salary", "premium", "dividend"], "ans": 2, "explanation": "The payment made to maintain an insurance policy is called a premium."},
+        {"q": "Which type of insurance protects against loss from fire damage?", "opts": ["Marine insurance", "Life insurance", "Motor vehicle insurance", "Fire insurance"], "ans": 3, "explanation": "Fire insurance specifically covers damages caused by fire."},
+        {"q": "Which type of insurance protects goods being transported by sea?", "opts": ["Marine insurance", "Fire insurance", "Burglary insurance", "Life insurance"], "ans": 0, "explanation": "Marine insurance covers risks associated with sea transport."},
+        {"q": "Which type of insurance pays a benefit to family members if the insured person dies?", "opts": ["Marine insurance", "Fire insurance", "Motor vehicle insurance", "Life insurance"], "ans": 3, "explanation": "Life insurance provides financial support to beneficiaries upon the policyholder's death."},
+        {"q": "Which type of insurance protects against break-ins and stealing?", "opts": ["Life insurance", "Burglary/theft insurance", "Marine insurance", "Fire insurance"], "ans": 1, "explanation": "Burglary or theft insurance covers financial losses due to stealing."},
+        {"q": "Insurance gives businesses the confidence to:", "opts": ["avoid all risks forever", "lose money deliberately", "take risks, knowing they will not be financially ruined by a covered loss", "ignore financial planning entirely"], "ans": 2, "explanation": "Insurance acts as a safety net, encouraging businesses to operate and expand despite inherent risks."},
+        {"q": "Insurance does NOT:", "opts": ["prevent bad events from happening", "provide financial protection", "involve paying a premium", "compensate for covered losses"], "ans": 0, "explanation": "Insurance cannot stop a bad event (like a fire) from occurring; it only provides financial relief afterward."},
+        {"q": "A trader transporting goods by ship should consider ___ insurance.", "opts": ["motor vehicle only", "fire only", "life", "marine"], "ans": 3, "explanation": "Marine insurance is the appropriate coverage for goods transported by sea."},
+        {"q": "Insurance is compared to a communal safety net because:", "opts": ["it guarantees no losses will ever occur", "only one person contributes everything", "many small contributions protect the unlucky few who suffer a genuine loss", "it has no connection to shared risk"], "ans": 2, "explanation": "Premiums from many policyholders create a pool of funds used to compensate the few who experience a covered loss."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w3_su3",
+      "title": "3.3 Practical Application: Banking and Insurance in Nigerian Trade",
+      "notes": [
+        "Practical Application: Banking and Insurance in Nigerian Trade",
+        "",
+        "Key Concepts:",
+        "1. Banking in Action:",
+        "   - A trader in Balogun Market uses a commercial bank account to receive payments from customers via POS or bank transfer, avoiding the risk of keeping large amounts of cash.",
+        "",
+        "2. Insurance in Action:",
+        "   - A logistics company insures its fleet of delivery trucks with motor vehicle insurance. If a truck is involved in an accident, the insurance company covers the repair costs, preventing the business from collapsing.",
+        "",
+        "3. Synergy Between Banking and Insurance:",
+        "   - Banks often require businesses to have insurance (e.g., fire insurance on a factory) before approving a large loan, ensuring the bank's collateral is protected.",
+        "",
+        "Nigerian Context:",
+        "   - The Nigeria Deposit Insurance Corporation (NDIC) works alongside the CBN to insure bank deposits, ensuring that if a commercial bank fails, ordinary depositors do not lose their savings."
+      ],
+      "diagramDescriptions": ["Case study flowchart showing a business using both banking and insurance"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies practical application banking insurance Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Why might a trader prefer to receive payments via bank transfer rather than cash?", "opts": ["It is less secure", "It reduces the risk of theft and provides a clear record", "It is slower", "It requires no technology"], "ans": 1, "explanation": "Bank transfers are safer than cash and create a digital trail for record-keeping."},
+        {"q": "If a delivery truck is involved in an accident, which aid to trade protects the logistics company from financial ruin?", "opts": ["Banking", "Advertising", "Insurance", "Warehousing"], "ans": 2, "explanation": "Motor vehicle insurance covers the financial cost of accidents involving company vehicles."},
+        {"q": "Why might a bank require a factory to have fire insurance before granting a loan?", "opts": ["To increase the factory's electricity bill", "To ensure the bank's collateral (the factory) is protected", "To force the factory to close", "Because the bank owns the insurance company"], "ans": 1, "explanation": "The bank wants to ensure that if the factory burns down, the insurance payout can be used to repay the loan."},
+        {"q": "The Nigeria Deposit Insurance Corporation (NDIC) primarily protects:", "opts": ["Bank owners", "Ordinary bank depositors", "Insurance companies", "The Central Bank"], "ans": 1, "explanation": "The NDIC insures deposits to protect ordinary citizens if a commercial bank fails."},
+        {"q": "A farmer taking a loan from a development bank to buy tractors is an example of:", "opts": ["Marine insurance", "Commercial banking for long-term agricultural development", "Advertising", "Warehousing"], "ans": 1, "explanation": "Development banks provide long-term loans to support specific sectors like agriculture."},
+        {"q": "Which of these is a benefit of using a commercial bank for a small business?", "opts": ["Guaranteed profit", "Access to loans for expansion", "Free goods", "Elimination of all competition"], "ans": 1, "explanation": "Commercial banks provide capital (loans) that allow small businesses to grow."},
+        {"q": "If a warehouse storing valuable goods catches fire, which insurance policy will compensate the owner?", "opts": ["Life insurance", "Fire insurance", "Marine insurance", "Motor vehicle insurance"], "ans": 1, "explanation": "Fire insurance covers damage to property caused by fire."},
+        {"q": "A 'premium' in insurance is best described as:", "opts": ["The final payout after a loss", "The regular payment made to keep the policy active", "The total value of the insured item", "A penalty for making a claim"], "ans": 1, "explanation": "The premium is the regular fee paid by the policyholder to the insurance company."},
+        {"q": "Which entity regulates the activities of commercial banks in Nigeria?", "opts": ["NAICOM", "CBN", "NDIC only", "FIRS"], "ans": 1, "explanation": "The Central Bank of Nigeria (CBN) is the primary regulator of commercial banks."},
+        {"q": "Without banking and insurance, large-scale trade would be:", "opts": ["Easier and faster", "Highly risky and difficult to finance", "Unaffected", "Limited to online sales only"], "ans": 1, "explanation": "Banking provides the necessary capital, and insurance mitigates the risks, making large-scale trade viable."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define a bank, and list THREE examples of Nigerian commercial banks.",
+      "markingGuide": "Correct definition (2 marks); three correctly named banks (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "List and briefly explain the THREE types of banks by function.",
+      "markingGuide": "1.5–2 marks per correctly named and explained type (5 marks total)."
+    },
+    {
+      "question": "Define insurance, explaining the meaning of 'premium' in your answer.",
+      "markingGuide": "Correct definition of insurance and premium (5 marks, holistic)."
+    },
+    {
+      "question": "List and briefly explain FIVE types of insurance policies.",
+      "markingGuide": "1 mark per correctly named and briefly explained type (5 marks total)."
+    },
+    {
+      "question": "A trader wants to protect his shop against fire and also insure the goods he ships in from abroad. Identify the TWO types of insurance he needs, and explain why each is appropriate.",
+      "markingGuide": "Correct identification of fire and marine insurance (2.5 marks); clear reasoning for each (2.5 marks)."
+    }
+  ]
+}

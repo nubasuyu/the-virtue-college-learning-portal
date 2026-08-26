@@ -1,0 +1,462 @@
+{
+    "course": "Literature in English",
+    "level": "SSS1",
+    "term": "First Term",
+    "week": 4,
+    "topic": "Genres of Literature II — Prose",
+    "subUnits": [
+      {
+        "id": "sss1_lit_t1_w4_su1",
+        "title": "4.1 Definition, Characteristics, and Types of Prose",
+        "notes": [
+          "Definition, Characteristics, and Types of Prose",
+          "",
+          "Key Concepts:",
+          "1. Definition:",
+          "   - PROSE is literary writing in its ordinary, natural form — without the rhythmic or metrical structure of poetry.",
+          "   - It is the genre in which most novels, short stories, and essays are written.",
+          "",
+          "2. Characteristics of Prose:",
+          "   - Written in SENTENCES and PARAGRAPHS (not verse).",
+          "   - Uses NARRATIVE — a narrator tells the story.",
+          "   - Can be FICTIONAL (invented) or NON-FICTIONAL (factual).",
+          "   - Rich in CHARACTER development, SETTING, and PLOT.",
+          "",
+          "3. Types of Prose:",
+          "   - NOVEL: a long, extended prose fiction with a complex plot and multiple characters.",
+          "   - SHORT STORY: a brief prose narrative focusing on one main event or impression.",
+          "   - NOVELLA: a prose work longer than a short story but shorter than a novel.",
+          "   - ESSAY: a short non-fictional prose piece examining a topic.",
+          "   - BIOGRAPHY / AUTOBIOGRAPHY: non-fictional prose about a person's life.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume all prose is fiction — non-fiction (essays, biographies) is equally prose.",
+          "   - Do NOT confuse a NOVELLA with a NOVEL — a novella is shorter and more focused."
+        ],
+        "diagramDescriptions": [
+          "Table comparing types of prose: novel, short story, novella, essay, biography"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English definition characteristics types of prose novel short story site:youtube.com",
+        "quiz": [
+          {
+            "q": "Prose is distinguished from poetry primarily by:",
+            "opts": [
+              "Its use of characters",
+              "Its ordinary, natural form without rhythmic or metrical structure",
+              "Being always non-fictional",
+              "Using only dialogue"
+            ],
+            "ans": 1,
+            "explanation": "Prose is written in natural language without the deliberate rhythmic or metrical pattern characteristic of poetry."
+          },
+          {
+            "q": "Prose is written in:",
+            "opts": [
+              "Stanzas and verses",
+              "Acts and scenes",
+              "Sentences and paragraphs",
+              "Dialogue only"
+            ],
+            "ans": 2,
+            "explanation": "Prose is structured in sentences and paragraphs, as opposed to verse or dramatic scenes."
+          },
+          {
+            "q": "A NOVEL is best described as:",
+            "opts": [
+              "A short prose narrative focusing on one event",
+              "A long prose fiction with complex plot and multiple characters",
+              "A non-fictional prose piece about a person's life",
+              "A brief essay examining one topic"
+            ],
+            "ans": 1,
+            "explanation": "A novel is an extended work of prose fiction with developed characters, plot, and setting."
+          },
+          {
+            "q": "A SHORT STORY differs from a novel in that it:",
+            "opts": [
+              "Is always non-fictional",
+              "Has no characters",
+              "Is brief and typically focuses on one main event or impression",
+              "Must be written in verse"
+            ],
+            "ans": 2,
+            "explanation": "A short story is a compact narrative, typically built around a single event, character, or impression."
+          },
+          {
+            "q": "A NOVELLA is:",
+            "opts": [
+              "Longer than a novel",
+              "Shorter than a short story",
+              "Longer than a short story but shorter than a novel",
+              "Always a biography"
+            ],
+            "ans": 2,
+            "explanation": "A novella sits between a short story and a novel in length and scope."
+          },
+          {
+            "q": "Which of these is an example of non-fictional prose?",
+            "opts": [
+              "A novel",
+              "A short story",
+              "A novella",
+              "An autobiography"
+            ],
+            "ans": 3,
+            "explanation": "An autobiography is a non-fictional prose work in which a person writes their own life story."
+          },
+          {
+            "q": "Prose can be:",
+            "opts": [
+              "Only fictional",
+              "Only non-fictional",
+              "Either fictional or non-fictional",
+              "Only written in verse form"
+            ],
+            "ans": 2,
+            "explanation": "Prose encompasses both invented fiction (novels, short stories) and factual non-fiction (essays, biographies)."
+          },
+          {
+            "q": "The primary mode of storytelling in prose is:",
+            "opts": [
+              "Stage directions",
+              "Verse and rhyme",
+              "Narrative description by a narrator",
+              "Mime and gesture"
+            ],
+            "ans": 2,
+            "explanation": "Prose tells its story through a narrator, using descriptive language — unlike drama which relies on dialogue and action."
+          },
+          {
+            "q": "An ESSAY is a prose form that:",
+            "opts": [
+              "Always invents fictional characters",
+              "Is a short non-fictional piece examining a topic",
+              "Is always longer than a novel",
+              "Uses verse and rhyme"
+            ],
+            "ans": 1,
+            "explanation": "An essay is a relatively short, non-fictional prose piece focused on exploring or arguing about a particular topic."
+          },
+          {
+            "q": "It is a mistake to assume all prose is fiction because:",
+            "opts": [
+              "All prose is actually poetry",
+              "Non-fiction forms like essays and biographies are equally prose",
+              "Fiction is not a type of prose",
+              "Prose has no non-fictional forms"
+            ],
+            "ans": 1,
+            "explanation": "Prose includes both fictional and non-fictional writing — many important prose works are essays, biographies, and journalism."
+          }
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w4_su2",
+        "title": "4.2 Narrative Techniques",
+        "notes": [
+          "Narrative Techniques",
+          "",
+          "Key Concepts:",
+          "1. Point of View (Narrative Perspective):",
+          "   - FIRST PERSON: the narrator is a character within the story — uses 'I'. (e.g., 'I walked into the room.')",
+          "   - THIRD PERSON OMNISCIENT: a narrator outside the story who knows everything about all characters.",
+          "   - THIRD PERSON LIMITED: an outside narrator who reveals the thoughts of only one character.",
+          "   - SECOND PERSON: rare — narrator addresses the reader as 'you'.",
+          "",
+          "2. Other Narrative Techniques:",
+          "   - STREAM OF CONSCIOUSNESS: capturing the continuous flow of a character's thoughts.",
+          "   - IN MEDIAS RES: beginning the narrative in the middle of the action.",
+          "   - UNRELIABLE NARRATOR: a narrator whose account is biased, limited, or deliberately deceptive.",
+          "   - FRAME NARRATIVE: a story within a story — an outer narrative frames an inner one.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse FIRST PERSON (character inside the story using 'I') with THIRD PERSON OMNISCIENT (outside narrator knowing everything).",
+          "   - Do NOT assume an omniscient narrator always tells the complete truth — an author may use an unreliable omniscient voice."
+        ],
+        "diagramDescriptions": [
+          "Diagram comparing first-person, third-person omniscient, and third-person limited narrators"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English narrative techniques point of view first person third person omniscient site:youtube.com",
+        "quiz": [
+          {
+            "q": "A FIRST PERSON narrator:",
+            "opts": [
+              "Knows everything about all characters from outside the story",
+              "Is a character within the story who uses 'I'",
+              "Only describes external events without any 'I'",
+              "Is always unreliable"
+            ],
+            "ans": 1,
+            "explanation": "A first-person narrator is a character within the story, telling events from their personal viewpoint using 'I'."
+          },
+          {
+            "q": "A THIRD PERSON OMNISCIENT narrator:",
+            "opts": [
+              "Is a character inside the story",
+              "Knows the thoughts of only one character",
+              "Exists outside the story and knows everything about all characters",
+              "Addresses the reader as 'you'"
+            ],
+            "ans": 2,
+            "explanation": "The omniscient narrator stands outside the story and has unlimited access to all characters' thoughts and feelings."
+          },
+          {
+            "q": "A THIRD PERSON LIMITED narrator differs from an omniscient narrator in that:",
+            "opts": [
+              "It uses 'I' throughout",
+              "It reveals the inner thoughts of only one character, not all",
+              "It stands inside the story as a character",
+              "It addresses the reader directly"
+            ],
+            "ans": 1,
+            "explanation": "The limited narrator restricts its access to one character's consciousness, unlike the all-knowing omniscient narrator."
+          },
+          {
+            "q": "IN MEDIAS RES means:",
+            "opts": [
+              "Ending the narrative with a surprise twist",
+              "Beginning the narrative in the middle of the action",
+              "Telling the story in chronological order",
+              "Using a narrator who is unreliable"
+            ],
+            "ans": 1,
+            "explanation": "In medias res (Latin: 'into the middle of things') is the technique of beginning a narrative at a key point already in progress."
+          },
+          {
+            "q": "STREAM OF CONSCIOUSNESS as a narrative technique involves:",
+            "opts": [
+              "A narrator knowing all characters' thoughts",
+              "Capturing the continuous, flowing thoughts of a character's mind",
+              "Beginning the story in the middle of the action",
+              "An outer story framing an inner story"
+            ],
+            "ans": 1,
+            "explanation": "Stream of consciousness represents the unbroken, often fragmented flow of a character's inner thoughts."
+          },
+          {
+            "q": "An UNRELIABLE NARRATOR is one who:",
+            "opts": [
+              "Always tells the complete, objective truth",
+              "Provides a biased, limited, or deceptive account of events",
+              "Has access to all characters' thoughts simultaneously",
+              "Only narrates external events without any perspective"
+            ],
+            "ans": 1,
+            "explanation": "An unreliable narrator's account cannot be taken at face value — they may be mistaken, biased, or dishonest."
+          },
+          {
+            "q": "A FRAME NARRATIVE is:",
+            "opts": [
+              "A narrative beginning in the middle of the action",
+              "A narrative using only the second person",
+              "A story within a story — an outer narrative framing an inner one",
+              "A narrative with a single omniscient narrator"
+            ],
+            "ans": 2,
+            "explanation": "A frame narrative uses an outer story to introduce and contain an inner story — like Chaucer's Canterbury Tales."
+          },
+          {
+            "q": "Second person narration:",
+            "opts": [
+              "Uses 'I' throughout",
+              "Addresses the reader directly as 'you'",
+              "Is the most common narrative mode in novels",
+              "Is the same as third person limited"
+            ],
+            "ans": 1,
+            "explanation": "Second person narration is rare and unusual — it directly addresses the reader with 'you', pulling them into the narrative."
+          },
+          {
+            "q": "Which narrative technique allows the reader the deepest access to ALL characters' inner thoughts?",
+            "opts": [
+              "First person",
+              "Third person limited",
+              "Second person",
+              "Third person omniscient"
+            ],
+            "ans": 3,
+            "explanation": "The omniscient narrator has unrestricted access to the inner worlds of all characters."
+          },
+          {
+            "q": "It is a mistake to confuse first person with third person omniscient because:",
+            "opts": [
+              "They both use 'I'",
+              "A first person narrator is inside the story using 'I'; an omniscient narrator is outside knowing everything",
+              "Third person omniscient is always more reliable",
+              "First person can also know all characters' thoughts"
+            ],
+            "ans": 1,
+            "explanation": "The critical difference is perspective: first person is inside and limited to personal experience; omniscient is outside and all-knowing."
+          }
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w4_su3",
+        "title": "4.3 Character Types, and Further Prose Vocabulary",
+        "notes": [
+          "Character Types, and Further Prose Vocabulary",
+          "",
+          "Key Concepts:",
+          "1. Character Types:",
+          "   - PROTAGONIST: the central character whose journey drives the narrative.",
+          "   - ANTAGONIST: the character or force opposing the protagonist.",
+          "   - ROUND character: complex, multidimensional — capable of growth and change.",
+          "   - FLAT character: one-dimensional, defined by a single trait.",
+          "   - STOCK character: a recognisable type (the miser, the hero's loyal friend).",
+          "   - FOIL: a character whose contrasting traits highlight the qualities of another character.",
+          "",
+          "2. Further Prose Vocabulary:",
+          "   - SETTING: the time and place in which the story unfolds.",
+          "   - THEME: the central idea or message the author explores.",
+          "   - MOTIF: a recurring image, symbol, or idea throughout the text.",
+          "   - DICTION: the author's choice of words, contributing to tone and style.",
+          "   - IMAGERY: vivid, descriptive language that appeals to the senses.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse THEME (central idea) with PLOT (sequence of events) — the plot carries the theme, but they are distinct.",
+          "   - Do NOT confuse FOIL (contrasting character) with ANTAGONIST (opposing force) — a foil may actually be friendly to the protagonist."
+        ],
+        "diagramDescriptions": [
+          "Character type summary table: protagonist, antagonist, round, flat, stock, foil"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English prose character types round flat foil theme motif site:youtube.com",
+        "quiz": [
+          {
+            "q": "A FOIL character is:",
+            "opts": [
+              "The main character of the story",
+              "A character whose contrasting traits highlight the qualities of another character",
+              "An antagonist who opposes the protagonist",
+              "A one-dimensional, stereotypical character"
+            ],
+            "ans": 1,
+            "explanation": "A foil character exists to contrast with another — usually the protagonist — making the other's traits more vivid by comparison."
+          },
+          {
+            "q": "THEME in a prose text refers to:",
+            "opts": [
+              "The sequence of events that make up the story",
+              "The time and place in which the story is set",
+              "The central idea or message the author explores",
+              "The author's choice of words"
+            ],
+            "ans": 2,
+            "explanation": "Theme is the underlying idea or message — what the story is really 'about' beyond the surface events."
+          },
+          {
+            "q": "A MOTIF in a text is:",
+            "opts": [
+              "The setting of the story",
+              "A recurring image, symbol, or idea that reinforces the theme",
+              "The main character's fatal flaw",
+              "The climax of the plot"
+            ],
+            "ans": 1,
+            "explanation": "A motif is a recurring element — an image, object, or idea — that appears throughout a text with thematic significance."
+          },
+          {
+            "q": "DICTION refers to:",
+            "opts": [
+              "The plot structure of a novel",
+              "The author's deliberate choice of words, contributing to tone and style",
+              "The setting of the story",
+              "The climax of the narrative"
+            ],
+            "ans": 1,
+            "explanation": "Diction is the specific word choices an author makes — formal or informal, simple or complex — which shape the tone and voice of the text."
+          },
+          {
+            "q": "IMAGERY in prose uses language that:",
+            "opts": [
+              "Only tells the reader facts without description",
+              "Appeals to the senses to create vivid mental pictures",
+              "Avoids any descriptive language",
+              "Only addresses the reader directly"
+            ],
+            "ans": 1,
+            "explanation": "Imagery uses descriptive, sensory language to help the reader vividly experience the scenes and emotions of the narrative."
+          },
+          {
+            "q": "SETTING encompasses:",
+            "opts": [
+              "Only the physical location of the story",
+              "The central idea the author explores",
+              "The time AND place in which the story unfolds",
+              "The sequence of major events"
+            ],
+            "ans": 2,
+            "explanation": "Setting includes both the geographic location and the historical/temporal context of the narrative."
+          },
+          {
+            "q": "A ROUND character is distinguished by:",
+            "opts": [
+              "Being one-dimensional and defined by a single trait",
+              "Being a recognisable type or stereotype",
+              "Being complex, multidimensional, and capable of change",
+              "Always opposing the protagonist"
+            ],
+            "ans": 2,
+            "explanation": "Round characters are fully developed and lifelike — they can surprise the reader and change throughout the story."
+          },
+          {
+            "q": "Theme differs from plot in that:",
+            "opts": [
+              "Plot is the idea; theme is the events",
+              "Theme is the central idea; plot is the sequence of events carrying that idea",
+              "They are the same thing",
+              "Only novels have themes; only dramas have plots"
+            ],
+            "ans": 1,
+            "explanation": "The plot is what happens; the theme is what it means. The plot is the vehicle for the theme."
+          },
+          {
+            "q": "A STOCK character is:",
+            "opts": [
+              "The most complex character in the story",
+              "A character whose contrasting traits highlight another's qualities",
+              "A recognisable type with familiar traits (e.g., the miser, the loyal sidekick)",
+              "Always the protagonist"
+            ],
+            "ans": 2,
+            "explanation": "Stock characters are recognisable archetypes drawn from established conventions — readers immediately understand their role."
+          },
+          {
+            "q": "A foil is NOT the same as an antagonist because:",
+            "opts": [
+              "A foil always kills the protagonist",
+              "A foil may be friendly to the protagonist and exists to create contrast, not necessarily conflict",
+              "An antagonist contrasts with the protagonist; a foil opposes them",
+              "They are exactly the same thing"
+            ],
+            "ans": 1,
+            "explanation": "A foil creates contrast to illuminate another character's traits — this role can be filled by a friend, not just an opponent."
+          }
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {
+        "question": "Define prose and state THREE of its characteristics.",
+        "markingGuide": "Correct definition (2); 1 mark per characteristic (3 characteristics, 3 total) = 5 total."
+      },
+      {
+        "question": "Name and describe FOUR types of prose.",
+        "markingGuide": "1.25 marks per correctly named and described type (4 types, 5 total)."
+      },
+      {
+        "question": "Explain the difference between a first-person narrator and a third-person omniscient narrator.",
+        "markingGuide": "Clear, accurate distinction with examples (5, holistic)."
+      },
+      {
+        "question": "Distinguish between a round character and a flat character, giving an example of each.",
+        "markingGuide": "Correct distinction (3); valid example for each (1 each) = 5 total."
+      },
+      {
+        "question": "Explain the difference between theme and plot in a prose text.",
+        "markingGuide": "Clear, accurate distinction (5, holistic)."
+      }
+    ]
+  }

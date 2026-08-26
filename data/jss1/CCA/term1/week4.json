@@ -1,0 +1,143 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Crafts Continued: Examples and Uses",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w4_su1",
+      "title": "4.1 Examples of Types of Crafts: Fabric, Paper, Pottery, and Carving",
+      "notes": [
+        "Examples of Types of Crafts",
+        "",
+        "Key Concepts:",
+        "1. Fabric Crafts:",
+        "   - TIE-DYEING: Creating patterns by tying fabric before dyeing.",
+        "   - CLOTHES WEAVING: Creating fabric itself on a loom (e.g., Aso-Oke).",
+        "",
+        "2. Paper Crafts:",
+        "   - KITE making: Constructing flyable paper structures.",
+        "   - PAPER MACHÉ: Moulding wet paper pulp into three-dimensional objects once dry.",
+        "",
+        "3. Pottery Crafts:",
+        "   - POTS: Containers shaped from clay, traditionally used for cooking, storing water, or grain.",
+        "   - VASES: Decorative clay containers, often for flowers or ornamental display.",
+        "",
+        "4. Carving Crafts:",
+        "   - WOOD carving: Statues, masks, stools, utensils.",
+        "   - CALABASH carving: Decorating dried gourds with cut or burned designs.",
+        "",
+        "Nigerian Context:",
+        "   - From the clay pots of Abuja to the wooden masks of Benin, these specific craft examples are not just museum pieces; they are living traditions that continue to serve practical and cultural roles in Nigerian society today."
+      ],
+      "diagramDescriptions": ["Visual chart categorizing specific examples under Fabric, Paper, Pottery, and Carving"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts examples of fabric paper pottery carving crafts site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is an example of a fabric craft?", "opts": ["Tie-dyeing", "Kite making", "Wood carving", "Pot making"], "ans": 0, "explanation": "Tie-dyeing is a technique used to decorate fabric, making it a fabric craft."},
+        {"q": "Which of these is an example of a paper craft?", "opts": ["Vase making", "Calabash carving", "Tie-dyeing", "Kite making"], "ans": 3, "explanation": "Kite making involves constructing structures primarily from paper."},
+        {"q": "Which of these is an example of pottery?", "opts": ["A wooden mask", "A woven basket", "A clay pot", "A tie-dyed cloth"], "ans": 2, "explanation": "A clay pot is shaped from clay and fired, which is the definition of pottery."},
+        {"q": "Which of these is an example of carving?", "opts": ["A woven fan", "A clay vase", "A wooden mask", "A paper kite"], "ans": 2, "explanation": "A wooden mask is shaped by cutting and chipping away wood, making it a carving craft."},
+        {"q": "Paper mâché involves:", "opts": ["Weaving dry paper strips", "Moulding wet paper pulp into a three-dimensional object", "Carving paper with a knife", "Dyeing fabric with paper"], "ans": 1, "explanation": "Paper mâché uses wet paper pulp mixed with paste to create solid 3D objects."},
+        {"q": "Aso-Oke is an example of:", "opts": ["Clothes weaving (a fabric craft)", "Carving", "Paper craft", "Pottery"], "ans": 0, "explanation": "Aso-Oke is a traditional hand-woven fabric, making it a clothes weaving craft."},
+        {"q": "Traditional clay pots have historically been used for:", "opts": ["Only modern electronic purposes", "Cooking, storing water, or storing grain", "Nothing useful at all", "Decoration only, never practical use"], "ans": 1, "explanation": "Clay pots are highly functional, traditionally used for cooking and storage."},
+        {"q": "Calabash carving involves:", "opts": ["Moulding wet clay only", "Weaving dried gourds", "Painting on canvas only", "Decorating dried gourds with cut or burned designs"], "ans": 3, "explanation": "Calabash craft involves decorating the hard surface of a dried gourd through carving or burning."},
+        {"q": "These craft examples are compared to:", "opts": ["Unrelated random objects", "Individual dishes prepared using different ingredients and techniques", "Identical dishes with no real difference", "A single unchanging recipe"], "ans": 1, "explanation": "Just as different soups use different ingredients, different craft categories use different materials and techniques."},
+        {"q": "Wood carving can produce items such as:", "opts": ["Only clay pots", "Only paintings", "Statues, masks, stools, and utensils", "Only woven baskets"], "ans": 2, "explanation": "Wood carving is versatile and can produce a wide range of functional and decorative items."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w4_su2",
+      "title": "4.2 Uses of Crafts: Cultural and Beautification",
+      "notes": [
+        "Uses of Crafts: Cultural and Beautification",
+        "",
+        "Key Concepts:",
+        "1. Cultural Use:",
+        "   - Crafts express and preserve TRADITIONS.",
+        "   - They are often used in FESTIVALS, ceremonies, and rituals.",
+        "   - Example: Carved masks in masquerade festivals, or specific woven cloths worn for traditional weddings.",
+        "",
+        "2. Beautification Use:",
+        "   - Crafts DECORATE homes, bodies, and public spaces.",
+        "   - They add beauty and aesthetic value to everyday life.",
+        "   - Example: Beadwork, decorative vases, and woven wall hangings.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, crafts are deeply tied to identity. A Yoruba bride's Aso-Oke or an Igbo title-holder's beaded regalia are not just beautiful; they communicate deep cultural status and heritage."
+      ],
+      "diagramDescriptions": ["Images showing crafts used in cultural festivals and home decoration"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts cultural and beautification uses of crafts site:youtube.com",
+      "quiz": [
+        {"q": "Crafts used in festivals and ceremonies primarily serve which use?", "opts": ["No real use", "Economic use only", "Cultural use", "Non-visual art use"], "ans": 2, "explanation": "Using crafts in festivals and ceremonies is a direct expression of cultural use."},
+        {"q": "Crafts that decorate homes and bodies serve which use?", "opts": ["No real use", "Non-visual art use", "Beautification use", "Cultural use only"], "ans": 2, "explanation": "Adding decorative value to spaces or people is the definition of beautification use."},
+        {"q": "Carved masks worn in masquerade festivals demonstrate ___ use.", "opts": ["Purely economic", "No real", "Non-visual", "Cultural"], "ans": 3, "explanation": "Masquerade masks are deeply embedded in cultural traditions and ceremonies."},
+        {"q": "A beautifully woven wall hanging in a living room primarily serves a ___ use.", "opts": ["Cultural", "Beautification", "Utensil", "Economic"], "ans": 1, "explanation": "While it may have cultural origins, its primary role in this context is to decorate the space."},
+        {"q": "Traditional woven cloths worn for weddings are an example of:", "opts": ["Cultural use of crafts", "Purely economic use", "Non-visual art", "Paper craft"], "ans": 0, "explanation": "Wearing specific traditional fabrics for ceremonies is a strong cultural use of craft."},
+        {"q": "Beadwork used to decorate traditional clothing is an example of:", "opts": ["Beautification and cultural use", "Purely economic use", "Pottery", "Carving"], "ans": 0, "explanation": "Beadwork enhances beauty (beautification) and often signifies cultural status."},
+        {"q": "Crafts help to preserve traditions by:", "opts": ["Being forgotten after one generation", "Being used in ceremonies and passed down through generations", "Being replaced entirely by machines", "Having no connection to history"], "ans": 1, "explanation": "The continued use of crafts in traditional settings keeps cultural heritage alive."},
+        {"q": "A decorative clay vase placed in a hotel lobby is primarily serving a ___ use.", "opts": ["Utensil", "Beautification", "Cultural", "Economic"], "ans": 1, "explanation": "Its main purpose in this setting is to enhance the aesthetic appeal of the space."},
+        {"q": "The uses of crafts are like the many roles a respected elder plays, including being a:", "opts": ["Cultural guide and decorator of shared spaces", "Complete stranger to the community", "Single unchanging role with no variation", "Role with no real value"], "ans": 0, "explanation": "Just as an elder has multiple valuable roles, a single craft can serve multiple purposes."},
+        {"q": "Understanding the cultural use of crafts helps us to:", "opts": ["Ignore our heritage", "Appreciate the deep traditions and meanings behind the objects", "Believe crafts are only for selling", "Think crafts have no history"], "ans": 1, "explanation": "Recognizing cultural use fosters respect and understanding of a community's heritage."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w4_su3",
+      "title": "4.3 Uses of Crafts: Utensil/Practical and Economic",
+      "notes": [
+        "Uses of Crafts: Utensil/Practical and Economic",
+        "",
+        "Key Concepts:",
+        "1. Utensil/Practical Use:",
+        "   - Many crafts create genuinely USEFUL, everyday objects.",
+        "   - Examples: Pots for cooking and storage, baskets for carrying goods, woven mats for sitting or sleeping.",
+        "",
+        "2. Economic Use:",
+        "   - Craft-making provides a genuine LIVELIHOOD for many artisans.",
+        "   - They sell their work locally and internationally, contributing to household income and national export earnings.",
+        "   - Example: Nigerian crafts like beads, textiles, and carvings are valued and purchased worldwide.",
+        "",
+        "Nigerian Context:",
+        "   - Markets like Kurmi Market in Kano or Arts and Crafts villages in Abuja are hubs where the economic use of crafts is highly visible, supporting thousands of families and attracting international buyers."
+      ],
+      "diagramDescriptions": ["Images showing practical craft items (baskets, pots) and artisans selling at a market"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts practical and economic uses of crafts Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Pots used for cooking and baskets used for carrying goods serve which use?", "opts": ["Cultural use only", "No real use", "Purely decorative use only", "Utensil/practical use"], "ans": 3, "explanation": "These items are created primarily for their functional, everyday utility."},
+        {"q": "Craft-making that provides income for an artisan serves which use?", "opts": ["No real use", "Cultural use only", "Beautification use only", "Economic use"], "ans": 3, "explanation": "Generating income and livelihood through the sale of crafts is the economic use."},
+        {"q": "Nigerian crafts are valued and purchased:", "opts": ["Worldwide, contributing to export earnings", "Nowhere at all", "Only within one small village", "Only by government agencies"], "ans": 0, "explanation": "Nigerian crafts have a strong international market, boosting the national economy."},
+        {"q": "A single craft object can serve:", "opts": ["Only decorative purposes exclusively", "Multiple uses at once (cultural, beautiful, practical, economic)", "Only one use, never more than one", "No use at all"], "ans": 1, "explanation": "A decorated cooking pot, for example, can be practical, beautiful, cultural, and sold for income."},
+        {"q": "Crafts are woven deeply into:", "opts": ["Cultural, economic, and everyday life", "Only foreign cultures", "Only ancient history, with no modern relevance", "Nothing important"], "ans": 0, "explanation": "Crafts remain highly relevant in modern Nigerian society across multiple domains."},
+        {"q": "A basket weaver selling her baskets at the market demonstrates the ___ use of crafts.", "opts": ["Economic", "Non-visual", "No real use at all", "Purely cultural, with no economic value"], "ans": 0, "explanation": "Selling the baskets for income is a direct economic activity."},
+        {"q": "Which of the following is an example of the practical use of a craft?", "opts": ["A painting hung in a gallery", "A woven sleeping mat", "A decorative bead necklace", "A carved wooden statue"], "ans": 1, "explanation": "A sleeping mat serves a direct, functional, everyday purpose."},
+        {"q": "The export of Nigerian textiles and carvings contributes to the country's:", "opts": ["Cultural isolation", "Economic growth and foreign exchange", "Decrease in tourism", "Loss of traditional skills"], "ans": 1, "explanation": "Selling crafts internationally brings in foreign currency and supports the economy."},
+        {"q": "An artisan who trains apprentices is contributing to the craft's:", "opts": ["Economic decline", "Cultural preservation and future economic sustainability", "Immediate destruction", "Irrelevance"], "ans": 1, "explanation": "Training ensures the skill survives, maintaining both cultural heritage and future livelihoods."},
+        {"q": "Understanding the multiple uses of crafts shows that they are:", "opts": ["Simple decorations with no real value", "Far more than simple decoration, deeply woven into life", "Only useful in ancient times", "Only relevant to historians"], "ans": 1, "explanation": "Crafts serve complex, overlapping roles in culture, economy, and daily utility."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Give TWO specific examples each of fabric crafts and paper crafts.",
+      "markingGuide": "1.25 marks per correctly named, valid example (4 examples, 5 marks total)."
+    },
+    {
+      "question": "Give TWO specific examples each of pottery and carving crafts.",
+      "markingGuide": "1.25 marks per correctly named, valid example (4 examples, 5 marks total)."
+    },
+    {
+      "question": "List and briefly explain the FOUR uses of crafts studied this week.",
+      "markingGuide": "1.25 marks per correctly named and briefly explained use (5 marks total)."
+    },
+    {
+      "question": "A decorated clay pot is used both for storing grain AND as a beautiful centrepiece during festival celebrations. Identify TWO uses of crafts demonstrated by this single object, explaining each.",
+      "markingGuide": "2.5 marks each for a correctly identified and explained use (e.g., practical/utensil and cultural/beautification)."
+    },
+    {
+      "question": "Explain, using the 'respected elder' analogy or your own example, why a single craft object can serve multiple different uses at the same time.",
+      "markingGuide": "Clear explanation with a valid supporting example (5 marks, holistic)."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Elements of Design",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w1_su1",
+      "title": "1.1 Meaning of Elements of Design",
+      "notes": [
+        "Meaning of Elements of Design",
+        "",
+        "Key Concepts:",
+        "1. Definition:",
+        "   - The ELEMENTS OF DESIGN are the BASIC, fundamental VISUAL building blocks used to create ANY artwork.",
+        "   - Just as words are the building blocks of a sentence, elements of design are the building blocks of a picture, craft, or design.",
+        "",
+        "2. Purpose:",
+        "   - Every artwork, no matter how simple or complex, is constructed by COMBINING these basic elements in different ways.",
+        "   - Understanding them helps an artist DELIBERATELY control how their work looks and FEELS, rather than creating by accident.",
+        "",
+        "Nigerian Context:",
+        "   - Whether creating a simple woven mat or a complex bronze sculpture, Nigerian artisans have used these same visual building blocks for centuries to communicate meaning and beauty."
+      ],
+      "diagramDescriptions": ["Diagram showing elements of design as building blocks of art"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts meaning of elements of design site:youtube.com",
+      "quiz": [
+        {"q": "What are the elements of design?", "opts": ["Rules for arranging a finished artwork", "The basic visual building blocks used to create any artwork", "A type of craft tool", "Only expensive art materials"], "ans": 1, "explanation": "Elements of design are the fundamental visual building blocks used to create any artwork."},
+        {"q": "Elements of design are compared to words being the building blocks of:", "opts": ["A musical note only", "A sentence", "A mathematical equation", "Nothing at all"], "ans": 1, "explanation": "Just as words build sentences, elements of design build visual artworks."},
+        {"q": "Understanding elements of design helps an artist:", "opts": ["Ignore visual effect entirely", "Create entirely by accident", "Avoid all creativity", "Deliberately control how their work looks and feels"], "ans": 3, "explanation": "Knowing the elements allows an artist to make intentional, deliberate visual choices."},
+        {"q": "Every artwork is constructed by:", "opts": ["Completely avoiding elements", "Ignoring elements", "Destroying elements", "Combining elements in different ways"], "ans": 3, "explanation": "Artworks are created by combining the basic elements of design in various ways."},
+        {"q": "A skilled artist thinks consciously about:", "opts": ["Only the size of their paper", "Only the price of their materials", "Which elements to use and how to use them", "Nothing at all regarding their materials"], "ans": 2, "explanation": "Skilled artists deliberately choose and combine elements to achieve a specific effect."},
+        {"q": "Elements of design apply to:", "opts": ["Every visual creation, including simple crafts", "Only expensive paintings", "Only non-visual art like music", "Nothing practical or everyday"], "ans": 0, "explanation": "The elements of design are universal to all visual creations, from fine art to everyday crafts."},
+        {"q": "Elements of design differ from principles of design in that elements are:", "opts": ["The basic building blocks, while principles are rules for arranging them", "Unrelated to any artistic concept", "Only used in non-visual art", "Exactly the same thing with no difference"], "ans": 0, "explanation": "Elements are the 'what' (building blocks), while principles are the 'how' (rules for arrangement)."},
+        {"q": "A skilled writer choosing words carefully is compared to an artist:", "opts": ["Choosing and combining elements of design carefully", "Avoiding any deliberate planning", "Ignoring all visual choices", "Refusing to use any elements at all"], "ans": 0, "explanation": "Both a writer and an artist carefully select their basic components to create a specific meaning or mood."},
+        {"q": "Understanding the elements of design is useful because it allows:", "opts": ["No real benefit to the artist", "Deliberate, intentional artistic choices rather than accidental results", "Only wealthy artists to create art", "Artists to avoid using any elements"], "ans": 1, "explanation": "It empowers the artist to create with purpose and intention rather than by random chance."},
+        {"q": "Thinking elements of design are only relevant to 'serious' artists is a mistake because:", "opts": ["They are only for sculptors", "Every visual creation, including simple crafts, uses these same basic building blocks", "They are too difficult to learn", "They are only found in museums"], "ans": 1, "explanation": "The elements of design are fundamental to all visual work, no matter how simple or complex."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w1_su2",
+      "title": "1.2 The Five Elements of Design",
+      "notes": [
+        "The Five Elements of Design",
+        "",
+        "Key Concepts:",
+        "1. Line:",
+        "   - A mark made by a moving point. It can be straight, curved, thick, thin, or wavy.",
+        "",
+        "2. Colour:",
+        "   - The visual quality created by light reflecting off a surface, giving objects their hue (e.g., red, blue, yellow).",
+        "",
+        "3. Form:",
+        "   - The THREE-DIMENSIONAL quality of an object — its actual physical shape and volume in space (e.g., a sphere, a cube), distinct from a flat, two-dimensional shape.",
+        "",
+        "4. Space:",
+        "   - The area around, between, and within objects. This includes POSITIVE space (occupied by the subject) and NEGATIVE space (the empty area surrounding it).",
+        "",
+        "5. Texture:",
+        "   - The surface quality of an object — how it looks or feels (e.g., rough, smooth, bumpy, soft). It can be ACTUAL (physically felt) or VISUAL (only appearing textured).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian art, a carved wooden figure clearly demonstrates 'Form' (3D volume), while an Adire fabric showcases 'Colour' and 'Texture' through its dyed patterns and cloth surface."
+      ],
+      "diagramDescriptions": ["Visual chart showing Line, Colour, Form, Space, and Texture with examples"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts five elements of design line colour form space texture site:youtube.com",
+      "quiz": [
+        {"q": "What is line, as an element of design?", "opts": ["The empty area around an object", "A mark made by a moving point", "A surface quality", "A three-dimensional shape"], "ans": 1, "explanation": "A line is defined as a mark made by a moving point."},
+        {"q": "What is colour, as an element of design?", "opts": ["The visual quality created by light reflecting off a surface, giving hue", "A three-dimensional volume", "A type of surface texture", "An empty space"], "ans": 0, "explanation": "Colour is the visual quality perceived when light reflects off a surface."},
+        {"q": "What is form, as an element of design?", "opts": ["A flat, two-dimensional outline only", "A surface texture", "The three-dimensional quality (shape and volume) of an object", "A type of colour"], "ans": 2, "explanation": "Form refers to the 3D volume and physical shape of an object in space."},
+        {"q": "Positive space refers to:", "opts": ["The area occupied by the subject", "A type of line", "The empty area surrounding the subject", "A type of colour"], "ans": 0, "explanation": "Positive space is the area actually occupied by the main subject of the artwork."},
+        {"q": "Negative space refers to:", "opts": ["The empty area surrounding the subject", "A type of texture", "The area occupied by the subject", "A type of form"], "ans": 0, "explanation": "Negative space is the background or empty area surrounding the main subject."},
+        {"q": "What is texture, as an element of design?", "opts": ["The three-dimensional volume of an object", "A type of line only", "A type of colour", "The surface quality of an object (rough, smooth, bumpy, soft)"], "ans": 3, "explanation": "Texture describes how a surface looks or feels."},
+        {"q": "Texture can be:", "opts": ["Only actual, never visual", "Only visual, never actual", "Actual (physically felt) or visual (only appearing textured)", "Neither actual nor visual, ever"], "ans": 2, "explanation": "Texture can be actual (tactile) or visual (an illusion of texture created by the artist)."},
+        {"q": "A carved wooden figure demonstrates which element especially clearly?", "opts": ["Line only", "Space only", "Colour only", "Form"], "ans": 3, "explanation": "A carved figure has actual 3D volume, making it a prime example of Form."},
+        {"q": "The five elements of design are compared to:", "opts": ["Five different musicians in one artistic band", "A single unchanging musician", "A band with no coordination at all", "Unrelated random objects"], "ans": 0, "explanation": "Like musicians in a band, each element plays a distinct role but works together to create a complete artwork."},
+        {"q": "Negative space is described as being to a design's balance:", "opts": ["Completely unimportant, unlike positive space", "Just as important as positive space", "Irrelevant, unlike positive space", "Harmful, unlike positive space"], "ans": 1, "explanation": "Both positive and negative space are equally crucial for achieving visual balance in a design."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w1_su3",
+      "title": "1.3 Identifying Elements in Nigerian Artworks",
+      "notes": [
+        "Identifying Elements in Nigerian Artworks",
+        "",
+        "Key Concepts:",
+        "1. Application in Traditional Art:",
+        "   - Nok Terracotta: Strong use of Form (3D volume) and Texture (rough, porous clay surface).",
+        "   - Ife Bronze: Mastery of Form (realistic human proportions) and Line (delicate facial markings).",
+        "   - Benin Bronzes: Excellent use of Form, Texture (smooth metal vs. detailed relief patterns), and Space (arrangement of figures).",
+        "",
+        "2. Application in Textile Crafts:",
+        "   - Adire and Ankara fabrics: Heavy reliance on Colour (vibrant dyes), Line (bound resist patterns or printed outlines), and Texture (the feel of the woven cloth).",
+        "",
+        "3. Practical Observation:",
+        "   - When viewing any Nigerian artwork, ask: What lines define the edges? What colours create the mood? Is it 2D or 3D (Form)? How is the space arranged? What does the surface feel or look like (Texture)?",
+        "",
+        "Nigerian Context:",
+        "   - Recognizing these elements in our own cultural heritage deepens our appreciation for the skill and intentionality of Nigerian artisans, past and present."
+      ],
+      "diagramDescriptions": ["Images of Nok, Ife, Benin, and Adire with labels pointing to specific elements of design"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts elements of design in Nigerian art Nok Ife Benin Adire site:youtube.com",
+      "quiz": [
+        {"q": "Which element of design is most prominently demonstrated by a 3D carved wooden mask?", "opts": ["Line", "Form", "Colour", "Space"], "ans": 1, "explanation": "A 3D carved object primarily demonstrates Form, as it has actual physical volume."},
+        {"q": "In Adire fabric, the bound resist patterns primarily create which element?", "opts": ["Form", "Texture", "Line", "Negative space only"], "ans": 2, "explanation": "The resist patterns create distinct visual Lines that define the design."},
+        {"q": "The rough, porous surface of a Nok Terracotta sculpture is an example of:", "opts": ["Actual texture", "Visual texture only", "Positive space", "A type of colour"], "ans": 0, "explanation": "The rough surface can be physically felt, making it an example of actual texture."},
+        {"q": "The delicate facial markings on an Ife Bronze head are an excellent example of:", "opts": ["Form", "Line", "Negative space", "Colour"], "ans": 1, "explanation": "The fine markings are created using distinct, deliberate Lines."},
+        {"q": "When an artist arranges figures in a Benin Bronze plaque, leaving empty areas between them, they are manipulating:", "opts": ["Space", "Texture", "Colour", "Line"], "ans": 0, "explanation": "Arranging objects and the empty areas between them is the manipulation of Space."},
+        {"q": "The vibrant dyes used in Ankara fabric primarily showcase which element?", "opts": ["Form", "Line", "Colour", "Texture"], "ans": 2, "explanation": "Vibrant dyes are the primary way Colour is expressed in textile arts."},
+        {"q": "A woven mat made from palm fronds demonstrates which element through its interlaced pattern?", "opts": ["Form", "Texture and Line", "Colour only", "Negative space only"], "ans": 1, "explanation": "The weaving creates both distinct Lines (the strands) and a bumpy, tactile Texture."},
+        {"q": "Recognizing elements of design in Nigerian art helps us to:", "opts": ["Ignore the artist's skill", "Deepen our appreciation for the intentionality of the artisan", "Focus only on the price of the artwork", "Believe the art was made by accident"], "ans": 1, "explanation": "Understanding the elements reveals the deliberate skill and thought behind the artwork."},
+        {"q": "A flat painting of a landscape primarily lacks which element compared to a sculpture?", "opts": ["Colour", "Line", "Actual Form (3D volume)", "Texture"], "ans": 2, "explanation": "A flat painting is 2D, so it lacks actual 3D Form, though it may create the illusion of it."},
+        {"q": "When viewing any artwork, asking 'How does the surface feel or look?' is a way to identify:", "opts": ["Space", "Form", "Texture", "Line"], "ans": 2, "explanation": "This question directly targets the element of Texture."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of elements of design.",
+      "markingGuide": "Clear, accurate definition covering visual building blocks (5, holistic)."
+    },
+    {
+      "question": "Name and briefly describe the FIVE elements of design.",
+      "markingGuide": "1 mark per correctly named and briefly described element (5 total)."
+    },
+    {
+      "question": "Distinguish between form and shape, giving an example of each.",
+      "markingGuide": "2 marks for correct distinction; 1.5 marks each for valid examples."
+    },
+    {
+      "question": "Distinguish between positive space and negative space, using an example to illustrate.",
+      "markingGuide": "Clear, accurate distinction with a valid example (5, holistic)."
+    },
+    {
+      "question": "Explain, using the 'artistic band' analogy or your own example, how the five elements of design work together to create a complete artwork.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

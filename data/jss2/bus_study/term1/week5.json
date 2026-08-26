@@ -1,0 +1,137 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 5,
+  "topic": "Market: Types and Career Opportunities in Stock Exchange",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w5_su1",
+      "title": "5.1 Definition and Types of Market",
+      "notes": [
+        "Definition and Types of Market",
+        "",
+        "Key Concepts:",
+        "1. Definition of Market:",
+        "   - In Business Studies, a market is ANY arrangement where buyers and sellers come together to exchange goods, services, or financial instruments.",
+        "   - It does NOT have to be a physical location with stalls; it can exist over the phone, online, or through organised trading systems.",
+        "",
+        "2. Types of Market:",
+        "   - Money Market: Deals in SHORT-TERM funds and loans (borrowed and repaid within a short period, often less than a year). Used by banks and businesses needing quick cash.",
+        "   - Capital Market: Deals in LONG-TERM funds, including SHARES and STOCKS (ownership pieces of companies) and bonds. Used by businesses raising money for major, long-term investment.",
+        "   - Commodity Market: Deals in the buying and selling of PHYSICAL GOODS, like agricultural produce (cocoa, cotton), minerals, or oil.",
+        "",
+        "Nigerian Context:",
+        "   - The Nigerian Stock Exchange (now NGX) is a prime example of a capital market, while the local grain market in Kano or Onitsha represents a commodity market."
+      ],
+      "diagramDescriptions": ["Chart showing the three types of market: Money, Capital, and Commodity"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies definition and types of market money capital commodity site:youtube.com",
+      "quiz": [
+        {"q": "What is a market in Business Studies?", "opts": ["Only a physical location with stalls", "Only an online shop", "Any arrangement where buyers and sellers exchange goods, services, or financial instruments", "A place with no trading at all"], "ans": 2, "explanation": "A market is any arrangement connecting buyers and sellers, whether physical or virtual."},
+        {"q": "How many main types of market are there?", "opts": ["Ten", "Three", "Five", "One"], "ans": 1, "explanation": "There are three main types: Money Market, Capital Market, and Commodity Market."},
+        {"q": "Which market deals in short-term funds and loans?", "opts": ["Commodity Market", "None of these", "Money Market", "Capital Market"], "ans": 2, "explanation": "The Money Market deals in short-term borrowing and lending, typically for less than a year."},
+        {"q": "Which market deals in long-term funds, shares, and stocks?", "opts": ["Money Market", "None of these", "Commodity Market", "Capital Market"], "ans": 3, "explanation": "The Capital Market is for long-term investments like shares and bonds."},
+        {"q": "Which market deals in the buying and selling of physical goods?", "opts": ["Capital Market", "None of these", "Commodity Market", "Money Market"], "ans": 2, "explanation": "The Commodity Market deals with physical goods like agricultural produce and minerals."},
+        {"q": "A company raising money for a new factory over ten years would use the:", "opts": ["None of these", "Money Market", "Capital Market", "Commodity Market"], "ans": 2, "explanation": "Long-term funding for major investments is sourced from the Capital Market."},
+        {"q": "A farmer selling physical cocoa beans is trading in the:", "opts": ["Money Market", "None of these", "Capital Market", "Commodity Market"], "ans": 3, "explanation": "Physical agricultural goods are traded in the Commodity Market."},
+        {"q": "The money market is mainly used for:", "opts": ["Physical goods only", "Quick, short-term cash needs", "Permanent, unlimited funds", "Nothing financial"], "ans": 1, "explanation": "The money market provides quick, short-term liquidity for banks and businesses."},
+        {"q": "Shares and bonds are traded in the:", "opts": ["None of these", "Money Market", "Commodity Market", "Capital Market"], "ans": 3, "explanation": "Shares and bonds are long-term financial instruments traded in the Capital Market."},
+        {"q": "Examples of commodities traded in the commodity market include:", "opts": ["Cocoa, cotton, and oil", "Shares only", "Bonds only", "Bank loans only"], "ans": 0, "explanation": "Cocoa, cotton, and oil are physical goods, making them commodities."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w5_su2",
+      "title": "5.2 Career Opportunities in the Stock Exchange Market",
+      "notes": [
+        "Career Opportunities in the Stock Exchange Market",
+        "",
+        "Key Concepts:",
+        "1. The Stock Exchange:",
+        "   - An organised market (part of the capital market) where shares of companies are bought and sold.",
+        "",
+        "2. Career Opportunities:",
+        "   - Stockbroker: Buys and sells shares on behalf of clients, earning a commission.",
+        "   - Investment Analyst: Studies companies and markets to advise on which shares to buy or sell.",
+        "   - Fund Manager: Manages large pools of investment money on behalf of many investors.",
+        "   - Regulatory Officer: Ensures stock exchange rules are followed fairly to protect investors.",
+        "",
+        "Nigerian Context:",
+        "   - Careers in the Nigerian Exchange Group (NGX) are highly sought after. Professionals in these roles help Nigerian businesses raise capital and help citizens grow their wealth through investments."
+      ],
+      "diagramDescriptions": ["Chart listing career opportunities in the stock exchange market"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies career opportunities in stock exchange market site:youtube.com",
+      "quiz": [
+        {"q": "What is the stock exchange?", "opts": ["An organised market where shares of companies are bought and sold", "A means of transport", "A type of bank", "A place to buy food only"], "ans": 0, "explanation": "The stock exchange is an organised market for trading company shares and other securities."},
+        {"q": "A career that involves buying and selling shares on behalf of clients for a commission is:", "opts": ["Fisherman", "Stockbroker", "Musician", "Farmer"], "ans": 1, "explanation": "A stockbroker acts as an agent for investors, executing trades for a commission."},
+        {"q": "A career that studies companies and markets to advise on which shares to buy is:", "opts": ["Investment Analyst", "Jobber only", "Stockbroker only", "None of these"], "ans": 0, "explanation": "An Investment Analyst researches and provides advice on investment opportunities."},
+        {"q": "A broker acts as:", "opts": ["Someone trading with their own money only", "A means of transport", "An agent for investors, earning a commission", "A farmer"], "ans": 2, "explanation": "A broker acts on behalf of clients, earning a commission for their services."},
+        {"q": "A jobber (dealer) profits from:", "opts": ["Transport services", "The difference between buying and selling prices", "A fixed commission only", "Farming activities"], "ans": 1, "explanation": "A jobber buys and sells shares with their own money, profiting from the price difference (spread)."},
+        {"q": "Which of these buys and sells shares using their OWN money?", "opts": ["Broker", "None of these", "Regulatory officer only", "Jobber"], "ans": 3, "explanation": "A jobber (or dealer) trades using their own capital, unlike a broker who trades for clients."},
+        {"q": "Which of these earns a commission for carrying out a client's instructions?", "opts": ["Broker", "Jobber", "None of these", "Fund manager only"], "ans": 0, "explanation": "Brokers earn a commission for executing trades on behalf of their clients."},
+        {"q": "A career that manages large pools of investment money for many investors is:", "opts": ["Fisherman", "Farmer", "Tailor", "Fund Manager"], "ans": 3, "explanation": "A Fund Manager pools money from multiple investors to invest in various assets."},
+        {"q": "A career that ensures stock exchange rules are followed fairly is:", "opts": ["Jobber only", "Regulatory Officer", "Broker only", "None of these"], "ans": 1, "explanation": "Regulatory Officers ensure market integrity and protect investors from fraud."},
+        {"q": "The stock exchange is part of which type of market?", "opts": ["Capital Market", "None of these", "Money Market only", "Commodity Market only"], "ans": 0, "explanation": "The stock exchange is a key component of the Capital Market, dealing in long-term securities."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w5_su3",
+      "title": "5.3 Functions of Stock Exchange Operators: Brokers and Jobbers",
+      "notes": [
+        "Functions of Stock Exchange Operators: Brokers and Jobbers",
+        "",
+        "Key Concepts:",
+        "1. Functions of a Broker:",
+        "   - Acts as an AGENT for investors.",
+        "   - Receives instructions from a client (e.g., 'buy 100 shares of MTN').",
+        "   - Executes the transaction on the client's behalf.",
+        "   - Earns a COMMISSION for this service.",
+        "",
+        "2. Functions of a Jobber (Dealer/Market Maker):",
+        "   - Buys and SELLS shares using their OWN money.",
+        "   - Holds an inventory of shares to ensure there is always liquidity in the market.",
+        "   - Profits from the DIFFERENCE between the buying price and the selling price (the spread), rather than earning a commission.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, you cannot walk directly onto the floor of the NGX to buy shares. You must go through a licensed Stockbroker (like those at Chapel Hill Denham or CardinalStone), who then interacts with Jobbers to execute your trade."
+      ],
+      "diagramDescriptions": ["Comparison chart of Broker vs. Jobber functions and income sources"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies functions of stock exchange operators brokers jobbers site:youtube.com",
+      "quiz": [
+        {"q": "The primary function of a stockbroker is to:", "opts": ["Trade shares only for their own profit", "Act as an agent for clients and earn a commission", "Regulate the stock market", "Print share certificates"], "ans": 1, "explanation": "A stockbroker's main role is to act as an intermediary, executing trades for clients for a commission."},
+        {"q": "How does a jobber make a profit?", "opts": ["By charging a fixed commission", "By buying low and selling high from their own inventory", "By managing client funds", "By regulating the market"], "ans": 1, "explanation": "Jobbers profit from the spread (the difference between the price they buy at and the price they sell at)."},
+        {"q": "If an investor wants to buy shares, they must first contact a:", "opts": ["Jobber directly", "Regulatory officer", "Stockbroker", "Fund manager"], "ans": 2, "explanation": "Investors must go through a licensed stockbroker to access the stock exchange."},
+        {"q": "Which operator holds an inventory of shares to ensure market liquidity?", "opts": ["Broker", "Jobber", "Investment Analyst", "Regulatory Officer"], "ans": 1, "explanation": "Jobbers (market makers) hold shares in their own name to ensure there are always buyers and sellers in the market."},
+        {"q": "A stockbroker's income is primarily derived from:", "opts": ["Capital gains on their own shares", "Commissions charged to clients", "Government salaries", "Interest on loans"], "ans": 1, "explanation": "Stockbrokers earn commissions based on the volume of trades they execute for their clients."},
+        {"q": "The relationship between a broker and a jobber is best described as:", "opts": ["Competitors who never interact", "Collaborators who facilitate client trades", "Employer and employee", "Regulator and regulated"], "ans": 1, "explanation": "Brokers bring client orders to the market, and jobbers provide the shares to fulfill those orders."},
+        {"q": "Which of the following is NOT a function of a stockbroker?", "opts": ["Advising clients on investments", "Executing buy/sell orders", "Setting the official price of all shares", "Maintaining client accounts"], "ans": 2, "explanation": "Share prices are determined by market forces (supply and demand), not set by individual brokers."},
+        {"q": "In the Nigerian stock market, jobbers are also commonly known as:", "opts": ["Market makers or dealers", "Regulators", "Auditors", "Investment bankers"], "ans": 0, "explanation": "Jobbers are often referred to as market makers or dealers because they make a market by holding inventory."},
+        {"q": "Why are jobbers important to the stock exchange?", "opts": ["They set government policy", "They provide liquidity by always being ready to buy or sell", "They audit company accounts", "They print money"], "ans": 1, "explanation": "Jobbers ensure liquidity, meaning investors can always buy or sell shares without long delays."},
+        {"q": "If a client's trade is executed successfully, who receives the commission?", "opts": ["The jobber", "The stockbroker", "The regulatory officer", "The government"], "ans": 1, "explanation": "The stockbroker, who acted as the client's agent, receives the commission for the service."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define 'market' and list the THREE main types of market with a brief explanation of each.",
+      "markingGuide": "Correct definition (1 mark); three correctly named and explained types (4 marks). Total: 5 marks."
+    },
+    {
+      "question": "Distinguish between the money market and the capital market, giving one example of an instrument traded in each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples. Total: 5 marks."
+    },
+    {
+      "question": "List THREE career opportunities available in the stock exchange market and briefly state what each does.",
+      "markingGuide": "1.5 marks per correctly named career with a valid function described (4.5 marks, rounded to 5 for holistic grading)."
+    },
+    {
+      "question": "Distinguish between a broker and a jobber, explaining how each earns their income.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for clear income explanation. Total: 5 marks."
+    },
+    {
+      "question": "A young Nigerian is interested in a career involving shares and investments but is unsure whether to become a broker or a jobber. Explain the difference to help him decide, using an example of what each would do in a typical working day.",
+      "markingGuide": "Clear, accurate distinction with valid daily-work examples for both roles (5 marks, holistic)."
+    }
+  ]
+}

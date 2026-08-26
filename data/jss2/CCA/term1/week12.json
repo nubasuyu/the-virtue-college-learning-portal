@@ -1,0 +1,144 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Revision: The Term Gathered",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w12_su1",
+      "title": "12.1 Revision: Elements, Principles, and Craft Making",
+      "notes": [
+        "Revision: Elements, Principles, and Craft Making",
+        "",
+        "Key Concepts:",
+        "1. Elements and Principles of Design:",
+        "   - Elements are the raw building blocks: line, colour, form, space, texture.",
+        "   - Principles are the rules for arranging them: harmony, balance, dominance, variety, proportion, rhythm.",
+        "",
+        "2. Craft Making Fundamentals:",
+        "   - Good craft making requires materials, technique, and design sense working together.",
+        "   - Materials include paper, fabric, clay/paper mâché, and palm frond (a distinctly Nigerian/West African material).",
+        "",
+        "3. Practical Craft Techniques:",
+        "   - Woven mats require alternating over-under patterns to interlock properly.",
+        "   - Paper mâché plates use a mould covered in a non-stick barrier to hold shape while hardening.",
+        "",
+        "Nigerian Context:",
+        "   - From the rhythmic patterns of Adire textiles to the balanced forms of traditional pottery, Nigerian crafts perfectly demonstrate the application of design principles to local materials."
+      ],
+      "diagramDescriptions": ["Summary mind map connecting elements, principles, and craft materials"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts revision elements principles craft making site:youtube.com",
+      "quiz": [
+        {"q": "What are the elements of design?", "opts": ["Rules for arranging a finished artwork", "The basic visual building blocks used to create any artwork", "A type of craft tool", "Only expensive art materials"], "ans": 1, "explanation": "Elements of design are the fundamental visual building blocks like line, colour, and form."},
+        {"q": "Which of these is a principle of design?", "opts": ["Line", "Colour", "Balance", "Texture"], "ans": 2, "explanation": "Balance is a principle of design (a rule for arrangement), while line, colour, and texture are elements."},
+        {"q": "Good craft making requires which THREE things working together?", "opts": ["Materials, technique, and design sense", "Only physical strength", "Only expensive materials", "Only luck"], "ans": 0, "explanation": "Successful craft making requires appropriate materials, correct technique, and good design sense."},
+        {"q": "Palm frond is a distinctly ___ craft material.", "opts": ["European", "Nigerian and West African", "Exclusively Asian", "Unrelated to any specific region"], "ans": 1, "explanation": "Palm frond is a traditional, locally sourced material widely used in Nigerian and West African crafts."},
+        {"q": "In paper weaving, forgetting to alternate the over-under pattern results in ___.", "opts": ["a perfectly interlocked mat", "strips that do not properly interlock", "an automatically improved weave", "no effect on the final result"], "ans": 1, "explanation": "Alternating the pattern is essential for the strips to genuinely interlock and hold the mat together."},
+        {"q": "Using a mould in paper mâché production gives the wet pulp ___.", "opts": ["a reliable, consistent shape to hold while hardening", "a completely random shape", "no shape at all", "an unrelated, irrelevant feature"], "ans": 0, "explanation": "A mould provides a reliable guide shape for the wet pulp to follow while it hardens."},
+        {"q": "The surface quality of an object (rough, smooth, bumpy) is known as ___.", "opts": ["Form", "Space", "Texture", "Line"], "ans": 2, "explanation": "Texture refers to the surface quality of an object, which can be actual or visual."},
+        {"q": "Dominance in design means ___.", "opts": ["one element draws the most attention as a focal point", "all elements are equally unimportant", "no element stands out at all", "only colour matters in a design"], "ans": 0, "explanation": "Dominance establishes a focal point that draws the viewer's attention first."},
+        {"q": "Which craft material hardens into a durable form after being shaped while soft?", "opts": ["Fabric", "Palm frond", "Clay/paper mâché pulp", "Paper"], "ans": 2, "explanation": "Clay and paper mâché pulp can be moulded while soft and harden into a durable final form."},
+        {"q": "Rhythm in design is created by ___.", "opts": ["a single element used only once", "repeating elements at regular or deliberately irregular intervals", "complete randomness with no repetition", "the total absence of any pattern"], "ans": 1, "explanation": "Rhythm is the visual movement created by the repetition of elements, guiding the viewer's eye."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w12_su2",
+      "title": "12.2 Revision: Colour Theory and Practical Application",
+      "notes": [
+        "Revision: Colour Theory and Practical Application",
+        "",
+        "Key Concepts:",
+        "1. Colour Sources and Classification:",
+        "   - Traditional Nigerian sources: indigo (blue), camwood (red), charcoal (black), clay/ochre (earthy tones).",
+        "   - Primary (red, yellow, blue) cannot be mixed. Secondary (orange, green, purple) mix two primaries. Intermediate mix a primary with an adjacent secondary.",
+        "",
+        "2. Colour Harmony and Mixing:",
+        "   - Analogous colours (neighbouring) harmonise gently; complementary colours (opposite) contrast strongly.",
+        "   - Tints add white (lighter); tones add black/grey (darker, muted).",
+        "",
+        "3. Practical Application on Craft:",
+        "   - Colour application happens AFTER shaping/construction.",
+        "   - Work large-to-small with drying time between layers.",
+        "   - Consistency across a project needs careful measuring and record-keeping, not guesswork.",
+        "",
+        "Nigerian Context:",
+        "   - The vibrant, complementary colour combinations often seen in Nigerian Ankara fabrics perfectly demonstrate the principle of complementary colour harmony in practical application."
+      ],
+      "diagramDescriptions": ["Summary chart of the colour wheel, tint/tone mixing, and practical application steps"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts revision colour theory practical application site:youtube.com",
+      "quiz": [
+        {"q": "Which traditional Nigerian source produces a deep blue dye?", "opts": ["Camwood", "Indigo", "Clay", "Charcoal"], "ans": 1, "explanation": "Indigo, extracted from the indigo plant, is the traditional source of deep blue dye, central to Adire."},
+        {"q": "Secondary colours are created by ___.", "opts": ["mixing two primary colours in equal amounts", "mixing three primary colours together", "mixing black and white only", "never mixing any colours"], "ans": 0, "explanation": "Secondary colours (orange, green, purple) are created by mixing two primary colours in equal amounts."},
+        {"q": "Complementary colours are ___ on the colour wheel.", "opts": ["directly opposite each other", "next to each other", "always identical", "unrelated to the colour wheel"], "ans": 0, "explanation": "Complementary colours sit directly opposite each other on the colour wheel, creating strong contrast."},
+        {"q": "A tint is created by adding ___ to a colour.", "opts": ["white", "black", "nothing at all", "another primary colour only"], "ans": 0, "explanation": "Adding white to a colour creates a lighter, softer version known as a tint."},
+        {"q": "A tone (or shade) is created by adding ___ to a colour.", "opts": ["white only", "black or grey", "water only", "nothing at all"], "ans": 1, "explanation": "Adding black or grey to a colour creates a darker, more muted version known as a tone or shade."},
+        {"q": "Colour application on a craft object typically occurs ___ the object is shaped or constructed.", "opts": ["before, always", "after", "at the exact same time, with no distinction", "never, since colour is unrelated to craft"], "ans": 1, "explanation": "Colour application is a distinct final stage that occurs after the object has been shaped or constructed."},
+        {"q": "When applying colour to a craft, colours should generally be applied ___.", "opts": ["from large background areas to small detailed areas", "all at once, with no sequence", "in no particular order", "from small details to large areas first"], "ans": 0, "explanation": "Working from large background areas to small details ensures a clean, organised layering process."},
+        {"q": "A pottery glaze serves ___ purpose(s).", "opts": ["both decorative and protective", "only decorative, with no protective function", "only protective, with no decorative function", "neither decorative nor protective"], "ans": 0, "explanation": "Glazes serve a dual purpose: they decorate the pottery and provide a protective, often waterproof, coating."},
+        {"q": "Achieving colour consistency across a large craft project requires ___.", "opts": ["pure guesswork", "careful measuring and record-keeping", "applying colour randomly", "using only primary colours"], "ans": 1, "explanation": "Careful measuring and keeping a record of successful colour ratios ensures consistency across multiple sessions."},
+        {"q": "Applying wet colour over wet colour typically causes ___.", "opts": ["perfectly clean, distinct colours", "unintended blending, producing a muddy result", "an automatically improved result", "no effect on the final appearance"], "ans": 1, "explanation": "Wet-on-wet application causes colours to blend unintentionally, resulting in a muddy, unclear finish."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w12_su3",
+      "title": "12.3 Revision: Painting and Examination Preparation",
+      "notes": [
+        "Revision: Painting and Examination Preparation",
+        "",
+        "Key Concepts:",
+        "1. Painting Fundamentals:",
+        "   - Definition: Applying colour onto a surface using a brush or tool to create an image or design.",
+        "   - Still-life: Arranged non-living objects (e.g., a bowl of fruit).",
+        "   - Nature: Specific living subjects (e.g., a blooming flower, an animal).",
+        "   - Landscape: Broad outdoor scenery (e.g., hills, rivers, skies).",
+        "",
+        "2. Examination Strategies for CCA:",
+        "   - Read questions carefully, especially 'distinguish between' or 'give an example of'.",
+        "   - In practical/theory questions, always mention specific Nigerian examples (e.g., Adire, Uli, Abuja pottery) to show contextual understanding.",
+        "   - For drawing/painting questions, focus on correct proportion, clear foreground/background, and neatness.",
+        "",
+        "Nigerian Context:",
+        "   - In BECE and internal examinations, examiners highly reward students who can connect theoretical art concepts (like landscape painting or colour harmony) to specific, recognizable Nigerian cultural examples."
+      ],
+      "diagramDescriptions": ["Checklist for CCA examination preparation and a summary of the three types of painting"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts revision painting examination preparation site:youtube.com",
+      "quiz": [
+        {"q": "What is painting?", "opts": ["A type of fabric weaving", "The art of applying colour onto a surface using a brush or tool, to create an image or design", "A type of paper folding", "A type of carving technique"], "ans": 1, "explanation": "Painting is the application of colour onto a surface using a tool to create an image or design."},
+        {"q": "A bowl of fruit arranged on a table is an example of ___ painting.", "opts": ["still-life", "landscape", "nature painting specifically", "none of these"], "ans": 0, "explanation": "A bowl of fruit is a classic example of a non-living, arranged subject, making it a still-life."},
+        {"q": "A wide view of rolling hills at sunset is an example of ___ painting.", "opts": ["landscape", "nature painting specifically", "still-life", "none of these"], "ans": 0, "explanation": "A broad view of hills and sky is a classic landscape subject."},
+        {"q": "A single blooming flower rendered in detail is an example of ___ painting.", "opts": ["nature", "still-life", "landscape", "none of these"], "ans": 0, "explanation": "A living plant rendered in detail falls under the category of nature painting."},
+        {"q": "In a CCA theory exam, when asked to 'distinguish between' two concepts, you should ___.", "opts": ["only define the first concept", "provide clear differences and ideally an example of each", "write a long story unrelated to the topic", "leave it blank"], "ans": 1, "explanation": "Distinguishing requires clearly stating the differences between the two concepts, often supported by examples."},
+        {"q": "Using specific Nigerian examples (like Adire or Uli) in an exam answer is beneficial because it ___.", "opts": ["shows a deep, contextual understanding of the subject", "is required by law", "makes the answer longer", "has no effect on the mark"], "ans": 0, "explanation": "Examiners reward students who can connect theoretical concepts to specific, recognizable Nigerian cultural examples."},
+        {"q": "For a drawing or painting exam question, examiners primarily look for ___.", "opts": ["the most expensive materials used", "correct proportion, clear composition, and neatness", "the fastest completion time", "the use of only one colour"], "ans": 1, "explanation": "Fundamental skills like correct proportion, clear composition (e.g., foreground/background), and neatness are heavily weighted."},
+        {"q": "Landscape painting often includes elements like ___.", "opts": ["only indoor lighting", "light, weather, and distance/perspective", "only small, close-up details", "nothing related to atmosphere or scale"], "ans": 1, "explanation": "Landscape painting heavily features natural light, weather conditions, and a sense of distance."},
+        {"q": "The uses of crafts studied this term include cultural, beautification, practical, and ___ use.", "opts": ["economic", "unrelated use", "purely decorative use only", "no further use"], "ans": 0, "explanation": "Crafts serve cultural, beautification, practical, and economic purposes (providing livelihood and export value)."},
+        {"q": "Good craft making requires which THREE things working together?", "opts": ["Materials, technique, and design sense", "Only physical strength", "Only expensive materials", "Only luck"], "ans": 0, "explanation": "Successful craft making requires appropriate materials, correct technique, and good design sense."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Name and briefly describe the FIVE elements of design, and name the SIX principles of design.",
+      "markingGuide": "2.5 marks for five correctly named/described elements; 2.5 marks for six correctly named principles."
+    },
+    {
+      "question": "Describe, in the correct order, the steps for producing EITHER a woven paper mat OR a paper mâché plate (choose one).",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Name the three primary colours, the three secondary colours, and explain how secondary colours are created.",
+      "markingGuide": "Correctly named primary and secondary colours (2.5); correct mixing explanation (2.5)."
+    },
+    {
+      "question": "Distinguish between a tint and a tone, and explain how a colour wheel helps identify complementary colour combinations.",
+      "markingGuide": "2.5 marks for correct tint/tone distinction; 2.5 marks for correct complementary explanation."
+    },
+    {
+      "question": "Distinguish between still-life, nature, and landscape painting, giving an example of each.",
+      "markingGuide": "1.25 marks each for correct definitions and valid examples across all three types (5 total)."
+    }
+  ]
+}

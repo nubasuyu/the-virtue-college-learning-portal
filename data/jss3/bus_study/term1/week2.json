@@ -1,0 +1,154 @@
+{
+  "course": "JSS3 Business Studies",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Procedures for Making Payment and Store Records",
+  "subUnits": [
+    {
+      "id": "jss3_bs_t1_w2_su1",
+      "title": "2.1 Methods of Payment: Cash, Bank Transfer, Cheque, Bank Draft, and E-Payment",
+      "notes": [
+        "Methods of Payment",
+        "",
+        "Key Concepts:",
+        "1. CASH:",
+        "   - Physical currency exchanged directly.",
+        "   - Advantages: Simple and immediate.",
+        "   - Disadvantages: Risky to carry in large amounts; no automatic record.",
+        "",
+        "2. BANK TRANSFER:",
+        "   - Electronic movement of money from one bank account to another.",
+        "   - Advantages: Fast, traceable, and secure for medium to large amounts.",
+        "",
+        "3. CHEQUE:",
+        "   - A written instruction to a bank to pay a stated amount from the writer's account to a named person or business.",
+        "   - Advantages: Useful for large payments without carrying cash.",
+        "   - Disadvantages: Can take time to clear; can bounce if funds are insufficient.",
+        "",
+        "4. BANK DRAFT:",
+        "   - A payment GUARANTEED by the bank itself (the bank has already set aside the funds).",
+        "   - Advantages: Highly trusted for large or important transactions, as it cannot bounce.",
+        "",
+        "5. E-PAYMENT:",
+        "   - Electronic payments including mobile money, online transfers, and card payments (ATM/POS).",
+        "   - Advantages: Fastest and most convenient method in modern Nigerian commerce.",
+        "   - Disadvantages: Requires reliable technology and network access.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, e-payment (via POS or bank apps like Opay, Palmpay, or traditional bank apps) has revolutionized commerce, allowing even unbanked traders in rural markets to receive payments instantly and securely."
+      ],
+      "diagramDescriptions": ["Comparison chart of the 5 methods of payment with their pros and cons"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Business Studies methods of payment cash cheque bank draft e-payment site:youtube.com",
+      "quiz": [
+        {"q": "Which payment method is physical currency exchanged directly?", "opts": ["Cash", "Bank transfer", "E-payment", "Cheque"], "ans": 0, "explanation": "Cash is physical currency (notes and coins) exchanged directly between parties."},
+        {"q": "Which payment method moves money electronically between bank accounts?", "opts": ["Cash", "Bank transfer", "None of these", "Cheque only"], "ans": 1, "explanation": "Bank transfer is the electronic movement of funds from one account to another."},
+        {"q": "What is a cheque?", "opts": ["A written instruction to a bank to pay a stated amount", "A type of insurance", "A type of transport", "Physical currency"], "ans": 0, "explanation": "A cheque is a written order directing a bank to pay a specific amount from the drawer's account."},
+        {"q": "What is a bank draft?", "opts": ["A type of receipt only", "A payment guaranteed by the bank itself", "An ordinary cash payment", "A type of bill"], "ans": 1, "explanation": "A bank draft is guaranteed by the bank, meaning the funds are already set aside and it cannot bounce."},
+        {"q": "E-payment includes ___.", "opts": ["mobile money, online transfers, and card payments", "only bank drafts", "only cheques", "only physical cash"], "ans": 0, "explanation": "E-payment encompasses all digital and electronic forms of payment, including mobile money and cards."},
+        {"q": "A risk of carrying large amounts of cash is ___.", "opts": ["theft or loss", "automatic bank approval", "guaranteed safety", "no risk at all"], "ans": 0, "explanation": "Physical cash is vulnerable to theft, loss, or damage, especially in large amounts."},
+        {"q": "A cheque may take time to ___.", "opts": ["be signed", "clear", "be written", "be destroyed"], "ans": 1, "explanation": "Cheques must go through a clearing process, which can take a few days before funds are available."},
+        {"q": "A bank draft is considered MORE trusted than an ordinary cheque because ___.", "opts": ["it is written on plain paper", "the bank has already set aside the funds", "it requires no signature", "it cannot be verified"], "ans": 1, "explanation": "Because the bank guarantees the funds, the recipient is certain the payment will not bounce."},
+        {"q": "E-payment requires ___.", "opts": ["no technology at all", "only physical cash", "only a cheque book", "reliable technology and internet/network access"], "ans": 3, "explanation": "Electronic payments depend entirely on functional technology and network connectivity."},
+        {"q": "A large, important business transaction requiring guaranteed funds would most likely use ___.", "opts": ["loose cash only", "a bank draft", "no payment method at all", "an unverified promise"], "ans": 1, "explanation": "A bank draft provides the highest level of trust and guarantee for large, critical transactions."}
+      ]
+    },
+    {
+      "id": "jss3_bs_t1_w2_su2",
+      "title": "2.2 Imprest Account: Meaning, Balancing, and Restoration",
+      "notes": [
+        "Imprest Account: Meaning, Balancing, and Restoration",
+        "",
+        "Key Concepts:",
+        "1. Meaning of an Imprest Account:",
+        "   - A FIXED, small amount of money given to a designated person (the petty cashier) to cover SMALL, everyday office expenses (e.g., buying stationery, paying for minor repairs, or refreshments).",
+        "   - It operates on a FIXED FLOAT system: the account always starts each period with the SAME set amount.",
+        "",
+        "2. Balancing the Imprest:",
+        "   - At the end of a period, the petty cashier must prove that: (Cash remaining) + (Total receipts/vouchers for money spent) = Original fixed amount.",
+        "   - If it does not balance, there is likely a recording error or a missing receipt.",
+        "",
+        "3. Restoration (Reimbursement) of the Imprest:",
+        "   - Topping up the account back to its original fixed amount at the end of the period.",
+        "   - The amount given to restore the imprest is EXACTLY equal to the amount spent (proven by receipts/vouchers).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian schools and offices, the bursar or office manager often gives a fixed imprest (e.g., ₦10,000) to a clerk for weekly minor purchases. At week's end, the clerk submits receipts for ₦7,000 and returns ₦3,000 in cash. The bursar then gives the clerk exactly ₦7,000 to restore the float to ₦10,000 for the next week."
+      ],
+      "diagramDescriptions": ["Diagram showing the cycle of an imprest account: Float -> Spending -> Balancing -> Restoration"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Business Studies imprest account balancing and restoration site:youtube.com",
+      "quiz": [
+        {"q": "What is an imprest account?", "opts": ["A large business loan", "A type of transport", "A fixed float of money for small office expenses", "A type of insurance"], "ans": 2, "explanation": "An imprest account is a fixed amount of money set aside for small, routine office expenses."},
+        {"q": "The imprest system works on a ___.", "opts": ["fixed float, the same amount each period", "unlimited amount", "no set amount at all", "random, changing amount"], "ans": 0, "explanation": "The defining feature of the imprest system is that the float is restored to the exact same fixed amount each period."},
+        {"q": "Balancing an imprest account means checking that ___.", "opts": ["nothing needs to be checked", "vouchers alone equal the original amount", "cash remaining alone equals nothing", "cash remaining + vouchers = original fixed amount"], "ans": 3, "explanation": "The sum of the cash left and the receipts for money spent must exactly equal the original fixed float."},
+        {"q": "Restoring (reimbursing) an imprest means ___.", "opts": ["closing the account entirely", "increasing the float randomly", "reducing the account permanently", "topping up the account back to its original fixed amount"], "ans": 3, "explanation": "Restoration means giving the petty cashier exactly the amount they spent, bringing the float back to its original level."},
+        {"q": "A petty cashier starts with ₦15,000, has ₦4,000 remaining, and vouchers totalling ₦11,000. Does this balance?", "opts": ["No, it does not balance", "Yes, 4,000 + 11,000 = 15,000", "Cannot be determined", "Only partially"], "ans": 1, "explanation": "Since 4,000 (cash) + 11,000 (vouchers) = 15,000 (original float), the account balances perfectly."},
+        {"q": "Using the same figures, how much is needed to restore the imprest?", "opts": ["₦11,000", "₦15,000", "₦26,000", "₦4,000"], "ans": 0, "explanation": "The amount needed to restore the imprest is exactly the amount spent, which is proven by the ₦11,000 in vouchers."},
+        {"q": "The imprest account is compared to ___.", "opts": ["an unlimited water tank", "an empty container", "a refillable water bucket used for small daily needs", "a random unrelated object"], "ans": 2, "explanation": "Like a refillable bucket, it starts full, is used for small needs, and is refilled exactly to its original level."},
+        {"q": "If an imprest account does not balance, this likely indicates ___.", "opts": ["an intentional design feature", "perfect accuracy", "a recording error or missing receipt", "no problem at all"], "ans": 2, "explanation": "A discrepancy means money is unaccounted for, pointing to an error or a lost receipt."},
+        {"q": "Who is typically responsible for managing the imprest account in an office?", "opts": ["The Managing Director", "The Petty Cashier", "The Security Guard", "The External Auditor"], "ans": 1, "explanation": "The Petty Cashier is the designated person entrusted with managing the small, daily expenses from the imprest float."},
+        {"q": "Why is the imprest system useful for an organization?", "opts": ["It allows unlimited spending", "It avoids the need for full approval for every tiny purchase, saving time", "It eliminates the need for receipts", "It increases the company's overall profit"], "ans": 1, "explanation": "It streamlines small purchases by giving a trusted employee a fixed budget, avoiding bureaucratic delays for minor expenses."}
+      ]
+    },
+    {
+      "id": "jss3_bs_t1_w2_su3",
+      "title": "2.3 Store Records: Meaning and Importance",
+      "notes": [
+        "Store Records: Meaning and Importance",
+        "",
+        "Key Concepts:",
+        "1. Meaning of a Store:",
+        "   - A designated place where a business keeps its raw materials, finished goods, or office supplies safely until they are needed.",
+        "",
+        "2. Meaning of Store Records:",
+        "   - The documents and logs that track exactly WHAT enters the store (receipts, delivery notes) and WHAT leaves the store (requisitions, gate passes).",
+        "",
+        "3. Importance of Store Records:",
+        "   - Prevents Theft and Loss: By knowing exactly what should be there, missing items are quickly noticed.",
+        "   - Supports Financial Reporting: Stock is a valuable business asset; accurate records ensure the balance sheet is correct.",
+        "   - Aids in Reordering: Helps the purchasing department know when supplies are running low and need to be bought again.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian manufacturing companies (like a bottling plant in Agbara), strict store records are vital. Without them, raw materials like sugar or bottles could be stolen or mismanaged, leading to production halts and financial losses."
+      ],
+      "diagramDescriptions": ["Flowchart showing the flow of goods into and out of a store, documented by store records"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Business Studies store records meaning and importance site:youtube.com",
+      "quiz": [
+        {"q": "What is a store, in a business context?", "opts": ["A type of advertisement", "A place where a business keeps its raw materials, goods, or supplies", "A type of insurance", "A type of payment method"], "ans": 1, "explanation": "A store is the physical location where a business safeguards its materials and goods."},
+        {"q": "Store records track ___.", "opts": ["what enters and leaves the store", "only advertising activities", "nothing important", "only payment methods"], "ans": 0, "explanation": "Store records document the inflow and outflow of all items in the store."},
+        {"q": "One major importance of store records is that they help to ___.", "opts": ["increase theft", "detect theft or record-keeping errors", "hide missing items", "confuse the purchasing department"], "ans": 1, "explanation": "By comparing records to physical counts, businesses can quickly detect if items are missing."},
+        {"q": "Store records support accurate financial reporting because ___.", "opts": ["stock is a valuable business asset", "they replace the need for a bank account", "they are only for the manager's eyes", "they have no financial value"], "ans": 0, "explanation": "Inventory (stock) is a major asset on a company's balance sheet, and its value must be accurately recorded."},
+        {"q": "How do store records aid the purchasing department?", "opts": ["By telling them what to eat", "By showing when supplies are running low and need to be reordered", "By allowing them to buy randomly", "By hiding stock levels"], "ans": 1, "explanation": "Accurate records show current stock levels, enabling timely reordering to prevent stockouts."},
+        {"q": "If a business has no store records, it is likely to experience ___.", "opts": ["perfect inventory control", "increased efficiency", "chaos, theft, and stockouts", "higher profits automatically"], "ans": 2, "explanation": "Without records, there is no way to track what is owned, leading to mismanagement and loss."},
+        {"q": "A document showing that goods have been issued from the store to a specific department is a type of ___.", "opts": ["store record", "advertisement", "bank draft", "external invoice"], "ans": 0, "explanation": "Internal documents tracking the movement of goods out of the store are a key part of store records."},
+        {"q": "The process of physically counting store items and comparing them to store records is called ___.", "opts": ["stock taking", "imprest restoration", "bank clearing", "advertising"], "ans": 0, "explanation": "Stock taking is the physical verification of store records against actual items on hand."},
+        {"q": "In a Nigerian bottling plant, store records would be crucial for tracking ___.", "opts": ["the CEO's personal schedule", "raw materials like sugar and bottles", "the color of the factory walls", "the company's advertising budget"], "ans": 1, "explanation": "Store records track physical inventory, such as the raw materials needed for production."},
+        {"q": "Proper store records ensure that a business knows exactly ___.", "opts": ["what it owns and what it has used", "who to fire", "how to advertise", "what the weather will be"], "ans": 0, "explanation": "The primary purpose of store records is to maintain an accurate, real-time picture of inventory levels."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "List and briefly explain FIVE methods of making payment in business.",
+      "markingGuide": "1 mark per correctly named and briefly explained method (5 marks total)."
+    },
+    {
+      "question": "A petty cashier starts the month with an imprest float of ₦25,000. By month-end, she has ₦9,200 in cash remaining, with vouchers totalling ₦15,800. Check whether the imprest balances, and state how much is needed to restore it.",
+      "markingGuide": "Correct balancing check, 9,200 + 15,800 = 25,000 (2.5 marks); correct restoration amount ₦15,800 (2.5 marks). Total: 5 marks."
+    },
+    {
+      "question": "Define a store and store records, explaining why store records are important for a business.",
+      "markingGuide": "Correct definitions of store and store records (2.5 marks); clear explanation of importance (2.5 marks). Total: 5 marks."
+    },
+    {
+      "question": "A business wants to make a large, important payment to a new supplier who insists on guaranteed funds before releasing goods. Recommend an appropriate payment method, and explain your reasoning.",
+      "markingGuide": "Correct recommendation of bank draft (2.5 marks); clear reasoning based on guaranteed trust (2.5 marks). Total: 05 marks."
+    },
+    {
+      "question": "Explain, in your own words, why the imprest system uses a FIXED float rather than simply giving the petty cashier a random amount each period.",
+      "markingGuide": "Clear explanation referencing consistency, easy tracking, and control over small expenses (5 marks, holistic)."
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+    "course": "Literature in English",
+    "level": "SSS1",
+    "term": "First Term",
+    "week": 3,
+    "topic": "Terms Used in Drama",
+    "subUnits": [
+      {
+        "id": "sss1_lit_t1_w3_su1",
+        "title": "3.1 Stage and Performance Terms",
+        "notes": [
+          "Stage and Performance Terms",
+          "",
+          "Key Concepts:",
+          "1. Speech Types:",
+          "   - DIALOGUE: conversation between two or more characters — the primary mode of dramatic communication.",
+          "   - SOLILOQUY: a speech by a character ALONE on stage, revealing inner thoughts to the audience (e.g., Hamlet's 'To be or not to be').",
+          "   - ASIDE: a brief remark to the audience, unheard by other characters on stage.",
+          "   - MONOLOGUE: an extended speech, possibly with others present (unlike soliloquy).",
+          "",
+          "2. Production Terms:",
+          "   - PROLOGUE: an introductory speech before the play begins.",
+          "   - EPILOGUE: a closing speech at the end of the play.",
+          "   - PROMPT: helping an actor recall forgotten lines during performance.",
+          "   - SCRIPT: the written text of the play.",
+          "   - DRAMATIS PERSONAE: the list of characters appearing in the play.",
+          "   - MIME: performance through action without speech.",
+          "",
+          "Analogy:",
+          "   - A SOLILOQUY revealing a character's inner thoughts, alone on stage, is like reading someone's private DIARY: the audience gains access to what the character truly thinks, without other characters knowing.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse ASIDE (brief, others present but unhearing) with SOLILOQUY (longer, character alone on stage).",
+          "   - Do NOT confuse PROLOGUE (opening speech) with EPILOGUE (closing speech)."
+        ],
+        "diagramDescriptions": [
+          "Table of stage/performance terms with definition and example for each"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English drama terms soliloquy aside monologue prologue site:youtube.com",
+        "quiz": [
+          {
+            "q": "A soliloquy is:",
+            "opts": [
+              "A conversation between two characters",
+              "A speech by a character alone on stage, revealing inner thoughts",
+              "A brief remark to the audience while others are present",
+              "The opening speech before the play begins"
+            ],
+            "ans": 1,
+            "explanation": "A soliloquy is delivered when the character is alone, allowing the audience to hear their unspoken thoughts."
+          },
+          {
+            "q": "An aside is:",
+            "opts": [
+              "A long speech delivered alone on stage",
+              "The written text of the play",
+              "A brief remark to the audience, unheard by other characters",
+              "The list of characters in a play"
+            ],
+            "ans": 2,
+            "explanation": "An aside is a brief, quiet remark directed at the audience, which other characters on stage cannot hear."
+          },
+          {
+            "q": "How does a monologue differ from a soliloquy?",
+            "opts": [
+              "A monologue is shorter than a soliloquy",
+              "A monologue may be delivered with others present; a soliloquy is delivered alone",
+              "A soliloquy is always happy; a monologue is always sad",
+              "There is no difference between them"
+            ],
+            "ans": 1,
+            "explanation": "The key distinction is context: a soliloquy requires the character to be alone; a monologue may occur with others present."
+          },
+          {
+            "q": "The 'Dramatis Personae' in a play refers to:",
+            "opts": [
+              "The main conflict in the play",
+              "The list of characters appearing in the play",
+              "The stage directions for the opening scene",
+              "The title of the play"
+            ],
+            "ans": 1,
+            "explanation": "Dramatis personae (Latin: 'persons of the drama') is the list of all characters in a play."
+          },
+          {
+            "q": "A PROLOGUE occurs:",
+            "opts": [
+              "At the very end of the play",
+              "In the middle of act two",
+              "Before the play begins",
+              "After the final scene"
+            ],
+            "ans": 2,
+            "explanation": "A prologue is an introductory speech delivered before the main action of the play begins."
+          },
+          {
+            "q": "An EPILOGUE occurs:",
+            "opts": [
+              "Before the play begins",
+              "At the very end, after the main action concludes",
+              "During the climax of the play",
+              "Between acts one and two"
+            ],
+            "ans": 1,
+            "explanation": "An epilogue is a closing speech delivered at the end of the play."
+          },
+          {
+            "q": "The analogy comparing a soliloquy to reading someone's private diary illustrates:",
+            "opts": [
+              "That soliloquies are always dishonest",
+              "That the audience gains access to the character's true, unguarded inner thoughts",
+              "That soliloquies are only written, never spoken",
+              "That all characters know what is said in a soliloquy"
+            ],
+            "ans": 1,
+            "explanation": "Like a diary, a soliloquy reveals what the character truly thinks — shared with the audience, hidden from other characters."
+          },
+          {
+            "q": "Mime in drama refers to:",
+            "opts": [
+              "A form of dialogue using rapid speech",
+              "Performance through action without speech",
+              "A comic sub-plot",
+              "The script of a play"
+            ],
+            "ans": 1,
+            "explanation": "Mime conveys meaning entirely through physical action and movement, without words."
+          },
+          {
+            "q": "It is a mistake to confuse an aside with a soliloquy because:",
+            "opts": [
+              "They are exactly the same thing",
+              "An aside is brief with others present; a soliloquy is longer with the character alone",
+              "A soliloquy is shorter than an aside",
+              "An aside can only be done by the villain"
+            ],
+            "ans": 1,
+            "explanation": "They differ in length and context: aside is brief with others on stage; soliloquy is extended and the character is alone."
+          },
+          {
+            "q": "A PROMPT during a performance means:",
+            "opts": [
+              "The playwright's opening instructions",
+              "Helping an actor recall forgotten lines",
+              "The closing bow at curtain call",
+              "The stage crew moving scenery"
+            ],
+            "ans": 1,
+            "explanation": "To prompt an actor is to quietly supply a forgotten line during a live performance."
+          }
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w3_su2",
+        "title": "3.2 Plot, Character, and Structural Terms in Drama",
+        "notes": [
+          "Plot, Character, and Structural Terms in Drama",
+          "",
+          "Key Concepts:",
+          "1. Plot Terms:",
+          "   - FLASHBACK: interrupting chronological order to recall earlier events.",
+          "   - FORESHADOWING: hinting at events that will occur later in the play.",
+          "   - CONFLICT: the struggle between opposing forces — the engine of drama.",
+          "   - CLIMAX: the point of highest tension in the play.",
+          "   - DENOUEMENT: the final resolution after the climax.",
+          "",
+          "2. Character and Dramatic Terms:",
+          "   - PROTAGONIST: the main character of the drama.",
+          "   - ANTAGONIST: the character or force opposing the protagonist.",
+          "   - FLAT character: a one-dimensional character with little development.",
+          "   - ROUND character: a complex, fully developed character.",
+          "   - STOCK character: a familiar type (e.g., the miser, the scheming villain).",
+          "   - COMIC RELIEF: humour inserted to ease tension, even within tragedies.",
+          "   - HAMARTIA: the protagonist's fatal flaw.",
+          "   - PERIPETEIA: a sudden reversal of fortune.",
+          "   - ANAGNORISIS: the moment of crucial recognition or discovery.",
+          "   - CATHARSIS: the emotional release felt by the audience after witnessing a tragic downfall.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse PROTAGONIST (main character) with ANTAGONIST (opposing force).",
+          "   - Do NOT assume comic relief occurs only in comedies — it appears in tragedies too, easing tension."
+        ],
+        "diagramDescriptions": [
+          "Diagram of dramatic plot structure: exposition → rising action → climax → falling action → denouement"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English drama plot terms protagonist antagonist hamartia catharsis site:youtube.com",
+        "quiz": [
+          {
+            "q": "The CLIMAX of a play is:",
+            "opts": [
+              "The opening scene",
+              "The point of highest tension in the drama",
+              "The final resolution of all conflicts",
+              "The list of characters"
+            ],
+            "ans": 1,
+            "explanation": "The climax is the turning point — the moment of greatest dramatic intensity."
+          },
+          {
+            "q": "DENOUEMENT refers to:",
+            "opts": [
+              "The opening conflict",
+              "The point of highest tension",
+              "The final resolution after the climax",
+              "A reversal of fortune"
+            ],
+            "ans": 2,
+            "explanation": "The denouement is the resolution following the climax, tying up the loose ends of the plot."
+          },
+          {
+            "q": "FLASHBACK is a technique that:",
+            "opts": [
+              "Hints at future events",
+              "Interrupts chronological order to recall earlier events",
+              "Resolves the main conflict",
+              "Introduces the protagonist"
+            ],
+            "ans": 1,
+            "explanation": "A flashback disrupts chronological sequence to show events that happened before the current action."
+          },
+          {
+            "q": "FORESHADOWING in a drama means:",
+            "opts": [
+              "Recalling past events",
+              "Hinting at events that will occur later in the play",
+              "Providing comic relief",
+              "Reversing the protagonist's fortune"
+            ],
+            "ans": 1,
+            "explanation": "Foreshadowing plants hints or clues about what will happen later in the drama."
+          },
+          {
+            "q": "CATHARSIS refers to:",
+            "opts": [
+              "The protagonist's fatal flaw",
+              "The list of characters",
+              "The emotional release felt by the audience after witnessing a tragic downfall",
+              "A sudden reversal of fortune"
+            ],
+            "ans": 2,
+            "explanation": "Catharsis (from Aristotle) is the purging of emotions — particularly pity and fear — that the audience experiences at the end of a tragedy."
+          },
+          {
+            "q": "PERIPETEIA refers to:",
+            "opts": [
+              "The moment of recognition",
+              "A sudden reversal of fortune experienced by the protagonist",
+              "Comic relief within a tragedy",
+              "The opening speech of a play"
+            ],
+            "ans": 1,
+            "explanation": "Peripeteia is the dramatic reversal of fortune — often when the protagonist's situation suddenly changes from good to bad."
+          },
+          {
+            "q": "ANAGNORISIS refers to:",
+            "opts": [
+              "A reversal of fortune",
+              "The protagonist's fatal flaw",
+              "The moment a character discovers a crucial truth",
+              "The closing speech of a play"
+            ],
+            "ans": 2,
+            "explanation": "Anagnorisis is the moment of discovery or recognition — when a character learns something crucial that changes the situation."
+          },
+          {
+            "q": "A ROUND character is:",
+            "opts": [
+              "A character with one defining trait",
+              "A familiar stereotype like a miser",
+              "A complex, fully developed character",
+              "A character who opposes the protagonist"
+            ],
+            "ans": 2,
+            "explanation": "Round characters are multi-dimensional and developed, capable of change and surprise."
+          },
+          {
+            "q": "Comic relief in drama functions to:",
+            "opts": [
+              "End the play abruptly",
+              "Ease tension by introducing humour, even within a tragedy",
+              "Replace all serious content",
+              "Confuse the audience"
+            ],
+            "ans": 1,
+            "explanation": "Comic relief provides brief moments of humour that give the audience emotional respite from sustained dramatic tension."
+          },
+          {
+            "q": "It is a mistake to confuse protagonist with antagonist because:",
+            "opts": [
+              "They are the same character",
+              "The protagonist is the main character; the antagonist is the opposing force",
+              "Only comedies have protagonists",
+              "The antagonist is always more interesting"
+            ],
+            "ans": 1,
+            "explanation": "The protagonist is the central character whose journey drives the story; the antagonist is the opposing force they struggle against."
+          }
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w3_su3",
+        "title": "3.3 Stage Types, Backstage Terms, and the Classical Unities",
+        "notes": [
+          "Stage Types, Backstage Terms, and the Classical Unities",
+          "",
+          "Key Concepts:",
+          "1. Stage Types:",
+          "   - PROSCENIUM: audience faces the stage through an arch — the most traditional arrangement.",
+          "   - THRUST: the stage extends into the audience on three sides.",
+          "   - ARENA / Theatre-in-the-Round: audience surrounds the stage on all sides.",
+          "   - BLACK BOX: a flexible, minimalist performance space.",
+          "",
+          "2. Backstage Areas:",
+          "   - GREEN ROOM: the rest area where actors wait when not performing.",
+          "   - FLY SYSTEM: the ropes and pulleys used to lift and lower scenery.",
+          "   - TRAP ROOM: the space directly beneath the stage, used for special effects and entrances.",
+          "",
+          "3. The Classical Unities (from Aristotle's Poetics):",
+          "   - Unity of ACTION: one main plot, without irrelevant subplots.",
+          "   - Unity of PLACE: the action occurs in a single location.",
+          "   - Unity of TIME: the action takes place within roughly one day.",
+          "",
+          "Analogy:",
+          "   - The classical unities restricting a play to one plot, place, and day are like a strict RECIPE with exactly three ingredients: the limitation itself forces a tightly focused, disciplined result.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse PROSCENIUM (audience facing through an arch) with THRUST (stage extending into audience).",
+          "   - Do NOT assume the classical unities apply to every play — they reflect a specific neoclassical tradition, not a universal rule."
+        ],
+        "diagramDescriptions": [
+          "Diagrams of proscenium, thrust, arena, and black box stage configurations"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English stage types proscenium thrust arena classical unities site:youtube.com",
+        "quiz": [
+          {
+            "q": "In a PROSCENIUM theatre, the audience:",
+            "opts": [
+              "Surrounds the stage on all sides",
+              "Sits on three sides of the stage",
+              "Faces the stage through an arch",
+              "Stands in a flexible open space"
+            ],
+            "ans": 2,
+            "explanation": "The proscenium is the traditional stage with a framing arch, with the audience facing the stage from one side."
+          },
+          {
+            "q": "A THRUST stage is one where:",
+            "opts": [
+              "The audience sits in a flexible arrangement",
+              "The stage extends into the audience on three sides",
+              "The audience surrounds the stage on all sides",
+              "There is no stage — only an open space"
+            ],
+            "ans": 1,
+            "explanation": "A thrust stage projects out into the audience, allowing actors to be surrounded on three sides."
+          },
+          {
+            "q": "A THEATRE-IN-THE-ROUND arrangement means:",
+            "opts": [
+              "The stage is raised behind an arch",
+              "The audience sits in front of the stage",
+              "The audience completely surrounds the acting area",
+              "The stage extends into the audience on three sides"
+            ],
+            "ans": 2,
+            "explanation": "Arena/Theatre-in-the-round places the audience in a circle around the central performance space."
+          },
+          {
+            "q": "The GREEN ROOM in a theatre is:",
+            "opts": [
+              "The space beneath the stage for special effects",
+              "The area where actors wait when not performing",
+              "The ropes and pulleys for lifting scenery",
+              "The costume wardrobe"
+            ],
+            "ans": 1,
+            "explanation": "The green room is the backstage rest area where performers wait between scenes."
+          },
+          {
+            "q": "The FLY SYSTEM in a theatre refers to:",
+            "opts": [
+              "The actor's costume design",
+              "The audience seating arrangement",
+              "The ropes and pulleys used to raise and lower scenery",
+              "The trap room beneath the stage"
+            ],
+            "ans": 2,
+            "explanation": "The fly system is the technical rigging above the stage used to fly scenery and props in and out of view."
+          },
+          {
+            "q": "The Unity of Action (from Aristotle) requires:",
+            "opts": [
+              "The play to last exactly one day",
+              "A single location for all events",
+              "One main plot, without irrelevant subplots",
+              "All characters to be present throughout"
+            ],
+            "ans": 2,
+            "explanation": "Unity of action demands that the drama follow one central storyline without distraction from irrelevant subplots."
+          },
+          {
+            "q": "The Unity of Time requires that:",
+            "opts": [
+              "The action occurs in a single location",
+              "The action spans no more than roughly one day",
+              "There is only one character",
+              "The play is performed without intervals"
+            ],
+            "ans": 1,
+            "explanation": "Unity of time limits the dramatic action to a single day (or approximately so)."
+          },
+          {
+            "q": "The Unity of Place requires that:",
+            "opts": [
+              "The action occurs in a single location",
+              "The play lasts one day",
+              "There is only one protagonist",
+              "The stage has no props"
+            ],
+            "ans": 0,
+            "explanation": "Unity of place demands that all dramatic action occurs in one location."
+          },
+          {
+            "q": "It is a mistake to assume the classical unities apply to every play because:",
+            "opts": [
+              "No plays follow any rules",
+              "They reflect a specific neoclassical tradition, not a universal rule for all drama",
+              "The unities were invented after most plays were written",
+              "Only Greek plays must follow the unities"
+            ],
+            "ans": 1,
+            "explanation": "The classical unities are a neoclassical ideal, not an absolute rule — many celebrated plays deliberately break them."
+          },
+          {
+            "q": "A BLACK BOX theatre is characterised by:",
+            "opts": [
+              "A fixed proscenium arch with formal seating",
+              "A flexible, minimalist performance space",
+              "An arena with the audience surrounding the stage",
+              "A thrust stage extending into the audience"
+            ],
+            "ans": 1,
+            "explanation": "The black box is a versatile, bare space that can be configured in multiple ways for different productions."
+          }
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {
+        "question": "Distinguish between a soliloquy, an aside, and a monologue.",
+        "markingGuide": "Clear, accurate distinction for each (1.67 marks each, 5 total)."
+      },
+      {
+        "question": "Explain the terms hamartia, peripeteia, anagnorisis, and catharsis.",
+        "markingGuide": "1.25 marks per correct explanation (4 terms, 5 total)."
+      },
+      {
+        "question": "Name and describe THREE stage types used in theatre.",
+        "markingGuide": "1.67 marks per correctly named and described stage type (3 types, 5 total)."
+      },
+      {
+        "question": "State the THREE classical unities and explain what each requires.",
+        "markingGuide": "1.67 marks per correctly stated and explained unity (3 unities, 5 total)."
+      },
+      {
+        "question": "Explain the difference between a protagonist and an antagonist, giving an example of each from any drama you know.",
+        "markingGuide": "Correct distinction (3); valid example for each (1 each) = 5 total."
+      }
+    ]
+  }

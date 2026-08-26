@@ -1,0 +1,122 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Office Staff: Confidentiality and Right Attitude to Work",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t1_w4_su1",
+      "title": "4.1 Confidentiality of Office Information",
+      "notes": [
+        "Confidentiality of Office Information",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Confidentiality:",
+        "   - Keeping certain information PRIVATE and not sharing it with people who have no right to know it.",
+        "",
+        "2. Types of Confidential Information:",
+        "   - Customer details (e.g., bank account numbers, medical records).",
+        "   - Employee information (e.g., salaries, home addresses).",
+        "   - Company plans (e.g., upcoming products, financial strategies).",
+        "",
+        "3. How to Protect Confidentiality:",
+        "   - Do not discuss sensitive matters outside the office or with unauthorized colleagues.",
+        "   - Lock away or password-protect private files and computers.",
+        "   - Only share information with people who genuinely NEED to know it for their work.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian banks, the NDPR (Nigeria Data Protection Regulation) strictly mandates confidentiality. A bank teller who shares a customer's account balance with a friend can be fired and legally prosecuted for breaching confidentiality."
+      ],
+      "diagramDescriptions": ["List of ways to protect confidentiality in the office"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies confidentiality of office information NDPR site:youtube.com",
+      "quiz": [
+        {"q": "What does confidentiality mean?", "opts": ["Keeping certain information private", "Sharing everything with everyone", "Ignoring all information", "Destroying all records"], "ans": 0, "explanation": "Confidentiality means keeping sensitive information private from unauthorized persons."},
+        {"q": "Which of these is an example of information that should be kept confidential?", "opts": ["The office's opening hours", "The company's public logo", "The office building's address", "A customer's private bank details"], "ans": 3, "explanation": "A customer's private bank details are highly sensitive and must be kept confidential."},
+        {"q": "Breaking confidentiality can lead to:", "opts": ["Damaged trust and a harmed reputation", "More sales always", "Increased customer trust", "Automatic promotion"], "ans": 0, "explanation": "Breaching confidentiality destroys trust and can severely damage an organization's reputation."},
+        {"q": "A good way to protect confidential files is to:", "opts": ["Lock them away or password-protect them", "Leave them open on every desk", "Photocopy them for everyone", "Post them publicly"], "ans": 0, "explanation": "Locking files or using passwords are effective ways to safeguard confidential information."},
+        {"q": "Information should only be shared with people who:", "opts": ["Are family members only", "Are strangers", "Simply ask out of curiosity", "Genuinely need it for their work"], "ans": 3, "explanation": "The 'need to know' principle dictates that information is only shared with those who require it for their job."},
+        {"q": "Confidentiality is fundamentally a matter of:", "opts": ["Entertainment", "Trust", "Decoration", "Punishment"], "ans": 1, "explanation": "Confidentiality is built on the trust placed in an employee by the organization and its clients."},
+        {"q": "A hospital clerk sharing a patient's visit details with a neighbour is an example of:", "opts": ["Breaking confidentiality", "A harmless conversation", "Proper record-keeping", "Good customer service"], "ans": 0, "explanation": "Sharing patient details with an unauthorized person is a clear breach of confidentiality."},
+        {"q": "Even everyday details like a colleague's salary:", "opts": ["Are never private", "Require confidentiality protection", "Are unimportant", "Can always be shared freely"], "ans": 1, "explanation": "Salary information is sensitive and requires confidentiality protection."},
+        {"q": "A worker being careful about what they say even to friends and family is practising:", "opts": ["Rudeness", "Laziness", "Confidentiality", "Carelessness"], "ans": 2, "explanation": "Being careful not to leak office secrets to friends or family is a key part of confidentiality."},
+        {"q": "Confidentiality matters between an organization and:", "opts": ["Only the government", "Its workers and customers", "Only its competitors", "No one at all"], "ans": 1, "explanation": "Confidentiality is a mutual obligation between the organization, its employees, and its customers."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w4_su2",
+      "title": "4.2 Punctuality and Regularity at Work",
+      "notes": [
+        "Punctuality and Regularity at Work",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Punctuality:",
+        "   - Arriving and completing tasks at the CORRECT, AGREED time. Not being late.",
+        "",
+        "2. Meaning of Regularity:",
+        "   - Attending work or completing tasks CONSISTENTLY, without frequent, unnecessary absence.",
+        "",
+        "3. Attributes of a Good Work Attitude:",
+        "   - Commitment: Dedication to doing the job well.",
+        "   - Interest: Genuine enthusiasm for one's work.",
+        "   - Promptness: Acting quickly without delay.",
+        "   - Consistency: Behaving in a reliable way every day, not just sometimes.",
+        "",
+        "Nigerian Context:",
+        "   - In the Nigerian civil service and corporate sectors, 'African time' (chronic lateness) is actively being discouraged. Punctuality and regularity are now key metrics in performance appraisals and are directly linked to career advancement."
+      ],
+      "diagramDescriptions": ["Chart showing the attributes of punctuality and regularity"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies punctuality regularity commitment consistency site:youtube.com",
+      "quiz": [
+        {"q": "What does punctuality mean?", "opts": ["Arriving and completing tasks at the correct, agreed time", "Ignoring deadlines", "Never coming to work", "Arriving whenever one feels like it"], "ans": 0, "explanation": "Punctuality means being on time and meeting agreed-upon deadlines."},
+        {"q": "What does regularity mean?", "opts": ["Being absent frequently", "Ignoring one's job", "Working only occasionally", "Attending work or completing tasks consistently"], "ans": 3, "explanation": "Regularity means consistent attendance and reliable completion of tasks."},
+        {"q": "Dedication to doing one's job well is called:", "opts": ["Rudeness", "Carelessness", "Laziness", "Commitment"], "ans": 3, "explanation": "Commitment is the dedication and loyalty a worker shows toward their job."},
+        {"q": "Genuine enthusiasm for one's work is called:", "opts": ["Confusion", "Boredom", "Anger", "Interest"], "ans": 3, "explanation": "Interest refers to having a genuine enthusiasm and care for one's work."},
+        {"q": "Acting quickly without delay is called:", "opts": ["Slowness", "Promptness", "Carelessness", "Laziness"], "ans": 1, "explanation": "Promptness means acting swiftly and without unnecessary delay."},
+        {"q": "Being reliable every day, not just sometimes, is called:", "opts": ["Randomness", "Laziness", "Confusion", "Consistency"], "ans": 3, "explanation": "Consistency means maintaining a reliable standard of work every single day."},
+        {"q": "A worker who was punctual for a month but then became frequently late is showing a lack of:", "opts": ["Too much promptness", "Too much interest", "Excessive commitment", "Consistency"], "ans": 3, "explanation": "True punctuality must be consistent; a sudden change to lateness shows a lack of consistency."},
+        {"q": "Punctuality and regularity show ___ for one's job and employer.", "opts": ["Boredom", "Respect", "Disrespect", "Confusion"], "ans": 1, "explanation": "Being on time and showing up regularly is a fundamental sign of respect for the job."},
+        {"q": "In Nigeria, 'African time' (chronic lateness) is now being actively:", "opts": ["Encouraged", "Discouraged", "Ignored", "Rewarded"], "ans": 1, "explanation": "Modern Nigerian workplaces are actively discouraging chronic lateness to improve productivity."},
+        {"q": "Which attribute means a worker does not procrastinate?", "opts": ["Commitment", "Interest", "Promptness", "Consistency"], "ans": 2, "explanation": "Promptness is the quality of acting quickly and avoiding procrastination."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w4_su3",
+      "title": "4.3 Rewards and Sanctions in the Workplace",
+      "notes": [
+        "Rewards and Sanctions in the Workplace",
+        "",
+        "Key Concepts:",
+        "1. Rewards for Good Attitude:",
+        "   - Workers who show commitment, punctuality, and consistency are often rewarded.",
+        "   - Examples of rewards: Verbal praise, 'Employee of the Month' awards, bonuses, promotions, or letters of commendation.",
+        "",
+        "2. Sanctions for Poor Attitude:",
+        "   - Workers who are consistently late, absent, or breach confidentiality face sanctions.",
+        "   - Examples of sanctions: Verbal warnings, written queries, salary deductions, suspension, or outright dismissal (losing the job).",
+        "",
+        "3. The Link Between Attitude and Career Growth:",
+        "   - A good work attitude builds a strong professional reputation, which is the foundation for long-term career success.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian companies, staff who are consistently punctual and devoted to duty are often the first to be considered for training opportunities and promotions, while those who habitually absent themselves without permission face strict disciplinary queries."
+      ],
+      "diagramDescriptions": ["Scale showing rewards for good attitude vs. sanctions for poor attitude"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies rewards and sanctions in the workplace site:youtube.com",
+      "quiz": [
+        {"q": "A worker who is consistently punctual and committed is likely to receive:", "opts": ["Sanctions", "Reward", "Nothing at all", "Dismissal immediately"], "ans": 1, "explanation": "Good work attitudes like punctuality and commitment are typically recognized and rewarded."},
+        {"q": "A worker who repeatedly fails to be punctual or regular may face:", "opts": ["Sanctions", "A pay rise always", "Automatic promotion", "Public celebration"], "ans": 0, "explanation": "Repeated poor work habits lead to disciplinary actions or sanctions."},
+        {"q": "Which of the following is an example of a workplace reward?", "opts": ["A written query", "Salary deduction", "Employee of the Month award", "Suspension"], "ans": 2, "explanation": "An 'Employee of the Month' award is a positive recognition and reward for good work."},
+        {"q": "Which of the following is an example of a workplace sanction?", "opts": ["Verbal praise", "Bonus payment", "Promotion", "Written query or warning"], "ans": 3, "explanation": "A written query or warning is a formal sanction for poor performance or behaviour."},
+        {"q": "The most severe sanction for persistent misconduct in the workplace is:", "opts": ["Verbal warning", "Promotion", "Dismissal (losing the job)", "A small bonus"], "ans": 2, "explanation": "Dismissal is the ultimate sanction for persistent, uncorrected misconduct."},
+        {"q": "A good work attitude builds a strong ___ which is the foundation for career success.", "opts": ["Professional reputation", "List of excuses", "Network of enemies", "History of lateness"], "ans": 0, "explanation": "A strong professional reputation, built on good attitude, is key to long-term career growth."},
+        {"q": "In Nigerian companies, staff who are consistently punctual are often the first to be considered for:", "opts": ["Dismissal", "Training opportunities and promotions", "Salary deductions", "Queries"], "ans": 1, "explanation": "Punctual and devoted staff are rewarded with growth opportunities like training and promotions."},
+        {"q": "A 'query' in the Nigerian workplace is a type of:", "opts": ["Reward", "Sanction", "Bonus", "Promotion"], "ans": 1, "explanation": "A query is a formal written request for explanation, serving as a disciplinary sanction."},
+        {"q": "Why do organizations give rewards?", "opts": ["To encourage and reinforce good behaviour", "To punish workers", "To waste company money", "To confuse employees"], "ans": 0, "explanation": "Rewards are given to motivate employees and reinforce positive, productive behaviour."},
+        {"q": "If a worker is absent without permission for three days, the likely first step by management is to:", "opts": ["Give them a bonus", "Issue a query or warning", "Promote them", "Ignore it completely"], "ans": 1, "explanation": "Unauthorized absence is a disciplinary issue that typically starts with a formal query or warning."}
+      ]
+    }
+  ]
+}

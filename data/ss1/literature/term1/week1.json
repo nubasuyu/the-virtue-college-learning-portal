@@ -1,0 +1,318 @@
+
+  {
+    "course": "Literature in English",
+    "level": "SSS1",
+    "term": "First Term",
+    "week": 1,
+    "topic": "Introduction to Literature",
+    "subUnits": [
+      {
+        "id": "sss1_lit_t1_w1_su1",
+        "title": "1.1 Meaning and Definitions of Literature",
+        "notes": [
+          "Meaning and Definitions of Literature",
+          "",
+          "Key Concepts:",
+          "1. Definition:",
+          "   - LITERATURE refers to WRITTEN or SPOKEN works that EXPRESS ideas, EMOTIONS, and human EXPERIENCE through CAREFULLY crafted LANGUAGE.",
+          "   - It is distinguished from ORDINARY writing by its ARTISTIC, imaginative QUALITY.",
+          "",
+          "2. What all definitions share:",
+          "   - Definitions of literature VARY, but share common ground: literature uses LANGUAGE creatively to REFLECT, interpret, or COMMENT on human life, SOCIETY, and the world.",
+          "   - It is produced across THREE main genres: DRAMA, PROSE, and POETRY.",
+          "",
+          "Analogy:",
+          "   - Literature using crafted language to express human experience is like a skilled PAINTER using colour and BRUSHSTROKES to capture a scene: the raw materials (words, paint) are ordinary, but the CRAFT transforms them into something MEANINGFUL.",
+          "",
+          "Worked Examples:",
+          "   - Q: Define literature. A: Written or spoken works expressing ideas, emotions, and human experience through carefully crafted language.",
+          "   - Q: Name the three main genres of literature. A: Drama, Prose, and Poetry.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume literature refers to ANY written text — it specifically refers to writing with an artistic, imaginative quality.",
+          "   - Do NOT assume all definitions of literature agree completely — they vary, though sharing common ground."
+        ],
+        "diagramDescriptions": [
+          "Diagram showing the three genres — Drama, Prose, Poetry — as branches of Literature"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English meaning and definitions of literature site:youtube.com",
+        "quiz": [
+          {
+            "q": "Literature refers to works that express ideas, emotions, and human experience through:",
+            "opts": [
+              "Random, unstructured language",
+              "Carefully crafted language",
+              "Any written text whatsoever",
+              "Only spoken language"
+            ],
+            "ans": 1,
+            "explanation": "Literature is distinguished by the careful, artistic craft of its language."
+          },
+          {
+            "q": "What distinguishes literary writing from ordinary writing?",
+            "opts": [
+              "Its length",
+              "Its artistic, imaginative quality",
+              "Its use of punctuation",
+              "The price of the book"
+            ],
+            "ans": 1,
+            "explanation": "Literary writing is set apart from ordinary writing by its artistic and imaginative quality."
+          },
+          {
+            "q": "The three main genres of literature are:",
+            "opts": [
+              "Drama, Music, and Dance",
+              "Prose, Poetry, and Biography",
+              "Drama, Prose, and Poetry",
+              "Fiction, Non-fiction, and Drama"
+            ],
+            "ans": 2,
+            "explanation": "The three recognised main literary genres are Drama, Prose, and Poetry."
+          },
+          {
+            "q": "All genuine definitions of literature share the idea that literature:",
+            "opts": [
+              "Only entertains readers",
+              "Uses language creatively to reflect on human life",
+              "Must be written, never spoken",
+              "Belongs only to one culture"
+            ],
+            "ans": 1,
+            "explanation": "Definitions vary but converge on the idea of creative language use reflecting human experience."
+          },
+          {
+            "q": "The analogy in this week's notes compares a literary writer to:",
+            "opts": [
+              "A musician composing a symphony",
+              "A scientist conducting an experiment",
+              "A skilled painter transforming ordinary materials through craft",
+              "A sportsman competing in a race"
+            ],
+            "ans": 2,
+            "explanation": "Just as a painter transforms paint into meaningful art, a writer transforms words into meaningful literature."
+          },
+          {
+            "q": "Literature is genuinely produced across how many main genres?",
+            "opts": [
+              "Two",
+              "Four",
+              "Five",
+              "Three"
+            ],
+            "ans": 3,
+            "explanation": "The three main genres are drama, prose, and poetry."
+          },
+          {
+            "q": "It is a mistake to assume literature refers to any written text because:",
+            "opts": [
+              "Literature requires pictures",
+              "Literature is only spoken, never written",
+              "Literature specifically requires an artistic, imaginative quality",
+              "Literature only covers poetry"
+            ],
+            "ans": 2,
+            "explanation": "Not all written text qualifies as literature — the artistic, imaginative quality is the defining feature."
+          },
+          {
+            "q": "Literature can be:",
+            "opts": [
+              "Written only",
+              "Spoken only",
+              "Neither written nor spoken",
+              "Written or spoken"
+            ],
+            "ans": 3,
+            "explanation": "Literature encompasses both written and spoken works expressing human experience."
+          },
+          {
+            "q": "Literature uses language creatively to do which of the following?",
+            "opts": [
+              "Only to entertain, nothing else",
+              "Reflect, interpret, or comment on human life, society, and the world",
+              "Replace ordinary communication entirely",
+              "Avoid any emotional content"
+            ],
+            "ans": 1,
+            "explanation": "Literature's creative language use serves to reflect, interpret, and comment on human life and the world."
+          },
+          {
+            "q": "Which statement about definitions of literature is most accurate?",
+            "opts": [
+              "All definitions agree completely",
+              "No two definitions share anything in common",
+              "Definitions vary but share common ground around creative language and human experience",
+              "Definitions are irrelevant to understanding literature"
+            ],
+            "ans": 2,
+            "explanation": "Definitions vary in emphasis but converge on creative language use and human experience as core ideas."
+          }
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w1_su2",
+        "title": "1.2 Functions of Literature, and Literature-in-English vs English Literature",
+        "notes": [
+          "Functions of Literature, and Literature-in-English vs English Literature",
+          "",
+          "Key Concepts:",
+          "1. Functions of Literature:",
+          "   - ENTERTAINING readers — providing pleasure and enjoyment through storytelling.",
+          "   - EDUCATING and INFORMING — broadening knowledge and understanding of the world.",
+          "   - Preserving CULTURE and HISTORY — recording and transmitting cultural values across generations.",
+          "   - Offering moral or SOCIAL COMMENTARY — examining and critiquing society and human behaviour.",
+          "",
+          "2. Literature-in-English vs English Literature:",
+          "   - 'LITERATURE-IN-ENGLISH': literary works WRITTEN in the English LANGUAGE, by writers from ANY country or culture (e.g., Chinua Achebe's Things Fall Apart).",
+          "   - 'ENGLISH LITERATURE': literature originating SPECIFICALLY from ENGLAND or the wider BRITISH tradition (e.g., Shakespeare, Dickens).",
+          "",
+          "Analogy:",
+          "   - The distinction is like the difference between 'English-speaking countries' and 'England' itself: the language extends far beyond one national origin.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume literature serves ONLY an entertainment purpose — it also educates, preserves culture, and offers social commentary.",
+          "   - Do NOT confuse 'Literature-in-English' (written in English, by any nation's writers) with 'English Literature' (specifically from England/Britain)."
+        ],
+        "diagramDescriptions": [
+          "Table distinguishing Literature-in-English from English Literature with examples"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English functions of literature literature-in-english vs english literature site:youtube.com",
+        "quiz": [
+          {
+            "q": "Which of the following is NOT a recognised function of literature?",
+            "opts": [
+              "Entertaining readers",
+              "Preserving culture and history",
+              "Replacing mathematics education",
+              "Offering moral or social commentary"
+            ],
+            "ans": 2,
+            "explanation": "Literature does not replace mathematics — its functions are entertainment, education, cultural preservation, and social commentary."
+          },
+          {
+            "q": "'Literature-in-English' refers to:",
+            "opts": [
+              "Literature written only in England",
+              "Literary works written in English by writers from any country or culture",
+              "Literature translated into English from other languages",
+              "Only British literature"
+            ],
+            "ans": 1,
+            "explanation": "Literature-in-English covers all literary works written in the English language, regardless of the author's nationality."
+          },
+          {
+            "q": "'English Literature' refers specifically to:",
+            "opts": [
+              "Any literature written in English",
+              "Literature written in any language in England",
+              "Literature originating from England or the wider British tradition",
+              "African novels written in English"
+            ],
+            "ans": 2,
+            "explanation": "English Literature specifically refers to literature from England and the British tradition."
+          },
+          {
+            "q": "Chinua Achebe's 'Things Fall Apart' is best described as:",
+            "opts": [
+              "English Literature, as it is written in English",
+              "Literature-in-English, written by a Nigerian author in English",
+              "British Literature, since it was published in London",
+              "Neither literature-in-English nor English Literature"
+            ],
+            "ans": 1,
+            "explanation": "Achebe is Nigerian, so his English-language work falls under 'Literature-in-English', not 'English Literature'."
+          },
+          {
+            "q": "One function of literature is preserving culture and history. This means literature:",
+            "opts": [
+              "Destroys cultural traditions",
+              "Records and transmits cultural values across generations",
+              "Has no connection to cultural matters",
+              "Only records European culture"
+            ],
+            "ans": 1,
+            "explanation": "Literature serves to preserve and transmit cultural values, beliefs, and historical experiences."
+          },
+          {
+            "q": "The analogy comparing Literature-in-English to 'English-speaking countries' and English Literature to 'England itself' illustrates:",
+            "opts": [
+              "That English Literature is more important",
+              "That the English language extends far beyond one national origin",
+              "That only England produces good literature",
+              "That Literature-in-English is inferior"
+            ],
+            "ans": 1,
+            "explanation": "Just as many countries speak English, Literature-in-English is produced globally, not only in England."
+          },
+          {
+            "q": "Which function of literature does a novel that critiques corruption in government primarily serve?",
+            "opts": [
+              "Entertainment only",
+              "Moral and social commentary",
+              "Cultural preservation only",
+              "Education in science"
+            ],
+            "ans": 1,
+            "explanation": "A novel critiquing government corruption primarily serves the function of offering moral and social commentary."
+          },
+          {
+            "q": "It is a mistake to assume literature serves only an entertainment purpose because:",
+            "opts": [
+              "Literature never entertains readers",
+              "Literature also educates, preserves culture, and offers social commentary",
+              "Entertainment is the least important function",
+              "Literature has no functions at all"
+            ],
+            "ans": 1,
+            "explanation": "Entertainment is one of several functions — literature also educates, preserves culture, and comments on society."
+          },
+          {
+            "q": "Shakespeare's works are best classified as:",
+            "opts": [
+              "Literature-in-English from Nigeria",
+              "English Literature, originating from the British tradition",
+              "French Literature translated into English",
+              "Modern African literature"
+            ],
+            "ans": 1,
+            "explanation": "Shakespeare is a foundational figure of the English/British literary tradition — English Literature."
+          },
+          {
+            "q": "Which of these best describes the educational function of literature?",
+            "opts": [
+              "Making readers laugh",
+              "Broadening knowledge and understanding of the world through narrative",
+              "Selling books for profit",
+              "Memorising grammar rules"
+            ],
+            "ans": 1,
+            "explanation": "The educational function of literature involves broadening the reader's knowledge, understanding, and empathy."
+          }
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {
+        "question": "Define literature.",
+        "markingGuide": "Correct, complete definition (5, holistic)."
+      },
+      {
+        "question": "Name the THREE main genres of literature.",
+        "markingGuide": "1.67 marks per correctly named genre (3 genres, 5 total)."
+      },
+      {
+        "question": "State THREE functions of literature.",
+        "markingGuide": "1.67 marks per correctly stated function (3 functions, 5 total)."
+      },
+      {
+        "question": "Distinguish literature-in-English from English Literature, giving an example of each.",
+        "markingGuide": "Correct explanation of literature-in-English with example (2.5); correct explanation of English Literature with example (2.5)."
+      },
+      {
+        "question": "Explain what genuinely distinguishes literary writing from ordinary writing.",
+        "markingGuide": "Clear, thoughtful explanation (5, holistic)."
+      }
+    ]
+  }

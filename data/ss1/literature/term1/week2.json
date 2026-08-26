@@ -1,0 +1,320 @@
+{
+    "course": "Literature in English",
+    "level": "SSS1",
+    "term": "First Term",
+    "week": 2,
+    "topic": "Genres of Literature I — Drama",
+    "subUnits": [
+      {
+        "id": "sss1_lit_t1_w2_su1",
+        "title": "2.1 Definition and Characteristics of Drama",
+        "notes": [
+          "Definition and Characteristics of Drama",
+          "",
+          "Key Concepts:",
+          "1. Definition:",
+          "   - DRAMA is a literary work WRITTEN to be PERFORMED on STAGE.",
+          "   - It conveys story through DIALOGUE and ACTION, rather than through narrative description as in prose.",
+          "",
+          "2. Characteristics of Drama:",
+          "   - DIALOGUE: conversation between characters, the primary vehicle of drama.",
+          "   - CONFLICT: the struggle driving the action forward.",
+          "   - STAGE DIRECTIONS: written instructions guiding performance.",
+          "   - DIVISION into ACTS and SCENES: the structural units of a dramatic text.",
+          "",
+          "Analogy:",
+          "   - Drama conveying story through dialogue and action (rather than description) is like WATCHING events unfold directly, rather than having someone describe them to you: the audience experiences it firsthand.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume drama conveys story through narrative description like prose — it uses dialogue and action, meant to be performed.",
+          "   - Do NOT underestimate conflict's importance — it drives the action forward throughout the entire play."
+        ],
+        "diagramDescriptions": [
+          "Diagram of a script page labelling dialogue, stage directions, acts, and scenes"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English definition characteristics of drama site:youtube.com",
+        "quiz": [
+          {
+            "q": "Drama is defined as a literary work:",
+            "opts": [
+              "Written to be read silently only",
+              "Written to be performed on stage",
+              "Produced only in poem form",
+              "Narrated by a third-person voice"
+            ],
+            "ans": 1,
+            "explanation": "Drama is specifically written for performance on stage, distinguishing it from prose and poetry."
+          },
+          {
+            "q": "Drama conveys its story primarily through:",
+            "opts": [
+              "Narrative description",
+              "Dialogue and action",
+              "Letters and diaries",
+              "Internal monologue only"
+            ],
+            "ans": 1,
+            "explanation": "Unlike prose, drama conveys story through dialogue and action meant to be seen performed."
+          },
+          {
+            "q": "Which of the following is a characteristic of drama?",
+            "opts": [
+              "Continuous narrative paragraphs",
+              "Stanza and verse form",
+              "Division into acts and scenes",
+              "Stream of consciousness"
+            ],
+            "ans": 2,
+            "explanation": "Drama is structured into acts and scenes, a key feature distinguishing it from prose and poetry."
+          },
+          {
+            "q": "Stage directions in a drama text serve to:",
+            "opts": [
+              "Replace all dialogue",
+              "Guide the actors and director in performance",
+              "Provide a prose summary of the plot",
+              "Create the poetic metre"
+            ],
+            "ans": 1,
+            "explanation": "Stage directions are written instructions that guide how the play is to be performed."
+          },
+          {
+            "q": "Conflict in drama is significant because it:",
+            "opts": [
+              "Brings the play to an immediate end",
+              "Drives the action forward throughout the play",
+              "Is only found in comedies",
+              "Replaces the need for dialogue"
+            ],
+            "ans": 1,
+            "explanation": "Conflict is the engine of dramatic action — it creates tension and drives the narrative forward."
+          },
+          {
+            "q": "How does drama differ from prose in the way it tells a story?",
+            "opts": [
+              "Drama uses narrative description; prose uses dialogue",
+              "Drama uses dialogue and action; prose uses narrative description",
+              "Both drama and prose use identical methods",
+              "Drama uses verse; prose uses stage directions"
+            ],
+            "ans": 1,
+            "explanation": "Drama tells its story through dialogue and action; prose tells its story through narrative description."
+          },
+          {
+            "q": "The analogy comparing drama to 'watching events unfold directly' illustrates:",
+            "opts": [
+              "That drama is inferior to prose",
+              "That drama gives the audience an immediate, firsthand experience",
+              "That drama always has a happy ending",
+              "That drama is harder to understand than prose"
+            ],
+            "ans": 1,
+            "explanation": "The analogy highlights drama's immediacy — the audience experiences events as they happen, not through description."
+          },
+          {
+            "q": "Which of these is NOT a characteristic of drama?",
+            "opts": [
+              "Dialogue",
+              "Conflict",
+              "Continuous paragraphs of narrative",
+              "Stage directions"
+            ],
+            "ans": 2,
+            "explanation": "Continuous narrative paragraphs are a feature of prose, not drama."
+          },
+          {
+            "q": "A PLAY is divided structurally into:",
+            "opts": [
+              "Chapters and paragraphs",
+              "Stanzas and verses",
+              "Acts and scenes",
+              "Episodes and serials"
+            ],
+            "ans": 2,
+            "explanation": "The structural units of a dramatic text are acts (larger divisions) and scenes (subdivisions within acts)."
+          },
+          {
+            "q": "It is a mistake to assume drama conveys story through narrative description because:",
+            "opts": [
+              "Drama never tells a story",
+              "Drama specifically uses dialogue and action for performance, not narration",
+              "Narrative description is more dramatic",
+              "Stage directions are a form of narrative"
+            ],
+            "ans": 1,
+            "explanation": "Drama's defining method is dialogue and action — narrative description belongs to prose."
+          }
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w2_su2",
+        "title": "2.2 Types of Drama",
+        "notes": [
+          "Types of Drama",
+          "",
+          "Key Concepts:",
+          "1. Tragedy:",
+          "   - A serious drama ending in the DOWNFALL or DEATH of the protagonist, often due to a FATAL FLAW (hamartia).",
+          "   - Example: Shakespeare's Macbeth (ambition as fatal flaw).",
+          "",
+          "2. Comedy:",
+          "   - A light-hearted drama ending HAPPILY, often with reconciliation, marriage, or resolution of misunderstanding.",
+          "   - Example: Shakespeare's A Midsummer Night's Dream.",
+          "",
+          "3. Tragicomedy:",
+          "   - A drama blending elements of BOTH tragedy and comedy — serious situations resolved happily, or comic elements within a tragic framework.",
+          "",
+          "4. Melodrama:",
+          "   - A drama featuring EXAGGERATED emotions, clear-cut heroes and villains, and a strong appeal to the audience's feelings.",
+          "",
+          "5. Historical Drama / Chronicle Play:",
+          "   - A drama based on HISTORICAL events or figures.",
+          "   - Example: Shakespeare's Julius Caesar.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume all dramas ending badly are tragedies — the specific formula of the protagonist's fatal flaw leading to downfall is required.",
+          "   - Do NOT confuse tragicomedy with simple comedy — it genuinely blends both tragic and comic elements."
+        ],
+        "diagramDescriptions": [
+          "Chart showing the types of drama with brief descriptions and examples"
+        ],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English types of drama tragedy comedy tragicomedy site:youtube.com",
+        "quiz": [
+          {
+            "q": "A tragedy typically ends with:",
+            "opts": [
+              "A wedding and celebration",
+              "The downfall or death of the protagonist",
+              "A complete resolution of all problems",
+              "A comic misunderstanding cleared up"
+            ],
+            "ans": 1,
+            "explanation": "Tragedy ends in the downfall or death of the protagonist, often caused by a fatal flaw."
+          },
+          {
+            "q": "The term 'hamartia' in tragedy refers to:",
+            "opts": [
+              "The resolution of the plot",
+              "The protagonist's fatal flaw",
+              "A stage direction",
+              "The opening prologue"
+            ],
+            "ans": 1,
+            "explanation": "Hamartia is the protagonist's personal weakness or fatal flaw that leads to their downfall."
+          },
+          {
+            "q": "Which type of drama typically ends happily with reconciliation or marriage?",
+            "opts": [
+              "Tragedy",
+              "Comedy",
+              "Melodrama",
+              "Historical drama"
+            ],
+            "ans": 1,
+            "explanation": "Comedy is the genre characterised by a light-hearted tone and a happy ending."
+          },
+          {
+            "q": "A drama that blends serious situations with comic elements, often resolving happily, is called:",
+            "opts": [
+              "Melodrama",
+              "Tragedy",
+              "Tragicomedy",
+              "Historical drama"
+            ],
+            "ans": 2,
+            "explanation": "Tragicomedy blends elements of both tragedy and comedy within the same dramatic work."
+          },
+          {
+            "q": "Melodrama is characterised by:",
+            "opts": [
+              "Subtle emotions and complex characters",
+              "Exaggerated emotions and clear-cut heroes and villains",
+              "A strict adherence to the classical unities",
+              "Complex verse form"
+            ],
+            "ans": 1,
+            "explanation": "Melodrama features heightened, exaggerated emotional content and clearly defined good and evil characters."
+          },
+          {
+            "q": "Shakespeare's 'Julius Caesar' is best classified as:",
+            "opts": [
+              "A pure comedy",
+              "A melodrama",
+              "A historical drama / chronicle play",
+              "A tragicomedy"
+            ],
+            "ans": 2,
+            "explanation": "Julius Caesar is based on historical events and figures, making it a historical drama."
+          },
+          {
+            "q": "Shakespeare's 'Macbeth' is an example of:",
+            "opts": [
+              "Comedy",
+              "Tragicomedy",
+              "Tragedy",
+              "Melodrama"
+            ],
+            "ans": 2,
+            "explanation": "Macbeth ends in the protagonist's downfall and death due to his fatal flaw (ambition), making it a tragedy."
+          },
+          {
+            "q": "Which type of drama makes the strongest appeal to the audience's feelings through exaggerated emotional content?",
+            "opts": [
+              "Comedy",
+              "Historical drama",
+              "Tragicomedy",
+              "Melodrama"
+            ],
+            "ans": 3,
+            "explanation": "Melodrama deliberately heightens emotional content to provoke a strong audience reaction."
+          },
+          {
+            "q": "Not all dramas ending badly qualify as tragedies because:",
+            "opts": [
+              "Tragedy requires a specific formula involving a protagonist's fatal flaw leading to downfall",
+              "All unhappy endings are tragedies",
+              "Only Shakespeare writes tragedies",
+              "Tragedy only involves death, not downfall"
+            ],
+            "ans": 0,
+            "explanation": "True tragedy requires the specific element of hamartia — the protagonist's own flaw causing their downfall."
+          },
+          {
+            "q": "A tragicomedy differs from a pure comedy in that it:",
+            "opts": [
+              "Is always shorter",
+              "Blends tragic and comic elements rather than being wholly light-hearted",
+              "Never has a happy ending",
+              "Is only written in verse"
+            ],
+            "ans": 1,
+            "explanation": "Tragicomedy contains serious, potentially tragic elements alongside the comic, distinguishing it from pure comedy."
+          }
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {
+        "question": "Define drama.",
+        "markingGuide": "Correct, complete definition mentioning performance and dialogue/action (5, holistic)."
+      },
+      {
+        "question": "Name FOUR genuine characteristics of drama.",
+        "markingGuide": "1.25 marks per correctly named and briefly described characteristic (4 characteristics, 5 total)."
+      },
+      {
+        "question": "Distinguish tragedy from comedy, giving an example of each.",
+        "markingGuide": "Correct distinction (3); valid example for each type (1 each) = 5 total."
+      },
+      {
+        "question": "Explain how drama differs from prose in the way it tells a story.",
+        "markingGuide": "Clear, accurate explanation contrasting dialogue/action with narrative description (5, holistic)."
+      },
+      {
+        "question": "Name and briefly describe THREE types of drama.",
+        "markingGuide": "1.67 marks per correctly named and described type (3 types, 5 total)."
+      }
+    ]
+  }

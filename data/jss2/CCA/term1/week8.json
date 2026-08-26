@@ -1,0 +1,146 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Practical Work on Colour: Mixing Colours and the Colour Wheel",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w8_su1",
+      "title": "8.1 Mixing Colours: Tints and Tones",
+      "notes": [
+        "Mixing Colours: Tints and Tones",
+        "",
+        "Key Concepts:",
+        "1. Creating a TINT:",
+        "   - Created by adding WHITE to a colour.",
+        "   - Makes the colour LIGHTER and softer (e.g., Red + White = Pink).",
+        "",
+        "2. Creating a TONE (or Shade):",
+        "   - Created by adding BLACK (or grey) to a colour.",
+        "   - Makes the colour DARKER and more muted (e.g., Red + Black = deep Maroon).",
+        "",
+        "3. Practical Mixing Techniques:",
+        "   - Add colour GRADUALLY (a little at a time) for better control.",
+        "   - Mix THOROUGHLY to ensure an even, consistent colour with no streaks.",
+        "   - Test the mixed colour on SCRAP paper before applying it to a final piece to avoid costly mistakes.",
+        "",
+        "Nigerian Context:",
+        "   - Whether mixing paint for a school project or preparing traditional dyes, controlling the lightness (tint) or darkness (tone) is what allows an artist to create depth, shadow, and variety in their work."
+      ],
+      "diagramDescriptions": ["Visual guide showing a base colour mixed with white to create tints, and black to create tones"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts mixing colours tints and tones practical site:youtube.com",
+      "quiz": [
+        {"q": "A tint is created by adding ___ to a colour.", "opts": ["Another primary colour only", "Black", "White", "Nothing at all"], "ans": 2, "explanation": "Adding white lightens a colour, creating a tint."},
+        {"q": "A tone (or shade) is created by adding ___ to a colour.", "opts": ["White only", "Water only", "Black or grey", "Nothing at all"], "ans": 2, "explanation": "Adding black or grey darkens and mutes a colour, creating a tone."},
+        {"q": "Adding white to red produces:", "opts": ["No visible change", "Pink (a tint)", "Maroon (a tone)", "Orange (a secondary colour)"], "ans": 1, "explanation": "Red + White = Pink, which is a tint of red."},
+        {"q": "Adding black to red produces:", "opts": ["Pink (a tint)", "Yellow", "No visible change", "A dark maroon-red (a tone)"], "ans": 3, "explanation": "Red + Black = Maroon, which is a tone of red."},
+        {"q": "Good practical colour mixing involves adding colour:", "opts": ["All at once, in large amounts", "Randomly, with no plan", "Gradually, for better control", "Never, avoiding mixing entirely"], "ans": 2, "explanation": "Adding colour gradually allows the artist to control the exact shade achieved."},
+        {"q": "Mixing colours thoroughly ensures:", "opts": ["A streaky, inconsistent result", "No effect on the final colour", "A completely random result", "An even, consistent colour with no streaks"], "ans": 3, "explanation": "Thorough mixing prevents streaks and ensures the colour is uniform."},
+        {"q": "Testing a mixed colour on scrap paper first helps to:", "opts": ["Guarantee a worse final result", "Have no effect on the outcome", "Avoid costly mistakes on the final artwork", "Make the final artwork unusable"], "ans": 2, "explanation": "Testing allows for adjustments before committing the colour to the valuable, final piece."},
+        {"q": "Creating a tint is compared to ___ in this week's analogy.", "opts": ["Making no change to a room's brightness", "Turning up the lights in a room", "Turning off all the lights completely", "An unrelated random comparison"], "ans": 1, "explanation": "Adding white is like turning up the lights, making the colour feel brighter and softer."},
+        {"q": "Creating a tone is compared to ___ in this week's analogy.", "opts": ["Turning down the lights in a room", "Turning up the lights fully", "Making no change to a room's brightness", "An unrelated random comparison"], "ans": 0, "explanation": "Adding black is like turning down the lights, making the colour feel deeper and moodier."},
+        {"q": "Tertiary colours are produced by mixing:", "opts": ["Two tints together", "Nothing at all", "White and black only", "A primary colour with an adjacent secondary colour"], "ans": 3, "explanation": "Tertiary (intermediate) colours are a mix of a primary and a neighbouring secondary colour."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w8_su2",
+      "title": "8.2 Mixing Colours: Tertiary Colours and Practical Techniques",
+      "notes": [
+        "Mixing Colours: Tertiary Colours and Practical Techniques",
+        "",
+        "Key Concepts:",
+        "1. Mixing Tertiary Colours:",
+        "   - As reviewed, mixing a primary with an adjacent secondary creates a tertiary colour (e.g., Yellow + Green = Yellow-Green).",
+        "   - This expands the artist's palette beyond the basic six colours, allowing for more subtle, nuanced expressions.",
+        "",
+        "2. Practical Colour Mixing for a Craft Project:",
+        "   - Decide the EXACT hue, tint, or tone needed (referring to a colour wheel).",
+        "   - Mix a SMALL test amount first, checking it against the object in GOOD light before committing to a larger batch.",
+        "   - Keep a RECORD (written ratio, or a saved sample) of a SUCCESSFUL mix.",
+        "",
+        "3. The Challenge of Consistency:",
+        "   - If a large project requires the SAME colour across multiple sessions, even a SLIGHT variation in ratio can create a visible, unwanted colour mismatch.",
+        "   - Careful MEASURING (rather than pure guesswork) and keeping accurate RECORDS helps achieve consistent results.",
+        "",
+        "Nigerian Context:",
+        "   - Just as a baker follows the same recipe exactly for a large wedding cake to ensure consistent taste, a craftsperson must record their colour 'recipe' to ensure a large project (like painting a series of masks) looks uniform and professional."
+      ],
+      "diagramDescriptions": ["Chart showing the creation of tertiary colours and a note-taking example for recording colour ratios"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts mixing tertiary colours and practical consistency site:youtube.com",
+      "quiz": [
+        {"q": "When mixing colour for a specific project, a craftsperson should first:", "opts": ["Skip all testing entirely", "Decide the exact hue, tint, or tone needed", "Apply colour randomly with no plan", "Avoid using a colour wheel"], "ans": 1, "explanation": "Knowing the exact target colour is the essential first step before mixing begins."},
+        {"q": "Testing a small amount of mixed colour before committing to a larger batch helps to:", "opts": ["Have no effect on the final outcome", "Guarantee a worse final result", "Avoid wasting materials on an incorrect large batch", "Make the final artwork unusable"], "ans": 2, "explanation": "Testing prevents the waste of materials and time on a large batch that might be the wrong shade."},
+        {"q": "Keeping a record of a successful colour mix helps to:", "opts": ["Have no practical benefit", "Accurately reproduce the same colour later if needed", "Make future colour mixing impossible", "Guarantee an inconsistent result"], "ans": 1, "explanation": "A written ratio or saved sample ensures the exact same colour can be mixed again later."},
+        {"q": "A common challenge in colour mixing practice is achieving:", "opts": ["Only decorative, irrelevant results", "Inconsistency intentionally", "No challenge at all, since mixing is always easy", "Consistency across multiple mixed batches"], "ans": 3, "explanation": "Maintaining the exact same colour across different mixing sessions is a common and significant challenge."},
+        {"q": "A slight variation in mixing ratio between batches can cause:", "opts": ["A guaranteed perfect match regardless", "An automatically improved result", "No visible difference at all", "A visible, unwanted colour mismatch"], "ans": 3, "explanation": "Even small changes in the ratio of colours can noticeably alter the final hue."},
+        {"q": "Careful measuring, rather than pure guesswork, helps achieve:", "opts": ["Consistent colour results across a project", "Random, inconsistent results", "No measurable difference", "A guaranteed worse outcome"], "ans": 0, "explanation": "Precise measuring is the key to replicating a successful colour mix."},
+        {"q": "Colour mixing consistency across a large project is compared to ___ in this week's analogy.", "opts": ["A recipe that never needs to be followed precisely", "A baker following the same recipe exactly for a large cake", "A baker with no need for consistency", "An unrelated random comparison"], "ans": 1, "explanation": "Just as a baker needs exact measurements for consistent cake batches, a craftsperson needs exact colour ratios."},
+        {"q": "Checking a mixed colour in good light matters because:", "opts": ["Colour always looks identical regardless of light", "Lighting has no effect on how colour appears", "Colour can appear different under different lighting conditions", "Testing in poor light is equally reliable"], "ans": 2, "explanation": "Lighting dramatically affects how a colour is perceived, so good, neutral light is essential for accurate testing."},
+        {"q": "A written ratio or saved sample of a successful mix serves as a useful:", "opts": ["Random, meaningless note", "Record for future reference", "Obstacle to future work", "Irrelevant, unnecessary item"], "ans": 1, "explanation": "It acts as a reliable reference guide for future mixing needs."},
+        {"q": "For a large, multi-session craft project, colour consistency matters because:", "opts": ["Projects never require more than one colour session", "Consistency has no real importance for craft projects", "An inconsistent colour would create a visibly mismatched final result", "Colour mismatches are always unnoticeable"], "ans": 2, "explanation": "Visible mismatches ruin the professional appearance of a large, unified craft project."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w8_su3",
+      "title": "8.3 Producing a Colour Wheel",
+      "notes": [
+        "Producing a Colour Wheel",
+        "",
+        "Key Concepts:",
+        "1. What is a Colour Wheel?",
+        "   - A circular diagram arranging colours in their natural, logical ORDER, showing the relationships between primary, secondary, and intermediate colours at a glance.",
+        "",
+        "2. Steps for Producing a Colour Wheel:",
+        "   - Step 1: Draw a CIRCLE and divide it into EQUAL segments (commonly 6 or 12, depending on detail).",
+        "   - Step 2: Place the THREE primary colours (red, yellow, blue) EVENLY spaced around the circle, at equal intervals.",
+        "   - Step 3: MIX and place the THREE secondary colours (orange, green, purple) in the segments BETWEEN their two parent primary colours.",
+        "   - Step 4: (For a 12-segment wheel) Mix and add the SIX intermediate colours between each primary and its neighbouring secondary.",
+        "",
+        "3. Practical Use of the Colour Wheel:",
+        "   - It becomes a genuinely USEFUL tool: colours sitting NEXT to each other (analogous) can be quickly identified for harmonious combinations, while colours sitting DIRECTLY OPPOSITE (complementary) can be quickly identified for high-contrast combinations.",
+        "",
+        "Nigerian Context:",
+        "   - A colour wheel is like a clock face for colour. Just as you glance at a clock to instantly know the time, an artist glances at a colour wheel to instantly know which colours will harmonise, and which will boldly contrast."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to drawing and filling a 6-segment and 12-segment colour wheel"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts producing a colour wheel step by step site:youtube.com",
+      "quiz": [
+        {"q": "What is a colour wheel?", "opts": ["A single-colour painting", "A type of craft tool unrelated to colour", "A random collection of unrelated colours", "A circular diagram arranging colours in their natural, logical order"], "ans": 3, "explanation": "A colour wheel is a logical, circular arrangement of colours showing their relationships."},
+        {"q": "The first step in producing a colour wheel is to:", "opts": ["Mix all colours together randomly", "Draw a circle and divide it into equal segments", "Skip the circle and use a square instead", "Paint the wheel a single colour"], "ans": 1, "explanation": "Creating the segmented circle is the foundational first step."},
+        {"q": "Primary colours are placed ___ around the colour wheel.", "opts": ["Randomly, with no consistent spacing", "All in one single segment", "Outside the circle entirely", "Evenly spaced at equal intervals"], "ans": 3, "explanation": "Primary colours must be evenly spaced to serve as the anchor points for the rest of the wheel."},
+        {"q": "Secondary colours are placed ___ their two parent primary colours.", "opts": ["Between", "Far away from", "Directly on top of", "Unrelated to"], "ans": 0, "explanation": "Secondary colours sit in the segments directly between the two primaries that create them."},
+        {"q": "A 12-segment colour wheel includes ___ in addition to primary and secondary colours.", "opts": ["Random unrelated colours", "Six intermediate colours", "No additional colours", "Only black and white"], "ans": 1, "explanation": "A 12-segment wheel adds the six intermediate (tertiary) colours for more detail."},
+        {"q": "A colour wheel helps an artist quickly identify ___ combinations.", "opts": ["Only random, unplanned", "Analogous and complementary", "No useful combinations at all", "Only monochrome"], "ans": 1, "explanation": "The wheel's layout makes it easy to spot neighbouring (analogous) and opposite (complementary) colours."},
+        {"q": "A colour wheel is compared to ___ in this week's analogy.", "opts": ["A wheel with no practical use", "A clock face, showing relationships instead of time", "A clock with no logical arrangement", "An unrelated random object"], "ans": 1, "explanation": "Like a clock face organizes time logically, a colour wheel organizes colour relationships logically."},
+        {"q": "Placing secondary colours in the wrong position on the wheel would:", "opts": ["Improve the wheel's accuracy", "Be the correct, recommended approach", "Disrupt the wheel's logical arrangement", "Have no effect on the wheel's usefulness"], "ans": 2, "explanation": "Incorrect placement breaks the logical sequence of colour relationships."},
+        {"q": "Dividing the circle into unequal segments makes the wheel:", "opts": ["Inconsistent and harder to read accurately", "Easier to read than an equal division", "Perfectly accurate regardless", "Unaffected in usability"], "ans": 0, "explanation": "Unequal segments distort the visual relationships between colours."},
+        {"q": "A colour wheel turns abstract colour theory into:", "opts": ["An instantly readable, visual reference", "Something with no practical use", "A more confusing, abstract concept", "An unrelated, irrelevant diagram"], "ans": 0, "explanation": "It translates theoretical colour relationships into a practical, easy-to-use visual tool."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Distinguish between a tint and a tone, explaining how each is created and giving an example of each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples."
+    },
+    {
+      "question": "State THREE good practices for mixing colours accurately and safely.",
+      "markingGuide": "1.5–2 marks per valid, clearly stated practice (5 total for three)."
+    },
+    {
+      "question": "Describe, in the correct order, the steps for producing a simple 6-segment colour wheel.",
+      "markingGuide": "1.67 marks per correctly ordered step (3 main steps, 5 total)."
+    },
+    {
+      "question": "Explain how a completed colour wheel helps an artist identify analogous and complementary colour combinations.",
+      "markingGuide": "2.5 marks each for a correct explanation of both combination types."
+    },
+    {
+      "question": "Explain, using the 'clock face' analogy or your own example, why a colour wheel is a genuinely useful practical tool for an artist, beyond being simply a decorative diagram.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

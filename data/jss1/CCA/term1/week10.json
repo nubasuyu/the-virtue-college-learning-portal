@@ -1,0 +1,141 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Bead Work: Definition, Materials and Production",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w10_su1",
+      "title": "10.1 Definition of Bead Work and Materials",
+      "notes": [
+        "Definition of Bead Work and Materials",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Bead Work:",
+        "   - A craft involving the ARRANGING and STRINGING together of small, decorative objects called BEADS, to create jewellery and decorative items.",
+        "   - Stringing them in careful, deliberate PATTERNS (by colour, shape, or size) is central to creating an attractive final piece.",
+        "",
+        "2. Materials Used in Bead Work:",
+        "   - Beads: glass, plastic, clay, or natural materials.",
+        "   - Rolled Paper: paper rolled tightly and dried to form lightweight, colourful bead shapes.",
+        "   - Natural/Recycled Materials: seeds, straw, small pieces of wood, and even reused bottle tops.",
+        "",
+        "Nigerian Context:",
+        "   - Bead work in Nigeria has deep historical roots. While modern glass beads are common, traditional artisans still use local seeds (like 'ayo' seeds), dried fruit pits, and recycled materials, proving that resourceful creativity is a genuine, valued part of the craft's tradition."
+      ],
+      "diagramDescriptions": ["Display of various bead materials: glass, rolled paper, seeds, and bottle tops"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts definition of bead work materials site:youtube.com",
+      "quiz": [
+        {"q": "What is bead work?", "opts": ["A type of pottery", "A type of fabric dyeing", "A craft involving arranging and stringing together small decorative beads", "A type of paper folding"], "ans": 2, "explanation": "Bead work is the craft of stringing small decorative objects together to create patterns and jewellery."},
+        {"q": "Beads can be made from:", "opts": ["only plastic", "many different materials, including glass, plastic, clay, and natural materials", "only expensive glass", "nothing at all"], "ans": 1, "explanation": "Beads are highly versatile and can be crafted from a wide variety of natural and synthetic materials."},
+        {"q": "Rolled paper beads are made by:", "opts": ["rolling paper tightly and drying it into bead shapes", "carving paper with a knife", "weaving paper into fabric", "melting paper into liquid"], "ans": 0, "explanation": "Tight rolling and drying transform flat paper into sturdy, cylindrical bead shapes."},
+        {"q": "Which of these is a natural material sometimes used as beads?", "opts": ["Only metal", "Seeds", "Only plastic", "Only glass"], "ans": 1, "explanation": "Hard, colourful seeds are a traditional, natural material used in bead work."},
+        {"q": "Bottle tops used in bead work are an example of using ___ materials.", "opts": ["only expensive imported", "only brand-new, purpose-made", "only natural, never man-made", "recycled"], "ans": 3, "explanation": "Reusing bottle tops is an excellent example of recycling in craft."},
+        {"q": "Stringing beads in careful, deliberate patterns by colour, shape, or size is ___ to creating an attractive final piece.", "opts": ["harmful", "unrelated", "irrelevant", "central"], "ans": 3, "explanation": "Deliberate patterning is the core artistic skill that elevates bead work from random stringing to true craft."},
+        {"q": "Bead work does not always require:", "opts": ["any pattern whatsoever", "expensive, purpose-made beads", "any beads at all", "any string or thread"], "ans": 1, "explanation": "Resourceful use of natural or recycled materials is a genuine, valued part of the tradition, negating the need for expensive beads."},
+        {"q": "Bead work is compared to:", "opts": ["a string of words building a meaningful sentence", "a single unchanging object", "an unrelated random activity", "a craft with no pattern or order"], "ans": 0, "explanation": "Just as words form a meaningful sentence, carefully chosen beads form a meaningful, cohesive piece of jewellery."},
+        {"q": "Using natural or recycled materials in bead work reflects:", "opts": ["a complete absence of skill", "a lesser, lower-quality version of the craft", "genuine resourcefulness and creativity", "an entirely modern invention with no tradition"], "ans": 2, "explanation": "Transforming everyday materials into beautiful art is a highly valued artistic skill in its own right."},
+        {"q": "Randomly stringing beads with no consideration of pattern is likely to result in:", "opts": ["automatic improvement of the design", "a less attractive final piece", "always the most attractive possible result", "no difference in the outcome"], "ans": 1, "explanation": "Without deliberate planning of colour and shape, the final piece will lack visual harmony and appeal."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w10_su2",
+      "title": "10.2 Production of Bead Jewellery",
+      "notes": [
+        "Production of Bead Jewellery",
+        "",
+        "Key Concepts:",
+        "1. Steps in Producing Bead Jewellery:",
+        "   - Collect and Sort: gather beads by colour, size, and shape.",
+        "   - Design: decide the order and arrangement of beads (sketching helps).",
+        "   - Select String: choose a thread, wire, or string strong enough to hold the beads' weight.",
+        "   - Thread: string the beads onto the string, following the planned pattern.",
+        "   - Secure: tie firm knots or attach clasps at both ends so beads cannot slip off.",
+        "   - Trim and Check: cut excess thread and ensure the piece is comfortable and secure to wear.",
+        "",
+        "2. Common Types of Bead Jewellery:",
+        "   - Necklaces: worn around the neck, requiring longer strings.",
+        "   - Bangles/Bracelets: worn on the wrist, requiring shorter, often elasticated strings.",
+        "   - Earrings: worn on the ears, requiring short, secure hooks or posts.",
+        "",
+        "Nigerian Context:",
+        "   - Bead work requires patience and a steady hand. In many Nigerian communities, the skill of intricate bead threading is passed down from elders to younger generations, often resulting in stunning traditional regalia and modern fashion accessories."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to producing a beaded necklace or bracelet"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts production of bead jewellery steps site:youtube.com",
+      "quiz": [
+        {"q": "The first step in producing bead jewellery is to:", "opts": ["collect and sort beads by colour, size, and shape", "trim excess thread", "immediately thread beads with no plan", "secure the ends of the string"], "ans": 0, "explanation": "Sorting ensures you have the right materials ready before you begin the design process."},
+        {"q": "Designing the intended pattern before threading helps to:", "opts": ["guarantee a worse final result", "have no effect on the outcome", "make threading unnecessary", "create a more thoughtful, attractive arrangement"], "ans": 3, "explanation": "Planning the pattern prevents mistakes and ensures a visually pleasing final product."},
+        {"q": "The string or thread chosen for bead jewellery must be:", "opts": ["made only of paper", "as weak as possible", "unrelated to the beads' weight", "strong enough to hold the beads' weight"], "ans": 3, "explanation": "A strong string prevents the jewellery from breaking and scattering the beads during wear."},
+        {"q": "Securing both ends of the string is important because:", "opts": ["it has no real purpose", "it is an optional, unnecessary step", "it makes the beads fall off more easily", "it prevents beads from slipping off"], "ans": 3, "explanation": "Firm knots or clasps are essential to keep the beads safely in place."},
+        {"q": "A necklace, bangle, and earrings are all examples of:", "opts": ["bead jewellery, each suited to a different body part", "items requiring no string at all", "identical items with no differences", "unrelated crafts, not bead work"], "ans": 0, "explanation": "These are all distinct types of bead jewellery, each requiring different lengths and fastening methods."},
+        {"q": "Bangles are typically worn on the:", "opts": ["wrist", "neck only", "ears only", "feet only"], "ans": 0, "explanation": "Bangles and bracelets are designed to be worn around the wrist."},
+        {"q": "Bead work requires ___ and a steady hand.", "opts": ["ignoring all planning", "patience", "no care whatsoever", "rushing through each step"], "ans": 1, "explanation": "Threading small beads accurately is a meticulous task that requires patience and focus."},
+        {"q": "The final step in bead jewellery production is to:", "opts": ["collect and sort beads", "trim excess thread and check comfort", "design the pattern", "select the string"], "ans": 1, "explanation": "Trimming and checking ensures the piece is neat, safe, and comfortable for the wearer."},
+        {"q": "Producing bead jewellery is compared to:", "opts": ["an unrelated random activity", "a task requiring no planning or care", "a single instant action with no steps", "composing a piece of music, one note at a time"], "ans": 3, "explanation": "Like music, each bead is a 'note' placed deliberately to create a harmonious, beautiful final 'melody'."},
+        {"q": "A string too weak for the chosen beads risks:", "opts": ["having no effect on durability", "improving the jewellery's durability", "never breaking under any circumstances", "breaking during wear"], "ans": 3, "explanation": "Weak string cannot support the weight and friction of the beads, leading to breakage."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w10_su3",
+      "title": "10.3 Care and Maintenance of Bead Work",
+      "notes": [
+        "Care and Maintenance of Bead Work",
+        "",
+        "Key Concepts:",
+        "1. Proper Storage:",
+        "   - Bead jewellery should be stored flat or hung individually to prevent tangling.",
+        "   - Keep them in a dry, cool place away from direct sunlight, which can fade the colours of plastic or dyed paper beads.",
+        "",
+        "2. Cleaning:",
+        "   - Glass or plastic beads can be gently wiped with a soft, slightly damp cloth.",
+        "   - Avoid soaking rolled paper beads or natural seed beads in water, as this will cause them to swell, soften, or lose their shape.",
+        "",
+        "3. Handling:",
+        "   - Put bead jewellery on after applying perfumes, lotions, or hairspray, as these chemicals can degrade the string or dull the beads' finish over time.",
+        "",
+        "Nigerian Context:",
+        "   - Traditional Nigerian bead regalia, such as coral bead necklaces, are highly valued family heirlooms. They are often stored in special cloth pouches and handled with great care to preserve their cultural and monetary value for future generations."
+      ],
+      "diagramDescriptions": ["Infographic showing proper storage, cleaning, and handling of bead work"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts care and maintenance of bead work site:youtube.com",
+      "quiz": [
+        {"q": "Bead jewellery should be stored ___ to prevent tangling.", "opts": ["in a tangled heap", "flat or hung individually", "in direct sunlight", "underwater"], "ans": 1, "explanation": "Storing beads flat or hung prevents the strings from knotting and damaging the beads."},
+        {"q": "Direct sunlight should be avoided when storing bead work because it can:", "opts": ["make the beads stronger", "fade the colours of plastic or dyed paper beads", "clean the beads automatically", "have no effect"], "ans": 1, "explanation": "UV rays from sunlight can cause colours to fade and some materials to become brittle over time."},
+        {"q": "Glass or plastic beads can be cleaned by:", "opts": ["soaking them in harsh chemicals", "gently wiping with a soft, slightly damp cloth", "scrubbing with a wire brush", "boiling them in water"], "ans": 1, "explanation": "A gentle, damp cloth removes dust and oils without damaging the bead surface or the string."},
+        {"q": "Rolled paper beads or natural seed beads should NOT be soaked in water because:", "opts": ["it cleans them too well", "it will cause them to swell, soften, or lose their shape", "it makes them shine brighter", "it has no effect on them"], "ans": 1, "explanation": "Water reverses the drying process of paper and can cause natural seeds to rot or warp."},
+        {"q": "Bead jewellery should be put on ___ applying perfumes or lotions.", "opts": ["before", "after", "during", "instead of"], "ans": 1, "explanation": "Chemicals in perfumes and lotions can degrade the string or dull the finish of the beads if applied beforehand."},
+        {"q": "Traditional Nigerian coral bead necklaces are often considered:", "opts": ["disposable items", "valuable family heirlooms", "modern plastic toys", "cooking utensils"], "ans": 1, "explanation": "Coral beads hold deep cultural significance and are often passed down as valuable heirlooms."},
+        {"q": "To preserve the cultural and monetary value of traditional bead regalia, they should be:", "opts": ["worn every single day without care", "stored in special cloth pouches and handled with care", "left out in the rain", "washed with strong soap"], "ans": 1, "explanation": "Careful storage and handling protect the beads from physical damage and environmental wear."},
+        {"q": "If a beaded necklace starts to feel loose, the best action is to:", "opts": ["ignore it until it breaks", "re-string it with new, strong thread", "pull on it to test its strength", "cut the beads off"], "ans": 1, "explanation": "Proactively re-stringing prevents the necklace from breaking and scattering the beads."},
+        {"q": "Hanging bead jewellery on a dedicated jewellery stand helps to:", "opts": ["tangle the necklaces", "keep them organised and prevent tangling", "expose them to dust", "fade their colours"], "ans": 1, "explanation": "A jewellery stand keeps each piece separate, organised, and tangle-free."},
+        {"q": "Proper care of bead work ensures that:", "opts": ["it lasts longer and maintains its beauty", "it becomes heavier", "it loses its colour faster", "it becomes brittle"], "ans": 0, "explanation": "Consistent, gentle care extends the lifespan and preserves the aesthetic appeal of the craft."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of bead work.",
+      "markingGuide": "Clear, accurate definition (5, holistic)."
+    },
+    {
+      "question": "List FIVE materials that can be used to make beads for bead work.",
+      "markingGuide": "1 mark per correctly named, valid material (5 total)."
+    },
+    {
+      "question": "Describe, in the correct order, the six steps for producing bead jewellery.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain why designing a pattern before threading, and securing both ends of the string, are both important steps in bead jewellery production.",
+      "markingGuide": "2.5 marks each for a correct, clear explanation of both principles."
+    },
+    {
+      "question": "Explain, using the 'music composition' analogy or your own example, why patience and careful planning matter in producing beautiful bead jewellery.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

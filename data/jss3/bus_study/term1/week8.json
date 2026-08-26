@@ -1,0 +1,143 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Distribution: Meaning, Channels, and Chemical Handling",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w8_su1",
+      "title": "8.1 Meaning and Channels of Distribution",
+      "notes": [
+        "Meaning and Channels of Distribution",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Distribution:",
+        "   - The process of moving goods from the PRODUCER (who makes them) to the FINAL CONSUMER (who uses them), often passing through several INTERMEDIARIES along the way.",
+        "",
+        "2. The Typical Channel of Distribution:",
+        "   - PRODUCER → WHOLESALER → RETAILER → CONSUMER.",
+        "   - Producer: Makes the goods.",
+        "   - Wholesaler: Buys in bulk from the producer and sells smaller quantities to retailers.",
+        "   - Retailer: Sells small quantities directly to the final consumer.",
+        "   - Consumer: The person who finally uses the goods.",
+        "",
+        "3. Shorter Channels:",
+        "   - Producer → Retailer (skipping the wholesaler).",
+        "   - Producer → Consumer (Direct distribution, e.g., a farmer selling at a local market).",
+        "",
+        "Nigerian Context:",
+        "   - A bottle of Coke produced by the Nigerian Bottling Company (Producer) is sold in bulk to a major distributor in Onitsha (Wholesaler), who sells to a corner shop in your neighborhood (Retailer), who finally sells it to you (Consumer)."
+      ],
+      "diagramDescriptions": ["Flowchart showing the typical channel of distribution: Producer → Wholesaler → Retailer → Consumer"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies meaning and channels of distribution site:youtube.com",
+      "quiz": [
+        {"q": "What is distribution?", "opts": ["Only the advertising of goods", "Only the storage of goods", "Only the production of goods", "The process of moving goods from producer to final consumer"], "ans": 3, "explanation": "Distribution is the entire process of getting goods from the point of production to the point of consumption."},
+        {"q": "What is the typical channel of distribution?", "opts": ["Consumer → Retailer → Wholesaler → Producer", "None of these", "Producer → Wholesaler → Retailer → Consumer", "Retailer → Producer → Consumer → Wholesaler"], "ans": 2, "explanation": "The standard channel flows from the creator of the good down to the end user."},
+        {"q": "Who makes the goods in a distribution channel?", "opts": ["The producer", "The retailer", "The wholesaler only", "The consumer"], "ans": 0, "explanation": "The producer is the origin point of the goods in the distribution chain."},
+        {"q": "Who buys in bulk from the producer and sells smaller quantities to retailers?", "opts": ["The wholesaler", "None of these", "The producer", "The consumer"], "ans": 0, "explanation": "The wholesaler's main function is to break bulk and supply retailers."},
+        {"q": "Who sells small quantities directly to the final consumer?", "opts": ["The wholesaler only", "The producer only", "None of these", "The retailer"], "ans": 3, "explanation": "The retailer is the final business link that sells directly to the end user."},
+        {"q": "A farmer selling vegetables directly to shoppers, with no intermediaries, is using a ___ channel.", "opts": ["Direct", "Four-stage", "Wholesale-only", "Indirect only"], "ans": 0, "explanation": "When the producer sells straight to the consumer, it is called direct distribution."},
+        {"q": "A distribution channel is compared to:", "opts": ["A race with no finish line", "A single unmoving object", "An unrelated series of events", "A relay race carrying a baton to the finish line"], "ans": 3, "explanation": "Like a relay race, each intermediary passes the product closer to the final destination (the consumer)."},
+        {"q": "Goods in a distribution channel always flow:", "opts": ["From producer toward consumer", "Nowhere at all", "Randomly in any direction", "From consumer toward producer"], "ans": 0, "explanation": "The flow of physical goods is always from the point of creation to the point of use."},
+        {"q": "A shorter distribution channel might skip which intermediary?", "opts": ["The consumer always", "The wholesaler", "None can ever be skipped", "The producer always"], "ans": 1, "explanation": "Producers often sell directly to retailers, skipping the wholesaler to save costs or maintain control."},
+        {"q": "The final person who uses the goods in a distribution channel is the:", "opts": ["Retailer only", "Consumer", "Wholesaler", "Producer"], "ans": 1, "explanation": "The consumer is the end point of the distribution channel."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w8_su2",
+      "title": "8.2 Handling of Chemicals in the Distribution Process",
+      "notes": [
+        "Handling of Chemicals in the Distribution Process",
+        "",
+        "Key Concepts:",
+        "1. Why Chemicals Require Special Care:",
+        "   - Chemicals (such as pesticides, industrial cleaning agents, and certain medicines) can be DANGEROUS if handled carelessly.",
+        "   - Risks include poisoning, fires, environmental damage, or health problems if they leak or are stored wrongly.",
+        "",
+        "2. Proper Chemical Handling Includes:",
+        "   - Correct Labelling: Clearly stating contents and hazard warnings.",
+        "   - Safe Storage: Keeping them away from food, heat, or incompatible substances.",
+        "   - Careful Transport: Using appropriate, sealed containers and specialized vehicles.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, improper storage of chemicals in markets (e.g., keeping pesticides next to food items) is a major public health risk. Proper handling is a legal and moral obligation for all distributors."
+      ],
+      "diagramDescriptions": ["Icons showing correct labelling, safe storage, and careful transport of chemicals"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies handling of chemicals in distribution process site:youtube.com",
+      "quiz": [
+        {"q": "Why do chemicals require special care in distribution?", "opts": ["They require no special handling at all", "They are always completely harmless", "They can be dangerous if handled carelessly", "They are the same as any other goods"], "ans": 2, "explanation": "Chemicals pose specific risks like toxicity, flammability, or environmental harm if mishandled."},
+        {"q": "Correct labelling of chemicals means:", "opts": ["Leaving containers unmarked", "Hiding hazard information", "Clearly stating contents and hazards", "Using random labels"], "ans": 2, "explanation": "Proper labelling ensures that anyone handling the chemical knows what it is and how to handle it safely."},
+        {"q": "Safe storage of chemicals means keeping them:", "opts": ["In direct sunlight always", "Next to food items always", "Unlabelled in a random place", "Away from food, heat, or incompatible substances"], "ans": 3, "explanation": "Chemicals must be isolated from potential contaminants or ignition sources to prevent accidents."},
+        {"q": "Careless chemical handling can cause:", "opts": ["No harm whatsoever", "Better product quality", "Increased safety always", "Poisoning, fire, or environmental damage"], "ans": 3, "explanation": "Improper handling of chemicals is a leading cause of industrial accidents and environmental pollution."},
+        {"q": "A shop storing pesticides next to food items is showing:", "opts": ["Excellent safety practice", "Correct labelling", "Unsafe chemical handling", "Proper licensing"], "ans": 2, "explanation": "Storing toxic chemicals near food is a severe safety violation that risks contamination and poisoning."},
+        {"q": "Careful transport of chemicals requires:", "opts": ["Any random container", "Open, unsealed containers", "Appropriate containers and vehicles", "No special consideration"], "ans": 2, "explanation": "Chemicals must be transported in specialized, sealed containers to prevent leaks during transit."},
+        {"q": "Chemical distribution is compared to:", "opts": ["Carrying a lit candle carefully through a crowded room", "An activity requiring no caution", "Throwing goods carelessly", "A completely risk-free task"], "ans": 0, "explanation": "Like a lit candle, chemicals are useful but require constant, careful handling to prevent harm."},
+        {"q": "Which of the following is NOT a proper chemical handling practice?", "opts": ["Using appropriate containers", "Clear hazard warnings", "Storing with food for convenience", "Ventilated storage areas"], "ans": 2, "explanation": "Storing chemicals with food is a dangerous practice that can lead to severe health consequences."},
+        {"q": "The primary goal of proper chemical handling in distribution is to:", "opts": ["Increase the price of the chemical", "Protect human health and the environment", "Make the distribution process slower", "Avoid using labels"], "ans": 1, "explanation": "Safety protocols are designed to prevent harm to people and the ecosystem."},
+        {"q": "If a chemical container is damaged during transport, the distributor should:", "opts": ["Ignore it and continue", "Follow emergency spill protocols and report it", "Sell it at a discount", "Hide the damage"], "ans": 1, "explanation": "Damaged chemical containers require immediate, professional attention to prevent hazardous spills."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w8_su3",
+      "title": "8.3 Licensed Chemical Distributors/Vendors",
+      "notes": [
+        "Licensed Chemical Distributors/Vendors",
+        "",
+        "Key Concepts:",
+        "1. The Need for Licensing:",
+        "   - To protect the public, Nigeria requires that chemicals be distributed only through LICENSED CHEMICAL DISTRIBUTORS or VENDORS.",
+        "   - These are businesses officially APPROVED and REGULATED by government agencies to handle chemicals responsibly.",
+        "",
+        "2. Regulatory Agencies:",
+        "   - NAFDAC (National Agency for Food and Drug Administration and Control): Regulates food, drugs, cosmetics, and certain chemicals.",
+        "   - SON (Standards Organisation of Nigeria): Ensures industrial chemicals meet safety standards.",
+        "",
+        "3. Risks of Unlicensed Sources:",
+        "   - Buying chemicals from unlicensed sources is risky, as there is no guarantee the chemicals are genuine, safely handled, or appropriate for their intended use.",
+        "   - Unlicensed vendors often sell expired, adulterated, or banned substances.",
+        "",
+        "Nigerian Context:",
+        "   - NAFDAC frequently raids markets to seize and destroy fake or improperly stored chemicals and drugs sold by unlicensed vendors, protecting citizens from health hazards."
+      ],
+      "diagramDescriptions": ["Logos of NAFDAC and SON, and a 'Licensed Vendor' certificate example"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies licensed chemical distributors vendors NAFDAC site:youtube.com",
+      "quiz": [
+        {"q": "Chemicals should only be distributed through:", "opts": ["Random street vendors", "Licensed chemical distributors/vendors", "No regulation at all", "Any unlicensed shop"], "ans": 1, "explanation": "Licensing ensures that the distributor has the knowledge and facilities to handle chemicals safely."},
+        {"q": "Which Nigerian agency primarily regulates chemical and drug distribution?", "opts": ["CBN", "NAFDAC", "UBA", "NAICOM"], "ans": 1, "explanation": "NAFDAC is the primary regulatory body for food, drugs, and related chemical products in Nigeria."},
+        {"q": "Buying chemicals from unlicensed sources is risky because:", "opts": ["Unlicensed sources are always reliable", "Licensing has no real purpose", "They are always cheaper and safer", "There is no guarantee they are genuine or safely handled"], "ans": 3, "explanation": "Unlicensed vendors operate outside the law, meaning their products may be fake, expired, or dangerously stored."},
+        {"q": "A licensed chemical vendor is expected to:", "opts": ["Hide expiration dates", "Store chemicals next to food", "Follow safety and storage regulations", "Sell banned substances"], "ans": 2, "explanation": "Licensed vendors are legally bound to adhere to strict safety, storage, and labeling regulations."},
+        {"q": "The Standards Organisation of Nigeria (SON) is responsible for:", "opts": ["Regulating bank interest rates", "Ensuring industrial chemicals and products meet safety standards", "Collecting taxes", "Managing the stock exchange"], "ans": 1, "explanation": "SON sets and enforces standards for industrial products, including industrial chemicals."},
+        {"q": "What is a common consequence of buying chemicals from unlicensed vendors?", "opts": ["Guaranteed high quality", "Health hazards from adulterated or expired products", "Better customer service", "Lower environmental impact"], "ans": 1, "explanation": "Unlicensed vendors often deal in substandard or expired chemicals that pose severe health risks."},
+        {"q": "NAFDAC's frequent market raids are primarily aimed at:", "opts": ["Increasing market rents", "Seizing and destroying fake or improperly stored chemicals", "Promoting foreign products", "Closing all markets"], "ans": 1, "explanation": "These raids are enforcement actions to protect the public from dangerous, unregulated products."},
+        {"q": "A 'licensed' vendor is one who has:", "opts": ["The largest shop in the market", "Official approval from a regulatory agency", "The cheapest prices", "No formal training"], "ans": 1, "explanation": "Licensing is a formal process where a government agency verifies that a business meets safety and operational standards."},
+        {"q": "Why is it important for a distributor to keep records of chemical sales?", "opts": ["To waste paper", "To trace the source of a chemical in case of an accident or recall", "To avoid paying employees", "To confuse customers"], "ans": 1, "explanation": "Record-keeping is a regulatory requirement that allows for traceability and accountability in case of incidents."},
+        {"q": "The ultimate goal of regulating chemical distribution is to:", "opts": ["Make chemicals expensive", "Protect public health, safety, and the environment", "Stop all chemical production", "Favor large companies only"], "ans": 1, "explanation": "Regulation exists to balance the economic benefits of chemicals with the imperative to protect people and the planet."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define distribution, and describe the typical channel of distribution from producer to consumer.",
+      "markingGuide": "Correct definition (2 marks); correct channel described in order (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "Explain, with an example, what is meant by a 'direct' distribution channel.",
+      "markingGuide": "Clear explanation (3 marks); valid example (2 marks). Total: 5 marks."
+    },
+    {
+      "question": "State THREE ways chemicals should be properly handled during distribution.",
+      "markingGuide": "1.5–2 marks per correctly stated method. Total: 5 marks."
+    },
+    {
+      "question": "Explain why chemicals must be distributed only through licensed distributors, and name the Nigerian agency responsible for regulating this.",
+      "markingGuide": "Clear explanation of the risks of unlicensed distribution (3 marks); correct naming of NAFDAC (2 marks). Total: 5 marks."
+    },
+    {
+      "question": "A furniture maker sells directly to customers at his workshop, while a soap manufacturer sells through wholesalers and retailers before reaching customers. Compare these two distribution approaches, explaining one advantage of each.",
+      "markingGuide": "Correct identification of direct vs multi-stage channels (2 marks); valid advantage explained for each (3 marks). Total: 5 marks."
+    }
+  ]
+}

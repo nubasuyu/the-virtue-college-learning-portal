@@ -1,0 +1,133 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Crafts: Meaning and Types",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w3_su1",
+      "title": "3.1 Meaning and Characteristics of Crafts",
+      "notes": [
+        "Meaning and Characteristics of Crafts",
+        "",
+        "Key Concepts:",
+        "1. Meaning of a Craft:",
+        "   - A CRAFT is a SKILLED activity of making objects, usually by HAND, that are both USEFUL and BEAUTIFUL.",
+        "   - It combines practical function with artistic decoration.",
+        "",
+        "2. Characteristics of Crafts:",
+        "   - Hands-on: Requires physical manipulation of materials.",
+        "   - Learned Skill: Craft skills are often passed down through FAMILIES or communities across generations.",
+        "   - Functional Beauty: Unlike a painting meant only for viewing, crafts produce objects people actually USE in daily life.",
+        "",
+        "Nigerian Context:",
+        "   - Nigeria has an especially rich craft tradition, with distinct regional specialities (like Calabar pottery or Kano leatherwork) developed and perfected over centuries, many of which are still practised today."
+      ],
+      "diagramDescriptions": ["Diagram showing the intersection of 'Useful' and 'Beautiful' defining a craft"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning and characteristics of crafts site:youtube.com",
+      "quiz": [
+        {"q": "What is a craft?", "opts": ["A purely decorative activity with no practical use", "A type of music", "A skilled activity of making objects, usually by hand, that are both useful and beautiful", "An activity requiring no skill at all"], "ans": 2, "explanation": "A craft is defined by the combination of skill, hand-making, utility, and beauty."},
+        {"q": "Crafts are especially known for being:", "opts": ["Hands-on, producing objects people actually use", "A type of non-visual art", "Purely decorative, with no practical function", "Unrelated to skill"], "ans": 0, "explanation": "The defining feature of craft is its blend of practical utility and artistic creation."},
+        {"q": "Craft skills are often passed down through:", "opts": ["Formal universities only", "No one, disappearing after one generation", "Families or communities across generations", "Random strangers only"], "ans": 2, "explanation": "Craft traditions are typically preserved through generational teaching within families or communities."},
+        {"q": "A skilled craftsperson develops their ability through:", "opts": ["Years of practice", "Pure luck", "No effort at all", "A single afternoon"], "ans": 0, "explanation": "Mastery of any craft requires dedicated, long-term practice and learning."},
+        {"q": "A hand-woven basket used for carrying goods is an example of:", "opts": ["A craft, being both useful and beautiful", "Something unrelated to art", "Non-visual art", "Purely decorative art with no use"], "ans": 0, "explanation": "The basket serves a practical purpose (carrying) while also showcasing skilled, beautiful handiwork."},
+        {"q": "Nigeria has an especially rich craft tradition with:", "opts": ["No regional differences at all", "No connection to skill", "Distinct regional specialities developed over centuries", "No historical depth"], "ans": 2, "explanation": "Different regions in Nigeria are famous for specific crafts, reflecting centuries of cultural development."},
+        {"q": "Craft is compared to:", "opts": ["A skill learned in a single day", "An unrelated random activity", "A recipe with no history", "A recipe passed down through generations of a family"], "ans": 3, "explanation": "Like a family recipe, craft involves passing down specific techniques and traditions over time."},
+        {"q": "A master craftsperson teaching an apprentice passes down:", "opts": ["Nothing of value", "Only random, disconnected information", "Both skill and a living tradition", "A skill with no cultural connection"], "ans": 2, "explanation": "Apprenticeship in craft transmits both the technical skill and the cultural heritage of the craft."},
+        {"q": "All crafts are a form of:", "opts": ["Unrelated activity", "Non-visual art only", "Visual art", "Pure chance"], "ans": 2, "explanation": "Since crafts are seen and touched, they fall under the broader category of visual art."},
+        {"q": "The key distinguishing feature of a craft, beyond being visual art, is that it is:", "opts": ["Hands-on and often produces useful objects", "Purely theoretical with no hands-on element", "Never useful in daily life", "Unrelated to skill or practice"], "ans": 0, "explanation": "Utility and hands-on creation are what separate crafts from purely decorative visual arts like painting."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w3_su2",
+      "title": "3.2 Types of Crafts: Fabric and Carving Crafts",
+      "notes": [
+        "Types of Crafts: Fabric and Carving Crafts",
+        "",
+        "Key Concepts:",
+        "1. Fabric Crafts:",
+        "   - Involve creating or decorating CLOTH.",
+        "   - Examples: TIE AND DYE (patterns created by tying or folding fabric before dyeing) and WOVEN CLOTH (fabric created by interlacing threads on a loom, like Aso-Oke or Akwete cloth).",
+        "",
+        "2. Carving Crafts:",
+        "   - Involve shaping HARD materials by cutting or chipping away unwanted parts.",
+        "   - Examples: WOOD CARVING (creating statues, masks, or utensils from wood) and CALABASH DESIGN (decorating dried gourds with carved or burned patterns).",
+        "",
+        "Nigerian Context:",
+        "   - Fabric crafts like Yoruba Adire and Hausa woven cloth, and carving crafts like the intricate wooden masks of the South-South, are globally recognized symbols of Nigerian artistic heritage."
+      ],
+      "diagramDescriptions": ["Images or descriptions of Tie and Dye, Aso-Oke, Wood Carving, and Calabash Design"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts fabric and carving crafts examples site:youtube.com",
+      "quiz": [
+        {"q": "Fabric crafts involve creating or decorating:", "opts": ["Metal only", "Cloth", "Stone only", "Wood only"], "ans": 1, "explanation": "Fabric crafts are specifically focused on the manipulation and decoration of cloth."},
+        {"q": "Tie and dye is an example of a:", "opts": ["Fabric craft", "Non-visual art", "Weaving craft only", "Carving craft"], "ans": 0, "explanation": "Tie and dye is a technique used to decorate fabric, making it a fabric craft."},
+        {"q": "Aso-Oke and Akwete are examples of:", "opts": ["Non-visual art", "Woven cloth", "Painted images", "Carved wood"], "ans": 1, "explanation": "Aso-Oke and Akwete are traditional Nigerian woven fabrics."},
+        {"q": "Carving crafts involve:", "opts": ["Only creating music", "Applying paint to a surface", "Shaping hard materials by cutting or chipping away parts", "Interlacing flexible threads"], "ans": 2, "explanation": "Carving is a subtractive process where material is removed to reveal a shape."},
+        {"q": "A calabash decorated with carved patterns is an example of:", "opts": ["A carving craft", "Non-visual art", "A fabric craft", "A weaving craft"], "ans": 0, "explanation": "Decorating a hard calabash by cutting or burning patterns into it is a carving craft."},
+        {"q": "Which of the following is a key difference between fabric and carving crafts?", "opts": ["Fabric crafts use hard materials, carving uses soft", "Fabric crafts involve cloth, carving involves shaping hard materials", "There is no difference", "Carving crafts are only for clothing"], "ans": 1, "explanation": "Fabric crafts work with flexible cloth, while carving crafts work with hard materials like wood or calabash."},
+        {"q": "Creating patterns by tying fabric before dyeing it is the definition of:", "opts": ["Weaving", "Tie and dye", "Wood carving", "Paper craft"], "ans": 1, "explanation": "This is the specific resist-dyeing technique known as tie and dye."},
+        {"q": "A wooden mask used in a traditional festival is a product of:", "opts": ["Fabric craft", "Painting", "Carving craft", "Weaving craft"], "ans": 2, "explanation": "Wooden masks are shaped by cutting and chipping wood, which is a carving craft."},
+        {"q": "The technique of interlacing threads on a loom to create fabric is called:", "opts": ["Tie and dye", "Weaving", "Carving", "Painting"], "ans": 1, "explanation": "Weaving is the specific process of interlacing threads to make cloth."},
+        {"q": "Fabric and carving crafts are like different chefs cooking with different:", "opts": ["Unrelated, meaningless activities", "A single unchanging technique", "Ingredients (cloth and dye vs. wood and calabash)", "Random, skill-less actions"], "ans": 2, "explanation": "Each craft type uses entirely different raw materials and techniques to achieve its result."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w3_su3",
+      "title": "3.3 Types of Crafts: Weaving Crafts and Paper Crafts",
+      "notes": [
+        "Types of Crafts: Weaving Crafts and Paper Crafts",
+        "",
+        "Key Concepts:",
+        "1. Weaving Crafts:",
+        "   - Involve interlacing flexible materials to create objects.",
+        "   - Examples: BASKETRY (weaving baskets from grass, cane, or raffia), FAN WEAVING (creating hand fans from woven straw or palm fronds), and PAPER WEAVING (interlacing strips of paper into patterns).",
+        "",
+        "2. Paper Crafts:",
+        "   - Involve creating objects from PAPER using techniques like folding, cutting, and gluing.",
+        "   - Examples: KITE making (constructing flyable paper structures) and PAPER MACHÉ (moulding wet paper pulp into three-dimensional objects once dry).",
+        "",
+        "Nigerian Context:",
+        "   - Basketry is a highly developed weaving craft in Nigeria, with communities like the Tiv people renowned for their intricate and durable woven baskets and mats."
+      ],
+      "diagramDescriptions": ["Examples of Basketry, Fan Weaving, Kite Making, and Paper Mâché"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts weaving and paper crafts examples site:youtube.com",
+      "quiz": [
+        {"q": "Weaving crafts involve:", "opts": ["Cutting away hard materials", "Interlacing flexible materials to create objects", "Applying colour to a canvas", "Composing music"], "ans": 1, "explanation": "Weaving is defined by the interlacing of flexible strands to form a cohesive object."},
+        {"q": "Basketry is an example of:", "opts": ["A fabric craft only", "A carving craft", "A painting technique", "A weaving craft"], "ans": 3, "explanation": "Basketry involves weaving flexible materials like grass or cane, making it a weaving craft."},
+        {"q": "Fan weaving typically uses materials such as:", "opts": ["Woven straw or palm fronds", "Only fabric dye", "Only metal", "Only wood"], "ans": 0, "explanation": "Traditional hand fans are often woven from flexible natural materials like straw or palm fronds."},
+        {"q": "Paper crafts involve creating objects from paper using techniques like:", "opts": ["Carving with a knife", "Folding, cutting, and gluing", "Weaving on a loom", "Dyeing with chemicals"], "ans": 1, "explanation": "Paper crafts rely on manipulating paper through folding, cutting, and adhesive techniques."},
+        {"q": "Kite making is an example of a:", "opts": ["Fabric craft", "Carving craft", "Paper craft", "Weaving craft"], "ans": 2, "explanation": "Traditional kites are constructed primarily from paper, making it a paper craft."},
+        {"q": "Paper mâché involves:", "opts": ["Weaving dry paper strips", "Moulding wet paper pulp into a three-dimensional object", "Carving paper with a knife", "Dyeing fabric with paper"], "ans": 1, "explanation": "Paper mâché uses wet paper pulp mixed with paste, which hardens into a solid shape when dry."},
+        {"q": "Which of these is a weaving craft?", "opts": ["Wood carving", "Paper weaving", "Tie and dye", "Pottery"], "ans": 1, "explanation": "Paper weaving involves interlacing strips of paper, fitting the definition of a weaving craft."},
+        {"q": "A major difference between weaving and carving is that weaving is:", "opts": ["A subtractive process", "An additive/interlacing process using flexible materials", "Only done with wood", "Impossible to learn"], "ans": 1, "explanation": "Weaving builds up an object by interlacing, whereas carving removes material from a solid block."},
+        {"q": "The Tiv people of Nigeria are particularly renowned for their skills in:", "opts": ["Bronze casting", "Basketry and weaving crafts", "Digital graphics", "Oil painting"], "ans": 1, "explanation": "The Tiv are famous for their intricate and durable woven baskets and mats."},
+        {"q": "Paper mâché is unique among paper crafts because it:", "opts": ["Remains flat and two-dimensional", "Uses wet pulp to create solid, three-dimensional objects", "Requires a loom", "Is only used for writing"], "ans": 1, "explanation": "Unlike folding or cutting, paper mâché transforms paper into a mouldable, 3D material."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of a craft, and how it differs from purely decorative art.",
+      "markingGuide": "Clear definition (2.5 marks); clear distinction from purely decorative art (2.5 marks)."
+    },
+    {
+      "question": "Name and describe the THREE major types of crafts studied this week.",
+      "markingGuide": "1.5–2 marks per correctly named and described type (5 marks total for three)."
+    },
+    {
+      "question": "Give TWO examples each of fabric crafts, carving crafts, and weaving crafts.",
+      "markingGuide": "0.8 marks per correctly named example (6 total examples, 5 marks allowing rounding)."
+    },
+    {
+      "question": "Classify the following into their correct craft type, with a reason for each: a woven fan, a tie-dyed cloth, a carved calabash.",
+      "markingGuide": "1.5 marks per correctly classified item with valid reasoning (rounded to 5 marks total)."
+    },
+    {
+      "question": "Explain, using the 'three chefs' analogy or your own example, why fabric, carving, and weaving crafts require genuinely different skills and techniques, despite all being crafts.",
+      "markingGuide": "Clear explanation with a valid supporting example (5 marks, holistic)."
+    }
+  ]
+}

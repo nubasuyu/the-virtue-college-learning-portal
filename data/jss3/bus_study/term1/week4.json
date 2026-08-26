@@ -1,0 +1,144 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Aids to Trade: Warehouse and Tourism",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w4_su1",
+      "title": "4.1 Warehouse: Definition, Types, and Customs/Excise Duty",
+      "notes": [
+        "Warehouse: Definition, Types, and Customs/Excise Duty",
+        "",
+        "Key Concepts:",
+        "1. Definition of a Warehouse:",
+        "   - A large building used for storing goods safely, either before they are sold or before they are needed for use.",
+        "",
+        "2. Types of Warehouses:",
+        "   - Private Warehouse: Owned and used by one company for its own goods.",
+        "   - Public Warehouse: Rented out to any business needing storage space.",
+        "   - Bonded Warehouse: Special government-supervised warehouse where imported goods are stored until import duties are paid.",
+        "",
+        "3. Customs and Excise Duty:",
+        "   - Customs Duty: A tax charged by the government on IMPORTED goods.",
+        "   - Excise Duty: A tax charged on certain LOCALLY produced goods (like alcohol or tobacco).",
+        "",
+        "Nigerian Context:",
+        "   - The Nigeria Customs Service uses bonded warehouses at ports like Apapa to hold imported cars or electronics until the importer pays the required customs duties, ensuring the government collects its revenue."
+      ],
+      "diagramDescriptions": ["Chart showing types of warehouses and the flow of customs duty"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies warehouse definition types customs excise duty site:youtube.com",
+      "quiz": [
+        {"q": "What is a warehouse?", "opts": ["A means of transport", "A large building used for storing goods safely", "A place to sell goods directly", "A type of bank"], "ans": 1, "explanation": "A warehouse is a facility dedicated to the safe storage of goods."},
+        {"q": "A warehouse owned and used by one company for its own goods is called a:", "opts": ["public warehouse", "bonded warehouse", "none of these", "private warehouse"], "ans": 3, "explanation": "Private warehouses are exclusively for the owner's own goods."},
+        {"q": "A warehouse rented out to any business needing storage space is called a:", "opts": ["public warehouse", "bonded warehouse", "private warehouse", "none of these"], "ans": 0, "explanation": "Public warehouses offer storage space to any business for a fee."},
+        {"q": "A government-supervised warehouse where imported goods are held until duty is paid is called a:", "opts": ["bonded warehouse", "public warehouse", "private warehouse", "none of these"], "ans": 0, "explanation": "Bonded warehouses are secured facilities for holding imported goods pending duty payment."},
+        {"q": "Customs duty is a tax on:", "opts": ["nothing at all", "exported goods only", "imported goods", "locally produced alcohol only"], "ans": 2, "explanation": "Customs duty is specifically levied on goods brought into the country from abroad."},
+        {"q": "Excise duty is a tax on:", "opts": ["nothing at all", "imported goods only", "exported goods only", "certain locally produced goods, like alcohol or tobacco"], "ans": 3, "explanation": "Excise duty targets specific goods manufactured within the country."},
+        {"q": "Warehousing helps businesses by:", "opts": ["bridging the timing gap between production and need", "making goods disappear", "increasing prices without reason", "preventing all goods from being stored"], "ans": 0, "explanation": "Warehouses allow goods to be stored until market demand arises, bridging the time gap."},
+        {"q": "A warehouse is compared to a ___ holding back a river's water.", "opts": ["reservoir", "boat", "bridge", "pipeline"], "ans": 0, "explanation": "Like a reservoir, a warehouse holds surplus goods and releases them steadily when needed."},
+        {"q": "Buying or producing in bulk and storing the surplus requires:", "opts": ["immediate sale of everything", "a warehouse", "no storage at all", "destruction of excess goods"], "ans": 1, "explanation": "Warehouses are essential for managing bulk production and surplus inventory."},
+        {"q": "Imported electronics held until import tax is paid would be stored in a:", "opts": ["bonded warehouse", "private warehouse", "public warehouse", "none of these"], "ans": 0, "explanation": "Bonded warehouses are specifically designed for holding imported goods pending duty payment."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w4_su2",
+      "title": "4.2 Tourism: Definition, Centres in Nigeria, and Importance",
+      "notes": [
+        "Tourism: Definition, Centres in Nigeria, and Importance",
+        "",
+        "Key Concepts:",
+        "1. Definition of Tourism:",
+        "   - The activity of travelling to and staying in places away from one's usual home, for leisure, business, or cultural interest.",
+        "",
+        "2. Notable Tourism Centres in Nigeria:",
+        "   - Olumo Rock: Abeokuta, Ogun State (historic rock formation).",
+        "   - Yankari National Park: Bauchi State (wildlife and warm springs).",
+        "   - Obudu Cattle Ranch: Cross River State (cool highland scenery).",
+        "   - National Museum: Lagos (Nigerian history and artefacts).",
+        "   - Zuma Rock: Niger State, near Abuja (dramatic natural monolith).",
+        "",
+        "3. Importance of Tourism to Trade:",
+        "   - Generates income and foreign exchange (when foreign tourists visit and spend money).",
+        "   - Creates jobs (in hospitality, transport, and crafts).",
+        "   - Promotes cultural exchange and the sale of local goods (souvenirs, crafts, food).",
+        "",
+        "Nigerian Context:",
+        "   - Tourism is a growing sector in Nigeria. When a tourist visits Yankari National Park, they spend money on local hotels, restaurants, and guides, directly boosting the local economy."
+      ],
+      "diagramDescriptions": ["Map of Nigeria highlighting major tourism centres"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies tourism definition centres in Nigeria importance site:youtube.com",
+      "quiz": [
+        {"q": "What is tourism?", "opts": ["Only working in an office", "Travelling to and staying in places away from one's usual home, for leisure, business, or cultural interest", "Only farming activities", "Only staying at home"], "ans": 1, "explanation": "Tourism involves travelling away from home for various purposes, primarily leisure or culture."},
+        {"q": "Which of these is a tourism centre in Nigeria?", "opts": ["CBN Headquarters only", "Yankari National Park", "A random empty field", "None of these"], "ans": 1, "explanation": "Yankari National Park in Bauchi State is a major Nigerian tourist destination."},
+        {"q": "Olumo Rock is located in which state?", "opts": ["Ogun State", "Bauchi State", "Lagos State", "Cross River State"], "ans": 0, "explanation": "Olumo Rock is a historic tourist site located in Abeokuta, Ogun State."},
+        {"q": "Obudu Cattle Ranch is known for:", "opts": ["underwater caves", "cool highland scenery", "ice mountains", "desert landscapes"], "ans": 1, "explanation": "Obudu Cattle Ranch is famous for its cool, mountainous highland scenery in Cross River State."},
+        {"q": "Tourism generates income and ___ when foreign tourists visit and spend money.", "opts": ["nothing of value", "only losses", "only debt", "foreign exchange"], "ans": 3, "explanation": "Foreign tourists bring in foreign currency, which is vital for a country's foreign exchange reserves."},
+        {"q": "Tourism creates jobs in sectors such as:", "opts": ["only mining", "hospitality, transport, and crafts", "no sectors at all", "only farming"], "ans": 1, "explanation": "Tourism directly supports hotels, restaurants, transport services, and local artisans."},
+        {"q": "Tourism is considered a ___ aid to trade.", "opts": ["manufacturing", "agricultural", "service", "physical goods"], "ans": 2, "explanation": "Tourism is a service industry that supports trade by bringing in visitors and their spending."},
+        {"q": "A tourist buying local crafts and eating at local restaurants:", "opts": ["directly benefits local trade and businesses", "only benefits foreign businesses", "harms local businesses", "has no effect on local trade"], "ans": 0, "explanation": "Tourist spending injects money directly into the local economy."},
+        {"q": "Zuma Rock is located near which city?", "opts": ["Lagos", "Abuja", "Port Harcourt", "Kano"], "ans": 1, "explanation": "Zuma Rock is a prominent landmark located in Niger State, near the FCT, Abuja."},
+        {"q": "Tourism is compared to a ___ that draws money into a location.", "opts": ["drain", "barrier", "obstacle", "magnet"], "ans": 3, "explanation": "Like a magnet, a tourist attraction pulls visitors and their spending power toward the local area."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w4_su3",
+      "title": "4.3 Practical Application: Linking Warehousing and Tourism to Commerce",
+      "notes": [
+        "Practical Application: Linking Warehousing and Tourism to Commerce",
+        "",
+        "Key Concepts:",
+        "1. Warehousing in Action:",
+        "   - A rice importer in Lagos stores 1,000 bags in a public warehouse. As retailers place orders throughout the month, the goods are released gradually, ensuring a steady supply and preventing market flooding.",
+        "",
+        "2. Tourism in Action:",
+        "   - During the Calabar Carnival, thousands of tourists visit Cross River State. This surge in visitors creates temporary but significant demand for local transport, food, and accommodation, boosting the state's internal revenue.",
+        "",
+        "3. The Interconnection:",
+        "   - Tourism relies on other aids to trade: tourists need transport to reach the site, communication to book hotels, and warehousing to store the food and supplies that hotels consume.",
+        "",
+        "Nigerian Context:",
+        "   - The Nigerian government, through the Ministry of Tourism, actively promotes sites like the Argungu Fishing Festival to attract both domestic and international tourists, recognizing tourism as a viable alternative to oil revenue."
+      ],
+      "diagramDescriptions": ["Flowchart showing how tourism relies on other aids to trade"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies practical application warehousing tourism commerce site:youtube.com",
+      "quiz": [
+        {"q": "How does a public warehouse help a rice importer manage his business?", "opts": ["It allows him to store goods and release them gradually as retailers place orders", "It forces him to sell everything immediately", "It increases the import tax", "It prevents him from selling rice"], "ans": 0, "explanation": "Warehousing allows for controlled release of goods, matching supply with market demand."},
+        {"q": "During a major festival like the Calabar Carnival, tourism primarily boosts the local economy by:", "opts": ["reducing the population", "creating sudden demand for local transport, food, and accommodation", "closing down local businesses", "increasing import duties"], "ans": 1, "explanation": "Festivals attract visitors whose spending directly benefits local service providers."},
+        {"q": "Tourism relies on which other aid to trade to move visitors to the destination?", "opts": ["Insurance", "Transport", "Excise duty", "Banking only"], "ans": 1, "explanation": "Tourists must be physically transported to the tourist site, making transport essential."},
+        {"q": "A hotel storing large quantities of food and beverages for its guests is utilizing:", "opts": ["Marine insurance", "Warehousing", "Advertising", "Customs duty"], "ans": 1, "explanation": "The hotel is using warehousing to store supplies until they are needed for consumption."},
+        {"q": "Why does the Nigerian government promote events like the Argungu Fishing Festival?", "opts": ["To reduce the population", "To attract tourists and generate alternative revenue to oil", "To increase excise duty", "To close down local markets"], "ans": 1, "explanation": "Promoting cultural events attracts tourism, which diversifies the economy and generates revenue."},
+        {"q": "If a tourist site has no good roads or mobile network coverage, its tourism potential will likely:", "opts": ["Increase rapidly", "Remain unaffected", "Be severely limited", "Attract more foreign investors"], "ans": 2, "explanation": "Poor transport and communication infrastructure are major barriers to tourism development."},
+        {"q": "A bonded warehouse primarily benefits the government by:", "opts": ["Allowing free importation of goods", "Ensuring customs duties are collected before goods enter the local market", "Reducing the need for ports", "Eliminating excise duty"], "ans": 1, "explanation": "Bonded warehouses secure imported goods until the government receives its tax revenue."},
+        {"q": "Which of these is a direct result of tourism in a local community?", "opts": ["Decreased demand for local crafts", "Job creation in hospitality and transport", "Reduction in cultural exchange", "Increased isolation"], "ans": 1, "explanation": "Tourism creates direct employment opportunities in sectors that serve visitors."},
+        {"q": "A business that produces souvenirs for tourists is participating in:", "opts": ["Extractive production", "Trade supported by tourism", "Marine insurance", "Customs duty collection"], "ans": 1, "explanation": "The business is trading goods that are in demand specifically because of tourism."},
+        {"q": "The ultimate goal of developing tourism centres in Nigeria is to:", "opts": ["Increase unemployment", "Diversify the economy and earn foreign exchange", "Reduce the population", "Stop all other forms of trade"], "ans": 1, "explanation": "Tourism is a strategic sector for economic diversification and foreign exchange earnings."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define a warehouse, and list and briefly explain the THREE types of warehouses.",
+      "markingGuide": "Correct definition (1 mark); three correctly named and explained types (4 marks). Total: 5 marks."
+    },
+    {
+      "question": "Distinguish between customs duty and excise duty, giving an example of each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples. Total: 5 marks."
+    },
+    {
+      "question": "Define tourism, and list THREE tourism centres in Nigeria with their locations.",
+      "markingGuide": "Correct definition (2 marks); three correctly named centres with locations (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "State THREE ways tourism benefits trade in a local area.",
+      "markingGuide": "1.5–2 marks per valid, clearly stated benefit (5 marks total for three)."
+    },
+    {
+      "question": "A state government is deciding whether to invest in a new bonded warehouse at its port, or in developing a local tourist site. Discuss the potential trade benefits of EACH option.",
+      "markingGuide": "Clear discussion of bonded warehouse benefits (2.5 marks); clear discussion of tourism development benefits (2.5 marks). Total: 5 marks."
+    }
+  ]
+}

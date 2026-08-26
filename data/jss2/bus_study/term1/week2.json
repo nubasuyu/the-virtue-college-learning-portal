@@ -1,0 +1,449 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Aids to Trade: Advertisement and Communication",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w2_su1",
+      "title": "2.1 Advertisement: Types and Means",
+      "notes": [
+        "Advertisement: Types and Means",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Advertisement:",
+        "   - Creating awareness about goods, services, or ideas to persuade people to buy or use them.",
+        "",
+        "2. Types of Advertisement:",
+        "   - Informative: Simply tells customers what a product does or where to find it.",
+        "   - Persuasive: Tries to convince customers that a product is better than competitors'.",
+        "   - Reminder: Keeps an already-known product fresh in customers' minds.",
+        "",
+        "3. Means of Advertisement:",
+        "   - Newspapers and Magazines: Printed advertisements.",
+        "   - Radio: Spoken adverts reaching wide audiences, even where literacy is low.",
+        "   - Television: Combines sound and pictures, very persuasive but expensive.",
+        "   - Billboards: Large outdoor displays along roads.",
+        "   - Internet and Social Media: Digital advertising targeted to specific users.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, radio advertisement is highly effective for reaching rural populations with low literacy rates, while television and social media (like Instagram and Twitter) are dominant for targeting urban youth and middle-class consumers."
+      ],
+      "diagramDescriptions": [
+        "Chart showing types of advertisement and their corresponding means"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies advertisement types and means site:youtube.com",
+      "quiz": [
+        {
+          "q": "What does advertisement mean?",
+          "opts": [
+            "Only storing goods",
+            "Creating awareness about goods, services, or ideas to persuade people to buy or use them",
+            "Only selling goods directly",
+            "Hiding information about products"
+          ],
+          "ans": 1,
+          "explanation": "Advertisement is the act of creating awareness to persuade potential customers."
+        },
+        {
+          "q": "Which type of advertisement simply tells customers what a product does?",
+          "opts": [
+            "None of these",
+            "Reminder",
+            "Informative",
+            "Persuasive"
+          ],
+          "ans": 2,
+          "explanation": "Informative advertisement focuses on providing facts about a product."
+        },
+        {
+          "q": "Which type of advertisement tries to convince customers a product is better than competitors'?",
+          "opts": [
+            "Persuasive",
+            "Informative",
+            "None of these",
+            "Reminder"
+          ],
+          "ans": 0,
+          "explanation": "Persuasive advertisement aims to influence the customer's preference toward a specific brand."
+        },
+        {
+          "q": "Which type of advertisement keeps an already-known product fresh in customers' minds?",
+          "opts": [
+            "None of these",
+            "Reminder",
+            "Informative",
+            "Persuasive"
+          ],
+          "ans": 1,
+          "explanation": "Reminder advertisement is used for established products to maintain brand awareness."
+        },
+        {
+          "q": "Which means of advertisement reaches remote areas cheaply, even with low literacy?",
+          "opts": [
+            "Radio",
+            "Newspapers only",
+            "Television only",
+            "Billboards only"
+          ],
+          "ans": 0,
+          "explanation": "Radio is affordable and does not require the audience to be able to read."
+        },
+        {
+          "q": "Which means of advertisement combines sound and pictures, making it very persuasive?",
+          "opts": [
+            "Television",
+            "Radio",
+            "Newspapers",
+            "Billboards"
+          ],
+          "ans": 0,
+          "explanation": "Television's combination of audio and visual elements makes it highly persuasive."
+        },
+        {
+          "q": "Large outdoor displays along roads are called:",
+          "opts": [
+            "television adverts",
+            "billboards",
+            "radio adverts",
+            "newspapers"
+          ],
+          "ans": 1,
+          "explanation": "Billboards are large outdoor advertising structures found along highways and streets."
+        },
+        {
+          "q": "A company reminding existing customers to keep buying its product is using ___ advertisement.",
+          "opts": [
+            "informative",
+            "reminder",
+            "none of these",
+            "persuasive"
+          ],
+          "ans": 1,
+          "explanation": "This is the exact definition of reminder advertisement."
+        },
+        {
+          "q": "Without advertisement, even a good product might:",
+          "opts": [
+            "sell itself without effort",
+            "need no marketing at all",
+            "remain unknown to potential customers",
+            "automatically sell well"
+          ],
+          "ans": 2,
+          "explanation": "Advertisement is crucial for making potential customers aware that a product exists."
+        },
+        {
+          "q": "Advertisement is compared to a town crier because both:",
+          "opts": [
+            "announce important information to many people at once",
+            "keep secrets from everyone",
+            "have no real purpose",
+            "work only for one person"
+          ],
+          "ans": 0,
+          "explanation": "Both serve the function of broadcasting information to a wide audience."
+        }
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w2_su2",
+      "title": "2.2 Communication: Meaning and Importance to Trade",
+      "notes": [
+        "Communication: Meaning and Importance to Trade",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Communication:",
+        "   - The exchange of information, ideas, or messages between two or more parties.",
+        "",
+        "2. Importance of Communication to Trade:",
+        "   - Speeds up business decisions and negotiations.",
+        "   - Allows orders to be placed and confirmed quickly without physical travel.",
+        "   - Helps resolve problems and complaints efficiently.",
+        "   - Connects businesses to customers and suppliers across long distances instantly.",
+        "",
+        "Nigerian Context:",
+        "   - Before modern communication, a trader in Kano had to travel to Lagos to negotiate a deal. Today, a simple phone call or WhatsApp message allows the same negotiation to happen in seconds, drastically reducing the cost and time of doing business."
+      ],
+      "diagramDescriptions": [
+        "Diagram showing how communication connects buyers and sellers across distances"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies communication meaning importance to trade site:youtube.com",
+      "quiz": [
+        {
+          "q": "What does communication mean?",
+          "opts": [
+            "Only advertising products",
+            "Only physical travel",
+            "Only the transport of goods",
+            "The exchange of information, ideas, or messages between parties"
+          ],
+          "ans": 3,
+          "explanation": "Communication is the exchange of information between parties."
+        },
+        {
+          "q": "Communication allows buyers and sellers to:",
+          "opts": [
+            "only meet in person always",
+            "never interact at all",
+            "ignore each other completely",
+            "discuss orders, prices, and agreements without meeting physically every time"
+          ],
+          "ans": 3,
+          "explanation": "Communication bridges the physical gap between buyers and sellers."
+        },
+        {
+          "q": "Which of these is a Nigerian telecommunications firm?",
+          "opts": [
+            "GTB",
+            "MTN",
+            "NAICOM",
+            "UBA"
+          ],
+          "ans": 1,
+          "explanation": "MTN is a major telecommunications (communication) firm in Nigeria."
+        },
+        {
+          "q": "Communication speeds up:",
+          "opts": [
+            "nothing useful",
+            "only sports events",
+            "business decisions and negotiations",
+            "only farming activities"
+          ],
+          "ans": 2,
+          "explanation": "Instant communication allows businesses to make quick decisions and close deals faster."
+        },
+        {
+          "q": "A customer reporting a damaged product to a seller by phone is an example of:",
+          "opts": [
+            "advertisement",
+            "communication resolving a problem",
+            "transportation",
+            "insurance"
+          ],
+          "ans": 1,
+          "explanation": "This is a practical example of communication being used to resolve a trade-related problem."
+        },
+        {
+          "q": "Communication connects businesses to customers and suppliers:",
+          "opts": [
+            "never at all",
+            "across long distances instantly",
+            "only within the same building",
+            "only once a year"
+          ],
+          "ans": 1,
+          "explanation": "Modern communication tools allow instant connection regardless of geographical distance."
+        },
+        {
+          "q": "Communication is compared to the ___ of commerce.",
+          "opts": [
+            "skeleton only",
+            "least important part",
+            "nervous system",
+            "enemy"
+          ],
+          "ans": 2,
+          "explanation": "Just as the nervous system carries signals to coordinate the body, communication carries information to coordinate trade."
+        },
+        {
+          "q": "Postal and courier services are examples of:",
+          "opts": [
+            "insurance companies",
+            "banks",
+            "transport companies only",
+            "communication firms handling physical mail"
+          ],
+          "ans": 3,
+          "explanation": "Postal and courier services facilitate the communication of physical documents and parcels."
+        },
+        {
+          "q": "A trader ordering goods from abroad without travelling relies on:",
+          "opts": [
+            "advertisement alone",
+            "communication",
+            "physical transport alone",
+            "ignoring the supplier"
+          ],
+          "ans": 1,
+          "explanation": "Communication tools like email or phone are essential for placing international orders remotely."
+        },
+        {
+          "q": "Communication is considered an aid to trade because:",
+          "opts": [
+            "it is unrelated to buying and selling",
+            "it replaces the need for goods entirely",
+            "trade cannot function smoothly without exchanging information",
+            "it has no connection to trade"
+          ],
+          "ans": 2,
+          "explanation": "The exchange of information is fundamental to negotiating, ordering, and completing trade."
+        }
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w2_su3",
+      "title": "2.3 Communication Firms and Practical Application in Nigeria",
+      "notes": [
+        "Communication Firms and Practical Application in Nigeria",
+        "",
+        "Key Concepts:",
+        "1. Major Communication Firms in Nigeria:",
+        "   - Telecommunications: MTN, Airtel, Glo, 9mobile (providing voice, SMS, and mobile data).",
+        "   - Postal and Courier Services: NIPOST, DHL, GIG Logistics, FedEx (handling physical mail and parcels).",
+        "",
+        "2. Practical Application in Trade:",
+        "   - A farmer in Oyo State uses a mobile phone to check current market prices in Lagos before deciding where to sell his tomatoes.",
+        "   - An online vendor in Abuja uses WhatsApp and Instagram to showcase products and receive orders from customers in Port Harcourt.",
+        "",
+        "3. Impact on Modern Commerce:",
+        "   - Communication has given rise to e-commerce, allowing businesses to operate 24/7 without a physical storefront.",
+        "",
+        "Nigerian Context:",
+        "   - The proliferation of mobile money and USSD codes (like *737#) in Nigeria has merged communication and banking, allowing even unbanked traders in rural markets to receive payments instantly."
+      ],
+      "diagramDescriptions": [
+        "Logos or names of major Nigerian communication firms and their roles"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies communication firms Nigeria practical application site:youtube.com",
+      "quiz": [
+        {
+          "q": "Which of the following is a major telecommunications firm in Nigeria?",
+          "opts": [
+            "Dangote Cement",
+            "Airtel",
+            "NNPC",
+            "NIMC"
+          ],
+          "ans": 1,
+          "explanation": "Airtel is one of the major telecommunications providers in Nigeria."
+        },
+        {
+          "q": "What service does GIG Logistics primarily provide?",
+          "opts": [
+            "Mobile data",
+            "Banking loans",
+            "Courier and parcel delivery",
+            "Television broadcasting"
+          ],
+          "ans": 2,
+          "explanation": "GIG Logistics is a major courier and parcel delivery service in Nigeria."
+        },
+        {
+          "q": "How does a mobile phone help a farmer in rural Nigeria?",
+          "opts": [
+            "It grows crops faster",
+            "It allows him to check market prices and negotiate with buyers remotely",
+            "It replaces the need for transport",
+            "It automatically harvests crops"
+          ],
+          "ans": 1,
+          "explanation": "Mobile phones provide crucial market information and communication links to buyers."
+        },
+        {
+          "q": "An online vendor using Instagram to showcase products is utilizing:",
+          "opts": [
+            "Traditional print media",
+            "Digital communication for trade",
+            "Pipeline transport",
+            "Warehousing"
+          ],
+          "ans": 1,
+          "explanation": "Social media is a powerful digital communication tool used for modern commerce."
+        },
+        {
+          "q": "The merger of communication and banking in Nigeria is best seen in:",
+          "opts": [
+            "Cash-only transactions",
+            "USSD codes and mobile money transfers",
+            "Barter trade",
+            "Writing physical letters"
+          ],
+          "ans": 1,
+          "explanation": "USSD codes allow users to communicate with their banks via mobile networks to transfer money."
+        },
+        {
+          "q": "Which communication firm is a government-owned postal service in Nigeria?",
+          "opts": [
+            "MTN",
+            "DHL",
+            "NIPOST",
+            "FedEx"
+          ],
+          "ans": 2,
+          "explanation": "NIPOST (Nigerian Postal Service) is a government-owned entity handling mail and logistics."
+        },
+        {
+          "q": "E-commerce relies heavily on which aid to trade to connect buyers and sellers?",
+          "opts": [
+            "Pipeline transport",
+            "Communication (Internet)",
+            "Excise duty",
+            "Marine insurance"
+          ],
+          "ans": 1,
+          "explanation": "The internet (communication) is the foundational infrastructure of e-commerce."
+        },
+        {
+          "q": "A business using email to send an invoice to a client is demonstrating:",
+          "opts": [
+            "Inefficient trade",
+            "The speed and convenience of modern communication",
+            "The need for physical travel",
+            "The decline of technology"
+          ],
+          "ans": 1,
+          "explanation": "Email allows for instant, cost-effective transmission of business documents."
+        },
+        {
+          "q": "Which of these is a benefit of communication to a business?",
+          "opts": [
+            "Increased travel costs",
+            "Slower decision-making",
+            "Improved customer service and faster problem resolution",
+            "Isolation from suppliers"
+          ],
+          "ans": 2,
+          "explanation": "Effective communication directly improves customer service and operational speed."
+        },
+        {
+          "q": "Before the invention of the telephone, business negotiations over long distances required:",
+          "opts": [
+            "Instant messaging",
+            "Physical travel or slow postal letters",
+            "Video conferencing",
+            "Satellite internet"
+          ],
+          "ans": 1,
+          "explanation": "Historically, long-distance business required either slow mail or expensive, time-consuming physical travel."
+        }
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define advertisement, and list its THREE types with a brief explanation of each.",
+      "markingGuide": "Correct definition (2 marks); three correctly named and explained types (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "List FOUR means of advertisement, and briefly state the strength of each.",
+      "markingGuide": "1.25 marks per correctly named means with a valid strength stated (5 marks total)."
+    },
+    {
+      "question": "Define communication, and state THREE reasons it is important to trade.",
+      "markingGuide": "Correct definition (2 marks); three valid reasons clearly stated (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "A company wants to advertise a new product to young people who spend a lot of time online. Which means of advertisement would you recommend, and why?",
+      "markingGuide": "Correct recommendation (e.g., internet/social media) (2.5 marks); clear reasoning based on the target audience (2.5 marks)."
+    },
+    {
+      "question": "Explain, using the nervous-system analogy or your own example, how communication and transportation work together to support commerce.",
+      "markingGuide": "Clear explanation distinguishing their roles, with a valid supporting example (5 marks, holistic)."
+    }
+  ]
+}

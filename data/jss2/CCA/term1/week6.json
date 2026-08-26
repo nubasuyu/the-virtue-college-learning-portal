@@ -1,0 +1,144 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Practical on Craft Making: Woven Mat and Paper Mâché Plate",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w6_su1",
+      "title": "6.1 Production of a Woven Mat Using Paper",
+      "notes": [
+        "Production of a Woven Mat Using Paper",
+        "",
+        "Key Concepts:",
+        "1. The Six Steps of Paper Weaving:",
+        "   - Step 1: CUT paper into equal-width strips (using a ruler for straight, precise cuts).",
+        "   - Step 2: LAY OUT one set of strips SIDE BY SIDE, taped or held at one end (these become the 'warp' or base strips).",
+        "   - Step 3: WEAVE a second strip OVER and UNDER the base strips, alternating the pattern.",
+        "   - Step 4: CONTINUE weaving additional strips, ALTERNATING the over-under pattern with EACH new row.",
+        "   - Step 5: PUSH each new woven strip snugly against the previous one.",
+        "   - Step 6: Once complete, TRIM and SECURE the edges neatly.",
+        "",
+        "2. The Key Skill:",
+        "   - Maintaining the CORRECT alternating pattern. If a weaver forgets to alternate (starting each new row the SAME way as the last), the strips will not interlock properly, and the mat will fall apart.",
+        "",
+        "Nigerian Context:",
+        "   - While this practical uses paper, the exact same over-under alternating technique is used by Nigerian artisans to weave traditional mats and baskets from raffia, palm fronds, and cane."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to the over-under alternating paper weaving technique"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts production of woven paper mat site:youtube.com",
+      "quiz": [
+        {"q": "The first step in producing a woven paper mat is to:", "opts": ["Trim the edges", "Secure the finished mat", "Cut paper into equal-width strips", "Weave randomly with no preparation"], "ans": 2, "explanation": "Cutting equal-width strips is the essential first step before any weaving can begin."},
+        {"q": "The base strips laid out first are sometimes called the:", "opts": ["Trim", "Weft only", "Edge", "Warp"], "ans": 3, "explanation": "In weaving terminology, the stationary base strips are called the warp."},
+        {"q": "Weaving a strip 'over and under' the base strips describes the:", "opts": ["Random, non-alternating pattern", "Cutting technique", "Gluing technique", "Alternating weaving pattern"], "ans": 3, "explanation": "The over-under motion is the fundamental alternating weaving pattern."},
+        {"q": "Each new row of weaving should ___ compared to the row before it.", "opts": ["Alternate its starting pattern", "Repeat the exact same starting pattern", "Be glued rather than woven", "Ignore any pattern at all"], "ans": 0, "explanation": "Alternating the starting pattern (if the last row started 'over', this one starts 'under') is what creates the interlock."},
+        {"q": "Forgetting to alternate the weaving pattern results in:", "opts": ["Strips that do not properly interlock", "An automatically improved weave", "A perfectly interlocked mat regardless", "No effect on the final result"], "ans": 0, "explanation": "Without alternation, strips simply lie stacked on top of each other and the mat will fall apart."},
+        {"q": "Each woven strip should be pushed ___ against the previous one.", "opts": ["Snugly", "Nowhere near", "Loosely, with large gaps", "Randomly, with no consideration of spacing"], "ans": 0, "explanation": "Pushing strips snugly ensures a tight, neat, and durable weave."},
+        {"q": "The final step in producing a woven paper mat is to:", "opts": ["Lay out the base strips", "Trim and secure the edges", "Cut the initial strips", "Begin weaving for the first time"], "ans": 1, "explanation": "Trimming and securing the edges finishes the project and prevents the weave from unraveling."},
+        {"q": "Cutting strips of uneven width can lead to:", "opts": ["An untidy, irregular final weave", "An automatically improved mat", "A perfectly neat weave regardless", "No effect on the final appearance"], "ans": 0, "explanation": "Uneven strips disrupt the pattern and make the final weave look messy and irregular."},
+        {"q": "Weaving a paper mat is compared to ___ in this week's analogy.", "opts": ["A dance with no movement at all", "A static, unchanging position", "A dance where partners swap positions with every new song", "An unrelated random activity"], "ans": 2, "explanation": "Just as dance partners must swap positions to move gracefully, weaving strips must alternate to interlock properly."},
+        {"q": "A ruler is used when cutting strips to ensure:", "opts": ["Random, uneven cuts", "Straight, precise cuts", "The strips are all different widths intentionally", "No cutting takes place at all"], "ans": 1, "explanation": "A ruler ensures the cuts are straight and the strips are of equal, precise width."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w6_su2",
+      "title": "6.2 Production of a Plate Using Paper Mâché",
+      "notes": [
+        "Production of a Plate Using Paper Mâché",
+        "",
+        "Key Concepts:",
+        "1. The Seven Steps of Paper Mâché Plate Production:",
+        "   - Step 1: SELECT a MOULD (an existing plate, bowl, or plastic form to act as a shaping guide).",
+        "   - Step 2: COVER the mould with a THIN layer of plastic wrap or oil (so the finished piece can be removed cleanly).",
+        "   - Step 3: TEAR paper into strips and SOAK in prepared paste.",
+        "   - Step 4: LAYER the pasted strips over the mould, following its curved shape, SMOOTHING each layer.",
+        "   - Step 5: Allow to DRY completely (often over one or more days).",
+        "   - Step 6: Carefully REMOVE the hardened paper mâché shell from the mould.",
+        "   - Step 7: TRIM the edges neatly, then PAINT or decorate as desired.",
+        "",
+        "2. The Purpose of the Mould:",
+        "   - Gives the wet, initially formless paper mâché pulp a reliable, consistent SHAPE to hold while it hardens.",
+        "",
+        "Nigerian Context:",
+        "   - Using a mould is a clever technique that allows students and artisans to produce symmetrical, professional-looking craft items (like bowls or masks) without needing advanced sculpting skills."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to layering paper mâché over a mould"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts production of paper mache plate site:youtube.com",
+      "quiz": [
+        {"q": "The first step in producing a paper mâché plate is to:", "opts": ["Remove the mould", "Select a mould", "Immediately apply paper strips with no plan", "Paint the finished piece"], "ans": 1, "explanation": "Selecting a mould is the first step, as it provides the shape for the entire project."},
+        {"q": "The mould should be covered with ___ before applying paper mâché.", "opts": ["Plastic wrap or oil", "Paint", "Nothing at all", "More paper mâché directly"], "ans": 0, "explanation": "Plastic wrap or oil creates a non-stick barrier for easy removal later."},
+        {"q": "Covering the mould with plastic wrap or oil allows:", "opts": ["Clean removal of the finished piece once dry", "The paper mâché to stick permanently", "No effect on the removal process", "The mould to dissolve completely"], "ans": 0, "explanation": "The non-stick barrier prevents the dried paper mâché from fusing to the mould."},
+        {"q": "Using a mould gives the wet paper mâché:", "opts": ["A reliable, consistent shape to hold while hardening", "A completely random shape", "No shape at all", "An unrelated, irrelevant feature"], "ans": 0, "explanation": "The mould acts as a structural guide for the wet, formless pulp."},
+        {"q": "The paper mâché plate must be allowed to ___ before removal from the mould.", "opts": ["Dry completely", "Remain wet indefinitely", "Be removed immediately while wet", "Skip drying entirely"], "ans": 0, "explanation": "Complete drying is essential; removing it while wet will cause the shape to collapse or tear."},
+        {"q": "The step after removing the plate from the mould is to:", "opts": ["Trim the edges and decorate", "Tear paper strips", "Cover the mould with plastic", "Select the mould"], "ans": 0, "explanation": "Once removed, the raw edges are trimmed and the piece is ready for painting or decoration."},
+        {"q": "Removing the paper mâché piece before it is fully dry risks:", "opts": ["The still-soft shape collapsing or tearing", "No risk at all, since drying time is irrelevant", "The piece becoming stronger", "An automatically improved final shape"], "ans": 0, "explanation": "Wet paper mâché is fragile and will lose its shape or tear if handled prematurely."},
+        {"q": "Using a mould is compared to ___ in this week's analogy.", "opts": ["A mother's hand guiding a child's first attempt at writing", "An object with no guiding function", "An unrelated random comparison", "A task requiring no guidance at all"], "ans": 0, "explanation": "Just as a guiding hand helps form a proper letter, a mould helps form a proper plate shape."},
+        {"q": "Without a mould, achieving a neat, symmetrical plate shape freehand would be:", "opts": ["Far more difficult", "Exactly as easy as using a mould", "Irrelevant to the final result", "Automatically easier"], "ans": 0, "explanation": "Freehand shaping of wet paper mâché is highly challenging and rarely yields symmetrical results."},
+        {"q": "The final step in producing a paper mâché plate is to:", "opts": ["Trim and decorate the finished piece", "Select the mould", "Tear paper strips", "Cover the mould with plastic"], "ans": 0, "explanation": "Trimming and decorating is the final finishing touch to the hardened shell."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w6_su3",
+      "title": "6.3 Practical Comparisons, Common Mistakes, and Finishing Techniques",
+      "notes": [
+        "Practical Comparisons, Common Mistakes, and Finishing Techniques",
+        "",
+        "Key Concepts:",
+        "1. Comparing the Two Projects:",
+        "   - Similarity: Both require PATIENCE, careful preparation, and step-by-step execution to succeed.",
+        "   - Difference: The woven mat relies on INTERLOCKING flexible strips (tension), while the paper mâché plate relies on HARDENING layers of pulp over a rigid guide (adhesion and drying).",
+        "",
+        "2. Common Mistakes to Avoid:",
+        "   - Forgetting to alternate the weaving pattern between rows (mat falls apart).",
+        "   - Forgetting to cover the mould with a non-stick barrier (plate sticks and breaks).",
+        "   - Rushing the drying process (plate collapses).",
+        "",
+        "3. Finishing Techniques:",
+        "   - For the mat: Secure edges with glue or tape, trim uneven strips for a neat border.",
+        "   - For the plate: Sand lightly if needed, apply a base coat of paint, then add decorative patterns.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian craft markets, the difference between a mediocre craft and a highly valued one often comes down to these finishing touches: neat edges, smooth surfaces, and careful decoration."
+      ],
+      "diagramDescriptions": ["Side-by-side comparison of common mistakes vs. proper finishing techniques"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts craft making common mistakes and finishing techniques site:youtube.com",
+      "quiz": [
+        {"q": "A key similarity between producing a woven mat and a paper mâché plate is that both require:", "opts": ["No planning at all", "Patience, careful preparation, and step-by-step execution", "Only expensive materials", "Rushing to finish quickly"], "ans": 1, "explanation": "Both crafts demand careful, patient adherence to a specific sequence of steps."},
+        {"q": "A key difference between the two projects is that the woven mat relies on ___, while the plate relies on ___.", "opts": ["Hardening layers; interlocking flexible strips", "Interlocking flexible strips; hardening layers of pulp", "Glue only; tension only", "No structure; rigid structure"], "ans": 1, "explanation": "The mat uses tension and interlocking, while the plate uses adhesion and hardening over a mould."},
+        {"q": "Forgetting to alternate the weaving pattern results in:", "opts": ["A stronger mat", "Strips that do not properly interlock", "A more colourful mat", "No effect on the final result"], "ans": 1, "explanation": "Without alternation, the strips simply stack and the mat loses its structural integrity."},
+        {"q": "Forgetting to cover the mould with a non-stick barrier will likely cause:", "opts": ["The finished piece to stick and potentially break when removed", "The mould to dissolve", "The paper to dry faster", "No effect on the removal process"], "ans": 0, "explanation": "Without a barrier, the paper mâché fuses to the mould, making removal difficult or destructive."},
+        {"q": "Rushing the drying process of a paper mâché plate risks:", "opts": ["An automatically improved final shape", "The piece becoming stronger", "The still-soft shape collapsing or tearing", "No risk at all"], "ans": 2, "explanation": "Premature handling of wet paper mâché ruins the shape and structural integrity."},
+        {"q": "A proper finishing technique for a woven paper mat includes:", "opts": ["Leaving all edges ragged and uneven", "Securing edges with glue or tape and trimming uneven strips", "Soaking it in water", "Removing the base strips"], "ans": 1, "explanation": "Securing and trimming the edges gives the mat a neat, professional, and durable finish."},
+        {"q": "A proper finishing technique for a paper mâché plate includes:", "opts": ["Applying a base coat of paint before adding decorative patterns", "Removing it from the mould while still wet", "Skipping the trimming step", "Using no paint or decoration at all"], "ans": 0, "explanation": "A base coat ensures subsequent decorative colours appear vibrant and true."},
+        {"q": "In Nigerian craft markets, high value is often determined by:", "opts": ["Neat edges, smooth surfaces, and careful decoration", "The speed at which the item was made", "The use of only imported materials", "The randomness of the design"], "ans": 0, "explanation": "Quality finishing touches distinguish professional, valued crafts from mediocre ones."},
+        {"q": "Cutting strips of uneven width for a woven mat is a common mistake that leads to:", "opts": ["An automatically improved weave", "An untidy, irregular final weave", "A perfectly neat weave regardless", "No effect on the final appearance"], "ans": 1, "explanation": "Uneven strips disrupt the visual pattern and structural tightness of the weave."},
+        {"q": "Applying wet paint over wet paint on a craft object typically causes:", "opts": ["Unintended blending, producing a muddy result", "Perfectly clean, distinct colours", "An automatically improved result", "No effect on the final appearance"], "ans": 0, "explanation": "Wet-on-wet application causes colours to mix unintentionally, creating a muddy, unclear finish."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Describe, in the correct order, the six steps for producing a woven paper mat.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain why alternating the weaving pattern between rows is essential for a successful woven mat.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "Describe, in the correct order, the seven steps for producing a paper mâché plate.",
+      "markingGuide": "0.7 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain the purpose of using a mould, and why it must be covered with plastic wrap or oil before use.",
+      "markingGuide": "Clear explanation of the mould's purpose (2.5); clear explanation of the non-stick barrier's purpose (2.5)."
+    },
+    {
+      "question": "Compare the woven mat and paper mâché plate projects, identifying ONE similarity and ONE difference in their production processes.",
+      "markingGuide": "2.5 marks each for a valid, clearly explained similarity and difference."
+    }
+  ]
+}

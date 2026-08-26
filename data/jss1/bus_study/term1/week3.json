@@ -1,0 +1,122 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "First Term",
+  "week": 3,
+  "topic": "The Office Staff: The Clerical Staff",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t1_w3_su1",
+      "title": "3.1 Meaning and Functions of Clerical Staff",
+      "notes": [
+        "Meaning and Functions of Clerical Staff",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Clerical Staff:",
+        "   - Office workers who perform routine, day-to-day administrative tasks.",
+        "   - They are the 'working hands' of the office, ensuring everyday paperwork and communication run smoothly.",
+        "",
+        "2. Main Functions of Clerical Staff:",
+        "   - Filing: Organizing documents so they can be found quickly.",
+        "   - Typing: Preparing letters, reports, and memos.",
+        "   - Answering Calls: Handling telephone enquiries and taking messages.",
+        "   - Mail Handling: Receiving, sorting, and distributing incoming and outgoing mail.",
+        "   - Record Maintenance: Keeping daily logs, attendance records, and basic data entry.",
+        "",
+        "Nigerian Context:",
+        "   - In a Nigerian Local Government Secretariat, clerical staff are the backbone of daily operations. They file citizen complaints, type official memos for the Chairman, and manage the front desk, ensuring the government machinery functions smoothly."
+      ],
+      "diagramDescriptions": ["List of daily tasks performed by clerical staff"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning and functions of clerical staff site:youtube.com",
+      "quiz": [
+        {"q": "Who are clerical staff?", "opts": ["Only the managing director", "Office workers who perform routine, day-to-day administrative tasks", "Only security guards", "Only cleaners"], "ans": 1, "explanation": "Clerical staff handle the routine administrative and paperwork tasks in an office."},
+        {"q": "Which of these is a function of clerical staff?", "opts": ["Owning the company", "Filing documents", "Making major company decisions alone", "Ignoring visitors"], "ans": 1, "explanation": "Filing documents is a core, routine function of clerical staff."},
+        {"q": "Preparing letters and reports for the manager is an example of:", "opts": ["Filing", "Typing", "Safeguarding", "Processing"], "ans": 1, "explanation": "Typing is the function of preparing written documents like letters and reports."},
+        {"q": "Receiving, sorting, and distributing incoming mail is the duty of:", "opts": ["The managing director", "Clerical staff", "The external auditor", "The security guard"], "ans": 1, "explanation": "Mail handling is a standard routine function of clerical staff."},
+        {"q": "Keeping daily attendance records is a form of:", "opts": ["Record maintenance", "Major decision making", "Financial auditing", "Strategic planning"], "ans": 0, "explanation": "Keeping daily logs and attendance records falls under record maintenance."},
+        {"q": "Answering telephone calls and taking messages is a function of:", "opts": ["Clerical staff", "The CEO only", "The cleaner", "The external supplier"], "ans": 0, "explanation": "Handling phone enquiries is a routine administrative task for clerical staff."},
+        {"q": "Clerical staff are best described as the ___ of everyday office work.", "opts": ["Decoration", "Least important part", "Backbone", "Enemies"], "ans": 2, "explanation": "They are the backbone because the office cannot function smoothly without their routine work."},
+        {"q": "Which of these is NOT typically a function of clerical staff?", "opts": ["Answering telephone calls", "Typing letters", "Deciding the company's entire yearly budget alone", "Filing documents"], "ans": 2, "explanation": "Deciding the yearly budget is a top-management function, not a routine clerical task."},
+        {"q": "Organizing documents alphabetically or numerically so they can be found again is called:", "opts": ["Typing", "Filing", "Safeguarding", "Communicating"], "ans": 1, "explanation": "Filing is the systematic organization of documents for easy retrieval."},
+        {"q": "Why are clerical staff essential to an organization?", "opts": ["They make all the major decisions", "They ensure everyday paperwork and communication run smoothly", "They own the company's assets", "They do not require any training"], "ans": 1, "explanation": "Their routine work ensures the smooth, continuous operation of the office."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w3_su2",
+      "title": "3.2 Qualities of a Good Clerical Worker",
+      "notes": [
+        "Qualities of a Good Clerical Worker",
+        "",
+        "Key Concepts:",
+        "1. Accuracy:",
+        "   - Getting details exactly right. A single typing error in an address or a wrong figure in a record can cause major problems.",
+        "",
+        "2. Punctuality:",
+        "   - Arriving at work and completing tasks at the correct, agreed time.",
+        "",
+        "3. Confidentiality:",
+        "   - Keeping sensitive information (like salaries or customer data) private and not sharing it with unauthorized persons.",
+        "",
+        "4. Neatness:",
+        "   - Producing organized, tidy, and legible work. A messy desk or messy typing reflects poorly on the organization.",
+        "",
+        "5. Politeness and Helpfulness:",
+        "   - Maintaining a courteous and helpful attitude toward colleagues, visitors, and callers.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian banks, a clerical worker's accuracy is critical. A single wrong digit in an account number during a transfer can send money to the wrong person, highlighting why accuracy and confidentiality are non-n negotiable qualities."
+      ],
+      "diagramDescriptions": ["Icons representing the 5 key qualities of a clerical worker"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies qualities of a good clerical worker accuracy confidentiality site:youtube.com",
+      "quiz": [
+        {"q": "Getting details exactly right is called:", "opts": ["Accuracy", "Carelessness", "Rudeness", "Laziness"], "ans": 0, "explanation": "Accuracy means ensuring all details and figures are correct without errors."},
+        {"q": "Keeping sensitive information private is called:", "opts": ["Carelessness", "Confidentiality", "Rudeness", "Gossip"], "ans": 1, "explanation": "Confidentiality is the duty to keep sensitive information secret from unauthorized people."},
+        {"q": "Arriving and completing tasks on time is called:", "opts": ["Confidentiality", "Neatness", "Punctuality", "Laziness"], "ans": 2, "explanation": "Punctuality means being on time for work and meeting deadlines."},
+        {"q": "Organized, tidy work is a sign of:", "opts": ["Rudeness", "Dishonesty", "Neatness", "Laziness"], "ans": 2, "explanation": "Neatness refers to producing clean, organized, and legible work."},
+        {"q": "A clerical worker who types a wrong address on a delivery form is lacking in:", "opts": ["Accuracy", "Confidentiality", "Punctuality", "Neatness"], "ans": 0, "explanation": "Typing the wrong address is a factual error, showing a lack of accuracy."},
+        {"q": "A clerical worker who shares private salary information with everyone is lacking in:", "opts": ["Neatness", "Accuracy", "Punctuality", "Confidentiality"], "ans": 3, "explanation": "Sharing private information is a direct breach of confidentiality."},
+        {"q": "A good clerical worker should be ___ toward colleagues and visitors.", "opts": ["Rude", "Polite and helpful", "Indifferent", "Aggressive"], "ans": 1, "explanation": "Politeness and helpfulness are essential for maintaining good office relations and customer service."},
+        {"q": "Why is neatness important for a clerical worker?", "opts": ["It makes the office look colorful", "It ensures work is legible and professional", "It uses more paper", "It is required by law"], "ans": 1, "explanation": "Neat work is easy to read and presents a professional image of the organization."},
+        {"q": "If a clerk is always late to work, they are lacking in:", "opts": ["Accuracy", "Confidentiality", "Punctuality", "Neatness"], "ans": 2, "explanation": "Consistently arriving late is a failure of punctuality."},
+        {"q": "Which quality ensures that a clerk can be trusted with the company's secret plans?", "opts": ["Neatness", "Punctuality", "Confidentiality", "Politeness"], "ans": 2, "explanation": "Confidentiality is the quality that ensures sensitive and secret information is protected."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w3_su3",
+      "title": "3.3 Impact of Clerical Staff on Organizational Efficiency",
+      "notes": [
+        "Impact of Clerical Staff on Organizational Efficiency",
+        "",
+        "Key Concepts:",
+        "1. Positive Impact of Good Clerical Work:",
+        "   - Smooth Operations: Files are found quickly, calls are answered promptly, and mail is distributed efficiently.",
+        "   - Good Reputation: Polite and accurate clerical staff create a positive first impression for visitors and clients.",
+        "   - Time Saving: Managers can focus on major decisions because routine tasks are handled efficiently.",
+        "",
+        "2. Negative Impact of Poor Clerical Work:",
+        "   - Loss of Important Documents: Poor filing can lead to lost contracts or legal documents.",
+        "   - Financial Loss: Typing errors in invoices or account numbers can lead to lost revenue or wrong payments.",
+        "   - Damaged Reputation: Rude or inefficient staff can drive customers or clients away.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian hospitals, the efficiency of the records clerical staff directly impacts patient care. If a patient's file is misplaced due to poor filing, it delays treatment and damages the hospital's reputation."
+      ],
+      "diagramDescriptions": ["Cause and effect chart showing the impact of good vs. poor clerical work"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies impact of clerical staff on organizational efficiency site:youtube.com",
+      "quiz": [
+        {"q": "A positive impact of good clerical work is:", "opts": ["Smooth office operations", "Loss of important documents", "Financial loss", "Damaged reputation"], "ans": 0, "explanation": "Good clerical work ensures that files, calls, and mail are handled smoothly and efficiently."},
+        {"q": "A negative impact of poor filing by clerical staff is:", "opts": ["Good reputation", "Smooth operations", "Loss of important documents", "Time saving"], "ans": 2, "explanation": "Poor filing directly leads to misplaced or lost important documents."},
+        {"q": "Typing errors in invoices can lead to:", "opts": ["Financial loss", "Good reputation", "Smooth operations", "Time saving"], "ans": 0, "explanation": "Errors in financial documents like invoices can result in wrong payments or lost revenue."},
+        {"q": "When clerical staff handle routine tasks efficiently, managers can:", "opts": ["Focus on major decisions", "Do the typing themselves", "Ignore the business", "Close the office early"], "ans": 0, "explanation": "Efficient routine work frees up managers to focus on strategic, high-level decisions."},
+        {"q": "Rude or inefficient clerical staff can cause:", "opts": ["A good reputation", "Damaged reputation and lost clients", "Increased sales", "Smooth operations"], "ans": 1, "explanation": "Poor customer service from front-line clerical staff can drive clients away and damage the organization's reputation."},
+        {"q": "In a Nigerian hospital, misplaced patient files due to poor clerical work can lead to:", "opts": ["Faster treatment", "Delayed treatment and damaged reputation", "Better patient care", "Increased hospital revenue"], "ans": 1, "explanation": "Lost files delay medical treatment and negatively impact the hospital's reputation."},
+        {"q": "A clerk who is polite and accurate helps the organization build:", "opts": ["A negative image", "A positive first impression and good reputation", "Financial debt", "Operational chaos"], "ans": 1, "explanation": "Polite and accurate staff create a professional, positive impression on visitors and clients."},
+        {"q": "Which of the following is a consequence of a clerk consistently arriving late?", "opts": ["Increased productivity", "Operational delays and frustration for colleagues", "Better reputation", "Smooth mail distribution"], "ans": 1, "explanation": "Lateness disrupts the workflow and causes delays and frustration for the rest of the team."},
+        {"q": "Good clerical work is essential because it:", "opts": ["Is the only work that matters", "Supports the entire organization's daily functioning", "Replaces the need for managers", "Eliminates the need for technology"], "ans": 1, "explanation": "Clerical work is the foundation that supports the daily functioning of the entire organization."},
+        {"q": "A well-organized registry managed by diligent clerical staff ensures that:", "opts": ["Documents are lost", "Information is retrieved quickly and accurately", "The office looks empty", "Managers do all the filing"], "ans": 1, "explanation": "Diligent filing and registry management ensure quick and accurate retrieval of information."}
+      ]
+    }
+  ]
+}

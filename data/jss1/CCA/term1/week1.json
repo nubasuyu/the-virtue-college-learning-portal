@@ -1,0 +1,144 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Introduction to Arts: Meaning, History and Origin",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w1_su1",
+      "title": "1.1 Definition and Meaning of Art",
+      "notes": [
+        "Definition and Meaning of Art",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Art:",
+        "   - Art is the human activity of creating something using SKILL and IMAGINATION to express IDEAS, FEELINGS, or BEAUTY.",
+        "   - It can be visual (seen and touched, like a painting or carving) or non-visual (heard and watched, like music or dance).",
+        "",
+        "2. Why Humans Create Art:",
+        "   - To EXPRESS feelings and ideas.",
+        "   - To TELL stories and preserve history.",
+        "   - To DECORATE and beautify surroundings.",
+        "   - To COMMUNICATE messages, sometimes without using any words at all.",
+        "   - To CELEBRATE culture and traditions.",
+        "",
+        "Nigerian Context:",
+        "   - Every community in Nigeria, from the Yoruba bead workers to the Igbo mask carvers and the Hausa weavers, has its own rich and unique artistic traditions passed down through generations."
+      ],
+      "diagramDescriptions": ["Diagram showing the five main reasons humans create art"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning and purpose of art site:youtube.com",
+      "quiz": [
+        {"q": "Art is best defined as the human activity of creating something using:", "opts": ["Only expensive materials", "Skill and imagination to express ideas, feelings, or beauty", "Random, meaningless actions", "Only digital technology"], "ans": 1, "explanation": "Art fundamentally relies on human skill and imagination to create something meaningful."},
+        {"q": "A carved wooden spoon with a decorated handle is an example of art that is:", "opts": ["Both useful and beautiful", "Only useless decoration", "Not really art at all", "Neither useful nor beautiful"], "ans": 0, "explanation": "Crafts like decorated utensils combine practical utility with artistic beauty."},
+        {"q": "Which of the following is NOT a primary reason humans create art?", "opts": ["To express feelings and ideas", "To tell stories and preserve history", "To avoid all creativity", "To celebrate culture and tradition"], "ans": 2, "explanation": "Art is inherently creative; avoiding creativity is the opposite of creating art."},
+        {"q": "Art can communicate messages:", "opts": ["Only through spoken language", "Sometimes without using any words at all", "Never effectively", "Only through written text"], "ans": 1, "explanation": "Visual arts, music, and dance can convey deep meanings and emotions without a single spoken word."},
+        {"q": "A community festival featuring traditional dances and colourful costumes primarily serves to:", "opts": ["Forget their history entirely", "Celebrate their culture and traditions", "Avoid all self-expression", "Ignore their surroundings"], "ans": 1, "explanation": "Festivals are a vibrant form of art used to celebrate and preserve cultural heritage."},
+        {"q": "Art is compared to a 'silent language' because:", "opts": ["It is a sound no one can hear", "It can be understood across language barriers through visual or auditory expression", "It is a locked door with no meaning", "It requires a translator to understand"], "ans": 1, "explanation": "Art transcends spoken language, allowing people from different backgrounds to understand its message."},
+        {"q": "Which of these is an example of non-visual art?", "opts": ["A painting", "A carved statue", "A traditional drum performance", "A woven cloth"], "ans": 2, "explanation": "A drum performance is experienced primarily through hearing, making it non-visual art."},
+        {"q": "Thinking art is ONLY something hung on a museum wall is a mistake because:", "opts": ["Museums do not have art", "Art includes crafts, textiles, carvings, and many practical, everyday objects", "Art is only found in schools", "Art is only digital"], "ans": 1, "explanation": "Art is present in everyday functional objects like woven baskets, decorated pots, and traditional clothing."},
+        {"q": "Every community and country, including Nigeria, has:", "opts": ["Identical art with no differences", "No artistic traditions at all", "Its own rich and unique artistic traditions", "Art with no cultural meaning"], "ans": 2, "explanation": "Nigeria is known for its diverse and unique artistic traditions across its many ethnic groups."},
+        {"q": "Creating art always involves a person using their:", "opts": ["Boredom with no purpose", "Anger to destroy something", "Creativity to make something meaningful", "Random, meaningless actions"], "ans": 2, "explanation": "The core of art is the intentional use of creativity to produce something of value or meaning."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w1_su2",
+      "title": "1.2 History and Origin of Art: Early Man",
+      "notes": [
+        "History and Origin of Art: Early Man",
+        "",
+        "Key Concepts:",
+        "1. Prehistoric Art:",
+        "   - The history of art stretches back to the very beginning of humanity.",
+        "   - Early man created some of the FIRST known artworks.",
+        "",
+        "2. Types of Early Artworks:",
+        "   - CAVE PAINTINGS: Drawings of animals and hunting scenes on cave walls, using natural pigments like charcoal, clay, and ochre.",
+        "   - CARVED TOOLS: Simple objects shaped from stone, bone, or wood for both practical use and aesthetic appeal.",
+        "   - EARLY JEWELLERY: Necklaces and ornaments made from shells, bones, stones, and seeds.",
+        "",
+        "3. Purpose of Early Art:",
+        "   - These early artworks were not just decoration. They likely served SPIRITUAL, RECORD-KEEPING, or COMMUNICATION purposes for early communities.",
+        "",
+        "Nigerian Context:",
+        "   - Just as early humans in Europe painted in caves, early inhabitants of the Nigerian region also left behind rich archaeological evidence of their artistic and practical skills, laying the foundation for later traditions."
+      ],
+      "diagramDescriptions": ["Illustration of early man creating cave paintings with natural pigments"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts early man cave paintings prehistoric art site:youtube.com",
+      "quiz": [
+        {"q": "Early man created some of the first known artworks, including:", "opts": ["Modern digital art only", "Plastic sculptures only", "Cave paintings and carved tools", "Nothing of artistic value"], "ans": 2, "explanation": "Cave paintings and carved tools are among the earliest forms of human artistic expression."},
+        {"q": "Cave paintings were often drawn using:", "opts": ["Modern synthetic paint only", "Digital tools", "Natural pigments like charcoal and clay", "Plastic materials"], "ans": 2, "explanation": "Early humans used materials readily available in nature, such as charcoal, clay, and ochre."},
+        {"q": "Early jewellery was commonly made from materials such as:", "opts": ["Modern metals only", "Plastic only", "Nothing natural", "Shells, bones, and stones"], "ans": 3, "explanation": "Early humans crafted jewellery from natural materials they could find, like shells and bones."},
+        {"q": "Early cave paintings likely served purposes such as:", "opts": ["Having no real purpose", "Spiritual, record-keeping, or communication functions", "Selling art to other tribes", "Decorating caves for tourists"], "ans": 1, "explanation": "Prehistoric art was deeply functional, often tied to hunting rituals, spiritual beliefs, or recording events."},
+        {"q": "If you were an early human artist with only natural materials, you would most likely use:", "opts": ["Acrylic paint and canvas", "Charcoal and clay", "Digital tablets", "Plastic markers"], "ans": 1, "explanation": "Charcoal and clay were the primary 'paints' available to prehistoric artists."},
+        {"q": "The creation of early carved tools shows that early humans valued:", "opts": ["Only pure decoration with no function", "A combination of practical use and aesthetic appeal", "Destroying their environment", "Ignoring their surroundings"], "ans": 1, "explanation": "Early tools were often shaped carefully, showing an early blend of utility and artistic design."},
+        {"q": "Which of the following is NOT a type of early man artwork?", "opts": ["Cave paintings", "Carved stone tools", "3D printed sculptures", "Shell jewellery"], "ans": 2, "explanation": "3D printing is a modern technology, not available to early humans."},
+        {"q": "Early humans used art to communicate because:", "opts": ["They had advanced writing systems", "They could send text messages", "Visual symbols could convey meaning without a written language", "They wanted to confuse other tribes"], "ans": 2, "explanation": "Before written language, visual art was a primary method of recording and sharing information."},
+        {"q": "The discovery of early jewellery suggests that early humans had a sense of:", "opts": ["Modern fashion trends", "Personal adornment and aesthetics", "Digital design", "Industrial manufacturing"], "ans": 1, "explanation": "Creating jewellery indicates an early human desire for personal decoration and aesthetic expression."},
+        {"q": "The history of art is often compared to an 'unbroken thread' because:", "opts": ["It is a broken, disconnected series of events", "The same human urge to create and express has been passed down through generations", "It has no real history", "It is an unrelated random sequence"], "ans": 1, "explanation": "From cave paintings to modern art, the fundamental human drive to create remains consistent."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w1_su3",
+      "title": "1.3 History and Origin of Art: Nigerian Artworks",
+      "notes": [
+        "History and Origin of Art: Nigerian Artworks",
+        "",
+        "Key Concepts:",
+        "1. Nok Terracotta:",
+        "   - Discovered in central Nigeria.",
+        "   - Among the oldest sculptural art in Africa, dating back over 2,000 years.",
+        "   - Known for its distinctive triangular eyes and elaborate hairstyles.",
+        "",
+        "2. Ife Bronze and Terracotta Heads:",
+        "   - Originated from the ancient Yoruba kingdom of Ile-Ife.",
+        "   - Famous worldwide for their remarkable realism and naturalistic proportions.",
+        "",
+        "3. Benin Bronzes:",
+        "   - Intricate bronze plaques and sculptures from the Benin Kingdom.",
+        "   - Celebrated as some of the finest bronze-casting (lost-wax method) works in world history.",
+        "",
+        "Nigerian Context:",
+        "   - These ancient traditions (Nok, Ife, Benin) are a source of immense national pride and continue to influence and inspire contemporary Nigerian artists today."
+      ],
+      "diagramDescriptions": ["Images or descriptions of Nok Terracotta, Ife Head, and Benin Bronze"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts Nok Ife Benin ancient Nigerian art history site:youtube.com",
+      "quiz": [
+        {"q": "The Nok Terracotta sculptures were discovered in:", "opts": ["Modern Europe", "Central Nigeria", "A different continent entirely", "Nowhere real"], "ans": 1, "explanation": "The Nok culture was located in what is now central Nigeria."},
+        {"q": "The Nok Terracotta sculptures are among the oldest sculptural art in Africa, dating back over:", "opts": ["200 years", "20 years", "2,000 years", "No specific time at all"], "ans": 2, "explanation": "Nok art dates back to around 500 BC, making it over 2,000 years old."},
+        {"q": "The Ife Bronze and Terracotta Heads are famous for their:", "opts": ["Complete lack of detail", "Modern plastic material", "Remarkable realism", "Having no artistic value"], "ans": 2, "explanation": "Ife art is renowned globally for its highly naturalistic and realistic portrayal of human features."},
+        {"q": "The Benin Bronzes come from which Nigerian kingdom?", "opts": ["A kingdom outside Nigeria", "A purely modern invention", "No specific kingdom", "The Benin Kingdom"], "ans": 3, "explanation": "The Benin Bronzes were created by the artisans of the historic Benin Kingdom."},
+        {"q": "The Benin Bronzes are celebrated for their:", "opts": ["Lack of historical importance", "Complete absence of skill", "Modern digital technique", "Bronze-casting craftsmanship"], "ans": 3, "explanation": "The Benin artisans mastered the complex 'lost-wax' bronze-casting technique."},
+        {"q": "Which ancient Nigerian art tradition is known for distinctive triangular eyes?", "opts": ["Ife Bronze", "Benin Bronze", "Nok Terracotta", "Modern Nigerian Art"], "ans": 2, "explanation": "Triangular or perforated eyes are a hallmark stylistic feature of Nok terracotta figures."},
+        {"q": "Ancient Nigerian art traditions ___ Nigerian art today.", "opts": ["Are unrelated to", "Have no connection to", "Still influence and inspire", "Have been completely forgotten by"], "ans": 2, "explanation": "Contemporary Nigerian artists frequently draw inspiration from these rich historical traditions."},
+        {"q": "The material primarily associated with the Nok culture is:", "opts": ["Bronze", "Terracotta (fired clay)", "Marble", "Gold"], "ans": 1, "explanation": "Nok artists are most famous for their terracotta (fired clay) sculptures."},
+        {"q": "The ancient kingdom of Ile-Ife is most closely associated with which ethnic group's art history?", "opts": ["Hausa-Fulani", "Yoruba", "Igbo", "Kanuri"], "ans": 1, "explanation": "Ile-Ife is regarded as the ancestral home of the Yoruba people and the source of Ife art."},
+        {"q": "Studying ancient Nigerian art helps students to:", "opts": ["Forget their history entirely", "Appreciate the rich cultural heritage and craftsmanship of their ancestors", "Believe art has no purpose", "Ignore their surroundings"], "ans": 1, "explanation": "Learning about Nok, Ife, and Benin art fosters pride and understanding of Nigeria's deep artistic roots."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of art.",
+      "markingGuide": "Clear, accurate explanation covering skill, imagination, and expression (5 marks, holistic)."
+    },
+    {
+      "question": "State THREE reasons why human beings create art.",
+      "markingGuide": "1.5–2 marks per valid, clearly stated reason (5 marks total for three)."
+    },
+    {
+      "question": "Describe TWO types of artwork created by early man.",
+      "markingGuide": "2.5 marks each for a correctly described type of early artwork (e.g., cave paintings, carved tools)."
+    },
+    {
+      "question": "Name and briefly describe THREE ancient Nigerian art traditions.",
+      "markingGuide": "1.5–2 marks per correctly named tradition with a brief, accurate description (5 marks total for three)."
+    },
+    {
+      "question": "Explain, using the 'unbroken thread' analogy or your own example, how art connects people across many generations, even thousands of years apart.",
+      "markingGuide": "Clear explanation with a valid supporting example (5 marks, holistic)."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Market Continued: Cost of Sales, Mark-up, Turnover and Profit",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w7_su1",
+      "title": "7.1 Cost of Sales and Mark-up",
+      "notes": [
+        "Cost of Sales and Mark-up",
+        "",
+        "Key Concepts:",
+        "1. Cost of Sales (Cost of Goods Sold):",
+        "   - The TOTAL amount a business SPENT to acquire or produce the goods it has SOLD during a period.",
+        "   - It represents what the goods themselves cost the business, before any other expenses.",
+        "",
+        "2. Mark-up:",
+        "   - The AMOUNT (or percentage) ADDED to the cost price to arrive at the SELLING price.",
+        "   - It is how a business builds in its intended profit.",
+        "",
+        "3. Formulas:",
+        "   - Mark-up Amount = Selling Price − Cost Price",
+        "   - Mark-up Percentage = (Mark-up Amount ÷ Cost Price) × 100",
+        "",
+        "Nigerian Context:",
+        "   - A trader in Balogun Market buying a bag of rice for ₦18,000 and selling it for ₦21,600 has a mark-up of ₦3,600. Understanding this helps traders price their goods to cover costs and make a profit."
+      ],
+      "diagramDescriptions": ["Formula box for Cost of Sales, Mark-up Amount, and Mark-up Percentage"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies cost of sales and mark-up calculations site:youtube.com",
+      "quiz": [
+        {"q": "What is cost of sales?", "opts": ["The selling price of goods", "The profit made on goods", "The rent paid for a shop", "The total amount spent acquiring/producing goods that were sold"], "ans": 3, "explanation": "Cost of sales is the direct cost attributable to the production or acquisition of the goods sold."},
+        {"q": "Mark-up Amount =", "opts": ["Selling Price + Cost Price", "Selling Price − Cost Price", "Selling Price ÷ Cost Price", "Cost Price − Selling Price"], "ans": 1, "explanation": "Mark-up is the difference between the selling price and the cost price."},
+        {"q": "A trader buys an item for ₦5,000 and sells it for ₦6,000. Find the mark-up.", "opts": ["₦6,000", "₦1,000", "₦5,000", "₦11,000"], "ans": 1, "explanation": "Mark-up = 6,000 - 5,000 = ₦1,000."},
+        {"q": "Mark-up percentage is calculated relative to the:", "opts": ["Cost price", "Total revenue", "Profit only", "Selling price"], "ans": 0, "explanation": "Mark-up percentage is always calculated as a percentage of the original cost price."},
+        {"q": "A trader buys an item for ₦8,000 and sells it for ₦9,600. Find the mark-up percentage.", "opts": ["16%", "20%", "12%", "25%"], "ans": 1, "explanation": "Mark-up = 9,600 - 8,000 = 1,600. Percentage = (1,600 / 8,000) × 100 = 20%."},
+        {"q": "A trader buys an item for ₦12,000 and applies a mark-up of 25%. Find the selling price.", "opts": ["₦15,000", "₦14,000", "₦16,000", "₦13,000"], "ans": 0, "explanation": "Mark-up = 25% of 12,000 = 3,000. Selling Price = 12,000 + 3,000 = ₦15,000."},
+        {"q": "Mark-up is best described as:", "opts": ["The amount added to cost price to reach selling price", "The total cost of all business expenses", "The amount of tax paid", "The depreciation of an asset"], "ans": 0, "explanation": "Mark-up is the specific amount added to the cost to determine the final selling price."},
+        {"q": "A trader buys an item for ₦20,000 and sells it for ₦25,000. Find the mark-up percentage.", "opts": ["20%", "25%", "30%", "15%"], "ans": 1, "explanation": "Mark-up = 5,000. Percentage = (5,000 / 20,000) × 100 = 25%."},
+        {"q": "If cost of sales is ₦300,000 and the mark-up is 40%, find the mark-up amount.", "opts": ["₦160,000", "₦120,000", "₦140,000", "₦100,000"], "ans": 1, "explanation": "Mark-up amount = 40% of 300,000 = 0.40 × 300,000 = ₦120,000."},
+        {"q": "Mark-up represents:", "opts": ["A government tax", "A trader's intended profit built into the selling price", "A customer's refund", "A pure loss for the trader"], "ans": 1, "explanation": "Mark-up is the trader's mechanism for ensuring a profit is made on each item sold."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w7_su2",
+      "title": "7.2 Turnover, Gross Profit/Loss",
+      "notes": [
+        "Turnover, Gross Profit/Loss",
+        "",
+        "Key Concepts:",
+        "1. Turnover (Sales Revenue):",
+        "   - The TOTAL amount of money a business receives from selling its goods or services over a period.",
+        "   - It is the 'top line' figure, BEFORE any costs or expenses are subtracted.",
+        "",
+        "2. Gross Profit:",
+        "   - What remains after subtracting ONLY the cost of sales from turnover.",
+        "   - Formula: Gross Profit = Turnover − Cost of Sales.",
+        "",
+        "3. Gross Loss:",
+        "   - If the Cost of Sales EXCEEDS the Turnover, the result is a Gross Loss instead of a profit.",
+        "   - This means the business is selling goods for less than it cost to acquire them.",
+        "",
+        "Nigerian Context:",
+        "   - A supermarket in Lagos might have a high turnover (millions of Naira in sales), but if the cost of buying those goods from suppliers is almost as high, the gross profit will be small."
+      ],
+      "diagramDescriptions": ["Formula box for Turnover, Gross Profit, and Gross Loss"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies turnover gross profit loss calculations site:youtube.com",
+      "quiz": [
+        {"q": "What is turnover?", "opts": ["Only the rent paid", "The total amount of money a business receives from sales", "Only the cost of goods", "The profit remaining after all expenses"], "ans": 1, "explanation": "Turnover, also known as sales revenue, is the total income from sales before any deductions."},
+        {"q": "Gross Profit =", "opts": ["Cost of Sales − Turnover", "Turnover − Cost of Sales", "Turnover + Cost of Sales", "Turnover ÷ Cost of Sales"], "ans": 1, "explanation": "Gross Profit is calculated by subtracting the cost of sales from the total turnover."},
+        {"q": "A shop has turnover of ₦600,000 and cost of sales of ₦400,000. Find the gross profit.", "opts": ["₦1,000,000", "₦600,000", "₦400,000", "₦200,000"], "ans": 3, "explanation": "Gross Profit = 600,000 - 400,000 = ₦200,000."},
+        {"q": "If cost of sales exceeds turnover, the result is a:", "opts": ["Gross profit", "Net profit always", "Turnover increase", "Gross loss"], "ans": 3, "explanation": "When the cost of goods sold is higher than the revenue generated, the business incurs a gross loss."},
+        {"q": "Turnover is often referred to as the '___' figure in a business.", "opts": ["Bottom line", "Top line", "Middle line", "Hidden line"], "ans": 1, "explanation": "Turnover is the 'top line' because it appears at the very top of an income statement before any expenses are deducted."},
+        {"q": "A business sells goods for ₦500,000. The goods cost the business ₦550,000. What is the result?", "opts": ["Gross profit of ₦50,000", "Gross loss of ₦50,000", "Net profit of ₦50,000", "Break-even"], "ans": 1, "explanation": "Since the cost (₦550,000) is higher than the turnover (₦500,000), there is a gross loss of ₦50,000."},
+        {"q": "Gross profit shows the profitability of a business before considering:", "opts": ["The cost of the goods themselves", "Other operating expenses like rent and salaries", "The total sales revenue", "The number of employees"], "ans": 1, "explanation": "Gross profit only deducts the cost of sales; operating expenses are deducted later to find net profit."},
+        {"q": "If a trader buys shoes for ₦10,000 and sells them for ₦8,000, the trader has made a:", "opts": ["Gross profit", "Gross loss", "Net profit", "Turnover"], "ans": 1, "explanation": "Selling for less than the cost price results in a gross loss."},
+        {"q": "To calculate gross profit, you must know the:", "opts": ["Rent and electricity bills", "Turnover and cost of sales", "Net profit and taxes", "Number of customers"], "ans": 1, "explanation": "The formula for gross profit requires only the turnover and the cost of sales."},
+        {"q": "A high turnover does not always mean high gross profit if:", "opts": ["The cost of sales is also very high", "The business has no employees", "The business is new", "The business is located in a city"], "ans": 0, "explanation": "If the cost to acquire the goods is almost as high as the selling price, the gross profit margin will be very thin, despite high turnover."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w7_su3",
+      "title": "7.3 Net Profit/Loss and Practical Applications",
+      "notes": [
+        "Net Profit/Loss and Practical Applications",
+        "",
+        "Key Concepts:",
+        "1. Net Profit:",
+        "   - The TRUE, final measure of how much a business actually earned after EVERY cost is accounted for.",
+        "   - Formula: Net Profit = Gross Profit − Other Expenses (rent, salaries, electricity, transport, etc.).",
+        "",
+        "2. Net Loss:",
+        "   - If total OTHER EXPENSES exceed the Gross Profit, the result is a Net Loss.",
+        "   - This means the business is operating at an overall loss, even if it made a gross profit.",
+        "",
+        "3. Practical Application:",
+        "   - A business can have a healthy gross profit but still end up with a net loss if its overhead expenses (like high rent or excessive salaries) are too high.",
+        "",
+        "Nigerian Context:",
+        "   - Many Nigerian SMEs struggle with high overhead costs (e.g., diesel for generators, high shop rent). A trader might make a good gross profit on selling phones, but after paying for generator fuel and shop rent, the net profit might be zero or negative."
+      ],
+      "diagramDescriptions": ["Flowchart showing Turnover -> Gross Profit -> Net Profit"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies net profit loss calculations practical applications site:youtube.com",
+      "quiz": [
+        {"q": "Net Profit =", "opts": ["Gross Profit − Other Expenses", "Cost of Sales − Other Expenses", "Turnover − Other Expenses only", "Gross Profit + Other Expenses"], "ans": 0, "explanation": "Net profit is what remains after all operating expenses are subtracted from the gross profit."},
+        {"q": "If total expenses exceed gross profit, the result is a:", "opts": ["Net loss", "Gross profit increase", "Net profit", "Turnover decrease"], "ans": 0, "explanation": "When operating expenses are higher than the gross profit, the business suffers a net loss."},
+        {"q": "A business can have a healthy gross profit but still show a net loss if:", "opts": ["It has no expenses at all", "Cost of sales is zero", "Turnover is very high", "Its other expenses are too high"], "ans": 3, "explanation": "High overhead costs (rent, salaries, etc.) can wipe out a gross profit, resulting in a net loss."},
+        {"q": "Net profit is described as the ___ measure of what a business earned.", "opts": ["Irrelevant", "Temporary", "True, final", "Least accurate"], "ans": 2, "explanation": "Net profit is the bottom line, representing the actual earnings after all costs are paid."},
+        {"q": "A shop has turnover of ₦1,200,000, cost of sales of ₦700,000, and other expenses of ₦300,000. Find the net profit.", "opts": ["₦1,200,000", "₦200,000", "₦500,000", "₦900,000"], "ans": 1, "explanation": "Gross Profit = 1,200,000 - 700,000 = 500,000. Net Profit = 500,000 - 300,000 = ₦200,000."},
+        {"q": "Which of the following is considered an 'Other Expense' when calculating net profit?", "opts": ["Cost of buying the goods sold", "Rent for the shop", "The selling price of the goods", "The total turnover"], "ans": 1, "explanation": "Rent is an operating expense deducted from gross profit to find net profit."},
+        {"q": "If Gross Profit is ₦150,000 and Other Expenses are ₦180,000, the business has made a:", "opts": ["Net profit of ₦30,000", "Net loss of ₦30,000", "Gross profit of ₦30,000", "Turnover of ₦30,000"], "ans": 1, "explanation": "Since expenses (₦180,000) are greater than gross profit (₦150,000), there is a net loss of ₦30,000."},
+        {"q": "Why is it important for a business owner to track BOTH gross profit and net profit?", "opts": ["To make the accounts look longer", "Because gross profit alone can hide high expenses, giving a misleading picture of success", "To avoid paying taxes", "To confuse the accountant"], "ans": 1, "explanation": "Tracking both ensures the owner knows if the core business is profitable (gross) and if the overall operation is sustainable (net)."},
+        {"q": "A trader's gross profit is ₦50,000. He pays ₦20,000 for transport and ₦15,000 for electricity. What is his net profit?", "opts": ["₦50,000", "₦35,000", "₦15,000", "₦85,000"], "ans": 2, "explanation": "Net Profit = 50,000 - (20,000 + 15,000) = 50,000 - 35,000 = ₦15,000."},
+        {"q": "The 'bottom line' of a business refers to its:", "opts": ["Turnover", "Gross Profit", "Net Profit or Net Loss", "Cost of Sales"], "ans": 2, "explanation": "The 'bottom line' is the final net profit or loss figure at the bottom of an income statement."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "A trader buys shoes for ₦4,500 per pair and sells them for ₦6,300 per pair. Find the mark-up amount and mark-up percentage per pair.",
+      "markingGuide": "Correct mark-up amount ₦1,800 (2.5 marks); correct mark-up percentage 40% (2.5 marks). Total: 5 marks."
+    },
+    {
+      "question": "A shop's turnover for the month is ₦950,000, with cost of sales of ₦620,000. Find the gross profit.",
+      "markingGuide": "Correct method shown (2.5 marks); correct final answer ₦330,000 (2.5 marks). Total: 5 marks."
+    },
+    {
+      "question": "Using the gross profit found above (₦330,000), if the shop's other monthly expenses (rent, salaries, electricity) total ₦210,000, find the net profit.",
+      "markingGuide": "Correct method shown (2.5 marks); correct final answer ₦120,000 (2.5 marks). Total: 5 marks."
+    },
+    {
+      "question": "A trader buys a batch of goods for ₦150,000 (cost of sales), sells them for a turnover of ₦210,000, and pays ₦45,000 in other expenses for the period. Calculate the mark-up, the gross profit, and the net profit, showing all your working.",
+      "markingGuide": "Correct mark-up ₦60,000 (1.5 marks); correct gross profit ₦60,000 (1.5 marks); correct net profit ₦15,000 (2 marks). Total: 5 marks."
+    },
+    {
+      "question": "Explain, in your own words, why a business owner should track BOTH gross profit and net profit, rather than looking at only one of them.",
+      "markingGuide": "Clear explanation referencing how gross profit alone can hide high expenses, giving a misleading picture of overall business health (5 marks, holistic)."
+    }
+  ]
+}

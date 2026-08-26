@@ -1,0 +1,140 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Exhibition: Meaning and Types",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w8_su1",
+      "title": "8.1 Meaning and Definition of Exhibition",
+      "notes": [
+        "Meaning and Definition of Exhibition",
+        "",
+        "Key Concepts:",
+        "1. Definition:",
+        "   - An EXHIBITION is a PUBLIC display or showing of artworks, organised specifically to allow an AUDIENCE to view, appreciate, and often PURCHASE the featured pieces.",
+        "",
+        "2. Significance:",
+        "   - Represents the culminating, PUBLIC-FACING moment in an artist's creative process.",
+        "   - Transforms private creative work into a shared experience, inviting genuine public engagement and feedback.",
+        "",
+        "3. Planning Requirements:",
+        "   - Requires careful planning beyond simply hanging artwork: selecting works (curation), preparing display techniques (labelling, framing, fixing), promoting the event, and often organising an OPENING event.",
+        "",
+        "Nigerian Context:",
+        "   - School art exhibitions in Nigeria (like those for WAEC/NECO practicals) are crucial culminating events where students showcase their term's work to teachers, parents, and examiners."
+      ],
+      "diagramDescriptions": ["Diagram showing the stages of exhibition planning: curation, display, promotion, opening"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts meaning and definition of art exhibition site:youtube.com",
+      "quiz": [
+        {"q": "What is an exhibition?", "opts": ["A type of colour", "A public display of artworks allowing an audience to view, appreciate, and often purchase pieces", "A type of craft material", "A private, hidden collection with no public access"], "ans": 1, "explanation": "An exhibition is a public showing of artwork for an audience."},
+        {"q": "An exhibition represents the ___ moment in an artist's creative process.", "opts": ["earliest, most private", "culminating, public-facing", "unrelated to any process", "entirely irrelevant"], "ans": 1, "explanation": "It is the final, public-facing culmination of the artist's private creative work."},
+        {"q": "Preparing a successful exhibition requires ___.", "opts": ["careful planning, including curation, display preparation, and promotion", "only hanging artwork randomly", "no planning at all", "ignoring the audience entirely"], "ans": 0, "explanation": "Successful exhibitions require curation, proper display, and promotion."},
+        {"q": "Curation, in exhibition planning, refers to ___.", "opts": ["ignoring all artwork selection decisions", "selecting which works to include", "a type of colour mixing", "a type of frame"], "ans": 1, "explanation": "Curation is the careful selection and organisation of artworks for the exhibition."},
+        {"q": "Exhibitions serve artists both ___.", "opts": ["only financially, with no artistic value", "only artistically, with no practical benefit", "in no meaningful way at all", "artistically and practically"], "ans": 3, "explanation": "Exhibitions provide artistic validation and practical benefits like sales and networking."},
+        {"q": "An exhibition can help an artist generate ___.", "opts": ["only artistic frustration", "nothing related to their career", "no benefit of any kind", "sales, reputation, and connections with collectors"], "ans": 3, "explanation": "Exhibitions are key opportunities for artists to sell work and build their professional network."},
+        {"q": "An exhibition is compared to ___ in the analogy.", "opts": ["a ceremony with no real significance", "an unrelated random comparison", "a purely private event with no public element", "a graduation ceremony for a body of artistic work"], "ans": 3, "explanation": "Like a graduation, an exhibition is the public celebration of completed, refined work."},
+        {"q": "An exhibition allows previously private creative work to become ___.", "opts": ["destroyed entirely", "unrelated to any audience", "permanently hidden from view", "publicly shared and appreciated"], "ans": 3, "explanation": "The core purpose of an exhibition is to share private work with a public audience."},
+        {"q": "An opening event for an exhibition serves to ___.", "opts": ["hide the exhibition from visitors", "discourage public attendance", "formally launch the exhibition", "have no purpose at all"], "ans": 2, "explanation": "An opening event formally launches the exhibition and attracts initial visitors."},
+        {"q": "A successful exhibition builds an artist's connections with ___.", "opts": ["no one of relevance", "only unrelated strangers", "people with no interest in art", "collectors, galleries, and fellow artists"], "ans": 3, "explanation": "Exhibitions are networking hubs for the art community."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w8_su2",
+      "title": "8.2 Types of Exhibition: Solo, Group, and Juried",
+      "notes": [
+        "Types of Exhibition: Solo, Group, and Juried",
+        "",
+        "Key Concepts:",
+        "1. Solo Exhibition:",
+        "   - Features the work of ONE single artist exclusively.",
+        "   - Allows a deep, focused exploration of that individual's style, themes, and body of work. Often a significant career MILESTONE.",
+        "",
+        "2. Group Exhibition:",
+        "   - Features work by MULTIPLE artists.",
+        "   - Often united around a shared theme, medium, or occasion, allowing diverse artistic voices to be seen TOGETHER.",
+        "",
+        "3. Juried Exhibition:",
+        "   - SELECTS which artworks will be included through a formal REVIEW process by a panel of qualified judges (the 'jury').",
+        "   - Based on artistic merit; competitive entry, with EXCLUSION as a real possibility for submissions that do not meet standards.",
+        "",
+        "Nigerian Context:",
+        "   - The annual 'Art Exhibition' for JSS3/SS3 students preparing for external exams is a form of group exhibition, while established Nigerian artists often hold solo exhibitions at the Nike Art Gallery or Thought Pyramid."
+      ],
+      "diagramDescriptions": ["Visual comparison of solo, group, and juried exhibition formats"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts types of exhibition solo group juried site:youtube.com",
+      "quiz": [
+        {"q": "A solo exhibition features the work of ___.", "opts": ["many different artists always", "only anonymous, unidentified artists", "one single artist exclusively", "no artist in particular"], "ans": 2, "explanation": "A solo exhibition is dedicated entirely to one artist's work."},
+        {"q": "A group exhibition features work by ___.", "opts": ["artists with no shared connection at all", "no identifiable artists", "multiple artists, often around a shared theme", "only one artist exclusively"], "ans": 2, "explanation": "Group exhibitions showcase multiple artists, often linked by a theme."},
+        {"q": "A juried exhibition selects artwork through ___.", "opts": ["no selection process at all, accepting everything", "a formal review process by a panel of judges", "a process unrelated to artistic merit", "random, unplanned selection"], "ans": 1, "explanation": "A jury of experts reviews and selects submissions based on merit."},
+        {"q": "A solo exhibition is often a significant ___ for an artist.", "opts": ["career milestone", "irrelevant, meaningless event", "setback with no significance", "purely financial loss"], "ans": 0, "explanation": "Earning a solo exhibition is a major professional achievement for an artist."},
+        {"q": "A juried exhibition involves the real possibility of ___.", "opts": ["exclusion for submissions not meeting the jury's standards", "no review process at all", "automatic acceptance for every submission", "guaranteed inclusion regardless of quality"], "ans": 0, "explanation": "Because it is competitive and merit-based, rejection is a real possibility."},
+        {"q": "The types of exhibition are compared to ___ in the analogy.", "opts": ["gatherings with no distinct purpose", "different kinds of public gatherings", "unrelated random comparisons", "a single, unchanging type of gathering"], "ans": 1, "explanation": "Solo, group, and juried exhibitions are like different types of public gatherings (lecture, panel, contest)."},
+        {"q": "A group exhibition allows ___ to be seen together.", "opts": ["only one artist's entire life work", "no artistic voices", "diverse artistic voices", "only rejected artworks"], "ans": 2, "explanation": "Group exhibitions showcase a variety of perspectives and styles."},
+        {"q": "A school's end-of-term art show, featuring work from all students in a class, is an example of a ___ exhibition.", "opts": ["solo", "juried", "group", "commercial"], "ans": 2, "explanation": "It features the work of multiple artists (the students) together."},
+        {"q": "An artist submitting work to a national competition where a panel decides the winners is participating in a ___ exhibition.", "opts": ["solo", "juried", "non-commercial", "open entry"], "ans": 1, "explanation": "Selection by a panel of judges defines a juried exhibition."},
+        {"q": "A deep, focused exploration of one individual's style and themes is best achieved through a ___ exhibition.", "opts": ["group", "juried", "solo", "open"], "ans": 2, "explanation": "A solo exhibition dedicates all space and attention to one artist's vision."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w8_su3",
+      "title": "8.3 Types of Exhibition: Commercial and Non-Commercial",
+      "notes": [
+        "Types of Exhibition: Commercial and Non-Commercial",
+        "",
+        "Key Concepts:",
+        "1. Commercial Exhibition:",
+        "   - Organised PRIMARILY to SELL artwork.",
+        "   - Typically hosted by a commercial gallery seeking profit from sales.",
+        "   - The focus is on marketability and connecting artists with buyers/collectors.",
+        "",
+        "2. Non-Commercial Exhibition:",
+        "   - Organised WITHOUT primary sales intent.",
+        "   - Often educational, community-focused, or purely celebratory.",
+        "   - Hosted by institutions like schools, museums, or cultural centres, prioritising public engagement and cultural value over direct profit.",
+        "",
+        "Nigerian Context:",
+        "   - A gallery in Lagos displaying paintings with red 'SOLD' dots is a commercial exhibition. Conversely, a museum exhibition celebrating '100 Years of Nigerian Independence' is non-commercial, focused on education and heritage."
+      ],
+      "diagramDescriptions": ["Comparison chart of commercial vs. non-commercial exhibition goals and hosts"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts commercial vs non-commercial exhibitions site:youtube.com",
+      "quiz": [
+        {"q": "A commercial exhibition is organised primarily ___.", "opts": ["for community celebration, with no sales intent", "to sell artwork", "for education, with no sales intent", "with no purpose at all"], "ans": 1, "explanation": "The primary goal of a commercial exhibition is to sell artwork for profit."},
+        {"q": "A non-commercial exhibition is organised ___.", "opts": ["without primary sales intent, often for education or community purposes", "purely to maximise profit", "with no purpose of any kind", "exclusively for private, hidden viewing"], "ans": 0, "explanation": "Non-commercial exhibitions prioritise education, community, or celebration over sales."},
+        {"q": "A commercial exhibition is typically hosted by ___.", "opts": ["a commercial gallery seeking profit from sales", "only non-profit community centres", "organisations with no interest in sales", "only schools, with no commercial intent"], "ans": 0, "explanation": "Commercial galleries host these exhibitions to generate sales and represent artists commercially."},
+        {"q": "Non-commercial exhibitions are often hosted by ___.", "opts": ["no institutions at all", "organisations unrelated to culture or education", "institutions like schools, museums, or cultural centres", "only commercial galleries seeking profit"], "ans": 2, "explanation": "Schools, museums, and cultural centres host non-commercial exhibitions for public benefit."},
+        {"q": "An exhibition with red 'SOLD' dots next to the artworks is most likely a ___ exhibition.", "opts": ["non-commercial", "juried", "commercial", "solo"], "ans": 2, "explanation": "'SOLD' dots indicate that the primary purpose is the sale of the artwork."},
+        {"q": "An exhibition celebrating 'The History of Nigerian Textiles' at a national museum is a ___ exhibition.", "opts": ["commercial", "non-commercial", "purely for profit", "exclusive to collectors"], "ans": 1, "explanation": "Museum exhibitions focused on history and education are non-commercial."},
+        {"q": "The key practical difference for a visitor is that gallery artwork in a commercial exhibition can typically be ___, while museum pieces typically cannot.", "opts": ["touched, with no other distinction", "photographed, with no other distinction", "only viewed from a great distance", "purchased"], "ans": 3, "explanation": "Commercial exhibitions are designed for the artwork to be purchased by visitors."},
+        {"q": "A non-commercial exhibition prioritises ___ over direct profit.", "opts": ["rapid sales", "public engagement and cultural value", "exclusive collector access", "marketability"], "ans": 1, "explanation": "Cultural value, education, and community engagement are the primary goals of non-commercial shows."},
+        {"q": "An artist looking to build their resume and gain public exposure without the pressure of immediate sales might prefer a ___ exhibition.", "opts": ["commercial", "non-commercial", "highly exclusive", "purely profit-driven"], "ans": 1, "explanation": "Non-commercial exhibitions offer valuable exposure and prestige without sales pressure."},
+        {"q": "Commercial and non-commercial exhibitions serve ___ purposes in the art world.", "opts": ["identical", "mutually exclusive and equally valuable", "no real", "only harmful"], "ans": 1, "explanation": "Both are essential: commercial sustains artists financially, while non-commercial sustains cultural and educational value."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of an exhibition, and why it represents a culminating moment for an artist.",
+      "markingGuide": "Clear definition (2.5); clear explanation of its significance (2.5)."
+    },
+    {
+      "question": "List THREE tasks involved in planning a successful exhibition, beyond simply hanging artwork.",
+      "markingGuide": "1.5–2 marks per valid, clearly stated task (5 total for three)."
+    },
+    {
+      "question": "Distinguish between a solo exhibition and a group exhibition, giving a reason an artist might choose each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid reasoning."
+    },
+    {
+      "question": "Distinguish between a commercial exhibition and a non-commercial exhibition, giving an example of an organisation likely to host each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples."
+    },
+    {
+      "question": "Explain what a juried exhibition is, and why competitive selection through a jury might benefit the overall quality of an exhibition.",
+      "markingGuide": "Clear definition (2.5); clear reasoning about quality benefits (2.5)."
+    }
+  ]
+}

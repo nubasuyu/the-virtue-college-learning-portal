@@ -1,0 +1,137 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Lettering: Definition, Types, and Uses",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w10_su1",
+      "title": "10.1 Definition and Types of Lettering",
+      "notes": [
+        "Definition and Types of Lettering",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Lettering:",
+        "   - LETTERING is the deliberate, skilled ART of DRAWING or CONSTRUCTING letters carefully by hand, following consistent design principles.",
+        "   - Unlike ordinary handwriting (fast, personal, often inconsistent), lettering is a slower, more DELIBERATE process, treating each letter as a small piece of visual DESIGN in its own right.",
+        "",
+        "2. Constructed Lettering:",
+        "   - Built up carefully using GEOMETRIC tools and techniques (rulers, compasses, guidelines) to create PRECISE, consistent letterforms.",
+        "   - Often used for formal signage, technical drawings, or professional titles.",
+        "",
+        "3. Hand-Written (Hand-Lettered) Lettering:",
+        "   - Drawn more FREELY by hand, often with a more personal, expressive, or decorative CHARACTER.",
+        "   - Still follows deliberate design principles, unlike casual, everyday handwriting.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, constructed lettering is often seen on formal business signs, school nameboards, and official certificates, while hand-lettering is popular in creative poster design, event invitations, and artistic murals."
+      ],
+      "diagramDescriptions": ["Visual comparison of casual handwriting, constructed lettering, and hand-lettered lettering"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts definition and types of lettering constructed hand-written site:youtube.com",
+      "quiz": [
+        {"q": "What is lettering?", "opts": ["The deliberate, skilled art of drawing/constructing letters carefully, following design principles", "A type of craft material", "Ordinary, quick, casual handwriting", "A type of colour"], "ans": 0, "explanation": "Lettering is a deliberate, skilled design practice, distinct from quick everyday writing."},
+        {"q": "How does lettering differ from ordinary handwriting?", "opts": ["They are identical, with no real difference", "Handwriting is more deliberate than lettering", "Lettering is slower and more deliberate, treating each letter as a design element", "Lettering is always faster than handwriting"], "ans": 2, "explanation": "Lettering is a slower, deliberate process treating each letter as a carefully designed visual element, unlike quick handwriting."},
+        {"q": "What is constructed lettering?", "opts": ["Casual, unplanned handwriting", "A type of paint", "Lettering built using geometric tools (rulers, compasses, guidelines) for precise letterforms", "A type of fabric craft"], "ans": 2, "explanation": "Constructed lettering uses geometric tools to create precise, consistent, and formal letterforms."},
+        {"q": "What is hand-written (hand-lettered) lettering?", "opts": ["The exact same thing as constructed lettering", "A type unrelated to lettering", "Lettering that follows no design principles at all", "Lettering drawn more freely by hand, with personal/expressive character, but still deliberate"], "ans": 3, "explanation": "Hand-lettering is drawn more freely but still follows deliberate design principles, unlike genuinely casual handwriting."},
+        {"q": "Constructed lettering is often used for ___.", "opts": ["purposes unrelated to communication", "no practical purpose at all", "only casual, personal notes", "formal signage, technical drawings, or professional titles"], "ans": 3, "explanation": "The precision of constructed lettering makes it ideal for formal signage, technical drawings, and professional titles."},
+        {"q": "Hand-lettering, despite being drawn more freely, still follows ___.", "opts": ["exactly the same rigid rules as constructed lettering, with no distinction", "deliberate design principles", "no design principles at all", "principles unrelated to letter design"], "ans": 1, "explanation": "Even though it is freer, hand-lettering still adheres to deliberate design principles to remain effective and legible."},
+        {"q": "Lettering is compared to ___ in this week's analogy.", "opts": ["an identical comparison with no distinction", "a scribbled note with no real difference from engraving", "a carefully engraved plaque, versus a hastily scribbled note", "an unrelated random comparison"], "ans": 2, "explanation": "Lettering is like a carefully engraved plaque (deliberate, designed), while handwriting is like a hastily scribbled note (quick, personal)."},
+        {"q": "A ruler and compass are tools typically used for ___ lettering.", "opts": ["hand-written exclusively", "no type of lettering", "ordinary handwriting only", "constructed"], "ans": 3, "explanation": "Geometric tools like rulers and compasses are the hallmarks of constructed lettering."},
+        {"q": "Treating each letter as 'a small piece of visual design' describes the approach of ___.", "opts": ["neither lettering nor handwriting", "ordinary, casual handwriting", "lettering", "a concept unrelated to letters"], "ans": 2, "explanation": "This deliberate, design-focused approach is the defining characteristic of lettering."},
+        {"q": "Lettering is described as ___ compared to casual handwriting.", "opts": ["entirely unrelated in process", "identical in speed and care", "slower and more deliberate", "faster and less careful"], "ans": 2, "explanation": "Lettering requires more time, care, and deliberation than casual, everyday handwriting."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w10_su2",
+      "title": "10.2 Practical Uses of Lettering in Communication and Education",
+      "notes": [
+        "Practical Uses of Lettering in Communication and Education",
+        "",
+        "Key Concepts:",
+        "1. Information and Communication:",
+        "   - Clear, well-designed lettering ensures signs, labels, and public NOTICES are easily readable and understood by a wide audience.",
+        "   - Examples: Street signs, shop signage, public safety announcements, and directional labels.",
+        "",
+        "2. Education:",
+        "   - Lettering is used extensively in EDUCATIONAL materials.",
+        "   - Examples: Posters, charts, textbook headings, and classroom displays.",
+        "   - In these contexts, CLARITY and legibility directly support effective learning and information retention.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian schools, well-lettered classroom charts, notice boards, and examination instructions are crucial for ensuring all students can clearly read and understand important academic information."
+      ],
+      "diagramDescriptions": ["Examples of clear lettering on a street sign and an educational classroom chart"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts uses of lettering communication education site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a use of lettering?", "opts": ["Only foreign, non-Nigerian contexts", "Only artistic decoration, with no other purpose", "Information and communication (signs, labels, notices)", "No practical use at all"], "ans": 2, "explanation": "Lettering is practically used for clear communication in signs, labels, and public notices."},
+        {"q": "Lettering used in classroom charts and textbook headings supports ___.", "opts": ["confusion, rather than clarity", "purposes unrelated to learning", "education, through clarity and legibility", "no educational purpose at all"], "ans": 2, "explanation": "Clear, legible lettering in educational materials directly supports effective learning and comprehension."},
+        {"q": "Clear lettering on safety signs helps ensure ___.", "opts": ["confusion during emergencies", "delayed, unclear understanding", "no communication benefit at all", "people can quickly understand important warnings"], "ans": 3, "explanation": "Legible lettering on safety signs is critical for ensuring people can quickly understand and act on important warnings."},
+        {"q": "The style of lettering used can communicate ___.", "opts": ["information unrelated to the message", "nothing beyond the literal words themselves", "only confusion", "mood or personality"], "ans": 3, "explanation": "Beyond just the words, the style of lettering communicates mood, personality, or professional tone."},
+        {"q": "Lettering's uses in communication are compared to ___ in this week's analogy.", "opts": ["a skilled translator working across many different settings", "a single unchanging translator with only one skill", "an unrelated random comparison", "a translator with no real function"], "ans": 0, "explanation": "Like a skilled translator, lettering adapts to convey urgent information, educational material, or formal significance depending on the context."},
+        {"q": "Which of the following is an example of lettering used for information and communication?", "opts": ["A decorative wedding invitation", "A public street name sign", "A hand-drawn artistic mural", "A personal diary entry"], "ans": 1, "explanation": "A public street name sign relies on clear lettering to communicate essential information to the public."},
+        {"q": "In educational materials, lettering prioritizes ___.", "opts": ["excessive decorative complexity", "clarity and legibility", "random, inconsistent spacing", "purely aesthetic appeal over readability"], "ans": 1, "explanation": "In education, the primary goal of lettering is clarity and legibility to ensure students can read and understand the material."},
+        {"q": "A poorly lettered public notice may result in ___.", "opts": ["improved public safety", "misunderstanding or ignored information", "faster reading speeds", "enhanced aesthetic appeal"], "ans": 1, "explanation": "If lettering is unclear or illegible, the public may misunderstand or completely ignore the important information."},
+        {"q": "Textbook headings rely on good lettering to ___.", "opts": ["confuse the reader", "organize information clearly for effective learning", "decorate the page with no functional purpose", "reduce the amount of text needed"], "ans": 1, "explanation": "Clear lettering in headings helps organize information, making it easier for students to navigate and learn."},
+        {"q": "Lettering serves genuinely practical functions in safety, education, and formal documentation, not just ___ purposes.", "opts": ["artistic", "illegal", "irrelevant", "harmful"], "ans": 0, "explanation": "While lettering can be artistic, it also serves highly practical, functional roles in everyday communication and safety."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w10_su3",
+      "title": "10.3 Practical Uses of Lettering in Design, Decoration, and Record-Keeping",
+      "notes": [
+        "Practical Uses of Lettering in Design, Decoration, and Record-Keeping",
+        "",
+        "Key Concepts:",
+        "1. Design and Decoration:",
+        "   - Lettering contributes to the overall AESTHETIC appeal of greeting cards, invitations, posters, and branding materials.",
+        "   - The STYLE of lettering itself communicates mood or personality (e.g., elegant script for a wedding invitation; bold, geometric lettering for a modern business logo).",
+        "",
+        "2. Record-Keeping and Documentation:",
+        "   - Formal lettering has historically been used (and remains relevant) for certificates, official documents, and important records.",
+        "   - These contexts require especially CLEAR, permanent, and professional presentation to convey authority and authenticity.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, formal lettering is essential for official documents like school certificates, land titles, and corporate branding, where clarity and professionalism are paramount."
+      ],
+      "diagramDescriptions": ["Examples of elegant script lettering on an invitation and bold geometric lettering on a business logo"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts uses of lettering design decoration record keeping site:youtube.com",
+      "quiz": [
+        {"q": "Elegant, flowing script lettering might be chosen for ___.", "opts": ["a wedding invitation", "a public danger warning sign exclusively", "purposes unrelated to celebration", "no context at all"], "ans": 0, "explanation": "Elegant script conveys romance and celebration, making it ideal for wedding invitations."},
+        {"q": "Bold, geometric lettering might be chosen for ___.", "opts": ["purposes unrelated to branding", "a modern business logo", "only handwritten personal letters", "no design context at all"], "ans": 1, "explanation": "Bold, geometric lettering suggests modernity, strength, and efficiency, making it ideal for business logos."},
+        {"q": "Formal lettering has historically been used for ___.", "opts": ["no formal purpose at all", "only casual, everyday notes", "certificates and official documents", "purposes unrelated to documentation"], "ans": 2, "explanation": "Formal lettering is used for certificates and official documents to convey authority, clarity, and permanence."},
+        {"q": "Lettering contributes to the overall ___ appeal of greeting cards and invitations.", "opts": ["aesthetic", "confusing, with no clear purpose", "irrelevant, with no visual impact", "purely functional, with no aesthetic value"], "ans": 0, "explanation": "The style of lettering significantly enhances the aesthetic and emotional appeal of decorative items like greeting cards."},
+        {"q": "Certificates requiring clear, permanent, professional presentation typically use ___.", "opts": ["no lettering at all", "lettering unrelated to formality", "casual, rushed handwriting", "formal lettering"], "ans": 3, "explanation": "Formal lettering ensures that important documents like certificates are clear, professional, and authoritative."},
+        {"q": "The style of lettering chosen for a tech company logo would likely be ___ to suggest efficiency and modernity.", "opts": ["highly decorative and ornate", "bold and geometric", "casual and messy", "faint and hard to read"], "ans": 1, "explanation": "Bold, geometric lettering communicates strength, clarity, and modernity, fitting for a tech company."},
+        {"q": "In record-keeping, good lettering ensures that important information is ___.", "opts": ["permanently obscured", "easily readable and authoritative", "open to multiple interpretations", "decorative but illegible"], "ans": 1, "explanation": "In official records, lettering must be clear and professional to ensure the information is authoritative and easily readable."},
+        {"q": "A poorly lettered business sign might ___.", "opts": ["attract more customers", "convey a lack of professionalism", "improve the brand's aesthetic", "have no impact on customer perception"], "ans": 1, "explanation": "Poor lettering can make a business appear unprofessional or careless, negatively impacting customer perception."},
+        {"q": "Lettering in branding helps to ___.", "opts": ["confuse the target audience", "create a recognisable, repeatable visual identity", "hide the company's name", "reduce the cost of printing"], "ans": 1, "explanation": "Consistent, well-designed lettering is a core component of a brand's recognisable visual identity."},
+        {"q": "The use of lettering in design and decoration shows that it is ___.", "opts": ["purely a technical skill with no artistic value", "a versatile skill that communicates mood and personality", "only useful for official documents", "unrelated to visual communication"], "ans": 1, "explanation": "Lettering is highly versatile, capable of conveying specific moods, personalities, and professional tones through its style."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of lettering, distinguishing it from ordinary handwriting.",
+      "markingGuide": "Clear definition (2.5); clear distinction from handwriting based on speed, deliberation, and design intent (2.5)."
+    },
+    {
+      "question": "Distinguish between constructed lettering and hand-written lettering, giving an example situation for each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples (e.g., technical drawing vs. poster design)."
+    },
+    {
+      "question": "List and briefly explain FOUR uses of lettering studied this week.",
+      "markingGuide": "1.25 marks per correctly named and briefly explained use (Information, Education, Design/Decoration, Record-keeping) (5 total)."
+    },
+    {
+      "question": "Explain why the STYLE of lettering chosen matters, using two contrasting examples (e.g., a wedding invitation versus a warning sign).",
+      "markingGuide": "Clear explanation of how style communicates mood, with two valid, contrasting examples (5, holistic)."
+    },
+    {
+      "question": "Explain, using the 'translator' analogy or your own example, how the same core skill of careful letter design applies across very different real-world contexts.",
+      "markingGuide": "Clear explanation with a valid supporting example demonstrating versatility (5, holistic)."
+    }
+  ]
+}

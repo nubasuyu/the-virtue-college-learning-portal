@@ -1,0 +1,140 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Painting: Definition and Types",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w11_su1",
+      "title": "11.1 Definition and Meaning of Painting",
+      "notes": [
+        "Definition and Meaning of Painting",
+        "",
+        "Key Concepts:",
+        "1. Definition:",
+        "   - Painting is the art of applying COLOUR (paint, dye, or pigment) onto a SURFACE using a brush, palette knife, or other tool, to create an IMAGE, pattern, or design.",
+        "",
+        "2. Painting as a Distinct Art Form:",
+        "   - While briefly introduced as one of the four types of visual art in Week 2 (alongside textiles, graphics, and aesthetics), painting is now studied as its own distinct subject.",
+        "",
+        "3. Elements Involved:",
+        "   - It relies heavily on the elements of design, particularly COLOUR, LINE (through brushstrokes), and TEXTURE (through the thickness of the paint, known as impasto).",
+        "",
+        "Nigerian Context:",
+        "   - Nigerian painting has a rich history, from the ancient Uli body and wall paintings of the Igbo people to the vibrant, contemporary canvas works of modern Nigerian artists displayed in galleries across Lagos and Abuja."
+      ],
+      "diagramDescriptions": ["Diagram showing the basic elements of painting: surface, pigment, and tool (brush)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts definition and meaning of painting site:youtube.com",
+      "quiz": [
+        {"q": "What is painting?", "opts": ["A type of fabric weaving", "A type of carving technique", "The art of applying colour onto a surface using a brush or tool, to create an image or design", "A type of paper folding"], "ans": 2, "explanation": "Painting is the application of colour onto a surface using a tool to create an image or design."},
+        {"q": "Painting was previously introduced as one of the four types of ___.", "opts": ["visual art", "a type of design principle only", "a type of craft material only", "non-visual art"], "ans": 0, "explanation": "Painting was introduced in Week 2 as one of the four main types of visual art."},
+        {"q": "Which element of design is most heavily relied upon in painting?", "opts": ["Sound", "Colour", "Movement", "Taste"], "ans": 1, "explanation": "Colour is the primary element of design utilized in the art of painting."},
+        {"q": "The thickness of paint applied to a surface, creating a textured effect, is known as ___.", "opts": ["glazing", "impasto", "dyeing", "sketching"], "ans": 1, "explanation": "Impasto is the technique of applying paint thickly to create a textured, three-dimensional effect."},
+        {"q": "Which of these is a common tool used in painting?", "opts": ["Chisel", "Loom", "Brush", "Kiln"], "ans": 2, "explanation": "A brush is the most common tool used to apply paint to a surface."},
+        {"q": "Painting is studied this week as its own distinct ___.", "opts": ["craft material", "subject", "principle of design", "musical genre"], "ans": 1, "explanation": "While introduced earlier as a type of visual art, painting is now being studied in depth as its own distinct subject."},
+        {"q": "Ancient Uli body and wall paintings are a traditional art form of which Nigerian ethnic group?", "opts": ["Yoruba", "Hausa", "Igbo", "Fulani"], "ans": 2, "explanation": "Uli is a traditional body and wall painting art form historically practiced by the Igbo people."},
+        {"q": "A palette knife can be used in painting to ___.", "opts": ["carve wood", "mix colours or apply thick paint", "weave fabric", "fire clay"], "ans": 1, "explanation": "A palette knife is used for mixing colours on a palette or for applying thick layers of paint to a canvas."},
+        {"q": "The surface on which a painting is created is often called the ___.", "opts": ["canvas or support", "loom", "kiln", "chisel"], "ans": 0, "explanation": "The surface, such as a canvas, wood panel, or paper, is referred to as the canvas or support."},
+        {"q": "Painting allows an artist to express ideas and emotions primarily through ___.", "opts": ["sound and rhythm", "visual elements like colour and line", "physical movement", "written words"], "ans": 1, "explanation": "Painting is a visual art form that expresses ideas and emotions through visual elements like colour, line, and texture."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w11_su2",
+      "title": "11.2 Types of Painting: Still-Life and Nature",
+      "notes": [
+        "Types of Painting: Still-Life and Nature",
+        "",
+        "Key Concepts:",
+        "1. Still-Life Painting:",
+        "   - Depicts an ARRANGEMENT of ordinary, NON-LIVING objects (e.g., fruit, bottles, flowers in a vase, books).",
+        "   - The artist has complete control over the arrangement, lighting, and composition.",
+        "",
+        "2. Nature Painting:",
+        "   - Depicts elements of the NATURAL world, such as plants, animals, or specific natural scenes.",
+        "   - Often celebrates the beauty, detail, and vitality of living things in their environment.",
+        "",
+        "3. Key Difference:",
+        "   - Still-life focuses on non-living, arranged objects, while nature painting focuses on living subjects (flora and fauna) in a more organic setting.",
+        "",
+        "Nigerian Context:",
+        "   - A Nigerian still-life might feature a calabash, a woven mat, and local fruits like mangoes or oranges. A nature painting might depict the detailed feathers of an African grey parrot or the vibrant bloom of a hibiscus flower."
+      ],
+      "diagramDescriptions": ["Side-by-side visual examples of a still-life painting and a nature painting"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts types of painting still-life and nature site:youtube.com",
+      "quiz": [
+        {"q": "Still-life painting depicts ___.", "opts": ["an arrangement of ordinary, non-living objects", "only abstract shapes with no subject", "only outdoor scenery", "only living animals"], "ans": 0, "explanation": "Still-life painting specifically focuses on arrangements of non-living objects."},
+        {"q": "Nature painting depicts ___.", "opts": ["only man-made objects", "elements of the natural world, like plants or animals", "only geometric shapes", "only indoor furniture"], "ans": 1, "explanation": "Nature painting focuses on living elements of the natural world, such as plants and animals."},
+        {"q": "A bowl of fruit arranged on a table is an example of ___ painting.", "opts": ["still-life", "landscape", "none of these", "nature painting specifically"], "ans": 0, "explanation": "A bowl of fruit is a classic example of a non-living, arranged subject, making it a still-life."},
+        {"q": "A single blooming hibiscus flower rendered in detail is an example of ___ painting.", "opts": ["landscape", "nature", "still-life", "none of these"], "ans": 1, "explanation": "A living plant rendered in detail falls under the category of nature painting."},
+        {"q": "In still-life painting, the artist has complete control over the ___.", "opts": ["weather conditions", "arrangement, lighting, and composition", "growth of the subjects", "time of day in nature"], "ans": 1, "explanation": "Because the objects are non-living and arranged by the artist, the artist controls the arrangement, lighting, and composition."},
+        {"q": "Which of these would be an appropriate subject for a Nigerian still-life painting?", "opts": ["A herd of cattle grazing", "A calabash, a woven mat, and local fruits", "A wide view of the Zuma Rock", "A busy market street scene"], "ans": 1, "explanation": "A calabash, mat, and fruits are non-living objects arranged together, fitting the still-life definition."},
+        {"q": "Nature painting often celebrates the ___ of living things.", "opts": ["artificiality", "beauty, detail, and vitality", "geometric shapes", "man-made structures"], "ans": 1, "explanation": "Nature painting aims to capture and celebrate the beauty and vitality of the natural, living world."},
+        {"q": "The key difference between still-life and nature painting is that still-life focuses on ___ objects.", "opts": ["living", "non-living, arranged", "outdoor", "abstract"], "ans": 1, "explanation": "Still-life focuses on non-living, arranged objects, whereas nature painting focuses on living subjects."},
+        {"q": "A painting of an African grey parrot perched on a branch is best classified as ___ painting.", "opts": ["still-life", "landscape", "nature", "abstract"], "ans": 2, "explanation": "A living animal depicted in its environment is a subject for nature painting."},
+        {"q": "Still-life painting allows the artist to practice skills in rendering ___ and texture.", "opts": ["movement", "light, shadow, form", "weather patterns", "distant horizons"], "ans": 1, "explanation": "Still-life is excellent for practicing the rendering of light, shadow, form, and texture on stationary objects."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w11_su3",
+      "title": "11.3 Types of Painting: Landscape and Features",
+      "notes": [
+        "Types of Painting: Landscape and Features",
+        "",
+        "Key Concepts:",
+        "1. Landscape Painting:",
+        "   - Depicts OUTDOOR scenery, such as hills, rivers, skies, forests, or broad physical places.",
+        "   - Captures the sweeping beauty of a location, often including elements like light, weather, and distance/perspective.",
+        "",
+        "2. Key Features of Landscape Painting:",
+        "   - Foreground, middle ground, and background to create a sense of depth.",
+        "   - Attention to atmospheric perspective (distant objects appear lighter and less detailed).",
+        "   - Emphasis on natural light and weather conditions.",
+        "",
+        "3. Comparison to Other Types:",
+        "   - Unlike still-life (close-up, non-living) or nature painting (specific living subjects), landscape painting uses the WIDEST 'lens' to capture an entire scene.",
+        "",
+        "Nigerian Context:",
+        "   - Iconic Nigerian landscape subjects include the rolling hills of Mambilla Plateau, the expansive waters of the Niger River, or the bustling, wide-angle view of a city skyline like Lagos."
+      ],
+      "diagramDescriptions": ["Diagram showing foreground, middle ground, and background in a landscape painting"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts types of painting landscape features site:youtube.com",
+      "quiz": [
+        {"q": "Landscape painting depicts ___.", "opts": ["outdoor scenery, like hills, rivers, and skies", "only small, arranged objects on a table", "only man-made structures", "only a single close-up subject"], "ans": 0, "explanation": "Landscape painting focuses on broad outdoor scenery and physical places."},
+        {"q": "A wide view of rolling hills at sunset is an example of ___ painting.", "opts": ["nature painting specifically", "landscape", "still-life", "none of these"], "ans": 1, "explanation": "A broad view of hills and sky is a classic landscape subject."},
+        {"q": "Which feature is commonly used in landscape painting to create a sense of depth?", "opts": ["A single, flat colour", "Foreground, middle ground, and background", "Only abstract shapes", "No attention to light"], "ans": 1, "explanation": "Dividing the scene into foreground, middle ground, and background creates a strong sense of depth."},
+        {"q": "Atmospheric perspective in landscape painting means that distant objects appear ___.", "opts": ["darker and more detailed", "lighter and less detailed", "larger and closer", "exactly the same as foreground objects"], "ans": 1, "explanation": "Atmospheric perspective dictates that distant objects appear lighter, bluer, and less detailed due to the atmosphere."},
+        {"q": "Landscape painting often includes elements like ___.", "opts": ["only indoor lighting", "light, weather, and distance/perspective", "only small, close-up details", "nothing related to atmosphere or scale"], "ans": 1, "explanation": "Landscape painting heavily features natural light, weather conditions, and a sense of distance."},
+        {"q": "Compared to still-life and nature painting, landscape painting uses the ___ 'lens' to capture a scene.", "opts": ["narrowest", "widest", "most microscopic", "most abstract"], "ans": 1, "explanation": "Landscape painting pulls back to capture an entire sweeping scene, acting as the widest lens."},
+        {"q": "A painting of the Niger River winding through a valley would be classified as ___.", "opts": ["still-life", "landscape", "nature painting specifically", "abstract"], "ans": 1, "explanation": "A broad view of a river and valley is a classic landscape subject."},
+        {"q": "Which of the following is NOT a typical feature of landscape painting?", "opts": ["Attention to natural light", "Depiction of a single fruit on a table", "Sense of distance and perspective", "Depiction of weather conditions"], "ans": 1, "explanation": "A single fruit on a table is a still-life subject, not a feature of landscape painting."},
+        {"q": "The Mambilla Plateau would be an excellent subject for a ___ painting.", "opts": ["still-life", "landscape", "nature (close-up)", "abstract"], "ans": 1, "explanation": "The broad, sweeping scenery of the Mambilla Plateau is ideal for a landscape painting."},
+        {"q": "Studying different types of painting helps an artist ___.", "opts": ["only paint one specific subject forever", "choose the right approach and techniques for their chosen subject", "avoid using colour", "ignore the rules of composition"], "ans": 1, "explanation": "Understanding different genres helps an artist select the appropriate techniques and composition for their specific subject."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of painting.",
+      "markingGuide": "Clear, accurate definition (5, holistic)."
+    },
+    {
+      "question": "Define and distinguish between still-life, nature, and landscape painting, giving an example of each.",
+      "markingGuide": "1.25 marks each for a correct definition and valid example across the three types (allowing rounding to 5 total)."
+    },
+    {
+      "question": "Explain the key difference between nature painting and landscape painting, even though both involve the natural world.",
+      "markingGuide": "Clear, accurate distinction (5, holistic)."
+    },
+    {
+      "question": "Classify the following into still-life, nature, or landscape painting, with a reason for each: a vase of cut flowers on a windowsill; a distant view of a river winding through a valley; a bird perched on a branch.",
+      "markingGuide": "1.67 marks per correctly classified item with valid reasoning (3 items, 5 total)."
+    },
+    {
+      "question": "Explain, using the 'camera lens' analogy or your own example, how the three types of painting differ in their scale or focus.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Uses of Motifs and Their Application",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w6_su1",
+      "title": "6.1 Uses of Motifs",
+      "notes": [
+        "Uses of Motifs",
+        "",
+        "Key Concepts:",
+        "1. Decorating Borders:",
+        "   - A repeated motif running along the EDGE of a fabric, page, or surface creates an attractive, framing border.",
+        "",
+        "2. Making Greeting Cards:",
+        "   - Motifs (floral, geometric, or traditional) are commonly used to decorate greeting cards, creating an attractive, thematically appropriate design quickly.",
+        "",
+        "3. Designing Patterns:",
+        "   - The MOST fundamental use: motifs repeated across a LARGER surface (fabric, wallpaper, ceramic tile) build the complete, cohesive PATTERN covering that surface entirely.",
+        "",
+        "4. Branding and Identity:",
+        "   - Motifs are used in LOGOS and branding, creating a recognisable, repeatable visual identity for a business or organization.",
+        "",
+        "Nigerian Context:",
+        "   - Nigerian businesses often use traditional or geometrical motifs in their logos and packaging to establish a strong, culturally rooted brand identity."
+      ],
+      "diagramDescriptions": [
+        "Examples of motifs used in borders, greeting cards, full patterns, and branding"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts practical uses of motifs in design site:youtube.com",
+      "quiz": [
+        {
+          "q": "Which of these is a practical use of motifs?",
+          "opts": [
+            "No practical use at all",
+            "Decorating borders",
+            "Only theoretical discussion, with no practical application",
+            "Only foreign, non-Nigerian applications"
+          ],
+          "ans": 1,
+          "explanation": "Motifs are widely used to decorate borders, framing a design attractively."
+        },
+        {
+          "q": "A repeated motif along the edge of a design creates a(n) ___.",
+          "opts": [
+            "confusing, unclear design",
+            "unrelated random effect",
+            "complete absence of visual structure",
+            "attractive, framing border"
+          ],
+          "ans": 3,
+          "explanation": "Repeating a motif along an edge creates a structured, framing border."
+        },
+        {
+          "q": "Motifs are commonly used to decorate ___.",
+          "opts": [
+            "greeting cards",
+            "only foreign items with no Nigerian relevance",
+            "only ancient, historical documents",
+            "nothing at all"
+          ],
+          "ans": 0,
+          "explanation": "Motifs are frequently used to add thematic decoration to greeting cards."
+        },
+        {
+          "q": "The most fundamental use of motifs is ___.",
+          "opts": [
+            "designing patterns that cover an entire surface",
+            "only border decoration, with no other application",
+            "branding exclusively, with no other use",
+            "having no practical application at all"
+          ],
+          "ans": 0,
+          "explanation": "Building a complete, cohesive pattern across a surface is the most fundamental use of a motif."
+        },
+        {
+          "q": "Motifs are used in ___ to create recognisable brand identity.",
+          "opts": [
+            "contexts unrelated to visual identity",
+            "nowhere related to business",
+            "logos and branding",
+            "only personal, non-commercial contexts"
+          ],
+          "ans": 2,
+          "explanation": "A repeatable motif is a core element of effective logo and brand design."
+        },
+        {
+          "q": "A motif's uses are compared to ___ in the kitchen analogy.",
+          "opts": [
+            "an unrelated random comparison",
+            "a single unchanging dish with no variation",
+            "one versatile ingredient used across an entire kitchen",
+            "an ingredient with only one possible use"
+          ],
+          "ans": 2,
+          "explanation": "Like a versatile ingredient, a motif can be used for borders, full patterns, or branding."
+        },
+        {
+          "q": "Understanding motifs' practical uses shows that motif design is ___.",
+          "opts": [
+            "purely decorative theory with no real application",
+            "only relevant to ancient traditions",
+            "a genuinely useful, versatile design skill",
+            "unrelated to real-world design"
+          ],
+          "ans": 2,
+          "explanation": "Motif design is a highly practical skill applied in branding, textiles, and graphic design."
+        },
+        {
+          "q": "A consistent motif across a business's materials can build ___.",
+          "opts": [
+            "no recognisable identity at all",
+            "confusion among customers",
+            "an identity unrelated to the business",
+            "a strong, memorable brand identity"
+          ],
+          "ans": 3,
+          "explanation": "Consistency in motif usage builds strong brand recognition."
+        },
+        {
+          "q": "A repeated motif covering an entire fabric surface demonstrates the use of motifs in ___.",
+          "opts": [
+            "branding exclusively",
+            "pattern design",
+            "no practical application",
+            "border decoration exclusively"
+          ],
+          "ans": 1,
+          "explanation": "Covering an entire surface is the definition of pattern design."
+        },
+        {
+          "q": "Motifs applied to greeting cards create designs that are ___.",
+          "opts": [
+            "unrelated to the card's purpose",
+            "always inappropriate for the occasion",
+            "time-consuming with no real benefit",
+            "attractive and thematically appropriate, created quickly and effectively"
+          ],
+          "ans": 3,
+          "explanation": "Motifs allow for quick, effective, and thematically appropriate decoration."
+        }
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w6_su2",
+      "title": "6.2 Application of Motifs: Repeat Methods",
+      "notes": [
+        "Application of Motifs: Repeat Methods",
+        "",
+        "Key Concepts:",
+        "1. Simple Repeat:",
+        "   - The exact same motif repeated in straight, evenly-spaced ROWS and COLUMNS.",
+        "   - Creates an orderly, predictable rhythm.",
+        "",
+        "2. Half-Drop Repeat:",
+        "   - Alternating columns are offset vertically by half the motif's height.",
+        "   - Creates a more DYNAMIC, organic, and less rigid grid.",
+        "",
+        "3. Mirror Repeat:",
+        "   - The motif is FLIPPED at regular intervals.",
+        "   - Creates symmetrical, reflected sections, producing a balanced rhythm.",
+        "",
+        "Nigerian Context:",
+        "   - Nigerian textile designers use half-drop and mirror repeats extensively in Ankara and Adire to create complex, flowing patterns from a single, simple motif."
+      ],
+      "diagramDescriptions": [
+        "Diagrams illustrating simple, half-drop, and mirror repeat methods"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts motif repeat methods simple half-drop mirror site:youtube.com",
+      "quiz": [
+        {
+          "q": "What is a simple repeat?",
+          "opts": [
+            "The exact same motif repeated in straight rows and columns",
+            "A motif used only once, never repeated",
+            "Alternating columns offset vertically",
+            "The motif flipped at regular intervals"
+          ],
+          "ans": 0,
+          "explanation": "A simple repeat arranges the motif in a straightforward, aligned grid."
+        },
+        {
+          "q": "What is a half-drop repeat?",
+          "opts": [
+            "The motif flipped at regular intervals",
+            "The exact same motif in straight, unoffset rows",
+            "Alternating columns offset vertically by half the motif's height",
+            "A motif used only once, never repeated"
+          ],
+          "ans": 2,
+          "explanation": "Half-drop repeat offsets every other column, creating a staggered, flowing effect."
+        },
+        {
+          "q": "What is a mirror repeat?",
+          "opts": [
+            "The motif flipped at regular intervals, creating symmetrical sections",
+            "The exact same motif in straight, unoffset rows",
+            "A motif used only once, never repeated",
+            "Alternating columns offset vertically"
+          ],
+          "ans": 0,
+          "explanation": "Mirror repeat flips the motif to create symmetrical, reflected patterns."
+        },
+        {
+          "q": "A simple repeat creates a(n) ___ rhythm.",
+          "opts": [
+            "chaotic, unpredictable",
+            "orderly, predictable",
+            "symmetrical, mirrored",
+            "staggered, offset"
+          ],
+          "ans": 1,
+          "explanation": "The aligned grid of a simple repeat creates a predictable, orderly rhythm."
+        },
+        {
+          "q": "A half-drop repeat creates a(n) ___ rhythm.",
+          "opts": [
+            "purely symmetrical, mirrored only",
+            "completely random, with no structure",
+            "more organic, flowing",
+            "perfectly rigid, unoffset"
+          ],
+          "ans": 2,
+          "explanation": "The staggered offset of a half-drop repeat creates a more organic, flowing visual rhythm."
+        },
+        {
+          "q": "A mirror repeat creates a(n) ___ rhythm.",
+          "opts": [
+            "chaotic, unstructured",
+            "purely offset, staggered only",
+            "random, with no visual pattern",
+            "balanced, symmetrical"
+          ],
+          "ans": 3,
+          "explanation": "Flipping the motif creates symmetry and balance."
+        },
+        {
+          "q": "Choosing a repeat method significantly affects ___.",
+          "opts": [
+            "nothing about the final pattern's appearance",
+            "only the size of the motif itself",
+            "only the colour of the pattern",
+            "the final pattern's overall feel and rhythm"
+          ],
+          "ans": 3,
+          "explanation": "The repeat method dictates the visual rhythm and flow of the entire pattern."
+        },
+        {
+          "q": "Choosing a repeat method is compared to ___ in the dance analogy.",
+          "opts": [
+            "an unrelated random comparison",
+            "a single, unchanging dance formation with no alternatives",
+            "a decision with no real visual effect",
+            "choosing a specific dance formation for the same group of dancers"
+          ],
+          "ans": 3,
+          "explanation": "The same motif (dancers) can create very different patterns (formations) based on arrangement."
+        },
+        {
+          "q": "Nigerian textile designers frequently use ___ to create complex patterns from a single motif.",
+          "opts": [
+            "only simple repeats",
+            "half-drop and mirror repeats",
+            "no repeat methods at all",
+            "random scattering"
+          ],
+          "ans": 1,
+          "explanation": "Half-drop and mirror repeats add complexity and flow to textile designs."
+        },
+        {
+          "q": "Applying a repeat method inconsistently across a design can ___ the pattern's intended rhythm.",
+          "opts": [
+            "enhance",
+            "break",
+            "perfectly align",
+            "have no effect on"
+          ],
+          "ans": 1,
+          "explanation": "Inconsistent application breaks the visual unity and rhythm of the pattern."
+        }
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w6_su3",
+      "title": "6.3 Practical Tools and Techniques for Pattern Design",
+      "notes": [
+        "Practical Tools and Techniques for Pattern Design",
+        "",
+        "Key Concepts:",
+        "1. Tools for Transfer:",
+        "   - CARBON PAPER is commonly used to transfer a drawn motif accurately onto a new surface (like fabric or a larger sheet of paper) without redrawing it freehand.",
+        "",
+        "2. The Process:",
+        "   - (1) Select/create a simple motif. (2) Choose a repeat method. (3) TRACE or transfer the motif repeatedly (e.g., using carbon paper). (4) Fill the ENTIRE intended surface. (5) Apply COLOUR if desired.",
+        "",
+        "3. Importance of Spacing:",
+        "   - When constructing slogans or patterns, SPACING between motifs or letters is crucial. Even perfectly constructed individual elements can look awkward if the spacing between them is inconsistent.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian craft classes, students often use carbon paper to transfer traditional Adire motifs onto fabric before applying resist dye, ensuring precision and consistency."
+      ],
+      "diagramDescriptions": [
+        "Step-by-step guide to using carbon paper for motif transfer"
+      ],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts practical tools carbon paper motif transfer site:youtube.com",
+      "quiz": [
+        {
+          "q": "Carbon paper is used to ___.",
+          "opts": [
+            "permanently erase a design",
+            "apply colour directly",
+            "replace the need for any motif",
+            "transfer a design accurately onto a new surface"
+          ],
+          "ans": 3,
+          "explanation": "Carbon paper allows for accurate transfer of a design without freehand redrawing."
+        },
+        {
+          "q": "What is the first step in applying a motif to design a pattern?",
+          "opts": [
+            "Apply colour",
+            "Select or create a simple motif",
+            "Trace the motif",
+            "Choose the repeat method"
+          ],
+          "ans": 1,
+          "explanation": "You must first have a motif before you can repeat or transfer it."
+        },
+        {
+          "q": "When constructing a slogan or pattern, an ADDITIONAL important consideration beyond individual elements is ___.",
+          "opts": [
+            "spacing between elements",
+            "avoiding any curved lines",
+            "ignoring all guidelines entirely",
+            "using only capital letters"
+          ],
+          "ans": 0,
+          "explanation": "Consistent spacing is crucial for the overall visual harmony of a pattern or slogan."
+        },
+        {
+          "q": "Inconsistent spacing in a pattern can make even well-constructed motifs look ___.",
+          "opts": [
+            "awkward or unbalanced",
+            "automatically improved",
+            "perfectly polished regardless",
+            "unaffected in appearance"
+          ],
+          "ans": 0,
+          "explanation": "Poor spacing disrupts the visual rhythm, making the design look unprofessional."
+        },
+        {
+          "q": "The final step in applying a motif to design a pattern is to ___.",
+          "opts": [
+            "apply colour if desired",
+            "select the motif",
+            "trace the motif for the first time",
+            "choose the repeat method"
+          ],
+          "ans": 0,
+          "explanation": "Colour is typically applied after the structural pattern is fully transferred and established."
+        },
+        {
+          "q": "Using carbon paper ensures that a motif is transferred ___.",
+          "opts": [
+            "with random variations",
+            "accurately and consistently",
+            "only in black and white",
+            "permanently erased"
+          ],
+          "ans": 1,
+          "explanation": "Carbon paper is a tool for precision and consistency in transfer."
+        },
+        {
+          "q": "Filling the ENTIRE intended surface with the repeated motif is essential to ___.",
+          "opts": [
+            "create a complete, cohesive pattern",
+            "leave random empty spaces",
+            "avoid using colour",
+            "make the design look incomplete"
+          ],
+          "ans": 0,
+          "explanation": "A pattern is defined by its comprehensive coverage of the surface."
+        },
+        {
+          "q": "In Nigerian craft classes, carbon paper is often used to transfer motifs before ___.",
+          "opts": [
+            "applying resist dye",
+            "throwing the fabric away",
+            "washing the fabric",
+            "cutting the fabric into scraps"
+          ],
+          "ans": 0,
+          "explanation": "Transferring the motif first ensures the resist dye is applied accurately."
+        },
+        {
+          "q": "The 'dance formation' analogy explains why ___ can produce very different-looking finished patterns.",
+          "opts": [
+            "the same motif with different repeat methods",
+            "different motifs with the same repeat method",
+            "using no motifs at all",
+            "randomly scattered elements"
+          ],
+          "ans": 0,
+          "explanation": "The arrangement (repeat method) of the same motif changes the overall pattern's feel."
+        },
+        {
+          "q": "Applying a repeat method requires ___ to maintain visual unity.",
+          "opts": [
+            "randomness",
+            "consistency",
+            "frequent changes in motif size",
+            "ignoring the guidelines"
+          ],
+          "ans": 1,
+          "explanation": "Consistency in the repeat method is what creates a unified pattern."
+        }
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "List and briefly explain FOUR practical uses of motifs.",
+      "markingGuide": "1.25 marks per correctly named and briefly explained use (5 total)."
+    },
+    {
+      "question": "Describe, in the correct order, the five steps for applying a motif to design a complete pattern.",
+      "markingGuide": "1 mark per correctly ordered step (5 total)."
+    },
+    {
+      "question": "Distinguish between a simple repeat, a half-drop repeat, and a mirror repeat, describing the visual effect each creates.",
+      "markingGuide": "1.67 marks per correctly distinguished repeat type with its effect (3 types, 5 total)."
+    },
+    {
+      "question": "Explain the purpose of carbon paper in transferring a motif design, and why accurate transfer matters for a finished pattern.",
+      "markingGuide": "Clear explanation of carbon paper's purpose (2.5); clear explanation of why accuracy matters (2.5)."
+    },
+    {
+      "question": "Explain, using the 'dance formation' analogy or your own example, why the SAME motif can produce very different-looking finished patterns.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

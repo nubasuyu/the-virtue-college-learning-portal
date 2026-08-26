@@ -1,0 +1,120 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "First Term",
+  "week": 10,
+  "topic": "Production",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t1_w10_su1",
+      "title": "10.1 Meaning and Types of Production",
+      "notes": [
+        "Meaning and Types of Production",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Production:",
+        "   - The process of creating GOODS (physical items) or SERVICES (useful actions) that SATISFY human wants and needs.",
+        "   - Production is where the entire economic chain BEGINS. Without production, there is nothing for commerce to trade.",
+        "",
+        "2. Three Main Types of Production:",
+        "   - Industrial Production: Making or extracting physical goods.",
+        "   - Commercial Production: Activities that make goods available for use (Trade and Aids to Trade).",
+        "   - Service Production: Providing useful actions rather than physical goods (e.g., teaching, healthcare).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, production is visible everywhere: a farmer growing cassava (Industrial/Extractive), a bank providing a loan to a business (Commercial), and a teacher educating students (Service). All are vital forms of production."
+      ],
+      "diagramDescriptions": ["Diagram showing the three main types of production: Industrial, Commercial, Service"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning and types of production industrial commercial service site:youtube.com",
+      "quiz": [
+        {"q": "What does production mean?", "opts": ["Only buying goods", "The process of creating goods or services that satisfy human wants", "Only selling goods", "Only storing goods"], "ans": 1, "explanation": "Production is the creation of utility (goods or services) to satisfy human wants."},
+        {"q": "How many main types of production are there?", "opts": ["One", "Two", "Three", "Five"], "ans": 2, "explanation": "The three main types are Industrial, Commercial, and Service production."},
+        {"q": "Which of these is a type of production?", "opts": ["Sporting only", "Musical only", "Industrial", "Recreational only"], "ans": 2, "explanation": "Industrial production is one of the three main categories of production."},
+        {"q": "Providing useful actions rather than physical items (e.g., teaching) is called:", "opts": ["Industrial production", "Commercial production", "Service production", "Extractive production"], "ans": 2, "explanation": "Service production involves performing actions that satisfy human needs, like teaching or healthcare."},
+        {"q": "Activities that make goods available for use (like trade and transport) are part of:", "opts": ["Industrial production", "Commercial production", "Service production", "Extractive production"], "ans": 1, "explanation": "Commercial production covers the distribution side of the economy, making goods available to consumers."},
+        {"q": "Production is described as where the economic chain:", "opts": ["Ends completely", "Has no connection to trade", "Begins", "Is irrelevant"], "ans": 2, "explanation": "Production is the starting point; goods must be produced before they can be distributed or consumed."},
+        {"q": "A doctor treating a patient is an example of:", "opts": ["Extractive production", "Manufacturing production", "Constructive production", "Service production"], "ans": 3, "explanation": "Healthcare is a service, as it provides a useful action rather than a physical good."},
+        {"q": "Which type of production is responsible for creating physical goods?", "opts": ["Service production", "Commercial production", "Industrial production", "None of the above"], "ans": 2, "explanation": "Industrial production involves the extraction, manufacturing, or construction of physical goods."},
+        {"q": "A bank providing a loan to a business is participating in:", "opts": ["Industrial production", "Commercial production", "Extractive production", "Manufacturing production"], "ans": 1, "explanation": "Banking is an aid to trade, which falls under Commercial Production."},
+        {"q": "Without production, commerce would:", "opts": ["Have no goods or services to trade", "Work even better", "Become entirely unnecessary", "Replace the government"], "ans": 0, "explanation": "Commerce distributes what is produced. If nothing is produced, there is nothing for commerce to distribute."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w10_su2",
+      "title": "10.2 Industrial Production: Extractive, Manufacturing, Constructive",
+      "notes": [
+        "Industrial Production: Extractive, Manufacturing, Constructive",
+        "",
+        "Key Concepts:",
+        "1. Extractive Production:",
+        "   - Taking raw materials directly from nature.",
+        "   - Examples: Mining, fishing, farming, drilling for oil.",
+        "",
+        "2. Manufacturing Production:",
+        "   - Transforming raw materials into finished or semi-finished goods.",
+        "   - Examples: Turning cotton into cloth, turning iron ore into steel, baking bread from flour.",
+        "",
+        "3. Constructive Production:",
+        "   - Building structures and infrastructure.",
+        "   - Examples: Building roads, bridges, houses, and dams.",
+        "",
+        "Nigerian Context:",
+        "   - Nigeria's economy relies heavily on all three: Extractive (NNPC drilling oil in the Niger Delta), Manufacturing (Dangote Cement producing cement), and Constructive (Julius Berger building roads and bridges)."
+      ],
+      "diagramDescriptions": ["Flowchart showing the progression from Extractive -> Manufacturing -> Constructive"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies industrial production extractive manufacturing constructive site:youtube.com",
+      "quiz": [
+        {"q": "Taking raw materials directly from nature is called:", "opts": ["Service production", "Extractive production", "Constructive production", "Manufacturing production"], "ans": 1, "explanation": "Extractive production involves harvesting or extracting raw materials from the earth or sea."},
+        {"q": "Turning raw materials into finished or semi-finished goods is called:", "opts": ["Constructive production", "Manufacturing production", "Commercial production", "Extractive production"], "ans": 1, "explanation": "Manufacturing transforms raw materials into new, usable products."},
+        {"q": "Building roads, bridges, and houses is called:", "opts": ["Extractive production", "Manufacturing production", "Service production", "Constructive production"], "ans": 3, "explanation": "Constructive production involves assembling materials to build permanent structures."},
+        {"q": "Mining, fishing, and farming are examples of which type of production?", "opts": ["Manufacturing", "Service", "Extractive", "Constructive"], "ans": 2, "explanation": "These activities involve extracting raw materials directly from nature."},
+        {"q": "Turning raw cotton into finished cloth is an example of:", "opts": ["Constructive", "Manufacturing", "Extractive", "Service"], "ans": 1, "explanation": "Transforming a raw material (cotton) into a finished good (cloth) is manufacturing."},
+        {"q": "Building a new bridge is an example of:", "opts": ["Constructive", "Manufacturing", "Service", "Extractive"], "ans": 0, "explanation": "Building infrastructure like bridges falls under constructive production."},
+        {"q": "Drilling for crude oil in the Niger Delta is an example of:", "opts": ["Manufacturing", "Extractive", "Constructive", "Service"], "ans": 1, "explanation": "Drilling extracts a raw material (crude oil) directly from the earth."},
+        {"q": "A bakery buying flour and yeast to bake bread is engaged in:", "opts": ["Extractive production", "Manufacturing production", "Service production", "Constructive production"], "ans": 1, "explanation": "The bakery is transforming raw materials (flour, yeast) into a finished good (bread)."},
+        {"q": "Which type of production provides the raw materials for manufacturing?", "opts": ["Constructive", "Service", "Extractive", "Commercial"], "ans": 2, "explanation": "Extractive production gathers the raw materials that manufacturing industries later transform."},
+        {"q": "A carpenter building a wooden table from timber is performing:", "opts": ["Extractive production", "Manufacturing production", "Service production", "Commercial production"], "ans": 1, "explanation": "Transforming timber (raw material) into a table (finished good) is a manufacturing process."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w10_su3",
+      "title": "10.3 Effects of Production on the Environment and Society",
+      "notes": [
+        "Effects of Production on the Environment and Society",
+        "",
+        "Key Concepts:",
+        "1. Positive Effects of Production:",
+        "   - Job Creation: Provides employment for millions of people.",
+        "   - Improved Living Standards: Makes goods and services available, raising the quality of life.",
+        "   - Economic Development: Generates wealth and infrastructure for the nation.",
+        "",
+        "2. Negative Effects of Production:",
+        "   - Pollution: Air, water, or land contamination from factories, mining, or oil spills.",
+        "   - Deforestation: Clearing forests for farming, construction, or raw materials.",
+        "   - Depletion of Natural Resources: Using resources (like oil or minerals) faster than nature can replace them.",
+        "",
+        "3. Responsible Production:",
+        "   - Balancing the need to meet human wants with the need to protect the environment for future generations (Sustainable Development).",
+        "",
+        "Nigerian Context:",
+        "   - While oil production has brought wealth to Nigeria, oil spills in the Niger Delta have caused severe environmental pollution. Responsible production demands that companies clean up and adopt sustainable practices."
+      ],
+      "diagramDescriptions": ["Scale showing positive effects (jobs, development) vs. negative effects (pollution, deforestation)"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies effects of production on environment and society pollution jobs site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a POSITIVE effect of production?", "opts": ["Pollution", "Job creation", "Deforestation", "Resource depletion"], "ans": 1, "explanation": "Production creates employment opportunities, which is a major positive effect on society."},
+        {"q": "Which of these is a NEGATIVE effect of production?", "opts": ["Improved living standards", "Pollution", "Job creation", "Availability of goods"], "ans": 1, "explanation": "Pollution (air, water, land) is a harmful side effect of irresponsible production activities."},
+        {"q": "A factory dumping untreated waste into a river is causing:", "opts": ["Improved education", "Better healthcare", "Job creation", "Pollution"], "ans": 3, "explanation": "Dumping waste into water bodies is a classic example of water pollution."},
+        {"q": "Clearing forests for farming or construction is called:", "opts": ["Extraction only", "Service production", "Deforestation", "Manufacturing"], "ans": 2, "explanation": "Deforestation is the large-scale removal of trees, often for agricultural or construction purposes."},
+        {"q": "Using natural resources faster than nature can replace them is called:", "opts": ["Conservation", "Trade", "Manufacturing", "Depletion"], "ans": 3, "explanation": "Depletion refers to the exhaustion of natural resources due to overuse."},
+        {"q": "Responsible production tries to:", "opts": ["Balance meeting human needs with protecting the environment", "Only focus on profit", "Ignore the environment completely", "Stop all production entirely"], "ans": 0, "explanation": "Responsible (sustainable) production meets current needs without compromising the ability of future generations to meet theirs."},
+        {"q": "Which of these is a positive effect of production on a nation?", "opts": ["Increased poverty", "Economic development and wealth generation", "Environmental degradation", "Loss of jobs"], "ans": 1, "explanation": "Production drives economic growth, builds infrastructure, and generates national wealth."},
+        {"q": "An oil spill in the ocean primarily causes:", "opts": ["Deforestation", "Water pollution", "Job creation", "Improved living standards"], "ans": 1, "explanation": "Oil spills contaminate water bodies, harming marine life and the environment."},
+        {"q": "Planting trees to replace those cut down for production is an example of:", "opts": ["Depletion", "Conservation", "Pollution", "Deforestation"], "ans": 1, "explanation": "Conservation involves protecting and restoring natural resources, such as reforestation."},
+        {"q": "Why is it important to consider the environmental effects of production?", "opts": ["It is not important", "To ensure the earth remains habitable and resources last for future generations", "To stop all industrial growth", "To make production more expensive"], "ans": 1, "explanation": "Considering environmental effects ensures sustainable development and protects the planet for the future."}
+      ]
+    }
+  ]
+}

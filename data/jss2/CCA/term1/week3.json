@@ -1,0 +1,149 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 3,
+  "topic": "Principles of Design",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w3_su1",
+      "title": "3.1 Meaning of Principles of Design",
+      "notes": [
+        "Meaning of Principles of Design",
+        "",
+        "Key Concepts:",
+        "1. Definition:",
+        "   - The PRINCIPLES OF DESIGN are the GUIDING RULES that determine HOW the elements of design (line, colour, form, space, texture) should be ARRANGED and COMBINED to create a genuinely successful, pleasing artwork.",
+        "",
+        "2. Elements vs. Principles:",
+        "   - Elements answer the question: 'WHAT can I use?' (the raw building blocks).",
+        "   - Principles answer the question: 'HOW should I arrange it?' (the recipe for combining them well).",
+        "",
+        "3. Importance:",
+        "   - A design with excellent elements but POOR application of principles can still look chaotic, unbalanced, or unpleasant.",
+        "   - Mastering BOTH elements and principles together is essential for creating genuinely successful artwork.",
+        "",
+        "Nigerian Context:",
+        "   - Just as a skilled chef needs both good ingredients (elements) and a good recipe (principles) to make a delicious meal, a Nigerian artisan needs both beautiful materials and a strong sense of design principles to create a masterpiece."
+      ],
+      "diagramDescriptions": ["Diagram contrasting Elements (What) vs Principles (How)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts meaning of principles of design vs elements site:youtube.com",
+      "quiz": [
+        {"q": "What are the principles of design?", "opts": ["The basic visual building blocks of art", "The guiding rules for how elements of design should be arranged and combined", "A type of paint", "A type of craft material"], "ans": 1, "explanation": "Principles of design are the rules for arranging and combining the elements."},
+        {"q": "Elements of design answer the question:", "opts": ["'What can I use?'", "'How should I arrange it?'", "Neither question", "Only questions about price"], "ans": 0, "explanation": "Elements are the raw building blocks, answering 'what' is available to use."},
+        {"q": "Principles of design answer the question:", "opts": ["'What can I use?'", "'How should I arrange it?'", "Neither question", "Only questions about colour"], "ans": 1, "explanation": "Principles are the rules for arrangement, answering 'how' to use the elements."},
+        {"q": "Principles of design are compared to what in the cooking analogy?", "opts": ["The raw ingredients themselves", "A recipe", "An empty kitchen", "Nothing related to cooking"], "ans": 1, "explanation": "If elements are ingredients, principles are the recipe that tells you how to combine them."},
+        {"q": "A design with excellent elements but poor use of principles can still look:", "opts": ["Automatically perfect regardless", "Chaotic, unbalanced, or unpleasant", "Unrelated to the concept of quality", "Guaranteed to succeed"], "ans": 1, "explanation": "Good ingredients arranged poorly still result in a disappointing final product."},
+        {"q": "Mastering successful artwork requires:", "opts": ["Only elements, ignoring principles entirely", "Only principles, ignoring elements entirely", "Both elements and principles together", "Neither elements nor principles"], "ans": 2, "explanation": "Both the raw materials (elements) and the rules for arranging them (principles) are essential."},
+        {"q": "If elements are ingredients, principles are:", "opts": ["Irrelevant to the final result", "Identical to the ingredients themselves", "The recipe for combining them well", "Unrelated to cooking entirely"], "ans": 2, "explanation": "Principles provide the structure and method for combining the elements effectively."},
+        {"q": "Excellent ingredients combined carelessly, according to the analogy, produce:", "opts": ["A disappointing result", "Automatically the best possible result", "No difference in outcome", "A result unrelated to how they were combined"], "ans": 0, "explanation": "Careless combination of even the best elements leads to a poor final result."},
+        {"q": "Principles of design are studied ___ elements of design in this course.", "opts": ["Before, always", "After", "Simultaneously, with no distinction", "Never, since they are unrelated"], "ans": 1, "explanation": "Students first learn the building blocks (elements) before learning how to arrange them (principles)."},
+        {"q": "The relationship between elements and principles is that principles:", "opts": ["Contradict elements", "Have no connection to elements", "Replace elements entirely", "Guide how elements are used"], "ans": 3, "explanation": "Principles provide the guiding framework for how the elements are applied."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w3_su2",
+      "title": "3.2 The Six Principles of Design",
+      "notes": [
+        "The Six Principles of Design",
+        "",
+        "Key Concepts:",
+        "1. Harmony:",
+        "   - The pleasing sense that all parts of a design work well TOGETHER, feeling unified rather than randomly assembled.",
+        "",
+        "2. Balance:",
+        "   - The even DISTRIBUTION of visual weight across a design. This can be SYMMETRICAL (mirror-image) or ASYMMETRICAL (different elements balanced by relative visual weight).",
+        "",
+        "3. Dominance:",
+        "   - One element or area DRAWS the most attention, acting as the design's main FOCAL POINT, while other elements play a supporting role.",
+        "",
+        "4. Variety:",
+        "   - Including enough DIFFERENCE (in line, colour, shape, texture) to keep a design visually INTERESTING, avoiding monotony.",
+        "",
+        "5. Proportion:",
+        "   - The relative SIZE relationships between different parts of a design — whether they feel appropriately scaled to each other and the whole.",
+        "",
+        "6. Rhythm:",
+        "   - The sense of visual MOVEMENT created by REPEATING elements at regular (or deliberately irregular) intervals, guiding the viewer's eye.",
+        "",
+        "Nigerian Context:",
+        "   - A repeating Ankara fabric pattern clearly demonstrates Rhythm. A traditional Yoruba beaded crown shows Dominance (the central face) and Proportion (the size of the beads relative to the crown)."
+      ],
+      "diagramDescriptions": ["Visual examples of Harmony, Balance, Dominance, Variety, Proportion, and Rhythm"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts six principles of design harmony balance dominance variety proportion rhythm site:youtube.com",
+      "quiz": [
+        {"q": "Harmony refers to:", "opts": ["Complete randomness with no unity", "The pleasing sense that all parts of a design work well together", "A single colour used throughout", "The size of a design"], "ans": 1, "explanation": "Harmony is the feeling of unity and coherence in a design."},
+        {"q": "Balance refers to:", "opts": ["Complete disorder", "The even distribution of visual weight across a design", "A single dominant colour", "The absence of any elements"], "ans": 1, "explanation": "Balance ensures that no single part of the design feels too heavy or empty."},
+        {"q": "Symmetrical balance means:", "opts": ["A mirror-image arrangement", "Completely random arrangement", "No balance at all", "Only one side of a design being used"], "ans": 0, "explanation": "Symmetrical balance is identical or nearly identical on both sides of a central axis."},
+        {"q": "Asymmetrical balance achieves balance through:", "opts": ["Exact mirror-image placement only", "Relative visual weight, not identical placement", "Complete absence of any elements", "Ignoring balance entirely"], "ans": 1, "explanation": "Asymmetrical balance uses different elements that have equal visual weight to achieve balance."},
+        {"q": "Dominance means:", "opts": ["All elements are equally unimportant", "One element draws the most attention as a focal point", "No element stands out at all", "Only colour matters in a design"], "ans": 1, "explanation": "Dominance creates a focal point that immediately draws the viewer's eye."},
+        {"q": "Variety means including enough ___ to keep a design interesting.", "opts": ["Emptiness", "Difference", "A single colour only", "Exact repetition with no change"], "ans": 1, "explanation": "Variety introduces difference to prevent the design from becoming boring or monotonous."},
+        {"q": "Proportion concerns:", "opts": ["Nothing related to size", "The relative size relationships between parts of a design", "Only the colour of a design", "Only the texture of a design"], "ans": 1, "explanation": "Proportion ensures that all parts of the design are appropriately sized relative to each other."},
+        {"q": "Rhythm is created by:", "opts": ["The total absence of any pattern", "Repeating elements at regular or deliberately irregular intervals", "A single element used only once", "Complete randomness with no repetition"], "ans": 1, "explanation": "Rhythm is the visual beat created by the repetition of elements."},
+        {"q": "A repeating fabric pattern, like Adire or Ankara, often clearly demonstrates:", "opts": ["A complete absence of design principles", "Rhythm", "Randomness with no visual movement", "Only colour, with no other principle"], "ans": 1, "explanation": "The repeated motifs create a steady visual movement, which is the definition of rhythm."},
+        {"q": "Overusing variety without harmony risks a design becoming:", "opts": ["Perfectly unified regardless", "Chaotic rather than interestingly varied", "Automatically successful", "Unrelated to visual appeal"], "ans": 1, "explanation": "Too much variety without a unifying harmony results in a chaotic, confusing design."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w3_su3",
+      "title": "3.3 Practical Application of Principles in Nigerian Art",
+      "notes": [
+        "Practical Application of Principles in Nigerian Art",
+        "",
+        "Key Concepts:",
+        "1. Harmony in Beadwork:",
+        "   - Using a limited, complementary colour palette to ensure the beadwork feels unified and pleasing, rather than a random clash of colours.",
+        "",
+        "2. Balance in Architecture and Crafts:",
+        "   - Traditional Nigerian houses or woven mats often use symmetrical balance to convey stability and order.",
+        "",
+        "3. Dominance in Masquerade Costumes:",
+        "   - A large, brightly coloured mask acts as the dominant focal point, while the rest of the costume (raffia, smaller beads) plays a supporting role.",
+        "",
+        "4. Rhythm in Textile Design:",
+        "   - The repeated motifs in Adire or Ankara fabrics create a strong visual rhythm that guides the eye across the cloth.",
+        "",
+        "Nigerian Context:",
+        "   - Recognizing these principles in everyday Nigerian art helps students appreciate that these are not just abstract rules, but practical tools used by our own artisans to create beauty and meaning."
+      ],
+      "diagramDescriptions": ["Examples of Nigerian art (beadwork, mats, masquerade, fabric) with principles of design labelled"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts principles of design in Nigerian art beadwork masquerade fabric site:youtube.com",
+      "quiz": [
+        {"q": "Using a limited, complementary colour palette in beadwork is an application of:", "opts": ["Rhythm", "Harmony", "Proportion", "Dominance"], "ans": 1, "explanation": "A unified colour palette ensures all parts work well together, creating Harmony."},
+        {"q": "Traditional Nigerian woven mats often use symmetrical balance to convey:", "opts": ["Chaos and confusion", "Stability and order", "Randomness", "Movement"], "ans": 1, "explanation": "Symmetrical balance naturally conveys a sense of stability, formality, and order."},
+        {"q": "In a masquerade costume, a large, brightly coloured mask acts as the:", "opts": ["Background", "Dominant focal point", "Supporting element", "Negative space"], "ans": 1, "explanation": "The mask draws the most attention, making it the dominant focal point of the costume."},
+        {"q": "The repeated motifs in an Ankara fabric pattern clearly demonstrate:", "opts": ["Proportion", "Variety", "Rhythm", "Asymmetrical balance"], "ans": 2, "explanation": "Repeating elements at regular intervals creates visual Rhythm."},
+        {"q": "Ensuring that the size of the beads in a crown is appropriate relative to the size of the crown itself is an application of:", "opts": ["Proportion", "Rhythm", "Variety", "Line"], "ans": 0, "explanation": "Proportion deals with the relative size relationships between different parts of a design."},
+        {"q": "Adding a few contrasting coloured beads to a mostly monochrome beadwork piece is an application of:", "opts": ["Harmony only", "Variety", "Symmetrical balance", "Proportion"], "ans": 1, "explanation": "Introducing a controlled amount of difference prevents monotony, which is the principle of Variety."},
+        {"q": "Recognizing principles of design in Nigerian art helps students to:", "opts": ["Believe the art was made by accident", "Appreciate the practical tools used by artisans to create beauty", "Ignore the artist's skill", "Focus only on the price of the artwork"], "ans": 1, "explanation": "It reveals the intentionality and skill behind traditional and contemporary Nigerian crafts."},
+        {"q": "A design that has no clear focal point and where every element competes for attention lacks:", "opts": ["Rhythm", "Dominance", "Texture", "Line"], "ans": 1, "explanation": "Without Dominance, the viewer's eye doesn't know where to rest, causing visual confusion."},
+        {"q": "Using both smooth and rough textures in a single sculpture is an example of:", "opts": ["Variety", "Symmetrical balance", "Proportion", "Rhythm"], "ans": 0, "explanation": "Using different textures introduces difference and interest, which is Variety."},
+        {"q": "The principles of design in Nigerian art are:", "opts": ["Purely accidental", "Deliberately applied to create specific visual effects", "Only found in modern art", "Unrelated to the final appearance"], "ans": 1, "explanation": "Artisans deliberately use these principles to achieve harmony, balance, and visual interest."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of principles of design, distinguishing them from elements of design.",
+      "markingGuide": "Clear definition (2.5); clear distinction from elements (2.5)."
+    },
+    {
+      "question": "Name and briefly describe the SIX principles of design.",
+      "markingGuide": "0.8 marks per correctly named and briefly described principle (approx 5 total)."
+    },
+    {
+      "question": "Distinguish between symmetrical and asymmetrical balance, giving an example of each.",
+      "markingGuide": "2 marks for correct distinction; 1.5 marks each for valid examples."
+    },
+    {
+      "question": "Explain the difference between dominance and variety, using an example to illustrate each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples."
+    },
+    {
+      "question": "Explain, using the 'party' analogy or your own example, why a design needs BOTH harmony and variety working together, rather than only one.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

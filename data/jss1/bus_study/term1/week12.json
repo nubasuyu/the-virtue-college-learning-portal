@@ -1,0 +1,143 @@
+{
+  "course": "JSS1 Business Studies",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Honesty in Business: Truthfulness and Fair Play",
+  "subUnits": [
+    {
+      "id": "jss1_bs_t1_w12_su1",
+      "title": "12.1 Meaning and Attributes of Truthfulness",
+      "notes": [
+        "Meaning and Attributes of Truthfulness",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Truthfulness:",
+        "   - Telling the facts as they really are, without exaggeration, deception, or hiding important information.",
+        "   - Being someone whose word can be trusted in all business dealings.",
+        "",
+        "2. Attributes of a Truthful Person:",
+        "   - Consistency: Their story or account of events does not change.",
+        "   - Openness: Willingness to admit mistakes rather than hide them.",
+        "   - Reliability: Their word and promises can be depended upon.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian markets and businesses, a trader who consistently gives the correct measurement of goods (e.g., a full litre of oil, not shortchanged) builds a reputation for truthfulness, which attracts loyal customers and long-term success."
+      ],
+      "diagramDescriptions": ["Chart listing the attributes of truthfulness: Consistency, Openness, Reliability"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning and attributes of truthfulness in business site:youtube.com",
+      "quiz": [
+        {"q": "What does truthfulness mean in a business context?", "opts": ["Telling only what benefits oneself", "Exaggerating to impress customers", "Telling the facts as they really are, without deception", "Hiding important information from partners"], "ans": 2, "explanation": "Truthfulness means being honest and transparent, stating facts without deception or exaggeration."},
+        {"q": "Which of the following is an attribute of a truthful person?", "opts": ["Changing their story frequently", "Consistency in their account of events", "Hiding mistakes at all costs", "Making promises they cannot keep"], "ans": 1, "explanation": "Consistency means their account of events remains the same and aligns with the facts."},
+        {"q": "Willingness to admit mistakes rather than hide them is called:", "opts": ["Greed", "Fear", "Openness", "Dishonesty"], "ans": 2, "explanation": "Openness is the attribute of being transparent and admitting errors honestly."},
+        {"q": "A business person whose promises can always be depended upon is described as:", "opts": ["Unpredictable", "Reliable", "Deceptive", "Careless"], "ans": 1, "explanation": "Reliability is a key attribute of truthfulness, meaning their word can be trusted."},
+        {"q": "A shop attendant who sells a slightly damaged phone but tells the customer it is 'brand new' is showing a lack of:", "opts": ["Good customer service", "Excessive honesty", "Truthfulness", "Fair pricing"], "ans": 2, "explanation": "Misrepresenting the condition of a product is a direct violation of truthfulness."},
+        {"q": "Why is truthfulness important in business?", "opts": ["It always leads to immediate, massive profits", "Business has nothing to do with trust", "Customers, colleagues, and accounts all depend on trust", "Honesty is rarely noticed in the market"], "ans": 2, "explanation": "Trust is the foundation of all business relationships, from customer loyalty to accurate financial record-keeping."},
+        {"q": "An employee who reports her own costly mistake to her manager immediately is showing:", "opts": ["Greed", "Openness", "Dishonesty", "Fear"], "ans": 1, "explanation": "Reporting a mistake honestly, even when it is uncomfortable, demonstrates openness and truthfulness."},
+        {"q": "Which of these is NOT an attribute of truthfulness?", "opts": ["Consistency", "Deception", "Reliability", "Openness"], "ans": 1, "explanation": "Deception is the opposite of truthfulness."},
+        {"q": "A truthful business record is one that:", "opts": ["Hides losses to make the company look good", "Accurately reflects all real transactions", "Exaggerates profits for investors", "Is created only when the tax office visits"], "ans": 1, "explanation": "Truthful records accurately reflect reality, which is the core principle of honest book-keeping."},
+        {"q": "In the long run, a business known for truthfulness will likely:", "opts": ["Lose all its customers", "Build a strong, positive reputation", "Face constant legal trouble", "Be avoided by suppliers"], "ans": 1, "explanation": "Truthfulness builds trust, which translates to a strong reputation and long-term customer loyalty."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w12_su2",
+      "title": "12.2 Factors Causing Lies and Consequences of Dishonesty",
+      "notes": [
+        "Factors Causing Lies and Consequences of Dishonesty",
+        "",
+        "Key Concepts:",
+        "1. Factors that Cause People to Lie in Business:",
+        "   - Fear: Fear of punishment, losing a job, or embarrassment.",
+        "   - Greed: Wanting to gain money or advantage unfairly.",
+        "   - Peer Pressure: Wanting to fit in with corrupt colleagues or impress others.",
+        "   - Ignorance: Not knowing the correct facts or the right thing to do.",
+        "",
+        "2. Rewards for Being Truthful:",
+        "   - Trust from customers, colleagues, and employers.",
+        "   - A good, lasting reputation.",
+        "   - Career growth and stronger relationships.",
+        "",
+        "3. Consequences of Not Being Truthful (Dishonesty):",
+        "   - Loss of trust and damaged reputation.",
+        "   - Broken relationships and loss of customers.",
+        "   - Legal or financial trouble (e.g., fines, imprisonment, or dismissal).",
+        "",
+        "Nigerian Context:",
+        "   - The EFCC (Economic and Financial Crimes Commission) frequently prosecutes individuals and companies for financial dishonesty, such as fraud or falsifying accounts, highlighting the severe legal consequences of dishonesty in Nigeria."
+      ],
+      "diagramDescriptions": ["Flowchart showing factors leading to lies and the resulting consequences vs. rewards of truth"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies factors causing lies consequences of dishonesty rewards of truth site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following is a common factor that causes people to lie in business?", "opts": ["Excessive honesty", "Greed", "Too much trust", "Good reputation"], "ans": 1, "explanation": "Greed, or the desire to gain something unfairly, is a major driver of dishonest behavior."},
+        {"q": "Lying to cover up a mistake because one is afraid of being fired is an example of which factor?", "opts": ["Greed", "Peer pressure", "Fear", "Ignorance"], "ans": 2, "explanation": "Fear of negative consequences, like losing a job, often drives people to lie."},
+        {"q": "Doing something dishonest because your colleagues are doing it and you want to fit in is an example of:", "opts": ["Fear", "Greed", "Peer pressure", "Openness"], "ans": 2, "explanation": "Peer pressure is the influence from a group to conform to their behavior, even if it is wrong."},
+        {"q": "Which of the following is a common REWARD for truthfulness?", "opts": ["Loss of reputation", "Trust from others", "Broken relationships", "Automatic punishment"], "ans": 1, "explanation": "Being truthful earns the trust and respect of customers, colleagues, and employers."},
+        {"q": "A common CONSEQUENCE of dishonesty in business is:", "opts": ["Increased customer loyalty", "Stronger relationships", "Loss of trust and damaged reputation", "Automatic promotion"], "ans": 2, "explanation": "Once dishonesty is discovered, trust is broken, and the business's reputation is severely damaged."},
+        {"q": "Falsifying financial records to avoid paying taxes can lead to:", "opts": ["A government award", "Legal and financial trouble", "Increased business profits", "Better relationships with suppliers"], "ans": 1, "explanation": "Falsifying records is a crime that can result in heavy fines, imprisonment, or business closure."},
+        {"q": "An employee who is caught stealing from the company till is likely to face:", "opts": ["A pay rise", "Dismissal and possible legal action", "A promotion", "Public celebration"], "ans": 1, "explanation": "Theft is a serious act of dishonesty that typically results in termination and potential prosecution."},
+        {"q": "Which of these is NOT a consequence of dishonesty?", "opts": ["Loss of trust", "Damaged reputation", "Career growth", "Broken relationships"], "ans": 2, "explanation": "Career growth is a reward for positive attributes like truthfulness, not dishonesty."},
+        {"q": "A market trader who consistently gives short measure (e.g., 900ml instead of 1 litre) will eventually:", "opts": ["Gain more customers", "Lose customers and damage her reputation", "Be rewarded by the market union", "Become a millionaire quickly"], "ans": 1, "explanation": "Customers will eventually notice the short measure, lose trust, and take their business elsewhere."},
+        {"q": "Ignorance can cause a person to lie when they:", "opts": ["Know the facts but hide them", "Want to steal money", "Do not know the correct information and guess or make things up", "Are pressured by friends"], "ans": 2, "explanation": "Sometimes people provide false information simply because they do not know the truth and are afraid to admit it."}
+      ]
+    },
+    {
+      "id": "jss1_bs_t1_w12_su3",
+      "title": "12.3 Meaning and Attributes of Fair Play",
+      "notes": [
+        "Meaning and Attributes of Fair Play",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Fair Play:",
+        "   - Treating others justly and honestly, following agreed rules, and not seeking an unfair advantage through cheating, favouritism, or deceit.",
+        "",
+        "2. Attributes of Fair Play:",
+        "   - Justice: Treating everyone according to what is right, without favouritism.",
+        "   - Respect for Agreed Rules: Honouring contracts, agreements, and regulations.",
+        "   - Equality: Not giving unfair special treatment to some while disadvantaging others.",
+        "",
+        "3. Fair Play in Business:",
+        "   - Giving customers correct change.",
+        "   - Honouring agreements made with suppliers.",
+        "   - Treating all employees equally regardless of ethnicity or personal relationships.",
+        "   - Competing with other businesses honestly rather than through sabotage.",
+        "",
+        "Nigerian Context:",
+        "   - The concept of 'Fair Play' is deeply tied to the Nigerian value of 'Fairness and Justice'. A business owner who promotes a qualified worker over their own unqualified relative is demonstrating the attribute of justice and equality."
+      ],
+      "diagramDescriptions": ["Scale of justice illustrating the attributes of fair play: Justice, Respect for Rules, Equality"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Business Studies meaning and attributes of fair play in business site:youtube.com",
+      "quiz": [
+        {"q": "What does fair play mean in a business context?", "opts": ["Ignoring all rules", "Favouring only friends and family", "Treating others justly and honestly, following agreed rules", "Cheating to gain an advantage"], "ans": 2, "explanation": "Fair play means acting justly, honestly, and adhering to established rules without seeking unfair advantages."},
+        {"q": "Treating everyone according to what is right, without favouritism, is called:", "opts": ["Justice", "Dishonesty", "Favouritism", "Greed"], "ans": 0, "explanation": "Justice is the attribute of fair play that ensures decisions are based on what is right, not personal bias."},
+        {"q": "A trader who shortchanges strangers but gives correct change to regular customers is practising:", "opts": ["Excellent fair play", "Good business ethics", "Unfair treatment, not fair play", "Justice"], "ans": 2, "explanation": "Fair play requires consistent, just treatment for EVERYONE, not just those the trader knows or favours."},
+        {"q": "A company owner promoting an unqualified relative over a hardworking, qualified employee is an example of:", "opts": ["Equality in action", "Favouritism, violating fair play", "Excellent fair play", "Justice in action"], "ans": 1, "explanation": "This violates the attributes of justice and equality, as the decision is based on family ties rather than merit."},
+        {"q": "Fair play in business includes:", "opts": ["Ignoring customers", "Honouring agreements made with suppliers", "Breaking agreements whenever convenient", "Sabotaging competitors"], "ans": 1, "explanation": "Honouring contracts and agreements is a fundamental aspect of respecting the rules of fair play."},
+        {"q": "Businesses known for fair play tend to build:", "opts": ["No reputation at all", "Weaker relationships", "Only short-term gains", "Stronger long-term relationships and better reputations"], "ans": 3, "explanation": "People naturally prefer to deal with those who treat them justly, leading to long-term success and a strong reputation."},
+        {"q": "Equality, as an attribute of fair play, means:", "opts": ["Treating only friends well", "No unfair special treatment for some at the expense of others", "Favouring the wealthy only", "Ignoring rules for convenience"], "ans": 1, "explanation": "Equality ensures that no one is unfairly advantaged or disadvantaged based on bias or favouritism."},
+        {"q": "A market scale that gives the same honest reading for everyone, regardless of who they are, illustrates:", "opts": ["Fair play", "Dishonesty", "Favouritism", "Greed"], "ans": 0, "explanation": "An honest, unbiased scale is a perfect metaphor for fair play and equality in business."},
+        {"q": "Respect for agreed rules and agreements is a key part of:", "opts": ["Fair play", "Dishonesty", "Favouritism", "Greed"], "ans": 0, "explanation": "Fair play requires adhering to the rules and contracts that have been mutually agreed upon."},
+        {"q": "Fair play must extend to:", "opts": ["Only family members", "Only close friends", "No one at all", "Everyone, including strangers, not just people one personally likes"], "ans": 3, "explanation": "True fair play is universal and applies to all interactions, not just those with favoured individuals."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain the meaning of truthfulness and state THREE attributes of a truthful person in business.",
+      "markingGuide": "Clear definition of truthfulness (2 marks). Three correctly stated attributes (e.g., consistency, openness, reliability) with brief explanations (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "State THREE factors that can cause people to lie in a business environment, and explain TWO consequences of dishonesty.",
+      "markingGuide": "1 mark per correctly named and briefly explained factor (e.g., fear, greed, peer pressure) = 3 marks. 1 mark per correctly stated consequence (e.g., loss of trust, legal trouble) = 2 marks. Total: 5 marks."
+    },
+    {
+      "question": "Define 'Fair Play' and explain, with a relevant Nigerian business example, how the attribute of 'Equality' is demonstrated.",
+      "markingGuide": "Clear definition of fair play (2 marks). Clear explanation of equality (1 mark). Valid, relevant Nigerian business example (e.g., promoting based on merit, not tribe or family) (2 marks). Total: 5 marks."
+    },
+    {
+      "question": "A shop owner gives correct change to customers he knows well but sometimes shortchanges strangers passing through town. Discuss whether this shows truthfulness and fair play, explaining your reasoning.",
+      "markingGuide": "Correct conclusion that this shows NEITHER truthfulness nor fair play (2 marks). Clear reasoning connecting the behavior to inconsistency, lack of justice, and violation of equality (3 marks). Total: 5 marks."
+    }
+  ]
+}

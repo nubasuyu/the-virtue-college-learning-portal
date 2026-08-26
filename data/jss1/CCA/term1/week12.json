@@ -1,0 +1,147 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 12,
+  "topic": "Mosaic: Meaning, Materials, Uses and Practical Work",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w12_su1",
+      "title": "12.1 Meaning, Materials and Tools for Mosaic",
+      "notes": [
+        "Meaning, Materials and Tools for Mosaic",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Mosaic:",
+        "   - An artwork or decorative surface created by ARRANGING many small pieces of material closely together to form a LARGER image or pattern.",
+        "   - Unlike a collage (which uses flat paper), mosaic typically uses SMALL, often hard, sometimes irregularly-shaped pieces, fixed permanently using glue or cement-based adhesive.",
+        "",
+        "2. Materials Commonly Used:",
+        "   - Broken bottles or glass pieces (handled with extreme care for safety).",
+        "   - Bottle tops, beads, and other small, durable, colourful fragments.",
+        "",
+        "3. Tools Needed:",
+        "   - Pen or marker: for sketching the design first.",
+        "   - Knives or tile nippers: for careful cutting or trimming of pieces.",
+        "   - Paint brushes: for applying adhesive precisely.",
+        "   - Scissors and strong glue: for fixing pieces permanently in place.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian art classes, mosaic is often introduced using safe, recycled materials like colourful bottle tops and broken ceramic tiles, teaching students both artistic composition and the value of upcycling waste materials."
+      ],
+      "diagramDescriptions": ["Display of mosaic materials: broken tiles, bottle tops, beads, and tools"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning materials tools for mosaic site:youtube.com",
+      "quiz": [
+        {"q": "What is a mosaic?", "opts": ["A carved wooden statue", "A woven basket", "An artwork created by arranging many small pieces to form a larger image or pattern", "A single, large painted image"], "ans": 2, "explanation": "Mosaic is the art of assembling small fragments to create a cohesive, larger design."},
+        {"q": "Which of these is a material commonly used in mosaic?", "opts": ["Broken glass pieces", "Only wood shavings", "Only wet clay", "Only fabric"], "ans": 0, "explanation": "Broken glass, tiles, and ceramics are classic, durable materials for mosaic art."},
+        {"q": "Bottle tops used in mosaic serve as:", "opts": ["an unrelated, unused material", "a type of glue", "small, durable, colourful fragments for the design", "the base surface only"], "ans": 2, "explanation": "Bottle tops provide a ready-made, colourful, and durable fragment for the mosaic pattern."},
+        {"q": "A pen or marker in mosaic-making is used to:", "opts": ["cut glass pieces", "sketch the design first", "replace the need for glue", "permanently fix pieces in place"], "ans": 1, "explanation": "Sketching the design on the base surface provides a guide for placing the mosaic pieces."},
+        {"q": "Glue in mosaic-making is used to:", "opts": ["cut materials to size", "sketch the initial design", "replace the need for a base surface", "fix pieces permanently in place"], "ans": 3, "explanation": "Adhesive is essential for permanently securing the small fragments to the base."},
+        {"q": "Broken glass or bottle pieces must be handled with special care because:", "opts": ["they are completely harmless", "they cannot be used in mosaic at all", "they never have sharp edges", "their sharp edges can cause injury"], "ans": 3, "explanation": "Safety is paramount; broken glass has sharp edges that can easily cut the skin."},
+        {"q": "A key difference between mosaic and collage is that mosaic typically uses:", "opts": ["only fabric, never hard materials", "exactly the same materials as collage, with no difference", "small, hard fragments rather than flat paper cut-outs", "no materials at all"], "ans": 2, "explanation": "Mosaic relies on hard, often 3D fragments (tile, glass), while collage uses flat, flexible paper."},
+        {"q": "Mosaic is compared to:", "opts": ["a jigsaw puzzle with pieces the artist chooses and creates", "an unrelated random activity", "a puzzle with no creative choice involved", "a single, unchanging predetermined image"], "ans": 0, "explanation": "Unlike a pre-cut jigsaw puzzle, the mosaic artist decides exactly where each unique fragment belongs."},
+        {"q": "Paint brushes in mosaic-making are used to:", "opts": ["apply adhesive precisely", "replace the need for pieces entirely", "sketch the design", "cut glass pieces"], "ans": 0, "explanation": "A brush allows for controlled, precise application of glue to the base or the back of small pieces."},
+        {"q": "The mosaic artist decides exactly where each fragment belongs, gradually building:", "opts": ["nothing coherent at all", "an image identical to every other mosaic", "a completely original image", "a completely random, meaningless pattern"], "ans": 2, "explanation": "The artist's deliberate placement of each piece results in a unique, original artwork."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w12_su2",
+      "title": "12.2 Uses of Mosaic and Practical Work",
+      "notes": [
+        "Uses of Mosaic and Practical Work",
+        "",
+        "Key Concepts:",
+        "1. Uses of Mosaic:",
+        "   - Wall Decoration: creating striking, permanent decorative images directly on interior or exterior walls.",
+        "   - Wall Hangings: mosaic pieces created on a separate, portable base (like a board or tile) then mounted.",
+        "   - Floor Decoration: durable mosaic patterns embedded into floors, valued for their hard-wearing surface.",
+        "   - Decorative Objects: mosaic-covered pots, tables, or ornamental items.",
+        "",
+        "2. Practical Production Steps:",
+        "   - Sketch: draw the design onto the base surface using a pen or marker.",
+        "   - Sort: organise small pieces (glass, bottle tops, beads) by colour and size.",
+        "   - Apply Glue: apply adhesive to a small SECTION of the design at a time (prevents drying before placement).",
+        "   - Place: carefully press pieces firmly into the glue following the sketched design.",
+        "   - Continue: work section by section until the whole design is complete.",
+        "   - Dry and Clean: allow the glue to dry fully, then clean any excess glue or debris from the surface.",
+        "",
+        "Nigerian Context:",
+        "   - Mosaic art is increasingly used in Nigerian public spaces, schools, and homes to create vibrant, durable murals that celebrate Nigerian heritage, using locally sourced broken tiles and recycled materials."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to producing a mosaic piece, section by section"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts uses of mosaic and practical work site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a use of mosaic?", "opts": ["Only fabric dyeing", "Wall decoration", "Only paper folding", "Only bead stringing"], "ans": 1, "explanation": "Mosaic is frequently used to create permanent, striking decorative images on walls."},
+        {"q": "Mosaic floor decoration is especially valued for its:", "opts": ["inability to be walked on", "complete lack of durability", "extreme fragility", "durable, long-lasting hard-wearing surface"], "ans": 3, "explanation": "The hard materials (tile, glass) make mosaic floors highly durable and suitable for heavy foot traffic."},
+        {"q": "A mosaic wall hanging is created on a ___ base before being mounted.", "opts": ["the wall itself, directly, always", "a fabric base only", "separate, portable base like a board or tile", "no base at all"], "ans": 2, "explanation": "Creating it on a portable base allows the artist to work comfortably before mounting it on the wall."},
+        {"q": "The first step in producing a mosaic is to:", "opts": ["clean the surface only, with no design", "sort pieces after gluing", "immediately glue random pieces with no plan", "sketch the design onto the base surface"], "ans": 3, "explanation": "Sketching provides the essential roadmap for placing the mosaic pieces accurately."},
+        {"q": "Glue should be applied ___ at a time.", "opts": ["nowhere, skipping this step entirely", "only after all pieces are placed", "to a small section", "across the entire design at once, always"], "ans": 2, "explanation": "Working in small sections ensures the glue remains wet and workable while pieces are being placed."},
+        {"q": "Working section by section prevents:", "opts": ["pieces from being sorted", "the glue from drying before pieces are placed", "the design from ever being completed", "the mosaic from having any pattern"], "ans": 1, "explanation": "If glue is applied to the whole surface at once, it may dry out before the artist can place all the pieces."},
+        {"q": "Sorting pieces by colour and size before placing them helps to:", "opts": ["guarantee a worse final result", "make the design impossible to complete", "create a more organised, visually coherent design", "have no effect on the outcome"], "ans": 2, "explanation": "Pre-sorting speeds up the placement process and ensures a more deliberate, organised pattern."},
+        {"q": "After the mosaic is complete, the final steps are to:", "opts": ["add more random pieces indefinitely", "immediately handle and move the piece while wet", "allow the glue to dry fully, then clean excess debris", "skip drying entirely"], "ans": 2, "explanation": "Full drying is necessary before cleaning or moving to ensure the pieces are permanently fixed."},
+        {"q": "Producing a mosaic section by section is compared to:", "opts": ["planting a garden bed by bed", "an unrelated random activity", "a task with no need for careful planning", "scattering seeds randomly across an entire garden"], "ans": 0, "explanation": "Like gardening, focusing on one manageable section at a time ensures thorough, careful work."},
+        {"q": "Decorative mosaic-covered pots and tables are examples of ___ use.", "opts": ["no real use at all", "floor decoration only", "decorative objects", "wall decoration only"], "ans": 2, "explanation": "These are standalone decorative objects enhanced by the mosaic technique."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w12_su3",
+      "title": "12.3 Safety and Care in Mosaic Production",
+      "notes": [
+        "Safety and Care in Mosaic Production",
+        "",
+        "Key Concepts:",
+        "1. Safety Precautions:",
+        "   - Always wear protective gloves when handling broken glass or sharp ceramic pieces.",
+        "   - Use safety goggles if cutting or breaking tiles to protect eyes from flying fragments.",
+        "   - Work in a well-ventilated area if using strong, solvent-based adhesives.",
+        "   - Keep the workspace clean and dispose of sharp waste in a designated, labelled container.",
+        "",
+        "2. Care of Finished Mosaic:",
+        "   - Dust regularly with a soft, dry cloth.",
+        "   - For outdoor mosaics, ensure the adhesive and grout are weather-resistant to prevent pieces from loosening due to rain or temperature changes.",
+        "   - Avoid hitting or dropping the mosaic, as individual pieces can chip or pop out.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian school workshops, teachers emphasize using safer alternatives like thick plastic bottle tops or pre-cut ceramic tiles for younger students, reserving broken glass handling for older, supervised students to ensure a safe, creative environment."
+      ],
+      "diagramDescriptions": ["Safety infographic: gloves, goggles, proper waste disposal, and cleaning tools"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts safety and care in mosaic production site:youtube.com",
+      "quiz": [
+        {"q": "When handling broken glass for mosaic, you should always wear:", "opts": ["no protection", "protective gloves", "only a hat", "sandals"], "ans": 1, "explanation": "Gloves protect the hands from cuts and abrasions caused by sharp glass edges."},
+        {"q": "Safety goggles are recommended in mosaic-making to:", "opts": ["improve vision", "protect eyes from flying fragments when cutting tiles", "block out light", "make the artist look professional"], "ans": 1, "explanation": "Cutting or breaking hard materials can send small, dangerous fragments flying toward the eyes."},
+        {"q": "Sharp mosaic waste should be disposed of in:", "opts": ["a regular paper bin", "a designated, labelled container", "the school yard", "a plastic bag"], "ans": 1, "explanation": "A designated, labelled container prevents accidental injury to anyone handling the trash."},
+        {"q": "If using strong, solvent-based adhesives, the workspace should be:", "opts": ["tightly closed and windowless", "well-ventilated", "underwater", "in a dark room"], "ans": 1, "explanation": "Ventilation prevents the buildup of harmful fumes from strong adhesives."},
+        {"q": "To clean a finished indoor mosaic, you should:", "opts": ["scrub it with a metal brush", "dust it regularly with a soft, dry cloth", "soak it in water", "use harsh acid"], "ans": 1, "explanation": "A soft, dry cloth removes dust without scratching the surface or loosening the grout."},
+        {"q": "For outdoor mosaics, it is important to use:", "opts": ["regular school glue", "weather-resistant adhesive and grout", "no adhesive at all", "only paper pieces"], "ans": 1, "explanation": "Weather-resistant materials prevent rain and temperature changes from loosening the pieces."},
+        {"q": "If a mosaic is hit or dropped, individual pieces may:", "opts": ["become stronger", "chip or pop out", "change colour", "grow larger"], "ans": 1, "explanation": "Impact can break the adhesive bond or shatter the individual hard fragments."},
+        {"q": "In Nigerian school workshops, younger students are often encouraged to use ___ for safety.", "opts": ["sharpened glass shards", "thick plastic bottle tops or pre-cut tiles", "no materials at all", "heavy metal sheets"], "ans": 1, "explanation": "Safer alternatives allow younger students to learn the technique without the risk of sharp glass."},
+        {"q": "Keeping the mosaic workspace clean helps to:", "opts": ["slow down the work", "prevent accidents and lost pieces", "make the glue dry faster", "change the design"], "ans": 1, "explanation": "A clean workspace reduces the risk of tripping, cutting, or losing small, essential pieces."},
+        {"q": "Proper safety and care in mosaic production ensure that:", "opts": ["the artist gets injured", "the artwork is created safely and lasts a long time", "the materials are wasted", "the design is ruined"], "ans": 1, "explanation": "Safety protects the artist, and proper care ensures the longevity and beauty of the finished artwork."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of mosaic, and how it differs from collage.",
+      "markingGuide": "Clear definition (2.5); clear distinction from collage (2.5)."
+    },
+    {
+      "question": "List the materials and tools needed for mosaic-making.",
+      "markingGuide": "0.6 marks per correctly named material/tool (approx 8 items, 5 total)."
+    },
+    {
+      "question": "List and briefly explain FOUR uses of mosaic.",
+      "markingGuide": "1.25 marks per correctly named and briefly explained use (5 total)."
+    },
+    {
+      "question": "Describe, in the correct order, the six steps for producing a mosaic piece.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain why mosaic pieces should be glued and placed section by section, rather than gluing the whole design at once, using the 'garden' analogy or your own example.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

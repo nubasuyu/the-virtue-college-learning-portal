@@ -1,0 +1,153 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 7,
+  "topic": "Paper Craft: Meaning, Materials, Folding Methods and Production",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w7_su1",
+      "title": "7.1 Meaning, Materials and Tools for Paper Craft",
+      "notes": [
+        "Meaning, Materials and Tools for Paper Craft",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Paper Craft:",
+        "   - The art of creating objects from PAPER using techniques like FOLDING, CUTTING, GLUING, and SHAPING.",
+        "   - It is one of the most ACCESSIBLE crafts, since paper is cheap, widely available, and requires no expensive specialised equipment.",
+        "",
+        "2. Materials Needed:",
+        "   - PAPER: Various types and weights (thin paper for kites, thicker card for greeting cards).",
+        "   - THREADS: For kite strings or hanging decorations.",
+        "   - COLOURING MATERIALS: Markers, crayons, or paints for decoration.",
+        "",
+        "3. Tools Needed:",
+        "   - SCISSORS: For cutting paper accurately.",
+        "   - RULER: For measuring and creating straight, precise folds.",
+        "   - GUM/GLUE: For joining paper pieces together securely.",
+        "",
+        "Nigerian Context:",
+        "   - Paper craft is widely used in Nigerian schools for making instructional aids, festive decorations, and simple toys, proving that genuine artistic skill does not always require expensive equipment."
+      ],
+      "diagramDescriptions": ["Labeled diagram of paper craft materials and tools"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning materials tools paper craft site:youtube.com",
+      "quiz": [
+        {"q": "What is paper craft?", "opts": ["A type of pottery", "A type of metal carving", "The art of creating objects from paper using folding, cutting, gluing, and shaping", "A type of fabric dyeing"], "ans": 2, "explanation": "Paper craft involves manipulating paper through folding, cutting, and gluing to create objects."},
+        {"q": "Paper craft is considered especially accessible because:", "opts": ["it requires years of specialised training before starting", "it can only be practised by experts", "paper is cheap, widely available, and needs no expensive equipment", "it requires very expensive, rare materials"], "ans": 2, "explanation": "The low cost and wide availability of paper and simple tools make it easy for anyone to start."},
+        {"q": "Which of these is a material used in paper craft?", "opts": ["A carving chisel", "Paper", "Fabric dye", "Clay"], "ans": 1, "explanation": "Paper is the primary raw material for this craft."},
+        {"q": "Which of these is a tool used in paper craft?", "opts": ["A dye bath", "A pottery wheel", "Scissors", "A weaving loom"], "ans": 2, "explanation": "Scissors are essential for cutting paper accurately to the desired shape."},
+        {"q": "A ruler is used in paper craft mainly for:", "opts": ["colouring the paper", "measuring and creating straight, precise folds", "cutting paper directly", "gluing paper together"], "ans": 1, "explanation": "A ruler ensures measurements are accurate and fold lines are perfectly straight."},
+        {"q": "Gum/glue is used in paper craft mainly for:", "opts": ["joining paper pieces together securely", "removing colour from paper", "measuring straight lines", "cutting paper"], "ans": 0, "explanation": "Adhesives like gum or glue are necessary to hold the shaped paper pieces together."},
+        {"q": "Thin paper is typically suited for making:", "opts": ["only fabric-based crafts", "kites", "sturdy structural frames requiring heavy card", "nothing at all"], "ans": 1, "explanation": "Thin paper is lightweight, making it ideal for objects that need to catch the wind, like kites."},
+        {"q": "Paper craft is compared to:", "opts": ["the most difficult, expensive craft to learn", "an unrelated random activity", "a craft requiring no skill whatsoever", "the most welcoming doorway into the world of crafts"], "ans": 3, "explanation": "Its simplicity and low barrier to entry make it the perfect starting point for learning craft skills."},
+        {"q": "Paper craft is an excellent craft for beginners because it teaches:", "opts": ["skills unrelated to any other craft", "only advanced, complex techniques", "essential creative and precision skills", "no useful skills at all"], "ans": 2, "explanation": "It builds foundational skills in measurement, cutting, and spatial awareness."},
+        {"q": "Using the wrong weight of paper for a project can lead to:", "opts": ["always a perfect result regardless", "automatic improvement of the design", "a structurally weak or unsuitable final result", "no effect on the outcome"], "ans": 2, "explanation": "For example, using thin paper for a heavy greeting card will result in a floppy, unprofessional product."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w7_su2",
+      "title": "7.2 Methods of Folding in Paper Craft",
+      "notes": [
+        "Methods of Folding in Paper Craft",
+        "",
+        "Key Concepts:",
+        "1. Square Fold:",
+        "   - Folding paper into equal square sections.",
+        "   - Often the starting point for many complex projects.",
+        "",
+        "2. Triangle Fold:",
+        "   - Folding a square or rectangle diagonally, corner to corner.",
+        "   - Commonly used in making kites or decorative bunting.",
+        "",
+        "3. Rectangle Fold:",
+        "   - Folding paper in half or into equal rectangular strips.",
+        "   - The basic fold for greeting cards or booklets.",
+        "",
+        "4. Pleating:",
+        "   - Making a series of small, repeated accordion-style folds.",
+        "   - Used for fans, decorative borders, or textured surfaces.",
+        "",
+        "Nigerian Context:",
+        "   - These basic folds are the 'alphabet' of paper craft. Just as letters combine to spell countless words, these four folds combine to create countless projects, from school project covers to festive decorations."
+      ],
+      "diagramDescriptions": ["Visual guide to square, triangle, rectangle, and pleat folds"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts methods of folding paper craft square triangle pleat site:youtube.com",
+      "quiz": [
+        {"q": "Which fold involves folding paper into equal square sections?", "opts": ["Pleating", "Square fold", "Triangle fold", "Rectangle fold"], "ans": 1, "explanation": "The square fold creates equal square quadrants, a common base for many designs."},
+        {"q": "Which fold involves folding diagonally, corner to corner?", "opts": ["Pleating", "Rectangle fold", "Square fold", "Triangle fold"], "ans": 3, "explanation": "Folding corner to corner creates a triangle, useful for kites and triangular decorations."},
+        {"q": "Which fold involves folding paper in half or into equal strips?", "opts": ["Rectangle fold", "Square fold", "Pleating", "Triangle fold"], "ans": 0, "explanation": "The rectangle fold is the standard method for creating cards or dividing paper into strips."},
+        {"q": "Which fold involves a series of small, repeated accordion-style folds?", "opts": ["Triangle fold", "Rectangle fold", "Pleating", "Square fold"], "ans": 2, "explanation": "Pleating creates a flexible, expandable structure, like a hand fan."},
+        {"q": "A hand fan is typically made using which folding method?", "opts": ["No folding at all", "Triangle fold only", "Square fold only", "Pleating"], "ans": 3, "explanation": "Pleating allows the fan to open and close smoothly."},
+        {"q": "A simple greeting card typically uses which fold as its base?", "opts": ["Rectangle fold", "Triangle fold only", "Pleating only", "No folding at all"], "ans": 0, "explanation": "Folding a rectangular paper in half is the standard base for a greeting card."},
+        {"q": "A kite typically uses which fold types?", "opts": ["No folding at all", "Only pleating", "Triangle and rectangle folds", "Only square folds"], "ans": 2, "explanation": "Triangle folds shape the body, while rectangle folds might form the tail or supporting strips."},
+        {"q": "The basic paper folds are compared to:", "opts": ["a single unchanging technique", "a skill with no real application", "unrelated random actions", "the alphabet, combining to 'spell' countless projects"], "ans": 3, "explanation": "Just as a few letters make many words, a few basic folds make many different paper crafts."},
+        {"q": "Mastering basic folds is described as the ___ for creating paper craft projects.", "opts": ["unrelated activity", "foundation", "least important skill", "unnecessary step"], "ans": 1, "explanation": "Without precise basic folds, complex projects will be uneven and unsuccessful."},
+        {"q": "Attempting a complex project without practising basic folds first is likely to:", "opts": ["guarantee perfect results regardless", "lead to a less successful result", "always improve the final project", "have no effect on the outcome"], "ans": 1, "explanation": "Lack of foundational skill leads to inaccurate measurements and poor structural integrity."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w7_su3",
+      "title": "7.3 Paper Craft Production: Kites, Cards, and Fans",
+      "notes": [
+        "Paper Craft Production: Kites, Cards, and Fans",
+        "",
+        "Key Concepts:",
+        "1. Producing a Kite:",
+        "   - Uses triangle and rectangle folds.",
+        "   - Requires lightweight paper, sticks for a frame, and thread for flying.",
+        "   - Precision in folding ensures the kite is balanced and flies well.",
+        "",
+        "2. Producing a Greeting Card:",
+        "   - Uses a simple rectangle fold as the base.",
+        "   - Decorated with cut-out shapes, drawings, or glued embellishments.",
+        "   - Requires neatness and careful alignment of the fold.",
+        "",
+        "3. Producing a Hand Fan:",
+        "   - Uses pleating (accordion folds).",
+        "   - A strip of paper is folded back and forth, then the bottom is secured with glue or a staple.",
+        "   - Requires consistent fold width for the fan to open and close smoothly.",
+        "",
+        "Nigerian Context:",
+        "   - During festivals or school events, students often produce paper craft fans and decorative cards, demonstrating how simple materials can be transformed into functional, beautiful items."
+      ],
+      "diagramDescriptions": ["Step-by-step production guide for a paper fan and greeting card"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts paper craft production kites cards fans site:youtube.com",
+      "quiz": [
+        {"q": "Which paper craft project typically requires a frame made of light sticks?", "opts": ["Greeting card", "Hand fan", "Kite", "Paper bowl"], "ans": 2, "explanation": "A kite needs a lightweight structural frame to hold the paper taut against the wind."},
+        {"q": "What is the primary fold used as the base for a simple greeting card?", "opts": ["Pleating", "Triangle fold", "Rectangle fold", "Square fold"], "ans": 2, "explanation": "Folding a rectangular paper in half creates the standard greeting card base."},
+        {"q": "To make a hand fan open and close smoothly, the pleats must be:", "opts": ["random in size", "consistent and even in width", "glued completely shut", "cut into triangles"], "ans": 1, "explanation": "Even pleats ensure the fan expands and contracts uniformly without tearing."},
+        {"q": "Which material is best suited for the main body of a flying kite?", "opts": ["Thick cardboard", "Thin, lightweight paper", "Wooden planks", "Metal foil"], "ans": 1, "explanation": "Lightweight paper catches the wind easily without being too heavy to lift."},
+        {"q": "When decorating a greeting card, neatness is important because:", "opts": ["it makes the card heavier", "it creates a professional, thoughtful appearance", "it uses more glue", "it makes the card harder to fold"], "ans": 1, "explanation": "Neat alignment and clean cuts show care and make the card visually appealing."},
+        {"q": "What is used to secure the bottom of a pleated paper fan?", "opts": ["Nothing, it falls apart", "Glue, a staple, or a clip", "Heavy rocks", "Water"], "ans": 1, "explanation": "Securing the base holds the pleats together, creating the handle of the fan."},
+        {"q": "If a kite is unbalanced due to uneven folding, it will likely:", "opts": ["fly higher than normal", "spin out of control or fail to fly", "become heavier", "change colour"], "ans": 1, "explanation": "Aerodynamic balance is critical for a kite to catch the wind properly and stay aloft."},
+        {"q": "Which of these is a common embellishment for a paper greeting card?", "opts": ["Wet clay", "Cut-out paper shapes or drawings", "Heavy metal chains", "Liquid dye"], "ans": 1, "explanation": "Cut-out shapes and drawings are standard, lightweight decorations for paper cards."},
+        {"q": "Producing paper craft items teaches students:", "opts": ["how to avoid using their hands", "patience, precision, and creativity", "how to waste paper", "how to use dangerous tools unsafely"], "ans": 1, "explanation": "The careful measuring, folding, and gluing required builds fine motor skills and creative problem-solving."},
+        {"q": "A student wants to make a sturdy box from paper. They should use:", "opts": ["tissue paper", "thick card or cardboard", "a single sheet of notebook paper", "wet paper"], "ans": 1, "explanation": "Thick card provides the structural integrity needed for a box to hold its shape."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of paper craft, and why it is considered accessible for beginners.",
+      "markingGuide": "Clear definition (2.5); clear explanation of accessibility (2.5)."
+    },
+    {
+      "question": "List the materials and tools needed for paper craft.",
+      "markingGuide": "0.8 marks per correctly named material/tool (6 items, approx 5 total)."
+    },
+    {
+      "question": "Describe the FOUR basic folding methods used in paper craft.",
+      "markingGuide": "1.25 marks per correctly described folding method (5 total)."
+    },
+    {
+      "question": "Explain how folding methods combine to produce a kite, a greeting card, and a hand fan, naming the main fold(s) used for each.",
+      "markingGuide": "1.67 marks per correctly matched project and fold type (3 projects, 5 total)."
+    },
+    {
+      "question": "Explain, using the 'alphabet' analogy or your own example, why mastering just a few basic folds allows a paper craft artist to create many different projects.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

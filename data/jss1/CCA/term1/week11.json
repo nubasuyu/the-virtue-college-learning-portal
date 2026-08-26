@@ -1,0 +1,144 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Bead Work Practicals: Types of Bead Works and States Associated with Bead Work",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w11_su1",
+      "title": "11.1 Production of Different Types of Bead Works",
+      "notes": [
+        "Production of Different Types of Bead Works",
+        "",
+        "Key Concepts:",
+        "1. Bead-Decorated Vases:",
+        "   - Involves gluing or attaching beads onto the OUTER surface of an existing vase (often clay or plastic).",
+        "   - This differs from stringing loose beads, as the beads are FIXED permanently to a solid surface to create intricate decorative patterns.",
+        "",
+        "2. Bead Hair Dress Accessories:",
+        "   - Includes beaded hair clips, hairpins, or woven beads incorporated directly into braided hairstyles.",
+        "   - A tradition especially rich in many Nigerian and wider African cultures, requiring secure attachment to withstand movement.",
+        "",
+        "3. Bead Body Wear:",
+        "   - Extends beyond simple jewellery to items like beaded WAIST BEADS (traditionally worn around the waist, often with cultural or personal significance), beaded ANKLETS, and elaborate CEREMONIAL bead costumes worn for festivals.",
+        "   - Each type requires adapted techniques: vase decoration uses gluing; hair accessories must be secure; body wear must be comfortable and appropriately sized.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, bead body wear like waist beads ('jigida' in Hausa) and elaborate ceremonial bead costumes are deeply embedded in cultural identity, marking milestones, status, and beauty across various ethnic groups."
+      ],
+      "diagramDescriptions": ["Images showing bead-decorated vases, beaded hairstyles, and traditional beaded body wear"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts production of different types of bead works site:youtube.com",
+      "quiz": [
+        {"q": "Bead-decorated vases involve beads that are ___ onto the surface.", "opts": ["glued", "strung loosely", "painted, not physically attached", "carved into the vase directly"], "ans": 0, "explanation": "Vase decoration involves permanently fixing beads to a solid surface using adhesive."},
+        {"q": "Bead hair dress accessories include:", "opts": ["only necklaces", "beaded hair clips, hairpins, and beads woven into braided styles", "only vases", "only ceremonial costumes"], "ans": 1, "explanation": "Hair accessories incorporate beads directly into hairstyles or as functional hair clips/pins."},
+        {"q": "Waist beads are an example of:", "opts": ["bead body wear", "a type of pottery", "bead hair accessories only", "bead vase decoration only"], "ans": 0, "explanation": "Waist beads are worn around the body, classifying them as bead body wear."},
+        {"q": "Ceremonial bead costumes are typically worn for:", "opts": ["only sporting events", "only everyday casual wear", "festivals or traditional ceremonies", "no particular occasion at all"], "ans": 2, "explanation": "Elaborate bead costumes are reserved for special cultural festivals and traditional ceremonies."},
+        {"q": "Bead work extends beyond simple jewellery to include:", "opts": ["only earrings", "vases, hair accessories, and body wear", "only bangles", "nothing beyond necklaces"], "ans": 1, "explanation": "The craft is versatile, extending to decorative objects, hair accessories, and full body wear."},
+        {"q": "The technique for decorating a vase with beads differs from necklace-making because:", "opts": ["vase beads are glued to a fixed surface, while necklace beads are strung", "vase decoration involves no beads at all", "necklace-making requires gluing, not stringing", "both use exactly the same technique"], "ans": 0, "explanation": "Necklaces use flexible stringing, while vase decoration uses permanent adhesive on a rigid surface."},
+        {"q": "Bead hair accessories must be:", "opts": ["made without any beads", "securely attached to withstand movement", "left loose and unattached", "attached only to vases"], "ans": 1, "explanation": "Hair accessories must be firmly secured so they do not fall out during normal movement."},
+        {"q": "Different types of bead work are compared to:", "opts": ["a single unchanging room", "unrelated, separate houses with no connection", "different rooms in the same beautifully decorated house", "a house with no rooms at all"], "ans": 2, "explanation": "Each type uses the same beloved material (beads) but demands its own particular technique and purpose, like different rooms in one house."},
+        {"q": "Bead body wear must be:", "opts": ["comfortable and appropriately sized for the wearer", "unrelated to the wearer's body", "made without any consideration of fit", "uncomfortable and oversized always"], "ans": 0, "explanation": "Since it is worn on the body, comfort and proper sizing are essential for practical wear."},
+        {"q": "Anklets are an example of:", "opts": ["bead body wear", "bead vase decoration", "bead hair accessories", "none of these"], "ans": 0, "explanation": "Anklets are worn around the ankle, making them a form of bead body wear."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w11_su2",
+      "title": "11.2 States Associated with Bead Works in Nigeria",
+      "notes": [
+        "States Associated with Bead Works in Nigeria",
+        "",
+        "Key Concepts:",
+        "1. Yoruba Culture (Oyo, Osun, Ogun States):",
+        "   - Beads have long carried deep meaning.",
+        "   - Royal beaded crowns (like those of the Oba/Oni title-holders) are especially significant.",
+        "   - Certain colours and patterns are traditionally reserved for ROYALTY and important chiefs.",
+        "",
+        "2. Niger Delta Region:",
+        "   - Certain communities use elaborate beaded regalia in traditional ceremonies and masquerades.",
+        "   - Beads symbolize wealth, spiritual protection, and community identity.",
+        "",
+        "3. Igbo Culture (Anambra, Enugu States):",
+        "   - Coral beads hold special SOCIAL and CEREMONIAL significance.",
+        "   - Traditionally worn during important title-taking ceremonies (like the 'Ozo' title) and marking status within the community.",
+        "",
+        "Nigerian Context:",
+        "   - Understanding these regional associations helps us appreciate that bead work is not just DECORATION, but often carries deep CULTURAL and SOCIAL meaning specific to particular Nigerian peoples and traditions."
+      ],
+      "diagramDescriptions": ["Map of Nigeria highlighting Yoruba, Niger Delta, and Igbo bead work regions"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts states associated with bead works in Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Royal beaded crowns are especially associated with which Nigerian culture?", "opts": ["A culture outside Nigeria entirely", "Yoruba culture", "Only modern, non-traditional design", "No specific culture"], "ans": 1, "explanation": "Yoruba culture is renowned for its intricate, culturally significant royal beaded crowns worn by Obas."},
+        {"q": "Which Nigerian states are particularly associated with Yoruba bead-work traditions?", "opts": ["Oyo, Osun, and Ogun", "States entirely outside Nigeria", "Only northern Nigerian states", "No specific states"], "ans": 0, "explanation": "Oyo, Osun, and Ogun are core Yoruba states with rich bead-work traditions."},
+        {"q": "Coral beads hold special ceremonial significance in which Nigerian culture?", "opts": ["No specific culture", "Igbo culture", "Only Western fashion culture", "A culture outside Nigeria"], "ans": 1, "explanation": "In Igbo culture, coral beads are highly valued and worn during significant ceremonies."},
+        {"q": "Coral beads in Igbo culture are traditionally worn during:", "opts": ["title-taking ceremonies", "foreign celebrations only", "no ceremonies at all", "only casual, everyday wear with no significance"], "ans": 0, "explanation": "They are a key part of traditional title-taking ceremonies, marking social elevation."},
+        {"q": "The Niger Delta region is associated with:", "opts": ["no bead-work tradition at all", "bead work with no cultural meaning", "elaborate beaded regalia in ceremonies and masquerades", "only modern, non-traditional beadwork"], "ans": 2, "explanation": "The Niger Delta is known for its elaborate, culturally rich beaded regalia used in traditional festivals."},
+        {"q": "In Yoruba tradition, certain bead colours and patterns are traditionally reserved for:", "opts": ["royalty and important chiefs", "no one in particular", "only foreigners", "only children"], "ans": 0, "explanation": "Specific bead patterns signify royalty and are strictly regulated by tradition."},
+        {"q": "Bead work in many Nigerian traditions carries deep ___ significance.", "opts": ["only decorative, with no deeper meaning", "cultural and social", "no real", "purely economic, with no cultural connection"], "ans": 1, "explanation": "Beads often signify status, wealth, spiritual protection, and cultural identity."},
+        {"q": "Nigerian bead-work traditions are compared to:", "opts": ["a tradition found nowhere in Nigeria", "unrelated traditions with no shared connection", "a single, unchanging, identical tradition everywhere", "different regional dialects of the same artistic language"], "ans": 3, "explanation": "Just as dialects vary by region, bead-work styles and meanings vary, yet all belong to the same Nigerian artistic heritage."},
+        {"q": "Understanding the cultural significance of bead work shows:", "opts": ["disrespect for tradition", "an unrelated, irrelevant perspective", "no real value or purpose", "respect for the culture behind the craft"], "ans": 3, "explanation": "It demonstrates an appreciation for the deep social and ceremonial meanings embedded in the craft."},
+        {"q": "Different Nigerian regions have developed ___ bead-work styles and meanings.", "opts": ["distinct", "foreign, non-Nigerian", "entirely identical", "no"], "ans": 0, "explanation": "Each region has cultivated its own unique styles, colours, and cultural meanings for bead work."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w11_su3",
+      "title": "11.3 Practical Application: Designing a Bead Work Piece",
+      "notes": [
+        "Practical Application: Designing a Bead Work Piece",
+        "",
+        "Key Concepts:",
+        "1. Choosing a Purpose:",
+        "   - Decide what the bead work will be used for (e.g., a necklace for a school cultural day, a decorative vase for the classroom, or a beaded hair clip).",
+        "",
+        "2. Selecting Materials:",
+        "   - Choose beads based on the purpose. For a durable school project, plastic or rolled paper beads are excellent. For a traditional look, incorporate local seeds or wooden beads.",
+        "   - Select a strong, appropriate string (e.g., elastic for bracelets, nylon thread for necklaces).",
+        "",
+        "3. Creating the Design:",
+        "   - Sketch the pattern on paper first. Decide on a colour scheme (e.g., green and white for a Nigerian theme).",
+        "   - Lay out the beads on a flat surface according to the sketch before threading to ensure the pattern works.",
+        "",
+        "Nigerian Context:",
+        "   - During school cultural days or art exhibitions in Nigeria, students often design bead work that reflects their ethnic heritage or national pride, using the colours of the Nigerian flag or traditional patterns, showcasing both skill and cultural pride."
+      ],
+      "diagramDescriptions": ["Step-by-step guide to designing and laying out a bead work pattern"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts practical application designing bead work piece site:youtube.com",
+      "quiz": [
+        {"q": "The first step in designing a bead work piece is to:", "opts": ["immediately glue beads randomly", "choose a purpose for the piece", "buy the most expensive beads available", "skip planning entirely"], "ans": 1, "explanation": "Knowing the purpose (e.g., necklace, vase decoration) dictates the materials and techniques you will use."},
+        {"q": "For a durable school project, which beads are an excellent, accessible choice?", "opts": ["solid gold beads", "plastic or rolled paper beads", "fragile glass only", "heavy metal only"], "ans": 1, "explanation": "Plastic and rolled paper beads are lightweight, inexpensive, and durable for student projects."},
+        {"q": "When making a beaded bracelet, the best type of string to use is often:", "opts": ["weak cotton thread", "elastic string", "rigid wire", "no string at all"], "ans": 1, "explanation": "Elastic string allows the bracelet to stretch comfortably over the hand and fit snugly on the wrist."},
+        {"q": "Sketching the pattern on paper before threading helps to:", "opts": ["waste time", "visualize the colour scheme and arrangement", "make the beads heavier", "hide the design from others"], "ans": 1, "explanation": "A sketch serves as a blueprint, ensuring the final piece is well-planned and visually balanced."},
+        {"q": "Laying out the beads on a flat surface before threading allows you to:", "opts": ["permanently fix them in place", "test the pattern and make adjustments easily", "soak them in water", "count them for sale"], "ans": 1, "explanation": "Dry-laying the beads lets you see the pattern and change it without the hassle of unthreading."},
+        {"q": "A student wants to create a bead work piece reflecting Nigerian national pride. Which colour scheme is most appropriate?", "opts": ["Red, white, and blue", "Green and white", "Black, red, and green", "Yellow and purple"], "ans": 1, "explanation": "Green and white are the colours of the Nigerian flag, making them a perfect choice for this theme."},
+        {"q": "Incorporating local seeds or wooden beads into a design can give the piece a:", "opts": ["modern, industrial look", "traditional, natural aesthetic", "metallic shine", "transparent appearance"], "ans": 1, "explanation": "Natural materials connect the craft to traditional Nigerian bead-work aesthetics."},
+        {"q": "If a bead pattern looks unbalanced when laid out, the student should:", "opts": ["thread it anyway", "adjust the arrangement before threading", "throw the beads away", "add more glue"], "ans": 1, "explanation": "Adjusting the layout before threading saves time and ensures a better final result."},
+        {"q": "Choosing the right string is important because:", "opts": ["it has no effect on the final piece", "it determines the durability and comfort of the jewellery", "it changes the colour of the beads", "it makes the beads larger"], "ans": 1, "explanation": "The right string ensures the piece holds together securely and feels comfortable to wear."},
+        {"q": "A well-designed bead work piece for a school cultural exhibition should showcase:", "opts": ["only random colours", "both technical skill and cultural meaning", "the most expensive materials possible", "no planning at all"], "ans": 1, "explanation": "The best student projects combine craftsmanship with thoughtful cultural or thematic expression."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Describe TWO types of bead work beyond simple necklace-making, explaining the technique used for each.",
+      "markingGuide": "2.5 marks each for a correctly described type with its technique."
+    },
+    {
+      "question": "Explain the difference between making a beaded necklace and decorating a vase with beads.",
+      "markingGuide": "Clear, accurate technical distinction (5, holistic)."
+    },
+    {
+      "question": "Name TWO Nigerian ethnic groups or regions associated with bead-work traditions, describing one specific cultural use for each.",
+      "markingGuide": "2.5 marks each for a correctly named group/region with a valid cultural use described."
+    },
+    {
+      "question": "Explain why coral beads hold special significance in Igbo culture, and what occasions they are traditionally worn for.",
+      "markingGuide": "Clear explanation of significance (2.5); correct occasion(s) named (2.5)."
+    },
+    {
+      "question": "Explain, using the 'regional dialects' analogy or your own example, why it matters to appreciate bead work's cultural meaning, not just its visual appearance.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

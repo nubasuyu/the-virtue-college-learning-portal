@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'mathematics': 'Mathematics', 'english': 'English', 'government': 'Government',
         'economics': 'Economics', 'yoruba': 'Yoruba', 'geography': 'Geography',
         'islamic': 'Islamic Studies', 'financial': 'Financial Accounting',
-        'commerce': 'Commerce', 'literature': 'Literature', 'french': 'French', 'bus_study': 'Business Study'
+        'commerce': 'Commerce', 'literature': 'Literature', 'french': 'French', 'bus_study': 'Business Study', 'CCA': 'CCA'
     };
 
     const TERM_NAMES = { 1: 'First Term', 2: 'Second Term', 3: 'Third Term' };
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (code === ADMIN_CODE) return { valid: true, isAdmin: true, access: "ALL" };
         if (ACCESS_CODES[code]) return { valid: true, isAdmin: false, access: ACCESS_CODES[code] };
         return { valid: false };
-    }
+    };
 
     // ─── PERMISSION CHECKING ───
     function getAllowedClasses(access) {

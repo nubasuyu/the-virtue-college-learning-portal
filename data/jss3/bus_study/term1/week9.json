@@ -1,0 +1,137 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Distribution Continued: Functions of the Channels",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w9_su1",
+      "title": "9.1 Functions of the Producer and Wholesaler",
+      "notes": [
+        "Functions of the Producer and Wholesaler",
+        "",
+        "Key Concepts:",
+        "1. Functions of the Producer:",
+        "   - Manufacturing or growing the goods.",
+        "   - Ensuring quality control during production.",
+        "   - Packaging goods appropriately for safe handling.",
+        "   - Setting the initial wholesale price for the goods.",
+        "",
+        "2. Functions of the Wholesaler:",
+        "   - Buying in Bulk: Purchasing large quantities directly from producers, often securing better prices.",
+        "   - Breaking Bulk: Dividing large quantities into smaller, manageable batches suitable for individual retailers.",
+        "   - Warehousing: Storing goods safely until retailers are ready to purchase them.",
+        "   - Providing Credit: Allowing trusted retailers to take goods now and pay later.",
+        "   - Risk Bearing: Taking on the risk of goods not selling or getting damaged while in storage.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, a wholesaler in Idumota Market (Lagos) buys 1,000 cartons of noodles directly from the manufacturer, stores them in a warehouse, and sells them in batches of 10 cartons to small provision shops across the state, often giving them a 30-day credit period."
+      ],
+      "diagramDescriptions": ["Flowchart showing the specific functions of the producer and wholesaler in the distribution chain"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies functions of producer and wholesaler in distribution site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a primary function of the producer?", "opts": ["Selling directly to every consumer", "Manufacturing or growing the goods", "Breaking bulk for retailers", "Only advertising"], "ans": 1, "explanation": "The producer's main role is to create, manufacture, or grow the goods."},
+        {"q": "What does 'breaking bulk' mean in the context of a wholesaler?", "opts": ["Destroying excess goods", "Refusing to sell goods", "Dividing large quantities into smaller batches for retailers", "Increasing the size of orders"], "ans": 2, "explanation": "Breaking bulk is the process of dividing large wholesale quantities into smaller amounts that retailers can afford and sell."},
+        {"q": "A wholesaler allowing a retailer to pay 30 days after receiving goods is providing:", "opts": ["Advertisement", "Transport", "Credit", "Insurance"], "ans": 2, "explanation": "Providing credit is a key function of wholesalers to help retailers manage their cash flow."},
+        {"q": "Which party in the distribution channel first ensures quality control during production?", "opts": ["The retailer", "The producer", "The wholesaler", "The consumer"], "ans": 1, "explanation": "Quality control is a fundamental responsibility of the producer during the manufacturing process."},
+        {"q": "By holding stock themselves, wholesalers take on some of the ___ of goods not selling.", "opts": ["Risk", "Advertisement cost only", "Transport cost only", "Guaranteed profit"], "ans": 0, "explanation": "Wholesalers bear the financial risk of holding inventory that might become obsolete or damaged."},
+        {"q": "A soap factory produces 10,000 cartons and sells the entire batch to one large distributor. What function has the producer performed?", "opts": ["Breaking bulk", "Manufacturing and setting an initial wholesale price", "Retailing", "Warehousing for the consumer"], "ans": 1, "explanation": "The producer manufactured the goods and sold them in bulk at a wholesale price."},
+        {"q": "Why do producers prefer to sell to wholesalers rather than directly to millions of consumers?", "opts": ["It is more complicated", "It allows them to sell in bulk and focus on production", "Wholesalers pay less", "Producers dislike consumers"], "ans": 1, "explanation": "Selling in bulk to wholesalers allows producers to move large volumes quickly without the hassle of retail distribution."},
+        {"q": "Which of the following is NOT a function of the wholesaler?", "opts": ["Buying in bulk", "Breaking bulk", "Manufacturing the goods from raw materials", "Providing credit to retailers"], "ans": 2, "explanation": "Manufacturing goods from raw materials is the function of the producer, not the wholesaler."},
+        {"q": "A wholesaler storing goods until retailers need them is performing the function of:", "opts": ["Consuming", "Manufacturing", "Advertising only", "Warehousing"], "ans": 3, "explanation": "Warehousing is the function of storing goods safely until they are needed by retailers."},
+        {"q": "The wholesaler is often compared to a 'translator' between the producer and retailer because:", "opts": ["They speak different languages", "They convert bulk quantities into retail-friendly amounts", "They change the product entirely", "They only deal with foreign goods"], "ans": 1, "explanation": "Wholesalers 'translate' the producer's large-scale output into the smaller-scale needs of the retailer."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w9_su2",
+      "title": "9.2 Functions of the Retailer and Consumer",
+      "notes": [
+        "Functions of the Retailer and Consumer",
+        "",
+        "Key Concepts:",
+        "1. Functions of the Retailer:",
+        "   - Buying in Smaller Quantities: Purchasing from wholesalers to stock their shops.",
+        "   - Displaying Goods: Arranging products attractively to catch customers' attention.",
+        "   - Providing Convenient Location: Making goods easily accessible to the local community.",
+        "   - Customer Service: Offering personalized advice, after-sales service, and building relationships.",
+        "   - Extending Small Credit: Sometimes allowing trusted local customers to pay later.",
+        "",
+        "2. Role of the Consumer:",
+        "   - The consumer is the FINAL link in the channel — the person who actually USES or CONSUMES the goods.",
+        "   - While the consumer does not perform a 'business function', their DEMAND is what drives the entire channel. If consumers stop wanting a product, the whole chain must adjust or suffer.",
+        "",
+        "Nigerian Context:",
+        "   - A neighborhood provision store in Abuja buys 5 bags of rice from a wholesaler, displays them neatly, advises customers on the best brand, and builds loyalty by allowing regular customers to pay at the end of the month."
+      ],
+      "diagramDescriptions": ["Diagram showing the retailer's value-add and the consumer's role as the driver of demand"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies functions of retailer and consumer role in distribution site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a function of the retailer?", "opts": ["Breaking bulk for wholesalers", "Farming raw materials", "Displaying goods attractively", "Manufacturing the goods"], "ans": 2, "explanation": "Retailers display goods attractively to encourage sales to the final consumer."},
+        {"q": "Retailers typically buy their goods from:", "opts": ["Consumers", "Wholesalers", "The government only", "No one at all"], "ans": 1, "explanation": "Retailers purchase smaller quantities of goods from wholesalers to stock their shops."},
+        {"q": "Who is the final user of goods in the distribution channel?", "opts": ["The consumer", "The retailer", "The wholesaler", "The producer"], "ans": 0, "explanation": "The consumer is the end-point of the distribution channel who actually uses the product."},
+        {"q": "A shop owner giving advice to help customers pick the right product is providing:", "opts": ["Only warehousing", "Only bulk breaking", "No useful function", "Customer service"], "ans": 3, "explanation": "Offering advice and assistance is a key part of the retailer's customer service function."},
+        {"q": "Retailers provide ___ for consumers by locating shops nearby.", "opts": ["Convenient access", "Inconvenience", "No benefit at all", "Only higher prices"], "ans": 0, "explanation": "By being located in local communities, retailers provide convenient access to goods."},
+        {"q": "What ultimately drives the entire distribution channel?", "opts": ["Nothing drives it", "Producer decisions alone", "Consumer demand", "Wholesaler decisions alone"], "ans": 2, "explanation": "Consumer demand is the engine of the distribution channel; without it, the chain collapses."},
+        {"q": "If consumer demand for a product falls, the effect ripples:", "opts": ["Forward only, with no effect on wholesalers", "Only to the consumer themselves", "Backward, reducing orders at every earlier stage", "Nowhere at all"], "ans": 2, "explanation": "A drop in consumer demand causes retailers to order less, which causes wholesalers to order less from producers."},
+        {"q": "A retailer occasionally extending small credit to trusted local customers is an example of:", "opts": ["An illegal activity", "A producer function only", "A retailer function", "A consumer function"], "ans": 2, "explanation": "Extending small, localized credit is a common and valuable function performed by retailers."},
+        {"q": "The consumer's role in the distribution channel is best described as:", "opts": ["A business that provides credit to retailers", "Irrelevant to the distribution process", "The final user whose demand drives the whole channel", "A business that manufactures goods"], "ans": 2, "explanation": "Though not a business entity, the consumer's demand dictates the success of the entire channel."},
+        {"q": "Which of the following is a benefit a retailer provides that a wholesaler typically does not?", "opts": ["Buying in massive bulk", "Personalized customer service and advice", "Storing goods in large warehouses", "Setting factory prices"], "ans": 1, "explanation": "Retailers interact directly with consumers, allowing them to provide personalized service and advice."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w9_su3",
+      "title": "9.3 Practical Applications and Case Studies in Distribution",
+      "notes": [
+        "Practical Applications and Case Studies in Distribution",
+        "",
+        "Key Concepts:",
+        "1. Short vs. Long Channels:",
+        "   - Long Channel: Producer → Wholesaler → Retailer → Consumer (common for mass-produced goods like canned drinks).",
+        "   - Short Channel: Producer → Retailer → Consumer (common for fresh produce or direct-to-store deliveries).",
+        "   - Direct Channel: Producer → Consumer (e.g., a farmer selling vegetables at a local market or online).",
+        "",
+        "2. Choosing the Right Channel:",
+        "   - Depends on the nature of the product (perishable goods need shorter channels).",
+        "   - Depends on the target market (widespread markets need wholesalers; niche markets might go direct).",
+        "",
+        "Nigerian Context:",
+        "   - A tomato farmer in Kano might use a direct channel by selling at the local market, but if they supply a major supermarket chain in Lagos, they will use a longer channel involving transporters, wholesalers, and retail distributors to ensure the tomatoes arrive fresh and in bulk."
+      ],
+      "diagramDescriptions": ["Comparison chart of Long, Short, and Direct distribution channels with Nigerian examples"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies practical applications case studies distribution channels Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "Which distribution channel is most common for mass-produced goods like canned soft drinks?", "opts": ["Direct channel", "Short channel", "Long channel (Producer → Wholesaler → Retailer → Consumer)", "Consumer to Producer"], "ans": 2, "explanation": "Mass-produced goods typically use a long channel to reach a wide network of retailers efficiently."},
+        {"q": "A farmer selling vegetables directly to shoppers at a village market is using a:", "opts": ["Four-stage channel", "Direct channel", "Wholesale-only channel", "Indirect-only channel"], "ans": 1, "explanation": "Selling directly from the producer to the consumer without intermediaries is a direct channel."},
+        {"q": "Why might a producer of highly perishable goods (like fresh milk) choose a shorter distribution channel?", "opts": ["To increase the number of middlemen", "To ensure the product reaches the consumer quickly before spoiling", "To make the product more expensive", "To avoid paying taxes"], "ans": 1, "explanation": "Shorter channels reduce the time goods spend in transit and storage, which is critical for perishable items."},
+        {"q": "If a manufacturer decides to sell exclusively through their own website to buyers, they are using a:", "opts": ["Wholesale channel", "Direct channel", "Retail channel", "Import channel"], "ans": 1, "explanation": "Selling directly to the end-user via a website bypasses all traditional intermediaries, making it a direct channel."},
+        {"q": "Which factor is LEAST important when choosing a distribution channel?", "opts": ["The nature of the product", "The target market", "The producer's favorite color", "The cost of distribution"], "ans": 2, "explanation": "The producer's personal preferences like favorite color have no bearing on logical business distribution decisions."},
+        {"q": "A 'short channel' typically skips which intermediary?", "opts": ["The consumer", "The wholesaler", "The producer", "None can ever be skipped"], "ans": 1, "explanation": "A short channel often skips the wholesaler, going directly from producer to retailer."},
+        {"q": "In Nigeria, a bakery delivering fresh bread directly to neighborhood shops every morning is an example of a:", "opts": ["Long channel", "Direct channel to consumer", "Short channel (Producer to Retailer)", "Import channel"], "ans": 2, "explanation": "The bakery (producer) sells directly to the shops (retailers), skipping the wholesaler, making it a short channel."},
+        {"q": "What is a major disadvantage of a very long distribution channel?", "opts": ["It reaches fewer people", "It increases the final price of the product due to multiple markups", "It is too fast", "It requires no transportation"], "ans": 1, "explanation": "Each intermediary in a long channel adds their own markup, which can make the final product more expensive for the consumer."},
+        {"q": "Which channel is most suitable for highly specialized, custom-made industrial machinery?", "opts": ["Direct channel", "Long channel with multiple wholesalers", "Retail channel", "Open market channel"], "ans": 0, "explanation": "Specialized, high-value items are usually sold directly from the manufacturer to the business user to ensure proper installation and support."},
+        {"q": "Goods in a distribution channel always flow:", "opts": ["From producer toward consumer", "Nowhere at all", "Randomly in any direction", "From consumer toward producer"], "ans": 0, "explanation": "The physical flow of goods in a distribution channel is always from the point of creation (producer) to the point of use (consumer)."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Describe TWO specific functions of the producer and TWO specific functions of the wholesaler in the distribution channel.",
+      "markingGuide": "2.5 marks each for a correctly described, specific function (5 marks total for producer, 5 marks total for wholesaler - scaled to 5 marks total for the question)."
+    },
+    {
+      "question": "Explain the role of the consumer in the distribution channel, and describe what happens further back along the channel if consumer demand suddenly falls.",
+      "markingGuide": "Clear explanation of the consumer's role as the driver of demand (2.5 marks); clear description of the backward ripple effect reducing orders (2.5 marks)."
+            },
+    {
+      "question": "Distinguish between a 'long' distribution channel and a 'direct' distribution channel, giving one relevant Nigerian example of each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid Nigerian examples."
+    },
+    {
+      "question": "A new business is producing handmade, perishable snacks. Advise the owner on the most appropriate distribution channel to use, giving THREE reasons for your recommendation.",
+      "markingGuide": "Correct recommendation of a short or direct channel (2 marks); three valid reasons related to perishability, quality control, or profit margin (3 marks)."
+    }
+  ]
+}

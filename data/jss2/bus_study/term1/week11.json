@@ -1,0 +1,140 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 11,
+  "topic": "Purchase Documents",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w11_su1",
+      "title": "11.1 Letter of Inquiry and Order Letter",
+      "notes": [
+        "Letter of Inquiry and Order Letter",
+        "",
+        "Key Concepts:",
+        "1. Letter of Inquiry (Enquiry):",
+        "   - A letter written by a POTENTIAL BUYER to a SELLER, ASKING for information about goods or services.",
+        "   - It asks about availability, prices, delivery terms, or discounts BEFORE deciding whether to place an order.",
+        "   - It is the buyer's FIRST step in exploring whether a supplier can meet their needs.",
+        "",
+        "2. Order Letter:",
+        "   - Written AFTER a buyer has decided to purchase.",
+        "   - It formally REQUESTS specific goods, stating the exact quantity, description, agreed price, and delivery instructions.",
+        "   - Once a seller receives and accepts an order letter, both parties are typically considered to have entered into a binding agreement.",
+        "",
+        "Nigerian Context:",
+        "   - A school in Enugu wanting to buy new uniforms will first write a Letter of Inquiry to three different tailors to compare prices. After choosing the best one, the school will write an Order Letter to formally request the 200 uniforms."
+      ],
+      "diagramDescriptions": ["Timeline showing the sequence: Letter of Inquiry → Quotation → Order Letter"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies letter of inquiry and order letter differences site:youtube.com",
+      "quiz": [
+        {"q": "What is a letter of inquiry?", "opts": ["Proof of payment received", "A formal request to purchase specific goods", "A record of every sale", "A letter asking a seller for information before deciding to buy"], "ans": 3, "explanation": "A letter of inquiry is used to gather information before making a purchasing decision."},
+        {"q": "What is an order letter?", "opts": ["A letter only asking for prices", "A record of stock levels", "Proof of payment received", "A formal request for specific goods after deciding to buy"], "ans": 3, "explanation": "An order letter is a formal commitment to purchase specific goods after the decision has been made."},
+        {"q": "A letter of inquiry is written ___ deciding to buy.", "opts": ["Never", "After", "Before", "Only after payment"], "ans": 2, "explanation": "It is written before deciding to buy, to gather necessary information."},
+        {"q": "An order letter is written ___ deciding to buy.", "opts": ["Before", "Never", "Only before any inquiry", "After"], "ans": 3, "explanation": "It is written after the buyer has compared options and decided to proceed with the purchase."},
+        {"q": "An order letter typically states:", "opts": ["Nothing specific at all", "Quantity, description, price, and delivery instructions", "Only the buyer's name", "Only the seller's address"], "ans": 1, "explanation": "It must be specific to avoid misunderstandings, detailing exactly what is being ordered."},
+        {"q": "A school wanting to compare uniform suppliers before choosing one should write a:", "opts": ["Receipt", "Debit note", "Letter of inquiry", "Order letter"], "ans": 2, "explanation": "A letter of inquiry is the correct document for gathering information and comparing suppliers."},
+        {"q": "Once a seller accepts an order letter, both parties typically:", "opts": ["Must cancel the transaction", "Have no obligation at all", "Must renegotiate everything", "Have entered into a binding agreement"], "ans": 3, "explanation": "An accepted order letter forms a legally binding contract between the buyer and seller."},
+        {"q": "A letter of inquiry is compared to:", "opts": ["Confirming a final tailor order", "Paying a tailor directly", "Ignoring all tailors", "Asking several tailors about styles and prices before choosing"], "ans": 3, "explanation": "It is the information-gathering phase, similar to asking for quotes before committing."},
+        {"q": "A buyer typically writes a letter of inquiry to:", "opts": ["Gather information from, possibly several suppliers", "Avoid suppliers entirely", "Commit to a supplier immediately", "Pay a supplier immediately"], "ans": 0, "explanation": "It is used to gather information from multiple potential suppliers to make an informed choice."},
+        {"q": "Skipping the letter of inquiry stage and going straight to an order letter risks:", "opts": ["Choosing a supplier without comparing options", "Always getting the best price", "No risk at all", "Automatic success"], "ans": 0, "explanation": "Without inquiring first, a buyer might choose a supplier who is overpriced or unreliable."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w11_su2",
+      "title": "11.2 Open and Close Indent",
+      "notes": [
+        "Open and Close Indent",
+        "",
+        "Key Concepts:",
+        "1. Meaning of an Indent:",
+        "   - An order for goods, typically used in FOREIGN TRADE (importing from another country).",
+        "",
+        "2. Open Indent:",
+        "   - Gives the SUPPLIER some FLEXIBILITY.",
+        "   - The buyer specifies WHAT they want (e.g., '500 bags of quality rice'), but leaves details like the exact brand, packaging, or minor specifications up to the supplier's discretion.",
+        "",
+        "3. Close Indent:",
+        "   - Much more SPECIFIC and STRICT.",
+        "   - The buyer states EXACTLY what is wanted (precise brand, model, specification).",
+        "   - Leaves the supplier NO room for substitution. If the exact item is not available, the order cannot be fulfilled.",
+        "",
+        "Nigerian Context:",
+        "   - A Nigerian importer ordering 'any recognized brand of premium diesel' is using an open indent. However, a hospital ordering 'exactly Brand X MRI machines with specific software version 4.2' must use a close indent to ensure they get the exact equipment needed."
+      ],
+      "diagramDescriptions": ["Comparison table highlighting the differences between Open and Close Indents"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies open and close indent foreign trade site:youtube.com",
+      "quiz": [
+        {"q": "What is an indent?", "opts": ["An order for goods, typically used in foreign trade", "A type of insurance policy", "A means of transport", "A type of bank account"], "ans": 0, "explanation": "An indent is a formal order for goods, especially in the context of importing from another country."},
+        {"q": "An open indent gives the supplier:", "opts": ["No order at all", "No flexibility at all", "Flexibility on exact brand or specification", "Permission to ignore the order"], "ans": 2, "explanation": "An open indent allows the supplier to choose the specific brand or details, as long as the general quality is met."},
+        {"q": "A close indent states:", "opts": ["Only the price", "Exactly what is wanted, with no substitution allowed", "Only a general idea, flexible on details", "Nothing specific"], "ans": 1, "explanation": "A close indent is highly specific and does not allow the supplier to substitute alternative products."},
+        {"q": "An importer ordering 'any recognized brand of rice' is using a(n) ___ indent.", "opts": ["Open", "Neither", "Both simultaneously", "Close"], "ans": 0, "explanation": "Leaving the brand choice to the supplier is the defining feature of an open indent."},
+        {"q": "An importer ordering 'exactly Brand X rice, no substitutions' is using a(n) ___ indent.", "opts": ["Close", "Open", "Both simultaneously", "Neither"], "ans": 0, "explanation": "Demanding a specific brand with no substitutions is the defining feature of a close indent."},
+        {"q": "Which type of indent is riskier for the supplier if they do not have the exact item in stock?", "opts": ["Open indent", "Close indent", "Neither", "Both are equally risky"], "ans": 1, "explanation": "In a close indent, the supplier cannot substitute, so if they lack the exact item, they lose the sale."},
+        {"q": "An open indent is most useful when:", "opts": ["The buyer needs a highly specialized, custom-made machine", "The buyer trusts the supplier's judgment on quality and brand", "The buyer wants to dictate every single detail", "The goods are for immediate emergency use"], "ans": 1, "explanation": "Open indents rely on the buyer's trust in the supplier to provide a suitable product within the general specifications."},
+        {"q": "Indents are primarily associated with which type of trade?", "opts": ["Local retail trade", "Foreign trade (importing)", "Barter trade", "Service trade"], "ans": 1, "explanation": "Indents are formal orders typically used in international or foreign trade."},
+        {"q": "If a supplier receives a close indent for a product they no longer manufacture, they should:", "opts": ["Send a similar product anyway", "Inform the buyer and await further instructions", "Ignore the order", "Charge extra for a substitute"], "ans": 1, "explanation": "Because no substitution is allowed in a close indent, the supplier must inform the buyer and wait for a revised order."},
+        {"q": "The main difference between an open and close indent is the level of:", "opts": ["Payment", "Specificity and flexibility", "Transportation", "Taxation"], "ans": 1, "explanation": "Open indents are flexible; close indents are highly specific."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w11_su3",
+      "title": "11.3 Purchases Daybook and Credit Note",
+      "notes": [
+        "Purchases Daybook and Credit Note",
+        "",
+        "Key Concepts:",
+        "1. Purchases Daybook:",
+        "   - The 'mirror image' of the sales daybook.",
+        "   - Instead of recording SALES, it records EVERY CREDIT PURCHASE a business makes, day by day.",
+        "   - It helps the business keep track of all the money it owes to various suppliers.",
+        "",
+        "2. Credit Note:",
+        "   - The OPPOSITE of a debit note.",
+        "   - Issued when an invoice OVERCHARGED the buyer, or when goods are returned to the seller.",
+        "   - It essentially says: 'You actually owe LESS than the original invoice stated,' and REDUCES the buyer's outstanding balance.",
+        "",
+        "Nigerian Context:",
+        "   - If a retailer in Aba returns 10 defective shoes to a wholesaler in Onitsha, the wholesaler will issue a Credit Note to reduce the amount the retailer owes, effectively giving them a 'refund' on their account."
+      ],
+      "diagramDescriptions": ["Visual comparison of Debit Note (increases debt) vs. Credit Note (decreases debt)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies purchases daybook and credit note purpose site:youtube.com",
+      "quiz": [
+        {"q": "What is a purchases daybook?", "opts": ["A record of every cash purchase", "A record of every credit purchase, day by day", "A means of transport", "Nothing about purchases"], "ans": 1, "explanation": "A purchases daybook is a chronological record of all credit purchases made by a business."},
+        {"q": "A credit note corrects:", "opts": ["A shipping error only", "Nothing at all", "An overcharge, reducing what is owed", "An undercharge, increasing what is owed"], "ans": 2, "explanation": "A credit note is issued to reduce the amount owed, correcting an overcharge or acknowledging returned goods."},
+        {"q": "A debit note corrects ___, while a credit note corrects ___.", "opts": ["Neither correction", "An undercharge; an overcharge", "The same thing in both cases", "An overcharge; an undercharge"], "ans": 1, "explanation": "Debit notes increase debt (undercharge); credit notes decrease debt (overcharge/returns)."},
+        {"q": "The purchases daybook is described as the 'mirror image' of the:", "opts": ["Order letter", "Sales daybook", "Credit note", "Debit note"], "ans": 1, "explanation": "Just as the sales daybook records credit sales, the purchases daybook records credit purchases."},
+        {"q": "A credit note is best understood as:", "opts": ["A refund slip reducing an amount owed", "An increase in an amount owed", "A means of transport", "A type of insurance"], "ans": 0, "explanation": "It acts like a refund on account, reducing the buyer's outstanding balance."},
+        {"q": "If a buyer returns damaged goods to a seller, the seller should issue a:", "opts": ["Debit note", "Sales daybook entry", "Receipt", "Credit note"], "ans": 3, "explanation": "A credit note is issued to acknowledge the return and reduce the amount the buyer owes."},
+        {"q": "A business uses a purchases daybook primarily to:", "opts": ["Track how much money it owes to suppliers", "Track how much money customers owe it", "Record cash sales", "Advertise products"], "ans": 0, "explanation": "It helps the business manage its accounts payable by tracking all credit purchases."},
+        {"q": "If a seller accidentally charged a customer ₦10,000 instead of the correct ₦8,000, the seller should issue a:", "opts": ["Debit note for ₦2,000", "Credit note for ₦2,000", "New invoice for ₦10,000", "Receipt for ₦8,000"], "ans": 1, "explanation": "A credit note for the difference (₦2,000) will reduce the customer's debt to the correct amount."},
+        {"q": "Which of the following is NOT recorded in a purchases daybook?", "opts": ["Credit purchases of raw materials", "Credit purchases of office supplies", "Cash purchases of equipment", "Credit purchases of machinery"], "ans": 2, "explanation": "The purchases daybook is specifically for CREDIT purchases; cash purchases are recorded in the cash book."},
+        {"q": "When a business receives a credit note from a supplier, its total liabilities will:", "opts": ["Increase", "Decrease", "Remain the same", "Be cancelled entirely"], "ans": 1, "explanation": "A credit note reduces the amount the business owes, thereby decreasing its liabilities."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Distinguish between a letter of inquiry and an order letter, giving a practical example of when each would be used.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples."
+    },
+    {
+      "question": "Distinguish between an open indent and a close indent, giving an example of each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples."
+    },
+    {
+      "question": "Define a purchases daybook, and explain how it differs from a sales daybook.",
+      "markingGuide": "Correct definition (2.5 marks); clear distinction from sales daybook (2.5 marks)."
+    },
+    {
+      "question": "Distinguish between a credit note and a debit note, explaining what specific situation would lead a business to issue each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid situational examples."
+    },
+    {
+      "question": "A Nigerian company wants to import machinery parts from Germany but is unsure whether to specify the exact brand or leave it to the supplier's discretion. Advise them on the difference between an open and close indent, and suggest which might be more appropriate for expensive machinery parts, with reasoning.",
+      "markingGuide": "Clear, accurate distinction (3 marks); sensible reasoned recommendation for close indent given the precision needs of machinery parts (2 marks)."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 8,
+  "topic": "Collage Production",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w8_su1",
+      "title": "8.1 Meaning and Materials for Collage Making",
+      "notes": [
+        "Meaning and Materials for Collage Making",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Collage:",
+        "   - An artwork created by ARRANGING and GLUING different materials (pictures, paper cut-outs, fabric scraps) onto a single SURFACE to create ONE unified image or design.",
+        "   - The word 'collage' comes from the French word 'coller', meaning 'to glue'.",
+        "",
+        "2. Materials Needed:",
+        "   - COLOURED MAGAZINES: A rich source of pre-printed pictures, colours, and textures.",
+        "   - PAPER GUM/GLUE: For adhering pieces to the base.",
+        "   - CARDBOARD or THICK PAPER: The base surface the collage is built upon.",
+        "",
+        "3. Tools Needed:",
+        "   - SCISSORS: For cutting out chosen images and shapes.",
+        "   - PENCILS: For sketching a rough plan before gluing.",
+        "",
+        "Nigerian Context:",
+        "   - Collage is a popular medium in Nigerian schools for creating visual essays on topics like 'My Culture' or 'Environmental Conservation', allowing students to use discarded magazines to create powerful new messages."
+      ],
+      "diagramDescriptions": ["Examples of collage materials and a finished collage artwork"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning and materials for collage making site:youtube.com",
+      "quiz": [
+        {"q": "What is a collage?", "opts": ["An artwork created by arranging and gluing different materials onto a surface", "A woven basket", "A single painting using only one colour", "A carved wooden sculpture"], "ans": 0, "explanation": "Collage involves assembling various flat materials onto a base to form a new image."},
+        {"q": "The word 'collage' comes from the French word meaning:", "opts": ["to glue", "to weave", "to paint", "to carve"], "ans": 0, "explanation": "'Coller' is French for 'to glue', which is the essential technique of collage."},
+        {"q": "Which of these is a material used in collage making?", "opts": ["Fabric dye", "A pottery wheel", "Wood carving chisels", "Coloured magazines"], "ans": 3, "explanation": "Magazines provide a variety of pre-printed images and colours to cut and use."},
+        {"q": "Scissors are used in collage making to:", "opts": ["sketch a rough plan", "cut out chosen images and shapes", "provide the base surface", "glue pieces together"], "ans": 1, "explanation": "Scissors are the primary tool for extracting specific shapes from source materials."},
+        {"q": "Paper gum is used in collage making to:", "opts": ["sketch a plan", "provide colour", "glue pieces onto the base surface", "cut images from magazines"], "ans": 2, "explanation": "Adhesive is necessary to permanently attach the cut-out pieces to the base."},
+        {"q": "A pencil in collage making is used to:", "opts": ["sketch a rough plan before gluing", "permanently glue pieces down", "provide the base surface", "cut out images"], "ans": 0, "explanation": "Sketching a plan ensures the final arrangement is thoughtful and balanced before committing with glue."},
+        {"q": "The base surface for a collage is typically:", "opts": ["woven fabric only", "liquid dye", "cardboard or thick paper", "wet clay"], "ans": 2, "explanation": "Cardboard or thick paper provides a sturdy, flat foundation that won't warp easily when glue is applied."},
+        {"q": "Collage is compared to:", "opts": ["a visual mosaic built from borrowed treasures", "a craft with no creative element", "an unrelated random activity", "a single, unchanging painting technique"], "ans": 0, "explanation": "Like a mosaic, collage assembles smaller, pre-existing pieces into a new, unified whole."},
+        {"q": "Gluing pieces down without first planning the arrangement often results in:", "opts": ["an automatically improved design", "a disorganised or unbalanced collage", "no effect on the final result", "a perfectly organised collage regardless"], "ans": 1, "explanation": "Without a plan, the collage can become cluttered, with no clear focal point or theme."},
+        {"q": "A collage combines multiple materials into:", "opts": ["many separate, unrelated images", "no coherent image at all", "a single sound recording", "one unified image or design"], "ans": 3, "explanation": "The goal of collage is to unify diverse elements into a single, cohesive artistic statement."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w8_su2",
+      "title": "8.2 Methods of Producing Collage",
+      "notes": [
+        "Methods of Producing Collage",
+        "",
+        "Key Concepts:",
+        "1. Step 1: Choose a Theme",
+        "   - Decide on a subject (e.g., 'Nature', 'My Community', 'Colours I Love').",
+        "",
+        "2. Step 2: Sketch a Rough Plan",
+        "   - Use a pencil to lightly draw where major elements will go on the base.",
+        "",
+        "3. Step 3: Select and Cut",
+        "   - Cut out suitable images, shapes, or materials matching the theme.",
+        "",
+        "4. Step 4: Arrange (Without Gluing)",
+        "   - Place the cut pieces on the base and adjust the layout until satisfied.",
+        "",
+        "5. Step 5: Glue Background to Foreground",
+        "   - Glue each piece down carefully, starting with background elements and layering foreground details on top.",
+        "",
+        "6. Step 6: Dry Fully",
+        "   - Allow the glue to dry completely before handling or displaying.",
+        "",
+        "Nigerian Context:",
+        "   - Following this order is crucial. In Nigerian art classes, students who rush to glue often find their pieces misaligned, whereas those who arrange first produce neat, professional-looking visual essays."
+      ],
+      "diagramDescriptions": ["Flowchart of the 6 steps of collage production"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts methods of producing collage step by step site:youtube.com",
+      "quiz": [
+        {"q": "The first step in producing a collage is to:", "opts": ["cut out images with no plan", "choose a theme or subject", "allow glue to dry", "immediately glue random pieces"], "ans": 1, "explanation": "A clear theme guides all subsequent choices of materials and arrangement."},
+        {"q": "A rough plan is sketched using:", "opts": ["no tool at all", "permanent glue", "pencil", "scissors alone"], "ans": 2, "explanation": "Pencil allows for easy erasing and adjusting of the layout before gluing."},
+        {"q": "Pieces should be arranged on the base ___ gluing.", "opts": ["at the exact same time as, with no distinction", "only after, never before", "before", "never, skipping this step entirely"], "ans": 2, "explanation": "Arranging first allows the artist to perfect the composition without the permanence of glue."},
+        {"q": "Gluing should generally proceed from:", "opts": ["foreground details to background elements", "the edges inward only", "random order, with no particular sequence", "background elements to foreground details"], "ans": 3, "explanation": "Gluing the background first allows foreground pieces to overlap correctly, creating visual depth."},
+        {"q": "The final step in producing a collage is to:", "opts": ["allow the glue to dry fully", "select materials", "sketch a rough plan", "choose a theme"], "ans": 0, "explanation": "Drying ensures the collage is stable and won't fall apart when handled."},
+        {"q": "Sketching a plan first helps to:", "opts": ["avoid a disorganised final result", "make arranging pieces unnecessary", "guarantee a disorganised result regardless", "have no effect on the outcome"], "ans": 0, "explanation": "A plan provides a roadmap, preventing a cluttered or confusing final design."},
+        {"q": "Arranging pieces before gluing allows the artist to:", "opts": ["glue pieces randomly with no consequence", "skip the planning process entirely", "make changes and improvements before committing", "never make any changes at all"], "ans": 2, "explanation": "Dry arrangement is flexible, allowing for easy adjustments to balance and spacing."},
+        {"q": "A well-made collage should:", "opts": ["tell a clear, unified story or capture a clear mood", "feel like a random pile of unrelated cut-outs", "avoid any planning whatsoever", "have no theme or connection between pieces"], "ans": 0, "explanation": "A successful collage has a cohesive theme that ties all the diverse elements together."},
+        {"q": "Producing a collage is compared to:", "opts": ["a task requiring no planning", "an unrelated random activity", "directing a group photograph", "a single, instant action with no steps"], "ans": 2, "explanation": "Like arranging people for a photo, collage requires careful positioning before the final 'snapshot' (gluing)."},
+        {"q": "Gluing foreground pieces before background pieces would:", "opts": ["be the recommended standard method", "make correct visual layering impossible", "improve the collage's layering", "have no effect on the final appearance"], "ans": 1, "explanation": "If foreground pieces are glued first, background pieces cannot be tucked underneath them properly."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w8_su3",
+      "title": "8.3 Themes and Practical Application in Collage",
+      "notes": [
+        "Themes and Practical Application in Collage",
+        "",
+        "Key Concepts:",
+        "1. Choosing Effective Themes:",
+        "   - Good themes are specific enough to guide material selection but broad enough to allow creativity (e.g., 'Market Day in My Town', 'The Beauty of Nigerian Wildlife').",
+        "",
+        "2. Material Selection for Theme:",
+        "   - If the theme is 'Market Day', the artist should look for magazine cut-outs of people, fruits, baskets, and vibrant colours.",
+        "",
+        "3. Creating Visual Hierarchy:",
+        "   - The most important part of the collage (the focal point) should be the largest or most brightly coloured, placed centrally or according to the rule of thirds.",
+        "",
+        "4. Practical Application:",
+        "   - Collage is used in advertising, scrapbooking, and school projects to convey complex ideas quickly through visual association.",
+        "",
+        "Nigerian Context:",
+        "   - A student creating a collage on 'Nigerian Independence' might combine images of the green-white-green flag, historical figures, and cultural dances, using glue to unify these symbols into a single patriotic statement."
+      ],
+      "diagramDescriptions": ["Example of a themed collage showing visual hierarchy"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts themes and practical application in collage site:youtube.com",
+      "quiz": [
+        {"q": "A good collage theme should be:", "opts": ["so specific that no creativity is allowed", "specific enough to guide selection but broad enough for creativity", "completely random", "limited to only one colour"], "ans": 1, "explanation": "A balanced theme provides direction while still allowing the artist to make creative choices."},
+        {"q": "If a collage theme is 'Market Day', which material would be most appropriate?", "opts": ["Pictures of outer space", "Cut-outs of fruits, baskets, and people", "Images of deep ocean fish", "Diagrams of car engines"], "ans": 1, "explanation": "The materials must directly relate to and support the chosen theme."},
+        {"q": "The focal point of a collage should generally be:", "opts": ["the smallest, darkest piece", "hidden in the corner", "the largest or most brightly coloured, placed prominently", "glued last and covered up"], "ans": 2, "explanation": "The focal point draws the viewer's eye and establishes the main subject of the artwork."},
+        {"q": "Visual hierarchy in a collage helps to:", "opts": ["confuse the viewer", "make all elements look exactly the same", "guide the viewer's eye to the most important parts first", "use up all the glue"], "ans": 2, "explanation": "Hierarchy creates order, ensuring the viewer understands the relative importance of different elements."},
+        {"q": "Collage is a practical medium for school projects because it:", "opts": ["requires expensive, rare materials", "allows students to convey complex ideas quickly through visual association", "cannot be themed", "takes months to complete"], "ans": 1, "explanation": "Using pre-existing images allows for rapid, impactful visual communication of a topic."},
+        {"q": "A student creating a collage on 'Nigerian Independence' might include:", "opts": ["images of foreign winter landscapes", "the Nigerian flag and cultural symbols", "only black and white geometric shapes", "pictures of modern computers"], "ans": 1, "explanation": "Relevant cultural and historical symbols directly support the theme of independence."},
+        {"q": "When selecting materials, an artist should consider:", "opts": ["only the price of the magazine", "colour, texture, and relevance to the theme", "how heavy the paper is", "the brand of the scissors"], "ans": 1, "explanation": "Colour, texture, and thematic relevance are the core artistic considerations for collage."},
+        {"q": "Overlapping pieces in a collage can create a sense of:", "opts": ["flatness", "depth and dimension", "confusion", "emptiness"], "ans": 1, "explanation": "Layering foreground over background mimics how we see depth in the real world."},
+        {"q": "A collage that lacks a clear theme often feels:", "opts": ["highly professional", "like a random, disorganised pile of cut-outs", "perfectly balanced", "easy to understand"], "ans": 1, "explanation": "Without a unifying theme, the viewer cannot find meaning or connection between the disparate elements."},
+        {"q": "The 'rule of thirds' in collage placement suggests:", "opts": ["placing the focal point dead centre always", "placing key elements along imaginary lines dividing the base into thirds", "using only three colours", "gluing only three pieces"], "ans": 1, "explanation": "The rule of thirds is a compositional guideline that creates a more dynamic and visually pleasing layout than dead-centre placement."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of collage, including the origin of the word.",
+      "markingGuide": "Clear definition (3); correct word origin explained (2)."
+    },
+    {
+      "question": "List the materials needed for collage making, and explain the purpose of pencils in the process.",
+      "markingGuide": "Correct materials listed (2.5); clear explanation of pencil use (2.5)."
+    },
+    {
+      "question": "Describe, in the correct order, the six steps of producing a collage.",
+      "markingGuide": "0.8 marks per correctly ordered step (approx 5 total)."
+    },
+    {
+      "question": "Explain why pieces should be arranged BEFORE gluing, and why gluing should proceed from background to foreground.",
+      "markingGuide": "2.5 marks each for a correct, clear explanation of both principles."
+    },
+    {
+      "question": "Design (in words) a simple collage on the theme of 'My Community', describing what images or materials you would choose and how you would arrange them.",
+      "markingGuide": "Clear, relevant theme-based description with a sensible arrangement plan (5, holistic)."
+    }
+  ]
+}

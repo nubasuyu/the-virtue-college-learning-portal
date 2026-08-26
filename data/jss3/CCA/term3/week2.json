@@ -1,0 +1,123 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "Third Term",
+  "week": 2,
+  "topic": "Insurance Schemes",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t3_w2_su1",
+      "title": "2.1 Pension Schemes",
+      "notes": [
+        "Pension Schemes",
+        "",
+        "Key Concepts:",
+        "1. Meaning of a Pension Scheme:",
+        "   - A systematic plan where employees and employers contribute regularly to a fund during the employee's working years to provide a steady income after retirement.",
+        "",
+        "2. Types of Pension Schemes:",
+        "   - Defined Benefit Scheme: The retirement payout is predetermined based on salary and years of service (mostly old government systems).",
+        "   - Defined Contribution Scheme: The payout depends on the total contributions made and the investment returns earned (modern system).",
+        "",
+        "3. The Nigerian Pension System:",
+        "   - Nigeria operates the Contributory Pension Scheme (CPS).",
+        "   - Managed by Pension Fund Administrators (PFAs) and regulated by the National Pension Commission (PenCom).",
+        "   - Employees and employers contribute a minimum of 18% of the employee's monthly emoluments (8% employee, 10% employer).",
+        "",
+        "Nigerian Context:",
+        "   - The Pension Reform Act of 2014 established the current CPS to ensure that Nigerian workers actually receive their retirement benefits, solving the issues of the old, unfunded system where pensions were often unpaid."
+      ],
+      "diagramDescriptions": ["Diagram showing the flow of pension contributions (Employee + Employer -> PFA -> Retirement)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies pension scheme PenCom Nigeria CPS site:youtube.com",
+      "quiz": [
+        {"q": "What is a pension scheme?", "opts": ["A scheme to pay for medical bills", "A plan to provide income after retirement", "A scheme to pay school fees", "A scheme to buy life insurance"], "ans": 1, "explanation": "A pension scheme is designed to provide a steady income to individuals after they retire from work."},
+        {"q": "In Nigeria, the contributory pension scheme is regulated by:", "opts": ["The Central Bank of Nigeria (CBN)", "The Nigeria Insurance Commission (NAICOM)", "The National Pension Commission (PenCom)", "The Securities and Exchange Commission (SEC)"], "ans": 2, "explanation": "PenCom is the regulatory body responsible for overseeing and managing the pension industry in Nigeria."},
+        {"q": "Who contributes to the Contributory Pension Scheme in Nigeria?", "opts": ["Only the employee", "Only the employer", "Both the employee and the employer", "The Federal Government only"], "ans": 2, "explanation": "Under the CPS, both the employee (minimum 8%) and the employer (minimum 10%) contribute to the pension fund."},
+        {"q": "The primary purpose of a pension scheme is to:", "opts": ["Provide tax relief to companies", "Ensure financial security for employees after retirement", "Fund government projects", "Pay for life insurance"], "ans": 1, "explanation": "The main goal is to ensure that retirees have a steady source of income to sustain themselves after they stop working."},
+        {"q": "A defined contribution pension scheme means:", "opts": ["The retirement payout is fixed and guaranteed", "The payout depends on total contributions and investment returns", "Only the employer contributes", "The employee receives no money"], "ans": 1, "explanation": "In a defined contribution scheme, the final retirement amount depends on how much was contributed and how well the funds were invested."},
+        {"q": "When does an employee typically start accessing their pension in Nigeria?", "opts": ["When they change jobs", "Upon retirement or at age 50 (if they leave the system)", "Immediately after joining the company", "Only after they pass away"], "ans": 1, "explanation": "Access to the Retirement Savings Account (RSA) is generally granted upon retirement (age 60 or 35 years of service) or at age 50 if they leave employment."},
+        {"q": "Which of these is a Pension Fund Administrator (PFA) in Nigeria?", "opts": ["Dangote Group", "AIICO Insurance", "Leadway Pensure", "MTN Nigeria"], "ans": 2, "explanation": "Leadway Pensure is one of the licensed PFAs in Nigeria that manage employees' Retirement Savings Accounts."},
+        {"q": "Pension contributions in Nigeria are deducted from:", "opts": ["The company's profit", "The employee's monthly emoluments (salary)", "The government's tax revenue", "The customer's payments"], "ans": 1, "explanation": "Contributions are calculated as a percentage of the employee's monthly basic salary, housing, and transport allowances."},
+        {"q": "The retirement savings account in Nigeria is called:", "opts": ["Current Account", "Retirement Savings Account (RSA)", "Fixed Deposit Account", "Domiciliary Account"], "ans": 1, "explanation": "Each employee has a unique Retirement Savings Account (RSA) where their pension contributions are credited and invested."},
+        {"q": "The Pension Reform Act that established the current CPS in Nigeria was enacted in:", "opts": ["1960", "1999", "2004", "2014"], "ans": 3, "explanation": "The Pension Reform Act of 2014 is the current law governing the Contributory Pension Scheme in Nigeria, replacing the 2004 Act."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t3_w2_su2",
+      "title": "2.2 Health Insurance Schemes (NHIS)",
+      "notes": [
+        "Health Insurance Schemes (NHIS)",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Health Insurance:",
+        "   - A system that helps pay for medical expenses through pre-paid premiums. It protects individuals from the high cost of healthcare.",
+        "",
+        "2. The National Health Insurance Scheme (NHIS):",
+        "   - A Nigerian government initiative to provide accessible and affordable healthcare to all citizens.",
+        "   - It operates through Health Maintenance Organizations (HMOs) that manage the healthcare providers (hospitals, clinics).",
+        "",
+        "3. Coverage and Benefits:",
+        "   - Covers consultation, diagnostics, hospitalization, maternity care, and basic treatments.",
+        "   - Excludes cosmetic surgeries, advanced dental work, and experimental treatments.",
+        "",
+        "Nigerian Context:",
+        "   - The National Health Insurance Authority (NHIA) Act 2022 made health insurance mandatory for all Nigerians, formal and informal sectors, to ensure that no citizen is denied basic healthcare due to lack of funds."
+      ],
+      "diagramDescriptions": ["Structure of the NHIS (NHIA -> HMOs -> Healthcare Providers -> Enrollees)"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies NHIS health insurance scheme Nigeria HMO site:youtube.com",
+      "quiz": [
+        {"q": "What is the NHIS?", "opts": ["A scheme to pay for school fees", "A system to help pay for medical expenses through pre-paid premiums", "A pension scheme for civil servants", "A scheme to provide life insurance"], "ans": 1, "explanation": "The NHIS is designed to make healthcare affordable by pooling funds through pre-paid premiums."},
+        {"q": "What does NHIS stand for?", "opts": ["National Health Insurance Scheme", "Nigerian Health Investment System", "National Hospital Insurance Service", "Nigerian Health Insurance Standard"], "ans": 0, "explanation": "NHIS stands for the National Health Insurance Scheme."},
+        {"q": "The primary goal of the NHIS is to:", "opts": ["Make hospitals rich", "Ensure all Nigerians have access to affordable healthcare", "Collect taxes for the government", "Provide free drugs to foreigners"], "ans": 1, "explanation": "The main goal is to ensure that financial barriers do not prevent Nigerians from accessing quality healthcare."},
+        {"q": "Under the NHIS, healthcare is funded through:", "opts": ["Only government taxes", "Only out-of-pocket payments by patients", "Pre-paid premiums from enrollees", "Donations from foreign countries"], "ans": 2, "explanation": "The scheme is funded by regular premium payments made by the enrollees (and their employers, if applicable)."},
+        {"q": "Which of these is a benefit of the NHIS?", "opts": ["Free cosmetic surgery", "Coverage for basic medical treatments and hospitalization", "Free international travel", "Payment for luxury hospital rooms"], "ans": 1, "explanation": "The NHIS covers essential medical needs like consultations, diagnostics, and basic hospital care."},
+        {"q": "In Nigeria, the NHIS is managed and regulated by the:", "opts": ["PenCom", "NAICOM", "National Health Insurance Authority (NHIA)", "CBN"], "ans": 2, "explanation": "The NHIA (formerly NHIS) is the government agency responsible for implementing and regulating the health insurance scheme."},
+        {"q": "Who are the primary beneficiaries of the NHIS?", "opts": ["Only federal civil servants", "All registered Nigerians and legal residents", "Only children under 5", "Only the elderly"], "ans": 1, "explanation": "The scheme is designed to cover all Nigerians, including formal sector workers, informal sector workers, and vulnerable groups."},
+        {"q": "A Health Maintenance Organization (HMO) in Nigeria is responsible for:", "opts": ["Collecting taxes", "Managing the healthcare providers and processing claims for enrollees", "Building new hospitals", "Manufacturing drugs"], "ans": 1, "explanation": "HMOs act as intermediaries, managing the network of hospitals and handling the administrative aspects of the health insurance claims."},
+        {"q": "Which of these is typically NOT covered by basic NHIS?", "opts": ["Malaria treatment", "Maternity care", "Cosmetic surgery", "Basic dental care"], "ans": 2, "explanation": "Cosmetic and elective surgeries are generally excluded from basic health insurance coverage."},
+        {"q": "The recent law that makes health insurance mandatory for certain categories of Nigerians is the:", "opts": ["Pension Reform Act 2014", "NHIA Act 2022", "Insurance Act 2003", "Companies and Allied Matters Act"], "ans": 1, "explanation": "The NHIA Act 2022 made health insurance mandatory for all Nigerians to ensure universal health coverage."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t3_w2_su3",
+      "title": "2.3 Benefits of Insurance",
+      "notes": [
+        "Benefits of Insurance",
+        "",
+        "Key Concepts:",
+        "1. Protection Against Financial Loss:",
+        "   - Insurance provides financial compensation when a covered risk occurs, preventing individuals and businesses from facing ruin.",
+        "",
+        "2. Encourages Savings and Investment:",
+        "   - Life insurance and pension schemes force regular savings, which are then invested by the insurance companies into the economy.",
+        "",
+        "3. Promotes Peace of Mind:",
+        "   - Knowing that risks are covered allows business owners to focus on growth and individuals to live without constant fear of the unknown.",
+        "",
+        "4. Economic Benefits:",
+        "   - Provides employment (agents, brokers, loss adjusters, etc.).",
+        "   - Generates revenue for the government through taxes.",
+        "   - Insurance companies invest premiums in government bonds and real estate, driving economic development.",
+        "",
+        "Nigerian Context:",
+        "   - Insurance companies like AIICO, Custodian, and AXA Mansard are major institutional investors in Nigeria. They buy Federal Government bonds and invest in real estate, which helps fund national infrastructure and create jobs."
+      ],
+      "diagramDescriptions": ["Infographic showing the economic and personal benefits of insurance"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies benefits of insurance economy savings site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a primary benefit of insurance to an individual?", "opts": ["Guaranteed wealth", "Protection against financial loss", "Free healthcare for life", "Tax exemption"], "ans": 1, "explanation": "Insurance protects individuals from the devastating financial impact of unexpected events like accidents, illness, or death."},
+        {"q": "How does insurance encourage savings?", "opts": ["By giving free money", "By requiring regular premium payments for life/pension policies", "By paying high interest on bank deposits", "By reducing the cost of living"], "ans": 1, "explanation": "Life and pension policies require regular premium payments, which act as a forced savings mechanism for the future."},
+        {"q": "How does insurance promote international trade?", "opts": ["By paying for shipping costs", "By protecting exporters and importers against risks like loss of cargo", "By building ships", "By reducing tariffs"], "ans": 1, "explanation": "Marine and export credit insurance give businesses the confidence to trade internationally, knowing they are protected against losses."},
+        {"q": "Insurance companies contribute to the Nigerian economy primarily by:", "opts": ["Paying taxes only", "Investing collected premiums in government bonds and real estate", "Printing money", "Providing free loans"], "ans": 1, "explanation": "Insurers are major institutional investors. They pool premiums and invest them in the economy, driving growth and infrastructure."},
+        {"q": "Peace of mind is a benefit of insurance because:", "opts": ["It guarantees you will never have an accident", "It ensures you are financially protected if a disaster occurs", "It makes you rich", "It stops bad things from happening"], "ans": 1, "explanation": "Knowing that you and your family are financially secure if the worst happens allows you to live and work without constant anxiety."},
+        {"q": "Which of these is a direct employment benefit of the insurance sector?", "opts": ["Hiring doctors for hospitals", "Employing insurance agents, brokers, and loss adjusters", "Hiring teachers for schools", "Employing police officers"], "ans": 1, "explanation": "The insurance industry directly employs thousands of professionals like agents, underwriters, and claims assessors."},
+        {"q": "Insurance reduces the burden on the government by:", "opts": ["Taking over the police force", "Providing financial safety nets so citizens don't rely on government aid after disasters", "Paying for all government projects", "Collecting taxes for the government"], "ans": 1, "explanation": "When insurance compensates victims of disasters, it reduces the need for government relief and social welfare spending."},
+        {"q": "How does insurance encourage entrepreneurship?", "opts": ["By giving free money to start businesses", "By protecting business assets against risks like fire and theft", "By reducing the cost of raw materials", "By guaranteeing profits"], "ans": 1, "explanation": "Entrepreneurs are more willing to take risks and invest in businesses when they know their assets are insured against potential losses."},
+        {"q": "The collection of premiums by insurance companies provides a large pool of funds that is used for:", "opts": ["Paying dividends to the government", "Investment in the capital market", "Buying foreign currencies", "Paying for government salaries"], "ans": 1, "explanation": "Insurers invest the massive pool of premiums they collect into the stock market, bonds, and real estate to generate returns."},
+        {"q": "Which of these is NOT a benefit of insurance?", "opts": ["Protection against financial loss", "Guaranteed prevention of all accidents", "Encouragement of savings", "Provision of employment"], "ans": 1, "explanation": "Insurance cannot prevent accidents or disasters from happening; it only provides financial compensation after they occur."}
+      ]
+    }
+  ]
+}

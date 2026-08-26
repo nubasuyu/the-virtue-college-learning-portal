@@ -1,0 +1,145 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Introduction to Arts: Branches and Types of Art",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w2_su1",
+      "title": "2.1 Branches of Art: Visual and Non-Visual",
+      "notes": [
+        "Branches of Art: Visual and Non-Visual",
+        "",
+        "Key Concepts:",
+        "1. Visual Art:",
+        "   - Art you experience mainly through your EYES (and often touch).",
+        "   - Examples: Painting, drawing, sculpture, textiles, graphics.",
+        "",
+        "2. Non-Visual Art:",
+        "   - Art you experience mainly through HEARING or WATCHING PERFORMANCE.",
+        "   - You cannot hold it in your hands the way you can a painting.",
+        "   - Examples: Music, dance, drama.",
+        "",
+        "3. The Shared Creative Spirit:",
+        "   - Both branches share the SAME creative spirit — using imagination and skill to express something meaningful.",
+        "   - They simply reach their audience through DIFFERENT senses.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, Cultural and Creative Arts as a school subject focuses heavily on visual art, but non-visual arts like traditional drumming (music) and masquerade dances (dance/drama) are equally vital parts of our cultural expression."
+      ],
+      "diagramDescriptions": ["Venn diagram showing Visual Art and Non-Visual Art with examples"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts branches of art visual non-visual site:youtube.com",
+      "quiz": [
+        {"q": "Visual art is experienced mainly through:", "opts": ["Hearing only", "Taste only", "Smell only", "Sight, and often touch"], "ans": 3, "explanation": "Visual art is primarily perceived through the eyes and can often be touched."},
+        {"q": "Non-visual art is experienced mainly through:", "opts": ["Taste only", "Hearing or watching performance", "Smell only", "Sight and touch only"], "ans": 1, "explanation": "Non-visual art, like music or dance, is experienced through hearing or watching."},
+        {"q": "Which of these is an example of visual art?", "opts": ["Drama", "Painting", "Music", "Dance"], "ans": 1, "explanation": "Painting is a visual art because it is seen and often touched."},
+        {"q": "Which of these is an example of non-visual art?", "opts": ["Painting", "Music", "Textiles", "Sculpture"], "ans": 1, "explanation": "Music is experienced through hearing, making it non-visual art."},
+        {"q": "A woven basket is an example of:", "opts": ["A type of music", "Neither visual nor non-visual art", "Visual art", "Non-visual art"], "ans": 2, "explanation": "A woven basket is seen and touched, qualifying it as visual art, even though it is also useful."},
+        {"q": "A traditional dance performance is an example of:", "opts": ["Neither visual nor non-visual art", "Visual art only", "Non-visual art", "A type of painting"], "ans": 2, "explanation": "Dance is a performance art experienced through watching and hearing, classifying it as non-visual."},
+        {"q": "Cultural and Creative Arts as a school subject usually focuses MOST on:", "opts": ["Non-visual art only", "Visual art", "Unrelated subjects", "Neither branch"], "ans": 1, "explanation": "The school curriculum heavily emphasizes visual art, though it acknowledges non-visual arts."},
+        {"q": "Both visual and non-visual art share the same:", "opts": ["Creative spirit, using imagination and skill", "Absence of imagination", "Complete lack of skill", "Unrelated purposes"], "ans": 0, "explanation": "Both branches are driven by the same fundamental human desire to create and express."},
+        {"q": "Visual and non-visual art are compared to:", "opts": ["An empty, meaningless building", "Two completely unrelated houses", "Two different doors into the same creative house", "A single door with no rooms"], "ans": 2, "explanation": "They are different ways (doors) to experience the same overarching concept of human creativity (the house)."},
+        {"q": "A drum performance is best classified as:", "opts": ["Visual art", "Neither type of art", "Not art at all", "Non-visual art"], "ans": 3, "explanation": "A drum performance is primarily heard, making it a form of non-visual art."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w2_su2",
+      "title": "2.2 Types of Visual Art: Textiles, Painting, and Graphics",
+      "notes": [
+        "Types of Visual Art: Textiles, Painting, and Graphics",
+        "",
+        "Key Concepts:",
+        "1. Textiles:",
+        "   - Art created using FABRIC and FIBRE.",
+        "   - Includes weaving, dyeing (like tie and dye), embroidery, and fabric decoration.",
+        "",
+        "2. Painting:",
+        "   - The art of applying COLOUR (paint, dye, or pigment) onto a SURFACE (paper, canvas, wall, or fabric) to create an image or design.",
+        "",
+        "3. Graphics:",
+        "   - Art involving DRAWING, PRINTING, or DESIGN, often using LINES, SHAPES, and LETTERING.",
+        "   - Includes drawing, illustration, and printed designs (like posters or logos).",
+        "",
+        "Nigerian Context:",
+        "   - Nigeria is famous for its textile arts, such as Yoruba Adire (tie and dye), Hausa woven cloth, and Igbo Akwete weaving, all of which are stunning examples of visual art in daily life."
+      ],
+      "diagramDescriptions": ["Examples of Textiles (Adire), Painting, and Graphics (poster design)"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts types of visual art textiles painting graphics site:youtube.com",
+      "quiz": [
+        {"q": "Textiles refers to art created using:", "opts": ["Only clay", "Only paper", "Only paint", "Fabric and fibre"], "ans": 3, "explanation": "Textile art is fundamentally based on the manipulation of fabric and fibres."},
+        {"q": "Painting is the art of:", "opts": ["Designing posters only", "Carving wood only", "Applying colour onto a surface to create an image", "Weaving fabric only"], "ans": 2, "explanation": "Painting involves applying pigments or colours to a surface to form an image."},
+        {"q": "Graphics involves:", "opts": ["Only fabric dyeing", "Only dance choreography", "Drawing, printing, or design using lines, shapes, and lettering", "Only music composition"], "ans": 2, "explanation": "Graphics focuses on visual communication through drawing, printing, and design elements."},
+        {"q": "Tie and dye is an example of:", "opts": ["Graphics only", "Textiles", "A non-visual art", "Painting only"], "ans": 1, "explanation": "Tie and dye is a fabric decoration technique, placing it firmly in the textiles category."},
+        {"q": "A poster designed with neat lettering and shapes is an example of:", "opts": ["Graphics", "Textiles only", "Painting only", "A non-visual art"], "ans": 0, "explanation": "Poster design relies on graphic design principles like typography and layout."},
+        {"q": "Embroidery and weaving fall under which type of visual art?", "opts": ["None of these", "Graphics only", "Textiles", "Painting only"], "ans": 2, "explanation": "Both embroidery and weaving are techniques used to create or decorate fabric, making them textile arts."},
+        {"q": "Which of these surfaces can be used for painting?", "opts": ["Only wood", "Only fabric", "Paper, canvas, wall, or fabric", "Only plastic"], "ans": 2, "explanation": "Painting is versatile and can be done on various surfaces, including paper, canvas, walls, and fabric."},
+        {"q": "A logo designed for a new Nigerian business is an example of:", "opts": ["Textiles", "Graphics", "Painting", "Non-visual art"], "ans": 1, "explanation": "Logo design is a core function of graphic art, using shapes and lettering to represent a brand."},
+        {"q": "The key difference between textiles and painting is primarily the:", "opts": ["Artist's age", "Material and technique used", "Time of day it is created", "Cost of the artwork"], "ans": 1, "explanation": "Textiles use fabric/fibre techniques, while painting uses colour applied to a surface."},
+        {"q": "Visual art types are like different craftsmen working with different:", "opts": ["Unrelated, isolated activities with no shared purpose", "A single unchanging craft", "Materials (cloth, colour, and line)", "Random, meaningless activities"], "ans": 2, "explanation": "Each visual art type uses distinct materials and techniques to achieve its creative goal."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w2_su3",
+      "title": "2.3 Aesthetics: The Sense of Beauty in Art",
+      "notes": [
+        "Aesthetics: The Sense of Beauty in Art",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Aesthetics:",
+        "   - Aesthetics refers to the appreciation and application of BEAUTY and DECORATION.",
+        "   - It involves the principles that make something visually PLEASING, such as good use of colour, balance, and pattern.",
+        "",
+        "2. Aesthetics is NOT a Separate Product:",
+        "   - Unlike a painting or a woven cloth, aesthetics is not a physical object you can hold.",
+        "   - Instead, it is the underlying sense of beauty applied ACROSS all the other visual art types.",
+        "",
+        "3. Application in Daily Life:",
+        "   - A weaver uses aesthetics to choose harmonious colours for a cloth.",
+        "   - A painter uses aesthetics to balance the composition of a landscape.",
+        "   - A graphic designer uses aesthetics to make a poster easy to read and attractive.",
+        "",
+        "Nigerian Context:",
+        "   - The vibrant, balanced patterns of an Ankara fabric or the harmonious colours of a traditional Nigerian mural are perfect examples of aesthetics in action."
+      ],
+      "diagramDescriptions": ["Diagram showing how aesthetics applies to textiles, painting, and graphics"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning of aesthetics in visual art site:youtube.com",
+      "quiz": [
+        {"q": "Aesthetics refers to:", "opts": ["The appreciation and application of beauty and decoration", "A type of fabric only", "A completely separate art product", "The total absence of beauty"], "ans": 0, "explanation": "Aesthetics is the study and application of what makes something visually pleasing or beautiful."},
+        {"q": "Good use of colour, balance, and pattern relates to:", "opts": ["A completely unrelated concept", "The total absence of art", "Aesthetics", "Only music"], "ans": 2, "explanation": "These are core principles of aesthetics that make visual art appealing."},
+        {"q": "Aesthetics applies ___ the other types of visual art.", "opts": ["In opposition to", "Across all of", "To none of", "Only outside of"], "ans": 1, "explanation": "Aesthetics is a guiding principle that enhances all forms of visual art, not a separate category."},
+        {"q": "Which of the following is NOT a physical product like the other visual art types?", "opts": ["A woven cloth", "A painted canvas", "A printed poster", "Aesthetics"], "ans": 3, "explanation": "Aesthetics is a concept or sense of beauty, not a tangible object you can hold."},
+        {"q": "A weaver choosing harmonious colours for a cloth is applying:", "opts": ["Aesthetics", "Only mechanics", "Non-visual art principles", "Musical theory"], "ans": 0, "explanation": "Choosing harmonious colours is a direct application of aesthetic principles."},
+        {"q": "The four types of visual art (including aesthetics) are compared to:", "opts": ["Unrelated, isolated activities with no shared purpose", "A single unchanging craft", "Different craftsmen guided by a shared sense of taste", "Random, meaningless activities"], "ans": 2, "explanation": "Different artists use different materials, but a shared sense of aesthetics guides them all toward beauty."},
+        {"q": "A graphic designer making a poster easy to read and attractive is using:", "opts": ["Aesthetics", "Only grammar", "Only mathematics", "Non-visual art"], "ans": 0, "explanation": "Making a design visually pleasing and functional is a core aesthetic goal in graphics."},
+        {"q": "If a painting has clashing colours and no sense of balance, it lacks good:", "opts": ["Aesthetics", "Canvas", "Paint", "Frame"], "ans": 0, "explanation": "Clashing colours and poor balance indicate a failure to apply aesthetic principles effectively."},
+        {"q": "The vibrant, balanced patterns of an Ankara fabric are a perfect example of:", "opts": ["Poor aesthetics", "Aesthetics in action", "Non-visual art", "A lack of creativity"], "ans": 1, "explanation": "The harmonious and appealing patterns of Ankara fabric demonstrate strong aesthetic principles."},
+        {"q": "Understanding aesthetics helps an artist to:", "opts": ["Make their artwork less appealing", "Ignore the viewer's experience", "Create work that is visually pleasing and meaningful", "Avoid using colour"], "ans": 2, "explanation": "Aesthetics guides artists in creating work that resonates positively with the viewer."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Distinguish between visual art and non-visual art, giving TWO examples of each.",
+      "markingGuide": "1.5 marks each for correct distinguishing definitions; 1 mark each for valid examples (5 marks total)."
+    },
+    {
+      "question": "Define textiles, painting, and graphics, giving one example of each.",
+      "markingGuide": "1.5 marks each for correct definitions with examples (allowing rounding to 5 marks total)."
+    },
+    {
+      "question": "Explain the meaning of aesthetics, and why it is described as applying 'across' other types of art rather than being a separate product.",
+      "markingGuide": "Clear definition (2.5 marks); clear explanation of its cross-cutting nature (2.5 marks)."
+    },
+    {
+      "question": "Sort the following into visual or non-visual art, giving a brief reason for each: a carved mask, a folk song, a woven mat, a masquerade dance.",
+      "markingGuide": "1.25 marks per correctly sorted item with valid reasoning (4 items, 5 marks total)."
+    },
+    {
+      "question": "Explain, using the 'craftsmen-and-taste' analogy or your own example, how a weaver, a painter, and a graphic designer can all be guided by the same sense of aesthetics despite using very different materials.",
+      "markingGuide": "Clear explanation with a valid supporting example (5 marks, holistic)."
+    }
+  ]
+}

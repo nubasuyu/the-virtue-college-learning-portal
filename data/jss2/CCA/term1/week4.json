@@ -1,0 +1,149 @@
+{
+  "course": "JSS2 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 4,
+  "topic": "Uses of Principles of Design and Practical Work: Still Life Drawing",
+  "subUnits": [
+    {
+      "id": "jss2_cca_t1_w4_su1",
+      "title": "4.1 Uses of Principles of Design",
+      "notes": [
+        "Uses of Principles of Design",
+        "",
+        "Key Concepts:",
+        "1. Creating Visually Pleasing Work:",
+        "   - Principles guide decisions that make a design feel 'right' rather than awkward or chaotic.",
+        "",
+        "2. Communicating Meaning and Mood:",
+        "   - Proper use of dominance, for example, ensures a viewer's eye goes exactly WHERE the artist intends, emphasising the most important part of the message.",
+        "",
+        "3. Creating Professional, Polished Results:",
+        "   - They distinguish skilled, deliberate artwork from careless, accidental arrangements.",
+        "",
+        "4. Application Beyond Fine Art:",
+        "   - Architects use these SAME principles when designing buildings.",
+        "   - Fashion designers use them when creating clothing.",
+        "   - Everyday activities like arranging furniture in a room or laying a table apply these same underlying principles.",
+        "",
+        "Nigerian Context:",
+        "   - A Nigerian market trader who arranges their fruits by colour and size (Proportion and Harmony) will attract more customers than one who piles them randomly, showing that these principles have real-world, practical value."
+      ],
+      "diagramDescriptions": ["Examples of principles of design applied in architecture, fashion, and everyday room arrangement"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts uses of principles of design beyond fine art site:youtube.com",
+      "quiz": [
+        {"q": "Principles of design help create:", "opts": ["Random, chaotic work with no purpose", "Visually pleasing, unified work", "Work with no real communicative value", "Nothing of practical use"], "ans": 1, "explanation": "Principles guide the creation of work that is unified and aesthetically pleasing."},
+        {"q": "Proper use of dominance helps to:", "opts": ["Confuse the viewer completely", "Hide the artwork's meaning entirely", "Direct a viewer's eye to the most important part of a message", "Have no effect on viewer attention"], "ans": 2, "explanation": "Dominance creates a focal point that directs the viewer's attention intentionally."},
+        {"q": "Principles of design apply to:", "opts": ["Fine art, architecture, fashion, and everyday arrangement", "Only expensive professional work", "Nothing practical or real-world", "Only fine art, nothing else"], "ans": 0, "explanation": "These principles are universal and apply to any visual arrangement, not just fine art."},
+        {"q": "Architects use principles of design when:", "opts": ["Avoiding all visual planning", "Designing buildings", "Only when copying existing art", "Never, since these principles are unrelated to architecture"], "ans": 1, "explanation": "Architects rely on balance, proportion, and harmony to design functional, beautiful buildings."},
+        {"q": "Arranging furniture in a room can apply the same principles as:", "opts": ["Only music composition", "Only mathematics", "Fine art design", "Nothing related to art at all"], "ans": 2, "explanation": "Arranging furniture requires the same sense of balance, proportion, and harmony as art."},
+        {"q": "Principles of design help distinguish ___ from careless, accidental arrangements.", "opts": ["Only large-scale artwork", "Only expensive materials", "Nothing distinguishable at all", "Skilled, deliberate artwork"], "ans": 3, "explanation": "Applying principles shows intention and skill, separating good design from random placement."},
+        {"q": "The principles of design are compared to:", "opts": ["Invisible guide-ropes helping a viewer's eye travel through an artwork", "Obstacles blocking a viewer's understanding", "An unrelated random comparison", "A completely random, purposeless concept"], "ans": 0, "explanation": "Like guide-ropes, principles lead the viewer smoothly and logically through the composition."},
+        {"q": "An advertiser using dominance to highlight key information is applying principles of design to:", "opts": ["Effective communication", "Confusing the viewer intentionally", "Irrelevant decoration only", "Random chance, with no real strategy"], "ans": 0, "explanation": "Using dominance strategically ensures the most important message is seen first."},
+        {"q": "Without guiding principles, a viewer's eye might:", "opts": ["Automatically understand the artwork's message", "Wander aimlessly, confused about where to look", "Always know exactly where to look, regardless", "Have no reaction to the artwork at all"], "ans": 1, "explanation": "Without principles like dominance and rhythm, the composition lacks direction."},
+        {"q": "A Nigerian market trader arranging fruits by colour and size is applying:", "opts": ["No principles at all", "Only the principle of line", "Principles of proportion and harmony", "The principle of asymmetrical balance only"], "ans": 2, "explanation": "Grouping by size (proportion) and colour (harmony) creates a visually pleasing, organized display."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w4_su2",
+      "title": "4.2 Application of Principles of Design in Still Life Drawing",
+      "notes": [
+        "Application of Principles of Design in Still Life Drawing",
+        "",
+        "Key Concepts:",
+        "1. What is Still Life Drawing?",
+        "   - The practice of drawing an ARRANGEMENT of ordinary, non-living OBJECTS (fruit, bottles, plates, cloth) as they are physically positioned in front of the artist.",
+        "",
+        "2. Why is it Effective for Practising Principles?",
+        "   - The artist has FULL control over how the objects are initially arranged, before drawing even begins.",
+        "",
+        "3. Applying Principles in the Arrangement:",
+        "   - Balance: Distributing objects so no single side feels crowded or empty.",
+        "   - Dominance: Choosing one larger or more colourful object as the clear focal point.",
+        "   - Variety: Including different object sizes, shapes, or textures to avoid monotony.",
+        "   - Proportion: Ensuring objects feel appropriately sized relative to each other.",
+        "",
+        "Nigerian Context:",
+        "   - A JSS2 student might arrange a local clay pot, a few oranges, and a piece of patterned Ankara cloth for their still life, applying these principles to create a composition that reflects their environment."
+      ],
+      "diagramDescriptions": ["Diagram of a still life arrangement with labels showing Balance, Dominance, Variety, and Proportion"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts application of principles in still life drawing site:youtube.com",
+      "quiz": [
+        {"q": "What is still life drawing?", "opts": ["Drawing only living people", "Drawing only landscapes", "Drawing an arrangement of ordinary, non-living objects", "A type of fabric craft"], "ans": 2, "explanation": "Still life drawing focuses on arranged, non-living objects."},
+        {"q": "Still life drawing is effective for practising design principles because:", "opts": ["It is unrelated to design principles", "The artist has no control over the arrangement at all", "The artist has full control over how objects are arranged before drawing", "It involves no real planning"], "ans": 2, "explanation": "The artist can deliberately arrange the objects to apply specific principles before drawing."},
+        {"q": "Establishing dominance in a still life arrangement means:", "opts": ["Making every object equally unimportant", "Avoiding any object standing out", "Choosing one clear focal point object", "Ignoring the arrangement entirely"], "ans": 2, "explanation": "Dominance in still life is achieved by making one object the clear focal point."},
+        {"q": "Ensuring variety in a still life arrangement means including:", "opts": ["Identical objects with no differences", "Different object sizes, shapes, or textures", "No objects at all", "Only one single object"], "ans": 1, "explanation": "Variety prevents monotony by introducing differences in size, shape, or texture."},
+        {"q": "A balanced still life arrangement avoids:", "opts": ["Overcrowding one side while leaving the other empty", "Having a dominant object at all", "Any consideration of proportion", "Any variety in the objects used"], "ans": 0, "explanation": "Balance requires an even distribution of visual weight, avoiding overcrowding on one side."},
+        {"q": "Considering proportion in a still life means:", "opts": ["Avoiding any size differences", "Using only identically-sized objects", "Ignoring the relative size of objects entirely", "Objects feeling appropriately sized relative to each other"], "ans": 3, "explanation": "Proportion ensures that the sizes of the objects make sense in relation to one another."},
+        {"q": "Repeated practice with still life drawing helps an artist develop:", "opts": ["A dislike of arranging objects", "Skills unrelated to design principles", "No useful skill at all", "An instinctive 'eye' for good design"], "ans": 3, "explanation": "Practice builds an intuitive understanding of how to arrange objects harmoniously."},
+        {"q": "Arranging a still life is compared to:", "opts": ["An unplanned, random activity", "Setting a stage before a play begins", "A task with no real purpose", "Ignoring all deliberate positioning"], "ans": 1, "explanation": "Like stage directions, every object is deliberately placed to create the desired visual effect."},
+        {"q": "Objects in a still life arrangement should be positioned:", "opts": ["Deliberately, applying principles of design", "Randomly, with no thought given", "Without any consideration of balance", "Identically every single time"], "ans": 0, "explanation": "Thoughtful, deliberate positioning applying design principles is key to a successful still life."},
+        {"q": "A JSS2 student arranging a clay pot, oranges, and Ankara cloth is applying principles to create a composition that:", "opts": ["Ignores their environment", "Is purely abstract", "Reflects their environment and demonstrates design skills", "Has no focal point"], "ans": 2, "explanation": "Using familiar local objects allows the student to apply design principles to a relatable subject."}
+      ]
+    },
+    {
+      "id": "jss2_cca_t1_w4_su3",
+      "title": "4.3 Step-by-Step Guide to Setting Up and Drawing a Still Life",
+      "notes": [
+        "Step-by-Step Guide to Setting Up and Drawing a Still Life",
+        "",
+        "Key Concepts:",
+        "1. Step 1: Select and Arrange Objects:",
+        "   - Choose 3-5 objects with varying shapes, sizes, and textures. Arrange them applying Balance, Dominance, and Proportion.",
+        "",
+        "2. Step 2: Consider Lighting:",
+        "   - Place a single light source (like a lamp or window) to one side. This creates shadows, which help define Form and add depth (Space).",
+        "",
+        "3. Step 3: Block in the Composition:",
+        "   - Lightly sketch the basic shapes and positions of the objects, ensuring they fit well on the paper (Proportion).",
+        "",
+        "4. Step 4: Add Detail and Value:",
+        "   - Refine the outlines and add shading (light and dark values) to show the Form and Texture of each object.",
+        "",
+        "5. Step 5: Final Review:",
+        "   - Step back and check if the drawing successfully applies the principles of design (e.g., Is there a clear focal point? Is it balanced?).",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian schools, still life drawing is a common practical exam topic. Students are expected to show not just technical drawing skill, but a clear understanding of how to arrange and render objects using design principles."
+      ],
+      "diagramDescriptions": ["5-step visual guide from object arrangement to finished shaded still life drawing"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Cultural and Creative Arts step by step still life drawing setup shading site:youtube.com",
+      "quiz": [
+        {"q": "The first step in creating a still life drawing is to:", "opts": ["Add heavy shading immediately", "Select and arrange objects applying design principles", "Draw the background first", "Use only one object"], "ans": 1, "explanation": "The arrangement of objects is the foundational step before any drawing begins."},
+        {"q": "Placing a single light source to one side of the objects helps to:", "opts": ["Flatten the objects", "Create shadows that define Form and add depth", "Make the objects invisible", "Remove all texture"], "ans": 1, "explanation": "A single light source creates highlights and shadows, which are essential for showing 3D Form."},
+        {"q": "'Blocking in' the composition means:", "opts": ["Adding final dark shading", "Lightly sketching the basic shapes and positions of the objects", "Erasing all mistakes", "Painting the background"], "ans": 1, "explanation": "Blocking in is the initial, light sketch to establish placement and proportion."},
+        {"q": "Adding detail and value (shading) helps to show the ___ of each object.", "opts": ["Price", "Form and Texture", "Weight", "Temperature"], "ans": 1, "explanation": "Shading (value) is the primary way to communicate 3D Form and surface Texture on a 2D paper."},
+        {"q": "During the final review, an artist should check if the drawing has:", "opts": ["No focal point", "A clear focal point and balanced composition", "Only straight lines", "No shading at all"], "ans": 1, "explanation": "The final review ensures the principles of design (like dominance and balance) were successfully applied."},
+        {"q": "Choosing objects with varying shapes, sizes, and textures is a way to ensure:", "opts": ["Monotony", "Variety", "Symmetrical balance only", "Proportion"], "ans": 1, "explanation": "Differences in shape, size, and texture introduce Variety into the composition."},
+        {"q": "In a Nigerian school practical exam, still life drawing assesses:", "opts": ["Only the ability to copy a photograph", "Technical drawing skill and understanding of design principles", "Only the speed of drawing", "The ability to draw from memory only"], "ans": 1, "explanation": "Examiners look for both technical skill (shading, proportion) and design understanding (arrangement)."},
+        {"q": "If all objects in a still life are the exact same size and shape, the drawing will likely lack:", "opts": ["Proportion", "Variety", "Line", "Space"], "ans": 1, "explanation": "Identical objects create monotony, which is a lack of Variety."},
+        {"q": "Ensuring objects fit well on the paper without being too large or too small is an application of:", "opts": ["Proportion", "Rhythm", "Texture", "Colour"], "ans": 0, "explanation": "Proportion applies to the size of the objects relative to each other and to the paper itself."},
+        {"q": "Stepping back to view the drawing as a whole during the final review helps the artist to:", "opts": ["See the overall balance and composition", "Erase the entire drawing", "Add more objects", "Change the light source"], "ans": 0, "explanation": "Viewing from a distance allows the artist to assess the overall visual impact and balance."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "State THREE uses of the principles of design, with a brief explanation of each.",
+      "markingGuide": "1.5–2 marks per valid, clearly explained use (5 total for three)."
+    },
+    {
+      "question": "Explain, with an example, how principles of design apply beyond fine art to everyday life.",
+      "markingGuide": "Clear explanation with a valid, relevant example (5, holistic)."
+    },
+    {
+      "question": "Define still life drawing, and explain why it is an effective way to practise applying principles of design.",
+      "markingGuide": "Correct definition (2.5); clear explanation of its effectiveness (2.5)."
+    },
+    {
+      "question": "Describe how you would arrange a still life of FOUR objects, applying balance, dominance, and variety.",
+      "markingGuide": "1.67 marks per correctly applied principle with a clear description (3 principles, 5 total)."
+    },
+    {
+      "question": "Explain, using the 'setting a stage' analogy or your own example, why careful arrangement BEFORE drawing begins matters so much in still life work.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

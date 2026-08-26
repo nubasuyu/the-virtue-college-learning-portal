@@ -1,0 +1,150 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Nigerian Traditional Art: Definition and Types",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w1_su1",
+      "title": "1.1 Definition of Traditional Art",
+      "notes": [
+        "Definition of Traditional Art",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Traditional Art:",
+        "   - Artwork created following ESTABLISHED customs, techniques, styles, and beliefs PASSED DOWN through generations within a particular culture or community.",
+        "   - The artist typically works WITHIN inherited conventions rather than inventing an entirely personal, individual style.",
+        "",
+        "2. Purpose and Function:",
+        "   - Deeply connected to RELIGIOUS, CEREMONIAL, or SOCIAL functions within its originating community.",
+        "   - Created for community use rather than purely for individual artistic expression or gallery display.",
+        "",
+        "3. Stylistic Consistency:",
+        "   - Features RECOGNISABLE, CONSISTENT stylistic conventions (similar proportions, symbolic motifs) across many works from the same tradition.",
+        "   - This reflects generations of REFINEMENT and shared cultural understanding.",
+        "",
+        "Nigerian Context:",
+        "   - Traditional art is a recipe passed down through countless generations of the same family kitchen, refined by many hands over many years, rather than a brand-new dish invented by one chef last week."
+      ],
+      "diagramDescriptions": ["Diagram contrasting traditional art (inherited conventions) with contemporary art (individual innovation)"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts definition of traditional art Nigeria site:youtube.com",
+      "quiz": [
+        {"q": "What is traditional art?", "opts": ["Any modern, individually invented artwork", "Artwork created following established customs, techniques, and styles passed down through generations", "Art with no connection to any culture", "A type of craft tool"], "ans": 1, "explanation": "Traditional art follows inherited community conventions passed down through generations."},
+        {"q": "Traditional art is often connected to ___ functions within its community.", "opts": ["only commercial", "only foreign", "religious, ceremonial, or social", "no functions at all"], "ans": 2, "explanation": "Traditional art serves deep religious, ceremonial, or social purposes within its community."},
+        {"q": "Traditional art typically shows ___ across many works from the same tradition.", "opts": ["styles borrowed only from foreign cultures", "completely random, unrelated styles", "recognisable, consistent stylistic conventions", "no visible pattern at all"], "ans": 2, "explanation": "Consistent stylistic conventions reflect generations of refinement and shared cultural understanding."},
+        {"q": "Traditional art conventions are typically ___.", "opts": ["invented entirely by one individual with no history", "created without any established technique", "unrelated to any shared culture", "passed down through generations within a community"], "ans": 3, "explanation": "These conventions are inherited and passed down through generations within a specific community."},
+        {"q": "A carved ceremonial mask following inherited symbolic patterns is an example of ___.", "opts": ["purely modern, individually invented art", "traditional art", "a type unrelated to any art form", "a craft with no cultural connection"], "ans": 1, "explanation": "Following inherited symbolic patterns for ceremonial use is a hallmark of traditional art."},
+        {"q": "Traditional art is compared to ___ in this week's analogy.", "opts": ["a brand-new dish invented by one chef with no history", "a recipe with no cultural connection", "an unrelated random comparison", "a recipe passed down through generations of a family kitchen"], "ans": 3, "explanation": "It is like a family recipe refined over generations, not a sudden, individual invention."},
+        {"q": "Contemporary art, unlike traditional art, typically emphasises ___.", "opts": ["strictly inherited community conventions only", "individual artistic vision and innovation", "ancient techniques exclusively", "no artistic expression at all"], "ans": 1, "explanation": "Contemporary art focuses on the individual artist's personal vision and innovation."},
+        {"q": "Traditional art reflects generations of ___.", "opts": ["complete randomness with no shared understanding", "foreign influence exclusively", "individual invention with no history", "refinement and shared cultural understanding"], "ans": 3, "explanation": "The consistency in traditional art shows shared cultural understanding and generational refinement."},
+        {"q": "Traditional art continues to be ___ today.", "opts": ["practised nowhere in the world", "completely extinct, with no modern practice", "unrelated to modern Nigerian culture", "actively created, alongside contemporary art"], "ans": 3, "explanation": "Traditional art is still actively created today, following inherited conventions, alongside contemporary art."},
+        {"q": "Understanding traditional art helps us appreciate ___.", "opts": ["only foreign artistic traditions", "art with no historical depth", "nothing of cultural value", "generations of inherited cultural skill and meaning"], "ans": 3, "explanation": "It allows us to appreciate the deep, inherited cultural skill and meaning passed down through generations."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w1_su2",
+      "title": "1.2 Types of Nigerian Traditional Art: Nok, Igbo-Ukwu, Ife, and Benin",
+      "notes": [
+        "Types of Nigerian Traditional Art: Nok, Igbo-Ukwu, Ife, and Benin",
+        "",
+        "Key Concepts:",
+        "1. Nok Art:",
+        "   - TERRACOTTA (fired clay) sculptures.",
+        "   - Among the OLDEST known sculptural traditions in Africa, dating back over 2,000 years.",
+        "   - Characterised by distinctive stylised human and animal FIGURES with elongated features.",
+        "",
+        "2. Igbo-Ukwu Art:",
+        "   - Remarkably sophisticated BRONZE castings discovered in south-eastern Nigeria.",
+        "   - Dating back roughly 1,000 years.",
+        "   - Celebrated for INTRICATE, detailed decorative surface patterns, considered technically advanced for their era.",
+        "",
+        "3. Ife Art:",
+        "   - Celebrated BRONZE and TERRACOTTA HEADS from the ancient Yoruba kingdom of Ile-Ife.",
+        "   - Renowned WORLDWIDE for their striking NATURALISTIC, life-like facial detail and proportion.",
+        "",
+        "4. Benin Art:",
+        "   - Intricate BRONZE plaques, sculptures, and ceremonial objects from the historic Benin Kingdom.",
+        "   - Celebrated for SOPHISTICATED bronze-casting technique and detailed HISTORICAL/ceremonial imagery depicting kings, warriors, and court life.",
+        "",
+        "Nigerian Context:",
+        "   - Nok, Igbo-Ukwu, Ife, and Benin are four distinct branches of the same great Nigerian artistic family tree, each flourishing in a different era and region."
+      ],
+      "diagramDescriptions": ["Visual chart showing the four major Nigerian traditional art types with their key materials and features"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts Nok Igbo-Ukwu Ife Benin traditional art types site:youtube.com",
+      "quiz": [
+        {"q": "Nok art refers to which type of sculpture?", "opts": ["Wood exclusively", "Bronze exclusively", "Glass exclusively", "Terracotta"], "ans": 3, "explanation": "Nok art is famous for its terracotta (fired clay) sculptures."},
+        {"q": "Nok art is among the ___ known sculptural traditions in Africa.", "opts": ["foreign, non-African", "least significant", "newest", "oldest"], "ans": 3, "explanation": "Dating back over 2,000 years, Nok is among the oldest sculptural traditions in Africa."},
+        {"q": "Igbo-Ukwu art is celebrated for its ___.", "opts": ["complete lack of detail", "intricate, detailed decorative surface patterns", "foreign, non-Nigerian origin", "absence of any technical skill"], "ans": 1, "explanation": "Igbo-Ukwu bronze castings are renowned for their intricate and highly detailed surface patterns."},
+        {"q": "Ife art is renowned worldwide for its ___.", "opts": ["foreign, non-Yoruba origin", "lack of any artistic value", "naturalistic, life-like facial detail and proportion", "complete abstraction with no recognisable features"], "ans": 2, "explanation": "Ife art is celebrated globally for its striking naturalistic and life-like facial proportions."},
+        {"q": "Benin art is celebrated for its ___.", "opts": ["absence of any technical skill", "sophisticated bronze-casting technique and historical/ceremonial imagery", "foreign, non-Nigerian origin", "complete lack of any imagery"], "ans": 1, "explanation": "Benin art is famous for its sophisticated bronze plaques depicting historical and ceremonial court life."},
+        {"q": "Igbo-Ukwu art dates back roughly ___.", "opts": ["100 years", "10 years", "no specific timeframe", "1,000 years"], "ans": 3, "explanation": "Igbo-Ukwu art dates back approximately 1,000 years."},
+        {"q": "Benin bronze plaques often depict ___.", "opts": ["only abstract geometric shapes", "kings, warriors, and court life", "nothing related to history or ceremony", "only foreign subjects"], "ans": 1, "explanation": "Benin plaques famously depict the Oba (king), warriors, and scenes of court life."},
+        {"q": "These four traditions are compared to ___ in this week's analogy.", "opts": ["branches with no shared origin at all", "four completely unrelated, disconnected traditions", "four distinct branches of the same great Nigerian artistic family tree", "a single unchanging tradition"], "ans": 2, "explanation": "They are distinct branches of the same great Nigerian artistic family tree, each from a different era/region."},
+        {"q": "Ife art comes from the ancient kingdom of ___.", "opts": ["A kingdom outside Nigeria", "No specific kingdom", "A purely modern invention", "Ile-Ife"], "ans": 3, "explanation": "Ife art originates from the ancient Yoruba kingdom of Ile-Ife."},
+        {"q": "Studying these four traditions helps us appreciate ___.", "opts": ["art with no historical significance", "only foreign artistic achievements", "nothing of cultural or historical value", "the depth and sophistication of Nigeria's artistic heritage"], "ans": 3, "explanation": "These traditions showcase the incredible depth, sophistication, and historical richness of Nigeria's artistic heritage."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w1_su3",
+      "title": "1.3 Distinguishing Features and Practical Identification of Traditional Art",
+      "notes": [
+        "Distinguishing Features and Practical Identification",
+        "",
+        "Key Concepts:",
+        "1. Identifying Nok Art:",
+        "   - Look for TERRACOTTA material, elongated/stylised features, and great antiquity (2,000+ years).",
+        "",
+        "2. Identifying Igbo-Ukwu Art:",
+        "   - Look for BRONZE material with highly intricate, rope-like or intricate decorative surface patterns.",
+        "",
+        "3. Identifying Ife Art:",
+        "   - Look for BRONZE or TERRACOTTA HEADS with serene, naturalistic, life-like facial features and proportional accuracy.",
+        "",
+        "4. Identifying Benin Art:",
+        "   - Look for BRONZE plaques or sculptures depicting historical narratives, kings (Oba), warriors, and ceremonial regalia.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian museums and cultural festivals, being able to distinguish these four traditions is a key skill, as each represents a distinct regional and historical achievement."
+      ],
+      "diagramDescriptions": ["Side-by-side comparison chart highlighting the distinguishing features of Nok, Igbo-Ukwu, Ife, and Benin art"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts distinguishing features Nok Igbo-Ukwu Ife Benin site:youtube.com",
+      "quiz": [
+        {"q": "A museum displays a terracotta figure with elongated, stylised features, dated to over 2,000 years old. Which tradition does this represent?", "opts": ["Benin", "Ife", "Nok", "Igbo-Ukwu"], "ans": 2, "explanation": "Terracotta with elongated features and great age (2,000+ years) are the hallmark features of Nok art."},
+        {"q": "An artwork featuring intricate, rope-like decorative patterns cast in bronze is most likely from ___.", "opts": ["Nok", "Ife", "Benin", "Igbo-Uwku"], "ans": 3, "explanation": "Intricate decorative surface patterns in bronze are the defining characteristic of Igbo-Ukwu art."},
+        {"q": "A bronze head with striking, naturalistic, life-like facial detail is characteristic of ___ art.", "opts": ["Nok", "Benin", "Ife", "Igbo-Ukwu"], "ans": 2, "explanation": "Naturalistic, life-like facial detail is the world-renowned feature of Ife art."},
+        {"q": "Bronze plaques depicting the Oba (king) and warriors are characteristic of ___ art.", "opts": ["Ife", "Nok", "Benin", "Igbo-Ukwu"], "ans": 2, "explanation": "Historical and ceremonial imagery of kings and warriors in bronze is the hallmark of Benin art."},
+        {"q": "Which of these materials is NOT primarily associated with Nok art?", "opts": ["Terracotta", "Fired clay", "Bronze", "Clay"], "ans": 2, "explanation": "Nok art is primarily terracotta (fired clay). Bronze is associated with Igbo-Ukwu, Ife, and Benin."},
+        {"q": "If an artwork is described as having 'stylised, elongated features', it is most likely ___.", "opts": ["Ife", "Benin", "Nok", "Igbo-Uwxu"], "ans": 2, "explanation": "Stylised and elongated features are the key distinguishing trait of Nok terracotta figures."},
+        {"q": "The term 'naturalistic' in art refers to ___.", "opts": ["highly abstract and unrecognisable shapes", "life-like, realistic proportions and details", "purely geometric patterns", "random, unstructured forms"], "ans": 1, "explanation": "Naturalistic means the artwork closely resembles real life, as seen in Ife heads."},
+        {"q": "Which tradition is celebrated for its sophisticated historical storytelling through bronze plaques?", "opts": ["Nok", "Igbo-Ukwu", "Ife", "Benin"], "ans": 3, "explanation": "Benin bronze plaques are famous for recording and depicting historical events and court life."},
+        {"q": "Confusing all Nigerian traditional bronze work as identical is a mistake because ___.", "opts": ["they are all from the same exact year", "Igbo-Ukwu, Ife, and Benin each developed distinct styles and techniques", "they all use wood instead of bronze", "they have no historical significance"], "ans": 1, "explanation": "Each bronze tradition (Igbo-Ukwu, Ife, Benin) has its own distinct style, technique, and historical era."},
+        {"q": "Practical identification of traditional art requires looking at ___.", "opts": ["only the price of the artwork", "only the artist's modern signature", "material, style, and historical features", "only the size of the artwork"], "ans": 2, "explanation": "Identifying traditional art requires analyzing the material (e.g., bronze vs. terracotta), style (e.g., naturalistic vs. stylised), and historical features."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of traditional art, and how it differs from contemporary art.",
+      "markingGuide": "Clear definition (2.5); clear distinction from contemporary art (2.5)."
+    },
+    {
+      "question": "Name and briefly describe the FOUR major types of Nigerian traditional art studied this week.",
+      "markingGuide": "1.25 marks per correctly named and briefly described type (5 total)."
+    },
+    {
+      "question": "Explain what makes Igbo-Ukwu art technically remarkable, and what material it primarily uses.",
+      "markingGuide": "Clear explanation of its technical significance (2.5); correct material named (2.5)."
+    },
+    {
+      "question": "Distinguish between Ife art and Benin art, even though both are celebrated bronze traditions.",
+      "markingGuide": "Clear, accurate distinction (5, holistic)."
+    },
+    {
+      "question": "Explain, using the 'family tree' analogy or your own example, why Nok, Igbo-Ukwu, Ife, and Benin are considered part of one shared Nigerian artistic heritage, despite their differences.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

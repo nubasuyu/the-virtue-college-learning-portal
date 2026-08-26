@@ -1,0 +1,150 @@
+{
+  "course": "JSS2 Business Studies",
+  "term": "First Term",
+  "week": 6,
+  "topic": "Market Continued: Buying, Selling, Cash and Credit Sales",
+  "subUnits": [
+    {
+      "id": "jss2_bs_t1_w6_su1",
+      "title": "6.1 Buying and Selling; Cash and Credit Sales",
+      "notes": [
+        "Buying and Selling; Cash and Credit Sales",
+        "",
+        "Key Concepts:",
+        "1. Buying and Selling:",
+        "   - Buying means ACQUIRING goods or services in exchange for payment.",
+        "   - Selling means GIVING UP goods or services in exchange for receiving payment.",
+        "   - Every trade transaction has a buyer on one side and a seller on the.",
+        "",
+        "2. Cash Sales:",
+        "   - The buyer pays the FULL amount IMMEDIATELY at the time of purchase.",
+        "   - Example: Paying for bread at a bakery and taking it immediately.",
+        "",
+        "3. Credit Sales:",
+        "   - The buyer receives the goods NOW but pays LATER, at an agreed future date.",
+        "   - Example: A shop owner supplying goods to a regular business customer, who agrees to pay in 30 days.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian markets, 'credit' is often referred to as 'I go pay you tomorrow'. While it builds customer loyalty, it carries the risk of bad debts if the buyer fails to pay."
+      ],
+      "diagramDescriptions": ["Comparison chart of Cash Sales vs. Credit Sales"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies buying selling cash and credit sales site:youtube.com",
+      "quiz": [
+        {"q": "What does buying mean?", "opts": ["Acquiring goods or services in exchange for payment", "Giving away goods for free", "Only storing goods", "Only advertising goods"], "ans": 0, "explanation": "Buying is the act of acquiring something by paying for it."},
+        {"q": "What does selling mean?", "opts": ["Only storing goods", "Only buying goods", "Only transporting goods", "Giving up goods or services in exchange for receiving payment"], "ans": 3, "explanation": "Selling is the act of transferring goods or services to another party in exchange for money."},
+        {"q": "A cash sale means:", "opts": ["No payment is ever made", "The buyer pays the full amount immediately", "The goods are given away free", "The buyer pays later"], "ans": 1, "explanation": "In a cash sale, payment is made in full at the exact time of the transaction."},
+        {"q": "A credit sale means:", "opts": ["No goods are exchanged", "Payment is always immediate", "The buyer receives goods now but pays later", "The seller pays the buyer"], "ans": 2, "explanation": "Credit sales involve the transfer of goods now, with a promise of payment at a future date."},
+        {"q": "An advantage of cash sales for the seller is:", "opts": ["Increased risk of non-payment", "Immediate cash flow", "More complicated record-keeping", "Lower sales volume always"], "ans": 1, "explanation": "Cash sales provide immediate liquidity and eliminate the risk of bad debts."},
+        {"q": "An advantage of credit sales for the seller is:", "opts": ["It reduces sales volume", "It guarantees immediate payment", "It allows customers who cannot pay immediately to still buy, boosting sales", "It eliminates all risk"], "ans": 2, "explanation": "Offering credit can attract more customers and build long-term loyalty, increasing overall sales volume."},
+        {"q": "Which document is proof of immediate payment for a cash sale?", "opts": ["Invoice", "Order letter", "Quotation", "Cash receipt"], "ans": 3, "explanation": "A cash receipt is issued to acknowledge that payment has been received immediately."},
+        {"q": "Which document is typically used to bill a customer for a credit sale?", "opts": ["Order letter only", "Invoice", "Cash receipt only", "None of these"], "ans": 1, "explanation": "An invoice is a bill sent to a buyer detailing the goods supplied and the amount owed."},
+        {"q": "A customer buying a phone and paying with cash at the store is engaging in a:", "opts": ["Credit sale", "No sale at all", "Cash sale", "Insurance transaction"], "ans": 2, "explanation": "Immediate payment for goods received constitutes a cash sale."},
+        {"q": "Credit sales can help build ___ with regular customers.", "opts": ["No relationship at all", "Loyalty and long-term relationships", "Immediate distrust", "Financial loss always"], "ans": 1, "explanation": "Extending credit to trusted customers shows goodwill and fosters long-term business relationships."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w6_su2",
+      "title": "6.2 Advantages and Disadvantages of Cash and Credit Sales",
+      "notes": [
+        "Advantages and Disadvantages of Cash and Credit Sales",
+        "",
+        "Key Concepts:",
+        "1. Advantages of Cash Sales:",
+        "   - For Seller: Immediate cash flow, no risk of bad debts, simpler record-keeping.",
+        "   - For Buyer: Often qualifies for cash discounts, no future debt burden.",
+        "",
+        "2. Disadvantages of Cash Sales:",
+        "   - For Seller: May lose customers who cannot afford to pay immediately.",
+        "   - For Buyer: Requires having cash on hand, which might strain personal finances.",
+        "",
+        "3. Advantages of Credit Sales:",
+        "   - For Seller: Increases sales volume, builds customer loyalty, allows charging slightly higher prices to cover risk.",
+        "   - For Buyer: Allows acquisition of goods immediately without immediate cash, helps manage cash flow.",
+        "",
+        "4. Disadvantages of Credit Sales:",
+        "   - For Seller: Risk of bad debts (non-payment), delayed cash flow, requires detailed record-keeping.",
+        "   - For Buyer: May lead to overspending and debt accumulation, goods may be more expensive due to hidden interest.",
+        "",
+        "Nigerian Context:",
+        "   - Many Nigerian businesses use 'Buy Now, Pay Later' schemes (a form of credit sale) to make expensive items like electronics or furniture accessible to the average worker."
+      ],
+      "diagramDescriptions": ["Pros and Cons table for Cash vs. Credit Sales"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies advantages disadvantages cash credit sales site:youtube.com",
+      "quiz": [
+        {"q": "Which of the following is a major advantage of cash sales for a business?", "opts": ["It increases the risk of bad debts", "It provides immediate cash flow", "It requires complex record-keeping", "It attracts customers who have no money"], "ans": 1, "explanation": "Cash sales provide immediate liquidity, which is crucial for daily business operations."},
+        {"q": "A major disadvantage of credit sales for the seller is:", "opts": ["Immediate payment", "Risk of bad debts", "Simplified record-keeping", "No need to keep customer records"], "ans": 1, "explanation": "The seller faces the risk that the buyer may default on the payment, resulting in a bad debt."},
+        {"q": "Why might a buyer prefer a cash sale over a credit sale?", "opts": ["To avoid future debt obligations", "To increase their debt burden", "To pay a higher price", "To avoid cash discounts"], "ans": 0, "explanation": "Cash sales allow buyers to avoid the stress and obligations of future debt repayment."},
+        {"q": "Offering credit sales can help a business to:", "opts": ["Reduce its customer base", "Increase its sales volume by attracting more customers", "Eliminate the need for record-keeping", "Avoid all financial risks"], "ans": 1, "explanation": "Credit facilities make goods accessible to more people, thereby boosting overall sales volume."},
+        {"q": "Which of these is a disadvantage of credit sales for the buyer?", "opts": ["Immediate ownership without debt", "Potential for overspending and debt accumulation", "Guaranteed cash discounts", "Simplified personal budgeting"], "ans": 1, "explanation": "Easy access to credit can tempt buyers to spend beyond their means, leading to debt traps."},
+        {"q": "Cash sales typically involve ___ record-keeping compared to credit sales.", "opts": ["More complex", "Simpler", "No", "Identical"], "ans": 1, "explanation": "Cash sales are straightforward and do not require tracking of future payments or customer credit histories."},
+        {"q": "A seller might charge a slightly higher price for goods sold on credit to:", "opts": ["Punish the buyer", "Cover the risk and cost of delayed payment", "Avoid making a profit", "Comply with government rules"], "ans": 1, "explanation": "Sellers often build a risk premium into credit prices to compensate for the delay in receiving cash and the risk of default."},
+        {"q": "Which of the following best describes 'bad debt'?", "opts": ["A debt that is paid immediately", "A debt that is owed by the government", "A debt that is unlikely to be paid by the buyer", "A debt that earns high interest"], "ans": 2, "explanation": "Bad debt refers to money owed to a business that is deemed uncollectible."},
+        {"q": "For a buyer with limited funds, credit sales provide the benefit of:", "opts": ["Immediate possession of goods", "Immediate cash in hand", "Avoiding all financial responsibility", "Guaranteed profit"], "ans": 0, "explanation": "Credit allows buyers to acquire and use goods immediately, paying for them over time."},
+        {"q": "Why is it important for a seller to assess a buyer's creditworthiness before offering a credit sale?", "opts": ["To determine the buyer's favorite color", "To minimize the risk of bad debts", "To increase the price of the goods arbitrarily", "To avoid giving cash discounts"], "ans": 1, "explanation": "Assessing creditworthiness helps the seller determine if the buyer is likely to pay, reducing the risk of bad debt."}
+      ]
+    },
+    {
+      "id": "jss2_bs_t1_w6_su3",
+      "title": "6.3 Documents Used in Cash and Credit Sales",
+      "notes": [
+        "Documents Used in Cash and Credit Sales",
+        "",
+        "Key Concepts:",
+        "1. Cash Receipt:",
+        "   - A document issued by the seller to the buyer as PROOF that payment has been RECEIVED.",
+        "   - It contains the date, amount paid, description of goods, and the word 'Received'.",
+        "   - Primarily used in CASH sales.",
+        "",
+        "2. Invoice:",
+        "   - A document a SELLER sends to a BUYER, listing the goods or services supplied, their quantities, prices, and the TOTAL amount OWED.",
+        "   - It is essentially a BILL, typically used for CREDIT sales, showing exactly what payment is expected and when.",
+        "",
+        "3. Proforma Invoice:",
+        "   - Looks similar to an invoice but is sent BEFORE the goods are actually supplied.",
+        "   - It is an ESTIMATE or QUOTE of what will be charged, allowing the buyer to confirm they want to proceed or arrange for payment.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, it is a common practice for suppliers to send a Proforma Invoice to a company so the company can process the payment approval before the actual goods are delivered and the final Invoice is raised."
+      ],
+      "diagramDescriptions": ["Samples of a Cash Receipt, Invoice, and Proforma Invoice"],
+      "videoId": "",
+      "youtubeQuery": "JSS2 Business Studies documents used in cash and credit sales receipt invoice site:youtube.com",
+      "quiz": [
+        {"q": "What is the primary purpose of a cash receipt?", "opts": ["To request goods from a supplier", "To prove that payment has been received", "To estimate future costs", "To list goods that are owed"], "ans": 1, "explanation": "A cash receipt serves as official proof that the seller has received payment from the buyer."},
+        {"q": "An invoice is typically used for which type of sale?", "opts": ["Cash sales only", "Credit sales", "Barter trade", "Free gifts"], "ans": 1, "explanation": "Invoices are bills sent to buyers to request payment for goods already supplied on credit."},
+        {"q": "What is a proforma invoice?", "opts": ["A record of stock levels", "An estimate sent before goods are actually supplied", "Proof that payment has been received", "A bill for goods already supplied"], "ans": 1, "explanation": "A proforma invoice is a preliminary bill or estimate sent to a buyer before the actual transaction occurs."},
+        {"q": "Which document shows the TOTAL amount OWED by a buyer?", "opts": ["Proforma invoice only", "Invoice", "Cash receipt", "None of these"], "ans": 1, "explanation": "An invoice details the goods supplied and the total amount the buyer is obligated to pay."},
+        {"q": "If a customer pays cash for goods at a shop, the shop attendant should hand over a:", "opts": ["Proforma invoice", "Debit note", "Receipt", "Quotation"], "ans": 2, "explanation": "A receipt is the appropriate document to acknowledge immediate cash payment."},
+        {"q": "A proforma invoice allows the buyer to:", "opts": ["Confirm they want to proceed before the real transaction happens", "Avoid ever seeing prices", "Skip the transaction entirely", "Pay immediately with no estimate"], "ans": 0, "explanation": "It gives the buyer a clear estimate of costs so they can arrange funds or approve the purchase."},
+        {"q": "Which of these documents is compared to a 'menu with estimated prices' in the restaurant analogy?", "opts": ["Invoice", "Receipt", "Proforma Invoice", "Cash book"], "ans": 2, "explanation": "A proforma invoice, like a menu, shows what the costs will be before the order is finalized."},
+        {"q": "An invoice is compared to which stage of a restaurant meal?", "opts": ["The menu", "The actual bill brought to the table after eating", "The stamped proof of payment", "The reservation"], "ans": 1, "explanation": "An invoice is the actual bill showing what is owed after the goods have been supplied."},
+        {"q": "A receipt is compared to which stage of a restaurant meal?", "opts": ["The menu", "The bill", "The stamped proof given after you have paid", "The appetizer"], "ans": 2, "explanation": "A receipt confirms that the bill has been settled and payment has been made."},
+        {"q": "Why is it important for a business to keep copies of all receipts and invoices?", "opts": ["To decorate the office", "For record-keeping, auditing, and resolving disputes", "To increase the price of goods", "To avoid paying taxes"], "ans": 1, "explanation": "These documents are essential for financial tracking, legal protection, and audit purposes."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Define buying and selling in your own words.",
+      "markingGuide": "2.5 marks each for a correct, clear definition. Total: 5 marks."
+    },
+    {
+      "question": "Distinguish between cash sales and credit sales, giving one example of each.",
+      "markingGuide": "2 marks each for correct distinguishing definitions; 1 mark for valid examples. Total: 5 marks."
+    },
+    {
+      "question": "State TWO advantages of cash sales and TWO advantages of credit sales for a business.",
+      "markingGuide": "1.25 marks per correctly stated advantage. Total: 5 marks."
+    },
+    {
+      "question": "Name the document used to record a cash sale, and the document used to bill a credit sale, explaining the purpose of each.",
+      "markingGuide": "2.5 marks each for correctly named document with a clear explanation of its purpose. Total: 5 marks."
+    },
+    {
+      "question": "A small shop owner is considering whether to allow trusted regular customers to buy on credit. Advise her on the potential benefits and risks of doing so.",
+      "markingGuide": "Clear discussion of benefits (loyalty, increased sales) (2.5 marks); clear discussion of risks (non-payment, cash flow delay) (2.5 marks). Total: 5 marks."
+    }
+  ]
+}

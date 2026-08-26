@@ -1,0 +1,149 @@
+{
+  "course": "JSS3 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 2,
+  "topic": "Places of Origin and Functions of Nigerian Traditional Arts",
+  "subUnits": [
+    {
+      "id": "jss3_cca_t1_w2_su1",
+      "title": "2.1 Places of Origin of Nigerian Traditional Arts",
+      "notes": [
+        "Places of Origin of Nigerian Traditional Arts",
+        "",
+        "Key Concepts:",
+        "1. Nok Art Origin:",
+        "   - Originates from the NOK region in present-day KADUNA STATE (north-central Nigeria), where the earliest terracotta finds were discovered.",
+        "",
+        "2. Ife Art Origin:",
+        "   - Originates from ILE-IFE, in present-day OSUN STATE (south-western Nigeria), the ancient centre of Yoruba civilisation.",
+        "",
+        "3. Benin Art Origin:",
+        "   - Originates from BENIN CITY, in present-day EDO STATE (southern Nigeria), the historic seat of the Benin Kingdom.",
+        "",
+        "4. Igbo-Ukwu Art Origin:",
+        "   - Originates from the town of IGBO-UKWU, in present-day ANAMBRA STATE (south-eastern",
+        "Nigeria).",
+        "",
+        "Nigerian Context:",
+        "   - Knowing these specific geographic connections helps us understand how different regions of Nigeria each contributed their own distinctive artistic achievements to the nation's shared cultural heritage."
+      ],
+      "diagramDescriptions": ["Map of Nigeria highlighting the four traditional art centres: Kaduna, Osun, Edo, and Anambra"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts places of origin Nok Ife Benin Igbo-Ukwu map site:youtube.com",
+      "quiz": [
+        {"q": "Nok art originates from which present-day state?", "opts": ["Osun State", "Anambra State", "Edo State", "Kaduna State"], "ans": 3, "explanation": "Nok art originates from the Nok region in present-day Kaduna State (north-central Nigeria)."},
+        {"q": "Ife art originates from which present-day state?", "opts": ["Osun State", "Anambra State", "Kaduna State", "Edo State"], "ans": 0, "explanation": "Ife art originates from Ile-Ife in present-day Osun State (south-western Nigeria)."},
+        {"q": "Benin art originates from which present-day state?", "opts": ["Anambra State", "Osun State", "Edo State", "Kaduna State"], "ans": 2, "explanation": "Benin art originates from Benin City in present-day Edo State (southern Nigeria)."},
+        {"q": "Igbo-Ukwu art originates from which present-day state?", "opts": ["Kaduna State", "Osun State", "Edo State", "Anambra State"], "ans": 3, "explanation": "Igbo-Ukwu art originates from the town of Igbo-Ukwu in present-day Anambra State (south-eastern Nigeria)."},
+        {"q": "Nok art originates from which region of Nigeria?", "opts": ["South-western", "South-eastern", "North-central", "Southern"], "ans": 2, "explanation": "Kaduna State is located in the north-central region of Nigeria."},
+        {"q": "Ife art originates from which ancient centre of Yoruba civilisation?", "opts": ["Benin City", "Igbo-Ukwu town", "Ile-Ife", "A location outside Nigeria"], "ans": 2, "explanation": "Ile-Ife is the ancient, historic centre of Yoruba civilisation."},
+        {"q": "Benin art originates from the historic seat of which kingdom?", "opts": ["A purely modern invention", "No specific kingdom", "The Benin Kingdom", "A kingdom outside Nigeria"], "ans": 2, "explanation": "Benin art originates from the historic seat of the Benin Kingdom in Edo State."},
+        {"q": "These four art centres are compared to ___ in this week's analogy.", "opts": ["dishes with no regional connection", "different regional specialities on a national menu", "unrelated foreign cuisines", "a single unchanging regional dish"], "ans": 1, "explanation": "Each region contributed its own distinctive artistic 'recipe', making up the rich feast of Nigeria's shared heritage."},
+        {"q": "Knowing the geographic origins of these traditions helps us understand ___.", "opts": ["nothing of value about Nigerian culture", "foreign artistic traditions exclusively", "only one single region's achievements", "how different regions contributed to Nigeria's shared heritage"], "ans": 3, "explanation": "It shows the widespread, diverse nature of Nigeria's artistic heritage across different parts of the country."},
+        {"q": "Igbo-Ukwu, as a traditional art centre, is located in which region of Nigeria?", "opts": ["Northern", "South-eastern", "North-central", "South-western"], "ans": 1, "explanation": "Anambra State, where Igbo-Ukwu is located, is in the south-eastern region of Nigeria."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w2_su2",
+      "title": "2.2 Functions of Nigerian Traditional Arts",
+      "notes": [
+        "Functions of Nigerian Traditional Arts",
+        "",
+        "Key Concepts:",
+        "1. Religious/Spiritual Functions:",
+        "   - Many traditional artworks (masks, figures, ritual objects) played roles in WORSHIP, ancestor veneration, or connecting communities with SPIRITUAL beliefs.",
+        "",
+        "2. Political/Royal Functions:",
+        "   - Artworks (like Benin's bronze plaques) recorded and CELEBRATED the authority, achievements, and history of kings and ruling structures, reinforcing political LEGITIMACY.",
+        "",
+        "3. Social Functions:",
+        "   - Traditional art marked important life events (births, coming-of-age, marriages, deaths) and reinforced COMMUNITY identity and shared values.",
+        "",
+        "4. Economic Functions:",
+        "   - Skilled artistic production created genuine LIVELIHOODS for craftspeople and artists within their communities, precisely as it continues to do TODAY.",
+        "",
+        "Nigerian Context:",
+        "   - Understanding these functions reveals that traditional art was rarely created for 'art's sake' alone — it was deeply woven into the practical, spiritual, and social fabric of daily community life."
+      ],
+      "diagramDescriptions": ["Chart listing the four functions of traditional art with Nigerian examples for each"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts functions of Nigerian traditional arts religious political social economic site:youtube.com",
+      "quiz": [
+        {"q": "Which of these is a function of Nigerian traditional art?", "opts": ["Only decorative, with no deeper purpose", "Only foreign, non-Nigerian purposes", "Religious/spiritual", "No function at all"], "ans": 2, "explanation": "Traditional art served deep religious, spiritual, political, social, and economic functions."},
+        {"q": "Masks and ritual objects often served ___ functions.", "opts": ["only economic", "no functions at all", "only political", "religious/spiritual"], "ans": 3, "explanation": "Masks and ritual objects were primarily used for worship, ancestor veneration, and spiritual connection."},
+        {"q": "Benin bronze plaques celebrating kings served a ___ function.", "opts": ["only religious", "political/royal", "no function at all", "only economic"], "ans": 1, "explanation": "Depicting the Oba and court life reinforced political authority and royal legitimacy."},
+        {"q": "Traditional art marking births, marriages, or deaths served a ___ function.", "opts": ["only political", "only economic", "no function at all", "social"], "ans": 3, "explanation": "Marking life events and reinforcing community identity are key social functions."},
+        {"q": "Skilled artistic production providing livelihoods for craftspeople served a ___ function.", "opts": ["only political", "economic", "only religious", "no function at all"], "ans": 1, "explanation": "Providing genuine livelihoods and income for artists is an economic function."},
+        {"q": "Traditional art was ___ into the practical, spiritual, and social fabric of daily life.", "opts": ["never connected to", "completely unrelated to", "deeply woven", "irrelevant to"], "ans": 2, "explanation": "Traditional art was deeply integrated into all aspects of daily community life."},
+        {"q": "A single traditional artwork could serve ___.", "opts": ["only decorative purposes exclusively", "multiple functions simultaneously", "only ever one function, never more", "no function at all"], "ans": 1, "explanation": "A single artwork could serve religious, social, and economic functions all at once."},
+        {"q": "Traditional art's functions are compared to ___ in this week's analogy.", "opts": ["a role with no real community value", "a single unchanging role with no variation", "the many roles a village's respected elder plays", "an unrelated random comparison"], "ans": 2, "explanation": "Like a respected elder, traditional art served multiple vital community roles simultaneously."},
+        {"q": "Economic function continues to matter for artists ___.", "opts": ["today, just as in traditional times", "nowhere, since art provides no income", "only in the distant past, with no modern relevance", "only outside Nigeria"], "ans": 0, "explanation": "Artistic production continues to provide genuine livelihoods for craftspeople in Nigeria today."},
+        {"q": "Understanding traditional art's functions shows it was rarely created for ___ alone.", "opts": ["religious purposes exclusively", "social purposes exclusively", "'art's sake'", "economic purposes exclusively"], "ans": 2, "explanation": "Traditional art had deep practical, spiritual, and social purposes, not just decorative 'art for art's sake'."}
+      ]
+    },
+    {
+      "id": "jss3_cca_t1_w2_su3",
+      "title": "2.3 Practical Application: Matching Origins, Types, and Functions",
+      "notes": [
+        "Practical Application: Matching Origins, Types, and Functions",
+        "",
+        "Key Concepts:",
+        "1. Linking Origin to Type:",
+        "   - Kaduna = Nok (Terracotta, stylised).",
+        "   - Osun = Ife (Bronze/Terracotta, naturalistic).",
+        "   - Edo = Benin (Bronze plaques, historical).",
+        "   - Anambra = Igbo-Ukwu (Bronze, intricate patterns).",
+        "",
+        "2. Linking Type to Function:",
+        "   - Nok figures likely had spiritual/ritual significance.",
+        "   - Ife heads had royal/political and spiritual significance.",
+        "   - Benin plaques had strong political/royal and historical functions.",
+        "   - Igbo-Ukwu artifacts had ritual and elite social functions.",
+        "",
+        "3. Avoiding Common Mistakes:",
+        "   - Do not mix up which state corresponds to which art tradition.",
+        "   - Do not assume all Nigerian traditional art originated from a single region.",
+        "",
+        "Nigerian Context:",
+        "   - In BECE and WAEC examinations, students are frequently tested on their ability to correctly match the art tradition, its state of origin, and its primary function."
+      ],
+      "diagramDescriptions": ["Flowchart connecting Art Type -> State of Origin -> Primary Function"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Cultural and Creative Arts matching origins types functions traditional art practice site:youtube.com",
+      "quiz": [
+        {"q": "Which traditional art type originates from Kaduna State?", "opts": ["Ife", "Benin", "Nok", "Igbo-Ukwu"], "ans": 2, "explanation": "Nok art originates from the Nok region in present-day Kaduna State."},
+        {"q": "Which traditional art type is renowned for naturalistic, life-like facial detail?", "opts": ["Nok", "Igbo-Ukwu", "Benin", "Ife"], "ans": 3, "explanation": "Ife art is world-renowned for its naturalistic, life-like bronze and terracotta heads."},
+        {"q": "Bronze plaques depicting historical court life are primarily associated with which tradition?", "opts": ["Nok", "Benin", "Ife", "Igbo-Ukwu"], "ans": 1, "explanation": "Benin art is famous for its historical and ceremonial bronze plaques."},
+        {"q": "Igbo-Ukwu art is characterised by intricate decorative patterns and originates from ___.", "opts": ["Edo State", "Osun State", "Kaduna State", "Anambra State"], "ans": 3, "explanation": "Igbo-Ukwu art originates from Anambra State in south-eastern Nigeria."},
+        {"q": "A carved figure traditionally used in ancestor veneration ceremonies primarily served a ___ function.", "opts": ["economic", "religious/spiritual", "purely decorative", "political"], "ans": 1, "explanation": "Ancestor veneration is a core religious and spiritual function."},
+        {"q": "If a student confuses Ife art with Benin art, they are mixing up ___.", "opts": ["two traditions with identical styles", "naturalistic heads with historical bronze plaques", "terracotta with wood carving", "two traditions from the same exact state"], "ans": 1, "explanation": "Ife is known for naturalistic heads, while Benin is known for historical bronze plaques."},
+        {"q": "Which function involves recording and celebrating the authority of kings?", "opts": ["Social", "Economic", "Political/Royal", "Religious"], "ans": 2, "explanation": "Recording royal authority and history is a political/royal function."},
+        {"q": "Providing livelihoods for local craftspeople is an example of which function?", "opts": ["Political", "Social", "Economic", "Religious"], "ans": 2, "explanation": "Generating income and livelihoods is an economic function."},
+        {"q": "Marking important life events like coming-of-age ceremonies is a ___ function.", "opts": ["Social", "Economic", "Political", "Religious"], "ans": 0, "explanation": "Marking life events and reinforcing community identity is a social function."},
+        {"q": "Why is it a mistake to assume all Nigerian traditional art came from one region?", "opts": ["Because it did all come from one region", "Because these four major traditions come from four different states across the country", "Because traditional art has no geographic origin", "Because it is all foreign art"], "ans": 1, "explanation": "Nok (Kaduna), Ife (Osun), Benin (Edo), and Igbo-Ukwu (Anambra) prove the widespread, diverse nature of Nigeria's artistic heritage."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Match each traditional art type (Nok, Ife, Benin, Igbo-Ukwu) to its correct state of origin.",
+      "markingGuide": "1.25 marks per correctly matched pair (5 total)."
+    },
+    {
+      "question": "Explain why knowing the geographic origins of Nigeria's traditional art traditions helps us appreciate the country's cultural heritage.",
+      "markingGuide": "Clear, accurate explanation (5, holistic)."
+    },
+    {
+      "question": "List and briefly explain the FOUR functions of Nigerian traditional arts studied this week.",
+      "markingGuide": "1.25 marks per correctly named and briefly explained function (5 total)."
+    },
+    {
+      "question": "A carved figure was traditionally used in ancestor veneration ceremonies within its community. Identify the primary function it served, and explain your reasoning.",
+      "markingGuide": "Correct identification of religious/spiritual function (2.5); clear reasoning (2.5)."
+    },
+    {
+      "question": "Explain, using the 'village elder' analogy or your own example, why a single traditional artwork might serve MULTIPLE functions at once, rather than just one.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "course": "JSS3 Business Studies",
+  "term": "First Term",
+  "week": 1,
+  "topic": "Office Procedure: Meaning, Importance, and Preparing Financial Documents",
+  "subUnits": [
+    {
+      "id": "jss3_bs_t1_w1_su1",
+      "title": "1.1 Meaning and Importance of Office Procedure",
+      "notes": [
+        "Meaning and Importance of Office Procedure",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Office Procedure:",
+        "   - The ESTABLISHED, STANDARD way of carrying out tasks in an office.",
+        "   - The agreed steps everyone follows to complete a job correctly and consistently, rather than each worker doing things their own random way.",
+        "",
+        "2. Importance of Office Procedure:",
+        "   - Ensures CONSISTENCY: Every task is done the same reliable way, regardless of who performs it.",
+        "   - Reduces ERRORS: A clear, tested procedure catches mistakes a rushed, improvised approach might miss.",
+        "   - Saves TIME: Workers do not need to 'figure out' each task from scratch.",
+        "   - Makes TRAINING easier: New staff can simply be taught the established steps and follow them.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian banks and government ministries, strict office procedures (like how to process a loan application or file a civil service memo) ensure that services are delivered uniformly and corruption or errors are minimized."
+      ],
+      "diagramDescriptions": ["Flowchart showing a standard office procedure from task initiation to completion"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Business Studies meaning and importance of office procedure site:youtube.com",
+      "quiz": [
+        {"q": "What is office procedure?", "opts": ["Only the manager's personal preference", "A type of office equipment", "The established, standard way of carrying out tasks in an office", "A random, unplanned approach to work"], "ans": 2, "explanation": "Office procedure is the established, standard way of carrying out tasks to ensure consistency and accuracy."},
+        {"q": "Office procedure ensures ___.", "opts": ["random results every time", "no benefit at all", "more errors", "consistency in how tasks are done"], "ans": 3, "explanation": "A key benefit of office procedure is that it ensures consistency in task execution."},
+        {"q": "A clear office procedure helps to ___ errors.", "opts": ["have no effect on", "reduce", "increase", "multiply"], "ans": 1, "explanation": "Tested procedures catch mistakes that improvised approaches might miss, thereby reducing errors."},
+        {"q": "Office procedure makes training new staff ___.", "opts": ["easier", "harder", "impossible", "irrelevant"], "ans": 0, "explanation": "New staff can simply be taught the established steps, making training much easier."},
+        {"q": "Without office procedure, an organization would likely ___.", "opts": ["run perfectly with no guidance needed", "have no need for documents", "require no staff training at all", "run chaotically with inconsistent results"], "ans": 3, "explanation": "Without standard procedures, work is done randomly, leading to chaos and inconsistent results."},
+        {"q": "A written, step-by-step filing procedure taught to new staff is an example of ___.", "opts": ["office procedure improving consistency", "unnecessary bureaucracy", "a waste of time", "poor management"], "ans": 0, "explanation": "This is a classic example of how office procedure ensures documents are filed consistently by anyone."},
+        {"q": "Office procedure is compared to ___ in a restaurant kitchen.", "opts": ["a single dish served once", "random cooking with no guidance", "an empty kitchen", "a recipe followed by every cook"], "ans": 3, "explanation": "Just as a recipe ensures every cook makes the dish consistently, office procedures ensure consistent work output."},
+        {"q": "An employee improvising his own method for a task he was never trained on is likely to ___.", "opts": ["make errors that a proper procedure would prevent", "need no guidance at all", "always succeed perfectly", "improve consistency automatically"], "ans": 0, "explanation": "Improvisation without training often leads to errors that a standard procedure would have prevented."},
+        {"q": "Office procedure benefits ___.", "opts": ["only the manager", "the whole organization, not just individual workers", "only new staff", "no one at all"], "ans": 1, "explanation": "Consistency and reduced errors benefit the entire organization's efficiency and reputation."},
+        {"q": "Standard steps for answering a phone call or filing a document are examples of ___.", "opts": ["random personal choices", "office equipment", "office procedures", "advertising methods"], "ans": 2, "explanation": "These are standard, repeatable steps that define how specific office tasks should be performed."}
+      ]
+    },
+    {
+      "id": "jss3_bs_t1_w1_su2",
+      "title": "1.2 Procedures for Preparing Bills, Invoices, and Receipts",
+      "notes": [
+        "Procedures for Preparing Bills, Invoices, and Receipts",
+        "",
+        "Key Concepts:",
+        "1. Preparing a BILL:",
+        "   - A document requesting payment for goods or SERVICES already provided (e.g., PHCN/electricity bills, telecommunications bills).",
+        "   - Must clearly state: the SERVICE PROVIDED, the BILLING PERIOD, the AMOUNT due, the DUE DATE, and the recipient's correct details.",
+        "",
+        "2. Preparing an INVOICE:",
+        "   - A document listing each item or service SEPARATELY with its quantity and price.",
+        "   - Must include: an accurate TOTAL, a unique invoice NUMBER, the DATE, and clear payment TERMS.",
+        "",
+        "3. Preparing a RECEIPT:",
+        "   - A document issued as PROOF that payment has been RECEIVED.",
+        "   - Must record: the DATE of payment, the AMOUNT received, the PAYER's name, the PURPOSE of payment, and a signature or stamp for authenticity.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigeria, a properly prepared receipt protects BOTH the payer (as proof of payment) and the business (for accurate record-keeping and tax purposes). Missing details like the payer's name can lead to serious disputes."
+      ],
+      "diagramDescriptions": ["Side-by-side comparison of a Bill, an Invoice, and a Receipt with key fields highlighted"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Business Studies procedures for preparing bills invoices receipts site:youtube.com",
+      "quiz": [
+        {"q": "What is a bill?", "opts": ["Proof that payment has been received", "An estimate before goods are supplied", "A type of office equipment", "A document requesting payment for goods or services already provided"], "ans": 3, "explanation": "A bill requests payment for services or goods that have already been provided."},
+        {"q": "Which of these is an example of a common bill?", "opts": ["An electricity (PHCN) bill", "A birthday card", "A weather report", "A newspaper advertisement"], "ans": 0, "explanation": "An electricity bill is a classic example of a document requesting payment for a service already provided."},
+        {"q": "A properly prepared bill should clearly state ___.", "opts": ["nothing specific at all", "only the company's logo", "the service provided, billing period, amount due, and due date", "only a random number"], "ans": 2, "explanation": "These details are essential for the recipient to know what they are paying for and when."},
+        {"q": "A properly prepared invoice should include ___.", "opts": ["only the company's address", "no details at all", "an itemised list, accurate total, invoice number, and date", "only a signature"], "ans": 2, "explanation": "Invoices must detail the items, quantities, prices, and include a unique number and date for record-keeping."},
+        {"q": "A properly prepared receipt should include ___.", "opts": ["date, amount received, payer's name, and purpose of payment", "only the seller's name", "nothing specific", "only a random stamp"], "ans": 0, "explanation": "These four elements are crucial for a receipt to serve as valid proof of a specific transaction."},
+        {"q": "A receipt protects ___.", "opts": ["neither party", "only the business", "both the payer and the business, with accurate proof and records", "only the payer"], "ans": 2, "explanation": "It provides the payer with proof of payment and the business with an accurate financial record."},
+        {"q": "Omitting a due date from a bill can cause ___.", "opts": ["automatic early payment", "improved clarity", "confusion about when payment is expected", "no problems at all"], "ans": 2, "explanation": "Without a due date, the customer may not know when to pay, leading to delays or disputes."},
+        {"q": "A missing payer's name on a receipt weakens its value as ___.", "opts": ["proof of payment", "an advertisement", "a decoration", "a bill"], "ans": 0, "explanation": "Without the payer's name, it is difficult to prove WHO made the payment in case of a dispute."},
+        {"q": "Preparing these documents carefully is compared to writing a letter that must ___.", "opts": ["stand alone and be clear to a stranger reading it later", "require constant verbal explanation", "never be read by anyone", "be vague and unclear"], "ans": 0, "explanation": "Every detail must be clear and complete enough to stand alone without further explanation."},
+        {"q": "An invoice number is important because it ___.", "opts": ["replaces the need for a total", "is only decorative", "helps with accurate record-keeping", "has no real purpose"], "ans": 2, "explanation": "Unique invoice numbers allow businesses to track, reference, and audit specific transactions easily."}
+      ]
+    },
+    {
+      "id": "jss3_bs_t1_w1_su3",
+      "title": "1.3 Practical Application and Common Mistakes in Document Preparation",
+      "notes": [
+        "Practical Application and Common Mistakes in Document Preparation",
+        "",
+        "Key Concepts:",
+        "1. Practical Application in Business:",
+        "   - Every financial transaction in a Nigerian business, from a small kiosk to a large corporation, relies on these documents.",
+        "   - They form the foundation of book-keeping and are required for tax audits by the FIRS (Federal Inland Revenue Service).",
+        "",
+        "2. Common Mistakes to Avoid:",
+        "   - Omitting 'small' details: Forgetting a due date, invoice number, or payer's name, which are actually essential.",
+        "   - Confusing document purposes: Treating a bill (requesting payment for services) the same as an invoice (broader billing, often for goods on credit), or confusing an invoice with a receipt (proof of payment).",
+        "   - Poor handwriting or illegible stamps: Making the document useless as a legal or financial record.",
+        "",
+        "Nigerian Context:",
+        "   - Many small business owners in Nigeria suffer losses because they issue handwritten receipts without the customer's name or purpose of payment. When disputes arise, they have no valid proof to defend their records."
+      ],
+      "diagramDescriptions": ["Checklist of common mistakes in document preparation and how to avoid them"],
+      "videoId": "",
+      "youtubeQuery": "JSS3 Business Studies common mistakes in preparing bills invoices receipts site:youtube.com",
+      "quiz": [
+        {"q": "Why is it dangerous for a small business to issue handwritten receipts without the customer's name?", "opts": ["It saves paper", "It weakens the receipt as reliable proof in case of a dispute", "It makes the business look more professional", "It speeds up the transaction"], "ans": 1, "explanation": "Without the customer's name, the receipt cannot definitively prove who made the payment."},
+        {"q": "Which of these is a common mistake when preparing financial documents?", "opts": ["Including a unique invoice number", "Omitting seemingly small details like a due date", "Signing the receipt", "Using a rubber stamp"], "ans": 1, "explanation": "Omitting details like a due date or invoice number seems minor but can cause major record-keeping issues."},
+        {"q": "Confusing an invoice with a receipt is dangerous because ___.", "opts": ["they look exactly the same", "an invoice requests payment, while a receipt proves payment was made", "receipts are only for services", "invoices are only for cash"], "ans": 1, "explanation": "An invoice shows what is owed; a receipt shows what has already been paid. Confusing them leads to accounting errors."},
+        {"q": "Illegible handwriting on a receipt can lead to ___.", "opts": ["faster processing", "the document being useless as a legal or financial record", "higher profits", "better customer relationships"], "ans": 1, "explanation": "If a document cannot be read, it cannot serve its purpose as proof or a record."},
+        {"q": "In Nigeria, proper financial documents are required for audits by the ___.", "opts": ["FRSC", "FIRS (Federal Inland Revenue Service)", "NDLEA", "NNPC"], "ans": 1, "explanation": "The FIRS requires accurate, properly prepared financial documents for tax assessment and auditing."},
+        {"q": "A business that consistently prepares clear, complete invoices is likely to ___.", "opts": ["experience fewer payment disputes", "lose customers", "pay more taxes unfairly", "confuse its own staff"], "ans": 0, "explanation": "Clear invoices leave no room for ambiguity, reducing the likelihood of customer disputes over what is owed."},
+        {"q": "Which of the following is NOT a recommended practice for document preparation?", "opts": ["Using a unique invoice number", "Ensuring the payer's name is legible", "Leaving the purpose of payment blank to save space", "Including the date of the transaction"], "ans": 2, "explanation": "The purpose of payment is essential for accurate record-keeping and should never be left blank."},
+        {"q": "A 'due date' on a bill is important because it ___.", "opts": ["is purely decorative", "tells the customer exactly when payment is expected", "increases the total amount owed", "replaces the need for an amount due"], "ans": 1, "explanation": "The due date sets a clear expectation for when the payment must be made to avoid penalties."},
+        {"q": "When a customer pays in cash, the business should immediately issue a ___.", "opts": ["bill", "proforma invoice", "receipt", "purchase order"], "ans": 2, "explanation": "A receipt is the immediate proof that the cash payment has been received."},
+        {"q": "The foundation of accurate book-keeping in any organization relies heavily on ___.", "opts": ["guessing the amounts", "properly prepared source documents like bills, invoices, and receipts", "oral agreements only", "ignoring small transactions"], "ans": 1, "explanation": "Book-keeping is only as accurate as the source documents (bills, invoices, receipts) it is based on."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of office procedure, and state THREE reasons it is important.",
+      "markingGuide": "Correct definition (2 marks); three valid reasons clearly stated (3 marks). Total: 5 marks."
+    },
+    {
+      "question": "List FOUR essential details that should appear on a properly prepared bill.",
+      "markingGuide": "1.25 marks per correctly stated detail (5 marks total)."
+    },
+    {
+      "question": "List FOUR essential details that should appear on a properly prepared invoice.",
+      "markingGuide": "1.25 marks per correctly stated detail (5 marks total)."
+        },
+    {
+      "question": "List FOUR essential details that should appear on a properly prepared receipt.",
+      "markingGuide": "1.25 marks per correctly stated detail (5 marks total)."
+    },
+    {
+      "question": "A small business owner's receipts are handwritten and often missing the customer's name or the purpose of payment. Explain the risks this creates, and advise her on how to improve her receipt-preparation procedure.",
+      "markingGuide": "Clear explanation of risks (record disputes, unclear proof) (2.5 marks); practical, sensible advice for improvement (2.5 marks). Total: 5 marks."
+    }
+  ]
+}

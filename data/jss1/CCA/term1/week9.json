@@ -1,0 +1,141 @@
+{
+  "course": "JSS1 Cultural and Creative Arts",
+  "term": "First Term",
+  "week": 9,
+  "topic": "Modelling with Paper Mâché",
+  "subUnits": [
+    {
+      "id": "jss1_cca_t1_w9_su1",
+      "title": "9.1 Meaning of Paper Mâché and Materials Made From It",
+      "notes": [
+        "Meaning of Paper Mâché and Materials Made From It",
+        "",
+        "Key Concepts:",
+        "1. Meaning of Paper Mâché:",
+        "   - Paper mâché (from the French 'papier-mâché', meaning 'chewed paper') is a craft technique using PAPER combined with a PASTE (usually STARCH or GUM mixed with water).",
+        "   - This creates a MOULDABLE material that can be shaped while WET, then becomes HARD and STURDY once it fully DRIES.",
+        "",
+        "2. Products Made from Paper Mâché:",
+        "   - Household Utensils: lightweight plates, cups, and bowls (alternatives to pottery or metal).",
+        "   - Decorative Items: vases, wall hangings, and ornamental masks.",
+        "   - Sculptural Figures: moulded animals or human figures.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian schools and local craft markets, paper mâché is highly valued because it transforms cheap, recycled materials (like old newspapers and cardboard) into durable, beautiful art, promoting environmental sustainability and creativity."
+      ],
+      "diagramDescriptions": ["Examples of paper mâché products: decorative vases, plates, and masks"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts meaning of paper mache products site:youtube.com",
+      "quiz": [
+        {"q": "What does 'papier-mâché' mean in French?", "opts": ["Cut paper", "Woven paper", "Painted paper", "Chewed paper"], "ans": 3, "explanation": "'Papier-mâché' translates to 'chewed paper', reflecting its pulpy, mouldable nature."},
+        {"q": "Paper mâché combines paper with a paste, usually made from:", "opts": ["only dry glue with no water", "starch or gum mixed with water", "only water, with no paste", "metal shavings"], "ans": 1, "explanation": "The paste is typically made from starch or gum mixed with water to bind the paper fibres."},
+        {"q": "Paper mâché is mouldable while it is:", "opts": ["frozen", "burning", "completely dry", "wet"], "ans": 3, "explanation": "The mixture is soft and pliable when wet, allowing it to be shaped."},
+        {"q": "Once fully dry, paper mâché becomes:", "opts": ["liquid again", "weaker than when wet", "invisible", "hard and sturdy"], "ans": 3, "explanation": "The drying process hardens the starch/gum binder, making the final object strong and durable."},
+        {"q": "Which of these can be made from paper mâché?", "opts": ["Only fabric items", "Decorative vases", "Only woven baskets", "Only carved wood"], "ans": 1, "explanation": "Decorative vases are a common and popular paper mâché craft."},
+        {"q": "Paper mâché household utensils serve as lightweight alternatives to:", "opts": ["wood carving only", "pottery or metal", "fabric only", "nothing comparable"], "ans": 1, "explanation": "Paper mâché plates and bowls are lightweight, inexpensive alternatives to traditional pottery or metalware."},
+        {"q": "Paper mâché is described as especially:", "opts": ["versatile, limited mainly by imagination", "extremely limited, with only one possible shape", "unable to be shaped at all", "only usable for a single object type"], "ans": 0, "explanation": "Because it can be moulded over almost any form, its versatility is limited only by the artist's imagination."},
+        {"q": "Paper mâché is compared to:", "opts": ["fabric that always stays soft", "metal that never hardens", "clay that starts its life as scrap paper", "a material with no comparison possible"], "ans": 2, "explanation": "Like clay, it is mouldable when wet and hardens when dry, but it uniquely begins as recycled paper."},
+        {"q": "The defining 'magic' of paper mâché is its transformation from:", "opts": ["invisible to visible", "liquid to gas", "soft and flexible to hard and durable", "hard to soft, permanently"], "ans": 2, "explanation": "The transition from a wet, pliable pulp to a hard, permanent structure is the core appeal of the craft."},
+        {"q": "A moulded animal figure is an example of a paper mâché:", "opts": ["carving craft only", "fabric craft", "weaving craft only", "sculptural product"], "ans": 3, "explanation": "Moulded figures fall under the category of sculptural products in paper craft."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w9_su2",
+      "title": "9.2 Processes of Modelling and Paper Mâché Preparation",
+      "notes": [
+        "Processes of Modelling and Paper Mâché Preparation",
+        "",
+        "Key Concepts:",
+        "1. Preparation Process:",
+        "   - Tearing paper into small strips or pieces (torn edges bond better than cut edges).",
+        "   - Preparing the paste by mixing starch or gum with water to the correct consistency.",
+        "   - Soaking the paper strips in the paste until thoroughly saturated and pliable.",
+        "",
+        "2. Modelling Process:",
+        "   - Building a basic frame or shape first (using a balloon, wire, or cardboard as an internal support/mould).",
+        "   - Applying layers of the pasted paper strips over the base, smoothing each layer to remove air bubbles.",
+        "   - Allowing partial drying between layers for thicker, sturdier pieces.",
+        "   - Allowing the finished piece to dry completely (often over 1-2 days) before painting or decorating.",
+        "",
+        "Nigerian Context:",
+        "   - In Nigerian art classrooms, students often use locally available materials like cassava starch or flour paste, and old newspapers, making paper mâché an accessible and eco-friendly craft for all students."
+      ],
+      "diagramDescriptions": ["Step-by-step visual guide to preparing and modelling paper mâché"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts processes of modelling paper mache preparation site:youtube.com",
+      "quiz": [
+        {"q": "Preparing paper mâché begins with:", "opts": ["tearing or shredding paper into small strips", "painting the paper first", "weaving the paper into fabric", "carving the paper with a knife"], "ans": 0, "explanation": "Tearing paper into strips is the first step, as torn edges bond more effectively than smooth, cut edges."},
+        {"q": "The paste used in paper mâché is typically made from:", "opts": ["metal shavings", "only dry flour, with no water", "fabric dye", "starch or gum mixed with water"], "ans": 3, "explanation": "Starch or gum mixed with water creates the adhesive binder needed to hold the paper fibres together."},
+        {"q": "Torn paper strips are generally preferred over cut strips because:", "opts": ["they dissolve faster in water", "their rough edges bond together more effectively", "they are impossible to use", "they are always a different colour"], "ans": 1, "explanation": "The irregular, fibrous edges of torn paper interlock and bond much more strongly than the smooth edges of cut paper."},
+        {"q": "Modelling with paper mâché typically begins with building:", "opts": ["the drying process, before any paper is applied", "nothing at all, applying paste directly to air", "the final decorative painting", "a basic frame or shape as a base"], "ans": 3, "explanation": "A base or frame (like a balloon or wire) is needed to give the paper mâché its initial structure."},
+        {"q": "A balloon, wire, or cardboard base can serve as:", "opts": ["an internal support/mould for the paper mâché shape", "a replacement for paper entirely", "the finished product, needing no paper", "a type of paste"], "ans": 0, "explanation": "These items act as a mould or armature over which the paper layers are built."},
+        {"q": "Each layer of pasted paper should be ___ to remove air bubbles and lumps.", "opts": ["ignored entirely", "burned", "left completely rough and unsmoothed", "smoothed"], "ans": 3, "explanation": "Smoothing ensures a strong, even surface without weak spots caused by trapped air."},
+        {"q": "A finished paper mâché piece needs ___ before painting or decorating.", "opts": ["immediate handling while still wet", "only a few seconds of drying", "no drying time at all", "complete drying time"], "ans": 3, "explanation": "Complete drying is essential; painting a wet piece will trap moisture and cause it to rot or lose its shape."},
+        {"q": "Using a wooden board and spatula helps to:", "opts": ["replace the need for paper entirely", "keep the messy paste process manageable and controlled", "speed up drying instantly", "make the process more chaotic"], "ans": 1, "explanation": "These tools help mix the paste evenly and apply it cleanly without making a mess."},
+        {"q": "Building a paper mâché object is compared to:", "opts": ["an unrelated random activity", "constructing a small building layer by layer", "an instant, single-step process", "a process needing no structure at all"], "ans": 1, "explanation": "Like building a house, it requires a foundation (frame) and careful layering (bricks/paper) to become strong."},
+        {"q": "Paste that is too watery can:", "opts": ["weaken the paper and slow drying", "make the object dry faster and stronger", "have no effect on the final result", "improve the bonding of paper strips"], "ans": 0, "explanation": "Too much water dilutes the adhesive, making the paper soggy and significantly extending the drying time."}
+      ]
+    },
+    {
+      "id": "jss1_cca_t1_w9_su3",
+      "title": "9.3 Practical Application and Care of Paper Mâché Objects",
+      "notes": [
+        "Practical Application and Care of Paper Mâché Objects",
+        "",
+        "Key Concepts:",
+        "1. Practical Application in Art:",
+        "   - Paper mâché is excellent for creating large, lightweight props for school plays, festival masquerades, or decorative masks.",
+        "   - It is cost-effective and allows for intricate detailing once dry and sanded.",
+        "",
+        "2. Finishing and Decorating:",
+        "   - Once completely dry, the surface can be sanded smooth.",
+        "   - It is then sealed with a primer or white paint before applying vibrant colours with acrylics or poster paints.",
+        "   - A clear varnish can be applied at the end to protect the paint and add a glossy finish.",
+        "",
+        "3. Care and Maintenance:",
+        "   - Paper mâché objects are NOT waterproof. They must be kept away from moisture, rain, or high humidity to prevent them from softening or moulding.",
+        "   - They should be handled gently and stored in dry, cool places.",
+        "",
+        "Nigerian Context:",
+        "   - During cultural festivals in Nigeria, lightweight paper mâché masks and headdresses are often used in dance performances because they are much easier to wear for long periods than heavy wooden carvings, while still allowing for beautiful, detailed painting."
+      ],
+      "diagramDescriptions": ["Diagram showing the finishing process: drying, sanding, priming, painting, and varnishing"],
+      "videoId": "",
+      "youtubeQuery": "JSS1 Cultural and Creative Arts practical application care of paper mache objects site:youtube.com",
+      "quiz": [
+        {"q": "Paper mâché is especially useful for creating large props for school plays because it is:", "opts": ["very heavy and dense", "lightweight and cost-effective", "completely waterproof", "impossible to paint"], "ans": 1, "explanation": "Its lightweight nature makes it easy to wear or move, and it is cheap to produce."},
+        {"q": "Before applying vibrant colours to a dry paper mâché object, it is best to:", "opts": ["leave it rough and unpainted", "sand it smooth and apply a primer or white paint", "soak it in water", "cover it with cloth"], "ans": 1, "explanation": "Sanding and priming create a smooth, uniform surface that helps the final colours appear bright and even."},
+        {"q": "A clear varnish applied at the end of the paper mâché process helps to:", "opts": ["make the object heavier", "protect the paint and add a glossy finish", "soften the paper", "change the shape of the object"], "ans": 1, "explanation": "Varnish acts as a protective sealant, enhancing durability and appearance."},
+        {"q": "Paper mâché objects must be kept away from moisture because:", "opts": ["they are completely waterproof", "moisture can cause them to soften, lose shape, or mould", "it makes the colours brighter", "it has no effect on them"], "ans": 1, "explanation": "Since the binder is water-soluble starch/gum, exposure to water will reverse the hardening process."},
+        {"q": "Which of these is a common use for paper mâché in Nigerian cultural festivals?", "opts": ["Heavy wooden furniture", "Lightweight masks and headdresses for dance performances", "Metal sculptures", "Glass vases"], "ans": 1, "explanation": "Lightweight paper mâché masks are easier and more comfortable to wear during long festival dances than heavy wood."},
+        {"q": "If a paper mâché object is stored in a damp, humid room, it is likely to:", "opts": ["become stronger", "develop mould or soften", "dry out completely", "change colour permanently"], "ans": 1, "explanation": "High humidity introduces moisture, which can lead to mould growth and structural weakening."},
+        {"q": "The best way to clean a finished, varnished paper mâché object is to:", "opts": ["submerge it in water", "scrub it with a wet sponge", "gently wipe it with a dry or slightly damp cloth", "use harsh chemical solvents"], "ans": 2, "explanation": "Gentle wiping prevents water from seeping into the paper layers and damaging the structure."},
+        {"q": "Why is cassava starch or flour paste commonly used in Nigerian schools for paper mâché?", "opts": ["It is expensive and imported", "It is locally available, cheap, and effective", "It is completely waterproof", "It dries instantly"], "ans": 1, "explanation": "Using locally available materials makes the craft accessible and affordable for all students."},
+        {"q": "Sanding a dry paper mâché object is done to:", "opts": ["make it thinner", "remove rough spots and create a smooth surface for painting", "add water to the surface", "weaken the structure"], "ans": 1, "explanation": "Sanding removes bumps and dried paste lumps, ensuring a professional-looking finish."},
+        {"q": "A student wants to make a paper mâché bowl. What should they use as a base mould?", "opts": ["A flat piece of paper", "An inflated balloon or an existing bowl covered in plastic wrap", "A block of wood", "A metal rod"], "ans": 1, "explanation": "An inflated balloon or an existing bowl provides the curved, three-dimensional shape needed for a bowl."}
+      ]
+    }
+  ],
+  "weeklyAssessment": [
+    {
+      "question": "Explain, in your own words, the meaning of paper mâché, including the French origin of the term.",
+      "markingGuide": "Clear definition (3); correct French origin explained (2)."
+    },
+    {
+      "question": "Name THREE objects that can be made from paper mâché.",
+      "markingGuide": "1.67 marks per correctly named, valid object (5 total)."
+    },
+    {
+      "question": "Describe how to prepare paper mâché, from tearing the paper to soaking it in paste.",
+      "markingGuide": "1.25 marks per correctly described preparation step (4 steps, 5 total)."
+    },
+    {
+      "question": "Describe the modelling process for creating a paper mâché object, from building a base to final drying.",
+      "markingGuide": "1 mark per correctly described step (5 total)."
+    },
+    {
+      "question": "Explain why paper mâché objects must be allowed to dry completely before painting or handling, using the 'building' analogy or your own example.",
+      "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."
+    }
+  ]
+}
