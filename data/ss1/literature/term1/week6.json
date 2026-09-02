@@ -1,0 +1,98 @@
+{
+    "course": "Literature in English",
+    "level": "SSS1",
+    "term": "First Term",
+    "week": 6,
+    "topic": "Poetic Devices",
+    "subUnits": [
+      {
+        "id": "sss1_lit_t1_w6_su1",
+        "title": "6.1 Rhyme, Rhythm, and Metre",
+        "notes": [
+          "Rhyme, Rhythm, and Metre",
+          "",
+          "Key Concepts:",
+          "1. RHYME:",
+          "   - The repetition of similar sounds at the END of lines (end rhyme) or within lines (internal rhyme).",
+          "   - RHYME SCHEME: the pattern of end rhymes, labelled with letters (e.g., ABAB, ABCABC).",
+          "   - PERFECT RHYME: identical vowel and final consonant sounds (e.g., 'cat/hat').",
+          "   - SLANT RHYME (half rhyme): approximate rhyme — similar but not identical sounds (e.g., 'worm/farm').",
+          "",
+          "2. RHYTHM:",
+          "   - The musical beat or pattern of stressed and unstressed syllables in poetry.",
+          "   - Even without strict metre, most poems have a recognisable rhythmic flow.",
+          "",
+          "3. METRE:",
+          "   - The formal, measurable pattern of stressed and unstressed syllables in a line.",
+          "   - Common metrical feet: IAMB (da-DUM), TROCHEE (DUM-da), ANAPEST (da-da-DUM), DACTYL (DUM-da-da).",
+          "   - Lines named by number of feet: PENTAMETER (5 feet), TETRAMETER (4 feet), HEXAMETER (6 feet).",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse RHYME SCHEME with RHYTHM — rhyme scheme is the pattern of end sounds; rhythm is the beat.",
+          "   - Do NOT assume metre is the same as rhythm — metre is the formal, counted pattern; rhythm is the overall musical flow."
+        ],
+        "diagramDescriptions": ["Diagram annotating stressed/unstressed syllables and labelling a poem's rhyme scheme"],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English rhyme rhythm metre iambic pentameter site:youtube.com",
+        "quiz": [
+          {"q": "END RHYME in poetry refers to:", "opts": ["Rhyming words within the same line", "The repetition of similar sounds at the end of lines", "The beat pattern of syllables", "An approximate, near-rhyme"], "ans": 1, "explanation": "End rhyme occurs when the last words of lines share similar sounds, creating a sense of completion and musicality."},
+          {"q": "SLANT RHYME (half rhyme) involves:", "opts": ["Identical vowel and consonant sounds", "No relationship between words' sounds", "Approximate rhyme — similar but not identical sounds", "Rhyming words within the same line"], "ans": 2, "explanation": "Slant rhyme creates an imperfect, approximate echo of sound — close enough to feel rhyme-like but not an exact match."},
+          {"q": "A RHYME SCHEME is:", "opts": ["The beat pattern of stressed and unstressed syllables", "The pattern of end rhymes in a poem, labelled with letters", "The number of syllables in each line", "The emotional tone of the poem"], "ans": 1, "explanation": "A rhyme scheme maps out the pattern of rhyming line endings using letter labels (A, B, C, etc.)."},
+          {"q": "RHYTHM in poetry refers to:", "opts": ["The formal, counted metrical pattern only", "The pattern of stressed and unstressed syllables creating a musical beat", "The rhyme scheme of the poem", "The length of the poem"], "ans": 1, "explanation": "Rhythm is the underlying musical pulse of a poem — the pattern of stressed and unstressed syllables giving it movement."},
+          {"q": "METRE differs from rhythm in that metre:", "opts": ["Is informal and uncounted", "Is the formal, measurable, counted pattern of syllables — rhythm is the overall musical feel", "Only applies to prose", "Is the same as rhyme scheme"], "ans": 1, "explanation": "Metre is the strict, counted formal pattern; rhythm is the broader musical effect created by the poem's syllable patterns."},
+          {"q": "IAMBIC PENTAMETER consists of:", "opts": ["4 dactylic feet per line", "5 iambic feet per line (da-DUM x 5 = 10 syllables)", "3 trochaic feet per line", "6 anapestic feet per line"], "ans": 1, "explanation": "Iambic pentameter has five iambs (da-DUM) per line, totalling 10 syllables — the most common metre in English poetry."},
+          {"q": "A TROCHEE is a metrical foot consisting of:", "opts": ["An unstressed followed by a stressed syllable (da-DUM)", "A stressed followed by two unstressed syllables (DUM-da-da)", "Two unstressed followed by one stressed syllable (da-da-DUM)", "A stressed followed by an unstressed syllable (DUM-da)"], "ans": 3, "explanation": "A trochee reverses the iamb — it is a stressed syllable followed by an unstressed one (DUM-da)."},
+          {"q": "INTERNAL RHYME occurs when:", "opts": ["Words at the end of two different lines rhyme", "A word within a line rhymes with another word within the same or adjacent line", "No words in the poem rhyme", "Only the first and last lines rhyme"], "ans": 1, "explanation": "Internal rhyme places rhyming words inside lines rather than only at their ends, creating additional musical texture."},
+          {"q": "PENTAMETER means a line has:", "opts": ["Four feet", "Five feet", "Six feet", "Seven feet"], "ans": 1, "explanation": "Penta- means five — pentameter lines contain five metrical feet."},
+          {"q": "'cat' and 'hat' are an example of:", "opts": ["Slant rhyme", "Internal rhyme only", "Perfect (exact) rhyme", "No rhyme"], "ans": 2, "explanation": "'Cat' and 'hat' share identical vowel (a) and final consonant (t) sounds — making them a perfect rhyme."}
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w6_su2",
+        "title": "6.2 Stanza, Poetic Licence, and Poetic Persona",
+        "notes": [
+          "Stanza, Poetic Licence, and Poetic Persona",
+          "",
+          "Key Concepts:",
+          "1. STANZA:",
+          "   - A grouped set of lines within a poem, separated by a blank line — the poem's equivalent of a paragraph.",
+          "   - Named by number of lines: COUPLET (2), TERCET (3), QUATRAIN (4), QUINTET (5), SESTET (6), OCTET (8).",
+          "",
+          "2. POETIC LICENCE:",
+          "   - The freedom a poet takes to deviate from standard grammar, spelling, syntax, or factual accuracy for artistic effect.",
+          "   - Examples: inverted word order ('silent the forest grew'), non-standard punctuation, invented words.",
+          "",
+          "3. POETIC PERSONA:",
+          "   - The speaker constructed by the poet for a poem — the 'I' of the poem.",
+          "   - The persona may be very different from the poet — it can be a historical figure, a fictional character, or a voice the poet invents.",
+          "   - Understanding the persona is essential to interpreting the poem's meaning and tone.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse STANZA with VERSE — 'verse' can refer to a single line or to poetry generally; 'stanza' specifically refers to a grouped set of lines.",
+          "   - Do NOT assume POETIC LICENCE means a poet can write anything carelessly — it is a deliberate artistic choice, not an excuse for bad writing."
+        ],
+        "diagramDescriptions": ["Annotated poem showing stanza divisions, labelling couplet, quatrain, and sestet examples"],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English stanza poetic licence persona speaker in a poem site:youtube.com",
+        "quiz": [
+          {"q": "A STANZA in poetry is:", "opts": ["A single line of a poem", "An individual word chosen carefully by the poet", "A grouped set of lines within a poem, separated by a blank line", "The entire poem as a whole"], "ans": 2, "explanation": "A stanza is a grouped set of lines — the structural unit of a poem, equivalent to a paragraph in prose."},
+          {"q": "A QUATRAIN is a stanza of:", "opts": ["Two lines", "Three lines", "Four lines", "Six lines"], "ans": 2, "explanation": "A quatrain has four lines — it is the most common stanza form in English poetry."},
+          {"q": "A COUPLET consists of:", "opts": ["Two lines, often rhyming", "Four lines", "Six lines", "Eight lines"], "ans": 0, "explanation": "A couplet is a two-line stanza — in many traditions, the lines rhyme with each other."},
+          {"q": "POETIC LICENCE refers to:", "opts": ["A formal qualification earned by poets", "The freedom to deviate from standard grammar or syntax for deliberate artistic effect", "The legal right to publish poems", "Following all rules of standard English perfectly"], "ans": 1, "explanation": "Poetic licence is the artistic freedom to break language conventions when doing so serves the poem's meaning or beauty."},
+          {"q": "An example of poetic licence is:", "opts": ["Using perfect standard grammar throughout", "Copying another poem exactly", "Writing 'silent the forest grew' instead of 'the forest grew silent' — inverting word order for effect", "Avoiding all figurative language"], "ans": 2, "explanation": "Inverted word order (hyperbaton) is a common use of poetic licence — placing emphasis and creating rhythmic variety."},
+          {"q": "The POETIC PERSONA is:", "opts": ["Always the poet themselves", "The speaker constructed by the poet for the poem — who may differ greatly from the poet", "The main character of the poem's narrative", "The audience addressed by the poem"], "ans": 1, "explanation": "The persona is the voice of the poem — a literary construct that may be very different from the biographical poet."},
+          {"q": "Understanding the persona of a poem is important because:", "opts": ["It reveals the poet's exact personal biography", "It is irrelevant to interpretation", "It helps the reader interpret the poem's tone, viewpoint, and meaning correctly", "The persona is always obvious and needs no analysis"], "ans": 2, "explanation": "Knowing who is speaking, from what position, and with what emotional stance is essential to correct poetic interpretation."},
+          {"q": "A SESTET is a stanza of:", "opts": ["Four lines", "Five lines", "Six lines", "Eight lines"], "ans": 2, "explanation": "A sestet has six lines — it forms the second part of a Petrarchan sonnet."},
+          {"q": "Poetic licence is NOT an excuse for careless writing because:", "opts": ["Poets never break rules", "It is a deliberate artistic choice made for specific effect — not accidental poor writing", "All grammar rules can always be freely broken", "Good poems never use standard grammar"], "ans": 1, "explanation": "Poetic licence is intentional — every deliberate deviation from convention should serve a clear artistic purpose."},
+          {"q": "An OCTET is a stanza of:", "opts": ["Four lines", "Six lines", "Seven lines", "Eight lines"], "ans": 3, "explanation": "An octet has eight lines — it forms the first part of a Petrarchan sonnet."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Explain the difference between rhyme and rhythm in poetry.", "markingGuide": "Clear, accurate distinction with examples (5, holistic)."},
+      {"question": "Explain the difference between metre and rhythm.", "markingGuide": "Clear, accurate distinction (5, holistic)."},
+      {"question": "Name SIX types of stanza by their number of lines.", "markingGuide": "0.83 marks per correctly named stanza type with line count (6 types, 5 total)."},
+      {"question": "Explain poetic licence and give TWO examples of how a poet might use it.", "markingGuide": "Clear definition (2); valid example (1.5 each, 3 total) = 5 total."},
+      {"question": "Explain the importance of identifying the poetic persona when studying a poem.", "markingGuide": "Clear, thoughtful explanation (5, holistic)."}
+    ]
+  }

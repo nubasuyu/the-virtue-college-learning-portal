@@ -1,0 +1,130 @@
+{
+    "course": "Literature in English",
+    "level": "SSS1",
+    "term": "First Term",
+    "week": 5,
+    "topic": "Genres of Literature III — Poetry",
+    "subUnits": [
+      {
+        "id": "sss1_lit_t1_w5_su1",
+        "title": "5.1 Definitions and Characteristics of Poetry",
+        "notes": [
+          "Definitions and Characteristics of Poetry",
+          "",
+          "Key Concepts:",
+          "1. Definition:",
+          "   - POETRY is a form of literature that uses concentrated, rhythmic, and often figurative language to express ideas, emotions, and experiences in a compact and musical form.",
+          "   - It is the oldest of the three literary genres.",
+          "",
+          "2. Characteristics of Poetry:",
+          "   - Written in VERSE (lines and stanzas), not continuous paragraphs.",
+          "   - Uses RHYTHM and sometimes RHYME to create musicality.",
+          "   - Employs FIGURATIVE LANGUAGE (simile, metaphor, personification etc.).",
+          "   - Is more COMPRESSED than prose — every word is carefully chosen.",
+          "   - Often written from the perspective of a PERSONA (the speaker in the poem).",
+          "   - Uses LINE BREAKS deliberately to create emphasis and meaning.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume all poems must rhyme — free verse poems have no rhyme scheme.",
+          "   - Do NOT confuse the POET with the PERSONA — the speaker in a poem is not automatically the poet themselves."
+        ],
+        "diagramDescriptions": ["Diagram annotating a poem: lines, stanzas, rhyme, rhythm, figurative language"],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English definition characteristics of poetry site:youtube.com",
+        "quiz": [
+          {"q": "Poetry is distinguished from prose by its use of:", "opts": ["Continuous paragraphs", "Acts and scenes", "Verse — lines and stanzas", "Dialogue only"], "ans": 2, "explanation": "Poetry is structured in lines and stanzas (verse), as opposed to the continuous paragraphs of prose."},
+          {"q": "Which of the following is a characteristic of poetry?", "opts": ["Long, flowing narrative paragraphs", "Division into acts and scenes", "Stage directions guiding performance", "Compressed, rhythmic language with deliberate line breaks"], "ans": 3, "explanation": "Poetry uses concentrated, rhythmic language where every word and line break carries deliberate meaning."},
+          {"q": "The PERSONA in a poem refers to:", "opts": ["The poet themselves", "The main character in a prose novel", "The speaker in the poem — who may or may not be the poet", "The antagonist of the poem"], "ans": 2, "explanation": "The persona is the voice speaking in the poem — the speaker should not be automatically assumed to be the poet."},
+          {"q": "It is a mistake to assume all poems must rhyme because:", "opts": ["All poems do rhyme", "Free verse poetry has no rhyme scheme but is still valid poetry", "Rhyme is the only feature that makes something a poem", "Non-rhyming writing is always prose"], "ans": 1, "explanation": "Free verse is a legitimate and widely used poetic form that deliberately avoids a fixed rhyme scheme."},
+          {"q": "Poetry is described as the OLDEST of the three literary genres because:", "opts": ["It was invented after prose and drama", "Its oral, rhythmic forms predate written literature", "It is the easiest to write", "It is less important than prose and drama"], "ans": 1, "explanation": "Poetry's roots in oral tradition — chants, songs, and storytelling — make it the oldest of the literary genres."},
+          {"q": "The deliberate use of LINE BREAKS in poetry serves to:", "opts": ["Indicate the end of the poem", "Create emphasis, pause, and meaning", "Show where a new character speaks", "Replace punctuation entirely"], "ans": 1, "explanation": "Poets use line breaks strategically — they control pace, create pauses, and generate emphasis and ambiguity."},
+          {"q": "Poetry is described as more COMPRESSED than prose because:", "opts": ["It uses fewer characters", "Every word is carefully chosen to carry maximum meaning in minimum space", "It is always shorter than novels", "It avoids all figurative language"], "ans": 1, "explanation": "Poetic compression means that poems pack intense meaning, emotion, and imagery into far fewer words than prose."},
+          {"q": "Figurative language in poetry includes:", "opts": ["Acts and scenes", "Stanzas and verses", "Simile, metaphor, and personification", "Narrative paragraphs"], "ans": 2, "explanation": "Figurative language — simile, metaphor, personification, and others — is a defining feature of poetic expression."},
+          {"q": "It is a mistake to confuse the POET with the PERSONA because:", "opts": ["The poet and the persona are always the same person", "The speaker in a poem is a literary construct who may differ from the actual poet", "Poems never have a speaking voice", "The persona is always fictional and the poet is always real"], "ans": 1, "explanation": "The persona is the constructed voice of the poem — poets frequently create speakers very different from themselves."},
+          {"q": "Which feature does poetry share with music?", "opts": ["Stage directions", "Narrative paragraphs", "Dialogue between characters", "Rhythm and sometimes rhyme"], "ans": 3, "explanation": "Poetry shares rhythm and rhyme with music — these sonic qualities give poetry its characteristic musicality."}
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w5_su2",
+        "title": "5.2 Types of Poetry",
+        "notes": [
+          "Types of Poetry",
+          "",
+          "Key Concepts:",
+          "1. LYRIC Poetry: expresses personal emotions and feelings — short, musical, written in first person (e.g., odes, elegies, sonnets).",
+          "2. NARRATIVE Poetry: tells a story — has characters, plot, and setting in verse form (e.g., epics, ballads).",
+          "3. DRAMATIC Poetry: written in the voice of a character (persona), similar to a dramatic monologue (e.g., Browning's dramatic monologues).",
+          "4. EPIC: a long narrative poem celebrating a hero's journey and great deeds (e.g., Homer's Odyssey, Sundiata).",
+          "5. BALLAD: a traditional narrative poem meant to be sung — often about love, tragedy, or adventure.",
+          "6. ODE: a formal lyric poem in praise or celebration of a subject.",
+          "7. ELEGY: a lyric poem mourning the death of someone or lamenting loss.",
+          "8. SONNET: a 14-line lyric poem, often following strict rhyme and metre schemes (Petrarchan or Shakespearean).",
+          "9. FREE VERSE: poetry without fixed rhyme, metre, or stanza pattern.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT confuse an ODE (celebratory) with an ELEGY (mournful).",
+          "   - Do NOT assume NARRATIVE poetry is the same as prose — it tells a story in verse."
+        ],
+        "diagramDescriptions": ["Classification chart: Lyric, Narrative, and Dramatic poetry with sub-types under each"],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English types of poetry lyric narrative dramatic sonnet elegy ode site:youtube.com",
+        "quiz": [
+          {"q": "LYRIC poetry primarily:", "opts": ["Tells a long story about a hero", "Expresses personal emotions and feelings in a musical, usually short form", "Is written to be performed as a play", "Always mourns the death of someone"], "ans": 1, "explanation": "Lyric poetry is subjective and emotional — its primary purpose is to express personal feelings."},
+          {"q": "NARRATIVE poetry:", "opts": ["Only expresses emotions without telling a story", "Has no characters", "Tells a story with characters, plot, and setting, in verse form", "Is always fewer than 14 lines"], "ans": 2, "explanation": "Narrative poetry tells a story in verse — it has characters, events, and a narrative arc, like prose but in poetic form."},
+          {"q": "An EPIC is:", "opts": ["A short, 14-line lyric poem", "A poem mourning someone's death", "A long narrative poem celebrating a hero's journey and great deeds", "A poem written without any rhyme scheme"], "ans": 2, "explanation": "An epic is an extended narrative poem celebrating heroic figures and grand events — often foundational to a culture's literary tradition."},
+          {"q": "A BALLAD is:", "opts": ["A formal lyric poem of celebration", "A 14-line lyric poem with strict rhyme and metre", "A poem mourning loss", "A traditional narrative poem meant to be sung, often about love, tragedy, or adventure"], "ans": 3, "explanation": "Ballads are story-poems rooted in oral tradition — they were sung and typically deal with dramatic subjects."},
+          {"q": "An ODE is best described as:", "opts": ["A poem mourning someone's death", "A formal lyric poem in praise or celebration of a subject", "A poem with no rhyme or metre", "A long narrative poem about a hero"], "ans": 1, "explanation": "An ode is a celebratory, formal lyric poem — it praises or honours its subject."},
+          {"q": "An ELEGY is:", "opts": ["A celebratory poem of praise", "A poem telling a hero's story", "A lyric poem mourning death or lamenting loss", "A poem with exactly 14 lines"], "ans": 2, "explanation": "An elegy is a mournful lyric — it mourns the death of a person or reflects on loss and grief."},
+          {"q": "A SONNET has:", "opts": ["No fixed length", "Exactly 14 lines, often with strict rhyme and metre", "Between 20 and 30 lines", "No rhyme scheme whatsoever"], "ans": 1, "explanation": "A sonnet is a 14-line lyric poem — the two main forms are the Petrarchan (Italian) and Shakespearean (English) sonnets."},
+          {"q": "FREE VERSE poetry is characterised by:", "opts": ["A strict 14-line structure", "Being always celebratory in tone", "Telling a story about a hero's journey", "No fixed rhyme, metre, or stanza pattern"], "ans": 3, "explanation": "Free verse is liberated from formal constraints — it has no fixed rhyme scheme, metre, or stanza pattern."},
+          {"q": "DRAMATIC poetry:", "opts": ["Is performed on stage with full stage directions", "Is written in the voice of a character, similar to a dramatic monologue", "Always tells a long narrative story", "Is the same as a ballad"], "ans": 1, "explanation": "Dramatic poetry is delivered through a persona or character voice — Robert Browning's dramatic monologues are classic examples."},
+          {"q": "It is a mistake to confuse an ode with an elegy because:", "opts": ["Both are celebratory", "Both mourn loss", "An ode celebrates; an elegy mourns — they are opposite in emotional purpose", "They are exactly the same type of poem"], "ans": 2, "explanation": "The ode and elegy are emotional opposites: odes celebrate and praise, elegies mourn and lament."}
+        ]
+      },
+      {
+        "id": "sss1_lit_t1_w5_su3",
+        "title": "5.3 Further Poetic Forms",
+        "notes": [
+          "Further Poetic Forms",
+          "",
+          "Key Concepts:",
+          "1. HAIKU: a Japanese form of poetry — 3 lines, with a 5-7-5 syllable structure. Captures a moment, often in nature.",
+          "2. LIMERICK: a humorous 5-line poem with an AABBA rhyme scheme.",
+          "3. BLANK VERSE: unrhymed poetry in iambic pentameter (10 syllables per line, alternating unstressed and stressed).",
+          "4. ACROSTIC: a poem in which the first letter of each line spells a word or message.",
+          "5. VILLANELLE: a 19-line poem with two repeating refrains and a strict structure (e.g., Dylan Thomas's 'Do Not Go Gentle into That Good Night').",
+          "6. CONCRETE / SHAPE POETRY: poetry arranged on the page to form a visual shape related to the poem's subject.",
+          "",
+          "Nigerian Poetic Traditions:",
+          "   - Nigeria has rich oral poetic traditions including IJALA (Yoruba hunters' chants), RARA (Yoruba lamentation poetry), and PRAISE POETRY (found across many Nigerian cultures).",
+          "   - These forms share the qualities of rhythm, imagery, and emotional expression with the written forms above.",
+          "",
+          "Common Mistakes:",
+          "   - Do NOT assume BLANK VERSE has no form — it has strict iambic pentameter, just no rhyme.",
+          "   - Do NOT confuse BLANK VERSE with FREE VERSE — blank verse has strict metre; free verse has neither rhyme nor fixed metre."
+        ],
+        "diagramDescriptions": ["Examples of haiku, limerick, blank verse, and shape poetry with annotations"],
+        "videoId": "",
+        "youtubeQuery": "SSS1 Literature in English further poetic forms haiku limerick blank verse villanelle site:youtube.com",
+        "quiz": [
+          {"q": "A HAIKU has:", "opts": ["14 lines with strict rhyme", "5 lines with AABBA rhyme", "19 lines with two repeating refrains", "3 lines with a 5-7-5 syllable structure"], "ans": 3, "explanation": "A haiku is a compact Japanese form — three lines with five, seven, and five syllables respectively."},
+          {"q": "A LIMERICK is characterised by:", "opts": ["3 lines and 5-7-5 syllables", "14 lines with strict rhyme and metre", "5 humorous lines with an AABBA rhyme scheme", "19 lines with two repeating refrains"], "ans": 2, "explanation": "A limerick has five lines (AABBA rhyme) and is typically comic or nonsensical in tone."},
+          {"q": "BLANK VERSE differs from FREE VERSE in that:", "opts": ["Blank verse has neither rhyme nor metre", "Free verse has strict metre but no rhyme", "Blank verse has strict iambic pentameter but no rhyme; free verse has neither fixed rhyme nor metre", "They are exactly the same form"], "ans": 2, "explanation": "Blank verse is metrically strict (iambic pentameter) but unrhymed; free verse is liberated from both rhyme and fixed metre."},
+          {"q": "An ACROSTIC poem is one where:", "opts": ["The last letter of each line spells a word", "The first letter of each line spells a word or message when read downward", "Each line has exactly the same number of syllables", "It has no fixed form whatsoever"], "ans": 1, "explanation": "In an acrostic, the initial letters of each line, read vertically, spell out a word, name, or message."},
+          {"q": "A VILLANELLE is characterised by:", "opts": ["3 lines with a 5-7-5 syllable structure", "14 lines with strict rhyme and metre", "5 lines with AABBA rhyme", "19 lines with two repeating refrains and a strict structure"], "ans": 3, "explanation": "The villanelle has 19 lines with a complex structure of repeating refrains — Dylan Thomas's 'Do Not Go Gentle' is a famous example."},
+          {"q": "CONCRETE or SHAPE POETRY is poetry that:", "opts": ["Has no words, only shapes", "Is arranged on the page to form a visual shape related to the poem's subject", "Always consists of exactly one stanza", "Must rhyme"], "ans": 1, "explanation": "Shape poetry uses the visual arrangement of the text on the page to reinforce or represent the poem's subject."},
+          {"q": "IAMBIC PENTAMETER means:", "opts": ["10 syllables per line with alternating unstressed-stressed pattern", "7 syllables per line with any rhythm", "14 lines with a fixed rhyme scheme", "3 lines of 5-7-5 syllables"], "ans": 0, "explanation": "Iambic pentameter has 10 syllables per line, alternating between an unstressed and a stressed syllable (da-DUM x5)."},
+          {"q": "IJALA, found in Yoruba tradition, is an example of:", "opts": ["A written formal ode", "A 14-line sonnet", "An oral poetic tradition — Yoruba hunters' chants", "A haiku translated into Yoruba"], "ans": 2, "explanation": "Ijala is a rich oral poetic tradition of the Yoruba people — performed by hunters and rich in imagery and cultural references."},
+          {"q": "It is a mistake to assume blank verse has no form because:", "opts": ["Blank verse has rhyme but no metre", "Blank verse has strict iambic pentameter — it is only unrhymed, not formless", "Blank verse has no syllable pattern at all", "Blank verse and free verse are the same"], "ans": 1, "explanation": "Blank verse is metrically disciplined (iambic pentameter) — it simply does not use end rhyme."},
+          {"q": "PRAISE POETRY, found across many Nigerian cultures, shares which qualities with written poetic forms?", "opts": ["It has no rhythm or imagery", "It shares rhythm, imagery, and emotional expression with written poetry", "It is always written and never oral", "It only praises political leaders"], "ans": 1, "explanation": "Praise poetry across Nigerian cultures is rich in the same core qualities as any other poetry — rhythm, imagery, and emotional power."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Define poetry and state THREE of its characteristics.", "markingGuide": "Correct definition (2); 1 mark per characteristic (3 characteristics, 3 total) = 5 total."},
+      {"question": "Distinguish between lyric, narrative, and dramatic poetry, giving an example of each.", "markingGuide": "Correct distinction for each type with example (1.67 each, 5 total)."},
+      {"question": "Explain the difference between an ode and an elegy.", "markingGuide": "Clear, accurate distinction (5, holistic)."},
+      {"question": "Distinguish between blank verse and free verse.", "markingGuide": "Clear, accurate distinction with examples (5, holistic)."},
+      {"question": "Explain the importance of oral poetic traditions in Nigerian culture, using ONE specific example.", "markingGuide": "Clear explanation with a valid specific example (5, holistic)."}
+    ]
+  }
