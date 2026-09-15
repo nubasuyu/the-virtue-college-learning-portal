@@ -1,0 +1,65 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 6,
+    "topic": "Parler des Gens que l'on Admire Beaucoup (Talking About People We Greatly Admire)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w6_su1",
+        "title": "6.1 Vocabulaire et les Verbes Aimer et Admirer",
+        "notes": [
+          "Vocabulaire et les Verbes Aimer et Admirer",
+          "",
+          "By the end of this lesson, you will be able to: describe qualities admired in others, and use the verb admirer alongside aimer.",
+          "",
+          "Key Concepts:",
+          "1. Admired Qualities (reviewed and new):",
+          "   - REVIEWED: bon(ne) (good), gentil(le) (kind), honnête (honest — unchanging), intelligent(e) (intelligent)",
+          "   - NEW: prudent(e) (careful/prudent)",
+          "",
+          "2. New Verb — Admirer (to admire):",
+          "   - ADMIRER follows the regular '-ER' pattern: j'admire, tu admires, il/elle admire, nous admirons, vous admirez, ils/elles admirent",
+          "   - Combined with AIMER: J'aime bien mon professeur (I like my teacher — general) vs. J'admire son intelligence (I admire his/her intelligence — specific quality)",
+          "   - J'admire + [NOUN form of quality]: j'admire son honnêteté, j'admire sa gentillesse",
+          "",
+          "3. Aimer vs. Admirer:",
+          "   - AIMER: general warm liking for a PERSON as a whole",
+          "   - ADMIRER: focused praise of a SPECIFIC quality in that person",
+          "",
+          "Formula Box:",
+          "   admirer: j'admire | tu admires | il/elle admire | nous admirons | vous admirez | ils/elles admirent",
+          "   j'admire + [noun quality]: j'admire son honnêteté (I admire his/her honesty)",
+          "   j'admire la [quality] de [person]: j'admire la gentillesse de ma mère",
+          "",
+          "Analogy:",
+          "   Admirer is a more SPECIFIC, focused cousin of aimer: while 'aimer' expresses general warm liking for a PERSON, 'admirer' zooms in like a CAMERA LENS on one PARTICULAR quality you find genuinely impressive.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Confusing 'aimer' (general liking of a person) with 'admirer' (focused praise of a specific quality).",
+          "   - Treating 'admirer' as an irregular verb requiring separate memorisation — it is a regular -ER verb."
+        ],
+        "diagramDescriptions": ["Camera lens analogy diagram: aimer = wide shot (whole person), admirer = close-up (specific quality)", "Vocabulary table of admired qualities with forms"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language admirer aimer admired qualities site:youtube.com",
+        "quiz": [
+          {"q": "What does 'prudent(e)' mean?", "opts": ["Careful/prudent", "Mean", "Careless", "Boring"], "ans": 0, "explanation": "'Prudent(e)' means careful or prudent — feminine adds -e: prudente."},
+          {"q": "What does 'admirer' mean?", "opts": ["To hate", "To forget", "To admire", "To like generally"], "ans": 2, "explanation": "'Admirer' means 'to admire' — it focuses on a specific quality, unlike the more general 'aimer.'"},
+          {"q": "What is the correct conjugation of 'admirer' for 'je' (I)?", "opts": ["admirons", "admirent", "admires", "admire"], "ans": 3, "explanation": "'J'admire' — regular -ER pattern (note j' before vowel). Not 'je admire.'"},
+          {"q": "What is the correct conjugation of 'admirer' for 'ils/elles'?", "opts": ["admirent", "admirons", "admirez", "admire"], "ans": 0, "explanation": "'Ils/elles admirent' — regular -ER pattern, -ent ending for ils/elles."},
+          {"q": "What is the general difference between 'aimer' and 'admirer'?", "opts": ["Admirer is used only for objects, never people", "Aimer expresses general liking of a person; admirer focuses on a specific admired quality", "They mean exactly the same, with no difference", "Aimer is a stronger feeling than admirer"], "ans": 1, "explanation": "'Aimer' is for general liking of a whole person; 'admirer' zooms in on a particular quality you find impressive."},
+          {"q": "How would you say 'I admire my mother's kindness'?", "opts": ["J'admire gentille ma mère", "J'aime la gentillesse de ma mère seulement", "J'admire de la gentillesse ma mère", "J'admire la gentillesse de ma mère"], "ans": 3, "explanation": "Use 'j'admire' + 'la [quality]' + 'de [person]': 'j'admire la gentillesse de ma mère.'"},
+          {"q": "Admirer is compared to ___ in this week's analogy.", "opts": ["an unrelated random comparison", "a camera lens zooming in on one particular quality", "a camera with no focus capability at all", "a lens that only ever sees the whole picture, never a detail"], "ans": 1, "explanation": "Just as a camera lens can zoom in on one specific detail, 'admirer' focuses on one particular quality rather than the whole person."},
+          {"q": "What type of verb is 'admirer'?", "opts": ["A verb with no fixed pattern", "An irregular verb like avoir", "An irregular verb like être", "A regular '-ER' verb"], "ans": 3, "explanation": "'Admirer' is a regular -ER verb — conjugate it exactly as you would 'aimer' or 'adorer.'"},
+          {"q": "How would you say 'he is a careful driver'?", "opts": ["Il est un chauffeur prudent", "Il est chauffeur prudente", "Il est un chauffeur prudente", "Il a un chauffeur prudent"], "ans": 0, "explanation": "'Il est un chauffeur prudent' — note: when an adjective follows the noun, the article (un) IS used. The no-article rule applies only to être + profession alone."},
+          {"q": "This week's vocabulary once again draws heavily on ___.", "opts": ["entirely new, unrelated words with no connection to prior learning", "vocabulary unrelated to admiration", "words met in earlier terms, reinforcing them cumulatively", "a completely different grammatical system"], "ans": 2, "explanation": "Most of this week's quality vocabulary (bon, gentil, honnête, intelligent) comes from earlier terms — genuine fluency is built through cumulative reinforcement."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'careful/prudent,' 'kind,' 'honest,' 'intelligent.'", "markingGuide": "1.25 marks per correctly translated term (4 items, 5 total)."},
+      {"question": "Conjuguez le verbe 'admirer' au présent avec tous les pronoms sujets.", "markingGuide": "0.83 marks per correctly conjugated form (6 forms, 5 total)."},
+      {"question": "Expliquez la différence entre 'aimer' et 'admirer,' avec un exemple de chaque.", "markingGuide": "Clear explanation (3); valid examples for both (2)."},
+      {"question": "Traduisez: 'I admire my father's intelligence. She is a kind and careful teacher.'", "markingGuide": "2.5 marks each for a correctly translated, correctly agreed sentence."},
+      {"question": "Rédaction: écrivez une courte rédaction (3 phrases minimum) sur une personnalité célèbre que vous admirez, expliquant pourquoi.", "markingGuide": "Three grammatically correct sentences using appropriate vocabulary, verbs, and reasoning (5, holistic)."}
+    ]
+  }

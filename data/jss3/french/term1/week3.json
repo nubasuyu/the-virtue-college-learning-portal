@@ -1,0 +1,63 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 3,
+    "topic": "Parler de ce qui se Passe dans les Professions (Talking About What Happens in Professions)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w3_su1",
+        "title": "3.1 Les Métiers et Leur Fonction",
+        "notes": [
+          "Les Métiers et Leur Fonction",
+          "",
+          "By the end of this lesson, you will be able to: describe the function or role of different professions in society.",
+          "",
+          "Key Concepts:",
+          "1. Connecting Professions to Their Characteristic Actions:",
+          "   - l'infirmier(ère) SOIGNE les malades à l'hôpital (the nurse cares for the sick at the hospital)",
+          "   - le médecin EXAMINE les patients (the doctor examines patients)",
+          "   - le mécanicien RÉPARE les voitures (the mechanic repairs cars)",
+          "   - le pilote CONDUIT l'avion (the pilot flies/drives the plane)",
+          "   - le journaliste ÉCRIT des articles (the journalist writes articles)",
+          "",
+          "2. Key New Verb — Soigner (a regular -ER verb):",
+          "   - SOIGNER (to care for/treat) follows the SAME familiar pattern as aimer and détester.",
+          "   - RÉPARER (to repair) also follows this pattern.",
+          "   - Note: ÉCRIRE (to write) is irregular — take care with its conjugation.",
+          "",
+          "Formula Box:",
+          "   [profession] + [verb] + [object]: le médecin examine les patients",
+          "   soigner: je soigne | tu soignes | il/elle soigne | nous soignons | vous soignez | ils/elles soignent",
+          "",
+          "Analogy:",
+          "   Connecting a profession to its characteristic action is like matching an actor to their signature role: knowing an actor's NAME alone tells you little, but knowing the SPECIFIC role they are famous for playing brings them vividly to life — similarly, knowing 'l'infirmier(ère)' as a word is useful, but knowing 'l'infirmier(ère) SOIGNE LES MALADES' brings the profession genuinely to life.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Learning profession vocabulary in isolation, without connecting each profession to its CHARACTERISTIC action.",
+          "   - Forgetting to conjugate the new '-ER' verb (soigner, réparer) correctly for the subject being described."
+        ],
+        "diagramDescriptions": ["Matching exercise diagram: professions on the left, actions on the right", "Sentence-building template: [Profession] + [verb] + [object]"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language professions functions soigner réparer site:youtube.com",
+        "quiz": [
+          {"q": "What does 'soigner' mean?", "opts": ["To repair", "To fly/drive", "To write", "To care for/treat"], "ans": 3, "explanation": "'Soigner' means 'to care for' or 'to treat' (as in treating sick people at a hospital)."},
+          {"q": "Who 'soigne les malades à l'hôpital' (cares for the sick at the hospital)?", "opts": ["L'infirmier(ère)", "Le mécanicien", "Le journaliste", "Le pilote"], "ans": 0, "explanation": "'L'infirmier(ère) soigne les malades à l'hôpital' — the nurse cares for sick people at the hospital."},
+          {"q": "What does 'le médecin examine' typically?", "opts": ["Les articles", "Les patients", "Les avions", "Les voitures"], "ans": 1, "explanation": "'Le médecin examine les patients' — the doctor examines patients."},
+          {"q": "What does 'le mécanicien répare'?", "opts": ["Les articles", "Les avions", "Les voitures", "Les patients"], "ans": 2, "explanation": "'Le mécanicien répare les voitures' — the mechanic repairs cars."},
+          {"q": "What does 'le journaliste écrit'?", "opts": ["Des articles", "Des avions", "Des malades", "Des voitures"], "ans": 0, "explanation": "'Le journaliste écrit des articles' — the journalist writes articles."},
+          {"q": "What does 'le pilote conduit'?", "opts": ["L'avion", "Les voitures", "Les malades", "Les articles"], "ans": 0, "explanation": "'Le pilote conduit l'avion' — the pilot flies/drives the plane."},
+          {"q": "What type of verb is 'soigner'?", "opts": ["An irregular verb like être", "A verb with no fixed pattern", "A regular '-ER' verb", "An irregular verb like avoir"], "ans": 2, "explanation": "'Soigner' is a regular -ER verb and conjugates exactly like aimer and détester."},
+          {"q": "How would you say 'the nurse cares for the sick at the hospital'?", "opts": ["L'infirmier(ère) soigne les malades à l'hôpital", "L'infirmier(ère) a soigné les malades hôpital", "L'infirmier(ère) est les malades à l'hôpital", "L'infirmier(ère) soigne les malades au hôpital"], "ans": 0, "explanation": "The correct sentence uses 'soigne' (conjugated for il/elle) and 'à l'hôpital' (not 'au hôpital' — 'hôpital' starts with a vowel sound, so 'à l'' is used)."},
+          {"q": "Connecting a profession to its action is compared to ___ in this week's analogy.", "opts": ["a connection with no real educational value", "knowing only an actor's name, with nothing further", "matching an actor to their signature role", "an unrelated random comparison"], "ans": 2, "explanation": "Knowing a profession's characteristic action brings it to life, just as knowing an actor's famous role brings them to life beyond just their name."},
+          {"q": "Learning profession-plus-function sentences moves beyond simple vocabulary toward ___.", "opts": ["knowledge unrelated to real life", "confusion about professions", "real, functional knowledge of the working world", "no additional understanding at all"], "ans": 2, "explanation": "Connecting professions to their functions builds genuinely useful, real-world knowledge of how the working world operates."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'to care for/treat,' 'to repair,' 'to examine,' 'to write.'", "markingGuide": "1.25 marks per correctly translated verb (4 items, 5 total)."},
+      {"question": "Associez chaque profession à sa fonction correcte: l'infirmier(ère), le médecin, le mécanicien, le journaliste.", "markingGuide": "1.25 marks per correctly matched profession-function pair (4 pairs, 5 total)."},
+      {"question": "Traduisez: 'The nurse cares for the sick. The doctor examines patients.'", "markingGuide": "2.5 marks each for a correctly translated, correctly structured sentence."},
+      {"question": "Rédigez UNE phrase décrivant la fonction de CHACUNE des professions suivantes: le pilote, l'avocat(e).", "markingGuide": "2.5 marks each for a correctly formed, meaningful sentence."},
+      {"question": "Rédaction: écrivez une courte rédaction (au moins 3 phrases) sur la profession que vous aimez le plus, en incluant sa fonction.", "markingGuide": "Three grammatically correct sentences describing a profession and its function (5, holistic)."}
+    ]
+  }

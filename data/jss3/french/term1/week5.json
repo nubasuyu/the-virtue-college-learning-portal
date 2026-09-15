@@ -1,0 +1,61 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 5,
+    "topic": "Parler des Défauts des Gens (Talking About People's Faults)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w5_su1",
+        "title": "5.1 Vocabulaire des Caractéristiques Détestables et le Verbe Détester",
+        "notes": [
+          "Vocabulaire des Caractéristiques Détestables et le Verbe Détester",
+          "",
+          "By the end of this lesson, you will be able to: describe detestable/undesirable personal traits, and use the verb détester fluently.",
+          "",
+          "Key Concepts:",
+          "1. Detestable Trait Vocabulary (reviewed and reinforced):",
+          "   - ennuyeux(se) (boring), maladroit(e) (clumsy), malhonnête (dishonest — UNCHANGING)",
+          "   - antipathique (unlikeable — UNCHANGING), triste (sad — UNCHANGING), méchant(e) (mean/naughty)",
+          "",
+          "2. Expressing Dislike of Traits:",
+          "   - DÉTESTER + noun: je déteste la malhonnêteté (I hate dishonesty)",
+          "   - JE N'AIME PAS + les gens + adjective (plural!): je n'aime pas les gens malhonnêtes",
+          "   - 'LES GENS' is always treated as plural → adjective must agree: les gens malhonnêtes (NOT malhonnête)",
+          "",
+          "Formula Box:",
+          "   détester: je déteste | tu détestes | il/elle déteste | nous détestons | vous détestez | ils/elles détestent",
+          "   je n'aime pas les gens [adjective PLURAL]: je n'aime pas les gens méchants",
+          "   je déteste + la/le/les + [noun form of quality]: je déteste la malhonnêteté",
+          "",
+          "Analogy:",
+          "   Discussing detestable traits honestly, without being needlessly cruel, is like handling a sharp kitchen knife with genuine skill: the knife (honest criticism) is a genuinely USEFUL tool when handled with care and purpose, but the SAME knife, used carelessly, can cause real harm.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Using this vocabulary carelessly or unkindly about real people.",
+          "   - Forgetting plural agreement when describing 'les gens' — e.g., 'les gens malhonnête' instead of the correct 'les gens malhonnêtes.'"
+        ],
+        "diagramDescriptions": ["Vocabulary chart of detestable traits with masculine/feminine forms", "Sentence pattern diagram: je n'aime pas les gens + adjective (plural)"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language negative character traits détester adjective agreement site:youtube.com",
+        "quiz": [
+          {"q": "What does 'ennuyeux(se)' mean?", "opts": ["Kind", "Boring", "Honest", "Warm"], "ans": 1, "explanation": "'Ennuyeux(se)' means boring — feminine form is 'ennuyeuse' (follows -x→-se pattern)."},
+          {"q": "What does 'maladroit(e)' mean?", "opts": ["Skilful", "Clumsy", "Kind", "Honest"], "ans": 1, "explanation": "'Maladroit(e)' means clumsy or awkward — feminine adds -e: maladroite."},
+          {"q": "What does 'malhonnête' mean?", "opts": ["Dishonest", "Honest", "Kind", "Warm"], "ans": 0, "explanation": "'Malhonnête' means dishonest — and as it already ends in '-e', it is UNCHANGING in the feminine."},
+          {"q": "What does 'antipathique' mean?", "opts": ["Honest", "Unlikeable", "Kind", "Likeable"], "ans": 1, "explanation": "'Antipathique' means unlikeable — and it is UNCHANGING in the feminine (already ends in '-e')."},
+          {"q": "How would you say 'I hate dishonesty'?", "opts": ["Je déteste malhonnête", "Je déteste les malhonnête", "Je suis malhonnêteté", "Je déteste la malhonnêteté"], "ans": 3, "explanation": "'Je déteste' + the NOUN form of the quality: 'la malhonnêteté' (dishonesty as a concept)."},
+          {"q": "How would you say 'I don't like naughty people'?", "opts": ["Je n'aime pas les gens méchant", "Je n'aime pas les gens méchants", "Je déteste pas les gens méchants", "Je n'aime les gens méchants pas"], "ans": 1, "explanation": "'Les gens' is plural, so 'méchant' must agree: 'méchants.' Also note 'ne...pas' wraps the verb: je n'aime PAS."},
+          {"q": "When describing 'les gens' (people) with an adjective, the adjective must be ___.", "opts": ["always masculine, regardless of context", "plural, to agree with 'les gens'", "unrelated to agreement rules", "always singular, regardless of 'les gens'"], "ans": 1, "explanation": "'Les gens' is a plural noun, so any adjective describing it must take the plural form."},
+          {"q": "This vocabulary is compared to ___ in this week's analogy.", "opts": ["a sharp kitchen knife, useful when handled with care", "an unrelated random comparison", "a completely harmless, purposeless object", "a tool with no potential for misuse"], "ans": 0, "explanation": "Like a sharp knife, this vocabulary is genuinely useful for honest description but can cause harm if used carelessly or unkindly."},
+          {"q": "Discussing detestable traits should be done ___.", "opts": ["as harshly and bluntly as possible always", "tactfully and honestly, not carelessly or cruelly", "never, under any circumstances", "only about oneself, never about others"], "ans": 1, "explanation": "Describing faults is a mature conversational skill when done with tact and honest intent — not for casual cruelty."},
+          {"q": "This week's vocabulary deliberately balances ___.", "opts": ["last week's admirable qualities", "no previous vocabulary at all", "an entirely unrelated topic", "only vocabulary from this exact week"], "ans": 0, "explanation": "Week 5 (detestable traits) deliberately mirrors and balances Week 4 (admirable qualities), building a complete picture of personality description."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'boring,' 'clumsy,' 'dishonest,' 'unlikeable,' 'naughty.'", "markingGuide": "1 mark per correctly translated term (5 total)."},
+      {"question": "Traduisez: 'I hate dishonesty. I don't like boring people.'", "markingGuide": "2.5 marks each for a correctly translated, correctly agreed sentence."},
+      {"question": "Expliquez pourquoi l'adjectif doit s'accorder au pluriel avec 'les gens,' avec un exemple.", "markingGuide": "Clear explanation (2.5); valid example (2.5)."},
+      {"question": "Conjuguez le verbe 'détester' au présent avec tous les pronoms sujets.", "markingGuide": "0.83 marks per correctly conjugated form (6 forms, 5 total)."},
+      {"question": "Rédaction: décrivez, avec tact, TROIS défauts que vous n'aimez pas chez les gens, en phrases complètes.", "markingGuide": "Three grammatically correct, tactfully worded sentences (5, holistic)."}
+    ]
+  }

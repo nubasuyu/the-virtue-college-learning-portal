@@ -1,0 +1,60 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 4,
+    "topic": "Décrire les Qualités Admirables (Describing Admirable Qualities)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w4_su1",
+        "title": "4.1 Vocabulaire des Qualités Admirables et les Verbes Aimer/Adorer",
+        "notes": [
+          "Vocabulaire des Qualités Admirables et les Verbes Aimer/Adorer",
+          "",
+          "By the end of this lesson, you will be able to: describe admirable personal qualities, and use the verbs aimer and adorer.",
+          "",
+          "Key Concepts:",
+          "1. New and Reviewed Admirable Qualities:",
+          "   - NEW: chaleureux(se) (warm/warm-hearted — follows -x→-se pattern), formidable (fantastic — UNCHANGING), adorable (adorable — UNCHANGING), magnifique (magnificent — UNCHANGING)",
+          "   - REVIEWED: charmant(e), sympathique (unchanging), mignon(ne), fantastique (unchanging)",
+          "",
+          "2. New Verb — Adorer (to adore):",
+          "   - ADORER follows the EXACT same regular '-ER' pattern as aimer: j'adore, tu adores, il/elle adore, nous adorons, vous adorez, ils/elles adorent",
+          "   - ADORER expresses STRONGER feeling than AIMER: J'aime mon ami(e) = I like my friend (warm); J'adore mon ami(e) = I adore my friend (deeper affection).",
+          "",
+          "Formula Box:",
+          "   adorer: j'adore | tu adores | il/elle adore | nous adorons | vous adorez | ils/elles adorent",
+          "   chaleureux(se): chaleureuse (f.) | chaleureux (m.) — follows -x→-se pattern",
+          "   Unchanging adjectives (already end in -e): formidable | adorable | magnifique | fantastique | sympathique",
+          "",
+          "Analogy:",
+          "   'Aimer' and 'adorer' are like two different VOLUMES on the same emotional dial: 'aimer' is a warm, genuine, comfortable volume — 'adorer' turns the SAME dial up further, to an even more enthusiastic, heartfelt volume.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Trying to invent a new conjugation for 'adorer' instead of confidently applying the already-known aimer/détester pattern.",
+          "   - Forgetting that 'formidable,' 'adorable,' and 'magnifique' already end in '-e' and stay UNCHANGED in the feminine."
+        ],
+        "diagramDescriptions": ["Vocabulary grid of admirable qualities with masculine and feminine forms", "Dial diagram comparing aimer (lower) and adorer (higher) on an emotional scale"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language admirable qualities adorer aimer site:youtube.com",
+        "quiz": [
+          {"q": "What does 'chaleureux(se)' mean?", "opts": ["Boring", "Cold", "Warm/warm-hearted", "Mean"], "ans": 2, "explanation": "'Chaleureux(se)' means warm or warm-hearted — the feminine form is 'chaleureuse' (follows -x→-se pattern)."},
+          {"q": "What does 'formidable' mean?", "opts": ["Terrible", "Ordinary", "Fantastic/tremendous", "Boring"], "ans": 2, "explanation": "'Formidable' means fantastic or tremendous — and it is UNCHANGING in the feminine."},
+          {"q": "What does 'adorable' mean?", "opts": ["Boring", "Ordinary", "Adorable", "Hateful"], "ans": 2, "explanation": "'Adorable' means adorable — it is also UNCHANGING in the feminine (already ends in -e)."},
+          {"q": "What does 'magnifique' mean?", "opts": ["Boring", "Small", "Magnificent", "Ordinary"], "ans": 2, "explanation": "'Magnifique' means magnificent — another adjective that stays unchanged in the feminine."},
+          {"q": "What is the feminine form of 'chaleureux'?", "opts": ["chaleureuse", "chaleureuxe", "chaleureux", "chaleureuxse"], "ans": 0, "explanation": "'Chaleureux' follows the -x→-se rule: feminine is 'chaleureuse.'"},
+          {"q": "What is the correct conjugation of 'adorer' for 'je' (I)?", "opts": ["adores", "adorent", "adore", "adorons"], "ans": 2, "explanation": "'J'adore' — regular -ER verb, same as j'aime. Note: j' replaces je before a vowel."},
+          {"q": "What is the correct conjugation of 'adorer' for 'nous' (we)?", "opts": ["adorons", "adore", "adorent", "adorez"], "ans": 0, "explanation": "'Nous adorons' — regular -ER pattern, -ons ending for nous."},
+          {"q": "What is the general difference in meaning between 'aimer' and 'adorer'?", "opts": ["They mean exactly the same, with no difference", "Adorer is only used for objects, never people", "Aimer is stronger than adorer", "Adorer expresses a stronger, deeper affection than aimer"], "ans": 3, "explanation": "'Adorer' expresses deeper, more enthusiastic affection than 'aimer,' which conveys warm but less intense liking."},
+          {"q": "Aimer and adorer are compared to ___ in this week's analogy.", "opts": ["two completely unrelated emotions", "two different volumes on the same emotional dial", "an unrelated random comparison", "volumes with no connection to feeling"], "ans": 1, "explanation": "Both express positive feeling toward someone, but 'adorer' turns the emotional intensity up further — like different volumes on the same dial."},
+          {"q": "Does 'formidable' change in the feminine form?", "opts": ["No, it stays the same", "Yes, it becomes 'formidablee'", "Yes, it becomes 'formidabl'", "Yes, but only in speech"], "ans": 0, "explanation": "'Formidable' already ends in '-e' and remains unchanged in the feminine — same form for both genders."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'warm-hearted,' 'fantastic/tremendous,' 'adorable,' 'magnificent.'", "markingGuide": "1.25 marks per correctly translated term (4 items, 5 total)."},
+      {"question": "Conjuguez le verbe 'adorer' au présent avec tous les pronoms sujets.", "markingGuide": "0.83 marks per correctly conjugated form (6 forms, 5 total)."},
+      {"question": "Expliquez la différence de sens entre 'aimer' et 'adorer,' avec un exemple de chaque.", "markingGuide": "Clear explanation (3); valid examples for both (2)."},
+      {"question": "Traduisez: 'My friend is warm-hearted and adorable. I adore my parents.'", "markingGuide": "2.5 marks each for a correctly translated, correctly agreed/conjugated sentence."},
+      {"question": "Rédaction: décrivez les qualités admirables d'un(e) ami(e) ou d'un membre de la famille, en trois phrases complètes utilisant aimer ou adorer.", "markingGuide": "Three grammatically correct sentences using appropriate vocabulary and verbs (5, holistic)."}
+    ]
+  }

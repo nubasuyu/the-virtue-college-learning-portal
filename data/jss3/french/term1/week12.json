@@ -1,0 +1,93 @@
+ {
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 12,
+    "topic": "Examen du Premier Trimestre (First Term Examination)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w12_su1",
+        "title": "12.1 Section A — Questions Objectives (Answer All 30)",
+        "notes": [
+          "Section A — Objective Questions",
+          "",
+          "Instructions: Answer ALL thirty questions. Recommended time: 45 minutes for Section A.",
+          "",
+          "Section A covers ALL topics from this term:",
+          "   - Professions: naming, être + profession (no article), feminine forms, functions",
+          "   - Qualities and sentiment verbs: admirable/detestable vocabulary, aimer/adorer/admirer/détester",
+          "   - Illnesses: names + gender, avoir mal à + body part contractions",
+          "   - Causes of illness: causer + cause-effect pairs",
+          "   - Affected populations: vocabulary + surtout/souvent",
+          "   - Hygiene: actions, benefits chain",
+          "",
+          "Exam Strategy:",
+          "   - Read ALL four options before choosing your answer.",
+          "   - For grammar questions, apply the rule before looking at the options.",
+          "   - Eliminate obviously wrong options first.",
+          "   - If unsure between two, recall the analogy or formula from your notes."
+        ],
+        "diagramDescriptions": [],
+        "videoId": "",
+        "youtubeQuery": "",
+        "quiz": [
+          {"q": "What does 'le médecin' mean?", "opts": ["The doctor", "The nurse", "The mechanic", "The pilot"], "ans": 0, "explanation": "'Le médecin' means the doctor."},
+          {"q": "How would you say 'she is a doctor'?", "opts": ["Elle est médecine", "Elle a médecin", "Elle est médecin", "Elle est une médecin"], "ans": 2, "explanation": "'Elle est médecin' — être + profession, no article. 'Médecin' is also invariable (same for m/f)."},
+          {"q": "What does 'le journaliste écrit'?", "opts": ["Des voitures", "Des avions", "Des articles", "Des malades"], "ans": 2, "explanation": "'Le journaliste écrit des articles' — the journalist writes articles."},
+          {"q": "What does 'adorable' mean?", "opts": ["Ordinary", "Hateful", "Boring", "Adorable"], "ans": 3, "explanation": "'Adorable' means adorable — an unchanging adjective (already ends in '-e')."},
+          {"q": "What is the correct conjugation of 'admirer' for 'je' (I)?", "opts": ["admires", "admirent", "admirons", "admire"], "ans": 3, "explanation": "'J'admire' — regular -ER pattern, first-person singular."},
+          {"q": "How would you say 'I admire my mother's kindness'?", "opts": ["J'admire gentille ma mère", "J'admire de la gentillesse ma mère", "J'admire la gentillesse de ma mère", "J'aime la gentillesse de ma mère seulement"], "ans": 2, "explanation": "Correct structure: j'admire + la [quality] + de [person] → 'j'admire la gentillesse de ma mère.'"},
+          {"q": "What does 'ennuyeux(se)' mean?", "opts": ["Warm", "Boring", "Kind", "Honest"], "ans": 1, "explanation": "'Ennuyeux(se)' means boring — feminine: ennuyeuse."},
+          {"q": "When describing 'les gens' (people) with an adjective, the adjective must be ___.", "opts": ["unrelated to agreement rules", "plural, to agree with 'les gens'", "always masculine, regardless of context", "always singular, regardless of 'les gens'"], "ans": 1, "explanation": "'Les gens' is plural → the adjective must also be plural: les gens malhonnêtes (not malhonnête)."},
+          {"q": "What does 'la fièvre jaune' mean?", "opts": ["Yellow fever", "Malaria", "Dysentery", "Cholera"], "ans": 0, "explanation": "'La fièvre jaune' means yellow fever — a feminine noun."},
+          {"q": "What is the grammatical gender of 'le paludisme'?", "opts": ["It changes depending on context", "Masculine", "Feminine", "It has no gender"], "ans": 1, "explanation": "'Le paludisme' is masculine — indicated by the article 'le.'"},
+          {"q": "How would you say 'my arm hurts'?", "opts": ["J'ai mal à le bras", "J'ai mal à la bras", "J'ai mal aux bras", "J'ai mal au bras"], "ans": 3, "explanation": "'Le bras' is masculine singular: à + le → au. Correct: 'j'ai mal au bras.'"},
+          {"q": "How would you say 'my teeth hurt'?", "opts": ["J'ai mal à la dents", "J'ai mal aux dents", "J'ai mal à les dents", "J'ai mal au dents"], "ans": 1, "explanation": "'Les dents' is plural: à + les → aux. Correct: 'j'ai mal aux dents.'"},
+          {"q": "Is 'à le' ever correct in standard French?", "opts": ["Yes, but only in formal writing", "Yes, but only when speaking quickly", "Yes, it is always correct as written", "No, it must always contract to 'au'"], "ans": 3, "explanation": "'À le' NEVER appears in correct French — it always contracts to 'au.' This rule has no exceptions."},
+          {"q": "What causes diarrhoea and dysentery?", "opts": ["La nourriture gâtée (spoiled food)", "Les moustiques (mosquitoes)", "Le froid (cold weather)", "L'absence d'hygiène only"], "ans": 0, "explanation": "'La nourriture gâtée cause la diarrhée et la dysenterie' — spoiled food causes diarrhoea and dysentery."},
+          {"q": "What causes fatigue?", "opts": ["L'eau sale (dirty water)", "Les moustiques (mosquitoes)", "Trop de travail (too much work)", "Le froid (cold weather)"], "ans": 2, "explanation": "'Trop de travail cause la fatigue' — too much work causes fatigue."},
+          {"q": "What does 'les pauvres' mean?", "opts": ["Children", "Young people", "The rich", "The poor"], "ans": 3, "explanation": "'Les pauvres' means the poor."},
+          {"q": "What does 'souvent' mean?", "opts": ["Often", "Rarely", "Never", "Always, without exception"], "ans": 0, "explanation": "'Souvent' means often — used to express frequency without making an absolute claim."},
+          {"q": "Which population group might be described as vulnerable to waterborne illnesses due to limited access to resources?", "opts": ["tout le monde equally, with no distinction", "les pauvres", "les riches", "no group is more vulnerable than another"], "ans": 1, "explanation": "'Les pauvres' often have less access to clean water, making them more vulnerable to waterborne illnesses like cholera."},
+          {"q": "What does 'éviter les maladies' mean?", "opts": ["To avoid illnesses", "To treat illnesses", "To ignore illnesses", "To cause illnesses"], "ans": 0, "explanation": "'Éviter les maladies' means to avoid illnesses — the goal of good hygiene."},
+          {"q": "What does 'faire cuire la nourriture' mean?", "opts": ["To wash food", "To cook food thoroughly", "To waste food", "To avoid food"], "ans": 1, "explanation": "'Faire cuire la nourriture' means to cook food thoroughly — an essential hygiene action to prevent food-borne illness."},
+          {"q": "What does 'développement rapide' mean?", "opts": ["Rapid development", "Rapid decline", "Slow decline", "No change at all"], "ans": 0, "explanation": "'Développement rapide' means rapid development — one of the wider benefits of a healthy, hygienic population."},
+          {"q": "What does 'l'avocat(e)' mean?", "opts": ["The nurse", "The plumber", "The lawyer", "The engineer"], "ans": 2, "explanation": "'L'avocat(e)' means the lawyer — feminine adds -e: avocate."},
+          {"q": "What does 'soigner' mean?", "opts": ["To write", "To care for/treat", "To fly/drive", "To repair"], "ans": 1, "explanation": "'Soigner' means to care for or treat — used in 'l'infirmier(ère) soigne les malades.'"},
+          {"q": "What does 'magnifique' mean?", "opts": ["Magnificent", "Small", "Ordinary", "Boring"], "ans": 0, "explanation": "'Magnifique' means magnificent — an unchanging adjective (same form for masculine and feminine)."},
+          {"q": "What does 'antipathique' mean?", "opts": ["Kind", "Honest", "Unlikeable", "Likeable"], "ans": 2, "explanation": "'Antipathique' means unlikeable — an unchanging adjective."},
+          {"q": "What does 'la dysenterie' mean?", "opts": ["Dysentery", "Malaria", "Cholera", "Flu"], "ans": 0, "explanation": "'La dysenterie' means dysentery — a feminine noun."},
+          {"q": "Does 'à + la' contract into a different form?", "opts": ["Yes, it becomes 'aux'", "Yes, it becomes 'à l''", "Yes, it becomes 'au'", "No, it stays 'à la'"], "ans": 3, "explanation": "'À + la' does NOT contract — it stays as 'à la.' Only masculine singular and plural forms contract."},
+          {"q": "What causes the flu, according to this term's vocabulary?", "opts": ["L'eau sale (dirty water)", "Les moustiques (mosquitoes)", "Le froid (cold weather)", "La nourriture gâtée (spoiled food)"], "ans": 2, "explanation": "'Le froid cause la grippe' — cold weather causes flu."},
+          {"q": "What does 'les jeunes' mean?", "opts": ["The poor", "Young people", "Adults", "Children"], "ans": 1, "explanation": "'Les jeunes' means young people."},
+          {"q": "What does 'protéger la famille' mean?", "opts": ["To ignore the family", "To protect the family", "To leave the family", "To harm the family"], "ans": 1, "explanation": "'Protéger la famille' means to protect the family — one of the motivations and benefits of good hygiene."}
+        ]
+      },
+      {
+        "id": "jss3_french_t1_w12_su2",
+        "title": "12.2 Section B — Questions de Théorie",
+        "notes": [
+          "Section B — Theory / Essay Questions",
+          "",
+          "Instructions: Answer ALL FIVE questions in complete French sentences. Show all your working and reasoning — method marks are awarded even when the final answer has a minor error.",
+          "",
+          "Questions:",
+          "1. Nommez CINQ professions en français avec l'article correct, et donnez la forme féminine de DEUX d'entre elles.",
+          "2. Conjuguez 'adorer' ET 'admirer' au présent avec 'je,' 'nous,' et 'ils/elles.'",
+          "3. Nommez les cinq maladies apprises ce trimestre avec leur article correct, et expliquez les règles de contraction pour 'avoir mal à.'",
+          "4. Traduisez: 'Mosquitoes cause malaria. This illness especially affects children and the poor.'",
+          "5. Rédaction: rédigez un paragraphe (5 phrases minimum) sur UNE maladie de votre choix, incluant son nom, sa cause, les populations affectées, ET un conseil d'hygiène pour l'éviter."
+        ],
+        "diagramDescriptions": [],
+        "videoId": "",
+        "youtubeQuery": "",
+        "quiz": []
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "SECTION B — Theory 1: Nommez CINQ professions en français avec l'article correct, et donnez la forme féminine de DEUX d'entre elles.", "markingGuide": "2.5 marks for five correctly named professions with articles; 2.5 marks for two correct feminine forms."},
+      {"question": "SECTION B — Theory 2: Conjuguez 'adorer' ET 'admirer' au présent avec 'je,' 'nous,' et 'ils/elles.'", "markingGuide": "0.83 marks per correctly conjugated form (6 forms across both verbs, 5 total)."},
+      {"question": "SECTION B — Theory 3: Nommez les cinq maladies apprises ce trimestre avec leur article correct, et expliquez les règles de contraction pour 'avoir mal à.'", "markingGuide": "Five correctly named illnesses with articles (2.5); clear explanation of contraction rules (2.5)."},
+      {"question": "SECTION B — Theory 4: Traduisez: 'Mosquitoes cause malaria. This illness especially affects children and the poor.'", "markingGuide": "2.5 marks each for a correctly translated, correctly structured sentence."},
+      {"question": "SECTION B — Theory 5: Rédaction — rédigez un paragraphe (5 phrases minimum) sur UNE maladie de votre choix, incluant son nom, sa cause, les populations affectées, ET un conseil d'hygiène pour l'éviter.", "markingGuide": "Five grammatically correct sentences thoroughly covering all four required elements: illness name, cause, populations, hygiene advice (5, holistic)."}
+    ]
+  }

@@ -1,0 +1,65 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 9,
+    "topic": "Parler des Populations Affectées (Talking About Affected Populations)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w9_su1",
+        "title": "9.1 Les Groupes Sociaux et les Populations Vulnérables",
+        "notes": [
+          "Les Groupes Sociaux et les Populations Vulnérables",
+          "",
+          "By the end of this lesson, you will be able to: describe different population groups affected by illness using appropriate vocabulary.",
+          "",
+          "Key Concepts:",
+          "1. Population Group Vocabulary:",
+          "   - les enfants (children), les jeunes (young people), les femmes (women), les hommes (men)",
+          "   - les adultes (adults), les ruraux (rural people/those in the countryside)",
+          "   - les pauvres (the poor), tout le monde (everyone)",
+          "",
+          "2. Grammar Structure — Affecter (another regular -ER verb):",
+          "   - [illness] + AFFECTER + [qualifier] + [group]: le paludisme affecte surtout les enfants",
+          "   - AFFECTER conjugates like aimer, causer, admirer.",
+          "",
+          "3. Degree Adverbs — Adding Honest Nuance:",
+          "   - SURTOUT (especially): expresses that a group is MOST affected, not exclusively",
+          "   - SOUVENT (often): expresses frequency, not absolute certainty",
+          "   - Using these adverbs avoids unfair absolute claims — a mark of precise, thoughtful language.",
+          "",
+          "Formula Box:",
+          "   [illness] + affecte + surtout/souvent + [group]: le paludisme affecte surtout les enfants",
+          "   les maladies de l'eau sale affectent souvent les pauvres et les ruraux",
+          "",
+          "Analogy:",
+          "   'Surtout' and 'souvent' are like careful measuring words that stop a statement from becoming an unfair, overly broad claim: adding 'surtout' honestly signals 'children are affected MORE than others, though not exclusively' — small words carrying important, honest NUANCE.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Making an absolute, universal claim (without 'surtout' or 'souvent') when a more nuanced statement would be more accurate.",
+          "   - Forgetting to conjugate 'affecter' correctly for plural subjects like illnesses."
+        ],
+        "diagramDescriptions": ["Vocabulary chart of population groups", "Sentence pattern diagram showing surtout/souvent placement: [illness] + affecte + [adverb] + [group]"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language population groups affected illness affecter surtout site:youtube.com",
+        "quiz": [
+          {"q": "What does 'les enfants' mean?", "opts": ["Children", "Women", "The poor", "Young people"], "ans": 0, "explanation": "'Les enfants' means children — one of the key vulnerable population groups discussed this week."},
+          {"q": "What does 'les ruraux' mean?", "opts": ["The poor", "Everyone", "Children", "Rural people/those living in the countryside"], "ans": 3, "explanation": "'Les ruraux' refers to rural people — those who live in the countryside, often with less access to healthcare."},
+          {"q": "What does 'les pauvres' mean?", "opts": ["The poor", "The rich", "Young people", "Children"], "ans": 0, "explanation": "'Les pauvres' means the poor — another population group that may have limited access to clean water or healthcare."},
+          {"q": "What does 'tout le monde' mean?", "opts": ["No one", "Everyone", "Children only", "Adults only"], "ans": 1, "explanation": "'Tout le monde' means everyone — useful when an illness affects all population groups without distinction."},
+          {"q": "What does 'surtout' mean?", "opts": ["Sometimes, but rarely", "Rarely", "Especially", "Never"], "ans": 2, "explanation": "'Surtout' means especially — it signals that a group is MOST affected, while acknowledging others may be affected too."},
+          {"q": "What does 'souvent' mean?", "opts": ["Always, without exception", "Rarely", "Never", "Often"], "ans": 3, "explanation": "'Souvent' means often — expressing frequency without making an absolute claim."},
+          {"q": "How would you say 'malaria especially affects children'?", "opts": ["Le paludisme affecte enfants surtout", "Le paludisme surtout affecte les enfants toujours", "Les enfants affectent surtout le paludisme", "Le paludisme affecte surtout les enfants"], "ans": 3, "explanation": "Correct word order: [illness] + affecte + surtout + les [group]. 'Le paludisme affecte surtout les enfants.'"},
+          {"q": "Why is it better to say 'affecte surtout' rather than making an absolute claim?", "opts": ["It makes the sentence grammatically incorrect", "There is no real difference in meaning", "It honestly signals degree without excluding other affected groups", "Absolute claims are always more accurate"], "ans": 2, "explanation": "Using 'surtout' or 'souvent' shows careful, accurate thinking — acknowledging that one group is most affected without claiming others are immune."},
+          {"q": "'Surtout' and 'souvent' are compared to ___ in this week's analogy.", "opts": ["words with no real function in a sentence", "careful measuring words preventing an unfair, overly broad claim", "words that make a statement less accurate", "an unrelated random comparison"], "ans": 1, "explanation": "Just as a careful measurer prevents over-claiming, 'surtout' and 'souvent' prevent absolute statements that could be unfair or inaccurate."},
+          {"q": "Which population group might be described as vulnerable to waterborne illnesses due to limited access to resources?", "opts": ["les riches", "les pauvres", "tout le monde equally, with no distinction", "no group is more vulnerable than another"], "ans": 1, "explanation": "'Les pauvres' often have less access to clean water and sanitation, making them more vulnerable to waterborne illnesses like cholera."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'children,' 'young people,' 'the poor,' 'rural people,' 'everyone.'", "markingGuide": "1 mark per correctly translated term (5 total)."},
+      {"question": "Traduisez: 'Malaria especially affects children. Waterborne illnesses often affect the poor.'", "markingGuide": "2.5 marks each for a correctly translated, correctly structured sentence."},
+      {"question": "Expliquez la différence entre 'surtout' et 'souvent,' avec un exemple de chaque.", "markingGuide": "Clear explanation (3); valid examples for both (2)."},
+      {"question": "Expliquez pourquoi il est important d'éviter les affirmations absolues en parlant des populations affectées.", "markingGuide": "Clear, thoughtful explanation (5, holistic)."},
+      {"question": "Rédaction: écrivez trois phrases décrivant quelles populations sont affectées par différentes maladies, en utilisant 'surtout' ou 'souvent.'", "markingGuide": "Three grammatically correct sentences using appropriate degree adverbs (5, holistic)."}
+    ]
+  }

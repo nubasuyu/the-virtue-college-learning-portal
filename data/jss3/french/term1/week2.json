@@ -1,0 +1,65 @@
+ {
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 2,
+    "topic": "Parler de Professions Variées (Talking About Various Professions)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w2_su1",
+        "title": "2.1 Vocabulaire des Professions et le Verbe Être",
+        "notes": [
+          "Vocabulaire des Professions et le Verbe Être",
+          "",
+          "By the end of this lesson, you will be able to: name common professions in French, and use être to state someone's profession.",
+          "",
+          "Key Concepts:",
+          "1. Essential Profession Vocabulary:",
+          "   - le plombier (plumber), l'ingénieur (engineer), l'enseignant(e) (teacher)",
+          "   - le médecin (doctor), l'infirmier(ère) (nurse — irregular feminine '-ère'), le pilote (pilot)",
+          "   - le mécanicien (mechanic), le chauffeur (driver), l'avocat(e) (lawyer), le journaliste (journalist)",
+          "",
+          "2. Être + Profession — No Article!",
+          "   - UNLIKE English, French does NOT use an article before the profession noun after être.",
+          "   - CORRECT: Il est enseignant. (He is a teacher.) — NOT 'il est UN enseignant.'",
+          "   - CORRECT: Elle est médecin. (She is a doctor.) — NOT 'elle est UNE médecin.'",
+          "",
+          "3. Feminine Forms of Professions:",
+          "   - Some change: un enseignant → une enseignante; un infirmier → une infirmière (irregular -ère ending)",
+          "   - Some stay the same (invariable): médecin, journaliste — these do not change with gender.",
+          "",
+          "Formula Box:",
+          "   être + profession, NO article: il est enseignant (not 'il est un enseignant')",
+          "   Feminine: enseignant→enseignante | infirmier→infirmière | médecin (no change) | journaliste (no change)",
+          "",
+          "Analogy:",
+          "   Dropping the article after être + profession is like introducing yourself with just your JOB TITLE stamped on a badge, rather than 'a' title with extra decoration: French simply says 'elle est médecin' — the plain, unadorned job title alone is enough.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Adding an article after être + profession: 'il est UN enseignant' is incorrect.",
+          "   - Assuming every profession noun changes for the feminine — médecin and journaliste stay the SAME."
+        ],
+        "diagramDescriptions": ["Illustrated vocabulary chart of 10 professions with French labels", "Table showing masculine vs. feminine profession forms with invariable exceptions highlighted"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language professions être no article vocabulary site:youtube.com",
+        "quiz": [
+          {"q": "What does 'le plombier' mean?", "opts": ["The lawyer", "The plumber", "The engineer", "The doctor"], "ans": 1, "explanation": "'Le plombier' means 'the plumber' in French."},
+          {"q": "What does 'le médecin' mean?", "opts": ["The nurse", "The doctor", "The mechanic", "The pilot"], "ans": 1, "explanation": "'Le médecin' means 'the doctor' in French."},
+          {"q": "What does 'l'infirmier(ère)' mean?", "opts": ["The lawyer", "The nurse", "The teacher", "The doctor"], "ans": 1, "explanation": "'L'infirmier(ère)' means 'the nurse' — with an irregular feminine ending '-ère'."},
+          {"q": "What does 'le journaliste' mean?", "opts": ["The mechanic", "The pilot", "The journalist", "The driver"], "ans": 2, "explanation": "'Le journaliste' means 'the journalist' in French."},
+          {"q": "What does 'l'avocat(e)' mean?", "opts": ["The engineer", "The lawyer", "The plumber", "The nurse"], "ans": 1, "explanation": "'L'avocat(e)' means 'the lawyer' in French."},
+          {"q": "How would you say 'he is a teacher'?", "opts": ["Il est enseignante", "Il est un enseignant", "Il a enseignant", "Il est enseignant"], "ans": 3, "explanation": "French omits the article after être + profession: 'il est enseignant' — no 'un.'"},
+          {"q": "How would you say 'she is a doctor'?", "opts": ["Elle est une médecin", "Elle a médecin", "Elle est médecin", "Elle est médecine"], "ans": 2, "explanation": "'Elle est médecin' — no article, and 'médecin' is invariable (does not change for gender)."},
+          {"q": "What is the feminine form of 'infirmier'?", "opts": ["infirmier", "infirmièrre", "infirmiere", "infirmière"], "ans": 3, "explanation": "'Infirmier' follows the irregular '-er'→'-ère' pattern: infirmière."},
+          {"q": "Does 'médecin' change between masculine and feminine?", "opts": ["Yes, it becomes 'médecine'", "Yes, it becomes 'médecins'", "No, it stays the same", "Yes, but only in speech"], "ans": 2, "explanation": "'Médecin' is an invariable profession noun — it stays the same regardless of gender."},
+          {"q": "When stating a profession with être, French typically ___.", "opts": ["always uses 'un/une'", "always uses 'le/la'", "requires no verb at all", "omits the article"], "ans": 3, "explanation": "French omits the article after être + profession: 'il est enseignant', not 'il est un enseignant.'"}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Nommez CINQ professions en français, avec l'article correct.", "markingGuide": "1 mark per correctly named profession with correct article (5 total)."},
+      {"question": "Donnez la forme féminine de: 'enseignant,' 'infirmier,' 'avocat.'", "markingGuide": "1.67 marks per correctly formed feminine profession (3 items, 5 total)."},
+      {"question": "Traduisez, en faisant attention à l'article: 'He is an engineer. She is a nurse. They (masculine) are mechanics.'", "markingGuide": "1.67 marks per correctly translated sentence, correctly omitting the article (3 sentences, 5 total)."},
+      {"question": "Expliquez la règle concernant l'article après 'être + profession' en français, en la comparant à l'anglais.", "markingGuide": "Clear explanation with a valid English comparison (5, holistic)."},
+      {"question": "Rédaction: décrivez les professions de trois membres de votre famille, en phrases complètes.", "markingGuide": "Three grammatically correct sentences with correctly agreed profession vocabulary (5, holistic)."}
+    ]
+  }

@@ -1,0 +1,65 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 10,
+    "topic": "Dire l'Importance de l'Hygiène (Stating the Importance of Hygiene)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w10_su1",
+        "title": "10.1 Vocabulaire et Expressions sur l'Hygiène",
+        "notes": [
+          "Vocabulaire et Expressions sur l'Hygiène",
+          "",
+          "By the end of this lesson, you will be able to: explain the importance of hygiene using appropriate vocabulary and expressions.",
+          "",
+          "Key Concepts:",
+          "1. Hygiene Action Vocabulary:",
+          "   - éviter les maladies (to avoid illnesses)",
+          "   - balayer (to sweep), laver les aliments (to wash food), faire cuire la nourriture (to cook food thoroughly)",
+          "   - protéger la famille (to protect the family)",
+          "",
+          "2. Benefits of Good Hygiene — A Chain of Positive Effects:",
+          "   - PERSONAL: bonne santé (good health) → longue vie (long life)",
+          "   - ECONOMIC: faire des économies (to save money otherwise spent on treatment)",
+          "   - NATIONAL: développement rapide (rapid development — a healthy population is more productive)",
+          "",
+          "3. The Bigger Picture:",
+          "   - Good hygiene is not just personal — it connects to family, economic, and national wellbeing.",
+          "   - Small, repeated daily actions compound into large, lasting benefits.",
+          "",
+          "Formula Box:",
+          "   Hygiene actions (imperative for advice): balayez! | lavez les aliments! | faites cuire la nourriture!",
+          "   Benefits chain: bonne hygiène → éviter maladies → bonne santé → longue vie → économies → développement",
+          "",
+          "Analogy:",
+          "   Good hygiene habits are like small, regular deposits into a long-term savings account: a single act of sweeping or washing food might seem SMALL on its own, but these small, consistently repeated 'deposits' accumulate over TIME into something genuinely large and valuable — good health, a long life, saved money, and even a nation's faster development.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Treating hygiene as ONLY a personal, individual matter, without recognising its connection to BROADER family, economic, and national benefits.",
+          "   - Forgetting the imperative (command) forms needed to give practical hygiene advice (e.g., 'lavez,' 'balayez') when writing instructions."
+        ],
+        "diagramDescriptions": ["Benefits chain diagram: hygiene → health → long life → savings → development", "Vocabulary grid of hygiene actions with imperative forms"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language hygiene importance vocabulary health benefits site:youtube.com",
+        "quiz": [
+          {"q": "What does 'éviter les maladies' mean?", "opts": ["To treat illnesses", "To avoid illnesses", "To ignore illnesses", "To cause illnesses"], "ans": 1, "explanation": "'Éviter les maladies' means to avoid illnesses — the goal of good hygiene practices."},
+          {"q": "What does 'balayer' mean?", "opts": ["To protect", "To sweep", "To wash", "To cook"], "ans": 1, "explanation": "'Balayer' means to sweep — a basic hygiene action for keeping the home clean."},
+          {"q": "What does 'laver les aliments' mean?", "opts": ["To waste food", "To cook food", "To sell food", "To wash food"], "ans": 3, "explanation": "'Laver les aliments' means to wash food — important for preventing food-borne illnesses."},
+          {"q": "What does 'faire cuire la nourriture' mean?", "opts": ["To waste food", "To cook food thoroughly", "To avoid food", "To wash food"], "ans": 1, "explanation": "'Faire cuire la nourriture' means to cook food thoroughly — killing bacteria and preventing illness."},
+          {"q": "What does 'la bonne santé' mean?", "opts": ["Good health", "Poor health", "Illness", "Pollution"], "ans": 0, "explanation": "'La bonne santé' means good health — the primary personal benefit of good hygiene."},
+          {"q": "What does 'faire des économies' mean?", "opts": ["To save money", "To lose money", "To spend money", "To waste money"], "ans": 0, "explanation": "'Faire des économies' means to save money — good hygiene prevents illness, which means less money spent on medical treatment."},
+          {"q": "What does 'développement rapide' mean?", "opts": ["No change at all", "Rapid decline", "Rapid development", "Slow decline"], "ans": 2, "explanation": "'Développement rapide' means rapid development — a healthy population is more productive and supports faster national progress."},
+          {"q": "How does good hygiene connect to a nation's development, according to this week's reasoning?", "opts": ["Hygiene only affects individuals, never society", "Hygiene has no connection to national development", "Only wealthy nations benefit from good hygiene", "Fewer illnesses lead to a healthier, more productive population, supporting faster development"], "ans": 3, "explanation": "The chain: good hygiene → fewer illnesses → healthier, more productive people → faster national development."},
+          {"q": "Good hygiene habits are compared to ___ in this week's analogy.", "opts": ["an unrelated random comparison", "a single large deposit made only once", "habits with no cumulative benefit over time", "small, regular deposits into a long-term savings account"], "ans": 3, "explanation": "Just as small, regular deposits accumulate into significant savings, small daily hygiene habits compound into major long-term health and economic benefits."},
+          {"q": "This week completes the logical arc of the health unit by focusing on ___.", "opts": ["only naming illnesses, with no further content", "prevention through good hygiene", "an entirely unrelated topic", "only causes, without discussing prevention"], "ans": 1, "explanation": "The health unit arc: naming illnesses (W7) → causes (W8) → affected populations (W9) → PREVENTION through hygiene (W10)."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'to sweep,' 'to wash food,' 'to cook thoroughly,' 'to protect the family.'", "markingGuide": "1.25 marks per correctly translated phrase (4 items, 5 total)."},
+      {"question": "Traduisez: 'Good hygiene leads to good health and a long life.'", "markingGuide": "Correct, complete, well-structured translation (5, holistic)."},
+      {"question": "Expliquez comment une bonne hygiène peut mener à 'faire des économies' et au 'développement rapide' d'un pays.", "markingGuide": "Clear explanation of both connections (2.5 each)."},
+      {"question": "Rédigez TROIS conseils pratiques d'hygiène, en utilisant le vocabulaire de cette semaine.", "markingGuide": "1.67 marks per practical, correctly formed piece of hygiene advice (3 pieces, 5 total)."},
+      {"question": "Rédaction: écrivez un paragraphe (5 phrases minimum) résumant ce que vous avez appris sur les maladies, leurs causes, les populations affectées, et l'importance de l'hygiène.", "markingGuide": "Five grammatically correct sentences summarising the term's health unit coherently (5, holistic)."}
+    ]
+  }

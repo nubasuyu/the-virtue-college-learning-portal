@@ -1,0 +1,64 @@
+{
+    "course": "JSS3 French Language",
+    "term": "First Term",
+    "week": 8,
+    "topic": "Discuter les Causes des Maladies (Discussing the Causes of Illnesses)",
+    "subUnits": [
+      {
+        "id": "jss3_french_t1_w8_su1",
+        "title": "8.1 Les Causes des Maladies Courantes",
+        "notes": [
+          "Les Causes des Maladies Courantes",
+          "",
+          "By the end of this lesson, you will be able to: explain the causes of common illnesses using appropriate vocabulary.",
+          "",
+          "Key Concepts:",
+          "1. Cause-and-Effect Vocabulary:",
+          "   - les moustiques causent le paludisme (mosquitoes cause malaria)",
+          "   - l'eau sale cause le choléra (dirty water causes cholera)",
+          "   - la nourriture gâtée cause la diarrhée et la dysenterie (spoiled food causes diarrhoea and dysentery)",
+          "   - le froid cause la grippe (cold weather causes flu)",
+          "   - trop de travail cause la fatigue (too much work causes fatigue)",
+          "   - l'absence générale d'hygiène cause plusieurs maladies (a general lack of hygiene causes several illnesses)",
+          "",
+          "2. Grammar Structure — Causer (a regular -ER verb):",
+          "   - [CAUSE] + CAUSER + [ILLNESS]: les moustiques causent le paludisme",
+          "   - CAUSER conjugates EXACTLY like aimer, détester, adorer, admirer.",
+          "   - Plural subjects need plural verb: les moustiques CAUSENT (not 'cause').",
+          "",
+          "Formula Box:",
+          "   causer: je cause | tu causes | il/elle cause | nous causons | vous causez | ils/elles causent",
+          "   [cause] + causer (conjugated) + [illness]: les moustiques causent le paludisme",
+          "",
+          "Analogy:",
+          "   Understanding an illness's CAUSE is like understanding WHY a fire started, not just that a building is burning: knowing 'il y a un feu' (there is a fire) tells you the PROBLEM, but knowing 'les moustiques causent le paludisme' tells you the SOURCE — and only by understanding the source can you take meaningful action to prevent the SAME problem from happening again.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Learning illness names and cause vocabulary as separate, unconnected lists.",
+          "   - Forgetting to correctly conjugate 'causer' for PLURAL subjects, like 'les moustiques' (which requires 'causent,' not 'cause')."
+        ],
+        "diagramDescriptions": ["Cause-and-effect matching table: cause on the left → illness on the right", "Conjugation box for causer with regular -ER pattern highlighted"],
+        "videoId": "",
+        "youtubeQuery": "JSS3 French Language causes of illness maladies causer site:youtube.com",
+        "quiz": [
+          {"q": "What does 'causer' mean?", "opts": ["To cause", "To treat/care for", "To admire", "To repair"], "ans": 0, "explanation": "'Causer' means 'to cause' — a regular -ER verb conjugated like aimer."},
+          {"q": "What causes malaria, according to this week's vocabulary?", "opts": ["Les moustiques (mosquitoes)", "La nourriture gâtée (spoiled food)", "L'eau sale (dirty water)", "Le froid (cold weather)"], "ans": 0, "explanation": "'Les moustiques causent le paludisme' — mosquitoes cause malaria."},
+          {"q": "What causes cholera?", "opts": ["L'eau sale (dirty water)", "Trop de travail (too much work)", "Les moustiques (mosquitoes)", "Le froid (cold weather)"], "ans": 0, "explanation": "'L'eau sale cause le choléra' — dirty water causes cholera."},
+          {"q": "What causes diarrhoea and dysentery?", "opts": ["L'absence d'hygiène only", "Le froid (cold weather)", "Les moustiques (mosquitoes)", "La nourriture gâtée (spoiled food)"], "ans": 3, "explanation": "'La nourriture gâtée cause la diarrhée et la dysenterie' — spoiled food causes diarrhoea and dysentery."},
+          {"q": "What causes the flu, according to this week's vocabulary?", "opts": ["La nourriture gâtée (spoiled food)", "L'eau sale (dirty water)", "Le froid (cold weather)", "Les moustiques (mosquitoes)"], "ans": 2, "explanation": "'Le froid cause la grippe' — cold weather causes flu."},
+          {"q": "What causes fatigue?", "opts": ["Trop de travail (too much work)", "Le froid (cold weather)", "Les moustiques (mosquitoes)", "L'eau sale (dirty water)"], "ans": 0, "explanation": "'Trop de travail cause la fatigue' — too much work causes fatigue."},
+          {"q": "How would you say 'mosquitoes cause malaria'?", "opts": ["Les moustiques causer le paludisme", "Les moustiques causent le paludisme", "Le moustique causent le paludisme", "Les moustiques cause le paludisme"], "ans": 1, "explanation": "'Les moustiques' is a plural subject, so 'causer' must be conjugated: 'causent.' Also note 'les moustiques' (plural), not 'le moustique.'"},
+          {"q": "What is the correct conjugation of 'causer' for 'les moustiques' (plural subject)?", "opts": ["causent", "cause", "causez", "causons"], "ans": 0, "explanation": "'Les moustiques' is a third-person plural subject (ils = les moustiques): regular -ER ending '-ent' → causent."},
+          {"q": "Understanding an illness's cause is compared to ___ in this week's analogy.", "opts": ["ignoring the source of a problem entirely", "knowing only that a problem exists, with no further insight", "understanding why a fire started, not just that a building is burning", "an unrelated random comparison"], "ans": 2, "explanation": "Knowing 'les moustiques causent le paludisme' tells you the SOURCE, not just the problem — the same way knowing why a fire started helps you prevent the next one."},
+          {"q": "A general lack of hygiene causes ___.", "opts": ["no illnesses at all", "only the flu specifically", "plusieurs maladies (several illnesses)", "only malaria specifically"], "ans": 2, "explanation": "'L'absence générale d'hygiène cause plusieurs maladies' — a lack of hygiene causes several illnesses, not just one specific type."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'mosquitoes cause malaria,' 'dirty water causes cholera,' 'cold weather causes flu.'", "markingGuide": "1.67 marks per correctly translated sentence (3 sentences, 5 total)."},
+      {"question": "Associez chaque cause à la maladie correcte: les moustiques, l'eau sale, la nourriture gâtée, le froid.", "markingGuide": "1.25 marks per correctly matched cause-illness pair (4 pairs, 5 total)."},
+      {"question": "Conjuguez 'causer' au présent avec tous les pronoms sujets.", "markingGuide": "0.83 marks per correctly conjugated form (6 forms, 5 total)."},
+      {"question": "Expliquez pourquoi comprendre la cause d'une maladie est important, en utilisant l'analogie du feu ou votre propre exemple.", "markingGuide": "Clear explanation with a valid supporting example (5, holistic)."},
+      {"question": "Rédaction: écrivez trois phrases expliquant les causes de trois maladies différentes.", "markingGuide": "Three grammatically correct, well-conjugated cause-and-effect sentences (5, holistic)."}
+    ]
+  }
