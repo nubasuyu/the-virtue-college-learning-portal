@@ -1,0 +1,61 @@
+{
+    "course": "JSS2 French Language",
+    "term": "First Term",
+    "week": 6,
+    "topic": "Exprimer l'Opinion (Expressing Opinion)",
+    "subUnits": [
+      {
+        "id": "jss2_french_t1_w6_su1",
+        "title": "6.1 Expressions pour Donner son Opinion",
+        "notes": [
+          "Expressions pour Donner son Opinion",
+          "",
+          "By the end of this lesson, you will be able to: express personal opinions using standard French phrases.",
+          "",
+          "Key Concepts:",
+          "1. Three Opinion-Introducing Phrases:",
+          "   - JE CROIS QUE... (I believe that...) — followed by 'que' before the opinion",
+          "   - JE PENSE QUE... (I think that...) — followed by 'que' before the opinion",
+          "   - À MON AVIS... (in my opinion...) — stands ALONE, NO 'que' needed",
+          "",
+          "2. How They Signal Opinion:",
+          "   - These phrases signal to the listener that a PERSONAL VIEWPOINT is about to follow, not a stated fact.",
+          "   - Je crois que c'est une bonne idée. (I believe that it's a good idea.)",
+          "   - À mon avis, c'est bon. (In my opinion, it's good.)",
+          "",
+          "Formula Box:",
+          "   je crois QUE... | je pense QUE... → 'que' is REQUIRED",
+          "   à mon avis... → NO 'que' — stands alone, directly followed by opinion",
+          "",
+          "Analogy:",
+          "   Opinion phrases are like different doorways into the SAME room (your personal viewpoint): 'je crois que' and 'je pense que' have a small step ('que') you must cross before entering, while 'à mon avis' is a doorway you can walk straight through with no extra step.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Forgetting 'que' after 'je crois' or 'je pense' (e.g., 'je pense c'est bon' instead of 'je pense QUE c'est bon').",
+          "   - Incorrectly adding 'que' after 'à mon avis,' which stands alone."
+        ],
+        "diagramDescriptions": ["Three doorway diagram: je crois que / je pense que (with step) vs. à mon avis (straight through)", "Opinion phrase formula box with examples"],
+        "videoId": "",
+        "youtubeQuery": "JSS2 French Language opinion expressions je pense que à mon avis site:youtube.com",
+        "quiz": [
+          {"q": "What does 'je crois que' mean?", "opts": ["I forget that", "I hate that", "I believe that", "I see that"], "ans": 2, "explanation": "'Je crois que' means I believe that — followed by 'que' before stating the opinion."},
+          {"q": "What does 'je pense que' mean?", "opts": ["I think that", "I hate that", "I like that", "I know that"], "ans": 0, "explanation": "'Je pense que' means I think that — followed by 'que' before stating the opinion."},
+          {"q": "What does 'à mon avis' mean?", "opts": ["At my school", "By my side", "In my opinion", "In my house"], "ans": 2, "explanation": "'À mon avis' means in my opinion — it stands alone with NO 'que' following."},
+          {"q": "Which word follows 'je crois' and 'je pense' before stating the opinion?", "opts": ["de", "à", "no word is needed", "que"], "ans": 3, "explanation": "Both 'je crois' and 'je pense' must be followed by 'que' before the opinion itself."},
+          {"q": "Does 'à mon avis' need 'que' before the opinion?", "opts": ["Only when speaking, not writing", "Yes, always", "No, it stands alone", "Only in formal writing"], "ans": 2, "explanation": "'À mon avis' stands ALONE — 'que' is never needed after it."},
+          {"q": "How would you say 'I believe that it is a good idea'?", "opts": ["Je crois que c'est une bonne idée", "Je crois à c'est une bonne idée", "Je crois de c'est une bonne idée", "Je crois c'est une bonne idée"], "ans": 0, "explanation": "'Je crois QUE c'est une bonne idée' — 'que' is required between 'crois' and the opinion."},
+          {"q": "How would you say 'in my opinion, it's good'?", "opts": ["À mon avis, c'est bon", "Mon avis c'est bon", "À mon avis de c'est bon", "À mon avis que c'est bon"], "ans": 0, "explanation": "'À mon avis, c'est bon' — no 'que' after 'à mon avis.' The opinion follows directly."},
+          {"q": "Opinion-introducing phrases are compared to ___ in this week's analogy.", "opts": ["doorways leading to entirely different rooms", "an unrelated random comparison", "different doorways leading into the same room", "a single locked door with no entry"], "ans": 2, "explanation": "All three phrases lead to the same destination (your personal opinion), but 'je crois/pense que' have an extra step ('que') while 'à mon avis' lets you walk straight in."},
+          {"q": "These phrases signal to the listener that ___.", "opts": ["a personal viewpoint is about to follow, not a stated fact", "nothing meaningful is about to be said", "the speaker is about to change the subject entirely", "a definite, undisputed fact is about to follow"], "ans": 0, "explanation": "Opinion phrases clearly mark what follows as a personal viewpoint, distinguishing it from objective fact."},
+          {"q": "Which of these phrases requires 'que' before the opinion?", "opts": ["both phrases never use 'que'", "neither phrase requires 'que'", "je pense", "à mon avis"], "ans": 2, "explanation": "'Je pense que...' requires 'que.' 'À mon avis' stands alone without 'que.'"}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez les trois expressions d'opinion apprises cette semaine.", "markingGuide": "1.67 marks per correctly translated expression (3 expressions, 5 total)."},
+      {"question": "Expliquez la différence grammaticale entre 'je pense que' et 'à mon avis.'", "markingGuide": "Clear, accurate explanation of the 'que' distinction (5, holistic)."},
+      {"question": "Traduisez: 'I believe that French is interesting. In my opinion, it's a good idea.'", "markingGuide": "2.5 marks each for a correctly translated, correctly structured sentence."},
+      {"question": "Corrigez cette phrase incorrecte: 'Je pense c'est bon.'", "markingGuide": "Correct identification of the missing 'que,' with corrected sentence (5, holistic)."},
+      {"question": "Rédaction: donnez votre opinion sur l'apprentissage du français, en deux phrases complètes utilisant deux expressions différentes.", "markingGuide": "Two grammatically correct sentences using two different opinion phrases (5, holistic)."}
+    ]
+  }

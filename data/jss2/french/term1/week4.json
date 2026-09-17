@@ -1,0 +1,66 @@
+{
+    "course": "JSS2 French Language",
+    "term": "First Term",
+    "week": 4,
+    "topic": "Juger les Attitudes des Gens (Judging People's Attitudes)",
+    "subUnits": [
+      {
+        "id": "jss2_french_t1_w4_su1",
+        "title": "4.1 Vocabulaire pour Juger les Attitudes",
+        "notes": [
+          "Vocabulaire pour Juger les Attitudes",
+          "",
+          "By the end of this lesson, you will be able to: use vocabulary to describe and judge people's attitudes and behaviour.",
+          "",
+          "Key Concepts:",
+          "1. Attitude-Judging Vocabulary:",
+          "   - méchant(e) (mean/naughty — feminine adds -e: méchante)",
+          "   - horrible (horrible — UNCHANGING, already ends in '-e')",
+          "   - beau/belle (handsome/beautiful — fully IRREGULAR, reviewed from JSS1)",
+          "   - amusant(e) (amusing — feminine adds -e: amusante)",
+          "   - souriant(e) (smiling — feminine adds -e: souriante)",
+          "   - drôle (funny — UNCHANGING, already ends in '-e')",
+          "",
+          "2. Using This Vocabulary Appropriately:",
+          "   - Used to REACT to or EVALUATE someone's behaviour honestly.",
+          "   - Il est méchant (he is mean/naughty) — describing behaviour in context.",
+          "   - Elle est drôle (she is funny) — describing someone who is genuinely amusing.",
+          "   - Choose evaluative words THOUGHTFULLY — strongly negative words can sound harsh if misused.",
+          "",
+          "Formula Box:",
+          "   Unchanging (already end in -e): horrible | drôle",
+          "   Regular +e: méchant → méchante | amusant → amusante | souriant → souriante",
+          "   Irregular: beau → belle",
+          "",
+          "Analogy:",
+          "   Choosing the right word to judge someone's attitude is like choosing the right seasoning for a dish — a LITTLE goes a long way, and the WRONG amount can leave an unintended, overly harsh impression.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Applying the standard '+e' feminine rule to 'horrible' or 'drôle' — these are UNCHANGING.",
+          "   - Using strongly negative judgement words too casually, without considering how harsh they may sound."
+        ],
+        "diagramDescriptions": ["Vocabulary grid: attitude adjectives with masculine/feminine forms and unchanging markers", "Seasoning analogy: mild, moderate, and strong evaluative words on a scale"],
+        "videoId": "",
+        "youtubeQuery": "JSS2 French Language attitude vocabulary méchant drôle adjectives site:youtube.com",
+        "quiz": [
+          {"q": "What does 'méchant(e)' mean?", "opts": ["Mean/naughty", "Beautiful", "Kind", "Funny"], "ans": 0, "explanation": "'Méchant(e)' means mean or naughty — feminine adds -e: méchante."},
+          {"q": "What does 'horrible' mean?", "opts": ["Kind", "Horrible", "Wonderful", "Funny"], "ans": 1, "explanation": "'Horrible' means horrible — and it is UNCHANGING (already ends in '-e')."},
+          {"q": "What does 'amusant(e)' mean?", "opts": ["Horrible", "Amusing", "Mean", "Sad"], "ans": 1, "explanation": "'Amusant(e)' means amusing or entertaining — feminine adds -e: amusante."},
+          {"q": "What does 'drôle' mean?", "opts": ["Sad", "Horrible", "Mean", "Funny"], "ans": 3, "explanation": "'Drôle' means funny — and it is UNCHANGING (already ends in '-e')."},
+          {"q": "Does 'horrible' change between masculine and feminine forms?", "opts": ["Yes, it becomes 'horribel'", "Yes, it becomes 'horriblee'", "Yes, but only in speech", "No, it stays the same"], "ans": 3, "explanation": "'Horrible' already ends in '-e' and is therefore UNCHANGING — same for both masculine and feminine."},
+          {"q": "Does 'drôle' change between masculine and feminine forms?", "opts": ["Yes, it becomes 'drôl'", "No, it stays the same", "Yes, but only in the plural", "Yes, it becomes 'drôlee'"], "ans": 1, "explanation": "'Drôle' already ends in '-e' and is UNCHANGING — same form for both genders."},
+          {"q": "How would you say 'he is naughty'?", "opts": ["Il est méchant", "Il est méchante", "Il est méchants", "Il a méchant"], "ans": 0, "explanation": "'Il est méchant' — masculine form, no change needed for a masculine subject."},
+          {"q": "How would you say 'she is funny'?", "opts": ["Elle est drôle", "Elle a drôle", "Elle est drôlee", "Elle est drôles"], "ans": 0, "explanation": "'Elle est drôle' — 'drôle' is unchanging, so the same form is used for both genders."},
+          {"q": "This week's analogy compares choosing evaluative words carefully to ___.", "opts": ["ignoring seasoning entirely", "choosing the right seasoning for a dish", "a choice with no real consequence", "an unrelated random comparison"], "ans": 1, "explanation": "Like seasoning, evaluative vocabulary must be chosen carefully — too much or the wrong word can leave an unintended, overly harsh impression."},
+          {"q": "Using strongly negative judgement words casually can result in ___.", "opts": ["a guaranteed accurate description every time", "always a positive, warm impression regardless", "an unintended, overly harsh impression", "no effect on how a statement is perceived"], "ans": 2, "explanation": "Words like 'méchant' and 'horrible' carry real weight — using them too casually can make even a mild observation sound harsh."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'mean/naughty,' 'horrible,' 'amusing,' 'funny,' 'smiling.'", "markingGuide": "1 mark per correctly translated term (5 total)."},
+      {"question": "Lesquels des mots appris cette semaine restent invariables au féminin ? Expliquez pourquoi.", "markingGuide": "Correct identification of unchanging words (2.5); clear explanation (2.5)."},
+      {"question": "Traduisez: 'He is naughty. She is funny and amusing.'", "markingGuide": "2.5 marks each for a correctly translated, correctly agreed sentence."},
+      {"question": "Expliquez pourquoi il faut choisir avec soin les mots pour juger l'attitude de quelqu'un.", "markingGuide": "Clear, thoughtful explanation (5, holistic)."},
+      {"question": "Rédaction: décrivez une situation où quelqu'un a été drôle ou amusant, en deux phrases complètes.", "markingGuide": "Two grammatically correct sentences using appropriate vocabulary (5, holistic)."}
+    ]
+  }

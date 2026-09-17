@@ -1,0 +1,68 @@
+{
+    "course": "JSS2 French Language",
+    "term": "First Term",
+    "week": 9,
+    "topic": "Les Désavantages de la Vie Rurale (Disadvantages of Rural Life)",
+    "subUnits": [
+      {
+        "id": "jss2_french_t1_w9_su1",
+        "title": "9.1 Les Difficultés de la Vie Rurale",
+        "notes": [
+          "Les Difficultés de la Vie Rurale",
+          "",
+          "By the end of this lesson, you will be able to: describe disadvantages and difficulties of rural life using appropriate vocabulary.",
+          "",
+          "Key Concepts:",
+          "1. Rural Difficulty Vocabulary:",
+          "   - pas d'hôpital de standard (no proper/standard hospital)",
+          "   - pas beaucoup de voitures pour se déplacer (not many vehicles to get around)",
+          "   - pas d'électricité (no electricity — reviewed from Week 8)",
+          "   - pas d'école standard (no proper/standard school)",
+          "   - la souffrance (suffering) — the general experience of rural hardship",
+          "",
+          "2. A New, More Nuanced Expression — 'Pas Beaucoup De':",
+          "   - PAS BEAUCOUP DE (not many / not a lot of) combines 'pas' + 'beaucoup de' for a MODERATE lack.",
+          "   - PAS DE = NONE AT ALL (completely empty bucket)",
+          "   - PAS BEAUCOUP DE = NOT MANY, but perhaps some exist (bucket with just a little)",
+          "   - Using the right expression matters for accuracy — real situations are rarely absolute.",
+          "",
+          "3. Elision Reminder:",
+          "   - 'hôpital' begins with a silent 'h' behaving like a vowel → pas D'hôpital (not 'pas de hôpital')",
+          "",
+          "Formula Box:",
+          "   pas de + noun = none at all: pas d'électricité",
+          "   pas beaucoup de + noun = not many, perhaps some: pas beaucoup de voitures",
+          "   Elision: silent 'h' acts like a vowel → pas d'hôpital",
+          "",
+          "Analogy:",
+          "   'Pas de' and 'pas beaucoup de' are like two different water levels in a bucket: 'PAS DE' describes a COMPLETELY EMPTY bucket (none at all), while 'PAS BEAUCOUP DE' describes a bucket with just a LITTLE water (not many, but not entirely empty).",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Using 'pas de' when a MODERATE lack ('pas beaucoup de') would more accurately describe the situation.",
+          "   - Forgetting the elision rule with 'hôpital': 'pas d'hôpital,' never 'pas de hôpital.'"
+        ],
+        "diagramDescriptions": ["Two bucket diagram: empty (pas de) vs. nearly empty (pas beaucoup de)", "Vocabulary table of rural difficulties with quantity expressions"],
+        "videoId": "",
+        "youtubeQuery": "JSS2 French Language disadvantages rural life pas de pas beaucoup de site:youtube.com",
+        "quiz": [
+          {"q": "What does 'pas d'hôpital de standard' mean?", "opts": ["Many hospitals", "A wonderful hospital", "A small hospital", "No proper/standard hospital"], "ans": 3, "explanation": "'Pas d'hôpital de standard' means no proper or standard hospital — a common disadvantage of rural areas."},
+          {"q": "What does 'pas beaucoup de voitures' mean?", "opts": ["Only new vehicles", "Not many vehicles", "No vehicles at all", "Too many vehicles"], "ans": 1, "explanation": "'Pas beaucoup de voitures' means not many vehicles — a MODERATE lack (some may exist, but not many)."},
+          {"q": "What does 'pas d'école standard' mean?", "opts": ["No proper/standard school", "Only private schools", "An excellent school", "Many schools"], "ans": 0, "explanation": "'Pas d'école standard' means no proper or standard school — another rural disadvantage."},
+          {"q": "What is the difference between 'pas de' and 'pas beaucoup de'?", "opts": ["'Pas de' means none at all; 'pas beaucoup de' means not many, but perhaps some", "'Pas de' means many; 'pas beaucoup de' means none", "They mean exactly the same thing", "There is no real difference in meaning"], "ans": 0, "explanation": "'Pas de' = complete absence (none). 'Pas beaucoup de' = moderate lack (not many, but perhaps a few exist)."},
+          {"q": "Which phrase describes a 'completely empty bucket' in this week's analogy?", "opts": ["beaucoup de", "peu de", "pas de", "pas beaucoup de"], "ans": 2, "explanation": "'Pas de' = completely empty bucket — none at all."},
+          {"q": "Which phrase describes a bucket with 'just a little water' in this week's analogy?", "opts": ["pas beaucoup de", "pas de", "beaucoup de", "trop de"], "ans": 0, "explanation": "'Pas beaucoup de' = bucket with just a little water — not many, but not entirely empty either."},
+          {"q": "How would you say 'there is no standard hospital'?", "opts": ["Il n'y a pas d'hôpital de standard", "Il y a un hôpital de standard", "Il n'y a pas beaucoup d'hôpital", "Il n'y a pas de hôpital de standard"], "ans": 0, "explanation": "'Il n'y a pas d'hôpital de standard' — correct negation with elision ('d'hôpital' not 'de hôpital')."},
+          {"q": "Why does 'hôpital' take 'd'' rather than 'de'?", "opts": ["It begins with a silent 'h' that behaves like a vowel", "Because 'hôpital' is plural", "All words about buildings take 'd''", "This is a random exception with no rule"], "ans": 0, "explanation": "'Hôpital' begins with a silent 'h' that acts like a vowel for elision purposes — 'de' contracts to 'd'.'"},
+          {"q": "Distinguishing 'pas de' from 'pas beaucoup de' allows for ___.", "opts": ["more nuanced, accurate description of real-world situations", "no real improvement in description", "only formal writing, never spoken French", "confusion, since both mean the same thing"], "ans": 0, "explanation": "Real situations are rarely absolute — choosing the right expression allows more accurate, honest description."},
+          {"q": "What does 'la souffrance' mean?", "opts": ["Suffering", "Comfort", "Wealth", "Happiness"], "ans": 0, "explanation": "'La souffrance' means suffering — used to describe the general hardship of rural life."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'no proper hospital,' 'not many vehicles,' 'no proper school.'", "markingGuide": "1.67 marks per correctly translated phrase (3 phrases, 5 total)."},
+      {"question": "Expliquez la différence entre 'pas de' et 'pas beaucoup de,' avec un exemple de chaque.", "markingGuide": "Clear explanation (3); valid examples for both (2)."},
+      {"question": "Traduisez: 'There is no electricity. There are not many hospitals. There is no standard school.'", "markingGuide": "1.67 marks per correctly translated sentence (3 sentences, 5 total)."},
+      {"question": "Expliquez pourquoi 'hôpital' prend 'd'' et non 'de.'", "markingGuide": "Clear, accurate explanation of the elision rule (5, holistic)."},
+      {"question": "Rédaction: décrivez trois difficultés de la vie rurale, en utilisant 'pas de' ou 'pas beaucoup de' de manière appropriée.", "markingGuide": "Three grammatically correct sentences using the quantity expressions appropriately and accurately (5, holistic)."}
+    ]
+  }

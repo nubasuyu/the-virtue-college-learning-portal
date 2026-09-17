@@ -1,0 +1,66 @@
+{
+    "course": "JSS2 French Language",
+    "term": "First Term",
+    "week": 10,
+    "topic": "Les Avantages de la Vie Rurale (Advantages of Rural Life)",
+    "subUnits": [
+      {
+        "id": "jss2_french_t1_w10_su1",
+        "title": "10.1 Les Avantages et les Plaisirs de la Vie Rurale",
+        "notes": [
+          "Les Avantages et les Plaisirs de la Vie Rurale",
+          "",
+          "By the end of this lesson, you will be able to: describe advantages and enjoyable aspects of rural life using appropriate vocabulary.",
+          "",
+          "Key Concepts:",
+          "1. Rural Advantage Vocabulary:",
+          "   - beaucoup de nourriture (a lot of food — reviewed)",
+          "   - beaucoup de viande à manger (a lot of meat to eat)",
+          "   - beaucoup de fruits et des légumes (a lot of fruits and vegetables)",
+          "   - 'BEAUCOUP DE' used POSITIVELY now — describing ABUNDANCE rather than lack.",
+          "",
+          "2. Mais (But) — Connecting Contrast:",
+          "   - 'MAIS' (but) is used to smoothly connect a DISADVANTAGE with an ADVANTAGE.",
+          "   - Il n'y a pas d'électricité, mais il y a beaucoup de nourriture.",
+          "   - (There is no electricity, but there is a lot of food.)",
+          "",
+          "3. Balanced, Thoughtful Discussion:",
+          "   - A FAIR discussion of rural life considers BOTH the disadvantages (Week 9) AND the advantages (this week).",
+          "   - Few real situations are entirely good or entirely bad — balance matters.",
+          "",
+          "Formula Box:",
+          "   beaucoup de + advantage: beaucoup de nourriture | beaucoup de viande | beaucoup de fruits",
+          "   [disadvantage] + mais + [advantage]: il n'y a pas d'électricité, mais il y a beaucoup de nourriture",
+          "",
+          "Analogy:",
+          "   Presenting BOTH advantages and disadvantages is like showing BOTH sides of a coin: a coin shown ONLY heads-up gives an incomplete, potentially misleading picture — showing BOTH sides gives a truthful, balanced understanding of the real complexity.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Presenting only ONE side of rural life when asked for a balanced, complete picture.",
+          "   - Forgetting to use 'mais' to smoothly connect contrasting ideas."
+        ],
+        "diagramDescriptions": ["Both-sides-of-a-coin analogy diagram: disadvantages (heads) + advantages (tails)", "Sentence template: [disadvantage] + mais + [advantage]"],
+        "videoId": "",
+        "youtubeQuery": "JSS2 French Language advantages rural life beaucoup de mais balanced description site:youtube.com",
+        "quiz": [
+          {"q": "What does 'beaucoup de viande à manger' mean?", "opts": ["A little meat", "Rotten meat", "No meat at all", "A lot of meat to eat"], "ans": 3, "explanation": "'Beaucoup de viande à manger' means a lot of meat to eat — one of the genuine advantages of rural life."},
+          {"q": "What does 'beaucoup de fruits et des légumes' mean?", "opts": ["A lot of fruits and vegetables", "Only vegetables, no fruit", "A little fruit only", "No fruits or vegetables"], "ans": 0, "explanation": "'Beaucoup de fruits et des légumes' means a lot of fruits and vegetables — fresh, plentiful produce."},
+          {"q": "What does 'mais' mean?", "opts": ["But", "Or", "Because", "And"], "ans": 0, "explanation": "'Mais' means but — used to connect a disadvantage and an advantage in a balanced description."},
+          {"q": "How would you connect a disadvantage and an advantage using 'mais'?", "opts": ["Il n'y a pas d'électricité, mais il y a beaucoup de nourriture", "Il y a mais pas de nourriture", "Il n'y a pas d'électricité de nourriture", "Il n'y a pas d'électricité et il y a beaucoup de nourriture"], "ans": 0, "explanation": "Correct: 'Il n'y a pas d'électricité, MAIS il y a beaucoup de nourriture.' 'Mais' contrasts the two ideas."},
+          {"q": "This week balances last week's focus on ___.", "opts": ["difficulties, by presenting genuine advantages", "advantages, by presenting further advantages", "nothing from the previous week", "an unrelated topic entirely"], "ans": 0, "explanation": "Week 10 (advantages) deliberately balances Week 9 (disadvantages), completing a fair, two-sided picture of rural life."},
+          {"q": "Presenting both sides of rural life is compared to ___ in this week's analogy.", "opts": ["showing only one side of a coin", "an unrelated random comparison", "hiding a coin entirely", "showing both sides of a coin"], "ans": 3, "explanation": "Just as both sides of a coin give the complete picture, both advantages and disadvantages give an honest, balanced view."},
+          {"q": "A genuinely balanced discussion considers ___.", "opts": ["both advantages and disadvantages fairly", "neither advantages nor disadvantages", "only negative aspects, ignoring any positives", "only positive aspects, ignoring any negatives"], "ans": 0, "explanation": "A balanced discussion presents both the genuine hardships AND the genuine pleasures — respecting the real complexity."},
+          {"q": "Why might abundant food be considered an advantage of rural life?", "opts": ["This has no connection to rural life", "Rural areas never produce any food", "Access to fresh, plentiful local produce and meat", "Food is always scarce in rural areas"], "ans": 2, "explanation": "Rural areas often have access to fresh, locally grown produce and meat — a genuine advantage over urban areas."},
+          {"q": "Practising balanced comparison in French builds ___.", "opts": ["confusion about the topic", "only language skill, with no connection to reasoning", "both language skill and a habit of clear, fair thinking", "no useful skill at all"], "ans": 2, "explanation": "Balanced comparison builds both French language skill (vocabulary, mais) and the intellectual habit of fair, nuanced thinking."},
+          {"q": "The 'beaucoup de' structure, applied positively this week, describes ___.", "opts": ["uncertainty about quantity", "genuine abundance", "complete absence", "a moderate lack"], "ans": 1, "explanation": "This week 'beaucoup de' is used positively — describing genuine abundance (food, meat, fruits) rather than difficulties."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'a lot of food,' 'a lot of meat,' 'a lot of fruits and vegetables.'", "markingGuide": "1.67 marks per correctly translated phrase (3 phrases, 5 total)."},
+      {"question": "Traduisez, en utilisant 'mais': 'There is no electricity, but there is a lot of food.'", "markingGuide": "Correct, complete, correctly structured translation (5, holistic)."},
+      {"question": "Expliquez pourquoi il est important de présenter à la fois les avantages ET les désavantages d'un sujet.", "markingGuide": "Clear, thoughtful explanation (5, holistic)."},
+      {"question": "Rédigez TROIS phrases sur les avantages de la vie rurale, en utilisant 'beaucoup de.'", "markingGuide": "1.67 marks per correctly formed sentence using 'beaucoup de' (3 sentences, 5 total)."},
+      {"question": "Rédaction: rédigez un court paragraphe (4-5 phrases) présentant une vue équilibrée de la vie rurale, avec des avantages ET des désavantages, connectés par 'mais.'", "markingGuide": "A balanced paragraph with both advantages and disadvantages, correctly connected with 'mais' (5, holistic)."}
+    ]
+  }

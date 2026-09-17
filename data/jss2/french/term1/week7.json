@@ -1,0 +1,66 @@
+{
+    "course": "JSS2 French Language",
+    "term": "First Term",
+    "week": 7,
+    "topic": "Savoir S'excuser (Knowing How to Apologise)",
+    "subUnits": [
+      {
+        "id": "jss2_french_t1_w7_su1",
+        "title": "7.1 Expressions pour S'excuser et Demander Poliment",
+        "notes": [
+          "Expressions pour S'excuser et Demander Poliment",
+          "",
+          "By the end of this lesson, you will be able to: apologise and make polite requests using standard French expressions.",
+          "",
+          "Key Concepts:",
+          "1. Apology and Attention-Getting Expressions (all FORMAL — using 'vous'):",
+          "   - pardon, monsieur/madame (excuse me, sir/ma'am)",
+          "   - excusez-moi, madame/monsieur/mademoiselle (excuse me — formal 'vous' form)",
+          "   - je m'excuse (I apologise / I'm sorry)",
+          "",
+          "2. Polite Request Expression:",
+          "   - s'il vous plaît (please, formal) — literally 'if it pleases you'",
+          "   - Used to MAKE a REQUEST politely, often after an apology phrase.",
+          "",
+          "3. Natural Combination Pattern:",
+          "   - A common conversational pattern combines an attention-getting apology with a polite request:",
+          "   - 'Pardon, monsieur. S'il vous plaît, où est la gare?' (Excuse me, sir. Please, where is the train station?)",
+          "   - Skipping the polite 'knock' can make a perfectly reasonable request feel abrupt or rude.",
+          "",
+          "Formula Box:",
+          "   Pardon, [monsieur/madame] + [request, s'il vous plaît]",
+          "   Excusez-moi, [madame/monsieur/mademoiselle] + [request]",
+          "   Je m'excuse — I apologise (standalone or before a request)",
+          "",
+          "Analogy:",
+          "   These polite expressions are like a gentle knock on a door before entering: 'pardon' or 'excusez-moi' politely announces your presence BEFORE you make your request — skipping this polite 'knock' can make even a reasonable request feel abrupt or rude.",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Making a request DIRECTLY without first getting the listener's attention politely.",
+          "   - Using the informal 'tu' version when addressing strangers or elders — 'excusez-moi' uses the formal 'vous' form."
+        ],
+        "diagramDescriptions": ["Natural pattern diagram: apology phrase + polite request", "Formal vs informal register chart for apology expressions"],
+        "videoId": "",
+        "youtubeQuery": "JSS2 French Language pardon excusez-moi s'il vous plaît apology polite request site:youtube.com",
+        "quiz": [
+          {"q": "What does 'pardon' mean, in this context?", "opts": ["Thank you", "Excuse me", "I love you", "Goodbye"], "ans": 1, "explanation": "'Pardon' means excuse me — used to politely get someone's attention before a request."},
+          {"q": "What does 'excusez-moi' mean?", "opts": ["Goodbye", "Please", "Thank you", "Excuse me"], "ans": 3, "explanation": "'Excusez-moi' means excuse me — using the formal 'vous' form ('excusez')."},
+          {"q": "What does 'je m'excuse' mean?", "opts": ["I like you", "I apologise/I'm sorry", "I thank you", "I forget"], "ans": 1, "explanation": "'Je m'excuse' means I apologise or I'm sorry — a reflexive expression."},
+          {"q": "What does 's'il vous plaît' mean?", "opts": ["Excuse me", "Thank you", "Goodbye", "Please (formal)"], "ans": 3, "explanation": "'S'il vous plaît' means please (formal) — literally 'if it pleases you,' using the formal 'vous.'"},
+          {"q": "What form of address does 'excusez-moi' use?", "opts": ["Formal (vous)", "Informal (tu)", "Neither; it has no form of address", "Only used with children"], "ans": 0, "explanation": "'Excusez-moi' uses the formal 'vous' form — appropriate for strangers, elders, and formal situations."},
+          {"q": "How would you politely ask a stranger for directions, starting with an apology?", "opts": ["Pardon, monsieur. Où est la gare, s'il vous plaît?", "Je suis la gare", "Où est la gare?", "Donne-moi la gare"], "ans": 0, "explanation": "The polite pattern: apology phrase ('pardon, monsieur') + request + 's'il vous plaît.'"},
+          {"q": "These polite expressions are compared to ___ in this week's analogy.", "opts": ["an unrelated random comparison", "kicking a door open with no warning", "a gentle knock on a door before entering", "ignoring the need for any polite signal"], "ans": 2, "explanation": "Just as a gentle knock respectfully signals 'may I come in?' before entering, apology phrases signal 'may I have your attention?' before a request."},
+          {"q": "Combining an apology phrase with a request is a ___ pattern in everyday French.", "opts": ["unrelated to politeness", "unusual, rarely used", "incorrect, and should be avoided", "natural, common"], "ans": 3, "explanation": "Combining an apology phrase with a polite request is a very natural, common pattern in everyday formal French interaction."},
+          {"q": "Making a request without first getting attention politely can come across as ___.", "opts": ["abrupt or rude", "perfectly polite regardless", "the only acceptable method", "unrelated to tone or politeness"], "ans": 0, "explanation": "Skipping the polite 'knock' (the apology phrase) can make even a reasonable request feel abrupt or rude in a formal context."},
+          {"q": "S'il vous plaît literally means ___.", "opts": ["'excuse my request'", "'if you please me'", "'thank you very much'", "'if it pleases you'"], "ans": 3, "explanation": "'S'il vous plaît' literally means 'if it pleases you' — a polite way of making a formal request."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'excuse me,' 'I apologise,' 'please' (formal).", "markingGuide": "1.67 marks per correctly translated expression (3 expressions, 5 total)."},
+      {"question": "Rédigez une phrase polie complète pour demander l'heure à un inconnu dans la rue.", "markingGuide": "A complete, appropriately polite, grammatically correct sentence (5, holistic)."},
+      {"question": "Expliquez pourquoi on combine souvent une expression d'excuse avec une demande polie en français.", "markingGuide": "Clear, accurate explanation (5, holistic)."},
+      {"question": "Traduisez: 'Excuse me, ma'am, give me some water, please.'", "markingGuide": "Correct, complete translation with correct formal register throughout (5, holistic)."},
+      {"question": "Rédigez un court dialogue (3-4 lignes) où quelqu'un s'excuse et fait une demande polie à un professeur.", "markingGuide": "A short, appropriate dialogue using correct formal expressions throughout (5, holistic)."}
+    ]
+  }

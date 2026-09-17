@@ -1,0 +1,68 @@
+{
+    "course": "JSS2 French Language",
+    "term": "First Term",
+    "week": 8,
+    "topic": "Les Caractéristiques de la Vie Rurale (Characteristics of Rural Life)",
+    "subUnits": [
+      {
+        "id": "jss2_french_t1_w8_su1",
+        "title": "8.1 Vocabulaire de la Vie Rurale et Expressions de Quantité",
+        "notes": [
+          "Vocabulaire de la Vie Rurale et Expressions de Quantité",
+          "",
+          "By the end of this lesson, you will be able to: describe key characteristics of rural (village) life using appropriate vocabulary.",
+          "",
+          "Key Concepts:",
+          "1. Rural Life Vocabulary:",
+          "   - les champs (the fields), la chasse (hunting)",
+          "   - les routes de sable (sandy/dirt roads), l'air frais (fresh air)",
+          "   - beaucoup de nourriture (lots of food), beaucoup de moustiques (lots of mosquitoes)",
+          "   - peu d'école (little schooling), peu de jeunes (few young people)",
+          "   - pas d'électricité (no electricity)",
+          "",
+          "2. Three Key Quantity Expressions:",
+          "   - BEAUCOUP DE (a lot of / many) + noun (no article)",
+          "   - PEU DE (little / few) + noun (no article)",
+          "   - PAS DE (no / none) + noun (no article)",
+          "   - IMPORTANT: NEVER insert 'le/la/les' between the quantity expression and the noun.",
+          "",
+          "3. Elision Rule:",
+          "   - 'DE' becomes 'D'' before a noun beginning with a vowel sound.",
+          "   - peu d'école (not 'peu de école'), pas d'électricité (not 'pas de électricité')",
+          "",
+          "Formula Box:",
+          "   beaucoup de + noun | peu de + noun | pas de + noun — NO article in between",
+          "   Before a vowel sound: beaucoup d' | peu d' | pas d'",
+          "",
+          "Analogy:",
+          "   'Beaucoup de,' 'peu de,' and 'pas de' are like three different-sized measuring cups: 'beaucoup de' is the LARGE cup (a lot of); 'peu de' is the SMALL cup (a little); 'pas de' is the EMPTY cup (none at all).",
+          "",
+          "Common Mistakes to Avoid:",
+          "   - Incorrectly inserting an article: 'beaucoup de LA nourriture' instead of 'beaucoup de nourriture.'",
+          "   - Forgetting elision: 'de' must become 'd'' before a vowel sound."
+        ],
+        "diagramDescriptions": ["Three measuring cups diagram labelled with beaucoup de / peu de / pas de", "Vocabulary grid of rural life items with quantity expressions"],
+        "videoId": "",
+        "youtubeQuery": "JSS2 French Language rural life vocabulary beaucoup de peu de pas de site:youtube.com",
+        "quiz": [
+          {"q": "What does 'les champs' mean?", "opts": ["The roads", "The fields", "The mosquitoes", "The forests"], "ans": 1, "explanation": "'Les champs' means the fields — a typical feature of rural/village life."},
+          {"q": "What does 'la chasse' mean?", "opts": ["Fishing", "Hunting", "Cooking", "Farming"], "ans": 1, "explanation": "'La chasse' means hunting — a common activity in rural areas."},
+          {"q": "What does 'les routes de sable' mean?", "opts": ["Paved roads", "Sandy/dirt roads", "Rivers", "Fields"], "ans": 1, "explanation": "'Les routes de sable' means sandy or dirt roads — characteristic of many rural villages."},
+          {"q": "What does 'l'air frais' mean?", "opts": ["Fresh food", "Fresh water", "Cool weather", "Fresh air"], "ans": 3, "explanation": "'L'air frais' means fresh air — one of the advantages of rural life."},
+          {"q": "What does 'beaucoup de' mean?", "opts": ["Some, but unspecified", "None at all", "A lot of/many", "A little/few"], "ans": 2, "explanation": "'Beaucoup de' means a lot of or many — the 'large cup' in this week's analogy."},
+          {"q": "What does 'peu de' mean?", "opts": ["A lot of", "Too much", "None at all", "Little/few"], "ans": 3, "explanation": "'Peu de' means little or few — the 'small cup' in this week's analogy."},
+          {"q": "What does 'pas de' mean?", "opts": ["Some", "A little", "No/none", "A lot of"], "ans": 2, "explanation": "'Pas de' means no or none — the 'empty cup' in this week's analogy."},
+          {"q": "What comes directly after 'beaucoup de,' 'peu de,' or 'pas de'?", "opts": ["A noun, with no article in between", "A verb", "Nothing; these phrases stand alone", "An article, then a noun"], "ans": 0, "explanation": "These quantity expressions are followed DIRECTLY by a noun — no 'le/la/les' article is inserted in between."},
+          {"q": "Why does 'de' become 'd'' in 'peu d'école'?", "opts": ["This is a random exception with no rule", "Because 'école' is plural", "Because 'peu' always requires this change", "Because 'école' begins with a vowel sound, triggering elision"], "ans": 3, "explanation": "'École' begins with a vowel sound, so 'de' must contract to 'd'' — this is the standard elision rule."},
+          {"q": "These quantity expressions are compared to ___ in this week's analogy.", "opts": ["a single, identical measuring cup", "an unrelated random comparison", "cups with no connection to quantity", "three different-sized measuring cups"], "ans": 3, "explanation": "Large (beaucoup de), small (peu de), and empty (pas de) — three different-sized measuring cups for describing quantity."}
+        ]
+      }
+    ],
+    "weeklyAssessment": [
+      {"question": "Traduisez: 'the fields,' 'hunting,' 'sandy roads,' 'fresh air.'", "markingGuide": "1.25 marks per correctly translated term (4 items, 5 total)."},
+      {"question": "Traduisez, en utilisant les expressions de quantité correctes: 'a lot of mosquitoes,' 'little schooling,' 'no electricity.'", "markingGuide": "1.67 marks per correctly translated, correctly formed expression (3 items, 5 total)."},
+      {"question": "Expliquez la règle de structure pour 'beaucoup de/peu de/pas de + nom,' avec un exemple.", "markingGuide": "Clear explanation of the no-article rule (2.5); valid example (2.5)."},
+      {"question": "Expliquez la règle d'élision de 'de' à 'd',' en donnant DEUX exemples.", "markingGuide": "Clear explanation of the elision rule (2.5); two valid examples (2.5)."},
+      {"question": "Rédaction: décrivez la vie rurale en trois phrases complètes, en utilisant le vocabulaire et les expressions de quantité de cette semaine.", "markingGuide": "Three grammatically correct sentences using rural vocabulary and quantity expressions (5, holistic)."}
+    ]
+  }
